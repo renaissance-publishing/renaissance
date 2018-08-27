@@ -80,7 +80,7 @@ Proceed through the following steps in order:
     -   no aptitudes higher than 35 (including racial bonus and tweak
         points) or lower than 5
     -   at least 200 CP spent on skills with the _combat _tag
-    -   at least 200 CP spent on skills that don\\'t have the _combat
+    -   at least 200 CP spent on skills that don't have the _combat
         _tag
 
 -   Global Limits
@@ -100,7 +100,7 @@ the same rules by which they spent CP during character creation. When
 spending rez, the character-creation limits no longer apply, although
 the glocal limits still do.
 
-We don\\'t have rules for training requirements, but gaining new skills
+We don't have rules for training requirements, but gaining new skills
 should generally make sense. Skills and classes can be justified either
 by events during the adventure, or effort undertaken during down-time.
 You usually cannot gain new Backgrounds, and there are some Traits that

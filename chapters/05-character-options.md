@@ -14,7 +14,7 @@ Some races have optional Traits, Classes, Powers or Backgrounds. You
 don't acquire them for free; rather, they are added to your list of
 options at character creation, and you may _optionally_ select them
 using all the normal rules for taking Traits, Classes, Powers or
-Backgrounds during character creation. (So, for example, Shifters don\\'t
+Backgrounds during character creation. (So, for example, Shifters don't
 _just have _the Animal Form trait, but they can purchase it during
 character creation for CP, just like any other trait they are eligible
 for.)
@@ -120,7 +120,7 @@ can just take the Trait if they want to).
 -   Descendants of Dragons interbreeding with Humans in the territories
     of the former Empire that were claimed by the red dragon Karrack
 
-    -   NB: I don\\'t want "humans can interbreed with everything else"
+    -   NB: I don't want "humans can interbreed with everything else"
         to be a thing; presumably, this worked with Dragons because
         Dragons are already shape-shifters.
 
@@ -246,9 +246,9 @@ can just take the Trait if they want to).
     other communities, and will go out of their way to make other races
     feel comfortable around them. Many Gnollish communities have two
     separate set of customs, one for "when other races are around," and
-    one for when they\\'re not. They are not secretive about this; they
+    one for when they're not. They are not secretive about this; they
     do this because, for example, they are evolved from carrion-eaters
-    and most other races don\\'t want to see Gnoll "cooking."
+    and most other races don't want to see Gnoll "cooking."
 -   Gnolls are aware of how savage they look, and many put quite a lot
     of effort into developing elaborate, refined personal styles to
     counter this effect.
@@ -487,7 +487,7 @@ can just take the Trait if they want to).
 -   Language Group: HHED (humanoid form); GR (hybrid form)
 -   _Hybrid_: You have two forms: Humanoid and Hybrid. The specific
     details of each form are fixed (that is, your Humanoid form (for
-    example) looks the same every time you shift to it; you can\\'t
+    example) looks the same every time you shift to it; you can't
     determine what your shape-shift forms look like each time you
     shift). You can shift between forms at will; changing forms is a
     Standard Action.

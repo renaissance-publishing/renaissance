@@ -2,7 +2,7 @@
 title: Core System Rules
 ---
 
-This system is inspired by Eclipse Phase\\'s D% system.
+This system is inspired by Eclipse Phase's D% system.
 
 ## Some Rule 0's
 
@@ -149,7 +149,7 @@ Checks are at the heart of Renaissance.
 
         -   For example, if someone impersonating a servant is trying to
             talk their way past a palace guard, then an opposed test
-            between the impostor\\'s Disguise and the guard's Read skills
+            between the impostor's Disguise and the guard's Read skills
             would be appropriate.
 
     -   Ordered Checks: Sometimes, it only makes sense to call for one
@@ -214,7 +214,7 @@ Checks are at the heart of Renaissance.
 ## Modifiers
 
 -   Being assisted: +10 per character assisting, maximum +30. Assisting
-    characters must have 10 Ranks in a useful skill (but it doesn\\'t
+    characters must have 10 Ranks in a useful skill (but it doesn't
     have to be the _same_ skill). The GM may rule that certain tests
     cannot be _assisted_. (Attack Tests cannot be assisted, but see the
     Soldier class.)
@@ -245,7 +245,7 @@ Checks are at the heart of Renaissance.
         creation: see also _Character Creation_.
 
 -   Clarification: you can also acquire specializations for field
-    skills, for example:\\
+    skills, for example:
     Art: Painting \[Landscapes], where Art is a field skill, Painting
     is the field, and \[Landscapes] is the specialization.
 -   Difficulty Modifiers
@@ -324,7 +324,7 @@ Types of actions
         -   So, for example, if you maintain three Sustained Actions,
             you take a -20 penalty to all tests.
 
-    -   Sustain actions don\\'t have a specific upper limit for how long
+    -   Sustain actions don't have a specific upper limit for how long
         you can maintain them, but your GM might not allow you to
         maintain them for more than a reasonable amount of time, or
         might require additional checks or impose additional
@@ -519,7 +519,7 @@ Combat is a special case of Turn Order play, using the following rules:
         -   Attacker MoS > 60: +5 more DV (+10 DV total)
         -   Attacker critical success:s
 
-            -   ~~ignore defender\\'s armor.~~ This might be a little
+            -   ~~ignore defender's armor.~~ This might be a little
                 strong; they did away with this in EP2, for example. And
                 I might also add rules for deliberately targeting a weak
                 spot, which would make this sort of redundant.
@@ -626,10 +626,10 @@ Combat is a special case of Turn Order play, using the following rules:
 ### Armor and Armor Penetration
 
 -   Armor and Armor Penetration: if the defender has Armor, subtract
-    their (total) Armor Rating from the attack\\'s DV. However, if the
+    their (total) Armor Rating from the attack's DV. However, if the
     attack has Armor Penetration (AP) -- usually because the weapon in
     use has armor penetration -- subtract the Armor Penetration from the
-    Armor. Armor Penetration and Damage Values can\\'t be negative.
+    Armor. Armor Penetration and Damage Values can't be negative.
 
     -   Damage inflicted is then: DV -- (Armor -- Armor Penetration)
 
@@ -1011,8 +1011,8 @@ We use the same rules for taking damage, regardless of if the damage is
 inflicted by a weapon attack, a disease, or something else.
 
 Characters who are injured receive Damage, in an amount given by the
-source\\'s Damage Value (DV). (If you are attacked by a weapon, this
-would be the weapon\\'s DV, for example.) When the amount of damage that
+source's Damage Value (DV). (If you are attacked by a weapon, this
+would be the weapon's DV, for example.) When the amount of damage that
 you have taken equals your DUR, you are disabled; you are too badly
 injured to take action, and likely unconscious. When the amount of
 damage that you have taken reaches your Death Rating (DR), your

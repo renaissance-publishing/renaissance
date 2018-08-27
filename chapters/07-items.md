@@ -10,10 +10,10 @@ armor would be a medium item, or a skill kit (see below). Finally, a
 Major item plays a major roll in defining a character; this might
 include a magic weapon, an heirloom, a shop or a plot of land.
 
-We don\\'t have particular _magic item_ rules; like powers, major items
+We don't have particular _magic item_ rules; like powers, major items
 are intended to be worked out between the GM and the player.
 
-It\\'s worth noting that this game is intended to be less gear-focused
+It's worth noting that this game is intended to be less gear-focused
 than other fantasy adventure games (that is, for example, D&D). The
 intent is that a character is mostly defined by their Skills first, and
 there-after by their Traits, Race, Backgrounds, Classes and Powers.
@@ -301,13 +301,13 @@ character suffers a -10 penalty to all physical actions. Other affects
 
 -   associated with a specific skill
 
-    -   some skills can\\'t be practiced _without_ a skill kit
+    -   some skills can't be practiced _without_ a skill kit
 
 -   have the tools useful to perform that skill
 -   Note: when you buy a skill kit, you may specify three Minor items
     that the kit definitely contains.
 
-    -   You don\\'t have to do this, but it can be useful for declaring
+    -   You don't have to do this, but it can be useful for declaring
         that you _definitely_ have a specific item
     -   for example, with a Craft: Blacksmithing kit, you might specify
         that it _definitely_ contains a blacksmithing hammer.

@@ -10,7 +10,7 @@ The continent
     Plain).
 
     -   Named for how heavily forested it is.
-    -   "Forrest\\'s Spine" range in middle, two long plains sloping to
+    -   "Forrest's Spine" range in middle, two long plains sloping to
         sea on either side
     -   alt: World's Spine or Worldspine. Need a better name than
         Forrest Spine.
@@ -62,7 +62,7 @@ Distant History
         territories; exports knowledge, culture and language
 
 -   Dragon Karrach leads rebellion. Claims foothills on Eastern side of
-    world-spine, cuts off most of the Empire\\'s territory from Three
+    world-spine, cuts off most of the Empire's territory from Three
     Cities (~150 years before first Charter)
 -   Former Imperial territory continues to grow, but suffers power
     vacuum.
@@ -639,7 +639,7 @@ Language Outline and Rules
     -   many different regional languages
     -   Complicated by the fact that not all races can speak
         each-others' language (c.f. Gnolls and Humans cannot make the
-        same sounds, and thus cannot speak each-others\\' languages)
+        same sounds, and thus cannot speak each-others' languages)
 
 -   Language Groups:
 
@@ -861,7 +861,7 @@ Spirits with whom they can do business.
 
 ## Manifestations
 
--   many spirits dwell in or near their basin (esp. if it\\'s a region)
+-   many spirits dwell in or near their basin (esp. if it's a region)
 
     -   that is, in the physical world, and not in some other "realm"
     -   may not physically manifest, however; they are diffuse in the
@@ -882,9 +882,9 @@ mortals are sometimes granted places as Spirits after death (as opposed
 to passing into the Realm of the Dead). In principle, the
 formerly-mortal Spirit then works like any other Spirit, and can act as
 a free agent; Saint refers specifically to those spirits that remain
-loyal to some other Spirit\\'s cause. In practice, most Spirits do not
+loyal to some other Spirit's cause. In practice, most Spirits do not
 "sanctify" a mortal recklessly, and so most Saints remain loyal to their
-Spirit\\'s cause.
+Spirit's cause.
 
 Saints frequently do not have happy histories.
 
@@ -908,7 +908,7 @@ mortals into trusting Spirits.
 
 Binds can vary widely. Some require a spirit to consent to being bound
 in order to be effective, while others do not. Some are simple, like
-speaking a short phrase in a spirit\\'s presence, while others are quite
+speaking a short phrase in a spirit's presence, while others are quite
 complex, involving elaborate ceremonies or complex rituals. Likewise,
 their effects and durations can vary wildly -- from compelling a spirit
 to keep vigil until relieved, to preventing a spirit from lying until
@@ -1069,7 +1069,7 @@ and that I want to keep.
 
 This needs to go somewhere else.
 
--   You won\\'t:
+-   You won't:
 
     -   raid ancient temples for artifacts: modern knowledge eclipses
         anything of past ages
@@ -1077,7 +1077,7 @@ This needs to go somewhere else.
         military keeps large bandit problems from cropping up -- most of
         the time, at least
     -   slay monsters: most "monsters" are your neighbors, and the ones
-        that aren\\'t, the military deals with
+        that aren't, the military deals with
 
 -   You might:
 
