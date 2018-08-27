@@ -6,7 +6,7 @@ Right now, I'm still play-testing and revising it---basically it's in
 Alpha stages of development. As such, it's a bullet list, with
 crossed-out sections and developer notes.
 
-Editing Notes:
+## Editing Notes:
 
 -   I need to go through and use the term Tag consistently. And then
     also re-work most entries to use Tags.
@@ -29,7 +29,7 @@ Editing Notes:
         up who think that that word means "knowledge magic" and don't
         realize that it actually just means "difficult secret."
 
-Feedback Questions
+## Feedback Questions
 
 -   I think the skill list is near its final state, but any further
     feedback is appreciated.
@@ -57,7 +57,7 @@ Feedback Questions
 
 -   Feedback on making combat maneuvers a "recommended optional rule"?
 
-Contributors:
+## Contributors:
 
 -   Sauce: a list of powers!
 -   SeaVea: fort design, feedback on armor and weapons.
@@ -66,6 +66,8 @@ Contributors:
     Reworking the Orcs.
 -   Misandry: helping to fill out the Shamblers.
 -   Runic: clever uses for fireballs. Lobsters!
+
+## Goals
 
 The setting is an attempt to bring a little bit of Roddenberry-esque
 multi-cultural optimism to fantasy role-playing; owing to its Eclipse
