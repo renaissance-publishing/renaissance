@@ -1,24 +1,5 @@
 ## Skill List
 
--   Academics (COG, Field Skill)
-
-    -   Passive, Knowledge, Mental, Technical
-    -   Academics represents formal training in a field of study.
-        Players can use it to gain information about the world (which
-        their characters might have even though they do not), or to
-        evaluate clues.
-    -   though it rankles my Fedora, knowledge of religion is covered by
-        Academics (Academics: Theology)
-    -   Sample Fields: Astronomy, History, Literature, Mathematics,
-        Natural Philosophy, Philosophy, Rhetoric, Theology
-    -   I feel like we might need Academics fields for Magic and
-        Psyonics, esp. since I do want those things to be studied at
-        Commonwealth universities. But I'm not completely sure what I
-        should call them and I'm a little skeptical of adding more
-        skills that caster-characters will feel like they need (esp.
-        when Clerics only need Academics: Theology).
-    -   Sample Specializations: as appropriate to field.
-
 -   Animal Handling (SAV)
 
     -   Active, Social
@@ -153,26 +134,7 @@
     -   There's no rule against a creature that can't fly taking ranks
         in the fly skill---although it also won't do them much good.
 
--   Interest (COG, Field Skill)
-
-    -   Passive, Knowledge
-    -   Represents knowledge in some area of interest for your
-        character. Interest represents informal study; for formal
-        training, consider either Academics or Profession.
-    -   Almost anything can be an Interests, and Interests can be very
-        broad or very specific.
-    -   Example Fields: Criminal Gangs, Folklore, Local Religions, Noble
-        Heraldry
-    -   Some characters might substitute an Interest for an Academic
-        skill, representing extensive experience with a body of
-        knowledge they have attained outside of an academic institution.
-        A shaman who has had no formal academic training might have
-        Interest: Theology or Interest: Shamanic Rights, for example,
-        and use those skills in place of Academics: Theology. You should
-        discuss such a substitution with your GM.
-
 -   Intimidate (SAV)
-
     -   Active, Combat, Social
     -   Used to represent your characters ability to manipulate others
         through menace rather than poise.
@@ -182,7 +144,6 @@
         method (physical intimidation, blackmail)
 
 -   Investigate (INT)
-
     -   Active, Technical
     -   Used to draw conclusions, assemble details.
     -   Search is used to find things (including evidence at a crime
@@ -190,7 +151,6 @@
         from those clues.
 
 -   Knowledge (COG, Field Skill)
-
     -   Passive, Knowledge, Mental, Technical
     -   Represents knowledge in some area of interest for your
         character.
