@@ -20,4 +20,5 @@ watchdog = "*"
 python_version = "3.7"
 
 [scripts]
-staticgen = "python staticgen.py"
+build = "python staticgen.py build"
+serve = "python staticgen.py serve"
