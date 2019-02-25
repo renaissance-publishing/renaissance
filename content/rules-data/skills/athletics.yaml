@@ -1,0 +1,16 @@
+type: skill
+name: Athletics
+aptitude: SOM
+categories:
+- Active
+- Movement
+- Physical
+description: |
+  Athletics represents your characters' general athletic ability.
+
+  Abstracts and combines several other movement skills (like
+  climbing, swimming and parkour).
+
+  For expertise in specific sports, see [Sport](#Sport-SOM).
+specializations:
+  acrobatics, running, parkour, climbing, swimming

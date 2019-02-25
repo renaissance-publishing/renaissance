@@ -1,0 +1,9 @@
+type: skill
+name: Medicine
+aptitude: COG
+categories:
+- Active
+- Knowledge
+- Physical
+- Technical
+description: Medicine is used to diagnose and treat injuries.

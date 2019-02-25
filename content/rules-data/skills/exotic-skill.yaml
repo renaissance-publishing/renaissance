@@ -1,0 +1,21 @@
+type: skill
+name: Exotic Skill
+aptitude: Varies
+categories:
+- Exotic
+- Others, as appropriate
+description: |
+  Freeform skill, used to handle very unusual cases of other
+  skills.
+
+  Examples:
+  -   Exotic Weapon (COO for ranged, SOM for melee)
+  -   Exotic Culture (SAV, Protocol for very alien cultures)
+  -   Exotic Knowledge (COG, for esoteric knowledge)
+  -   Exotic Mount (COO or SAV)
+  -   Exotic Movement (SOM or COO)
+
+  Don't be too eager to resort to Exotic Skills! You are _almost
+  always_ better served by using a normal skill, perhaps with a
+  specialization to indicate your unique background or interest.
+fields: What the exotic skill is.

@@ -1,0 +1,18 @@
+type: skill
+name: Animal Handling
+aptitude: SAV
+categories:
+- Active
+- Social
+description: |
+  Animal Handling is used as the "Social Skill for Animals". It's
+  used to coax animals into behaving how you want.
+
+  Animal Handling can be used to train an animal, but we don't
+  provide detailed rules for that. This is generally best handled
+  either by purchasing a Class or Power (like [Wildlander|class/wildlander]), or by
+  purchasing the animal companion as a Moderate or Major Item and
+  then building it using the rules for Followers.
+specializations: |
+  by a family of animals (canines, felines, equines, etc.), or by
+  role (combat, work, companion, riding)

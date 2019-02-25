@@ -1,3 +1,7 @@
+---
+title: Monsters, Animals, and NPCs
+---
+
 ## Sample Creatures
 
 Remember:

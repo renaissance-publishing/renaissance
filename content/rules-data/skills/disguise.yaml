@@ -1,0 +1,12 @@
+type: skill
+name: Disguise
+aptitude: INT
+categories:
+- Active
+- Social
+description: |
+  Disguise is used to physically disguise yourself as someone
+  else.
+
+  You will often also need to have [Deception](#Deception-SAV) in order to pass
+  yourself off as someone else in a social situation.

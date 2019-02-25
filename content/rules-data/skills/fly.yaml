@@ -1,0 +1,13 @@
+type: skill
+name: Fly
+aptitude: COO
+categories:
+- Active
+- Movement
+- Physical
+description:
+  Fly is used to represent your character's skill at flying and
+  aerial maneuvering.
+
+  There's no rule against a creature that can't fly taking ranks
+  in the Fly skill -- although it also won't do them much good.

@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mistletoe = "*"
+python-frontmatter = "*"
+click = "*"
+Jinja2 = "*"
+blessings = "*"
+colorama = "*"
+pyyaml = "*"
+dulwich = "*"
+watchdog = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+staticgen = "python staticgen.py"

@@ -1,0 +1,13 @@
+type: skill
+name: Art
+aptitude: INT
+categories:
+- Active
+- Knowledge
+description: |
+  Art is the skill used to create and know about a type of artistic
+  expression.
+specializations:
+  Varies by field.
+fields:
+  Literature, Painting, Sculpture, Theater.

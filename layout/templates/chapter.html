@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ chapter.title }}{% endblock %}
+
+{% block content %}
+    <aside class="toc">
+        {{ toc | safe }}
+    </aside>
+    <section>
+        <h1>{{ chapter.title }}</h1>
+
+        {{ chapter.content | safe }}
+    </section>
+{% endblock %}

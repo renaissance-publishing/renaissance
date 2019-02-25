@@ -1,0 +1,11 @@
+type: skill
+name: Bladed Weapons
+aptitude: SOM
+categories:
+- Active
+- Attack
+- Combat
+- Melee
+- Physical
+description:
+  Used to put the sharp end of the pointy into the bad guy.

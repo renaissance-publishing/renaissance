@@ -1,0 +1,17 @@
+type: skill
+name: Persuasion
+aptitude: SAV
+categories:
+- Active
+- Social
+description: |
+    Persuasion is used when attempting to convince a character to go
+    along with something.
+
+    For minor dealings with an NPC, usually used unopposed. For
+    important tests, or when an NPC is skeptical or requires
+    convincing, oppose with a
+    [Resist Social Manipulation](#Special-Numbers) check.
+
+    For social negotiations, use opposed Persuasion
+    (or [Protocol](#protocol-sav)) checks.

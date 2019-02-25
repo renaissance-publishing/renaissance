@@ -1,0 +1,11 @@
+type: skill
+name: Perception
+aptitude: INT
+categories:
+- Active
+- Mental
+description: |
+  Perception is used to notice things. Often used to spot sneaking
+  characters (opposed by their [Stealth|skills/stealth]).
+
+  To search an area for hidden items, use [Search|skills/search].

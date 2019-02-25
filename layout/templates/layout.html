@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% block head %}
+        <link rel="stylesheet" href="https://use.typekit.net/bqv1ebv.css">
+        <link rel="stylesheet" href="/static/css/layout.css">
+    {% endblock %}
+    <title>{% block title %}{% endblock %} — Renaissance Games</title>
+</head>
+<body>
+    <header>
+        <div class="branding">Renaissance Games</div>
+        <nav class="header-nav">
+            <ul>
+                {% for page in pages %}
+                <li><a href="{{ page.route }}">{{ page.title }}</a></li>
+                {% endfor %}
+                <li><a href="/book/introduction">Book</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    {% block content %}
+    {% endblock %}
+
+    <footer>
+        © copyright bullshit and licensing info goes here.
+    </footer>
+</body>
+</html>

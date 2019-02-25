@@ -1,3 +1,7 @@
+---
+title: Backgrounds, Traits, Classes and Powers
+---
+
 See the Character Creation rules.
 
 Traits work more or less like EP Traits, and Powers are distantly

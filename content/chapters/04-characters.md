@@ -98,7 +98,7 @@ method by which characters advance, and are the primary reward for most
 adventures. Characters can spend rez to advance during down-time, using
 the same rules by which they spent CP during character creation. When
 spending rez, the character-creation limits no longer apply, although
-the glocal limits still do.
+the global limits still do.
 
 We don't have rules for training requirements, but gaining new skills
 should generally make sense. Skills and classes can be justified either
@@ -248,7 +248,7 @@ Movement Modes:
 
 -   The affects of being a different size are generally not represented
     mechanically (i.e. there is no "size modifier table").
--   Being _small _or _large_ might confer bonuses in some situations,
+-   Being _small_ or _large_ might confer bonuses in some situations,
     such as making it easier (if small) or harder (if large) to use
     Stealth; these are at the GM's discretion.
 -   See also _Sizes_ in Combat.

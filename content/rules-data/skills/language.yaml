@@ -1,0 +1,10 @@
+type: skill
+name: Language
+aptitude: INT
+categories:
+- Passive
+- Knowledge
+- Mental
+description:
+  Language represents your ability to speak a langauge.
+fields: By language, e.g. Common, Hud, Royal.

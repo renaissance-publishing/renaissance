@@ -1,0 +1,22 @@
+type: skill
+name: Knowledge
+aptitude: COG
+categories:
+- Passive
+- Knowledge
+- Mental
+- Technical
+description: |
+  Knowledge represents, well, knowledge in some area of interest for your
+  character.
+
+  Almost anything can be a Knowledge field. When selecting a
+  field, be careful: it shouldn't be so narrow that it never
+  applies, but it also shouldn't be so broad that it _always_
+  applies.
+fields: |
+  By interest, such as Criminal Gangs, Folklore, Local Religions,
+  Military Tactics or Noble Lines, or by field of study such as
+  Astronomy, History, Literature, Magic, Mathematics,
+  Natural Philosophy, Philosophy, Rhetoric, or Theology.
+specializations: Varies by field.

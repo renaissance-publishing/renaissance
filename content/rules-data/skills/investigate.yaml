@@ -1,0 +1,12 @@
+type: skill
+name: Investigate
+aptitude: INT
+categories:
+- Active
+- Technical
+description: |
+  Investigate is used to draw conclusions and assemble details.
+
+  Search is used to find things (including evidence at a crime
+  scene, for example). Investigate is used to draw conclusions
+  from those clues.
