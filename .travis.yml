@@ -16,7 +16,7 @@ script:
 deploy:
   provider: pages
   fqdn: renaissance.pub
-  github-token: $GITHUB_SECRET
+  github-token: $GITHUB_TOKEN
   local-dir: build
 
   skip-cleanup: true
