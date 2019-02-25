@@ -1,0 +1,26 @@
+dist: xenial
+sudo: false
+
+language: python
+
+python:
+  - 3.7
+
+install:
+  - pip install pipenv
+  - pipenv install
+
+script:
+- pipenv run build
+
+deploy:
+  provider: pages
+  fqdn: renaissance.pub
+  github-token: $GITHUB_SECRET
+  local-dir: build
+
+  skip-cleanup: true
+
+  target-branch: master
+  on:
+    branch: source
