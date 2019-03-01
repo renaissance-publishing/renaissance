@@ -29,11 +29,6 @@ class Page(object):
     route: str
     content: Union[str, Document]
 
-    def __init__(self, title: str, route: str, content: str):
-        self.title = title
-        self.route = route
-        self.content = content
-
 
 @dataclass(eq=False, frozen=True)
 @total_ordering
@@ -126,13 +121,14 @@ class Discoverer(object):
         return self.__current_branch
 
     def access_branch(self, branch: Branch, directory: str):
-        index_path = join(directory, 'index')
-        object_store = self.repo.object_store
+        if branch != self.current_branch:
+            index_path = join(directory, 'index')
+            object_store = self.repo.object_store
 
-        build_index_from_tree(directory, index_path, object_store, branch.commit.tree)
+            build_index_from_tree(directory, index_path, object_store, branch.commit.tree)
 
-        self.project_root = Path(directory)
-        self.__current_branch = branch
+            self.project_root = Path(directory)
+            self.__current_branch = branch
 
         self.__pages = None
         self.__chapters = None
@@ -166,6 +162,9 @@ class Discoverer(object):
         return self.__pages
 
     def page_path(self, page: Page):
+        if page.route == '/':
+            return self.output_dir
+
         return self.output_dir / page.route
 
     @property
@@ -192,6 +191,9 @@ class Discoverer(object):
         return self.__chapters
 
     def chapter_path(self, chapter: Page):
+        if self.current_branch.name == 'source':
+            return self.output_dir / 'book' / chapter.route
+
         return self.output_dir / 'book' / self.current_branch.name / chapter.route
 
     @property

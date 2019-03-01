@@ -1,6 +1,6 @@
 ---
 title: About Renaissance
-route: .
+route: '/'
 ---
 
 This is the open-source pen-and-paper RPG tentatively titled *Renaissance* (and colloquially called *Gleeches and Dragons*, after the online handle of its main author).

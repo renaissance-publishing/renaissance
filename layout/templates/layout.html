@@ -3,20 +3,35 @@
 <head>
     <meta charset="UTF-8">
     {% block head %}
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
         <link rel="stylesheet" href="https://use.typekit.net/bqv1ebv.css">
         <link rel="stylesheet" href="/static/css/layout.css">
+        <script type="application/javascript" src="/static/js/menus.js"></script>
     {% endblock %}
     <title>{% block title %}{% endblock %} — Renaissance Games</title>
 </head>
 <body>
     <header>
-        <div class="branding">Renaissance Games</div>
-        <nav class="header-nav">
-            <ul>
+        <div class="branding"><a href="/">Renaissance Games</a></div>
+        <nav class="pure-menu pure-menu-horizontal main-nav">
+            <ul class="pure-menu-list">
                 {% for page in pages %}
-                <li><a href="{{ page.route }}">{{ page.title }}</a></li>
+                    {% if page.title != 'About Renaissance' %}
+                        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.route }}">{{ page.title }}</a></li>
+                    {% endif %}
                 {% endfor %}
-                <li><a href="/book/introduction">Book</a></li>
+                <li class="pure-menu-item {% if branches|length > 1 %}pure-menu-has-children pure-menu-allow-hover{% endif %}">
+                    <a class="pure-menu-link" href="/book/introduction">Book</a>
+                    {% if branches|length > 1 %}
+                        <ul class="pure-menu-children">
+                        {% for branch in branches %}
+                            {% if branch.name != 'source' %}
+                                <li class="pure-menu-item"><a class="pure-menu-link" href="/book/{{ branch.name }}/introduction">Book {{ branch.name }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+                </li>
             </ul>
         </nav>
     </header>
@@ -25,7 +40,16 @@
     {% endblock %}
 
     <footer>
-        © copyright bullshit and licensing info goes here.
+        <p>
+            Renaissance is © David Bolding, and is available under the terms of the
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0
+            International (CC BY-NC 4.0)</a> license.
+        </p>
+
+        <p>
+            The Renaissance website is © Alexis Williams and David Bolding, and is available under the terms of the
+            <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License, version 2.0</a>.
+        </p>
     </footer>
 </body>
 </html>

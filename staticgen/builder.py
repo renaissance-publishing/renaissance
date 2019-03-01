@@ -3,49 +3,51 @@ from click import secho
 import jinja2
 import mistletoe
 
+from dataclasses import dataclass, field
 from os import makedirs
 from os.path import join, exists
 from shutil import copytree, rmtree
-from typing import List
+from typing import List, Optional
+
+from pprint import pprint
 
 from staticgen.discoverer import Discoverer, Page
 from staticgen.renderers import RenaissanceHTMLRenderer
 
 
-def generate_toc(chapters: List[Page]) -> str:
-    toc: List[str] = ['<ol>']
-    link_t: str = '<a href="../{route}/{anchor}">{title}</a>'
+@dataclass(repr=True)
+class TocEntry(object):
+    title: str
+    route: str
+    anchor: str = ''
+    children: list = field(default_factory=lambda: [])  # Should be List[TocEntry], buuuuuuut
+
+
+def generate_toc(chapters: List[Page]) -> List[TocEntry]:
+    toc: List[TocEntry] = []
 
     for chapter in chapters:
-        toc.append('<li>')
-        toc.append(link_t.format(title=chapter.title, route=chapter.route, anchor=''))
+        level_stack: List[int] = [0]
+        toc.append(TocEntry(chapter.title, chapter.route))
+        toc_pointer_stack: List[List[TocEntry]] = [toc[-1].children]
+
         children = mistletoe.Document(chapter.content).children
 
-        level_stack: List[int] = [0]
         for heading in filter(lambda x: isinstance(x, mistletoe.block_token.Heading), children):
-            if heading.level == 4:
-                continue
+            if heading.level <= level_stack[-1]:
+                while heading.level <= level_stack[-1]:
+                    level_stack.pop()
+                    toc_pointer_stack.pop()
+
+            print(heading.children[0].content, level_stack)
+
+            toc_pointer_stack[-1].append(TocEntry(heading.children[0].content, chapter.route, '#' + RenaissanceHTMLRenderer.heading_to_anchor(heading)))
 
             if heading.level > level_stack[-1]:
                 level_stack.append(heading.level)
-                toc.append('<ol><li>')
-            elif heading.level == level_stack[-1]:
-                toc.append('</li><li>')
-            else:
-                while heading.level < level_stack[-1]:
-                    level_stack.pop()
-                    toc.append('</li></ol>')
-                toc.append('<li>')
+                toc_pointer_stack.append(toc_pointer_stack[-1][-1].children)
 
-            toc.append(link_t.format(title=heading.children[0].content, route=chapter.route,
-                                     anchor='#' + RenaissanceHTMLRenderer.heading_to_anchor(heading)))
-
-        for _ in level_stack[1:]:
-            toc.append('</li></ol>')
-
-    toc.append('</ol>')
-
-    return ''.join(toc)
+    return toc
 
 
 class Builder(object):
@@ -108,6 +110,10 @@ class Builder(object):
         _ = self.discoverer.rules
 
         chapters = self.discoverer.chapters
+
+        for chapter in chapters:
+            chapter.content = self.env.from_string(chapter.content).render(self.context)
+
         toc = generate_toc(chapters)
 
         secho('Rendering chapters:', fg='yellow')
@@ -115,8 +121,7 @@ class Builder(object):
         for chapter in chapters:
             self.render_chapter(chapter, toc)
 
-    def render_chapter(self, chapter: Page, toc: str):
-        chapter.content = self.env.from_string(chapter.content).render(self.context)
+    def render_chapter(self, chapter: Page, toc: List[TocEntry]):
         chapter.content = mistletoe.markdown(chapter.content, renderer=RenaissanceHTMLRenderer)
         local_ctx = self.context
         local_ctx['chapter'] = chapter

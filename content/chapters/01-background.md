@@ -158,7 +158,11 @@ Commonwealth History
     -   Commonwealth Compact has an "enumeration of freedoms" that each
         Province (and each Manor) must provide.
 
-## Commonwealth Today
+## The Commonwealth
+
+The Commomwealth is the most prominent civilization in the game world.
+
+### Commonwealth Today
 
 -   Present Year: CY 830
 -   Commonwealth has 4 Provinces (not counting the Tribal Lands)
@@ -238,7 +242,7 @@ Commonwealth History
 
 -   As can _other forces_ (Fantasy-era Call of Cthulhu)
 
-## Commonwealth Technology
+### Commonwealth Technology
 
 -   I'm bad at history, but shooting for something-like Europe in
     1200-1400.
@@ -267,7 +271,7 @@ Commonwealth History
 -   Printing press invented 75 years ago (CY 755), society still
     adjusting from sudden surge in literature
 
-## Commonwealth Life, Society and Economy
+### Commonwealth Life, Society and Economy
 
 -   90% of people are farmers, living in villages of a few hundred
     people.
@@ -409,7 +413,7 @@ Commonwealth History
 -   I was fairly drunk towards the end of this, so I need to go back and
     look this over.
 
-## Commonwealth Governance
+### Commonwealth Governance
 
 -   Move/expand above information here.
 -   One feature of New Charter is that the Commonwealth can collect
@@ -440,7 +444,7 @@ Commonwealth History
     Commonwealth Today and Organizations sections; I might also not want
     to go on at length about this. Possibly rework.
 
-## Commonwealth Magic
+### Commonwealth Magic
 
 Though the spirits are often inscrutable and the potential applications
 for magic are vast, it is nevertheless true that the sages and scholars

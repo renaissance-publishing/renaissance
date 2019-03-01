@@ -2,8 +2,6 @@
 title: Character Attributes, Creation, and Advancement
 ---
 
-# Character Creation and Advancement
-
 ## Character Creation
 
 Proceed through the following steps in order:

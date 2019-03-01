@@ -1,5 +1,69 @@
-html {
+html, button, input, select, textarea, .pure-g [class *= "pure-u"]
+{
     font-family: english, sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+header .branding
+{
+    font-family: voluta-script-pro, serif;
+    font-size: 72pt;
+    text-align: center;
+}
+
+header .branding a, header .branding a:hover, header .branding a:visited
+{
+    text-decoration: none;
+}
+
+a, a:hover, a:visited
+{
+    color: black;
+}
+
+
+body
+{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+}
+
+.main-nav
+{
+    display: inline-block;
+    text-align: center;
+}
+
+.main-content, footer
+{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.main-content
+{
+    flex: 1;
+}
+
+footer
+{
+    max-height: 8em;
+}
+
+.chapter-content, .chapter-content + footer
+{
+    margin-left: 400px;
+}
+
+.toc-menu
+{
+    position: fixed;
+    display: inline-block;
+    max-width: 400px;
 }

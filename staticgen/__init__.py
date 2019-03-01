@@ -40,7 +40,7 @@ def build(input_dir: str, output_dir: str):
                                                                        'containing staticgen.py]')
 @click.option('--output-dir', default='./build', metavar='DIR', help='Output directory. [default: ./build]')
 @click.pass_context
-def serve(ctx: click.Context, *_):
+def serve(ctx: click.Context, *_, **__):
     class RebuildEventHandler(FileSystemEventHandler):
         def on_any_event(self, event):
             ctx.forward(build)
