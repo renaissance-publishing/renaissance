@@ -5,6 +5,11 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"]
     font-style: normal;
 }
 
+header
+{
+    height: 140px;
+}
+
 header .branding
 {
     font-family: voluta-script-pro, serif;
@@ -64,6 +69,7 @@ footer
 .toc-menu
 {
     position: fixed;
+    top: 140px;
     display: inline-block;
     max-width: 400px;
 }

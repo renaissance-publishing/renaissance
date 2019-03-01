@@ -5,7 +5,7 @@ from typing import Iterator, List, Optional, Tuple
 import yaml
 
 
-@dataclass
+@dataclass(order=True)
 class Skill(object):
     name: str
     aptitude: str
@@ -54,4 +54,4 @@ class RulesData(object):
         if item not in ['skills']:
             raise KeyError(item)
 
-        return getattr(self, item)
+        return sorted(getattr(self, item))
