@@ -11,7 +11,7 @@ rules:
 {%- for cat in skill.categories -%}{{ cat }}{%- if not loop.last -%}, {% endif %}{% endfor %} |
 {% endfor %}
 
-### Unusual Skills
+## Unusual Skills
 
 Sometimes you'll want your character to be able to do something that
 isn't exactly covered by a skill---like tracking game through the
@@ -38,7 +38,7 @@ and be sure that you and the GM agree with not only what the skill
 is supposed to represent, but what it's supposed to do and how it's
 supposed to work.
 
-### Gotchas and Confusing Cases
+## Gotchas and Confusing Cases
 
 -   Disguise only covers the _physical_ half of pretending to be someone
     else; for the social half -- that is, to talk to people without being
@@ -59,7 +59,7 @@ supposed to work.
     Profession: Investigator to represent your character's ability to
     solve mysteries.
 
-### Special Numbers:
+## Special Numbers:
 
 Sometimes no skill applies: in these cases, use combinations of
 Aptitudes. Some common examples follow:
@@ -75,10 +75,10 @@ Aptitudes. Some common examples follow:
     starvation): DUR + WIL
 -   React Quickly/Catch Something: COO × 3
 
-### Skill List
+## Skill List
 
 {% for skill in rules.skills %}
-#### {{ skill.name }} ({{ skill.aptitude }}{% if skill.fields %}, Field Skill{% endif %})
+### {{ skill.name }} ({{ skill.aptitude }}{% if skill.fields %}, Field Skill{% endif %})
 Categories: {% for cat in skill.categories -%}
 {{ cat }}{%- if not loop.last -%}, {% endif %}
 {% endfor %}
