@@ -10,11 +10,11 @@ mistletoe = "*"
 python-frontmatter = "*"
 click = "*"
 Jinja2 = "*"
-blessings = "*"
 colorama = "*"
 pyyaml = "*"
 dulwich = "*"
 watchdog = "*"
+funcy = "*"
 
 [requires]
 python_version = "3.7"

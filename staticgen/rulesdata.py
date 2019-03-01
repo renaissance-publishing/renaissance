@@ -1,11 +1,8 @@
-import blessings
-from click import echo
+from click import secho
 from dataclasses import dataclass
 from os.path import join
 from typing import Iterator, List, Optional, Tuple
 import yaml
-
-term = blessings.Terminal()
 
 
 @dataclass
@@ -20,7 +17,7 @@ class Skill(object):
 
 class RulesData(object):
     def __init__(self, walk_iter: Iterator[Tuple[str, List[str], List[str]]]):
-        echo(term.green('Loading rules data:'))
+        secho('Loading rules data:', fg='yellow')
 
         self.skills: List[Skill] = []
 
@@ -30,7 +27,7 @@ class RulesData(object):
                     try:
                         rule = yaml.load(f)
                     except yaml.YAMLError as e:
-                        echo(term.bold_red('Error: failed loading rules file {}'.format(fn)))
+                        secho('Error: failed loading rules file {}'.format(fn), fg='red', bold=True)
                         raise e
 
                     try:
@@ -41,15 +38,17 @@ class RulesData(object):
                             ))
                     except KeyError as e:
                         if e.args[0] != 'type':
-                            echo(term.bold_red(
-                                'Error: {} file {} is missing required key "{}:"'.format(rule['type'], fn, e.args[0])
-                             ))
+                            secho(
+                                'Error: {} file {} is missing required key "{}:"'.format(rule['type'], fn, e.args[0]),
+                                fg='red', bold=True
+                             )
                         else:
-                            echo(term.bold_red(
-                                'Error: rules file {} is missing required key "type:".'.format(fn)
-                            ))
+                            secho(
+                                'Error: rules file {} is missing required key "type:".'.format(fn),
+                                fg='red', bold=True
+                            )
                     else:
-                        echo(term.green('• Loaded {} file {}.').format(rule['type'], fn))
+                        secho('• Loaded {} file {}.'.format(rule['type'], fn), fg='green')
 
     def __getitem__(self, item: str):
         if item not in ['skills']:
