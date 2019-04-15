@@ -9,7 +9,7 @@ verify_ssl = true
 mistletoe = "*"
 python-frontmatter = "*"
 click = "*"
-Jinja2 = "*"
+Jinja2 = ">=2.10.1"
 colorama = "*"
 pyyaml = "*"
 dulwich = "*"
