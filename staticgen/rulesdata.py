@@ -49,6 +49,8 @@ class RulesData(object):
                             )
                     else:
                         secho('• Loaded {} file {}.'.format(rule['type'], fn), fg='green')
+        
+        self.skills.sort(key=lambda x: x.name)
 
     def __getitem__(self, item: str):
         if item not in ['skills']:
