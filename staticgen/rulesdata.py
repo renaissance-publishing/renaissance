@@ -18,6 +18,9 @@ class Rule(object):
                 else:
                     setattr(self, field, None)
 
+    def __eq__(self, other):
+        return reduce(lambda acc, x: acc and getattr(self, x) == getattr(other, x), self.__annotations__.keys())
+
     def __lt__(self, other):
         return reduce(lambda acc, x: acc and getattr(self, x) < getattr(other, x), self.__annotations__.keys())
 
