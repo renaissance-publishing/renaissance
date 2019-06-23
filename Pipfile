@@ -15,6 +15,7 @@ pyyaml = "*"
 dulwich = "*"
 watchdog = "*"
 funcy = "*"
+inflect = "*"
 
 [requires]
 python_version = "3.7"

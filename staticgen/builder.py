@@ -39,8 +39,6 @@ def generate_toc(chapters: List[Page]) -> List[TocEntry]:
                     level_stack.pop()
                     toc_pointer_stack.pop()
 
-            print(heading.children[0].content, level_stack)
-
             toc_pointer_stack[-1].append(TocEntry(heading.children[0].content, chapter.route, '#' + RenaissanceHTMLRenderer.heading_to_anchor(heading)))
 
             if heading.level > level_stack[-1]:
