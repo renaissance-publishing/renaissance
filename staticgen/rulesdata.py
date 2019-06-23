@@ -4,7 +4,7 @@ from funcy.py3 import partial
 from os.path import join
 from typing import Any, Dict, Iterator, List, Optional, Tuple
 import yaml
-gjcx
+
 
 @total_ordering
 class Rule(object):
