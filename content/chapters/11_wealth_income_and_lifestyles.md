@@ -1,5 +1,5 @@
 ---
-Wealth, Income and Lifestyles
+title: Wealth, Income and Lifestyles
 ---
 
 ## <span id="anchor-68"></span>Wealth and Bartering

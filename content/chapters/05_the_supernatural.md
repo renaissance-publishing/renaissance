@@ -1,5 +1,5 @@
 ---
-The Supernatural
+title: The Supernatural
 ---
 
 ## <span id="anchor-23"></span>Magic

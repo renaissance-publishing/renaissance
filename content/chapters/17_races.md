@@ -1,5 +1,5 @@
 ---
-Races
+title: Races
 ---
 
 There are three separate keywords that have special significance in Race

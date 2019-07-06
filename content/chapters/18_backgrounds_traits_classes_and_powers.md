@@ -1,5 +1,5 @@
 ---
-Backgrounds, Traits, Classes and Powers
+title: Backgrounds, Traits, Classes and Powers
 ---
 
 See the Character Creation rules.
