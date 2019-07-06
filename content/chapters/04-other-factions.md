@@ -66,7 +66,7 @@ This state of affairs is precarious, however, as many within the Eastern Kingdom
 
 They could never achieve this on their own, however, even *if* they could command the undisputed loyalty of all the kings and nobles of the Kingdoms of Men; therefore, the nobles of the East are searching for allies.
 
-The rules of the West are not ignorant of this---the kings of the far east are seldom subtle in their contempt for non-humans---and so they are seeking allies, too.  And so, the struggle for rule of the Kingdoms of Men has become something of a proxy war between all the great powers of the continent.
+The rulers of the West are not ignorant of this---the kings of the far east are seldom subtle in their contempt for non-humans---and so they are seeking allies, too.  And so, the struggle for rule of the Kingdoms of Men has become something of a proxy war between all the great powers of the continent.
 
 If the Easterners can seize control of the Kingdoms, and if they strike an alliance with the Goblin Empire and the Shaded Sea Peoples---even a temporary one---then the Commonwealth is doomed; if, however, the current high-king can solidify his control, then an alliance with the Commonwealth is a possibility---and should that happen, the Shaded Sea People and the Goblinoid Empire would in turn be hopelessly outmatched.
 
