@@ -1133,6 +1133,20 @@ Range: 25m/50m/125m/200m
 
 Reload: 5 Standard Actions
 
+### <span id="items-weapons-whip"></span> Whip
+
+Whips are common tools for managing livestock and work-animals;
+they consist of long, slender pieces of tanned leather.
+Though they are very painful, they are not nearly as dangerous as purpose-built weapons, they are all but useless against even the slightest armor, and cannot be used to parry or defend against a close attacker.
+Nevertheless, some do use them for self-defense, as a less-lethal weapon, to disarm opponents or to move small objects at range.
+
+Tags: One-Handed, Off-Hand, Exotic Weapon, Reach, Vulnerable, Well
+Suited: Catch, Well Suited: Disarm, Well Suited: Trip
+
+Damage: 1d10&divide;2
+
+AP: 0
+
 ### <span id="anchor-176"></span>Dragon’s Axe
 
 The Dragon’s Axe is an example unique weapon. As the description says,

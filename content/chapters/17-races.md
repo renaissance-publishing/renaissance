@@ -462,6 +462,11 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Social, dextrous and intelligent, Humans where the first race to
     build cities, and the first to build great nations.
+    
+  - Humans are also known for the great endurance; while many other
+    races' energy ebbs and flows, humans can maintain a steady walking
+    pace over great distances.  They are also fare more resistant to
+    shock than many other races are.
 
   - Even today, Humans are widely renowned for their manual dexterity,
     for their society-building social instincts and their
@@ -502,26 +507,12 @@ Optional Background: Wood Elf Tribal Commuity
   - Language Group: HHED
 
   - Social Animals:
-    
-      - Humans reduce penalties to Social skills by 10.
-        
-          - No, that’s just boring, and it’s kind of weird because it
-            requires special-casing that a flat +10 to Social skill
-            tests wouldn’t have (although the latter would also be way
-            too powerful on its own).
-    
-      - After making a Social skill test, a Human may spend one Luck
-        Point to re-roll it; they must take the second result, even if
-        it’s worse.
-        
-          - I like one powerful, discrete ability more than nudging
-            checks by 10, but is introducing re-rolls opening a can of
-            worms?
-    
+
       - Humans gain the Social Animal trait.
-        
-          - You know, I might not actually like this any better than the
-            thing it’s replacing.
+
+  - Inexhaustible:
+
+	  - Humans gain +WIL to tests to checks for Feats of Endurance.
 
 ### <span id="anchor-101"></span>Kobold
 
@@ -956,10 +947,9 @@ Optional Background: Wood Elf Tribal Commuity
   - Senses: Normal
   - Tags: Natural, Humanoid, Halfling
   - Language Group: HHED
-  - *Small*: Halflings are Small
-  - *Survivors: *Halflings have a remarkable ability to endure
-    adversity. ~~They get +10 on tests to resist hunger, thirst, fear,
-    exhaustion and Stress~~. They get +10 on Feat of Endurance tests,
+  - Small: Halflings are Small
+  - Survivors: Halflings have a remarkable ability to endure
+    adversity.  They get +10 on Feat of Endurance checks,
     and tests to resist Stress.
 
   - Optional Background: Caravaneer
