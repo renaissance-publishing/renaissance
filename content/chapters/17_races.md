@@ -1,4 +1,6 @@
-# <span id="anchor-95"></span>Races
+---
+Races
+---
 
 There are three separate keywords that have special significance in Race
 entries. All races will have one of the following keywords: Natural,

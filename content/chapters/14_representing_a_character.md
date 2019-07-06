@@ -1,4 +1,6 @@
-# <span id="anchor-83"></span>Representing a Character
+---
+Representing a Character
+---
 
 ## <span id="anchor-84"></span>Characters
 

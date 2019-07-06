@@ -1,4 +1,6 @@
-# <span id="anchor-186"></span>Running Games
+---
+Running Games
+---
 
 ## <span id="anchor-187"></span>Designing Adventures
 

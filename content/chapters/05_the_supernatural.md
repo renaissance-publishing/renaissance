@@ -1,4 +1,6 @@
-# <span id="anchor-22"></span>The Supernatural
+---
+The Supernatural
+---
 
 ## <span id="anchor-23"></span>Magic
 

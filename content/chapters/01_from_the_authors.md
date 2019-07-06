@@ -1,4 +1,6 @@
-# <span id="anchor-1"></span>From the Authors
+---
+From the Authors
+---
 
 ## <span id="anchor-2"></span>About the Setting
 

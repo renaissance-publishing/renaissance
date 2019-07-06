@@ -1,4 +1,6 @@
-# <span id="anchor-67"></span>Wealth, Income and Lifestyles
+---
+Wealth, Income and Lifestyles
+---
 
 ## <span id="anchor-68"></span>Wealth and Bartering
 

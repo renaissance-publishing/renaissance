@@ -1,4 +1,6 @@
-# <span id="anchor-85"></span>Character Creation and Advancement
+---
+Character Creation and Advancement
+---
 
 ## <span id="anchor-86"></span>Character Creation
 

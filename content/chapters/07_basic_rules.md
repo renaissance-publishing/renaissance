@@ -1,4 +1,6 @@
-# <span id="anchor-33"></span>Basic Rules
+---
+Basic Rules
+---
 
 ## <span id="anchor-34"></span>The Rule(s) 0
 

@@ -1,4 +1,6 @@
-# <span id="anchor-41"></span>Combat
+---
+Combat
+---
 
 ## <span id="anchor-42"></span>Overview
 

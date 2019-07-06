@@ -1,4 +1,6 @@
-# <span id="anchor-54"></span>Injury and Recovery
+---
+Injury and Recovery
+---
 
 ## <span id="anchor-55"></span>Physical Injury
 

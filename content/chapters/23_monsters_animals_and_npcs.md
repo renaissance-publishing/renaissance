@@ -1,4 +1,6 @@
-# <span id="anchor-188"></span>Monsters, Animals and NPCs
+---
+Monsters, Animals and NPCs
+---
 
 ## <span id="anchor-189"></span>Sample Creatures
 

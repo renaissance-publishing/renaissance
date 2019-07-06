@@ -1,4 +1,6 @@
-# <span id="anchor-31"></span>The Unplacable Text Describing What Adventures Look Like
+---
+The Unplacable Text Describing What Adventures Look Like
+---
 
 I need to work on this some. I’m not sure I want the setting to have a
 final fate that’s this bleak, but there are elements of it that I like

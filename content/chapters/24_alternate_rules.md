@@ -1,4 +1,6 @@
-# <span id="anchor-202"></span>Alternate Rules
+---
+Alternate Rules
+---
 
 The following are alternate rules systems. Some of them might be ideas
 that I’m playing with for future inclusion, while others might just be

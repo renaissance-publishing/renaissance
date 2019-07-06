@@ -1,4 +1,6 @@
-# <span id="anchor-62"></span>Cheating Reality: Magic, Powers and Luck
+---
+Cheating Reality: Magic, Powers and Luck
+---
 
 ## <span id="anchor-63"></span>Using Magic
 

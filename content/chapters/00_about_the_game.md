@@ -1,4 +1,6 @@
-# <span id="anchor"></span>About the Game
+---
+title: About the Game
+---
 
 This is an early alpha of an open-source fantasy RPG.
 

@@ -1,4 +1,6 @@
-# <span id="anchor-71"></span>What Makes Your Character Who They Are: Motivations and Milestones
+---
+What Makes Your Character Who They Are: Motivations and Milestones
+---
 
 The rules of the game are primarily concerned with what your character
 can *do: * their abilities, their senses, their skills, and so on. But

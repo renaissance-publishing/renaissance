@@ -1,4 +1,6 @@
-# <span id="anchor-116"></span>Backgrounds, Traits, Classes and Powers
+---
+Backgrounds, Traits, Classes and Powers
+---
 
 See the Character Creation rules.
 

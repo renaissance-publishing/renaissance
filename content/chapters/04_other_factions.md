@@ -1,4 +1,6 @@
-# <span id="anchor-16"></span>Other Factions
+---
+Other Factions
+---
 
 ## <span id="anchor-17"></span>The Kingdoms of Men
 

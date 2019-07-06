@@ -1,4 +1,6 @@
-# <span id="anchor-121"></span>Items
+---
+Items
+---
 
 Items are broken into five categories:* trivial, minor*, *moderate,
 major, *and* extreme*. This mainly determines their cost when purchased

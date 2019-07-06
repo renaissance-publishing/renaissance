@@ -1,4 +1,6 @@
-# <span id="anchor-182"></span>Building Characters
+---
+Building Characters
+---
 
 The rules for Renaissance are very free-form; some people really enjoy
 that, but some people can get lost with all the options they have. The
