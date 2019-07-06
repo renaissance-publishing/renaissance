@@ -73,3 +73,52 @@ footer
     display: inline-block;
     max-width: 400px;
 }
+
+
+/***
+ * And here's where I started fucking up your CSS.
+ ***/
+
+/* Class for all the various asides.
+ * It lays them out as right-floats.
+ */
+.aside
+{
+    width: 50%;
+    text-align: left;
+    float: right;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+.example
+{
+    background-color: #dfb0df;
+}
+
+.clarification
+{
+    background-color: #c0c0df;
+}
+
+.gmguidance
+{
+    background-color: #c0dfc0;
+}
+
+.designnote
+{
+    background-color: rgb(255, 181, 97);
+}
+
+/* Class for fiction blocks.
+ * The idea is that they're centered, less than page width, and have top and bottom borders.
+ */
+.fiction
+{
+    width: 90%;
+    margin: 20px auto;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid none;
+}
