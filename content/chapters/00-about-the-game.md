@@ -21,6 +21,10 @@ Things. None of these are bad things, but we’re starting to have a *lot*
 of combat mechanics in a game that isn’t *supposed* to be
 combat-focused, so some slimming and streamlining would be good.
 
+Also note: there where a lot of strike-through or color-coded blocks that
+didn't survive the conversion to markdown, so there will be some really
+confusing text while we root all of that out.
+
 Changes since last time:
 
   - Made “other factions” its own subsection, have started cleaning that
