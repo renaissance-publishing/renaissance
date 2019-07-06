@@ -204,9 +204,10 @@ can just take the Trait if they want to).
     
       - You hail from a noble bloodline in the Dragonshire. Though
         actual rule now rests in the hands of the House of Commons,
-        having the right ancestors* *is still *useful*.
-      - 10 ranks in Protocol, 10 ranks on one other Social skill, 10
-        ranks in one Combat skill
+        having the right ancestors is still *useful*.
+      - 10 ranks in Protocol
+      - 10 ranks on one other Social skill
+      - 10 ranks in one Combat skill
       - Either the Noble Class or the Officer Class. If you select the
         Officer Class, you must later purchase the Soldier class during
         character creation, to meet its prerequisites.
@@ -369,22 +370,30 @@ can just take the Trait if they want to).
 
 Optional Background: Ash Elven Undercity
 
-  - You receive 10 ranks in Control skill, 10 ranks in one Art skill and
-    10 ranks in one Technical skill.
-  - You receive the Resilient trait.
+  - You hail from one of the Ash-Elven undercities beneath the low peaks of the Haven Isles.
+  - 10 ranks in Control skill
+  - 10 ranks in one Art skill
+  - 10 ranks in one Technical skill
+  - the Resilient trait
 
 Optional Background: Shade Elf Raider
 
-  - You receive 10 ranks in one Combat skill, 10 ranks in Ride and 10
-    ranks in Survival
-  - You receive one weapon and a Survival skill kit.
-  - You receive the Hardened (witnessing and performing cruelty) neutral
-    trait.
-  - Special: instead of receive
+  - You grew up among the most feared mounted raiders that the Emerald Plains has ever seen.
+  - 10 ranks in one Combat skill
+  - 10 ranks in Ride
+  - 10 ranks in Survival
+  - one weapon (of Cost: Medium)
+  - one Survival skill kit.
+  - the Hardened (witnessing and performing cruelty) neutral trait.
+  - Special: Shade Elves don't receive one dot in Common the way that most charactesr do.  Instead, they receive one dot in Shaded Sea Common.  They commonly speak Shade-Elven (Language Group HHED).
 
 Optional Background: Wood Elf Tribal Commuity
 
-  - You receive 10 ranks in Fray, Ranged Weapons, Stealth and Survival
+  - You are from one of the ancient, pre-urban Elven cultures living to the west of the Worldspine.
+  - 10 ranks in Fray
+  - 10 ranks in Ranged Weapons
+  - 10 ranks in Stealth
+  - 10 ranks in Survival
 
 ### <span id="anchor-99"></span>Gnolls
 
@@ -447,16 +456,17 @@ Optional Background: Wood Elf Tribal Commuity
   - Optional Background: Military Family
     
       - You hail from one of the many Gnollish military families.
-      - \+10 ranks in Fray
-      - \+10 ranks in two other Combat skills
+      - 10 ranks in Fray
+      - 10 ranks in two other Combat skills
       - the Soldier class
 
   - Optional Background: Caravan Guard
     
-      - Continuing a way of life that stretches back more than 700
-        years, you travel with Halfling trade-caravans, serving as a
-        guard, a bouncer, a hand and a diplomat.
-      - \+10 ranks in Intimidate, Perception, Persuasion and Survival
+      - Continuing a way of life that stretches back more than 700 years, you travel with Halfling trade-caravans, serving as a guard, a bouncer, a hand and a diplomat.
+      - 10 ranks in Intimidate
+      - 10 ranks in Perception
+      - 10 ranks in Persuasion
+      - 10 ranks in Survival
 
 ### <span id="anchor-100"></span>Human
 
@@ -842,8 +852,9 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Dwarven Hold
     
-      - \+10 ranks in any two Craft or Profession skills
-      - \+10 ranks in Protocol and Barter
+      - 10 ranks in two Technical skills
+      - 10 ranks in Protocol
+      - 10 ranks in Barter
 
 ### <span id="anchor-106"></span>Gnomes
 
@@ -893,11 +904,13 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Gnomish Burrow
     
-      - \+10 ranks in Craft Alchemy, +10 ranks in one other Technical
-        Skill, +10 ranks in Stealth
-      - One skill kit
-      - Isolationist: You do not receive 10 ranks in Common. Instead,
-        you receive 10 ranks in World-Spine Kobold (group DDK).
+      - 10 ranks in Craft: Alchemy
+      - 10 ranks in one other Technical skill
+      - 10 ranks in Stealth
+      - one skill kit
+      - one potion of Cost: Moderate, or 5 potions of Cost: Minor
+      - the Unique Outlook neutral trait
+      - Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
 
 ### <span id="anchor-107"></span>Halflings
 
@@ -954,9 +967,19 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Caravaneer
     
-      - \+10 ranks in Barter, +10 ranks in one Profession, +10 ranks in
-        one Technical or Social skill.
-      - 1 Medium Trade Goods, 1 Skill Kit
+      - 10 ranks in Barter
+      - 10 ranks in one Technical skill
+      - one Skill Kit
+      - one Halfling Wagon
+      - two horses
+      - *This one is weird and doesn't add up to exactly 40, but I thinkt hat's OK.  I'd rather it be interesting than exactly right.*
+
+  - Cultural Item: Halfling Caravan Cart (Cost: High)
+
+      - Halfling Wagons are large horse-drawn carts that serve as both a mobile residence, work-space and shop for a Halfling businessperson (and possibly some business-partners or family).
+      - The carts varied; the humblest is essentially a discarded human wagon with bunks hung from boards running along the sides as walls, while the most expensive are large, wood-sided structures whose internal spaces are divided into floors and rooms (though small even by the standards of Halflings).  Some are even designed to be opened up, becoming small shops once set up.
+      - In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
+      - Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
 
 ### <span id="anchor-108"></span>Herder
 
@@ -1028,8 +1051,10 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Herder Tribal Community
     
-      - You receive 10 ranks in the Fray and Ranged Weapons skills.
-      - You receive 10 ranks in two Social skills or your choice
+      - 10 ranks in Fray
+      - 10 ranks in Ranged Weapons
+      - 10 ranks in one Social skill
+      - 10 ranks in Survival
 
 ### <span id="anchor-109"></span>Orcs
 
@@ -1205,14 +1230,16 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Traditional Orcish Community
     
-      - 10 ranks in Intimidate, 10 ranks in two Combat skills.
+      - 10 ranks in Intimidate
+      - 10 ranks in any two Combat skills
       - 1 weapon and 1 shield
 
   - Optional Background: Commonwealth Orcish Community
     
-      - 10 ranks in Protocol, 10 ranks in one Combat skill, 10 ranks in
-        one Technical skill.
-      - 1 weapon and 1 skill kit.
+      - 10 ranks in Protocol
+      - 10 ranks in one Combat skill
+      - 10 ranks in one Technical skill
+      - 1 weapon and 1 skill kit
 
   - Cultural Weapon: Orcish Sabre
     
@@ -1240,21 +1267,25 @@ Optional Background: Wood Elf Tribal Commuity
 
 ### <span id="anchor-110"></span>Ratfolk
 
-  - More than 500 years ago, there was a Ratfolk civilization in the
+  - More than 500 years ago, there was one Ratfolk civilization in the
     Warren Isles, an island chain off the Southwest near the Haven
     Isles.
 
   - They were organized into warrens run by families, and practiced
     fishing and farming.
 
-  - Shortly before the Haven Isles where settled, some stronger clans
-    began to subjugate their neighbors, centralizing power.
+  - In CY 331, 20 years before the Commonwealth started to settle Islandhome, several wealthy Ratfolk warrens united and forced their neighboring to pay tribute; they became wealthy and powerful while their kin suffored.  In the following years, other Ratfolk warlords began to rise in the Warren Isles.
 
-  - Shortly after the Haven Isles where settled, Shade Elves begin
-    raiding the Ratfolk, and large numbers of Ratfolk begin fleeing
-    their original home. Some travel north to the Haven Isles, where
-    they are eventually incorporated into the Commonwealth; others flee
-    South and settle on Raptor’s Plane, where they coexist with Raptors.
+  - In CY 361, the Shade Elves crossed the Shaded Sea and began to heavily raid the Warren Isles.
+    
+      - large numbers of Ratfolk begin fleeing the Warren Isles.
+      - Some travel north to the Haven Isles, where they were eventually incorporated into the Commonwealth;
+      - others fled South to the Ruby Plane, where they encountered the Raptors.
+
+  - In CY 395, the conflict between the Warren Isles Ratfolk and the Shade Elves drags to a halt; in 398, the two form a tentative alliance, creating the Shaded Sea Peoples.
+  
+      - It is later learned that the "alliance" was a construct of the enigmatic Leapers.
+      - The Leapers had attacked the major cities of Shade Elves and the largest warrens in the Haven Isles, and had forced both the Shade Elves and Ratfolk to pay them tribute.
 
   - There are now 3 distinct Ratfolk cultures:
     
@@ -1319,15 +1350,12 @@ Optional Background: Wood Elf Tribal Commuity
         maintain a warren and holdings.
       - They are loosely confederated, amongst themselves and with Shade
         Elves.
-      - \+10 ranks in Intimidate, +10 ranks in Profession: Pirate, +10
-        Ranks in one combat skill
-      - One cost: Medium weapon, one Profession: Pirate skill kit
-      - I’m not sure about that, because I’m not sure what would be in
-        it.
-      - Warren Isles Sea-Rats don’t receive 10 ranks in Language:
-        Common. Instead, they receive 10 ranks Shade Elven. They
-        commonly speak Warren Isles Ratfolk (language group GF)
-        natively.
+      - 10 ranks in Intimidate
+      - 10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher
+      - 10 ranks in one combat skill
+      - one weapon (of Cost: Moderate)
+      - one Skill Kit
+      - Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.  Instead, they receive one dot in Shaded Sea Common and one dot in Shaded . They commonly speak Warren Isles Ratfolk (language group GR) natively.
 
   - Optional Background: Raptor’s Plane Ratfolk
     
@@ -1345,12 +1373,12 @@ Optional Background: Wood Elf Tribal Commuity
         encounter their distant cousins in the Commonwealth’s fleets).
       - They still fish and trade along rivers and shores, although
         Shaded Sea piracy makes this dangerous.
-      - \+10 Ranks in Protocol, +10 Ranks in one Combat skill, +10 Ranks
-        in one Trade Skill
-      - One cost: Medium weapon, one Skill Kit.
-      - Raptor’s Plane Ratfolk don’t gain 10 ranks in Common; instead,
-        they gain 10 ranks in Raptor. They usually speak Jungle Ratfolk
-        as a native language.
+      - 10 Ranks in Protocol
+      - 10 Ranks in one Combat skill
+      - 10 Ranks in one Trade Skill
+      - one weapon of Cost: Moderate
+      - one Skill Kit
+      - Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Raptor's Common. They usually speak Jungle Ratfolk as a native language.
 
 ### <span id="anchor-111"></span>Shamblers
 
@@ -1407,9 +1435,10 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Optional Background: Shambler Community
     
-      - 10 ranks in one Profession and one Craft skill.
-      - 10 ranks in Survival.
-      - 1 Skill Kit.
+      - 10 ranks in two Technical skills
+      - 10 ranks in Survival
+      - one Skill Kit
+      - one weapon (of Cost: Moderate)
 
 ### <span id="anchor-112"></span>Tempters
 

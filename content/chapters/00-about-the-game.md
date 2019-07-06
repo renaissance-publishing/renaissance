@@ -30,6 +30,8 @@ Changes since last time:
   - Made “other factions” its own subsection, have started cleaning that
     up a little.
 
+      - wrote up the Kingdoms of Man, finally.
+
   - Added proficiency skills, reworked skills (again).
     
       - Moved attack skills, athletics to proficiency skills.
@@ -80,6 +82,16 @@ Changes since last time:
         translated from Commonwealth Standard to English.
       - And I’m moving towards a standard form for Common words and
         names, like Worldspine, Islandhome, Westward, Warmblood (Coat) …
+  
+  - Minor adjustments all the backgrounds (in the Backgrounds and Races sections, anyway).
+
+      - standardized a lot of the formatting.
+      - Reworked them so they'd all have 40 CP of stuff (with one exception).
+      - Backgrounds remain a work in progress.
+
+  - Added an Endurance trait for humans,
+
+      - and a Halfling Wagon for halflings.
         
 
 Feedback Questions
@@ -102,6 +114,12 @@ Feedback Questions
 To-Do:
 
   - revise items-and-down for new attack skills.
+
+  - Edit the example section to match the last like 3 revisions of changes, god.
+
+  - Update the Ratfolk entry to flow a little more like the Elven one.
+
+  - And update the Gnoll entry to include Arctic Gnolls.
 
   - Lots more player options\!
     
@@ -189,8 +207,7 @@ Contributors:
   - SeaVea: fort design, feedback on armor and weapons, new drake
     history. Milestone system. Large weapon rework.
   - King K: the Gnomes, Drugs, help with rep networks. A map\!
-  - Sinestro: stealth powers, giving the barter system a good exercise.
-    Reworking the Orcs. GMing and testing.
+  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website!
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
 

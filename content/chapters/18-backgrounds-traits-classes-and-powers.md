@@ -41,8 +41,10 @@ Assist action during combat.
   - Dragonshire
     
       - You were born in the former-Kingdom of the Dragonshire
-      - 10 ranks in Knowledge: History, 10 ranks in Protocol, 10 ranks
-        in one other Social skill, 10 ranks in one Combat skill.
+      - 10 ranks in Knowledge: History
+      - 10 ranks in Protocol
+      - 10 ranks in one Combat skill
+      - 10 ranks in one other Social skill (besides Protocol)
       - Common Races: Humans, Drakes
       - Common Languages: Rak, Weal, Royal
       - This would be a good one to swap a Trait into.
@@ -51,8 +53,8 @@ Assist action during combat.
     
       - You were born in one of the subterranean communities that have
         taken up residence in the Haven Isles
-      - 10 ranks in one Knowledge skill, 10 ranks in one Profession
-        skill
+      - 10 ranks in one Knowledge skill
+      - 10 ranks in one Profession skill
       - 10 ranks in Control or Spellcraft
       - a Sleight or Spell that you qualify for.
       - Common Races: Ash Elves, Dwarves, Kobolds
@@ -62,37 +64,41 @@ Assist action during combat.
 
   - Manor Child
     
-      - you were born in a Manor in Heartland Province
+      - You were born in a manor in Heartland Province
       - 10 ranks in two Trade skills of your choice
-      - Tough trait
+      - one skill kit
+      - one weapon or armor of Moderate cost.
+      - the Tough trait
       - Common Races: Gnolls, Humans, Halflings, Ratfolk
       - Common Languages: Weal, regional languages
 
   - Professional
     
-      - You are part of the nascent middle class of traders and
-        professionals
+      - You are part of the nascent middle class of traders and professionals
       - 10 ranks in Barter
       - 10 ranks in two Technical skills
-      - either one Medium Trade Goods and one Skill Kit, or one Shop
+      - ~~~either one Medium Trade Goods and one Skill Kit, or one Shop~~~
+      - either two Skill Kits or one Shop
+      - Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk
+      - Common Languages: Weal, Islander, Common
 
   - Tribesman
     
-      - You are from one of the tribal societies in the Tribal Lands
-      - 10 ranks in Handle Animal, 10 ranks in Survival
-      - 10 ranks in either Profession: Shepherd, Profession: Farmer or
-        Profession: Hunter
-      - Quick trait
+      - You are from one of the tribal or traditional societies that live in the vast forrest between Westward and Northland provinces.
+      - 10 ranks in Handle Animal
+      - 10 ranks in Survival
+      - 10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter
+      - the Quick trait
       - Common Races: Shifters, Wood Elves, Herders, Gnolls
-      - Common Languages: tribal languages (many tribes speak their own
-        unique languages)
+      - Common Languages: tribal languages (many tribes speak their own unique languages)
 
   - Urbanite
     
       - You are from one of the Commonwealth’s large urban centers
-      - 10 ranks in Language: Common
+      - one dot in Language: Common
+      - one Skill Kit
       - 10 ranks in Protocol
-      - 10 ranks to two Social or Technical skill of your choice
+      - 10 ranks in each of two Social or Technical skills of your choice
       - Common Races: Kobolds, Humans, Ratfolk
       - Common Languages: Weal
 
@@ -100,8 +106,11 @@ Assist action during combat.
     
       - Wanderers, vagrants and transients by birth, choice or
         circumstance.
-      - 10 ranks in Survival, 10 ranks in Medicine
-      - 10 ranks in Language: Common
+      - 10 ranks in Survival
+      - 10 ranks in Medicine
+      - ~~~10 ranks in Language: Common~~~
+      - 1 dot in Common
+      - 1 Skill Kit.
       - Trait: alert
       - Common Races: any
       - Common Languages: any
@@ -141,16 +150,16 @@ Traits are not actions; they are always in effect during play.
 
   - Ready: you may spend a Luck Point to re-roll your initiative.
     
-      - original idea: +2 INIT
-      - possible better idea: once per combat, you may move to head of
-        the initiative order for the following turn.
-      - Or: roll your INIT twice, and take the best result.
+      - ~~~original idea: +2 INIT~~~
+      - ~~~possible better idea: once per combat, you may move to head of the initiative order for the following turn.~~~
+      - ~~~or roll your INIT twice, and take the best result.~~~
       - I like both of those more, I think, because I usually prefer
         abilities that are really interesting discretely over ones that
         do a little bit constantly. And also because I prefer people
         invest in good Aptitutdes if they want good numbers. But it
         might also be OK, since INIT isn’t a skill and you can’t invest
         in it directly.
+      - ~~~In combat, you may spend a Luck Point to move to the head of the initiative order.~~~
 
   - Resilient: you are particularly mentally durable. You can negate one
     Trauma.
