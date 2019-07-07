@@ -21,12 +21,12 @@
                     {% endif %}
                 {% endfor %}
                 <li class="pure-menu-item {% if branches|length > 1 %}pure-menu-has-children pure-menu-allow-hover{% endif %}">
-                    <a class="pure-menu-link" href="/book/introduction">Book</a>
+                    <a class="pure-menu-link" href="/book/about-the-game">Book</a>
                     {% if branches|length > 1 %}
                         <ul class="pure-menu-children">
                         {% for branch in branches %}
                             {% if branch.name != 'source' %}
-                                <li class="pure-menu-item"><a class="pure-menu-link" href="/book/{{ branch.name }}/introduction">Book {{ branch.name }}</a></li>
+                                <li class="pure-menu-item"><a class="pure-menu-link" href="/book/{{ branch.name }}/about-the-game">Book {{ branch.name }}</a></li>
                             {% endif %}
                         {% endfor %}
                         </ul>
