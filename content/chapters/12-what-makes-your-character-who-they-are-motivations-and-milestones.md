@@ -1,5 +1,5 @@
 ---
-title: What Makes Your Character Who They Are: Motivations and Milestones
+title: "What Makes Your Character Who They Are: Motivations and Milestones"
 ---
 
 The rules of the game are primarily concerned with what your character

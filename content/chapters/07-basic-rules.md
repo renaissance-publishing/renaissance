@@ -1,5 +1,5 @@
 ---
-title: Basic Rules
+title: "Basic Rules"
 ---
 
 ## <span id="anchor-34"></span>The Rule(s) 0

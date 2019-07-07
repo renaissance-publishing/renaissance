@@ -1,5 +1,5 @@
 ---
-title: Races
+title: "Races"
 ---
 
 There are three separate keywords that have special significance in Race
@@ -13,7 +13,7 @@ don’t acquire them for free; rather, they are added to your list of
 options at character creation, and you may *optionally* select them
 using all the normal rules for taking Traits, Classes, Powers or
 Backgrounds during character creation. (So, for example, Shifters don't
-*just have *the Animal Form trait, but they can purchase it during
+*just have* the Animal Form trait, but they can purchase it during
 character creation for CP, just like any other trait they are eligible
 for.)
 
@@ -52,10 +52,7 @@ can just take the Trait if they want to).
     for a powerful spirit willing to provide him a great boon—for a
     great price.
     
-      - Ultimately, a spirit contacted him; it variably identified
-        itself as *the Bulrush God*, *the Rainstorm Shepherd *and *the
-        Osprey’s Father, *and it dwelt within the southern reaches of
-        the Dragonshire.
+      - Ultimately, a spirit contacted him; it variably identified itself as *the Bulrush God*, *the Rainstorm Shepherd* and *the Osprey’s Father*, and it dwelt within the southern reaches of the Dragonshire.
       - The spirit’s actual basin remains unknown, as does the extent of
         its powers; they are certainly great, given what it did.
       - It gave Karrach and his followers instructions for creating holy

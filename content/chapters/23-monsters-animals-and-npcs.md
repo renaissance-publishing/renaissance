@@ -1,5 +1,5 @@
 ---
-title: Monsters, Animals and NPCs
+title: "Monsters, Animals and NPCs"
 ---
 
 ## <span id="anchor-189"></span>Sample Creatures

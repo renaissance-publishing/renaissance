@@ -1,5 +1,5 @@
 ---
-title: Senses, Movements and Special Abilities
+title: "Senses, Movements and Special Abilities"
 ---
 
 The following are common Senses, Movement types and Special Abilities.

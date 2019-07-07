@@ -1,5 +1,5 @@
 ---
-title: Items
+title: "Items"
 ---
 
 Items are broken into five categories:* trivial, minor*, *moderate,

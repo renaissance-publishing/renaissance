@@ -1,5 +1,5 @@
 ---
-title: Other Factions
+title: "Other Factions"
 ---
 
 ## <span id="anchor-17"></span>The Kingdoms of Men

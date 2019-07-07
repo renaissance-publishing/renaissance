@@ -1,5 +1,5 @@
 ---
-title: Cheating Reality: Magic, Powers and Luck
+title: "Cheating Reality: Magic, Powers and Luck"
 ---
 
 ## <span id="anchor-63"></span>Using Magic

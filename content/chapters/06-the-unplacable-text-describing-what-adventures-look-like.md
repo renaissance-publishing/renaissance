@@ -1,5 +1,5 @@
 ---
-title: The Unplacable Text Describing What Adventures Look Like
+title: "The Unplacable Text Describing What Adventures Look Like"
 ---
 
 I need to work on this some. I’m not sure I want the setting to have a

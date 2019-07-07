@@ -1,5 +1,5 @@
 ---
-title: From the Authors
+title: "From the Authors"
 ---
 
 ## <span id="anchor-2"></span>About the Setting

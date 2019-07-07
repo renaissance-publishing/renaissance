@@ -1,5 +1,5 @@
 ---
-title: Skills
+title: "Skills"
 ---
 
 ## <span id="anchor-81"></span>Types of Skill

@@ -1,5 +1,5 @@
 ---
-title: Alternate Rules
+title: "Alternate Rules"
 ---
 
 The following are alternate rules systems. Some of them might be ideas

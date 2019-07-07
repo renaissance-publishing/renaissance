@@ -1,5 +1,5 @@
 ---
-title: Running Games
+title: "Running Games"
 ---
 
 ## <span id="anchor-187"></span>Designing Adventures

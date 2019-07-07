@@ -1,5 +1,5 @@
 ---
-title: Character Creation and Advancement
+title: "Character Creation and Advancement"
 ---
 
 ## <span id="anchor-86"></span>Character Creation

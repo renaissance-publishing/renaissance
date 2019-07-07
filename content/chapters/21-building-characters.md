@@ -1,5 +1,5 @@
 ---
-title: Building Characters
+title: "Building Characters"
 ---
 
 The rules for Renaissance are very free-form; some people really enjoy
