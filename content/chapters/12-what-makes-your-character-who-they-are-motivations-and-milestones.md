@@ -164,7 +164,7 @@ Milestone represents a character’s *history*, not necessarily their
 present state. Even if Lohrs’ scars are healed, he can still be the
 Scarred Warrior, because he still won a heroic wrestling match with a
 Leaper while covered in Scour.
-M/aside>
+</aside>
 
 ### Invoking Milestones
 
