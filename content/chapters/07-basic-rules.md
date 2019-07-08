@@ -213,7 +213,7 @@ Checks are at the heart of Renaissance.
             penalty for defaulting—you’re in enough trouble
             already\!—although other modifiers would apply as normal.
 
-  <aside>
+<aside class="gmguidance">
   - Sidebar: When should we use checks?
     
       - When is a check called for, and what type? This depends on the
@@ -235,7 +235,7 @@ Checks are at the heart of Renaissance.
         use.
       - Similarly, Down Time has more specific rules; see the rules for
         Down Time.
-  </aside>
+</aside>
 
   - Sidebar: Trying Again
     
