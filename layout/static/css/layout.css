@@ -79,6 +79,8 @@ footer
     top: 140px;
     display: block;
     max-width: 380px; /* a little narrower, so there's some margin */
+    word-wrap: break-word;
+    text-overflow: ellipsis;
 }
 
 
@@ -91,8 +93,9 @@ footer
  * 
  * ... also I didn't know that there was an aside element!
  * kinda cool!
+ * but I can't use that directly here because the nav is also an aside.
  */
-aside
+aside:not(.pure-g)
 {
     width: 50%;
     text-align: left;
