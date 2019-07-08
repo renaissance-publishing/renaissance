@@ -1,11 +1,11 @@
 ---
-title: "What Makes Your Character Who They Are: Motivations and Milestones"
+title: "Motivations and Milestones"
 ---
 
 The rules of the game are primarily concerned with what your character
-can *do: * their abilities, their senses, their skills, and so on. But
+can *do:* their abilities, their senses, their skills, and so on. But
 perhaps more important to a dedicated role-player are the things that
-*make their character who they are: *the motivations that drive them
+*make their character who they are:* the motivations that drive them
 forward, and the life and history that has shaped them. This section is
 concerned with their *motivations* and their *milestones.*
 
@@ -87,6 +87,7 @@ Milestones are awarded at the GM’s discretion. Milestone are usually
 awarded either to denote either a major achievement (or major failure)
 on a character’s part, or to reward a character for good role-playing.
 
+<aside class="example">
 Example: Chandra the Drake has ventured into the neighboring Kingdoms of
 Men to defeat a slave ring. When he encounters one of their champions—a
 Wolverine shifter—rather than frighten, he decides to charge her, using
@@ -94,7 +95,9 @@ his *Dragonshire Style* power to grip his sword by the blade and strike
 her with the pommel. He rolls a critical success, and inflicts so much
 damage that he downs the slaver in that single blow. The (frustrated) GM
 decides that Chandra has earned the “Pommel-er” milestone.
+</aside>
 
+<aside class="example">
 Example: Fire-Watcher the Shifter mage has used his *Journey* power to
 teleport himself into the office of Grana (the local Commonwealth
 general, who has given the party their current quest) without any
@@ -106,6 +109,7 @@ Atlantis, and so he delivers the remainder of the scene doing his best
 Rodney McKay impression. The GM is sufficiently amused that she decides
 that Fire-Watcher has earned the “Just Don’t Give Him a Lemon”
 milestone.
+</aside>
 
 Milestones should not be given too often; they are used to highlight
 truly memorable moments in a character’s history, which don’t happen all
@@ -123,6 +127,7 @@ up in the future? Equally, is it the kind of story that the player is
 going to tell the first time they describe their character to someone?
 If so, awarding a milestone is appropriate.
 
+<aside class="gmguidance">
 Sidebar: Negative Milestones.
 
 Sometimes a player frustrates the group or fails to perform at a
@@ -136,7 +141,9 @@ role-playing failures and player misconduct with milestones. It is
 almost always a better idea to talk to a problem player about what
 they’re doing than to passive-aggressively give their character a
 snide nickname they didn’t pick and hope they take the hint.
+</aside>
 
+<aside class="gmguidance">
 Sidebar: Upgrading, Changing and Removing Milestones
 
 Sometimes, character’s (or player’s) current exploits build on their
@@ -157,6 +164,7 @@ Milestone represents a character’s *history*, not necessarily their
 present state. Even if Lohrs’ scars are healed, he can still be the
 Scarred Warrior, because he still won a heroic wrestling match with a
 Leaper while covered in Scour.
+M/aside>
 
 ### Invoking Milestones
 
@@ -172,6 +180,7 @@ spend a point of Luck to gain; alternatively, at their discretion, the
 GM may offer you special bonuses or effects appropriate to your
 character and the situation.
 
+<aside class="example">
 Example: Aryn the Elven archer had previously earned the “Enemy of the
 Chosen” milestone for throwing several weapons consecrated to the One
 that Chose Us into the ocean as a deliberate offense to the loathsome
@@ -179,7 +188,9 @@ spirit. In the current game, she finds herself fighting several of the
 One’s champions. When she hits one with a bow, she invokes her milestone
 to upgrade her exceptional success into a critical one, as though she
 had spent a Luck Point to do so.
+</aside>
 
+<aside class="example">
 Example: Lohrs the ash-elf grappler had previously earned the “Scarred
 Warrior” milestone for grappling a Leaper even as he was covered in
 Scour himself. In the current game, Lohrs is attempting to grapple an
@@ -188,18 +199,13 @@ The creature scores massive damage, and would disable Lohrs; the GM
 offers to allow him to invoke his Scarred Warrior milestone to show
 heroic perseverance, allowing him to take one more turn regardless of
 how much damage he takes.
+</aside>
 
 ### Challenging Milestones
 
-Besides a player *invoking* a milestone, the GM can also *challenge* a
-milestone. To issue a* milestone challenge*, the* *GM offers a player an
-additional *challenge* relating to one of their milestones, and a*
-bonus* should they accept the challenge; the player must then choose to
-accept the challenge or not. In general, challenges and bonuses should
-be interesting and appropriate to the milestone; in want of an
-appropriate challenge or bonus, GMs may use a Luck Point, either for an
-NPC’s use or the player’s, respectively.
+Besides a player *invoking* a milestone, the GM can also *challenge* a milestone. To issue a *milestone challenge*, the GM offers a player an additional *challenge* relating to one of their milestones, and a *bonus* should they accept the challenge; the player must then choose to accept the challenge or not. In general, challenges and bonuses should be interesting and appropriate to the milestone; in want of an appropriate challenge or bonus, GMs may use a Luck Point, either for an NPC’s use or the player’s, respectively.
 
+<aside class="example">
 Example: Aryn is traveling in one of the larger cities of the Heartland
 Province, and the GM decides that it might be and interesting time for
 her past to catch up to her. He offers her a challenge: there happens to
@@ -210,6 +216,7 @@ as a potential enemy—a powerful one, with wealth and a noble title. In
 exchange, Aryn will gain a +10 bonus to social skills tests with the
 people of the city, owing to her history as a champion of the
 Commonwealth and its values.
+</aside>
 
 ### Social Bonuses and Penalties
 
@@ -245,6 +252,7 @@ discretion. (Your willingness to regale the group with the heroic tale
 of how you earned those milestones may factor into the GM’s decision, as
 might your willingness to buy the group a pizza.)
 
+<aside class="example">
 Example: a player joining a new group decides to base her character on
 the one she player in her previous game—Venn the Shambler Halberdier.
 Even though she builds Ven from scratch using the character creation
@@ -252,12 +260,14 @@ rules, she still wants to “keep” some of her favorite moments from Ven’s
 previous adventures in her prior game. She asks the GM if she can have
 the “Gift of Remorse” and “Ice-Breaker Halberdier” milestones to
 represent Venn’s previous exploits.
+</aside>
 
 Note that we interpret the idea of an “existing character” somewhat
 loosely; your current character need only be inspired by or based on a
 previous character—possibly even one from an entirely different game
 system—to gain milestones from their history.
 
+<aside class="example">
 Example: a player joining a new group decides to base his *Renaissance*
 character on his own character from a previous Eclipse Phase game—thus,
 Dayton Lex, the lightning-wielding psion. He tells his new group of
@@ -265,4 +275,4 @@ Dayton’s exploits vaporizing Ultimates with plasma fire, and of the
 hilarious compulsions his old group picked for his async character when
 he resleeved. The GM is suitably amused, and grants the new Dayton Lex
 the *Ultimate* and *Asynchronous* milestones.
-
+</aside>
