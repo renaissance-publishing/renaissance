@@ -214,27 +214,13 @@ Checks are at the heart of Renaissance.
             already\!—although other modifiers would apply as normal.
 
 <aside class="gmguidance">
-  - Sidebar: When should we use checks?
+Sidebar: When should we use checks?
     
-      - When is a check called for, and what type? This depends on the
-        situation.
-      - In unstructured play, the type of *consequences* that the GM
-        expects often determine the kind of check to use. If a check
-        could have major consequences (like an attempt to hide an item
-        you stole from the king while being searched by a guard), then a
-        check is definitely called for. However, if the odds of failure
-        are low, or the consequences of failure aren’t interesting, then
-        Simple Checks might be used, or the check might be waived
-        all-together.
-      - Notably, most mundane actions don’t require checks. A character
-        can make the half-day’s walk to a neighboring town, cook a meal
-        or speak in a language they know without requiring a check.
-      - The rules for Initiative Order and Combat are more specific; in
-        combat, the exact series of checks to use will usually be
-        specified by the rules for combat, and the items and powers in
-        use.
-      - Similarly, Down Time has more specific rules; see the rules for
-        Down Time.
+  - When is a check called for, and what type? This depends on the situation.
+  - In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use. If a check could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), then a check is definitely called for. However, if the odds of failure are low, or the consequences of failure aren’t interesting, then Simple Checks might be used, or the check might be waived all-together.
+  - Notably, most mundane actions don’t require checks. A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
+  - The rules for Initiative Order and Combat are more specific; in combat, the exact series of checks to use will usually be specified by the rules for combat, and the items and powers in use.
+  - Similarly, Down Time has more specific rules; see the rules for Down Time.
 </aside>
 
   - Sidebar: Trying Again
