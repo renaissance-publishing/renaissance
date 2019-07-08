@@ -76,8 +76,9 @@ footer
     */
 
     position: absolute;
+    top: 140px;
     display: block;
-    max-width: 400px;
+    max-width: 380px; /* a little narrower, so there's some margin */
 }
 
 
@@ -87,8 +88,11 @@ footer
 
 /* Class for all the various asides.
  * It lays them out as right-floats.
+ * 
+ * ... also I didn't know that there was an aside element!
+ * kinda cool!
  */
-.aside
+aside
 {
     width: 50%;
     text-align: left;
