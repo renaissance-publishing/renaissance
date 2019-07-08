@@ -95,7 +95,7 @@ footer
  * kinda cool!
  * but I can't use that directly here because the nav is also an aside.
  */
-aside:not(.pure-g)
+aside:not(.toc-menu)
 {
     width: 50%;
     text-align: left;
