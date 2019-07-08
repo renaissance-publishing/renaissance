@@ -97,9 +97,12 @@ footer
  */
 aside:not(.toc-menu)
 {
+    /*
     width: 50%;
     text-align: left;
     float: right;
+    */
+    margin: 20px;
     padding: 20px;
     border: 3px solid black;
 }
