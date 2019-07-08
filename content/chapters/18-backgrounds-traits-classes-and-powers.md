@@ -300,7 +300,7 @@ they do not cost CP.
         feet. It gains claws that do 1d10+4+DB DV damage, and have AP
         -2. Requires a thirty-minute task action, claws or scrap metal.
 
-  - Attendant of the Mourner
+  - *Attendant of the Mourner*
     
       - Requirements: 20 Ranks in one Combat skill, 20 Ranks in
         Research, the Cleric class.
@@ -459,7 +459,7 @@ they do not cost CP.
         what you can order them to do, and some obligations from you to
         the Commonwealth military\!).
 
-  - Paladin of Lyn
+  - *Paladin of Lyn*
     
       - Requirements: 20 Ranks in two combat skills, the *Cleric* class
       - When you are Bloodied and you have at least one wound (that you
@@ -477,7 +477,7 @@ they do not cost CP.
       - You have experience with calling up and dealing with the Spirits
         in the region where your shrine is located.
 
-  - Rat Queen
+  - *Rat Queen*
     
       - Requirements: 20 Ranks in Protocol, Gang Member
       - You are the leader of the Rat Queen’s Crew, a gang operating in
@@ -654,18 +654,10 @@ and are thus listed here.
     
       - Effect:
         
-          - After you use this Sleight, you do not need to eat or sleep
-            for 1 day.
-          - After completing the Sleight, you recover 1 Stress.
-          - While sustaining this Sleight, you are very difficult to
-            wake; other people will need to shake you violently to wake
-            you (a Standard Action). Other similarly violent actions
-            will wake you—if the building you are in collapses, or if
-            you are attacked, for example. If you are roused from the
-            Sleight before it completes, you suffer a -10 penalty from
-            the exhaustion and disorientation for 1 day.
-          - Special: if you have the Heal Sleight, you may also sustain
-            it during Down Time.
+          - After completing the use of this Sleight, you do not need to eat or sleep for 1 day.
+          - After completing the Sleight, you recover 1d10&div;3 Stress.
+          - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you—if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
+          - Special: if you have the Heal Sleight, you may also sustain it during Down Time.
 
   - Fortify
     
@@ -675,11 +667,8 @@ and are thus listed here.
     
       - Effect: you can fortify your physical and mental abilities.
         
-          - While you sustain this Sleight, you receive a +5 bonus to
-            one of your Aptitudes, to your Strength, or to your
-            Durability. (If you change your Durability, then the stats
-            that depend on it also change, for the duration of the
-            Sleight.)
+          - While you sustain this Sleight, you receive a +5 bonus to one of your Aptitudes, to your Strength, or to your Durability.
+          - (Your derived stats would also change, as normal.)
 
   - Heal
     
@@ -690,12 +679,8 @@ and are thus listed here.
       - Effect: Your wounds begin to heal.
         
           - While sustaining this power, you have Fast Healing 1.
-          - While sustaining this power, you may attempt a Control check
-            as a Quick Action; if you succeed, you instead have Fast
-            Healing 2.
-          - Special: if you have a few minutes to focus yourself (i.e.,
-            when you are out of combat), the GM may allow you to
-            progress to Fast Healing 2 without requiring a check.
+          - While sustaining this power, you may attempt a Control check as a Quick Action; if you succeed, you instead have Fast Healing 2.
+          - Special: if you have a few minutes to focus yourself (i.e., when you are out of combat, the GM may allow you to progress to Fast Healing 2 without requiring a check.
 
   - Transfer
     
@@ -746,7 +731,7 @@ and are thus listed here.
         Normally, this is an equal blending; however, under some
         circumstances – particularly if the target is unwilling – the
         two minds might fight for dominance over the Gestalt. Treat this
-        as an opposed WIL \* 3 check, with the winner gaining dominance,
+        as an opposed WIL&times;3 check, with the winner gaining dominance,
         and thereafter being able to direct the actions of the gestalt.
       - The gestalt mind has access to the skills, knowledge and
         memories of both individuals. The gestalt mind will also express
@@ -772,7 +757,7 @@ and are thus listed here.
         Thereafter, as long as you continue to sustain Join, you can
         break physical contact with the target and maintain the Gestalt.
         This makes physical action far more feasible.
-      - The targets cannot get more than (Your ranks in Control) \* 2
+      - The targets cannot get more than (Your ranks in Control)&times;2
         meters apart from one-another, or the effect ends.
 
   - Collective
@@ -867,7 +852,7 @@ and are thus listed here.
       - Not sure about this one, did it quick. Wanted to avoid this with
         the base Charm; mind control can get obscene.
 
-  - Weave:
+  - ~~Weave:
     
       - Requires: 10 Ranks in Athletics, 10 Ranks in Fray
     
@@ -884,7 +869,7 @@ and are thus listed here.
             all your attention on parrying incoming blows, for example.
           - You get the +20 bonus to checks made to defend yourself,
             whether you use Athletics to defend or not. You can defend
-            with Fray and still get the +20 bonus, for example.
+            with Fray and still get the +20 bonus, for example.~~
 
   - Quick Counter:
     

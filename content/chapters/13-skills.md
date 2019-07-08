@@ -158,24 +158,24 @@ title: "Skills"
       - Active, Physical, Technical
       - Represents your ability to defeat mechanical devices.
       - Used to pick locks, disable traps and disable magical devices.
-      - Usually used unopposed, although the quality of the device might
-        impose a penalty (or allow a bonus).
+      - Usually used unopposed, although the quality of the device might impose a penalty (or allow a bonus).
       - Specialization: lock-picking, traps, clockwork
 
   - Disguise (INT)
     
       - Active, Social
-      - Disguise is used to physically disguise yourself as someone
-        else.
-      - You will often also need to have *Deception* in order to pass
-        yourself off as someone else in a social situation.
+      - Disguise is used to physically disguise yourself as someone else.
+      - You will often also need to have *Deception* in order to pass yourself off as someone else in a social situation.
 
   - Exotic Skill (Attribute Varies, Field Skill)
     
       - Exotic, *other tags*
       - Freeform skill, used to handle very unusual cases of other
         skills. Examples:
-      - Exotic Weapon (COO for ranged, SOM for melee)
+      - ~~Exotic Weapon (COO for ranged, SOM for melee)~~
+
+          - Most of the weapons skills have "by exotic weapon" in their list of example proficiencies.
+
       - Exotic Culture (SAV, Protocol for very alien cultures)
       - Exotic Knowledge (COG, for esoteric knowledge)
       - Exotic Mount (COO or SAV)
@@ -187,27 +187,22 @@ title: "Skills"
   - Fray (COO)
     
       - Active, Combat, Physical
-      - Your general-use defense skill, representing your ability to
-        avoid attacks.
+      - Your general-use defense skill, representing your ability to avoid attacks.
       - Can also be used to test your ability to dodge and evade.
 
   - Fly (COO)
     
       - Active, Movement, Physical
-      - Used to represent your character’s skill at flying and areal
-        maneuvering.
-      - There’s no rule against a creature that can’t fly taking ranks
-        in the fly skill—although it also won’t do them much good.
+      - Used to represent your character’s skill at flying and areal maneuvering.
+      - There’s no rule against a creature that can’t fly taking ranks in the fly skill—although it also won’t do them much good.
 
   - Intimidate (SAV)
     
       - Active, Combat, Social
       - Used to represent your characters ability to manipulate others
         through menace rather than poise.
-      - Usually used opposed, against the target’s *Resist Intimidation*
-        (see *Special Numbers *below).
-      - Specialization: by circumstance (interrogation, combat) or by
-        method (physical intimidation, blackmail)
+      - Usually used opposed, against the target’s *Resist Intimidation* (see *Special Numbers* below).
+      - Specialization: by circumstance (interrogation, combat) or by method (physical intimidation, blackmail)
 
   - Knowledge (COG, Field Skill)
     
@@ -223,11 +218,8 @@ title: "Skills"
     
       - Example Fields:
         
-          - by interest: Criminal Gangs, Folklore, Local Religions,
-            Military Tactics, Noble Lines
-          - by academic study: Astronomy, History, Literature, Magic,
-            Mathematics, Natural Philosophy, Philosophy, Rhetoric,
-            Theology
+          - *by interest*: Criminal Gangs, Folklore, Local Religions, Military Tactics, Noble Lines
+          - *by academic study*: Astronomy, History, Literature, Magic, Mathematics, Natural Philosophy, Philosophy, Rhetoric, Theology
 
   - Medicine (COG)
     
@@ -238,8 +230,7 @@ title: "Skills"
     
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with various one-handed melee weapons.
-      - Sample Specializations: Axes, Clubs, Daggers, Hammers, Maces,
-        Swords, *by exotic weapon*
+      - Sample Specializations: Axes, Clubs, Daggers, Hammers, Maces, Swords, *by exotic weapon*
 
   - Perception (INT)
     
@@ -264,8 +255,7 @@ title: "Skills"
     
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with pole-arms, the mainstays of infantry combat.
-      - Sample Specializations: Bladed, Blunt, Spiked, *by exotic
-        weapon*
+      - Sample Specializations: Bladed, Blunt, Spiked, *by exotic weapon*
 
   - Profession (COG, Field Skill)
     
@@ -278,9 +268,7 @@ title: "Skills"
       - Can be used to represent you practice a trade for profit
         (particularly during down-time).
       - For actually producing an item, see Craft
-      - Sample Fields: Brewer, Carpenter, Cobbler, Cook, Doctor,
-        Explorer, Farmer, Mason, Merchant, Painter, Priest, Professor,
-        Sailor, Scholar, Smuggler, Soldier, Thug, Trader
+      - Sample Fields: Brewer, Carpenter, Cobbler, Cook, Doctor, Explorer, Farmer, Mason, Merchant, Painter, Priest, Professor, Sailor, Scholar, Smuggler, Soldier, Thug, Trader
 
   - Protocol (SAV)
     
@@ -411,8 +399,7 @@ title: "Skills"
     
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with large, two-handed weapons.
-      - Sample Proficiencies: Axes, Double-Weapons, Hammers, Maces,
-        Staffs, Swords
+      - Sample Proficiencies: Axes, Double-Weapons, Hammers, Maces, Staffs, Swords, *by exotic weapon*
       - Double-Weapons refers to D\&D-style double-swords and the like.
 
   - Unarmed Combat (SOM, Proficiency Skill)
@@ -426,8 +413,7 @@ title: "Skills"
         attacks like acid spit (which would use Ranged Weapons) or a
         natural magical ability (which would most likely be described by
         a power).
-      - Sample Proficiencies: Grappling, Locks, Strikes, Throws, *by
-        natural weapon*
+      - Sample Proficiencies: Grappling, Locks, Strikes, Throws, *by natural weapon*
 
 Sidebar: Unusual Skills
 
