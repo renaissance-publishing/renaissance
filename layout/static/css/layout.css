@@ -68,9 +68,15 @@ footer
 
 .toc-menu
 {
+    /*
     position: fixed;
     top: 140px;
     display: inline-block;
+    max-width: 400px;
+    */
+
+    position: absolute;
+    display: block;
     max-width: 400px;
 }
 
