@@ -64,6 +64,11 @@ Proceed through the following steps in order:
             purchase your 10<sup>th</sup> rank, and another proficiency
             every 20 ranks thereafter. (So, at your 50<sup>th</sup>
             rank, you’ll get your third free proficiency, for example.)
+
+                - So you get a free proficiency at each of the following ranks:
+                - 10 / 30 / 50 / 70
+                - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
+
           - 5 CP → an additional proficiency
     
       - 5 CP → A specialization
