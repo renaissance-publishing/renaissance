@@ -65,9 +65,9 @@ Proceed through the following steps in order:
             every 20 ranks thereafter. (So, at your 50<sup>th</sup>
             rank, you’ll get your third free proficiency, for example.)
 
-                - So you get a free proficiency at each of the following ranks:
-                - 10 / 30 / 50 / 70
-                - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
+              - So you get a free proficiency at each of the following ranks:
+              - 10 / 30 / 50 / 70
+              - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
 
           - 5 CP → an additional proficiency
     
@@ -105,8 +105,8 @@ Proceed through the following steps in order:
     
       - no more than 50 ranks in a skill
       - no aptitudes higher than 35 or lower than 5
-      - at least 150 CP spent on skills with the *combat *tag
-      - at least 200 CP spent on skills that don't have the *combat *tag
+      - at least 150 CP spent on skills with the *combat* tag
+      - at least 200 CP spent on skills that don't have the *combat* tag
 
 Wealth Levels:
 

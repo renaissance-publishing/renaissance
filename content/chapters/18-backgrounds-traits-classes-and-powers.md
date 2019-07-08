@@ -108,7 +108,7 @@ Assist action during combat.
         circumstance.
       - 10 ranks in Survival
       - 10 ranks in Medicine
-      - ~~~10 ranks in Language: Common~~~
+      - ~~10 ranks in Language: Common~~
       - 1 dot in Common
       - 1 Skill Kit.
       - Trait: alert
@@ -716,7 +716,7 @@ and are thus listed here.
       - Condition: To use this power, you must be sustaining Transfer
       - Effect: You suffer one wound; if you do, the person you are
         Transfer-ing wounds from is healed for one wound.
-      - Using sacrifice can be stressfull. A WIL \* 3 test can be called
+      - Using sacrifice can be stressfull. A WIL&times;3 test can be called
         for to use this power; if the power is used successfully, Stress
         might be inflicted.
 
@@ -852,7 +852,7 @@ and are thus listed here.
       - Not sure about this one, did it quick. Wanted to avoid this with
         the base Charm; mind control can get obscene.
 
-  - ~~Weave:
+  - ~~Weave~~:
     
       - Requires: 10 Ranks in Athletics, 10 Ranks in Fray
     
@@ -860,16 +860,11 @@ and are thus listed here.
     
       - Effect: You are particularly good at evasive movement.
         
-          - In combat, you may take a Standard Action to *move
-            evasively*. You may move up to your running rate. Until the
-            beginning of your next turn, you may defend with your
-            Athletics skill, and you gain +20 to your defenses.
-          - You don’t have to actually move from your space to use this
-            power. Using Weave without moving might represent focusing
-            all your attention on parrying incoming blows, for example.
-          - You get the +20 bonus to checks made to defend yourself,
-            whether you use Athletics to defend or not. You can defend
-            with Fray and still get the +20 bonus, for example.~~
+          - In combat, you may take a Standard Action to *move evasively*. You may move up to your running rate. Until the beginning of your next turn, you may defend with your Athletics skill, and you gain +20 to your defenses.
+          - You don’t have to actually move from your space to use this power. Using Weave without moving might represent focusing all your attention on parrying incoming blows, for example.
+          - You get the +20 bonus to checks made to defend yourself, whether you use Athletics to defend or not. You can defend with Fray and still get the +20 bonus, for example.
+
+      - This power is unnecessary now that we added evasive movement back.
 
   - Quick Counter:
     
