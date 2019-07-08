@@ -2,7 +2,7 @@
 title: "The Supernatural"
 ---
 
-## <span id="anchor-23"></span>Magic
+## Magic
 
 Magic runs throughout the world of the Commonwealth; it is produced and
 consumed in countless ways, and bent to numerous ends.
@@ -39,7 +39,7 @@ skill they rely on, from which we infer what source of magic that they
 use (or as something else, like a maneuver, if they don’t use a magical
 source); see *Powers*.
 
-## <span id="anchor-24"></span>Spirits
+## Spirits
 
 Spirits are real and present things in the world of the Commonwealth—to
 the point that you can walk directly up to them and speak to them,
@@ -74,7 +74,7 @@ direct, presenting themselves directly to mortals and dealing plainly
 with them. (And, of course, a great many spirits have no concern for
 mortal affairs at all, dealing only with other spirits.)
 
-## <span id="anchor-25"></span>Propitiation
+## Propitiation
 
 Some spirits can be *propitiated*—that is, they will do favors for
 mortals that perform certain rituals or make certain offerings; we call
@@ -92,7 +92,7 @@ decipher the intricate and complex details of the wants, natures and
 politics of nearby Spirits, and connect flesh-and-blood supplicants to
 Spirits with whom they can do business.
 
-## <span id="anchor-26"></span>Manifestations
+## Manifestations
 
   - many spirits dwell in or near their basin (esp. if it's a region)
     
@@ -110,7 +110,7 @@ Spirits with whom they can do business.
     Shade. Some specific spirits also exist in the realm of Shade
     normally.
 
-## <span id="anchor-27"></span>Saints
+## Saints
 
 Some mortals can form special relationships with existing spirits; these
 mortals are sometimes granted places as Spirits after death (as opposed
@@ -123,7 +123,7 @@ their Spirit's cause.
 
 Saints frequently do not have happy histories.
 
-## <span id="anchor-28"></span>Binds
+## Binds
 
 Binds are a major part of bargaining with the Spirits. They are also
 almost a complete mystery.
@@ -158,7 +158,7 @@ Needless to say, keeping track of which spirits have known binds, how
 those binds work and, importantly, if those binds have any “gotchas” is
 a major and valuable occupation for the Clergy\!
 
-## <span id="anchor-29"></span>Sample Spirits and Temples
+## Sample Spirits and Temples
 
   - Uncle Haw
     
@@ -272,7 +272,7 @@ a major and valuable occupation for the Clergy\!
         destroying nature, and seeks to preserve such a balance.
       - Father of the Shamblers, see below.
 
-## <span id="anchor-30"></span>Death
+## Death
 
 Most who die pass on into the Realm of Shade, a dark and immaterial
 place of which mortals know little. There is no known record of any of

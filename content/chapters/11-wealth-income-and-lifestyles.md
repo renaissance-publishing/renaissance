@@ -2,7 +2,7 @@
 title: "Wealth, Income and Lifestyles"
 ---
 
-## <span id="anchor-68"></span>Wealth and Bartering
+## Wealth and Bartering
 
   - You have a wealth level, between 0 and 5.
     
@@ -68,7 +68,7 @@ title: "Wealth, Income and Lifestyles"
 | Item cost is more than 1 greater than wealth | Automatic failure |
 | You are wealth level 0                       | You can’t barter  |
 
-## <span id="anchor-69"></span>Changing your Wealth Level
+## Changing your Wealth Level
 
   - You can change your wealth level during down-time. However, this is
     very difficult to do.
@@ -83,7 +83,7 @@ title: "Wealth, Income and Lifestyles"
 | 4 (local wealthy) | 2 years, Profession check at -20  |
 | 5 (noble)         | 5 years, Profession check at -30  |
 
-## <span id="anchor-70"></span>Income, Investments and Lifestyles
+## Income, Investments and Lifestyles
 
   - You can work for income during down-time.
     

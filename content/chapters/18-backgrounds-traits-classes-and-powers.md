@@ -12,7 +12,7 @@ you can perform – usually, and Classes let you “break the rules” in
 limited and interesting ways – for example, Soldier let you use the
 Assist action during combat.
 
-## <span id="anchor-117"></span>Backgrounds
+## Backgrounds
 
   - Guidelines
     
@@ -115,7 +115,7 @@ Assist action during combat.
       - Common Races: any
       - Common Languages: any
 
-## <span id="anchor-118"></span>Traits
+## Traits
 
 Traits represent special properties about your character. In general,
 Traits are not actions; they are always in effect during play.
@@ -238,7 +238,7 @@ they do not cost CP.
         “your critical successes with Social Skills are ignored” or
         something like it.
 
-## <span id="anchor-119"></span>Classes
+## Classes
 
   - Guidelines for Creating Classes
     
@@ -534,7 +534,7 @@ Ideas:
   - Wizard
   - Attach motivations to classes?
 
-## <span id="anchor-120"></span>Powers
+## Powers
 
 Powers generally list the type of action they require, and the effect
 when used.  Some powers also have prerequisites. Note that a “power” is

@@ -2,7 +2,7 @@
 title: "Other Factions"
 ---
 
-## <span id="anchor-17"></span>The Kingdoms of Men
+## The Kingdoms of Men
 
 The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after it had collapsed.
 
@@ -25,7 +25,7 @@ The eastern Kingdoms are far more cruel; the Three Cities that built the Empire 
 
 The current High King is one Kass Ahnaff, who is the king of the city-kingdom of Annhallan (styled as Wise Westking and Merchentmen City in Common).  Merchentmen City is in the Western Kingdoms; it lies not on the border with the Commonwealth, but rather near the shores of the Kings' Sea.  Kass has enthusiastically pursued better relations with the Commonwealth, and has made only the barest pretense to disguise his willingness to cooperate with the Commonwealth to combat the nobles of the East who would see him deposed.  Many easterners view Kass as the worst human being alive.
 
-### <span id="kingdoms-economy"></span> The Kingdoms' Economy
+### The Kingdoms' Economy
 
 The Kingdoms are a relatively wealthy and sophisticated society, particularly in the West, where they have benefited heavily with trade with the Dragonshire the Commonwealth.
 During the peace that has prevailed between the Commonwealth and the Kingdoms since 695, merchants have crossed the borders between the Commonwealth and the Kingdoms, enriching communities on both sides; notably, rivers running east from the Worldspine give Commonwealth merchants easy access to the many ports on the Kings' Sea, the large inland sea that separates the Kingdoms of Men from the Goblin Empire.
@@ -34,7 +34,7 @@ Notably, knowledge also crosses the border, as scholars and innovations from the
 
 Unfortunately, this thriving trade does put strain on the east-west divide within the Kingdoms; Commonwealth traders seldom venture into the Eastern Kingdoms, and so the wealth produced by trade is concentrated in the west.
 
-### <span id="kingdoms-other-races"></span> Other Races
+### Other Races
 
 The Kingdoms of Men is a government of men, in their traditional territories; with few exceptions, they have not treated with the other races that may have dwelt within their borders, and instead have displaced them; any that remain are not recognized and citizens, but can only ever be subjects of the Kingdoms.
 
@@ -44,7 +44,7 @@ Unsurprisingly, the Haffa are enemies-by-necessity of the Eastern Kingdoms, who 
 
 Conversely, a particularly grim moment in the history of the Kingdoms' relations with an attempt launched in the Eastern Kingdoms to exterminate their indigenous Kobold population; this led to a mass exodus of Kobolds from the entire Kingdoms.  A few scant pockets of Kobold populations remain in the Western Kingdoms; some settled in the Dragonshire, owing partly to their ability to speak the Drakes' language; far larger number settled deep under the Worldspine; and many more still continued on to the Haven Isles.  In the Commonwealth, Kobolds have prospered and become numerous; this is not the least of the reasons that the Commonwealth views the Eastern Kingdoms as their enemy.
 
-### <span id="kingdoms-military"></span> The Military
+### The Military
 
 Rapid improvements in the quality and availability of steel plate armor---in both the Kingdoms and the Dragonshire---have been the major driver of military tactics in the Kingdoms.  The Kingdoms have sophisticated-enough metallurgy that they can produce large numbers of weapons and armors made of high-quality steel, but they cannot produce it on the scale that the Commonwealth can, and so steel plate armor in particular remains primarily the province of knights (who are often drawn from the ranks of the noble and the wealthy).
 
@@ -58,7 +58,7 @@ Though not a fact that is often spoken aloud---especially in the Eastern Kingdom
 
 The Kingdoms, however, *are* a match for their neighbor to the south, the Goblin Empire, which led the Goblins in years past to sail south from the Emerald Plane and seek riches (and weaker opponents) on the Ruby Plane.  This influx of wealth (and new source of fighting experience for their infantry), however, has led to a significant improvement in the Goblin Empire's military; this in turn has not escaped the notice of the Kingdoms of Men.
 
-### <span id="kingdoms-other-nations"></span> Other Nations
+### Other Nations
 
 At present, the Kingdoms of Men are at peace with the Commonwealth, and are not at war with the Goblin Empire.
 The High King has fostered good relations with the people of the Commonwealth, and the people of the Western Kingdom have prospered from it.
@@ -72,7 +72,7 @@ If the Easterners can seize control of the Kingdoms, and if they strike an allia
 
 Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance between the Shaded Sea People, the Goblins and the Eastern Kingdoms seems unlikely; the Human and Goblin nations have a long history of conflict, and the Shaded Sea People have no significant contact with either; what's more, the Eastern Kingdom's obvious contempt for non-humans would make such an alliance difficult to strike (and impossible to sustain).
 
-## <span id="anchor-18"></span>The Shaded Sea People
+## The Shaded Sea People
 
   - Alliance of Ratfolk and Shade Elves.
   - Shade elves originate in the Southwestern corner of the Emerald
@@ -96,7 +96,7 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
     and they still have several “client” populations in the Shaded Sea
     and on Emerald Plane.
 
-## <span id="anchor-19"></span>The Raptor’s Alliance
+## The Raptor’s Alliance
 
   - The Raptor’s Alliance
   - On the Raptor’s Plane, in the North-West and Central regions of the
@@ -111,7 +111,7 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
   - May be forced into closer alliance, as they are pressured by Goblins
     on the Eastern shore and Shaded Sea peoples on the West.
 
-## <span id="anchor-20"></span>The Goblin Kings
+## The Goblin Kings
 
   - In South-East of Emerald Plain – East of Dragonshire, South of
     Kingdoms of Men

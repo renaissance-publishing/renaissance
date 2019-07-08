@@ -6,7 +6,7 @@ I need to work on this some. I’m not sure I want the setting to have a
 final fate that’s this bleak, but there are elements of it that I like
 and that I want to keep.
 
-## <span id="anchor-32"></span>What you do
+## What you do
 
 This needs to go somewhere else.
 

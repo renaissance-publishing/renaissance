@@ -2,7 +2,7 @@
 title: "Injury and Recovery"
 ---
 
-## <span id="anchor-55"></span>Physical Injury
+## Physical Injury
 
 We use the same rules for taking damage, regardless of if the damage is
 inflicted by a weapon attack, a disease, a magical ability, or something
@@ -40,7 +40,7 @@ Only the -10 penalty is negated, any other effects persist; you cannot,
 for example, *negate* having your hand chopped off in order to wield a
 two-handed weapon.
 
-## <span id="anchor-56"></span>Mental Stress
+## Mental Stress
 
 Mental stress works much like physical damage. Difficult circumstances
 can inflict *stress *according to their Stress Value (SV); when your
@@ -86,7 +86,7 @@ it.
 |                                               |      |        |
 |                                               |      |        |
 
-## <span id="anchor-57"></span>Healing
+## Healing
 
   - Characters heal naturally:
     
@@ -124,9 +124,9 @@ it.
     Item or Power will have its own rules for doing
 so.
 
-## <span id="anchor-58"></span>Conditions, Potions, Poisons and Diseases
+## Conditions, Potions, Poisons and Diseases
 
-### <span id="anchor-59"></span>conditions
+### conditions
 
   - I’m not sure if I actually need rules for this; I want to keep the
     number of “rules and systems” to the minimum necessary. And if I add
@@ -149,7 +149,7 @@ so.
         
           - successful First Aid check, as a 1 minute Task Action
 
-### <span id="anchor-60"></span>Potions and Poisons
+### Potions and Poisons
 
   - Both are chemicals that affect characters.
 
@@ -183,7 +183,7 @@ so.
 
   - For sample Potions and Poisons, see the *Items* section.
 
-### <span id="anchor-61"></span>Diseases
+### Diseases
 
   - Diseases have an *resistance check*, and *onset time,* a *duration,
     effects* and possibly *treatment*.

@@ -2,7 +2,7 @@
 title: "Background"
 ---
 
-## <span id="anchor-5"></span>The Green Country
+## The Green Country
 
 The continent
 
@@ -37,7 +37,7 @@ The continent
     from the beginning, so I tried to get geography that didn’t line up
     with either. I did an imperfect job.)
 
-## <span id="anchor-6"></span>History
+## History
 
 Distant History
 

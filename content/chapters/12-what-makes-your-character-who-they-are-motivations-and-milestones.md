@@ -9,7 +9,7 @@ perhaps more important to a dedicated role-player are the things that
 forward, and the life and history that has shaped them. This section is
 concerned with their *motivations* and their *milestones.*
 
-## <span id="anchor-72"></span>Motivations
+## Motivations
 
 A character’s *motivations* describe the goals that drive them.
 Motivations have very little mechanical role—that is, very few rules
@@ -44,7 +44,7 @@ ever achieved total victory over all its foes (and the final defeat of a
 great nation is a momentous-enough event to completely change a
 citizen’s view of the world and their place in it).
 
-### <span id="anchor-73"></span>Role-Playing Rewards
+### Role-Playing Rewards
 
 Motivations are first-and-foremost a guide for the role-player; they
 have only two major mechanical roles. First, they can be used to decide
@@ -52,7 +52,7 @@ when your character has earned a *rez bonus* (or penalty), and second to
 determine (some) situations when a Stress Test may be called for (see
 *Character Advancement* and *Injury and Healing*, respectively).
 
-## <span id="anchor-74"></span>Milestones
+## Milestones
 
 During play, characters will perform great deeds—heroic or infamous,
 earning renown or infamy (players, of course, may also throw themselves
@@ -81,7 +81,7 @@ administrative function too, by allowing GMs to reward players for
 producing memorable scenes (either because they were heroic, or moving,
 or just hilarious).
 
-### <span id="anchor-75"></span>Earning Milestones
+### Earning Milestones
 
 Milestones are awarded at the GM’s discretion. Milestone are usually
 awarded either to denote either a major achievement (or major failure)
@@ -158,7 +158,7 @@ present state. Even if Lohrs’ scars are healed, he can still be the
 Scarred Warrior, because he still won a heroic wrestling match with a
 Leaper while covered in Scour.
 
-### <span id="anchor-76"></span>Invoking Milestones
+### Invoking Milestones
 
 Once per session, a player can *invoke* one of their milestones. (That
 is, you only get one “invocation” per game session, no matter how many
@@ -189,7 +189,7 @@ offers to allow him to invoke his Scarred Warrior milestone to show
 heroic perseverance, allowing him to take one more turn regardless of
 how much damage he takes.
 
-### <span id="anchor-77"></span>Challenging Milestones
+### Challenging Milestones
 
 Besides a player *invoking* a milestone, the GM can also *challenge* a
 milestone. To issue a* milestone challenge*, the* *GM offers a player an
@@ -211,7 +211,7 @@ exchange, Aryn will gain a +10 bonus to social skills tests with the
 people of the city, owing to her history as a champion of the
 Commonwealth and its values.
 
-### <span id="anchor-78"></span>Social Bonuses and Penalties
+### Social Bonuses and Penalties
 
 Sometimes, a character’s reputation might help them; other times, their
 past failures may come back to haunt them. People who know about a
@@ -230,7 +230,7 @@ often requires them to have some idea of who the character is; a devotee
 of the One can hardly hold Aryn’s history against her if he doesn’t know
 who she is.
 
-### <span id="anchor-79"></span>Milestones in Character Creation
+### Milestones in Character Creation
 
 Since milestones are a part of how your character represents their
 history, and since even a fresh character has some prior life and

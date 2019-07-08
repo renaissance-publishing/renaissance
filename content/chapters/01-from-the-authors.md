@@ -2,7 +2,7 @@
 title: "From the Authors"
 ---
 
-## <span id="anchor-2"></span>About the Setting
+## About the Setting
 
 The setting is an attempt to bring a little bit of Roddenberry-esque
 multi-cultural optimism to fantasy role-playing; owing to its Eclipse
@@ -26,7 +26,7 @@ first major culture on their world—whose major opponents are other
 unstable states, common corruption, and cosmic forces beyond mortal
 ken—at least for now.
 
-## <span id="anchor-3"></span>About the Game
+## About the Game
 
 To get the most out of the game, it’s important to know what Renaissance
 is, and what it *isn’t*.

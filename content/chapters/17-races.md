@@ -30,9 +30,9 @@ This is why many abilities were moved to Backgrounds, and why many
 abilities are being replaced by Traits-for-free (so that any other Race
 can just take the Trait if they want to).
 
-## <span id="anchor-96"></span>Common Races
+## Common Races
 
-### <span id="anchor-97"></span>Drakes
+### Drakes
 
   - Though it was long known that the Drakes where a created people, it
     was only a few hundred years ago, as power devolved to the people in
@@ -209,7 +209,7 @@ can just take the Trait if they want to).
         Officer Class, you must later purchase the Soldier class during
         character creation, to meet its prerequisites.
 
-### <span id="anchor-98"></span>Elves
+### Elves
 
   - Elves are a common people throughout the Emerald Plains.
 
@@ -392,7 +392,7 @@ Optional Background: Wood Elf Tribal Commuity
   - 10 ranks in Stealth
   - 10 ranks in Survival
 
-### <span id="anchor-99"></span>Gnolls
+### Gnolls
 
   - Almost as social as humans and incredibly strong, Gnollish strength
     (and endurance) was the backbone of the early Commonwealth.
@@ -465,7 +465,7 @@ Optional Background: Wood Elf Tribal Commuity
       - 10 ranks in Persuasion
       - 10 ranks in Survival
 
-### <span id="anchor-100"></span>Human
+### Human
 
   - Social, dextrous and intelligent, Humans where the first race to
     build cities, and the first to build great nations.
@@ -521,7 +521,7 @@ Optional Background: Wood Elf Tribal Commuity
 
 	  - Humans gain +WIL to tests to checks for Feats of Endurance.
 
-### <span id="anchor-101"></span>Kobold
+### Kobold
 
   - Kobolds are a relatively new addition to the Commonwealth; most
     Kobold communities trace their origins to a mass exodus from the
@@ -625,7 +625,7 @@ Optional Background: Wood Elf Tribal Commuity
           - Fire: your claws or bite are incredibly hot: your attack
             does +3 DB, and you can set flammable objects on fire.
 
-### <span id="anchor-102"></span>Shifters
+### Shifters
 
   - Shifters live in communities in the tribal territories; they are
     rare elsewhere.
@@ -743,9 +743,9 @@ Optional Background: Wood Elf Tribal Commuity
     
       - You can choose two more benefits for your Hybrid Form.
 
-## <span id="anchor-103"></span>Uncommon races
+## Uncommon races
 
-### <span id="anchor-104"></span>Clay Men
+### Clay Men
 
   - ancient, amorphous race. No internal organs or specialized tissues.
     Cannot make precise shapes. Have a texture and appearance somewhat
@@ -831,7 +831,7 @@ Optional Background: Wood Elf Tribal Commuity
         cartilage tumbling through you when you are injured; it reduces
         your DUR by 5.
 
-### <span id="anchor-105"></span>Dwarves
+### Dwarves
 
   - A large nation of Dwarves exists, but, while affable enough, most of
     them prefer to deal with their own kind – and their own kin at that.
@@ -853,7 +853,7 @@ Optional Background: Wood Elf Tribal Commuity
       - 10 ranks in Protocol
       - 10 ranks in Barter
 
-### <span id="anchor-106"></span>Gnomes
+### Gnomes
 
   - Gnomes live in burrows in the lower ranges of the World Spine
     Mountains.
@@ -909,7 +909,7 @@ Optional Background: Wood Elf Tribal Commuity
       - the Unique Outlook neutral trait
       - Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
 
-### <span id="anchor-107"></span>Halflings
+### Halflings
 
   - Halflings were one of the founding races of the Commonwealth.
 
@@ -978,7 +978,7 @@ Optional Background: Wood Elf Tribal Commuity
       - In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
       - Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
 
-### <span id="anchor-108"></span>Herder
+### Herder
 
   - Herders are tall, thin and *roughly* humanoid—besides the layer of
     short fur, the large, deer-like eyes, the antlers and the hooves.
@@ -1053,7 +1053,7 @@ Optional Background: Wood Elf Tribal Commuity
       - 10 ranks in one Social skill
       - 10 ranks in Survival
 
-### <span id="anchor-109"></span>Orcs
+### Orcs
 
   - Centuries ago, 165 years before the first Commonwealth Charter, orcs
     founded cities in the snowy Northern reaches far to the West of the
@@ -1262,7 +1262,7 @@ Optional Background: Wood Elf Tribal Commuity
         
           - Tags: Two-Handed, Brace, Reach
 
-### <span id="anchor-110"></span>Ratfolk
+### Ratfolk
 
   - More than 500 years ago, there was one Ratfolk civilization in the
     Warren Isles, an island chain off the Southwest near the Haven
@@ -1377,7 +1377,7 @@ Optional Background: Wood Elf Tribal Commuity
       - one Skill Kit
       - Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Raptor's Common. They usually speak Jungle Ratfolk as a native language.
 
-### <span id="anchor-111"></span>Shamblers
+### Shamblers
 
   - Shamblers are spirits bound to plants.
 
@@ -1437,7 +1437,7 @@ Optional Background: Wood Elf Tribal Commuity
       - one Skill Kit
       - one weapon (of Cost: Moderate)
 
-### <span id="anchor-112"></span>Tempters
+### Tempters
 
   - Vitals:
     
@@ -1496,9 +1496,9 @@ Optional Background: Wood Elf Tribal Commuity
         is a negative trait; it you select it, you *gain* 10 CP, which
         you may then spend elsewhere.)
 
-## <span id="anchor-113"></span>Neighboring races
+## Neighboring races
 
-### <span id="anchor-114"></span>Goblins
+### Goblins
 
   - These small creatures have a thick, tan hide, and are protected on
     their upper back, arms and legs by bony plates. Though a small
@@ -1533,7 +1533,7 @@ Optional Background: Wood Elf Tribal Commuity
       - 1d10+3+DB, AP -2
       - one-handed, natural
 
-### <span id="anchor-115"></span>Raptors
+### Raptors
 
   - These small creatures, as much like a reptile as a bird, are one of
     the races originally inhabiting the Raptor’s Plane.

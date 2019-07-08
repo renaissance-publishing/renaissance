@@ -2,7 +2,7 @@
 title: "Character Creation and Advancement"
 ---
 
-## <span id="anchor-86"></span>Character Creation
+## Character Creation
 
 Proceed through the following steps in order:
 
@@ -114,7 +114,7 @@ Wealth Levels:
 | 4 (local wealthy)  | 10   |
 | 5 (noble)          | 20   |
 
-## <span id="anchor-87"></span>Character Advancement
+## Character Advancement
 
 As characters operate in the world (and especially as they complete
 adventures), they will gain Rez Points (RP); RP rewards are the primary
@@ -132,7 +132,7 @@ you cannot buy with Rez (at the GM’s discretion).
 
 See also the “Buying Off Negative Traits” optional rule.
 
-## <span id="anchor-88"></span>Rewarding Players
+## Rewarding Players
 
 As a GM, how should you reward your players, and when should you give
 them their rewards?
@@ -228,7 +228,7 @@ where to perform some service for a temple or shrine to Uncle Haw—or to
 a people who live by the river, that he cherishes—they might earn the
 great spirit’s favor, which could be a powerful benefit indeed.
 
-## <span id="anchor-89"></span>NPCs and Followers
+## NPCs and Followers
 
 NPCs and Followers use slightly different rules. As opposed to Player
 Characters (those characters that are controlled by the Players),

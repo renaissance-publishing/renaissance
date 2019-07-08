@@ -8,7 +8,7 @@ common systems that most people would house-rule in if we didn’t cover
 them. Some are just good rules that we didn’t think fit in the core
 rules, for one reason or another.
 
-## <span id="anchor-203"></span>Buying Back Negative Traits
+## Buying Back Negative Traits
 
   - Sometimes a player might want to remove a negative trait that
     they’ve acquired.
@@ -33,7 +33,7 @@ rules, for one reason or another.
         This essentially represents giving the character credit for the
         extra work that they’re doing.
 
-## <span id="anchor-204"></span>Creating Advantage
+## Creating Advantage
 
   - This alternate rule represents a system for using one skill to help
     out with another
@@ -93,7 +93,7 @@ rules, for one reason or another.
         that by using a Research test (a Task Action) to create
         advantage on the following Protocol test.
 
-## <span id="anchor-205"></span>Fate Points
+## Fate Points
 
   - “Borrowed” from Fate.
 
@@ -125,7 +125,7 @@ rules, for one reason or another.
 
   - Any suggestions for rules for gaining and loosing Fate Points?
 
-## <span id="anchor-206"></span>Guns
+## Guns
 
   - We don’t include guns in the main game, as, if they’re done remotely
     realistically, they change the game dramatically.
@@ -198,7 +198,7 @@ rules, for one reason or another.
         should take 5 times as long to reload as a musket.)
       - Tags: Loud, Prone, Two-Handed, Vulnerable
 
-## <span id="anchor-207"></span>Momentum and Threat
+## Momentum and Threat
 
   - Sometimes you score a critical success on a boring and uninteresting
     check; other times, your players score a critical failure on a
@@ -272,7 +272,7 @@ rules, for one reason or another.
   - If anyone has some other suggestions for ways to spend Momentum,
     that’d be rad.
 
-## <span id="anchor-208"></span>Raw Materials
+## Raw Materials
 
   - The rules for crafting tell you that you need “raw materials” to
     craft, but they (implicitly) leave it up to the GM to determine if
@@ -307,7 +307,7 @@ rules, for one reason or another.
         cost more than a Moderate item and be more than Heavy, so Craft:
         Masonry Raw Materials might not be allowed.
 
-## <span id="anchor-209"></span>Reactions
+## Reactions
 
   - Consider a caster-character standing behind and to the side of a
     fighter-character; with the rules as they are, nothing stops an
@@ -345,7 +345,7 @@ rules, for one reason or another.
         attack (by knocking them over for example).
       - An Attack of Opportunity is a Reaction.
 
-## <span id="anchor-210"></span>Reputation
+## Reputation
 
   - Characters might be members of guilds, gangs, temples or other
     organizations.
@@ -591,7 +591,7 @@ rules, for one reason or another.
       - You cannot call in favors from an organization that you are
         Wanted by (that is, that you purchased this trait for).
 
-## <span id="anchor-211"></span>Special Attacks
+## Special Attacks
 
   - Any skilled melee combatant will have developed a repertoire of
     useful tricks, more than simply *sticking pointy end in other
@@ -617,7 +617,7 @@ rules, for one reason or another.
       - The following list is by no means exhaustive; players and GMs
         should feel free to devise and attempt new during play.
 
-### <span id="anchor-212"></span>Strikes
+### Strikes
 
   - Called Shot
     
@@ -656,7 +656,7 @@ rules, for one reason or another.
         +DB to your AP.
       - Special: the attack gains the Precision tag.
 
-### <span id="anchor-213"></span>Maneuvers
+### Maneuvers
 
   - Disarm
     

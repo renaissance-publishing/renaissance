@@ -5,7 +5,7 @@ title: "Senses, Movements and Special Abilities"
 The following are common Senses, Movement types and Special Abilities.
 This list is by no means exhaustive.
 
-## <span id="anchor-91"></span>Senses
+## Senses
 
   - Normal: the normal senses that humans have
 
@@ -39,7 +39,7 @@ This list is by no means exhaustive.
     vibrations propagating through it. This allows you to sens
     approaching footfalls through the ground, for example.
 
-## <span id="anchor-92"></span>Movement Modes
+## Movement Modes
 
 General Rules:
 
@@ -103,7 +103,7 @@ Movement Modes:
     
       - Linked to the Athletics skill.
 
-## <span id="anchor-93"></span>Abilities
+## Abilities
 
   - Fast Healing: when you have Fast Healing *k*, you reduce your Damage
     by *k* each turn – normally healing by 20 \* *k* a minute. Every
@@ -113,7 +113,7 @@ Movement Modes:
     You receive a +10 bonus to Perception checks made against moving
     targets.
 
-## <span id="anchor-94"></span>Sizes
+## Sizes
 
   - The affects of being a different size are generally not represented
     mechanically (i.e. there is no “size modifier table”).

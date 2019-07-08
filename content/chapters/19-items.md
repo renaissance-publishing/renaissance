@@ -44,7 +44,7 @@ down. For every additional *Heavy* item beyond this number, the
 character suffers a -10 penalty to all physical actions. Other affects
 (such as fatigue or immobility) may be applied at GM discretion.
 
-## <span id="anchor-122"></span>Items by Category
+## Items by Category
 
   - Trivial (Cost Level 1) items
     
@@ -99,7 +99,7 @@ character suffers a -10 penalty to all physical actions. Other affects
       - an estate
       - land-holdings
 
-## <span id="anchor-123"></span>Armors
+## Armors
 
 The following listings are for common types of armor. Each entry is for
 a full* suit* or* set* of the given armor type (that is, helmets,
@@ -167,7 +167,7 @@ that are commonly worn during competition. Characters wearing armor with
 the **Proud** tag will stand out in combat, and may be more likely to be
 targeted by an enemy. This tag may not do enough to keep.
 
-### <span id="anchor-124"></span>Quilted Armor
+### Quilted Armor
 
 A doublet or jacket consisting of layering material around thick wadding
 in order to protect the wielder from impacts. An outer layer of dense
@@ -182,7 +182,7 @@ Drawbacks: None
 
 Tags: Layerable, Sociable
 
-### <span id="anchor-125"></span>Leather Armor
+### Leather Armor
 
 Boiled, hardened leather worn as a light plate. It is easily darkened
 for use in the shadows, and is light enough to not require any special
@@ -195,7 +195,7 @@ Drawbacks: None
 
 Tags: Stealthy
 
-### <span id="anchor-126"></span>Mail Armour
+### Mail Armour
 
 A flexible covering of metal made of interlocking rings. Intricate, but
 relatively quick to weave and manufacture from the proper wire stock and
@@ -209,7 +209,7 @@ Drawbacks: -5 to checks that include your COO.
 
 Tags: Heavy
 
-### <span id="anchor-127"></span>Brigandine
+### Brigandine
 
 Something of a mid-point between mail and plate armors, brigandine armor
 consists of oblong, overlapping metal plates molded to the wearer. There
@@ -224,7 +224,7 @@ Drawbacks: -10 to checks that include your COO.
 
 Tags: Heavy
 
-### <span id="anchor-128"></span>Partial Plate (Original)
+### Partial Plate (Original)
 
 Consisting of steel plates and leather straps, partial plate protects
 only parts of the wearer. The typical layout will cover the throat,
@@ -241,7 +241,7 @@ Tags: Exposed, Layerable, Proud
 Exposed makes sense but is (probably) awkward to manage at the table; 5
 AV is way too much to be Layerable without penalty.
 
-### <span id="anchor-129"></span>Partial Plate (Edited 1)
+### Partial Plate (Edited 1)
 
 Consisting of steel plates and leather straps, partial plate protects
 only parts of the wearer. The typical layout will cover the throat,
@@ -256,7 +256,7 @@ worn with Full Plate.
 
 Tags: Layerable, Proud
 
-### <span id="anchor-130"></span>Partial Plate
+### Partial Plate
 
 Consisting of steel plates and leather straps, partial plate protects
 only parts of the wearer. The typical layout will cover the throat,
@@ -271,7 +271,7 @@ Exceptional of Critical Success.
 
 Tags: Exposed, Proud
 
-### <span id="anchor-131"></span>Full Plate
+### Full Plate
 
 A full set of plate armor is among the best protection available.
 Coating the wearer's body in solid plates of refined steel, it is worn
@@ -286,7 +286,7 @@ Drawbacks: -10 to checks that include your COO, -2 INIT
 
 Tags: Concealing, Heavy, Proud
 
-### <span id="anchor-132"></span>Heavy Cloak
+### Heavy Cloak
 
 Outwear made of heavy, dense material, commonly worn by travelers and
 soldiers alike. They are often enchanted or emblazoned with badges or
@@ -300,7 +300,7 @@ Special: Heavy Cloaks are Cost: Low
 
 Tags: Concealing, Layerable, Sociable, Stealthy
 
-### <span id="anchor-133"></span>Stealth Suit
+### Stealth Suit
 
 Individuals and cultures throughout the known world have developed
 outfits designed for stealth, from webbing fastened with leaves and
@@ -314,7 +314,7 @@ Special: Sneak Suits are Cost: Low
 
 Tags: Concealing, Layerable, Stealthy
 
-## <span id="anchor-134"></span>Weapons
+## Weapons
 
 The following is a sampling of the weapons in use throughout the world.
 It is by no means complete; GMs and players should feel free to create
@@ -407,7 +407,7 @@ This is the point where I ran out of energy. The ones that are left are:
 Some of these should really be rewritten to just punt to the rules in
 Combat. This includes at least Reach and Brace.
 
-## <span id="anchor-135"></span>No-Handed Weapons
+## No-Handed Weapons
 
 No-handed weapons are typically *worn*, like clawed or spiked gauntlets.
 Though they put a wielder at a disadvantage against someone with a
@@ -415,7 +415,7 @@ longer weapon (which will give their opponent and advantage in reach and
 leverage), they do have the certain advantages—including that some of
 them are not obvious as weapons.
 
-### <span id="anchor-136"></span>Hand Wraps
+### Hand Wraps
 
 Wrapping a character's hands and/or feet in thin material to provide
 better grip will benefit a grappler; some users might also soak the
@@ -429,7 +429,7 @@ AP: as unarmed strike
 
 Cost: Trivial
 
-### <span id="anchor-137"></span>Sapper Gloves
+### Sapper Gloves
 
 Sapper gloves are simple leather gloves that have had a heavier, stiffer
 material (like lead or iron) sewn into the lining; this both provides a
@@ -443,7 +443,7 @@ AP: As Unarmed Strike
 
 Cost: Low
 
-### <span id="anchor-138"></span>War Gloves
+### War Gloves
 
 Plated Gloves with individual fingers ending in bladed claws, with
 spikes protruding from each knuckle. The spikes allow a wielder a
@@ -457,7 +457,7 @@ Damage: As Unarmed Strike, +5
 
 AP: As Unarmed Strike, +1
 
-## <span id="anchor-139"></span>One-Handed Weapons
+## One-Handed Weapons
 
 One-handed weapons are simple to drill with, and allow a deal of
 flexibility. A person with a one-handed weapon can use their free hand
@@ -466,7 +466,7 @@ levers. A single hand on the weapon means the wielder will lack the
 leverage and raw power of a two-handed weapon, though certain one-handed
 weapons can match the reach of polearms, or be thrown as ranged weapons.
 
-### <span id="anchor-140"></span>Knife
+### Knife
 
 Knives are small, concealable weapons that come in a great variety of
 designs and styles; the example here is a short blade with a single
@@ -486,7 +486,7 @@ Damage: 1d10-1+DB (one-handed and thrown)
 
 AP: 1
 
-### <span id="anchor-141"></span>Dagger
+### Dagger
 
 A small blade similar to a knife, save that it is longer and
 double-edged, and thus more suited to thrusting. Like knives, numerous
@@ -505,7 +505,7 @@ Damage: 1d10+1+DB
 
 AP: 1
 
-### <span id="anchor-142"></span>Short Sword
+### Short Sword
 
 A short sword is any sword of up to 75cm in length, with a short handle
 and large pommel. Short swords are a classic military sidearm used by
@@ -530,7 +530,7 @@ Damage: 1d10+3+DB
 
 AP: 1
 
-### <span id="anchor-143"></span>Long Sword
+### Long Sword
 
 A long sword is a longer, heavier sword of up to 100cm. Long swords have
 longer handles, which allows for the use of a second hand for better
@@ -544,7 +544,7 @@ Damage: 1d10+4+DB (one-handed) 2d10+DB (two-handed)
 
 AP: 2
 
-### <span id="anchor-144"></span>Hatchet
+### Hatchet
 
 A short axe designed as much for use as a tool as a weapon, the hatchet
 is the definition of utility. They can be used to gather firewood and
@@ -559,7 +559,7 @@ Damage: 1d10-1+DB (one-handed and thrown)
 
 AP: 1
 
-### <span id="anchor-145"></span>War Axe
+### War Axe
 
 A war axe is any axe of up to 60cm, with either a single or double head.
 War axes are common weapons found throughout the cultures of the Emerald
@@ -584,7 +584,7 @@ Damage: 1d10+2+DB
 
 AP: 3
 
-### <span id="anchor-146"></span>Club
+### Club
 
 A club is any arm’s-length blunt instrument used in combat—anything from
 a discarded tree branch, to a rod of steel with all the trappings of a
@@ -598,7 +598,7 @@ Damage: 1d10+DB
 
 AP: 0
 
-### <span id="anchor-147"></span>Mace
+### Mace
 
 Maces combine the weighted head of an axe with the ease-of-use of a
 club. Modern maces are designed to be simple to use and cheap to
@@ -613,7 +613,7 @@ Damage: 1d10+3+DB
 
 AP: 1
 
-### <span id="anchor-148"></span>Flanged Mace
+### Flanged Mace
 
 The flanged mace is an example of a customized weapon. The flanged mace
 is a variant of the mace developed in response to the effectiveness of
@@ -631,7 +631,7 @@ Damage: 1d10+3+DB
 
 AP: 3
 
-### <span id="anchor-149"></span>Warhammer
+### Warhammer
 
 A weapon that has recently begun to see wider use, warhammers are
 designed to defeat even sturdy, well-padded modern armors. They are
@@ -645,7 +645,7 @@ Damage: 1d10+2+DB
 
 AP: 5
 
-### <span id="anchor-150"></span>Short Spear
+### Short Spear
 
 A spear is essentially a metal point affixed to a shaft anywhere from
 one to two-and-a-half meters long, designed for thrusting, pushing and
@@ -667,7 +667,7 @@ Damage: 1d10+2+DB (one-handed and thrown), 1d10+5+DB (two-handed)
 
 AP: 2
 
-## <span id="anchor-151"></span>Two-Handed Weapons
+## Two-Handed Weapons
 
 Two-handed weapons forgo any kind of subtlety or flexibility, instead
 opting for maximum weight and reach; they are large, imposing and heavy
@@ -676,7 +676,7 @@ free hand can be limiting, as wielders cannot carry a (large) shield or
 ranged weapon; this may leave a two-handed weapon user relying on
 natural agility or heavy armor to carry them through a fight.
 
-### <span id="anchor-152"></span>Greatsword
+### Greatsword
 
 A greatsword is a mighty, double-edged blade of up to 150cm of length.
 The long handle and blade allow for a huge amount of leverage on a
@@ -690,7 +690,7 @@ Damage: 2d10+2+DB
 
 AP: 3
 
-### <span id="anchor-153"></span>Reaping Sword
+### Reaping Sword
 
 The reaping sword is an example variant weapon. It is somewhat similar
 to a greatsword, but it is designed to be used by cavalry, primarily
@@ -713,7 +713,7 @@ Damage: 2d10+2+DB
 
 AP: 3
 
-### <span id="anchor-154"></span>Battle Axe
+### Battle Axe
 
 With a meter of handle and a weighty, massive head, battle-axes offer
 massive weight and leverage that allows a wielder to deal massive damage
@@ -725,7 +725,7 @@ Damage; 2d10+1+DB
 
 AP: 5
 
-### <span id="anchor-155"></span>Lumberjack Axe
+### Lumberjack Axe
 
 A lumberjack’s axe is a two-handed utility axe used to fell trees
 (rather than people). As with any heavy, bladed object that can easily
@@ -740,7 +740,7 @@ Damage: 2d10-1+DB
 
 AP: 1
 
-### <span id="anchor-156"></span>Long Club
+### Long Club
 
 Anything from sturdy walking stick to a broken chunk of furniture to a
 heat-treated club, a “long club” is any blunt instrument of 150
@@ -754,7 +754,7 @@ Damage: 2d10+3+DB
 
 AP: 1
 
-### <span id="anchor-157"></span>Quarterstaff
+### Quarterstaff
 
 The quarterstaff is an example variant weapon. It is similar to a Long
 Club, except it trades slightly lower damage and AP for a variety of
@@ -773,7 +773,7 @@ Damage: 1d10+3+DB (One-Handed), 2d10+1+DB
 
 AP: 0
 
-### <span id="anchor-158"></span>Great Mace
+### Great Mace
 
 A long, metal head atop an equally long handle, the Great Mace is a
 brutal source of blunt trauma. Though a number of styles of heads exist,
@@ -788,7 +788,7 @@ Damage: 2d10+5+DB
 
 AP: 2
 
-## <span id="anchor-159"></span>Pole Arms
+## Pole Arms
 
 Weapons consisting of heads mounted on long wooden hafts, pole-arms are
 relatively simple to manufacture and are highly effective when used by
@@ -798,7 +798,7 @@ pole-arms can be an incredibly deadly force when wisely
 deployed—although they can also be vulnerable if they are flanked or
 forced into close combat.
 
-### <span id="anchor-160"></span>Long Spear
+### Long Spear
 
 Longer and longer spears are being used as armor improves and mounted,
 armored opponents become more common. Long spears are those that are
@@ -822,7 +822,7 @@ an opponent at range. This makes some sense, as long spears can be used
 to threaten an opponent into keeping their distance, but are not very
 good at parrying or defending should an opponent manage to get close.
 
-### <span id="anchor-161"></span>Halberd
+### Halberd
 
 A pike with a large, flat axe blade on one side, a halberd is capable of
 both thrusting and slashing attacks. Often built slightly shorter than
@@ -840,7 +840,7 @@ Damage: 2d10+DB
 
 AP: 2
 
-### <span id="anchor-162"></span>Lance
+### Lance
 
 The traditional weapon of charging knights and heavy Cavalry. The lance
 is a conical shaft of wood with a metallic, ceramic, or stone tip. War
@@ -860,7 +860,7 @@ Damage: 1d10+2+DB (stationary, on foot) 2d10+3+DB (mounted charge)
 
 AP: 1 (stationary, on foot), 6 (mounted charge)
 
-### <span id="anchor-163"></span>Lochaber Axe
+### Lochaber Axe
 
 Somewhat like a halberd, but shorter (at only 150 to 180cm) and with a
 heavier head. Though the weapon still has significant reach, the extra
@@ -875,7 +875,7 @@ Damage: 1d10+5+DB
 
 AP: 4
 
-### <span id="anchor-164"></span>Raven’s Beak
+### Raven’s Beak
 
 Similar to a warhammer, but with a much longer shaft, larger head and,
 customarily, a hook opposite the hammer-head, the Raven’s Beak is a
@@ -887,7 +887,7 @@ Damage: 1D10+4+DB
 
 AP: 6
 
-## <span id="anchor-165"></span>Ranged Weapons
+## Ranged Weapons
 
 Ever since the first fight, the peoples of the Emerald Plane have been
 coming up with better ways to end fights from further and further away.
@@ -898,7 +898,7 @@ a lot of strength to use, some newer ranged weapons don't rely as much
 on the wielder's strength, instead using mechanical or chemical energy
 to drive a projectile.
 
-### <span id="anchor-166"></span>Light Bow
+### Light Bow
 
 Light bows are small bows suitable for a wide variety of uses; the class
 includes modern composite bows, recurve bows, traditional short cavalry
@@ -921,7 +921,7 @@ Range: 50m/100m/150m/200m
 Reload: no action (you can select, ready and nock an arrow as part of an
 attack)
 
-### <span id="anchor-167"></span>Longbow
+### Longbow
 
 A longbow is a bow that is 180cm in length or more. Longbows require
 incredible strength to draw, and so their wielders are often some of the
@@ -958,7 +958,7 @@ Range: 50m/100m/150m/200m
 Reload: no action (you can select, ready, and nock an arrow as part of
 an attack)
 
-### <span id="anchor-168"></span>Light Crossbow
+### Light Crossbow
 
 A more recent innovation, the crossbows first appeared some 500 years
 ago and have been improving steadily since. Light crossbows have been
@@ -985,7 +985,7 @@ Range: 50m/100m/200m/300m
 
 Reload: Quick Action
 
-### <span id="anchor-169"></span>Heavy Crossbow
+### Heavy Crossbow
 
 These recent designs combine an all-steel prod with a windlass (a crank
 that draws the bow). These weapons require much more time to fully draw
@@ -1015,7 +1015,7 @@ Special: an additional Standard Action can be taken to fully draw the
 bow. When fully drawn, the weapon uses the damage and AP listed for
 Overcharge.
 
-### <span id="anchor-170"></span>Sling
+### Sling
 
 A leather strap with a small pouch at the middle, slings use centrifugal
 force and wrist strength to propel small projectiles (often rocks or
@@ -1038,9 +1038,9 @@ Range: 10/20/40/80
 Reload: no action (you can select a projectile, pouch it, and start
 swinging as part of the attack)
 
-## <span id="anchor-171"></span>Exotic Weapon
+## Exotic Weapon
 
-### <span id="anchor-172"></span>Shade-Elf Punch Dagger
+### Shade-Elf Punch Dagger
 
 This weapon is an example variant weapon; it is based on the dagger.
 These weapons are difficult to use, but they are larger than normal
@@ -1057,7 +1057,7 @@ Damage: 1d10+2+DB
 
 AP: 1
 
-### <span id="anchor-173"></span>Flail
+### Flail
 
 Military flails are one of several martial weapons derived from
 agricultural tools; agricultural flails are used in threshing. Military
@@ -1076,7 +1076,7 @@ Damage: 2d10+3+DB
 
 AP: 1
 
-### <span id="anchor-174"></span>War-Fork
+### War-Fork
 
 The war-fork is an example variant weapon. “Knives” are a very diverse
 class of weapons, of which the war-fork is a member. War-forks loose the
@@ -1102,7 +1102,7 @@ Damage: 1d10+1+DB
 
 AP: 1
 
-### <span id="anchor-175"></span>Hand Cannon
+### Hand Cannon
 
 There have been sporadic attempts to miniaturize cannons for use by
 single infantry for more than 100 years, but only within the last 65
@@ -1133,7 +1133,7 @@ Range: 25m/50m/125m/200m
 
 Reload: 5 Standard Actions
 
-### <span id="items-weapons-whip"></span> Whip
+### Whip
 
 Whips are common tools for managing livestock and work-animals;
 they consist of long, slender pieces of tanned leather.
@@ -1147,7 +1147,7 @@ Damage: 1d10&divide;2
 
 AP: 0
 
-### <span id="anchor-176"></span>Dragon’s Axe
+### Dragon’s Axe
 
 The Dragon’s Axe is an example unique weapon. As the description says,
 the Dragon’s Axe allows the wielder access to at least one powerful,
@@ -1176,7 +1176,7 @@ Range: 10m/20m/40m/80m
 
 Reload: Standard Action
 
-## <span id="anchor-177"></span>Magic Items
+## Magic Items
 
   - Magical items largely follow the same rules as non-magical ones;
     
@@ -1301,7 +1301,7 @@ Reload: Standard Action
                 Aryn to use the bow to track a target struck by a
                 tracker.
 
-## <span id="anchor-178"></span>Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)
+## Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)
 
   - Minor
     
@@ -1409,7 +1409,7 @@ Reload: Standard Action
               - Tags: Splash, Fire
               - Anything in the splash is covered in burning Tar.
 
-## <span id="anchor-179"></span>Skill Kits and Shops
+## Skill Kits and Shops
 
   - associated with a specific skill
     
@@ -1430,7 +1430,7 @@ Reload: Standard Action
     but they allow users to pursue larger or longer-term projects. Shops
     provide a +10 bonus on tests using the linked skill.
 
-## <span id="anchor-180"></span>Creating Items
+## Creating Items
 
   - Characters can use their Craft skills to create items directly.
     

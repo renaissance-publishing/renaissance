@@ -2,7 +2,7 @@
 title: "Combat"
 ---
 
-## <span id="anchor-42"></span>Overview
+## Overview
 
 Combat is a special case of Turn Order play, using the following rules:
 
@@ -24,7 +24,7 @@ Combat is a special case of Turn Order play, using the following rules:
   - Unlike many other areas of the game, Combat has fairly specific
     rules about what characters can and cannot do.
 
-### <span id="anchor-43"></span>Useful Terms
+### Useful Terms
 
   - These aren’t really useful here, but having them defined will make
     some powers a little easier to write. Remove / move?
@@ -34,7 +34,7 @@ Combat is a special case of Turn Order play, using the following rules:
   - Bloodied: we say that a character is *bloodied* if they have taken
     DV exceeding half their DUR.
 
-## <span id="anchor-44"></span>The Combat Grid and Movement
+## The Combat Grid and Movement
 
   - Combat Grid
     
@@ -90,7 +90,7 @@ Combat is a special case of Turn Order play, using the following rules:
             table may allow you to cross over an enemy and land facing
             their back).
 
-## <span id="anchor-45"></span>Attacking
+## Attacking
 
   - Attacking a target
     
@@ -218,7 +218,7 @@ Combat is a special case of Turn Order play, using the following rules:
     Check to notice a hidden attacker. Also, people usually take notice
     after they have been attacked.)
 
-## <span id="anchor-46"></span>Armor and Armor Penetration
+## Armor and Armor Penetration
 
   - Armor and Armor Penetration: if the defender has Armor, subtract
     their (total) Armor Rating from the attack's DV. However, if the
@@ -231,7 +231,7 @@ Combat is a special case of Turn Order play, using the following rules:
   - Armor Penalty: some armors have a listed Armor Penalty, which you
     take while you are wearing that armor.
 
-## <span id="anchor-47"></span>Strikes and Maneuvers
+## Strikes and Maneuvers
 
 The combat system in Renaissance is intended to be light-weight and
 flexible; characters should be able to attempt a variety of attacks,
@@ -407,7 +407,7 @@ rules are optional, but *useful* and *recommended*.
         exceptional success, but she’s hit him in the neck—a fatal
         blow\!
 
-## <span id="anchor-48"></span>Multiple Weapons and Multiple Attacks
+## Multiple Weapons and Multiple Attacks
 
   - Multiple Attacks: under some circumstances, characters can make
     multiple attacks (when wielding multiple weapons, for example). When
@@ -457,7 +457,7 @@ rules are optional, but *useful* and *recommended*.
       - These rules are complicated and have lots of cumulative
         penalties; carefully watch how this works out.
 
-## <span id="anchor-49"></span>Resistance and Vulnerability
+## Resistance and Vulnerability
 
   - Resistance and Vulnerability:
     
@@ -521,7 +521,7 @@ rules are optional, but *useful* and *recommended*.
             be “÷2 or “×3” or “catches fire” or “melts”.
           - I like that actually.
 
-## <span id="anchor-50"></span>Reactions
+## Reactions
 
   - Under some situations, you can take an action (or might be forced to
     take an action) even though it isn’t your turn.
@@ -554,7 +554,7 @@ rules are optional, but *useful* and *recommended*.
         you might want to catch something that someone has thrown you.
       - Events like these also count as Reactions.
 
-## <span id="anchor-51"></span>Unarmed Combat and Natural Weapons
+## Unarmed Combat and Natural Weapons
 
   - Some characters have learned to fight without a weapon, by striking
     opponents with punches, kicks, and other unarmed attacks; other
@@ -610,7 +610,7 @@ rules are optional, but *useful* and *recommended*.
     at a minimal viable treatment of the disadvantages of Unarmed
     Combat.
 
-## <span id="anchor-52"></span>Mounted Combat
+## Mounted Combat
 
   - Mounted warriors are highly effective combatants: they are highly
     mobile; they can wear heavy armor and carry heavy weapons; they are
@@ -673,7 +673,7 @@ rules are optional, but *useful* and *recommended*.
     without the Cavalry tag take a -20 penalty when used while riding a
     mount.
 
-## <span id="anchor-53"></span>And Unsorted Rules
+## And Unsorted Rules
 
   - Full Defense: during your turn, you may take a Standard Action to
     focus on defending yourself. If you do, until your next turn starts,

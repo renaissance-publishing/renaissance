@@ -9,7 +9,7 @@ foot-hold how to design, build and play their characters. These are not
 rules, but guidelines; your own judgement will apply, as will your
 desires for your character and the GM’s assessment of the situation.
 
-## <span id="anchor-183"></span>General Tips
+## General Tips
 
   - Renaissance is a diverse game
     
@@ -37,7 +37,7 @@ desires for your character and the GM’s assessment of the situation.
         over 50 is a pretty good balance.
       - Get skills from diverse areas.
 
-## <span id="anchor-184"></span>Character Archetypes
+## Character Archetypes
 
   - Archetypes are broad character concepts.
   - They generally refer to packages of skills, powers, classes and
@@ -248,7 +248,7 @@ desires for your character and the GM’s assessment of the situation.
             character.
           - This is a good choice for Backer/Stealth characters.
 
-## <span id="anchor-185"></span>Common Scenes
+## Common Scenes
 
   - “Standard Operating Procedures” for several common scenes.
     

@@ -2,7 +2,7 @@
 title: "Running Games"
 ---
 
-## <span id="anchor-187"></span>Designing Adventures
+## Designing Adventures
 
   - See the notes in the Common Scenes section.
 

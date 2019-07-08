@@ -2,7 +2,7 @@
 title: "Skills"
 ---
 
-## <span id="anchor-81"></span>Types of Skill
+## Types of Skill
 
   - Many skills describe a unique task, like Riding or Stealth, describe
     some discrete skill that you either have some degree of experience
@@ -73,7 +73,7 @@ title: "Skills"
   - See *character creation* for rules on acquiring ranks in skills,
     specializations, and proficiencies.
 
-## <span id="anchor-82"></span>Skill List
+## Skill List
 
   - Animal Handling (SAV)
     

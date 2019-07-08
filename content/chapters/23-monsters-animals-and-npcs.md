@@ -2,7 +2,7 @@
 title: "Monsters, Animals and NPCs"
 ---
 
-## <span id="anchor-189"></span>Sample Creatures
+## Sample Creatures
 
 Remember:
 
@@ -20,7 +20,7 @@ Abilities here but not in Character Creation
   - Acute Hearing: +20 on Perception Tests to hear things
   - Poor Vision: -20 on Perception Tests to see things.
 
-### <span id="anchor-190"></span>Black Bear
+### Black Bear
 
 |          |     |      |     |          |     |     |
 | -------- | --- | ---- | --- | -------- | --- | --- |
@@ -50,7 +50,7 @@ Abilities here but not in Character Creation
 
   - Bite: 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
 
-### <span id="anchor-191"></span>Chasseh Forrest Spirit
+### Chasseh Forrest Spirit
 
 The spirits that dwell in the woods south of the human town of Chasseh
 have the ability to take control of the wildlife that is native to their
@@ -82,7 +82,7 @@ the forrests.
       - Persuasion 30 Ranks
       - Protocol 30 Ranks
 
-### <span id="anchor-192"></span>Chosen
+### Chosen
 
 A Champion of the One that Chose Us, who is worshiped by some in the
 Eastern portion of the Kingdoms of Man.
@@ -148,7 +148,7 @@ Eastern portion of the Kingdoms of Man.
         Two-Handed, Reach. Creatures with the Natural tag and without
         the Human tag are Vulnerable to this weapon.
 
-### <span id="anchor-193"></span>Cougar
+### Cougar
 
 These big cats are flexible predators, able to persist from the snowy
 north to the humid south. They are solitary and territorial. They
@@ -188,7 +188,7 @@ by other large predators.
 
   - Claws: 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
 
-### <span id="anchor-194"></span>Frozen Horror
+### Frozen Horror
 
 Created when several powerful spirits colluded with a mortal to release
 one of the Dead, without binding it—and with some other string attached.
@@ -230,7 +230,7 @@ one of the Dead, without binding it—and with some other string attached.
 
   - Talons: 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
 
-### <span id="anchor-195"></span>Kambi
+### Kambi
 
 These small, furred, yapping creatures have a rudimentary intelligence;
 they tend to live in simple, hierarchal social groups, and can build
@@ -289,7 +289,7 @@ Background may need tweaking; I want this to be funny, not dark.
       - “wild” Kambis will have simple armor (1 Armor) and a simple
         weapon (a knife, “sword” or spear).
 
-### <span id="anchor-196"></span>Raccoon
+### Raccoon
 
 These small, intelligent omnivores have dexterous hands and a highly
 developed sense of touch; they can be very difficult to manage, as they
@@ -331,7 +331,7 @@ and streams where they can forage for (and wash) food.
 
   - Bite: 50 (Natural Weapons), 1D10+2 (1D10+DB), AP -
 
-### <span id="anchor-197"></span>Raptor
+### Raptor
 
 At first glance, these large, heavily-feathered predators might appear
 to be birds. Their large, clawed, three-fingered hands might appear to
@@ -380,7 +380,7 @@ smaller prey by pursuit or ambush.
     
       - 70 (Natural Weapons), 1D10+7 (1D10+2+DB), AP -1
 
-### <span id="anchor-198"></span>Commonwealth Soldier
+### Commonwealth Soldier
 
 The soldiers who keep the Commonwealth’s trade routes safe, its borders
 secure, and its enemies in check.
@@ -431,7 +431,7 @@ secure, and its enemies in check.
       - Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
       - Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
 
-### <span id="anchor-199"></span>Wolf
+### Wolf
 
 These intelligent and social predators are known for their pack tactics.
 
@@ -466,7 +466,7 @@ These intelligent and social predators are known for their pack tactics.
 
   - Bite: 60 (Natural Weapons), 1D10+4 (1D10+DB), AP -
 
-### <span id="anchor-200"></span>Wolverine
+### Wolverine
 
 These small, bold and highly-muscular predators often punch well above
 their weight.
@@ -504,5 +504,5 @@ their weight.
 
   - Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
 
-## <span id="anchor-201"></span>Building Creatures
+## Building Creatures
 

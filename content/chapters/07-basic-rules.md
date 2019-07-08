@@ -2,7 +2,7 @@
 title: "Basic Rules"
 ---
 
-## <span id="anchor-34"></span>The Rule(s) 0
+## The Rule(s) 0
 
   - When rounding, always round down.
 
@@ -12,7 +12,7 @@ title: "Basic Rules"
         apply; you might assume this would be the case, but it’s worth
         pointing out, since some popular games don’t work that way.
 
-## <span id="anchor-35"></span>Checks
+## Checks
 
 Checks are at the heart of Renaissance.
 
@@ -277,7 +277,7 @@ Checks are at the heart of Renaissance.
         and the other party-members should assist (if they can, see
         *Skill Modifiers*).
 
-### <span id="anchor-36"></span>Picking a Check
+### Picking a Check
 
 So, you’ve decided that a check is called for—but what check should you
 use? Sometimes it can be tricky to decide.
@@ -354,7 +354,7 @@ certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
 This is why players should discuss their characters with their GMs
 before starting play.
 
-### <span id="anchor-37"></span>Common Checks
+### Common Checks
 
   - Skill Check: Aptitude Linked to Skill + Ranks in Skill
     
@@ -385,7 +385,7 @@ before starting play.
 
   - Difficult use of Language: INT×3
 
-### <span id="anchor-38"></span>Modifiers
+### Modifiers
 
   - Being assisted: +10 per character assisting, maximum +30. Assisting
     characters must have 10 Ranks in a useful skill (but it doesn't have
@@ -464,7 +464,7 @@ before starting play.
     they can be assumed to have common knowledge appropriate to that
     skill (that is, without being required to make a test).
 
-## <span id="anchor-39"></span>Actions
+## Actions
 
 Types of actions
 
@@ -529,7 +529,7 @@ Types of actions
         or 50% (on an Exceptional Failure), before realizing that the
         task will fail (and, presumably, stopping).
 
-## <span id="anchor-40"></span>Modes of Play
+## Modes of Play
 
 Renaissance has the following modes of play
 

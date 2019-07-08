@@ -2,7 +2,7 @@
 title: "The Commonwealth Today"
 ---
 
-## <span id="anchor-8"></span>Overview
+## Overview
 
   - Present Year: CY 830
 
@@ -89,7 +89,7 @@ title: "The Commonwealth Today"
     that neither mortals nor lesser spirits understand, and willing to
     upend the affairs of lower beings for their own ends.
 
-## <span id="anchor-9"></span>Commonwealth Technology
+## Commonwealth Technology
 
   - I’m bad at history, but shooting for something-like Europe in
     1200-1400.
@@ -120,7 +120,7 @@ title: "The Commonwealth Today"
   - Printing press invented 75 years ago (CY 755), society still
     adjusting from sudden surge in literature
 
-## <span id="anchor-10"></span>Commonwealth Life, Society and Economy
+## Commonwealth Life, Society and Economy
 
   - 90% of people are farmers, living in villages of a few hundred
     people.
@@ -262,7 +262,7 @@ title: "The Commonwealth Today"
   - I was fairly drunk towards the end of this, so I need to go back and
     look this over.
 
-## <span id="anchor-11"></span>Commonwealth Governance
+## Commonwealth Governance
 
   - Move/expand above information here.
 
@@ -294,7 +294,7 @@ title: "The Commonwealth Today"
     Commonwealth Today and Organizations sections; I might also not want
     to go on at length about this. Possibly rework.
 
-## <span id="anchor-12"></span>Commonwealth Magic
+## Commonwealth Magic
 
 Though the spirits are often inscrutable and the potential applications
 for magic are vast, it is nevertheless true that the sages and scholars
@@ -315,7 +315,7 @@ cover great distances in the blink of an eye. Presently, only a dozen
 Kairnes have been constructed, and the Kairne networks remain difficult
 to use—in particular, few mages can carry much with them.
 
-## <span id="anchor-13"></span>Notable Places
+## Notable Places
 
   - Decent names TBD
 
@@ -400,7 +400,7 @@ to use—in particular, few mages can carry much with them.
         Elven merchants have been carried to the city from the Haven
         Isles by boat.
 
-## <span id="anchor-14"></span>Organizations
+## Organizations
 
   - Commonwealth Council organizations
     
@@ -439,7 +439,7 @@ to use—in particular, few mages can carry much with them.
       - corruption does exist, especially in big cities
       - Smugglers, black-mails, thugs, thieves, and everything else.
 
-## <span id="anchor-15"></span>Languages
+## Languages
 
   - The Commonwealth is wide and diverse, including countless small
     regional cultures; it includes a rich multitude of languages.

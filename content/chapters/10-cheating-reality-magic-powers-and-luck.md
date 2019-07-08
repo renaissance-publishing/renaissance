@@ -2,7 +2,7 @@
 title: "Cheating Reality: Magic, Powers and Luck"
 ---
 
-## <span id="anchor-63"></span>Using Magic
+## Using Magic
 
   - I’ve been moving this section around a lot. I’ve removed it before,
     when it was just talking about rituals, and then I added it back in
@@ -24,7 +24,7 @@ title: "Cheating Reality: Magic, Powers and Luck"
   - Finally, items are useful to represent magical devices that you’ve
     created—like a bow that fires bolts of fire.
 
-### <span id="anchor-64"></span>Creating Magical Effects
+### Creating Magical Effects
 
   - What else can your character do with magic? Presumably, if you’re a
     skilled mage (i.e. if you have 40 or 50 ranks in Spellcraft), then
@@ -165,7 +165,7 @@ title: "Cheating Reality: Magic, Powers and Luck"
                 things can go completely wrong in ways that might not be
                 obvious.
 
-## <span id="anchor-65"></span>Designing and Using Powers
+## Designing and Using Powers
 
 General rules for powers
 
@@ -256,7 +256,7 @@ General rules for powers
       - Boon, Blessing: a power that has been granted by a Spirit,
         possibly drawing power from them or their Basin.
 
-## <span id="anchor-66"></span>Luck
+## Luck
 
 Characters (Player Characters and major NPCs) have a Luck stat, and a
 certain numbr Luck Points. All characters acquire 1 Luck for free, and

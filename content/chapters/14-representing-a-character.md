@@ -2,7 +2,7 @@
 title: "Representing a Character"
 ---
 
-## <span id="anchor-84"></span>Characters
+## Characters
 
 Characters have the following:
 
