@@ -2,21 +2,7 @@
 title: "Items"
 ---
 
-Items are broken into five categories:* trivial, minor*, *moderate,
-major, *and* extreme*. This mainly determines their cost when purchased
-at character creation. A trivial item is an item of no notable cost: a
-fork and a candle are trivial items. Notably, you usually shouldn’t
-purchase a trivial item directly; it’s usually better to buy a* skill
-kit* for a relevant skill than to purchase a bunch of trivial-cost items
-directly.* *A *minor *item is a single, useful item or piece of gear,
-like a grappling-hook or ladder. A medium item is a notable item—any one
-weapon or piece of armor would be a medium item, as would a skill kit
-(see below). A Major item plays a major roll in defining a character;
-this might include a magic weapon, an heirloom, a shop or a plot of
-land. An extreme item is exceedingly rare, exceedingly expensive, or
-both; a noble estate is an extreme item. (Each category corresponds to a
-cost level, from 1 to 5; this is compared to a character’s wealth level
-while bartering.)
+Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*. This mainly determines their cost when purchased at character creation. A trivial item is an item of no notable cost: a fork and a candle are trivial items. Notably, you usually shouldn’t purchase a trivial item directly; it’s usually better to buy a *skill kit* for a relevant skill than to purchase a bunch of trivial-cost items directly. A *minor* item is a single, useful item or piece of gear, like a grappling-hook or ladder. A *moderate* item is a notable item—any one weapon or piece of armor would be a medium item, as would a skill kit (see below). A *major* item plays a major roll in defining a character; this might include a magic weapon, an heirloom, a shop or a plot of land. An extreme item is exceedingly rare, exceedingly expensive, or both; a noble estate is an extreme item. (Each category corresponds to a cost level, from 1 to 5; this is compared to a character’s wealth level while bartering.)
 
 The mages and artisans of the Commonwealth have a servicable command of
 magic; while magical items tend to be rarer and more expensive than
@@ -78,9 +64,7 @@ character suffers a -10 penalty to all physical actions. Other affects
   - Major (Cost Level 4) items
     
       - a shop
-    
       - a home
-    
       - a significant magic item, like
         
           - a sword that glows when Orcs are near
