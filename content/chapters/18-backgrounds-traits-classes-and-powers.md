@@ -372,6 +372,20 @@ they do not cost CP.
         other characters).
       - Thaaaaaats basically a power, hmmm.
 
+  - Familiar-Bound Mage
+      - Requirements: 20 Ranks in Spellcraft
+      - You have crafted (or attracted) a *familiar.*
+      - Familiars are small magical assistants, bound to the mage that they serve.
+      - Familiars vary widely; some are small animals to which a magical intelligence has been added; others are small golems, sophisticated clockwork creations that function as living things; still others might be small spirits in their own right, conjured and bound to the mage.
+      - Nearly all are small, intelligent creatures; though they are of little use in combat, they can be a great help in a laboratory or shop--and some can have other skills.
+      - You may choose one creature that has the Familiar tag; you gain this creature as a familiar.
+      - Alternatively, you may design your own familiar, but your GM must approve of your selection.
+      - Your familiar gains a COG of 10 (unless its COG is already higher).
+      - You can distribute +15 points to the familiar's aptitudes.
+      - You may spend up to 200 CP on your familiar.
+      - Your familiar is magically linked to you; it can understand you when you speak, and you can understand it (regardless of the language that you use, even if it doesn'ts peak a language), and
+      - you and it can exchange simple telepathic messages (like simple ideas or flashes of images).
+
   - Gang Member
     
       - Requirements: 20 Ranks in Profession: Smuggler , Profession:
@@ -499,11 +513,18 @@ they do not cost CP.
   - Soldier
     
       - Requirement: 20 ranks in two Martial skills
-      - You are (or have been) a soldier, trained to fight as a member
-        of a team
-      - You may *assist others* when they make Martial skill checks
-        (e.g. while in combat). (Normally, you cannot assist someone
-        else with a martial skill while in combat.)
+      - You are (or have been) a soldier, trained to fight as a member of a team
+      - You may *assist others* when they make Martial skill checks (e.g. while in combat). (Normally, you cannot assist someone else with a martial skill while in combat.)
+
+  - Transcendant
+    
+      - Requirement: the Master power, 20 Control
+      - You have permanently integrated magical energies into your own life processes.
+      - This has several effects:
+          - If you have the natural tag, you loose it, and gain the Empowered tag instead;
+          - you receive a +10 bonus to tests to Endure Physical Hardship;
+          - you only need to eat and sleep half as much; and
+          - you gain +1 Armor.
 
   - Warrior
     
@@ -626,7 +647,7 @@ and are thus listed here.
             checks to Endure Physical Hardship.
           - While sustaining this power, you gain +1 Armor.
 
-  - Transcend
+  - ~~Transcend~~
     
       - Requires: Master, 20 Control
     
@@ -638,10 +659,11 @@ and are thus listed here.
       - Effect:
         
           - You gain the Empowered tag;
-          - you receive a +10 bonus to tests to Endure Physical
-            Hardship;
+          - you receive a +10 bonus to tests to Endure Physical Hardship;
           - you only need to eat and sleep half as much, and
           - you gain +1 Armor.
+
+      - Made a class, since it isn't an action.
 
   - Down-Time
     
