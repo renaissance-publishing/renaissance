@@ -22,12 +22,12 @@ Abilities here but not in Character Creation
 
 ### Black Bear
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 3        | 10  | 15   | 10  | 3        | 20  | 20  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 40 (8)   | 40  | 5    | \+6 | 40 (8)   |     |     |
+|          |     |      |     |      |          |
+| -------- | --- | ---- | --- | ---- | -------- |
+| COG      | COO | INT  | SAV | SOM  | WIL      |
+| 3        | 10  | 15   | 3   | 20   | 20       |
+| DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
+| 40 (8)   | 40  | 5    |     | \+6  | 40 (8)   |
 
   - Movement: Quadruped 4/12, Climb 3/9
 
@@ -65,12 +65,12 @@ appropriate to the creature, +10 to one Aptitude and +5 to another.
 If the animal is killed, the spirit simply departs from it, flee into
 the forrests.
 
-|     |     |      |     |          |     |     |
-| --- | --- | ---- | --- | -------- | --- | --- |
-| COG | COO | INT  | REF | SAV      | SOM | WIL |
-| 15  | 10  | 25   | 25  | 7        | 20  | 20  |
-|     |     | INIT |     | LUC (TT) |     |     |
-|     |     | 6    |     | 40 (8)   |     |     |
+|     |     |      |     |     |          |
+| --- | --- | ---- | --- | --- | -------- |
+| COG | COO | INT  | SAV | SOM | WIL      |
+| 15  | 10  | 25   | 7   | 20  | 20       |
+|     |     | INIT |     |     | LUC (TT) |
+|     |     | 7    |     |     | 40 (8)   |
 
   - Skills:
     
@@ -87,12 +87,12 @@ the forrests.
 A Champion of the One that Chose Us, who is worshiped by some in the
 Eastern portion of the Kingdoms of Man.
 
-|             |       |      |     |          |     |     |
-| ----------- | ----- | ---- | --- | -------- | --- | --- |
-| COG         | COO   | INT  | REF | SAV      | SOM | WIL |
-| 20          | 20    | 15   | 15  | 25       | 20  | 20  |
-| DUR (WT)    | STR   | INIT | DB  | LUC (TT) |     |     |
-| 30/35 (6/7) | 30/35 | 6    | \+5 | 40 (8)   |     |     |
+|             |       |      |     |     |         |
+| ----------- | ----- | ---- | --- | --- | ------- |
+| COG         | COO   | INT  | SAV | SOM | WIL     |
+| 20          | 20    | 15   | 25  | 20  | 20      |
+| DUR (WT)    | STR   | INIT |     | DB  | LUC(TT) |
+| 30/35 (6/7) | 30/35 | 7    |     | \+5 | 40 (8)  |
 
   - Movement: Foot 4/12
 
@@ -148,6 +148,33 @@ Eastern portion of the Kingdoms of Man.
         Two-Handed, Reach. Creatures with the Natural tag and without
         the Human tag are Vulnerable to this weapon.
 
+### Clay Pot
+
+"Clay pots" are small constructed familiars.
+They need not be constructed out of clay: they are named because of a famous example that had a spherical, clay chassis.
+
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 10       | 10  | 15   | 10  | 20  | 15       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 20 (4)   | 15  | 5    |     | \+3 | 30 (6)   |
+
+  - Movement: Bipedal 3/9
+  - Senses: Normal, Mage Sight
+  - Tags: Magical Construct, Familiar
+  - Construction: when you construct a clay pot as a familiar, you may select up to three of the following *modifications*.
+      - Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains \+5 COO, and \+20 to Disable Device checks and to certain Craft checks.
+      - Hardened: your clay pot is forged of sturdy materials, such as iron; it gains \+10 DUR and \+3 Armor.
+      - Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10&div;2 DV) or start small fire.
+      - Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.
+      - Plated: your clay pot is forged from steel, or some other sturdy material; it gains \+5 DUR and \+3 Armor.  (Requires: Hardened.)
+      - Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).
+      - Walls: your clay pot can "levitate" over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)
+  - Size: Clay pots are Small.
+  - Skills:
+      - You may select up to four skills, and your clay pot receives 20 ranks in each.
+
 ### Cougar
 
 These big cats are flexible predators, able to persist from the snowy
@@ -155,12 +182,12 @@ north to the humid south. They are solitary and territorial. They
 usually hunt by ambush. Though dangerous, they can be backed off of prey
 by other large predators.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 3        | 15  | 10   | 20  | 3        | 20  | 20  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 25 (5)   | 20  | 6    | \+4 | 40 (8)   |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 3        | 15  | 10   | 3   | 20  | 20       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 25 (5)   | 20  | 5    |     | \+4 | 40 (8)   |
 
   - Movement: Quadruped 4/12, Climbing 4/12
 
@@ -193,12 +220,12 @@ by other large predators.
 Created when several powerful spirits colluded with a mortal to release
 one of the Dead, without binding it—and with some other string attached.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 5        | 20  | 5    | 20  | 5        | 30  | \-  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 40 (8)   | 50  | 5    | \+8 | \-       |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 5        | 20  | 5    | 5   | 30  | \-       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 40 (8)   | 50  | 5    |     | \+8 | \-       |
 
   - Movement: Walking 4/12, Climbing 3/9, Leap 5/15
 
@@ -240,12 +267,12 @@ managed as pests, and occasionally kept as pets.
 
 Background may need tweaking; I want this to be funny, not dark.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 6        | 10  | 15   | 15  | 5        | 10  | 30  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 15 (3)   | 10  | 6    | \+2 | 60 (12)  |     |     |
+|          |     |      |      |     |          |
+| -------- | --- | ---- | ---- | --- | -------- |
+| COG      | COO | INT  | SAV  | SOM | WIL      |
+| 6        | 10  | 15   | 5    | 10  | 30       |
+| DUR (WT) | STR | INIT |      | DB  | LUC (TT) |
+| 15 (3)   | 10  | 5    |      | \+2 | 60 (12)  |
 
   - Movement: Walking 4/12
 
@@ -274,6 +301,8 @@ Background may need tweaking; I want this to be funny, not dark.
   - Almost Social: Kambis can be influenced by either Handle Animal or
     Persuasion.
 
+  - Size: Kambis are Small.
+
   - Skills:
     
       - *Chase* 50
@@ -297,18 +326,18 @@ can open bottles, jars, doors and simple locks. Though they can live in
 many environments, they prefer those that afford them trees to hide in,
 and streams where they can forage for (and wash) food.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 4        | 15  | 15   | 15  | 3        | 15  | 20  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 15 (3)   | 10  | 6    | \+2 | 40 (8)   |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 4        | 15  | 15   | 3   | 15  | 20       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 15 (3)   | 10  | 6    |     | \+2 | 40 (8)   |
 
   - Movement: Quadruped 3/9, Climbing 3/9
 
   - Senses: Normal, Scent
 
-  - Tags: Natural, Animal, Raccoon, Wild Companion
+  - Tags: Natural, Animal, Familiar, Raccoon, Wild Companion
 
   - Acute Touch: Touch is a raccoon’s dominant sense, and they can
     perceive and manipulate small objects by touch alone; they can even
@@ -349,12 +378,12 @@ insects. The one presented here is a medium-sized creature known as a
 *get Acier to give us a name*; they operate in small packs, and hunt
 smaller prey by pursuit or ambush.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 4        | 10  | 10   | 20  | 4        | 20  | 10  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 30 (6)   | 35  | 6    | \+5 | 20 (5)   |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 4        | 20  | 10   | 4   | 20  | 10       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 30 (6)   | 35  | 6    |     | \+5 | 20 (5)   |
 
   - Movement: Foot 5/15, Leap 5/15, Glide 3/9, Climb 3/9
 
@@ -385,12 +414,12 @@ smaller prey by pursuit or ambush.
 The soldiers who keep the Commonwealth’s trade routes safe, its borders
 secure, and its enemies in check.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 15       | 15  | 20   | 15  | 20       | 25  | 20  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 35 (7)   | 35  | 7    | \+5 | 40 (8)   |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 15       | 15  | 20   | 20  | 25  | 20       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 35 (7)   | 35  | 7    |     | \+5 | 40 (8)   |
 
   - Movement: Foot 5/15
 
@@ -431,16 +460,49 @@ secure, and its enemies in check.
       - Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
       - Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
 
+### Weasel
+
+These small creatures are wild, frenetic hunters.
+
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 3        | 15  | 10   | 3   | 15  | 20       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 15 (3)   | 10  | 5    |     | \+2 | 40 (8)   |
+
+  - Movement: Climb 2/6, Quadruped 3/9
+  - Senses: Normal, Scent
+  - Tags: Natural, Animal, Familiar, Weasel
+  - Acute Hearing: Weasels get +20 on auditory perception checks.
+  - Frenetic: Weasels are manic hunters; the scent of blood can send them into a frenzy, in which they attack wildly and can kill much more prey than they will eat.
+      - If a weasel inflicts a wound, it enters a Frenzy
+      - While in a frenzy, they are immune to fear, and can negate one Wound and one Trauma; also,
+      - they attack convulsively, attacking anything they might consider prey.
+      - Frenzies last for WIL&div;5 minutes.
+      - **Special**: if a weasel is taken as a familiar, then its master is also affected by its Frenzy.  The master may attempt to restrain themselves from attack with a WIL&times;3 check, and attempt to end the weasel's frenzy early with a WIL&times;2 check.
+  - Size: Weasels are small creatures, some little larger than mice.  They are Tiny.
+  - Skills:
+      - *Chase* 50
+      - Fray 50
+      - Natural Weapons 70
+      - Perception 50
+      - Stealth 60
+
+  - Bite: 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+
+  - Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
+
 ### Wolf
 
 These intelligent and social predators are known for their pack tactics.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 5        | 5   | 15   | 10  | 5        | 20  | 15  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 25 (5)   | 20  | 5    | \+4 | 30 (6)   |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 5        | 10  | 15   | 5   | 20  | 15       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 25 (5)   | 20  | 5    |     | \+4 | 30 (6)   |
 
   - Movement: Quadruped 5/15
 
@@ -471,12 +533,12 @@ These intelligent and social predators are known for their pack tactics.
 These small, bold and highly-muscular predators often punch well above
 their weight.
 
-|          |     |      |     |          |     |     |
-| -------- | --- | ---- | --- | -------- | --- | --- |
-| COG      | COO | INT  | REF | SAV      | SOM | WIL |
-| 3        | 15  | 10   | 15  | 3        | 15  | 25  |
-| DUR (WT) | STR | INIT | DB  | LUC (TT) |     |     |
-| 20 (4)   | 20  | 5    | \+3 | 50 (10)  |     |     |
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 3        | 15  | 10   | 3   | 15  | 25       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 20 (4)   | 20  | 5    |     | \+3 | 50 (10)  |
 
   - Movement: Quadruped 3/9, Climbing 3/9
 
