@@ -138,3 +138,23 @@ aside:not(.toc-menu)
     border-width: 5px;
     border-style: solid none;
 }
+
+/* Styling tables.
+ */
+table:not(.toc-menu)
+{
+    margin: 5px;
+    /*border: 2px dotted #101020;*/
+    /*border-collapse: collapse;*/
+    border: 5px solid transparent;
+    border-image-source: url(/static/border-image.png);
+    border-image-slice: 20%;
+    border-image-width: 10px;
+    border-image-repeat: stretch;
+}
+
+td
+{
+    padding: 6px;
+    border: 1px dotted #101020;
+}
