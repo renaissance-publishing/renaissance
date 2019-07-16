@@ -158,3 +158,9 @@ td
     padding: 6px;
     border: 1px dotted #101020;
 }
+
+/* that table style doesn't quite work, parts of it get overridden from somewhere.
+ * (specifically from .pure-table.)
+ * But I kind of like the effect the broken CSS produced, with just the cell border, along just the top but not the sides or bottom.
+ * Hmm.
+ *
