@@ -215,6 +215,65 @@ by other large predators.
 
   - Claws: 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
 
+### Dancing Hawk
+
+Dancing Hawks are creatures native to the Dragons' Mountains, the low range that takes up the southeastern half of the Dragonshire; these massive creatures are sometimes used as mounts by Drakes.
+They are named for the unique "stomp" that they use to attack prey.
+
+Like a number of species native the the Dragons' Mountains--including dragons themselves--the Dancing Hawk is something between a bird and a reptile.
+They are shaped somewhat like a large bird, save that they have jaws (with teeth) rather than a beak; a long, strong, flexible tail that they use for balance and control while running; and their wings are tiny and folded before and under them, like small, awkward arms.
+They cannot fly, instead using their tiny wings for display, and for some other social behavior.
+They are, however, adept runners, and they run powerfully and surely through the hills and low peaks of the Drake's Mountains; their legs are massively muscled, able to carry their own weight comfortably, and a Drake rider beside.
+Most of their bodies are covered in fine, brown feathers, save their legs (which are scaled, like a bird's), and their small arms and long tails (which are covered in long, white feathers with black tips); the same long feathers sprout from the back of the Dancing Hawk's head.
+Dancing Hawks are huge, often the height of a drake at their hip, three times as long from nose to tail, and heavy as a small chunk of masonry.
+
+Dancing Hawks are omnivorous; they prefer the fruits and leaves of several trees native to the Dragons' Mountains, as well as some of the hardier shrubs and grasses that grow further up the slope.
+They also hunt, though they only hunt animals much smaller than themselves; unfortunately for the shepherds of the hills below the Dragons' Mountains, a sheep is "much smaller than" these massive creatures.
+Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled--and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
+Instead, they "stomp" on their pray, raising their legs and striking down with immense force; given the size and strength of the creature, these stomps are devastating.
+
+Dancing Hawks are social creatures, travelling in small packs in the Dragons' Mountains.
+A typical pack consists of about 6 adults and their young.
+They are also intelligent animals--smart enough to share kills and to cooperate to raise their pack's young.
+
+Dancing Hawks run with their spines parallel to the ground; this, taken together with their social and intelligent nature, makes it possible for them to bear a rider.
+Though most of them still run wild in the hills and mountains of the Dragons' Mountains, there are several domesticated breeds; they have the size and strength to bear a Drake rider, and the intelligence to be trained for war.
+Two factors prevent them from being used ubiquitously as mounts; their clutches, range and populations are small, and they do not have a horse's endurance.
+Still, some Drakes do use these powerful creatures as war-mounts, and their stomps are devastating attacks against downed foes.
+
+<aside class="designnote">
+Yes, it's like a [Utahraptor](https://en.wikipedia.org/wiki/Utahraptor) that's also a [Secretarybird](https://en.wikipedia.org/wiki/Secretarybird), except much bigger and omnivorous, and also you can ride it.
+</aside>
+
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 4        | 20  | 7    | 4   | 25  | 15       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 45 (9)   | 45  | 5    |     | \+7 | 30       |
+
+  - Movement: Walking 5/15, Climbing 2/6, Leaping 4/12
+
+  - Senses: Normal, Scent
+
+  - Tags: Natural, Dragonoid, Mount, Dancing Hawk
+
+  - Mountain's Hide: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
+
+  - Low Endurance: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
+
+  - Skills:
+    
+      - *Forage* 55
+      - Fray 50
+      - *Hunt* 45
+      - *Natural Weapons* 60
+      - Perception 50
+
+  - Stomp: 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
+
+  - Special: Dancing Falcons can be acquired from Dragonshire breeders--or the bold and fortunate might raise them from hatchlings.  They are cost-category \[Extreme\].
+
 ### Frozen Horror
 
 Created when several powerful spirits colluded with a mortal to release
