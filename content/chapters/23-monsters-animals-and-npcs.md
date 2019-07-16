@@ -256,11 +256,13 @@ Yes, it's like a [Utahraptor](https://en.wikipedia.org/wiki/Utahraptor) that's a
 
   - Senses: Normal, Scent
 
-  - Tags: Natural, Dragonoid, Mount, Dancing Hawk
+  - Tags: Dancing Hawk, Dragonoid, Mount, Natural
 
   - Mountain's Hide: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
 
   - Low Endurance: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
+
+  - Size: Very Large
 
   - Skills:
     
@@ -315,6 +317,35 @@ one of the Dead, without binding it—and with some other string attached.
       - Stealth \[Snowy Conditions\] 60
 
   - Talons: 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
+
+### Horse
+
+These quadrupedal creatures are native to the southwest of the Emerald Plane.
+They have long been ridden as mounts--and bred for the purpose--by the cultures there, and have since spread east throughout the Emerald Plane.
+
+|          |     |      |     |      |          |
+| -------- | --- | ---- | --- | ---- | -------- |
+| COG      | COO | INT  | SAV | SOM  | WIL      |
+| 3        | 15  | 15   | 4   | 30   | 20       |
+| DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
+| 30 (6)   | 30  | 6    |     | \+6  | 40 (8)   |
+
+  - Movement: Quadruped 5/15/30
+
+  - Senses: Normal
+
+  - Tags: Animal, Horse, Mount, Natural, Wild Companion
+
+  - Size: Large
+
+  - Skills:
+    
+      - Fray 40
+      - Perception 60
+      - *Run* 70
+      - *Stomp* 45
+
+  - Stomp: 45 (Stomp), 1d10\+6 (1d10\+DB), AP 1
 
 ### Kambi
 
@@ -376,6 +407,44 @@ Background may need tweaking; I want this to be funny, not dark.
     
       - “wild” Kambis will have simple armor (1 Armor) and a simple
         weapon (a knife, “sword” or spear).
+
+### Pack Cat
+
+These unusual creatures are distant relatives of other big cats.
+At first glance they look something like a white-furred mountain lion, though they are leaner, have a narrower stance and are long-legged--and their front legs are slightly higher than their back legs.
+Their muzzles are also slightly longer and narrower than other cats, giving them a look slightly more like a wolf.
+
+Their greatest difference between the *pack-cat* and other cats is their social behaviors; they are social animals, living communally in large packs.
+They are hunters and scavengers, and will cooperate to bring down game or defend a claimed kill.
+
+The cultures of the snowy north have long-since domesticated these creatures.
+They are kept as pets, work-animals, hunters and war-animals; they are kept by Orcs especially.
+
+|          |     |      |     |     |          |
+| -------- | --- | ---- | --- | --- | -------- |
+| COG      | COO | INT  | SAV | SOM | WIL      |
+| 5        | 15  | 15   | 5   | 20  | 20       |
+| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 25 (5)   | 20  | 6    |     | \+4 | 40 (8)   |
+
+  - Movement: Quadruped 4/12, Climbing 3/9
+
+  - Senses: Normal, Scent
+
+  - Tags: Animal, Natural, Pack Cat, Wild Companion
+
+  - Skills:
+    
+      - Fray 50
+      - *Hunt \[Pack Tactics\]* 50
+      - Intimidate 45
+      - Natural Weapons 60
+      - Perception 50
+      - Stealth 50
+
+  - Bite: 60 (Natural Weapons), 1D10\+7 (1D10\+1\+DB), AP \-
+
+  - Claws: 60 (Natural Weapons), 1D10\+6 (1D10\+DB), AP \-1
 
 ### Raccoon
 
