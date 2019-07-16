@@ -96,6 +96,7 @@ Changes since last time:
   - Partial update of the Monsters, Animals and NPCs section.
       - I removed the REF attribute from the creatures, finally, and updated their INITs.
       - I added the Horse, the Dancing Raptor (for Drakes) and the Pack-Cat (for Orcs).
+  - Added a familiar-having class for mages, and a three sample familiars to the example creatures section.
         
 
 Feedback Questions

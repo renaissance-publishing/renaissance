@@ -242,7 +242,7 @@ Two factors prevent them from being used ubiquitously as mounts; their clutches,
 Still, some Drakes do use these powerful creatures as war-mounts, and their stomps are devastating attacks against downed foes.
 
 <aside class="designnote">
-Yes, it's like a [Utahraptor](https://en.wikipedia.org/wiki/Utahraptor) that's also a [Secretarybird](https://en.wikipedia.org/wiki/Secretarybird), except much bigger and omnivorous, and also you can ride it.
+Yes, it's like a <a href="https://en.wikipedia.org/wiki/Utahraptor">Utahraptor</a> that's also a <a href="https://en.wikipedia.org/wiki/Secretarybird">Secretarybird</a>, except much bigger and omnivorous, and also you can ride it.
 </aside>
 
 |          |     |      |     |     |          |
