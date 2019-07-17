@@ -175,6 +175,6 @@ td
 }
 
 .header-link:before {
-    content: "🔗";
+    content: "🔗 ";
     font-size: 0.6em;
 }
