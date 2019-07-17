@@ -163,4 +163,18 @@ td
  * (specifically from .pure-table.)
  * But I kind of like the effect the broken CSS produced, with just the cell border, along just the top but not the sides or bottom.
  * Hmm.
- *
+ */
+
+/* Internal link prettification: */
+.header-link:hover {
+    text-decoration: underline;
+}
+
+.header-link {
+    text-decoration: none;
+}
+
+.header-link:before {
+    content: "🔗";
+    font-size: 0.6em;
+}
