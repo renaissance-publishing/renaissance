@@ -10,7 +10,8 @@ python:
   - 3.7
 
 install:
-  - pip install pipenv
+  - git config remote.origin.fetch +refs/heads/*:refs/remotes/origin/*
+  - git fetch --unshallow --tags
   - pipenv install
 
 script:
