@@ -465,7 +465,7 @@ Optional Background: Wood Elf Tribal Commuity
       - 10 ranks in Persuasion
       - 10 ranks in Survival
 
-### Human
+### Humans
 
   - Social, dextrous and intelligent, Humans where the first race to
     build cities, and the first to build great nations.
@@ -519,9 +519,9 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Inexhaustible:
 
-	  - Humans gain +WIL to tests to checks for Feats of Endurance.
+	  - Humans gain +WIL to checks for Feats of Endurance.
 
-### Kobold
+### Kobolds
 
   - Kobolds are a relatively new addition to the Commonwealth; most
     Kobold communities trace their origins to a mass exodus from the
@@ -978,7 +978,7 @@ Optional Background: Wood Elf Tribal Commuity
       - In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
       - Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
 
-### Herder
+### Herders
 
   - Herders are tall, thin and *roughly* humanoid—besides the layer of
     short fur, the large, deer-like eyes, the antlers and the hooves.
@@ -1445,17 +1445,17 @@ Optional Background: Wood Elf Tribal Commuity
       - Average Height: by shape
       - Average Weight: by shape
 
-  - shape-shifting spirit beings. Charming and suave, but also very
-    frail. They can shape shift freely. They tend to live in urban
-    centers among other races. Some Tempters live openly among the large
-    cities of the Commonwealth; more almost certainly live in secret.
+  - shape-shifting spirit beings. Charming and suave, but also very frail.
+
+  - They can shape shift freely.
+  
+  - They tend to live in urban centers among other races. Some Tempters live openly among the large cities of the Commonwealth; more almost certainly live in secret.
 
   - DUR 20, STR 20
 
   - \+5 INT, +10 SAV, +5 WIL
 
-  - Movement: Shape-Dependant (Flight 5 / 15 / 60, Foot 4 / 12 or Swim 4
-    / 12)
+  - Movement: Shape-Dependant (Flight 5 / 15 / 60, Foot 4 / 12 or Swim 4 / 12)
 
   - Senses: Normal, Mage-Sight
 
@@ -1463,14 +1463,7 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Language Group: Shape-Dependant (HHED / GR / DDK)
 
-  - *Appearance of Flesh*: Tempters are Spirits, and thus they do not
-    age, do not need to eat, drink or breath, and do not need to sleep.
-    However, even though they are Spirits, they are physical beings (and
-    thus, their bodies may be wounded, and they may be killed, using all
-    the rules for normal creatures). More than that, it is required of
-    them that their form always resemble that of a flesh-and-blood
-    creature – although the details of their form are otherwise up to
-    them.
+  - *Appearance of Flesh*: Tempters are Spirits, and thus they do not age, do not need to eat, drink or breath, and do not need to sleep.  However, even though they are Spirits, they are physical beings (and thus, their bodies may be wounded, and they may be killed, using all the rules for normal creatures). More than that, it is required of them that their form always resemble that of a flesh-and-blood creature–although the details of their form are otherwise up to them.
 
   - *Shape-Shifting*: Tempters can take the form of any medium-sized
     natural creature. They can control the details of their physical
@@ -1496,14 +1489,38 @@ Optional Background: Wood Elf Tribal Commuity
         is a negative trait; it you select it, you *gain* 10 CP, which
         you may then spend elsewhere.)
 
-## Neighboring races
+## Neighboring Races
+
+### Elf-Human Hybrid
+
+  - Elves and Humans are almost unique in that they are one of the few pairings of distinct races who can produce offspring together; however, doing so is not without complication.
+      - These half-human, half-elven children are almost always sterile; furthermore, while they are curiously immune to many inherited diseases that humans and elves are prone to, they are vulnerable to many unique defects all their own.
+      - There are two notable populations of non-sterile elven-human hybrids: the Haffa, who live primarily in a their own kingdom in the Kingdoms of Men; and the Shifter tribes living to the West of the Worldspine Mountains.
+      - The Haffa are the product of great fortune, magical intervention and selective breeding.
+      - The origins of the Shifters are lost to history; perhaps obviously, they have been influenced by far more exotic forces than merely having a mix of elven and human blood.  (As such, Shifters are usually regarded as a separate race, and have their own entry.)
+  - “First generation” elf-human hybrids often have no culture of their own; they are often born into an elven or human culture somewhere in the Commonwealth.
+      - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site—if not precisely common, since they usually cannot reproduce themselves.
+  - One of the few populations of non-sterile elf-human hybrids exists in the Kingdoms of Men: the Haffa.
+  - Vitals:
+      - Old Age: 160 years
+      - Average Height: 1.8m
+      - Average Weight: 60kg
+
+  - DUR 30, STR 30
+  - \+5 COG +5 COO +5 INT +5 SAV
+  - Movement: Foot 4/12
+  - Senses: Normal, Low-Light
+  - Tags: Natural, Humanoid, Human, Elf
+  - Language Group: HHED
+  - Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.
+  - Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
+  - Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
 
 ### Goblins
 
-  - These small creatures have a thick, tan hide, and are protected on
-    their upper back, arms and legs by bony plates. Though a small
-    number have filtered into the Commonwealth, most of them have
-    remained within their kingdom.
+  - These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
+    
+  - Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.
 
   - DUR 30, STR 30
 
@@ -1517,13 +1534,9 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Language Groups: HHED, GR
 
-  - Size: Goblins are Small
+  - Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor
 
-  - Thick Hide: Goblins have thick, bony plates on their upper back, and
-    protecting their limbs and joints. They have +1 Armor
-
-  - Poor Vision: Goblins have poor vision. Visual perception checks are
-    made at -10.
+  - Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.
 
   - Optional Trait: Claws
     
@@ -1532,6 +1545,58 @@ Optional Background: Wood Elf Tribal Commuity
         however, are particularly dangerous. You have claws:
       - 1d10+3+DB, AP -2
       - one-handed, natural
+
+### Gremlins
+
+  - These small creatures resemble hairless cats in gross appearance, save that they have hands rather than paws, walk upright, and are not *much* larger.
+
+  - Their homelands where conquered by Goblin kings and warlords long ago, and they have been subjects of the Goblins for centuries.
+
+      - Though the Goblins Code does declare that all other species are inferior to Goblins and are worthy of enslavement, it does grant some species special status over others; Gremlins are one such species.
+
+      - Gremlins are eligible for "favored servant" status; though they are still subordinate to Goblins, Gremlins that have earned this status are afforded preferential treatment and special privilege.
+
+      - Gremlins that have earned this status often serve as faithful retainers, performing tasks that, though they are beneath the dignity of a proper Goblin, still require trust.
+
+      - Gremlins also often serve as soldiers or mercenaries; Gremlins may keep a rabble of lesser slaves in line, or may guard the vulnerable flanks of the Goblin's highly effective long-spear formations.
+
+      - Favored Servant status is often passed down family lines by Gremlins, with parents grooming their offspring to continue in the service of a Goblin King, noble, warlord or family.
+
+      - Favored servants often mark their status with tattoos, which might symbolize their lineage, the Goblin line they serve, or their deeds.
+
+  - Gremlins are more likely than Goblins to flee the Goblin Empire and settle within the Commonwealth.
+
+      - Gremlins that *do not* have "favored servant" status are *especially* likely to attempt to flee.
+
+      - Gremlins that *were* favored servants are likely to receive a cold reception in the Commonwealth, especially among the small communities of Goblins and Gremlins that have settled in free lands, since other Goblin and Gremlin communities in the Commonwealth are likely to view them as traitors, collaborators and thugs.
+  
+  - Vitals:
+      - Old Age: 50 years
+      - Average Height: 1.1m
+      - Average Weight: 25kg
+
+  - DUR 25, STR 25
+
+  - \+5 COO, +10 INT, +5 SAV
+
+  - Movement: Climb 2/6, Foot 3/9
+
+  - Senses: Normal, Scent
+
+  - Tags: Natural, Humanoid, Gremlin
+
+  - Language Groups: GR
+
+  - Size: Gremlins are Small
+
+  - Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.
+
+  - Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
+
+      - Much like cats, Gremlins also kneed with their claws; though this is for them a sign of great affection, other races often find it painful.
+
+  - Poor Vision: Goblins have poor vision. Visual perception checks are
+    made at -20.
 
 ### Raptors
 
@@ -1597,3 +1662,70 @@ Optional Background: Wood Elf Tribal Commuity
         with your talons, if you score an exceptional success, you
         automatically grab your opponent.
 
+### Washers
+
+  - The name “washers” was taken from observations of the species by early Commonwealth explorers; “Jerks” is a fair (if polite) translation of the name they have for themselves.
+  - Washers are small, furry, and semi-humanoid in gross layout.
+      - They are covered in dull, grey-brown fur, with a distinctive black “eye-mask” pattern on their faces and black rings around their bushy tails.
+      - Washers move more naturally on all fours than they do upright; their arms and legs are unusually short and oddly-proportioned by humanoid standards.
+      - Washers have extremely dexterous hands and feet, and they are very strong climbers.
+      - Washers have an extraordinary sense of touch in their hands—so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them—and more than a little unnerving when they manipulate fine objects without looking at them.
+  - Washers lived in a region in the east of the Raptor’s Plane, in the forests that bordered on the sandy, arid northeastern peninsula.
+      - Tragically, that sandy, arid northeastern peninsula was the region first conquered by the Goblinoid Kings (and now ruled by the Goblin Empire).
+      - Not long after discovering them, the Goblins attempted to make slaves of the Washers, highly valuing their tiny, dexterous hands; they quickly decided that the Washers’ temperament made them unsuitable for enslavement, and moved instead to eradicate them.
+      - Too late did the Washers ally themselves with the Raptors and join their alliance with the Ratfolk; by this time, they only had one major city left, and a total surviving population of just more than a quarter-million.
+      - Today, the Washer’s territory defines the border between the Raptor’s Alliance and the Goblinoid territories.
+  - Washers have an impish sense of humor.
+  - Vitals:
+      - Old Age: 50 years
+      - Average Height: 0.8m
+      - Average Weight: 21kg
+
+  - DUR 20, STR 20
+  - \+5 COG +10 COO +5 SAV
+  - Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12
+  - Senses: Normal, Acute Touch
+  - Tags: Natural, Humanoid, Procyonid, Washers
+  - Language Group: GR
+  - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
+
+## Exotic Races
+
+### Bone Spiders
+
+  - Bone Spiders are among the more unique races to set foot on the Emerald Plane.
+      - Bone Spiders are arranged somewhat like crabs or spiders, but much larger; they have a large central section about a meter across, from which six meter-long legs extend.
+      - They have a head section at one end; it is not articulated with a neck, but continuous with the body.
+      - Two arms extend from the front, from slightly below the head, one on either side of it.
+      - They have multiple eyes—two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
+      - Bone Spiders have large bone plates covering their backs, underbellies and limbs.  There are a half-dozen diamond-shaped plates on their back, which overlap at their edges a little like scale mail; the plates on their underbellies are segmented, arranged in strips.
+      - Bone Spiders are semi-aquatic; they have gills on their underbellies, and can breathe underwater, though they are not particularly good swimmers.
+      - Bone Spiders are omnivorous.
+  - Bone Spiders only recently made contact with the Commonwealth.
+      - Bone Spider explorers first discovered the Emerald Plane and the Commonwealth some twenty years ago; a trickle of Bone Spider merchants have followed.
+      - Bone Spiders are from a lone island some two months’ voyage from the eastern coast of the Emerald Plane.
+      - Their island is not large: it is roughly circular, and it would take shy of two weeks to cross it on food at its widest.  The island is rocky and mountainous, rising to a single low peak in its middle.
+      - Along its northern and southern coasts, the rocks descend directly into the sea; besides a few lagoons, there is little arable land.
+      - Along the eastern and western coasts, there are flat stretches, hosting thin bands of soil and greenery between the sandy shores and the rocky slope.
+      - The Bone Spiders earliest culture began in a system of flooded caves and caverns in the center of their island.  Among their earliest myths are the stories of ascending from the deep caves to surface, and then descending form the slopes of the mountain to discover the thin crescents of fertile ground on their eastern and western coasts.
+      - Bone Spiders have long practiced aquaculture in the shallows around their island, and have a long history of boat-building and sailing.
+      - Only within the last hundred years did Bone Spiders begin to develop the kinds of boats that could cross the open ocean.
+  - The total Bone Spider population is not large; they have largely filled in the habitable portions of their island and the shallows around it, though they number fewer than five hundred thousand.
+      - Despite this fact, they seem in little hurry to expand onto the Emerald Plane.
+      - They do seem eager to trade, however, and a steady trickle of Bone-Spider merchant-ships have docked at ports along the eastern and southern coasts of the Emerald Plane.
+  - Those traders who do encounter these rare creatures should be advised: Bone Spiders find attempts to mimic their culture to be *very* tiresome.
+  - Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
+      - Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
+  - Vitals:
+      - Old Age: 125 years
+      - Average Height: 0.5m
+      - Average Length: 2.0m
+      - Average Weight: 75kg
+
+  - DUR 35, STR 30
+  - \+5 SAV, +5 SOM, +10 WIL
+  - Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
+  - Senses: Normal
+  - Tags: Natural, Hexapod, Bone Spider
+  - Language Group: HHED
+  - Aquatic: Bone Spiders can breath underwater.
