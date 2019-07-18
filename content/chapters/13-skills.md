@@ -286,7 +286,7 @@ title: "Skills"
         Culture skill.
       - Negotiating prices and trading uses the Barter skill.
 
-  - Ranged Weapons (SOM, Proficiency Skill)
+  - Ranged Weapons (COO, Proficiency Skill)
     
       - Active, Attack, Combat, Ranged Attack, Physical
       - Your skill with different ranged weapons.
