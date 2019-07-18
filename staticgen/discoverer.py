@@ -145,7 +145,6 @@ class Discoverer(object):
 
             for root, dirs, files in walk(str(self.page_dir)):
                 for fn in files:
-                    print(join(root, fn))
                     page = frontmatter.load(join(root, fn))
 
                     try:

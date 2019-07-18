@@ -22,7 +22,7 @@ deploy:
   provider: pages
   fqdn: renaissance.pub
   github-token: $GITHUB_TOKEN
-  local-dir: build
+  local-dir: $TRAVIS_REPO_SLUG/build
 
   skip-cleanup: true
 
