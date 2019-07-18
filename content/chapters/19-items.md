@@ -208,6 +208,7 @@ Drawbacks: -10 to checks that include your COO.
 
 Tags: Heavy
 
+<!--
 ### Partial Plate (Original)
 
 Consisting of steel plates and leather straps, partial plate protects
@@ -239,6 +240,7 @@ Drawbacks: -2 INIT if layered with armor with the Heavy tag. Cannot be
 worn with Full Plate.
 
 Tags: Layerable, Proud
+-->
 
 ### Partial Plate
 
@@ -597,11 +599,9 @@ Damage: 1d10+3+DB
 
 AP: 1
 
-### Flanged Mace
+### *Flanged Mace*
 
-The flanged mace is an example of a customized weapon. The flanged mace
-is a variant of the mace developed in response to the effectiveness of
-modern armor; it trades off the mace’s ability to maim for greater AP.
+*The flanged mace is an example of a customized weapon. The flanged mace is a variant of the mace developed in response to the effectiveness of modern armor; it trades off the mace’s ability to maim for greater AP.*
 
 Flanged maces are a development of the mace designed to better defeat
 armor; the heads are surrounded by raised ridges or flanges, which
@@ -674,13 +674,9 @@ Damage: 2d10+2+DB
 
 AP: 3
 
-### Reaping Sword
+### *Reaping Sword*
 
-The reaping sword is an example variant weapon. It is somewhat similar
-to a greatsword, but it is designed to be used by cavalry, primarily
-with the described “reaping attack”. It trades the flexibility of the
-sword—represented by the Close and Defensive tags—for usability on
-horseback or with mighty overhead slashes.
+*The reaping sword is an example variant weapon. It is somewhat similar to a greatsword, but it is designed to be used by cavalry, primarily with the described “reaping attack”. It trades the flexibility of the sword—represented by the Close and Defensive tags—for usability on horseback or with mighty overhead slashes.*
 
 This Shade-Elven weapon pairs a very long handle designed for a two
 handed grip with a thin, single-edged blade with a slight curve. The
@@ -738,11 +734,9 @@ Damage: 2d10+3+DB
 
 AP: 1
 
-### Quarterstaff
+### *Quarterstaff*
 
-The quarterstaff is an example variant weapon. It is similar to a Long
-Club, except it trades slightly lower damage and AP for a variety of
-tags—including the One-Handed tag, with associated one-handed damage.
+*The quarterstaff is an example variant weapon. It is similar to a Long Club, except it trades slightly lower damage and AP for a variety of tags—including the One-Handed tag, with associated one-handed damage.*
 
 A quarterstaff is a long staff made of sturdy wood. Though they are not
 as deadly as metal weapons—and are ineffective at defeating armor in
@@ -799,12 +793,14 @@ Damage: 1d10+5+DB
 
 AP: 2
 
-Note: The combination of Vulnerable and Fend may seem a little odd.
+<aside class="designnote">
+The combination of Vulnerable and Fend may seem a little odd.
 Vulnerable means that the weapon is not very useful when defending
 against an attack, while fend means that the weapon is good at keeping
 an opponent at range. This makes some sense, as long spears can be used
 to threaten an opponent into keeping their distance, but are not very
 good at parrying or defending should an opponent manage to get close.
+</aside>
 
 ### Halberd
 
@@ -1024,11 +1020,9 @@ swinging as part of the attack)
 
 ## Exotic Weapon
 
-### Shade-Elf Punch Dagger
+### *Shade-Elf Punch Dagger*
 
-This weapon is an example variant weapon; it is based on the dagger.
-These weapons are difficult to use, but they are larger than normal
-daggers and more difficult to disarm.
+*This weapon is an example variant weapon; it is based on the dagger. These weapons are difficult to use, but they are larger than normal daggers and more difficult to disarm.*
 
 Shade elves use these unusual weapons with an energetic and mobile
 fighting style; practitioners dart forward and back quickly, making
@@ -1133,15 +1127,7 @@ AP: 0
 
 ### Dragon’s Axe
 
-The Dragon’s Axe is an example unique weapon. As the description says,
-the Dragon’s Axe allows the wielder access to at least one powerful,
-armor-defeating shot, without leaving them defenseless in melee combat.
-Such a weapon might have an unreliable firing mechanism, or it might
-have a weaker shaft (owing to it being hollow to double as a barrel)—or
-it also might not\! The weapon might be perfectly servicable as both an
-axe and matchlock. The choice is up to the player and the GM, and
-depends on what the CP cost of the weapon is, and what kind of “feel”
-the GM wants for the setting, and the player wants for their character.
+*The Dragon’s Axe is an example unique weapon. As the description says, the Dragon’s Axe allows the wielder access to at least one powerful, armor-defeating shot, without leaving them defenseless in melee combat. Such a weapon might have an unreliable firing mechanism, or it might have a weaker shaft (owing to it being hollow to double as a barrel)—or it also might not\! The weapon might be perfectly servicable as both an axe and matchlock. The choice is up to the player and the GM, and depends on what the CP cost of the weapon is, and what kind of “feel” the GM wants for the setting, and the player wants for their character.*
 
 A unique weapon built to order at great expense to the Dragonshire noble
 that commissioned it, it was designed to make the might of gunpowder
