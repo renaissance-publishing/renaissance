@@ -599,7 +599,7 @@ Damage: 1d10+3+DB
 
 AP: 1
 
-### *Flanged Mace*
+### Flanged Mace
 
 *The flanged mace is an example of a customized weapon. The flanged mace is a variant of the mace developed in response to the effectiveness of modern armor; it trades off the mace’s ability to maim for greater AP.*
 
@@ -674,7 +674,7 @@ Damage: 2d10+2+DB
 
 AP: 3
 
-### *Reaping Sword*
+### Reaping Sword
 
 *The reaping sword is an example variant weapon. It is somewhat similar to a greatsword, but it is designed to be used by cavalry, primarily with the described “reaping attack”. It trades the flexibility of the sword—represented by the Close and Defensive tags—for usability on horseback or with mighty overhead slashes.*
 
@@ -734,7 +734,7 @@ Damage: 2d10+3+DB
 
 AP: 1
 
-### *Quarterstaff*
+### Quarterstaff
 
 *The quarterstaff is an example variant weapon. It is similar to a Long Club, except it trades slightly lower damage and AP for a variety of tags—including the One-Handed tag, with associated one-handed damage.*
 
@@ -1020,7 +1020,7 @@ swinging as part of the attack)
 
 ## Exotic Weapon
 
-### *Shade-Elf Punch Dagger*
+### Shade-Elf Punch Dagger
 
 *This weapon is an example variant weapon; it is based on the dagger. These weapons are difficult to use, but they are larger than normal daggers and more difficult to disarm.*
 
