@@ -105,8 +105,9 @@ Proceed through the following steps in order:
     
       - no more than 50 ranks in a skill
       - no aptitudes higher than 35 or lower than 5
-      - at least 150 CP spent on skills with the *combat* tag
-      - at least 200 CP spent on skills that don't have the *combat* tag
+      - at least 100 CP spent on skills with the *combat* tag
+      - at least 100 CP spent on skills with the *knowledge* tag
+      - ~~at least 200 CP spent on skills that don't have the *combat* tag~~
 
 Wealth Levels:
 
