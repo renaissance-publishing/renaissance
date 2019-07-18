@@ -1439,13 +1439,15 @@ Optional Background: Wood Elf Tribal Commuity
 
 ### Tempters
 
-<div class="designnote">
+<aside class="designnote">
 I haven't decided which version I like most yet.
 The old one (V1) was both too powerful (because Tempters could shapeshift into anyone without needing a skill or power), but also kind of painful (because they had 20 STR and DUR to balance it).
-The new version (V2) is less punitive (because now they have 30 DUR and STR), but also more balanced (because now they have to invest in a skill and powers).
+The new version (V2) is less punitive (because now they have 30 DUR and STR), but also more balanced (because now they have to invest in a skill and powers&mdash;and also because they have fewer apt bonuses).
 (It also makes it way more expensive to really play into a shape-shifting Tempter, but that's probably not a bad thing given how powerful that ability can be.)
-My reservations about V2 are, a) is it balanced *enough* (or too much?), and b) is it too complex?
-</div>
+My reservations about V2 are, a) is it balanced <i>enough</i> (or too much?), and b) is it too complex?
+
+These guys need more balance work.
+</aside>
 
 #### V1
 
@@ -1515,7 +1517,7 @@ My reservations about V2 are, a) is it balanced *enough* (or too much?), and b) 
 
   - DUR 30, STR 30
 
-  - \+5 INT, +10 SAV, +5 WIL
+  - \+5 INT, +5 SAV, +5 WIL
 
   - Movement: Shape-Dependant (usually Foot 4/12)
 
@@ -1526,8 +1528,6 @@ My reservations about V2 are, a) is it balanced *enough* (or too much?), and b) 
   - Language Group: any
 
   - *Appearance of Flesh*: Tempters are Spirits, and thus they do not age, do not need to eat, drink or breath, and do not need to sleep.  However, even though they are Spirits, they are physical beings (and thus they have STR and DUR scores, and they may be wounded or killed using all the normal rules for creatures). More than that, it is required of them that their form always resemble that of a flesh-and-blood creature–although the details of their form are otherwise up to them.
-
-      - They are also resistant (but not immune) to diseases and poisons; they gain a +20 bonus to checks to resist disease and poison.
 
   - *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific
     individuals.
