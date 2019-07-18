@@ -27,7 +27,10 @@ def build(input_dir: str, output_dir: str):
     discoverer = Discoverer(input_dir, output_dir)
     builder = Builder(discoverer)
 
-    builder.render_site()
+    with TemporaryDirectory() as tmp:
+        source = next(filter(lambda b: b.name == 'source', discoverer.branches))
+        discoverer.access_branch(source, tmp)
+        builder.render_site()
 
     for branch in discoverer.branches:
         with TemporaryDirectory() as tmp:
