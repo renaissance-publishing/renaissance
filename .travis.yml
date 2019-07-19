@@ -28,4 +28,5 @@ deploy:
 
   target-branch: master
   on:
-    branch: source
+    all_branches: true
+    condition: $TRAVIS_BRANCH =~ ^(source|v[0-9\.]+)$
