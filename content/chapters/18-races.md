@@ -1506,9 +1506,10 @@ Optional Background: Wood Elf Tribal Commuity
   - Optional Class: Tempter, Master Shifter
 
       - Requires: either the *More than Form Alone* or *To Crawl and Soar* power (or both)
-      - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.
-      - (You don't have to take another -5 penalty.)
-      - If you have the *To Crawl and Soar* power, you choose four times.
+      - When you assume a new form, you may choose one of the following:
+          - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.  (You don't have to take another -5 penalty.)
+          - If you have the *To Crawl and Soar* power, you choose two additional bonuses.
+          - You may take the form of a race with the Empowered tag.  (Normally, you could only take the form of a Natural creature.)
 
 ## Neighboring Races
 
