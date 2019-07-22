@@ -1494,7 +1494,7 @@ Optional Background: Wood Elf Tribal Commuity
       - You may choose STR or DUR if that race has a higher STR or DUR than you do.
       - You must choose either INT, SAV or WIL and take a -5 penalty to that aptitude.
 
-  - Optional Power: Tempter, To Crawl and Soar
+  - Optional Power: To Crawl and Soar
 
       - You can mimic the construction of other races well enough that you gain some of their biological capabilities.
       - When you assume the form of a given race, you may choose two of the following:
@@ -1503,7 +1503,7 @@ Optional Background: Wood Elf Tribal Commuity
           - That race's armor bonus (not more than +3).
           - One natural attack that race has.
 
-  - Optional Class: Tempter, Master Shifter
+  - Optional Class: Master Shifter
 
       - Requires: either the *More than Form Alone* or *To Crawl and Soar* power (or both)
       - When you assume a new form, you may choose one of the following:
