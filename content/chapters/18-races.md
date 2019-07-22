@@ -1463,7 +1463,9 @@ Optional Background: Wood Elf Tribal Commuity
 
   - Language Group: any
 
-  - *Appearance of Flesh*: Tempters are Spirits, and thus they do not age, do not need to eat, drink or breath, and do not need to sleep.  However, even though they are Spirits, they are physical beings (and thus they have STR and DUR scores, and they may be wounded or killed using all the normal rules for creatures). More than that, it is required of them that their form always resemble that of a flesh-and-blood creature–although the details of their form are otherwise up to them.
+  - *Appearance of Flesh*: Even though Tempters are spirits, they are bound to the nature of flesh;they have a physical form, they can be wounded and killed, they can sicken, and they need to eat, drink, breath and sleep just like mortal beings.  More than that, it is required of them that their form always resemble that of a flesh-and-blood creature&mdash;although they can control their form at will.
+
+      - However, because they are so bound to the nature of flesh, they are not immediately obvious as spirits to those with Mage Sight.  For someone with Mage Sight to recognize a Tempter, a detailed examination is required; this is a 10 minute task action, requiring either a Search or Spellcraft check at -20.
 
   - *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific individuals.
     
@@ -1472,7 +1474,9 @@ Optional Background: Wood Elf Tribal Commuity
       - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
       - Normally, changing shape does not affect their statistics&mdash;but see the powers listed below.
 
-  - Since they are spirits, people with Mage Sight can potentially see a Tempter's magical nature; however, Tempters have the ability to partially mask themselves.  Detecting a tempter with Mage Sight requires an opposed test, the Perception skill of the character with Mage Sight versus the Tempter's WIL+WIL+INT.
+  - *Basin*: As other Spirits, Tempters have a basin&mdash;something that they draw their vitality from, and over which they have power.  Tempters' basin is *emotion*; they can perceive and influence the emotions of others.
+      
+      - Mechanically, this grants Tempters a +20 bonus on most Social Skills test, and may negate some penalties to those tests as well.
 
   - Optional Negative Trait: Bind
     
