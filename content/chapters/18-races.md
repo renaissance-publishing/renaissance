@@ -1476,7 +1476,7 @@ Optional Background: Wood Elf Tribal Commuity
 
   - *Basin*: As other Spirits, Tempters have a basin&mdash;something that they draw their vitality from, and over which they have power.  Tempters' basin is *emotion*; they can perceive and influence the emotions of others.
       
-      - Mechanically, this grants Tempters a +20 bonus on most Social Skills test, and may negate some penalties to those tests as well.
+      - Mechanically, this grants Tempters a +10 bonus on most Social Skills test, and may negate some penalties to those tests as well.
 
   - Optional Negative Trait: Bind
     
@@ -1510,6 +1510,12 @@ Optional Background: Wood Elf Tribal Commuity
           - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.  (You don't have to take another -5 penalty.)
           - If you have the *To Crawl and Soar* power, you choose two additional bonuses.
           - You may take the form of a race with the Empowered tag.  (Normally, you could only take the form of a Natural creature.)
+
+  - Optional Class: Empath
+  
+      - You have extensively developed your race's empathic talents, enabling you to sense and manipulate the emotions of others without needing to interact with them socially.
+      - You can sense the emotions of those near you (roughly, those within 10 meters, although you may be able to read intense emotion from further away).
+      - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.  
 
 ## Neighboring Races
 
