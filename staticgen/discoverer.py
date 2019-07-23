@@ -200,7 +200,9 @@ class Discoverer(object):
     def rules(self) -> RulesData:
         if not self.__rules:
             it = walk(str(self.rules_dir))
-            next(it)
+# TODO: commented out because it was breaking output.
+#       we're gonna have to fix this later.
+#            next(it)
             self.__rules = RulesData(it)
 
         return self.__rules
