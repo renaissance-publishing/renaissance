@@ -1515,7 +1515,7 @@ Optional Background: Wood Elf Tribal Commuity
   
       - You have extensively developed your race's empathic talents, enabling you to sense and manipulate the emotions of others without needing to interact with them socially.
       - You can sense the emotions of those near you (roughly, those within 10 meters, although you may be able to read intense emotion from further away).
-      - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.  
+      - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
 
 ## Neighboring Races
 
