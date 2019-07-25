@@ -1474,18 +1474,13 @@ Optional Background: Wood Elf Tribal Commuity
       - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
       - Normally, changing shape does not affect their statistics&mdash;but see the powers listed below.
 
-  - *Basin*: As other Spirits, Tempters have a basin&mdash;something that they draw their vitality from, and over which they have power.  Tempters' basin is *emotion*; they can perceive and influence the emotions of others.
+  - *Basin*: Like other Spirits, Tempters have a basin (see *The Supernatural*): the mental energies of other intelligent beings.  This connection is not as strong as Uncle Haw's control over the Haw river, for example, but it does allow them a greater sense of the state-of-mind of others&mdash;which some hone into a limited ability to sense and manipulate the emotions of others.
       
       - Mechanically, this grants Tempters a +10 bonus on most Social Skills test, and may negate some penalties to those tests as well.
 
   - Optional Negative Trait: Bind
     
-      - You have a *bind*, the details of which you should work out with
-        your GM. The bind should pose a real danger to you. It must be
-        known to at least one clerical organization in the area where
-        you live – although it does not need to be widely known. (This
-        is a negative trait; it you select it, you *gain* 10 CP, which
-        you may then spend elsewhere.)
+      - You have a *bind*, the details of which you should work out with your GM. The bind should pose a real danger to you. It must be known to at least one clerical organization in the area where you live – although it does not need to be widely known. (This is a negative trait; it you select it, you *gain* 10 CP, which you may then spend elsewhere.)
 
   - Optional Power: More than Form Alone
 
@@ -1510,12 +1505,15 @@ Optional Background: Wood Elf Tribal Commuity
           - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.  (You don't have to take another -5 penalty.)
           - If you have the *To Crawl and Soar* power, you choose two additional bonuses.
           - You may take the form of a race with the Empowered tag.  (Normally, you could only take the form of a Natural creature.)
+          - You may take the form of a small creature.  (Normally, you could only take the form of a Medium-sized creature.)
 
   - Optional Class: Empath
   
-      - You have extensively developed your race's empathic talents, enabling you to sense and manipulate the emotions of others without needing to interact with them socially.
-      - You can sense the emotions of those near you (roughly, those within 10 meters, although you may be able to read intense emotion from further away).
+      - You have extensively developed your race's empathic talents, enabling you to sense and manipulate the emotions of others.
+      - You gain the *Empath* sense.
+          - This sense has a limited range&mdash;roughly 10 meters, although you may be able to read intense emotion from further away.
       - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
+          - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
 ## Neighboring Races
 
