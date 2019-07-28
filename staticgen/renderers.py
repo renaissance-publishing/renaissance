@@ -43,6 +43,7 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
 
     def render(self, *args, **kwargs)
         try:
+            sys.stdout.write(str(args))
             super(RenaissanceHTMLRenderer, self).render(*args, **kwargs)
         except:
             for arg in args:
