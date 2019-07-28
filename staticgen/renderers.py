@@ -25,7 +25,7 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
             super(RenaissanceHTMLRenderer, self).render_block_code(token)
 
     # Gleech
-    def render_document(*args, **kwargs):
+    def render_document(self, *args, **kwargs):
         # I swear to god
         # so super() isn't happy because this is somehow not a class method.
         # there are demons in this code.
