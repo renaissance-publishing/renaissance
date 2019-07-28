@@ -41,11 +41,12 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
     #         raise
     # # it doesn't look like anything interesting is happening here.
 
-    def render(self, *args, **kwargs):
-        try:
-            sys.stdout.write(str(args))
-            super(RenaissanceHTMLRenderer, self).render(*args, **kwargs)
-        except:
-            for arg in args:
-                sys.stdout.write(f"{arg}\n")
-            raise
+    # def render(self, *args, **kwargs):
+    #     try:
+    #         #sys.stdout.write(f"start> {str(args)}\n")
+    #         return super(RenaissanceHTMLRenderer, self).render(*args, **kwargs)
+    #     except Exception as e:
+    #         sys.stderr.write(str(e) + "\n")
+    #         for arg in args:
+    #             sys.stdout.write(f"err> {arg}\n")
+    #         raise

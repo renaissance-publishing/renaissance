@@ -126,9 +126,9 @@ class Builder(object):
             chapter.content = mistletoe.markdown(chapter.content, renderer=RenaissanceHTMLRenderer)
         except:
             secho('• Failed to render chapter "{}"'.format(chapter.title), fg='red')
-            for item in dir(chapter):
-            #    sys.stdout.write("> " + str(item) + ": " + str(getattr(chapter, item)) +  "\n")
-                sys.stdout.write("> " + str(item) + "\n")
+            # for item in dir(chapter):
+            # #    sys.stdout.write("> " + str(item) + ": " + str(getattr(chapter, item)) +  "\n")
+            #     sys.stdout.write("> " + str(item) + "\n")
             raise
             
         local_ctx = self.context
