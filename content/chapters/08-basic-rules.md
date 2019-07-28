@@ -215,7 +215,7 @@ Checks are at the heart of Renaissance.
 
 <aside class="gmguidance">
 
-### Sidebar: When should we use checks?
+Sidebar: When should we use checks?
     
 When is a check called for, and what type? This depends on the situation.
 
@@ -232,7 +232,7 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 
 <aside class="gmguidance">
 
-### Sidebar: Trying Again
+Sidebar: Trying Again
     
   - Sometimes, if a player fails a check, they will simply be able
     to try again rather than having the player roll the same check
@@ -260,8 +260,6 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 
 <aside class="gmguidance">
 
-### Sidebar: Repeated Individual Skill Checks
-    
   - Sometimes, there are situations where several members of the
     party could attempt the same task in sequence; for example, if
     the players are trying to search a room, then each person could
@@ -279,8 +277,6 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 </aside>
 
 <aside class="gmguidance">
-
-### Picking a Check
 
 So, you’ve decided that a check is called for—but what check should you
 use? Sometimes it can be tricky to decide.
@@ -317,13 +313,7 @@ tested, then DUR can be used; and so on. Most of the time, it’s a good
 idea to mix 2 or 3 aptitudes.
 
 Note that some rules reference types of sample checks specifically. For
-example, some traits give you bonuses to *resist fear* or *feats of
-strength *checks. It’s a good idea to let players keep the benefits of
-those traits (for example) on checks that could reasonably be called a
-*feat of strength*, even if you don’t use the *feat of strength* check
-as it’s listed. (A player might ask, “is this a feat of strength?”, or
-you could tell them to “roll SOM×2, as a feat of strength” or
-“feat-of-strength effects apply”.)
+example, some traits give you bonuses to *resist fear* or *feats of strength* checks. It’s a good idea to let players keep the benefits of those traits (for example) on checks that could reasonably be called a *feat of strength*, even if you don’t use the *feat of strength* check as it’s listed. (A player might ask, “is this a feat of strength?”, or you could tell them to “roll SOM×2, as a feat of strength” or “feat-of-strength effects apply”.)
 
 In unusual cases, you can have players make a check against a single
 aptitude (as in, a WIL×1 check). Such a check is very difficult to pass,
