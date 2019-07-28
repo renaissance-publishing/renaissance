@@ -213,8 +213,6 @@ Checks are at the heart of Renaissance.
             penalty for defaulting—you’re in enough trouble
             already\!—although other modifiers would apply as normal.
 
-<aside class="gmguidance">.
-
 ### Sidebar: When should we use checks?
     
 When is a check called for, and what type? This depends on the situation.
@@ -228,9 +226,6 @@ A character can make the half-day’s walk to a neighboring town, cook a meal or
 Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check: someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.
 
 The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
-</aside>
-
-<aside class="gmguidance">.
 
 ### Sidebar: Trying Again
     
@@ -256,9 +251,6 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
     This makes some sense, as a character that failed a check
     presumably failed for a reason, and that reason likely still
     applies if circumstances have not changed.
-</aside>
-
-<aside class="gmguidance">.
 
 ### Sidebar: Repeated Individual Skill Checks
     
@@ -276,9 +268,6 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
     highest rating in the skill in question—should “take the lead,”
     and the other party-members should assist (if they can, see
     *Skill Modifiers*).
-</aside>
-
-<aside class="gmguidance">.
 
 ### Picking a Check
 
