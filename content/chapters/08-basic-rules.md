@@ -214,8 +214,7 @@ Checks are at the heart of Renaissance.
             already\!—although other modifiers would apply as normal.
 
 <aside class="gmguidance">
-
-Sidebar: When should we use checks?
+### Sidebar: When should we use checks?
     
 When is a check called for, and what type? This depends on the situation.
 
@@ -231,8 +230,7 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 </aside>
 
 <aside class="gmguidance">
-
-Sidebar: Trying Again
+### Sidebar: Trying Again
     
   - Sometimes, if a player fails a check, they will simply be able
     to try again rather than having the player roll the same check
@@ -259,7 +257,8 @@ Sidebar: Trying Again
 </aside>
 
 <aside class="gmguidance">
-
+### Sidebar: Repeated Individual Skill Checks
+    
   - Sometimes, there are situations where several members of the
     party could attempt the same task in sequence; for example, if
     the players are trying to search a room, then each person could
@@ -277,6 +276,8 @@ Sidebar: Trying Again
 </aside>
 
 <aside class="gmguidance">
+
+### Picking a Check
 
 So, you’ve decided that a check is called for—but what check should you
 use? Sometimes it can be tricky to decide.
