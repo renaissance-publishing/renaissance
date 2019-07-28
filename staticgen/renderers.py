@@ -24,18 +24,27 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
         else:
             super(RenaissanceHTMLRenderer, self).render_block_code(token)
 
-    # Gleech
-    def render_document(self, *args, **kwargs):
-        # I swear to god
-        # so super() isn't happy because this is somehow not a class method.
-        # there are demons in this code.
+    # # Gleech
+    # def render_document(self, *args, **kwargs):
+    #     # I swear to god
+    #     # so super() isn't happy because this is somehow not a class method.
+    #     # there are demons in this code.
+    #     try:
+    #         super(RenaissanceHTMLRenderer, self).render_document(*args, **kwargs)
+    #     except:
+    #         sys.stdout.write("args:\n")
+    #         for arg in args:
+    #             sys.stdout.write(str(arg) + "\n")
+    #         sys.stdout.write("kwargs\n")
+    #         for kwarg in kwargs:
+    #             sys.stdout.write(str(kwarg) + "\n")
+    #         raise
+    # # it doesn't look like anything interesting is happening here.
+
+    def render(self, *args, **kwargs)
         try:
-            super(RenaissanceHTMLRenderer, self).render_document(*args, **kwargs)
+            super(RenaissanceHTMLRenderer, self).render(*args, **kwargs)
         except:
-            sys.stdout.write("args:\n")
             for arg in args:
-                sys.stdout.write(str(arg) + "\n")
-            sys.stdout.write("kwargs\n")
-            for kwarg in kwargs:
-                sys.stdout.write(str(kwarg) + "\n")
+                sys.stdout.write(f"{arg}\n")
             raise
