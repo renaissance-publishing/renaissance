@@ -1,6 +1,7 @@
 from mistletoe import block_token, html_renderer
 import re
 
+import sys # Gleech
 
 toAnchorRegex = re.compile(r'[^\w\d]')
 
@@ -23,3 +24,16 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
             return template.format(klass=token.language, inner=inner)
         else:
             super(RenaissanceHTMLRenderer, self).render_block_code(token)
+
+    # Gleech
+    def render_document(*args, **kwargs):
+        # I swear to god
+        try:
+            super.render_document(*args, **kwargs)
+        except:
+            sys.stdout.write("args:\n")
+            for arg in args:
+                sys.stdout.write(str(arg) + "\n")
+            sys.stdout.write("kwargs\n")
+            for kwarg in kwargs:
+                sys.stdout.write(str(kwarg) + "\n")
