@@ -37,3 +37,4 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
             sys.stdout.write("kwargs\n")
             for kwarg in kwargs:
                 sys.stdout.write(str(kwarg) + "\n")
+            raise
