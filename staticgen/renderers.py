@@ -5,22 +5,16 @@ import sys # Gleech
 
 toAnchorRegex = re.compile(r'[^\w\d]')
 
-# there's no reason to make this a static method.
-def heading_to_anchor(heading: block_token.Heading) -> str:
-    text: str = heading.children[0].content
-    return toAnchorRegex.sub('', text)
-
 class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
-    # @staticmethod
-    # def heading_to_anchor(heading: block_token.Heading) -> str:
-    #     text: str = heading.children[0].content
-    #     return toAnchorRegex.sub('', text)
+    @staticmethod
+    def heading_to_anchor(heading: block_token.Heading) -> str:
+        text: str = heading.children[0].content
+        return toAnchorRegex.sub('', text)
 
     def render_heading(self, token):
         template = '<h{level} id="{anchor}"><a class="header-link" href="#{anchor}">{inner}</a></h{level}>'
         inner = self.render_inner(token)
-        #return template.format(level=token.level, anchor=self.heading_to_anchor(token), inner=inner)
-        return template.format(level=token.level, anchor=heading_to_anchor(token), inner=inner)
+        return template.format(level=token.level, anchor=self.heading_to_anchor(token), inner=inner)
 
     def render_block_code(self, token):
         if isinstance(token, block_token.CodeFence) and token.language in ['devnotes', 'aside']:
@@ -36,7 +30,7 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
         # so super() isn't happy because this is somehow not a class method.
         # there are demons in this code.
         try:
-            super().render_document(*args, **kwargs)
+            super(RenaissanceHTMLRenderer, self).render_document(*args, **kwargs)
         except:
             sys.stdout.write("args:\n")
             for arg in args:
