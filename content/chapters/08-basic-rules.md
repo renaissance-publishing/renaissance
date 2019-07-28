@@ -213,7 +213,7 @@ Checks are at the heart of Renaissance.
             penalty for defaulting—you’re in enough trouble
             already\!—although other modifiers would apply as normal.
 
-### Sidebar: When should we use checks?
+### Sidebar When should we use checks
     
 When is a check called for, and what type? This depends on the situation.
 
@@ -227,7 +227,7 @@ Characters can also perform simple tasks using skills that they have *basic prof
 
 The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
 
-### Sidebar: Trying Again
+### Sidebar Trying Again
     
   - Sometimes, if a player fails a check, they will simply be able
     to try again rather than having the player roll the same check
