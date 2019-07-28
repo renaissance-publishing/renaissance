@@ -1416,8 +1416,8 @@ Reload: Standard Action
   - Time Frames at GM’s discretion, with the following guidelines:
     
       - Minor Item: two hour Task Action
-      - Moderate Item: ~~one day~~ 1 shift Job
-      - Major Item: ~~one month~~ 20 shift Job
+      - Moderate Item: 1 shift Job
+      - Major Item: 20 shift Job
 
   - Raw Materials
     

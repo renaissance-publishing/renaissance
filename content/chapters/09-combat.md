@@ -409,53 +409,29 @@ rules are optional, but *useful* and *recommended*.
 
 ## Multiple Weapons and Multiple Attacks
 
-  - Multiple Attacks: under some circumstances, characters can make
-    multiple attacks (when wielding multiple weapons, for example). When
-    a character attacks, they may make one attack with each weapon they
-    are wielding; such an attack is still one Standard Action. Resolve
-    each attack separately, using the normal procedure for each attack.
-    When making Multiple Attacks, each attack suffers a -10 penalty.
-    
-      - Multiple Targets: when making multiple attacks, each attack can
-        have a different target. When attacking multiple targets, each
-        attack suffers an additional -10 penalty.
+Under some circumstances, characters can make multiple attacks at once; for example, a character wielding multiple weapons could choose to attack with each weapon that they are wielding.
+When making multiple attacks, only one Standard Action is required, but each attack is resolved separately (using all the normal rules for attacks); each attack suffers a -10 penalty.
+
+When making multiple attacks, each attack does not have to have the same target; instead, each attack can be directed at a specific target.
+When attacking multiple targets in this way, each attack suffers an additional -10 penalty.
         
-          - I’m trying to decide if I should word this as a general
-            rule, or just make it specific to when you’re also making
-            Multiple Attacks. The only other time I can see it applying
-            is for a Cleave-like power.
-          - Clarification: attacks with the Blast property are not
-            considered “multiple-target attacks”.
+<div class="clarificiation">
+These rules only cover attacking multiple targets with multiple single-target attacks; they do not cover blast or splash weapons, for example.
+</div>
 
-  - Off-Hand Weapons: most characters (i.e. those without an appropriate
-    Trait or Racial ability) have a dominant hand and an off-hand.
-    Attacks made with the off-hand suffer a -10 penalty.
-    
-      - If the weapon you are using in your off-hand does not have the
-        *off-hand* tag, you suffer an additional -10 penalty
+Off-Hand Weapons: most characters (i.e. those without an appropriate Trait or Racial ability) have a dominant hand and an off-hand.
+Attacks made with the off-hand suffer a -10 penalty.
+If the weapon you are using in your off-hand does not have the *Off-Hand* tag, you suffer an additional -10 penalty.
 
-  - Some Examples:
+<div class="example">
     
-      - If you’re humanoid, you have the Ambidextrous trait and you are
-        wielding two one-handed weapons, then you can make two separate
-        attacks against one target as a Standard Action. Each attack
-        suffers -10 penalty (for making Multiple Attacks).
-      - If you don’t have the Ambidextrous trait, but the weapon in your
-        off hand has the Off-Hand tag, then it’s one attack at -10 (the
-        main hand, with the Multiple Attacks penalty) and one attack at
-        -20 (the off-hand, with the Off-Hand and Multiple Attacks
-        penalties).
-      - If you don’t have the Ambidextrous trait, and you’re holding two
-        one-handed-but-not-off-hand weapons, you can still choose to
-        make only one attack, and that attack will have no penalty (main
-        hand), or a -20 penalty
-        (off-hand-attack-without-offhand-tagged-weapon, if you make your
-        one attack with your off hand, for some reason).
+If you’re humanoid, you have the Ambidextrous trait and you are wielding two one-handed weapons, then you can make two separate attacks against the same target as a Standard Action.
+Each attack suffers -10 penalty (for making Multiple Attacks).
 
-  - Feedback required\!
-    
-      - These rules are complicated and have lots of cumulative
-        penalties; carefully watch how this works out.
+If you don’t have the Ambidextrous trait, but the weapon in your off hand has the Off-Hand tag, then you can make one attack at -10 (with the weapon in your main hand, suffering the Multiple Attacks penalty) and one attack at -20 (with the weapon in your off-hand, suffering both the Off-Hand and Multiple Attacks penalties).
+
+If you don’t have the Ambidextrous trait, you're wielding two one-handed weapons, and the weapon in your off-hand doesn't have the *Off-Hand* tag, then you'll make your attacks at -10 (your main hand) and -30 (your off hand), respectively.
+</div>
 
 ## Resistance and Vulnerability
 

@@ -214,56 +214,71 @@ Checks are at the heart of Renaissance.
             already\!—although other modifiers would apply as normal.
 
 <aside class="gmguidance">
-Sidebar: When should we use checks?
+
+### Sidebar: When should we use checks?
     
-  - When is a check called for, and what type? This depends on the situation.
-  - In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use. If a check could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), then a check is definitely called for. However, if the odds of failure are low, or the consequences of failure aren’t interesting, then Simple Checks might be used, or the check might be waived all-together.
-  - Notably, most mundane actions don’t require checks. A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
-  - The rules for Initiative Order and Combat are more specific; in combat, the exact series of checks to use will usually be specified by the rules for combat, and the items and powers in use.
-  - Similarly, Down Time has more specific rules; see the rules for Down Time.
+When is a check called for, and what type? This depends on the situation.
+
+In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use.
+If a failure could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), or two characters are *competing*, then a check is definitely called for.
+However, if the odds of failure are low, or the consequences of failure aren’t interesting, or the character can simply try again and again until they succeed (see *Trying Again*, below), then Simple Checks might be used, or the check might be waived all-together.
+
+Most mundane actions don’t require checks.
+A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
+Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check: someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.
+
+The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
 </aside>
 
-  - Sidebar: Trying Again
-    
-      - Sometimes, if a player fails a check, they will simply be able
-        to try again rather than having the player roll the same check
-        repeatedly—or *allowing* the same player to simply make repeated
-        attempts until they succeed—it is often a good idea to use a
-        *simple success check*.
-      - As an example, if a character wants to make several Healing
-        Potions, while one might have them make several individual
-        Craft: Alchemy checks, it would likely be a better idea to have
-        them make one Craft: Alchemy simple success check representing
-        several hours work, and use the result to determine how many
-        potions they were able to make.
-      - Similarly, if the players are trying to solve a riddle that will
-        open a magic door, but there is nothing that would stop them
-        from simply trying again and again, it might be a better idea to
-        use one simple success check to find out how long it takes them
-        to solve the riddle.
-      - As an optional rule, in a situation where individual checks are
-        called for, in order to prevent abuses, GMs may apply a
-        cumulative -10 penalty for each time a player *tries again*.
-        This makes some sense, as a character that failed a check
-        presumably failed for a reason, and that reason likely still
-        applies if circumstances have not changed.
+<aside class="gmguidance">
 
-  - Sidebar: Repeated Individual Skill Checks
+### Sidebar: Trying Again
     
-      - Sometimes, there are situations where several members of the
-        party could attempt the same task in sequence; for example, if
-        the players are trying to search a room, then each person could
-        make their own Search test, one after the other.
-      - This is usually not a good idea; this makes it very difficult
-        for the party to fail, since they’ll have several separate
-        attempts; it makes each individual test less interesting, since
-        the next person will just try if the current person fails; and
-        it can slow the game down dramatically.
-      - Instead, we recommend the GM require one character make one test
-        on behalf of the party; that character—usually the one with the
-        highest rating in the skill in question—should “take the lead,”
-        and the other party-members should assist (if they can, see
-        *Skill Modifiers*).
+  - Sometimes, if a player fails a check, they will simply be able
+    to try again rather than having the player roll the same check
+    repeatedly—or *allowing* the same player to simply make repeated
+    attempts until they succeed—it is often a good idea to use a
+    *simple success check*.
+  - As an example, if a character wants to make several Healing
+    Potions, while one might have them make several individual
+    Craft: Alchemy checks, it would likely be a better idea to have
+    them make one Craft: Alchemy simple success check representing
+    several hours work, and use the result to determine how many
+    potions they were able to make.
+  - Similarly, if the players are trying to solve a riddle that will
+    open a magic door, but there is nothing that would stop them
+    from simply trying again and again, it might be a better idea to
+    use one simple success check to find out how long it takes them
+    to solve the riddle.
+  - As an optional rule, in a situation where individual checks are
+    called for, in order to prevent abuses, GMs may apply a
+    cumulative -10 penalty for each time a player *tries again*.
+    This makes some sense, as a character that failed a check
+    presumably failed for a reason, and that reason likely still
+    applies if circumstances have not changed.
+</aside>
+
+<aside class="gmguidance">
+
+### Sidebar: Repeated Individual Skill Checks
+    
+  - Sometimes, there are situations where several members of the
+    party could attempt the same task in sequence; for example, if
+    the players are trying to search a room, then each person could
+    make their own Search test, one after the other.
+  - This is usually not a good idea; this makes it very difficult
+    for the party to fail, since they’ll have several separate
+    attempts; it makes each individual test less interesting, since
+    the next person will just try if the current person fails; and
+    it can slow the game down dramatically.
+  - Instead, we recommend the GM require one character make one test
+    on behalf of the party; that character—usually the one with the
+    highest rating in the skill in question—should “take the lead,”
+    and the other party-members should assist (if they can, see
+    *Skill Modifiers*).
+</aside>
+
+<aside class="gmguidance">
 
 ### Picking a Check
 
@@ -341,31 +356,33 @@ take ranks in Exotic Skill: Programming—but programming a Babbage Engine
 certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
 This is why players should discuss their characters with their GMs
 before starting play.
+</aside>
 
 ### Common Checks
 
   - Skill Check: Aptitude Linked to Skill + Ranks in Skill
     
-      - specialization and proficiency may also apply, see below.
+      - specialization, proficiency and proficiency may also apply, see below.
 
   - Resist Intimidation / Overcome Fear: WIL × 2
 
   - Resist Social Manipulation: SAV + INT
 
-  - Recall Personal Experience: COG × 3
+  - Difficult Memory Recall (forgetable or distant memory): COG × 3
 
-  - Take a Chance, Get Lucky: Luck × 10
+  - Take a Chance, Stroke of Luck: Luck × 10
     
-      - That’s the Luck stat, not your current Luck Points
+      - Note: that’s the Luck stat, not your current Luck Points
 
-  - Make A Guess (or Get a Hint): INT × 3
+  - Make A Guess: INT × 3
+
+  - Get a Hint: INT × 3
 
   - Solve a Logic Puzzle: COG × 3
 
   - Feat of Strength (bend bars, break down a door): SOM + STR
 
-  - Feat of Endurance (endure a long march, resist disease, survive
-    starvation): DUR + WIL
+  - Feat of Endurance (endure a long march, resist disease, survive starvation): DUR + WIL
 
   - React Quickly: COO×3
 
@@ -416,6 +433,10 @@ before starting play.
             specialization.
           - One-Handed Melee Weapons \[Swords\], where Swords is one of
             the proficiencies that the character has.
+
+  - Proficiencies:
+
+      - When using a proficiency skill, you take a -20 penalty if you don't have an appropriate *proficiency* for what you are trying to do; see *Proficiency Skills* in *Skills*.
 
   - Difficulty Modifiers
     
