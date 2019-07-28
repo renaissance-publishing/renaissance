@@ -29,7 +29,7 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
     def render_document(*args, **kwargs):
         # I swear to god
         try:
-            super.render_document(*args, **kwargs)
+            super().render_document(*args, **kwargs)
         except:
             sys.stdout.write("args:\n")
             for arg in args:
