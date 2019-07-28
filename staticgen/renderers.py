@@ -41,7 +41,7 @@ class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
     #         raise
     # # it doesn't look like anything interesting is happening here.
 
-    def render(self, *args, **kwargs)
+    def render(self, *args, **kwargs):
         try:
             sys.stdout.write(str(args))
             super(RenaissanceHTMLRenderer, self).render(*args, **kwargs)
