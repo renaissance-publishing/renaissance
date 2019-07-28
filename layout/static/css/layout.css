@@ -102,29 +102,29 @@ aside:not(.toc-menu)
     text-align: left;
     float: right;
     */
-    margin: 20px;
-    padding: 20px;
-    border: 3px solid black;
+    margin: 4em;
+    padding: 2em;
+    border: 3px dotted #101020;
 }
 
 .example
 {
-    background-color: #dfb0df;
+    background-color: #f3d2f3;
 }
 
 .clarification
 {
-    background-color: #c0c0df;
+    background-color: #c6c6f5;
 }
 
 .gmguidance
 {
-    background-color: #c0dfc0;
+    background-color: #ceecce;
 }
 
 .designnote
 {
-    background-color: rgb(255, 181, 97);
+    background-color: rgb(252, 216, 176);
 }
 
 /* Class for fiction blocks.
