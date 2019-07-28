@@ -127,7 +127,7 @@ class Builder(object):
         except:
             secho('• Failed to render chapter "{}"'.format(chapter.title), fg='red')
             for item in dir(chapter):
-                sys.stdout.write(str(item))
+                sys.stdout.write("> " + str(item) + ": " + str(getattr(chapter, item)) +  "\n")
             raise
             
         local_ctx = self.context
