@@ -216,7 +216,7 @@ Checks are at the heart of Renaissance.
 <aside class="gmguidance">
 
 ### Sidebar When should we use checks
-    
+
 When is a check called for, and what type? This depends on the situation.
 
 In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use.
@@ -234,7 +234,7 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 <aside class="gmguidance">
 
 ### Sidebar Trying Again
-    
+
   - Sometimes, if a player fails a check, they will simply be able
     to try again rather than having the player roll the same check
     repeatedly—or *allowing* the same player to simply make repeated
@@ -263,7 +263,7 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 <aside class="gmguidance">
 
 ### Sidebar: Repeated Individual Skill Checks
-    
+
   - Sometimes, there are situations where several members of the
     party could attempt the same task in sequence; for example, if
     the players are trying to search a room, then each person could

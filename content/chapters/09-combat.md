@@ -414,7 +414,7 @@ When making multiple attacks, only one Standard Action is required, but each att
 
 When making multiple attacks, each attack does not have to have the same target; instead, each attack can be directed at a specific target.
 When attacking multiple targets in this way, each attack suffers an additional -10 penalty.
-        
+
 <div class="clarificiation">
 These rules only cover attacking multiple targets with multiple single-target attacks; they do not cover blast or splash weapons, for example.
 </div>
@@ -424,7 +424,7 @@ Attacks made with the off-hand suffer a -10 penalty.
 If the weapon you are using in your off-hand does not have the *Off-Hand* tag, you suffer an additional -10 penalty.
 
 <div class="example">
-    
+
 If you’re humanoid, you have the Ambidextrous trait and you are wielding two one-handed weapons, then you can make two separate attacks against the same target as a Standard Action.
 Each attack suffers -10 penalty (for making Multiple Attacks).
 
