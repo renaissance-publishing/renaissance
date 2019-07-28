@@ -213,7 +213,8 @@ Checks are at the heart of Renaissance.
             penalty for defaulting—you’re in enough trouble
             already\!—although other modifiers would apply as normal.
 
-<aside class="gmguidance">
+<aside class="gmguidance">.
+
 ### Sidebar: When should we use checks?
     
 When is a check called for, and what type? This depends on the situation.
@@ -229,7 +230,8 @@ Characters can also perform simple tasks using skills that they have *basic prof
 The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
 </aside>
 
-<aside class="gmguidance">
+<aside class="gmguidance">.
+
 ### Sidebar: Trying Again
     
   - Sometimes, if a player fails a check, they will simply be able
@@ -256,7 +258,8 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
     applies if circumstances have not changed.
 </aside>
 
-<aside class="gmguidance">
+<aside class="gmguidance">.
+
 ### Sidebar: Repeated Individual Skill Checks
     
   - Sometimes, there are situations where several members of the
@@ -275,7 +278,7 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
     *Skill Modifiers*).
 </aside>
 
-<aside class="gmguidance">
+<aside class="gmguidance">.
 
 ### Picking a Check
 
