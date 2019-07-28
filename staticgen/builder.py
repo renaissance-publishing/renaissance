@@ -14,6 +14,8 @@ from pprint import pprint
 from staticgen.discoverer import Discoverer, Page
 from staticgen.renderers import RenaissanceHTMLRenderer
 
+import sys # Gleech
+
 
 @dataclass(repr=True)
 class TocEntry(object):
@@ -120,7 +122,14 @@ class Builder(object):
             self.render_chapter(chapter, toc)
 
     def render_chapter(self, chapter: Page, toc: List[TocEntry]):
-        chapter.content = mistletoe.markdown(chapter.content, renderer=RenaissanceHTMLRenderer)
+        try:
+            chapter.content = mistletoe.markdown(chapter.content, renderer=RenaissanceHTMLRenderer)
+        except:
+            secho('• Failed to render chapter "{}"'.format(chapter.title), fg='red')
+            for item in dir(chapter):
+                sys.stdout.write(str(item))
+            raise
+            
         local_ctx = self.context
         local_ctx['chapter'] = chapter
         local_ctx['toc'] = toc
