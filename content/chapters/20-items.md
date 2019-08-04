@@ -1454,11 +1454,11 @@ and if they are a master alchemist, then they very likely know how to produce a 
 
 This doesn't mean that a crafter's knowledge is necessarily *infinite*.
 a check using an appropriate Knowledge skill can be required for a character to know how to produce an *unusual* or *exotic* item;
-a blacksmith from the Commonwealth would likely know how to make an arming sword or plow, but knowing how to properly construct a chakram might require a Profession: Blacksmith check, for example.
+a blacksmith from the Commonwealth would likely know how to make an arming sword or a plow, but knowing how to properly construct a chakram might require a Profession: Blacksmith check, for example.
 Similarly, an appropriate Craft or Knowledge check might be required to design a *completely novel* item;
 an alchemist might be able to construct a completely novel magical potion, for example, but they might need to succeed on a Craft: Alchemy check to develop the recipe.
 
-GMs who wish to limit the kinds of resources that players have access to may wish to institute some kind of system recipe system; should you decide to do so, you should tell characters about it during character creation (or before), so they can take it into account.
+GMs who wish to limit the resources that players have access to may wish to institute some kind of recipe system; should you decide to do so, you should tell characters about it during character creation (or before), so they can take it into account.
 We recomment that such a system should be simple, and that it should not be too stingy with recipes;
 a workable starting point is to allow players access to five "cost levels" of useful "recipes" per 10 ranks in a craft skill (so, for example, five trivial recipes, or one Extreme recipe, per 10 ranks).
 
