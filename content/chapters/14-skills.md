@@ -86,8 +86,8 @@ We describe the kinds of things that are common areas of expertise; later, in *C
 But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
 that's largely up to the GM and players.
 
-This is the reverse of some other RPGs; while other RPGs might spell out exactly what each skill does in detail, and what kinds of rolls and modifiers are involved.
-Instead, we enumerate the kinds of skills that you might have; during play, you'll have great freedom to decide what you want to *try* to do, and then it will be between you and the GM to decide which skills and which checks will represent that.
+This is the reverse of some other RPGs, which might tell you specifically what each skill can be used to do, and what checks would be required.
+Here, it's better to decide what you want to *try* to do, and then you and the GM can decide which skills you need to use to do that (and what modifiers are required, and which of your traits or classes may apply, and so on).
 
 <aside>
 
