@@ -75,6 +75,22 @@ title: "Skills"
 
 ## Skill List
 
+<aside class="designnote">
+
+### Crunchy, But Not Mechanical
+
+A good description of Renaissance, provided by an early playtester, is that it is "crunchy but not mechanical"--meaning that it provides players with clear, mathematical rules for manipulating checks, but little descriptive rules for how those checks should be used (what might be called "mechanics" or "systems").
+
+The skill descriptions that follow are an example of this principle;
+We describe the kinds of things that are common areas of expertise; later, in *Character Creation*, we'll tell you how to purchase ranks in these skills--which will allow you great control over what exactly your target number will be when you are required to roll a skill check.
+But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
+that's largely up to the GM and players.
+
+This is the reverse of some other RPGs; while other RPGs might spell out exactly what each skill does in detail, and what kinds of rolls and modifiers are involved.
+Instead, we enumerate the kinds of skills that you might have; during play, you'll have great freedom to decide what you want to *try* to do, and then it will be between you and the GM to decide which skills and which checks will represent that.
+
+<aside>
+
   - Animal Handling (SAV)
     
       - Active, Social

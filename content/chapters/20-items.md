@@ -77,7 +77,7 @@ character suffers a -10 penalty to all physical actions. Other affects
     
       - one month’s work by an artisan
 
-  - Expensive (Cost Level 5) items
+  - Extreme
     
       - a seaworthy ship (like a Caravel)
       - an estate
@@ -1407,17 +1407,23 @@ Reload: Standard Action
       - This requires an appropriate *skill kit* and raw materials to
         work with.
     
-      - This requires the character succeed on an appropriate Craft
-        check.
+      - ~~This requires the character succeed on an appropriate Craft check.~~
         
-          - Creating a *Significant Magic Item* also requires a
-            Spellcraft check.
+          - ~~Creating a *Significant Magic Item* also requires a Spellcraft check.~~
+
+      - Normally, no check is required: a skilled blacksmith can make a spike, a plow's blade or a sword without having a large chance of failure.
+          
+          - However, quality can vary: if the quality of work is important, or if the exact time required is important, a Simple Success Check can be called for.
+
+          - And, of course, a skill check can be called for under circumstances that make failure likely--such as using improvised tools or rushing the job.
 
   - Time Frames at GM’s discretion, with the following guidelines:
     
+      - Trivial Item: two hour Task Action *per batch*.
       - Minor Item: two hour Task Action
       - Moderate Item: 1 shift Job
       - Major Item: 20 shift Job
+      - Extreme Item: 150 shift Job
 
   - Raw Materials
     
@@ -1435,3 +1441,25 @@ Reload: Standard Action
       - If GMs (or players) want a more definite system for tracking raw
         materials, see Raw Materials in Optional Rules.
 
+<aside class="clarification">
+
+Recipes
+
+How do you know *what* your character knows how to make?
+Do you need to purchase *recipes*, for example, for potions, or perhaps *blueprints* for weapons?
+
+We don't provide listings or prices for those, so the tacit de-facto answer is "no."
+If your character has 50 ranks in Craft: Alchemy, then they are by all rights a master Alchemist;
+and if they are a master alchemist, then they very likely know how to produce a wide variety of useful potions.
+
+This doesn't mean that a crafter's knowledge is necessarily *infinite*.
+a check using an appropriate Knowledge skill can be required for a character to know how to produce an *unusual* or *exotic* item;
+a blacksmith from the Commonwealth would likely know how to make an arming sword or plow, but knowing how to properly construct a chakram might require a Profession: Blacksmith check, for example.
+Similarly, an appropriate Craft or Knowledge check might be required to design a *completely novel* item;
+an alchemist might be able to construct a completely novel magical potion, for example, but they might need to succeed on a Craft: Alchemy check to develop the recipe.
+
+GMs who wish to limit the kinds of resources that players have access to may wish to institute some kind of system recipe system; should you decide to do so, you should tell characters about it during character creation (or before), so they can take it into account.
+We recomment that such a system should be simple, and that it should not be too stingy with recipes;
+a workable starting point is to allow players access to five "cost levels" of useful "recipes" per 10 ranks in a craft skill (so, for example, five trivial recipes, or one Extreme recipe, per 10 ranks).
+
+</aside>
