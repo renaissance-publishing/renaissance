@@ -63,7 +63,7 @@ The following are examples of *Trivial* items:
 - a simple magical item
 - (the services of) a local messenger
 
-### Minor
+### Minor Items
 
 A *minor* item is an item of little cost&mdash;worth tracking, but only if you have limited funds.
 
@@ -82,7 +82,7 @@ The following are examples of *minor* items:
 - a common magical potion or item
 - a night in an inn
 
-### Moderate
+### Moderate Items
 
 A *moderate* item has notable cost: though they're within the means of an average family, they will be very expensive, having a notable impact on their finances.
 
@@ -99,7 +99,7 @@ The following are examples of *moderate* items:
 - three day’s convalescence
 - (the services of) a priest
 
-### Major
+### Major Items
 
 A *major* item is expensive; entirely beyond the reach of the poor, and of notable expense even to the wealthy.
 
@@ -123,7 +123,7 @@ Example *major* items include:
     weapons.
 -->
 
-### Extreme
+### Extreme Items
 
 *Extreme* items are of extraordinary worth&mdash;only available to the most wealthy, they represent fortunes, treasures and power-bases.
 
@@ -1318,128 +1318,105 @@ Reload: Standard Action
 
 ## Magic Items
 
-  - Magical items largely follow the same rules as non-magical ones;
-    
-      - they are listed separately here because, unlike ladders and
-        rope, they require descriptions.
+Magical items largely follow the same rules as non-magical ones;
+they are listed separately because they require more of a description than ladders and rope.
 
-  - Low Cost:
+### Minor Magic Items
     
-      - Light: this small glass vile contains a clear liquid. When
-        shaken, it produces a bright light: it shines brightly enough
-        that a character holding it can see clearly for 20m around them.
-        Once it is lit, it will continue to shine brightly for 20
-        minutes, and then dimly for 20 minutes thereafter—although
-        shaking it again will cause it to begin shining brightly once
-        more.
+#### Light
+This small glass vile contains a clear liquid.
+When shaken, it produces a bright light: it shines brightly enough that a character holding it can see clearly for 20m around them.
+Once it is lit, it will continue to shine brightly for 20 minutes, and then dimly for 20 minutes thereafter—although shaking it again will cause it to begin shining brightly once more.
 
-  - Moderate Cost:
+### Moderate
     
-      - Heater: this small magical apparatus is used to generate strong
-        heat; it is commonly carried by travelers who use them to keep
-        warm, to boil water and to start fires. Heaters are cylindrical
-        metal devices about the size and shape of the handle to a
-        hammer; the tip of one end is lain with intricate steel wiring,
-        while the other end is wrapped in leather. When the device is
-        activated, the wired tip becomes extremely hot. The device
-        requires a charge, a narrow alchemical rod that is fed into the
-        handle end. One charge is Trivial cost and will run the heater
-        for 2 hours. While there is a charge in it, the heater can be
-        activated and deactivated with a metal trigger in the grip.
-    
-      - Safe-Fall Cape: this cape billows outward as you fall, and both
-        it’s physical size and magical effects cooperate to slow your
-        fall. No matter how far you fall, the cape will prevent you from
-        falling faster than a quick run. When you land, you must make an
-        athletics check: if you succeed, you ake no damage, but if you
-        fail, you take 1d10 dv.
-    
-      - Torque of Speaking: you may use one additional language group
-        (pick one when purchasing this item).
-        
-          - Note that the torque is giving you access to a language
-            group, and not ranks in a specific language. If you’re a
-            human, you can use a torque to make the sounds needed to
-            speak Gnollish (in the language-group GR), but you’d still
-            need to have ranks in Language: Heartland Gnoll to actually
-            speak that language.
-    
-      - Wand:
-        
-          - Attack: Indicate-Only Attack, 1d10-2 DV, Ignores Armor.
-            
-              - Range: 30m (short) / 50m / 70m
-              - Requires 10 ranks in Spellcraft to use (no check is
-                required)
-        
-          - Is this potentially fun or stupid?
-    
-      - Warmblood Suit: this heavy outfit resembles heavy winter
-        clothing, with an outer layer of wool and an linen inner lining.
-        
-          - Just inside the linen lining there is a wrapping like a
-            metallic ribbon; at several points along the back, there are
-            pockets containing more of the metallic ribbons. Both sets
-            of ribbons cross are connected to two magical mechanisms,
-            each a twin of the other, in the back of the suit.
-          - In extreme cold, the external ribbons are left rolled up in
-            their pockets. When activated, the inner ribbons heat up,
-            warming the wearer.
-          - In extreme heat, the wearer opens the pockets and unfurls
-            the ribbons, and the garment then pumps heat *out* through
-            the unfurled ribbons, cooling the wearer.
-          - If worn by a *warm-blooded* creature, the survival suit
-            provides a +20 bonus to *Endure Physical Hardship* tests to
-            survive extreme weather.
-          - If worn by a *cold-blooded* creature, the survival suit
-            allows the wearer to endure extremes of temperature as well
-            as a warm-blooded creature.
-          - The garment itself is tough, and provides some protection
-            from damage. It has an armor value of 2 and has the
-            Concealing, Layerable and Sociable tags.
+#### Heater
+This small magical apparatus is used to generate strong heat; it is commonly carried by travelers who use them to keep warm, to boil water and to start fires.
+Heaters are cylindrical metal devices about the size and shape of the handle to a hammer; the tip of one end is lain with intricate steel wiring, while the other end is wrapped in leather.
+When the device is activated, the wired tip becomes extremely hot.
+The device requires a charge, a narrow alchemical rod that is fed into the handle end.
+One charge is Trivial cost and will run the heater for 2 hours.
+While there is a charge in it, the heater can be activated and deactivated with a metal trigger in the grip.
 
-  - Major Cost
-    
-      - The Bronze Arm: a magical item crafted for General Chandra to
-        replace an arm lost in combat, this finely-crafted and mighty
-        device has only made the general stronger.
-        
-          - The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
-          - Even though it is functionally a part of Chandra’s body, and
-            he wields it as his own arm, it is still so powerful and
-            durable that it counts as a weapon. Chandra can attack with
-            it using either the One-Handed Weapons or Unarmed skills,
-            and he is always considered armed.
-    
-      - The Hunter’s Bow: a magical bow carried by Aryn the hunter, it
-        fires bolts of light rather than arrows.
-        
-          - Since the bow fires magical projectiles that it generates,
-            it does not require ammo. (Note, we normally do not track
-            “basic” ammo, so this detail is as much a narrative point
-            as a functional rule.)
-        
-          - Besides functioning normally as a shortbow, the Hunter’s Bow
-            has two alternate modes, controlled by a catch hidden in the
-            wraps where Aryn grips it.
-        
-          - In “light” mode, the fired bolts do no damage, but they
-            instead stick to whatever they strike and persist for
-            several minutes, glowing brightly the entire time.
-        
-          - In “track” mode, the bolt also does no damage and also
-            sticks to whatever target it strikes—but in track mode, the
-            bolt can last for up to 72 hours, although only one tracker
-            can be active at a time. Rather than glowing brightly,
-            tracking bolts are invisible (except, of course, to someone
-            with Mage Sight). Being struck with a tracker bow feels
-            somewhat like being pinched, but is otherwise harmless and
-            painless.
-            
-              - The bow pulses gently based on the whether the bow is
-                facing towards the target, and it’s range; this allows
-                Aryn to use the bow to track a target struck by a
-                tracker.
+#### Safe-Fall Cape
+This cape billows outward as you fall, and both it’s physical size and magical effects cooperate to slow your fall.
+No matter how far you fall, the cape will prevent you from falling faster than a quick run.
+When you land, you must make an athletics check: if you succeed, you ake no damage, but if you
+fail, you take 1d10 dv.
+
+#### Torque of Speaking
+This torgue adds to the array of sounds that you can naturally produce, allowing you to use one additional *language group* (chosen when purchase the torque, if you're purchasing it during character creation; otherwise, it's chosen when designing and producing the torque).
+These items are not always torques, although it is a common choice (given especially that many interact with the wearer's vocal cords).
+
+Note that the Torque provides access to a *language group*&mdash;the sounds needed to speak a language&mdash;not dots in a language itself.
+So a torque could provide you access to the GR language group, but you'd still have to learn a GR language (like Heartland Gnoll) separately.
+
+#### Wand
+Wands are both tools and ranged weapons commonly used by mages.
+Wands can only store a finite amount of magical energy&mdash;although recharging them is a very simple magical procedure.
+They use the following profile:
+
+Tags: Indicate-Only Attack, Ranged Weapon
+
+Damage: 1d10-2 DV
+
+AP: -8
+
+Range: 30m/50m/70m
+
+Charges: A wand has 10 *charges*, and one is used with each attack.
+
+Reload: Quick Action
+
+#### Warmblood Suit
+This heavy outfit resembles heavy winter clothing, with an outer layer of wool and a linen inner lining.
+Just inside the linen lining there is a wrapping like a metallic ribbon; at several points along the back, there are pockets containing more of the metallic ribbons.
+Both sets of ribbons cross are connected to two magical mechanisms, each a twin of the other, in the back of the suit.
+
+In extreme cold, the external ribbons are left rolled up in their pockets.
+When activated, the inner ribbons heat up, warming the wearer.
+In extreme heat, the wearer opens the pockets and unfurls the ribbons, and the garment then pumps heat *out* through the unfurled ribbons, cooling the wearer.
+
+If worn by a *warm-blooded* creature, the survival suit provides a +20 bonus to *Endure Physical Hardship* tests to survive extreme weather.
+If worn by a *cold-blooded* creature, the survival suit allows the wearer to endure extremes of temperature as well as a warm-blooded creature.
+
+The garment itself is tough, and provides some protection from damage.
+When worn as armor, it uses the following profile:
+
+Armor Value: 2 AV
+
+Drawbacks: None
+
+Tags: Concealing, Layerable, Sociable
+
+### Major Cost
+
+#### *The Bronze Arm*
+A magical item crafted for General Chandra to replace an arm lost in combat, this finely-crafted and mighty device has only made the general stronger.
+
+The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
+Even though it is functionally a part of Chandra’s body, and he wields it as his own arm, it is still so powerful and durable that it counts as a weapon.
+Chandra can attack with it using either the One-Handed Weapons or Unarmed skills, he is always considered armed, and he can even parry with it.
+
+#### The Hunter’s Bow
+A magical bow carried by Aryn the hunter, this weapon fires bolts of magic rather than arrows.
+
+Since the bow fires magical projectiles that it generates, it does not require ammo.
+(Note: since we normally do not track “basic” ammo, this detail is as much a narrative point as a functional rule.)
+
+Besides functioning normally as a shortbow, the Hunter’s Bow has two alternate modes, controlled by a catch hidden in the wraps where Aryn grips it.
+
+In “**light**” mode, the fired bolts do no damage, but they instead stick to whatever they strike and persist for several minutes, glowing brightly the entire time.
+"Light" arrows glow quite brightly&mdash;they cast a white light as bright as a dozen candles, enough to see clearly for a dozen paces around the arrow.
+
+In “**track**” mode bolt also does not damage, and also sticks to whatever target it strikes.
+Rather than glowing brightly, tracking bolts are invisible (except, of course, to someone with Mage Sight).
+Tracking bolts also last much longer&mdash;up to 3 days&mdash;although only one can be active at a time (if another one is fired, the first simply dissipates).
+The bow pulses gently based on the whether the bow is facing towards the target, and whether the target is within range; this allows Aryn to use the bow to track a target struck by a tracker.
+(The tracking bolt has a very long range&mdash;fully 500m.)
+
+Being struck with a tracker bolt (or a light bolt, for that matter) feels somewhat like being pinched, but is otherwise harmless.
+
 
 ## Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)
 
