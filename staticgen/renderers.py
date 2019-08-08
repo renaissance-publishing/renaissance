@@ -2,14 +2,13 @@ from mistletoe import block_token, html_renderer
 import re
 
 import sys # Gleech
-
-toAnchorRegex = re.compile(r'[^\w\d]')
+import staticgen.utils as utils # Gleech
 
 class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
     @staticmethod
     def heading_to_anchor(heading: block_token.Heading) -> str:
-        text: str = heading.children[0].content
-        return toAnchorRegex.sub('', text)
+        text = utils.flatten_to_text(heading)
+        return utils.remove_nonword_chars(text)
 
     def render_heading(self, token):
         template = '<h{level} id="{anchor}"><a class="header-link" href="#{anchor}">{inner}</a></h{level}>'
