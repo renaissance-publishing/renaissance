@@ -1391,7 +1391,7 @@ Tags: Concealing, Layerable, Sociable
 
 ### Major Cost
 
-#### *The Bronze Arm*
+#### The Bronze Arm
 A magical item crafted for General Chandra to replace an arm lost in combat, this finely-crafted and mighty device has only made the general stronger.
 
 The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
