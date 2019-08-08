@@ -164,6 +164,11 @@ Characters have the following:
           - (you start with 1 Luck, and can purchase more during
             character creation.)
 
+      - Carrying Capacity
+
+          - STR ÷ 5
+          - see *Items*
+
   - Some limits always apply. Characters may not have:
     
       - more than 70 ranks in a skill

@@ -68,6 +68,29 @@ title: "Wealth, Income and Lifestyles"
 | Item cost is more than 1 greater than wealth | Automatic failure |
 | You are wealth level 0                       | You can’t barter  |
 
+<aside class="designnote">
+
+### Character Wealth
+
+The wealth-and-trade system may seem a little odd to someone coming from a game that meters wealth in gold, silver and copper;
+why is it put together this way?
+
+One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
+But that's far from the entire motivation!
+
+Much like *Eclipse Phase*, we want players to be able to play characters with wildly different wealth levels&mdash;running from penniless peasants to Dukes and Lords.
+We don't want to measure a character's power and advancement in terms of powerful items and wealth.
+Players should be able to *choose* how important wealth is to their concept for their character, and in order to do that, they should be able to either start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, either of whome are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
+
+Also, like *Eclipse Phase*, in *Renaissance*, "character who provides the party with things that they need" is intended to be a player role, rather than an NPC role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
+And, as a design principle, we also wish to avoid keeping track of tedious and unimportant details.
+Taken together, this means that our wealth system should allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down in "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
+
+We tend to really enjoy moving the role of "wealthy provisioner" into the space of jobs players can do, there is something of a flip-side; if "provisioner" is a player role, then that means that someone *needs* to do it.
+If the party doesn't have a character who has at least *some* access to funds, they'll be missing an important role&mdash;a "gotcha" that can catch people used to traditional party construction by surprise!
+
+</aside>
+
 ## Changing your Wealth Level
 
   - You can change your wealth level during down-time. However, this is

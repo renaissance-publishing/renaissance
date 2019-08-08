@@ -2,86 +2,198 @@
 title: "Items"
 ---
 
-Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*. This mainly determines their cost when purchased at character creation. A trivial item is an item of no notable cost: a fork and a candle are trivial items. Notably, you usually shouldn’t purchase a trivial item directly; it’s usually better to buy a *skill kit* for a relevant skill than to purchase a bunch of trivial-cost items directly. A *minor* item is a single, useful item or piece of gear, like a grappling-hook or ladder. A *moderate* item is a notable item—any one weapon or piece of armor would be a medium item, as would a skill kit (see below). A *major* item plays a major roll in defining a character; this might include a magic weapon, an heirloom, a shop or a plot of land. An extreme item is exceedingly rare, exceedingly expensive, or both; a noble estate is an extreme item. (Each category corresponds to a cost level, from 1 to 5; this is compared to a character’s wealth level while bartering.)
+Here we list a number of *items* that your character may have.
+Some of these items are common, like tool kits or work animals;
+others are rare or unique.
+This list is *by no means* exhaustive; GMs and players may of course find countless other diverse items for sale in the Commonwealth's shops, carried by travelers from the Kingdoms of Men or littered on the shores of distant islands.
+
+Note that we also list *services* here, since *services* are acquired using the same rules (and fall into the same cost categories, see below).
+
+## Item Cost Categories
+
+Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*.
+This determines their cost both at character creation and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
+
+- A trivial item is an item of no notable cost: a fork and a candle are trivial items.
+Notably, you usually shouldn’t purchase a trivial item on its own; it’s usually better to buy a *skill kit* for a relevant skill than to purchase a bunch of trivial-cost items directly.
+- A *minor* item is a single, useful item or piece of gear, like a grappling-hook or ladder.
+- A *moderate* item is a notable item&mdash;any one weapon or piece of armor would be a medium item, as would a skill kit (see below).
+- A *major* item plays a major roll in defining a character; this might include a magic weapon, an heirloom, a shop or a plot of land.
+- An extreme item is exceedingly rare, exceedingly expensive, or both; a noble estate is an extreme item.
+
+As you can see, even though we call these ``cost categories,'' they really represent not only the cost of one item relative to other items you might buy in the world, but *also* how important the item is expected to be as a defining part of your character.
+
+<aside class="designnote">
+
+### Why Not Specific Prices?
+
+Why do we use cost-categories instead of specific prices?
+
+For three reasons:
+
+- one, because it actually is *realistic*: before central banks and stable currencies, bartering (without fixed prices) was common;
+- two, because it saves people having to do "cash-register math," which is never an exciting step in an adventure; and
+- three, because it allows us to skip boring and tedious details&mdash;because, for characters with very high levels of wealth, the *exact* cost of a night at an inn is an unimportant detail (see also the rules for bartering in *Wealth, Income and Lifestyles*).
+
+We recommend that you don't worry about the difference between the price of a *tent* and the price of a *meal*.
+In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game&mdash;and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
+(See also *Wealth, Income and Lifestyles*.)
+
+</aside>
 
 The mages and artisans of the Commonwealth have a servicable command of
 magic; while magical items tend to be rarer and more expensive than
 non-magical ones, a number of common magical items (and potions) are
-commonly available throughout the Commonwealth.
+widely available throughout the Commonwealth.
 
-Notably, we provide no specific rules for designing major items,
-especially magical ones; these items should be designed to suit specific
-player’s preferences, and this is a process that the GM and player
-should do cooperatively.
+Some items have *tags*.
+Many of these tags do not have "mechanical" affects themselves&mdash;although traits, classes, powers, and other rules may refer to them.
+(The special abilities of weapons are something of an exception: combat in general has more specific rules than the rest of the game, and so the items commonly used in combat have more specific rules as well.)
 
-It's worth noting that this game is intended to be less gear-focused
-than other fantasy adventure games (that is, for example, D\&D). The
-intent is that a character is mostly defined by their Skills first, and
-by their Traits, Race, Backgrounds, Classes and Powers second.
+Several of these items are heavy or cumbersome.
+Rather than attempting to track item weight in detail, items that are particularly heavy are given the *Heavy* tag.
+To determine how many *Heavy* items a character can carry without penalty, divide their STR by 5.
+For every additional *Heavy* item beyond this number, the character suffers a -10 penalty to all physical actions.
+(Of course, GMs can apply other appropriate penalties as well; a character cannot choose to carry 500 suits of plate armor in exchange for a -495 penalty to physical checks&mdash;which would then be limited to the maximum penalty of -60.)
 
-Some items have keywords. Most of these keywords do not have affects
-themselves, but do interact with traits, powers and other rules.
+## Common Items by Category
 
-Several of these items are heavy or cumbersome. Rather than attempting
-to track item weight in detail, items that are particularly bulky are
-given the *Heavy* keyword. To determine how many *Heavy* items a
-character can carry without penalty, divide their STR by 10 and round
-down. For every additional *Heavy* item beyond this number, the
-character suffers a -10 penalty to all physical actions. Other affects
-(such as fatigue or immobility) may be applied at GM discretion.
+### Trivial Items
 
-## Items by Category
+A *trivial* item is an item of no notable cost, like a fork or a candle.
+Usually, you shouldn't purchase a trivial item on its own; you should usually purchase a skill kit rather than purchasing a bunch of *trivial* items separately (since trivial items are often the kinds of things that are included in skill kits).
+(See *Wealth, Income and Lifestyles*.)
 
-  - Trivial (Cost Level 1) items
-    
-      - a meal
-      - a candle
-      - a fork
-      - a local messenger
+The following are examples of *Trivial* items:
 
-  - Minor (Cost Level 2) items
-    
-      - a tent
-      - a knapsack
-      - a bedroll
-      - a ladder
-      - a lantern
-      - a pet (a bird, a cat, a dog, a rat)
-      - a night in an inn
+- a meal
+- a candle
+- a fork
+- a weak magical potion
+- a simple magical item
+- (the services of) a local messenger
 
-  - Moderate (Cost Level 3) items
-    
-      - a rowboat
-      - a weapon
-      - a suit of armor
-      - a shield
-      - a skill kit
-      - a work animal (a horse, a guard dog)
-      - a common potion or magic item
-      - three day’s convalescence
-      - the services of a priest
+### Minor
 
-  - Major (Cost Level 4) items
-    
-      - a shop
-      - a home
-      - a significant magic item, like
-        
-          - a sword that glows when Orcs are near
-          - a shield that shocks anyone who touches the front
-          - a bow that fires ethereal arrows
-          - a golem arm that is far more durable than the flesh it
-            replaced
-          - to do: move into the magical items section proper. Or
-            weapons.
-    
-      - one month’s work by an artisan
+A *minor* item is an item of little cost&mdash;worth tracking, but only if you have limited funds.
 
-  - Extreme
-    
-      - a seaworthy ship (like a Caravel)
-      - an estate
-      - land-holdings
+Most minor items are intended to be *single, useful items*&mdash;things that are worth keeping track of, but that aren't very important to how your character is defined.
+
+Like trivial items, it is often a better idea to purchase a skill kit than to purchase a minor item separately: a tent, knapsack and bedroll could be presumed to be included in a *Survival* Skill Kit, for example.
+
+The following are examples of *minor* items:
+
+- a tent
+- a knapsack
+- a bedroll
+- a ladder
+- a lantern
+- a pet (a bird, a cat, a dog, a rat)
+- a common magical potion or item
+- a night in an inn
+
+### Moderate
+
+A *moderate* item has notable cost: though they're within the means of an average family, they will be very expensive, having a notable impact on their finances.
+
+Most minor items *are* intended to be *significant* to your character concept; their signature weapons, their distinctive armor and the tools with which they practice their trade all show up at this tier.
+
+The following are examples of *moderate* items:
+
+- a rowboat
+- a weapon
+- a suit of armor
+- a shield
+- a skill kit
+- a work animal (a horse, a guard dog)
+- three day’s convalescence
+- (the services of) a priest
+
+### Major
+
+A *major* item is expensive; entirely beyond the reach of the poor, and of notable expense even to the wealthy.
+
+Most *major* items play a major roll in defining a character&mdash;maybe as important as a power, since they have the same price (see *Character Creation*.
+They might include a distinctive heirloom weapon, a unique magical item, the shop where they run their business, or their estate.
+
+Example *major* items include:
+
+- a shop
+- a home
+- a powerful or unique magical item
+- one month’s work by an artisan
+
+<!--
+  - a sword that glows when Orcs are near
+  - a shield that shocks anyone who touches the front
+  - a bow that fires ethereal arrows
+  - a golem arm that is far more durable than the flesh it
+    replaced
+  - to do: move into the magical items section proper. Or
+    weapons.
+-->
+
+### Extreme
+
+*Extreme* items are of extraordinary worth&mdash;only available to the most wealthy, they represent fortunes, treasures and power-bases.
+
+Most *extreme* items are intended to play a major role in how you define your character, possibly opening whole new options up to them; a caravel is among the newest, largest and most capable types of ocean-going vessels, for example, and having one might open up whole new avenues to a player.
+
+- a seaworthy ship (like a Caravel)
+- an estate
+- land-holdings
+- a prosperous trading business
+
+<aside class="gmguidance">
+
+### Designing Major and Extreme Items
+
+We claim that you can purchase unique magical items and priceless, character-shaping treasures, but we don't give you an actual *list*, and we don't give you rules for making them.
+So, where are these alleged treasures supposed to come from?
+
+Simply put, players and characters make them themselves.
+
+Designing *major* and *extreme* items is a collaborative process between players and GMs.
+A player who has a magic item in mind describes it to the GM, and then the GM and player work collaboratively to build a description and rules for it.
+
+There are a few examples throughout this section, but we will provide you with some guidelines below (these guidelines are most applicable to magical weapons).
+
+- **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
+- **Items shouldn't eclipse other options.**  An item you're playing 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a class, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
+  - This is why you shouldn't add a "hard invisibility" cloak.
+- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game&mdash;even though people are going to ask.
+  - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
+  - Items that give you extra actions or turns in combat are a very bad idea.
+  - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits the game.
+
+</aside>
+
+<aside class="designnote">
+
+### Why Not?
+
+So, why are we leaving all this design work up to players (and GMs)?
+
+One reason is just that *it's a lot of damned work!*
+We're a small team, and creating a large list of diverse, high-quality items would be quite an undertaking!
+
+But there are other reasons too&mdash;and our laziness isn't even the most important one!
+
+We also don't believe that it's possible to create a list of magical items that is *exhaustive* (in the sense that it covers most of the magical items that people would want) without being *unwieldy* (in the sense that it would be far to vast to be useful).
+Any *very large* list of magical items will encumber *all* players with a huge list of items that they have to navigate, hoping that the item they want is in there *somewhere*.
+If it is, then they're at least in luck; if it *isn't*, then they're tasked with designing their item anyway!
+(Albeit, we concede, with dozens of existing items in useful guidance.)
+
+There's the additional problem of *balancing* all those items.
+Most very large lists of magical items will frequently be narrowed down to a few very powerful items (that are considered *essential*) and a large number of weaker items (that are never used).
+Designing a list of dozens of magical items such that no one of them is notably stronger or weaker than any of the others is a practical impossibility.
+
+Both of these concerns apply even more to a system for *designing* magical weapons.
+Given such a system, anyone who wants a magical weapon now has to fight through all those rules;
+if those rules are flexible enough that they could produce any reasonable magical item, they'll almost certainly be so huge that trying to use them will be a major undertaking;
+and designing those rules such that every item it produces is balanced against all the others is a practical impossibility.
+
+</aside>
 
 ## Armors
 
@@ -112,12 +224,15 @@ armors have the **Cumbersome** tag.
 Most armors cover most of the wearer’s body, including their head and
 extremities. Some armor, however, leaves large portions of the wearer
 exposed; these armors have the **Exposed** tag.
+Armors with the *exposed* tag are particularly vulnerable to those attempting to *strike an armor gap* (see the maneuver, in *Combat*).
 
+<!--
 It was “Armor with the Exposed tag provides no protection on a critical
 hit,” but I think that’s too extreme if we want people to actually use
 partial plate. Honestly, at this point, I think maybe some of these tags
 don’t need a fixed rule, so I might just ad-hoc it for the Partial
 Plate.
+-->
 
 Some armor (and other outfits) are particularly good at concealing their
 wearer. Armor with the **Stealthy** tag provides the wearer with a +10
@@ -299,6 +414,71 @@ Drawbacks: None
 Special: Sneak Suits are Cost: Low
 
 Tags: Concealing, Layerable, Stealthy
+
+## Shields
+
+Many different types of shields are in use throughout the nations and cultures of Emerals and Ruby Planes; only a few of them are listed here.
+
+### Buckler
+
+A punch or buckler is a small metal disc or cone held wielded over the knuckles and hand of the users off-hand;
+it is usually held with a horizontal bar passing directly behind the center of the shield.
+The buckler provides little cover to the user, but does benefit those who rely on parrying to deflect incoming attacks.
+
+Armour: 1
+
+Tags: Exposed, Off-hand, Parry
+
+### Swordbreaker
+
+A swordbreaker is a dagger or short-sword intended primarily for defensive use.
+Though they don't have much of an edge, the back of the blade features a ``comb'' of raised and lowered points.
+A tool of the dishonorable, it is used by swordsmen to trap and hold their opponent's sword, leaving them open to attack.
+
+Armour: 0
+
+Tags: Off-hand, Trapping Parry, Dishonorable
+
+### Targe
+
+A *targe* is a round, wooden shield with a metal boss in the centre and a metal rim;
+they are often painted in prominent colours and patterns.
+The smallest, lightest shield available that can protect its user even when hung out of hand, it's still light enough to wield in melee and be used to deflect an enemy's blows.
+
+Armour: 2
+
+Tags: Off-hand, Parry, Cavalry
+
+### Kite shield
+
+Kite shields are made entirely of metal, and are commonly wielded by elite fighters in cultures capable of producing high-quality steel at scale--and thus they are commonly seen wielded by knights.
+Kite shields cover a wielder from shoulder to thigh, and are usually about as wide as the wielder's chest.
+They are useful for the mix of mobility and cover that they provide; they are often used to block incoming arrows and crossbow bolts, allowing heavily-armored combatants to close effectively.
+
+Heater shields are similar in function, though they are wider and not quite as tall;
+heater shields are in ubiquitous use in both the Kingdoms of Men and the Commonwealth's military.
+
+Armour: 3
+
+Drawback: -5 COO-linked skills
+
+Tags: Off-hand, Cavalry, Heavy
+
+### Tower Shield
+
+Tower shields are enormous, covering the user from head to knee.
+The largest shields in common use by single fighters, tower shields also provide cover for the ranks behind them, as well as an impassible wall to opponents in front.
+
+Some armies deploy these shields in formation, where they can be powerful defensive weapons;
+tower shields in the front ranks can cover pikeman in rear ranks, creating a powerful formation--if one that is vulnerable to being flanked.
+Many Dwarven holds use tower shields in the defence of their holds; there, they allow them to nearly completely block off the narrow hallways and irregular stone tunnels of their homes.
+Some Gnollish families in Northland Province have also developed a fighting style that centers on the use of a tower shield; the style is notably different from the one used by their Dwarven neighbors, and focuses on maximizing the defence provided by the shield in melee combat.
+
+Armour: 4
+
+Drawback: -10 COO-linked skills
+
+Tags: Off-hand, Heavy
 
 ## Weapons
 
