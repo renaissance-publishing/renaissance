@@ -15,7 +15,7 @@ These categories represent each item's cost, but they also correspond loosely wi
 
 <aside class="designnote">
 
-### Why Not Specific Prices?
+### Why Not Specific Prices
 
 Why do we use cost-categories instead of specific prices?
 
@@ -964,12 +964,14 @@ Damage: 1d10+5+DB
 AP: 2
 
 <aside class="designnote">
+
 The combination of Vulnerable and Fend may seem a little odd.
 Vulnerable means that the weapon is not very useful when defending
 against an attack, while fend means that the weapon is good at keeping
 an opponent at range. This makes some sense, as long spears can be used
 to threaten an opponent into keeping their distance, but are not very
 good at parrying or defending should an opponent manage to get close.
+
 </aside>
 
 ### Halberd
@@ -1322,15 +1324,17 @@ Magical items largely follow the same rules as non-magical ones;
 they are listed separately because they require more of a description than ladders and rope.
 
 ### Minor Magic Items
-    
+
 #### Light
+
 This small glass vile contains a clear liquid.
 When shaken, it produces a bright light: it shines brightly enough that a character holding it can see clearly for 20m around them.
 Once it is lit, it will continue to shine brightly for 20 minutes, and then dimly for 20 minutes thereafter—although shaking it again will cause it to begin shining brightly once more.
 
 ### Moderate
-    
+
 #### Heater
+
 This small magical apparatus is used to generate strong heat; it is commonly carried by travelers who use them to keep warm, to boil water and to start fires.
 Heaters are cylindrical metal devices about the size and shape of the handle to a hammer; the tip of one end is lain with intricate steel wiring, while the other end is wrapped in leather.
 When the device is activated, the wired tip becomes extremely hot.
@@ -1339,12 +1343,14 @@ One charge is Trivial cost and will run the heater for 2 hours.
 While there is a charge in it, the heater can be activated and deactivated with a metal trigger in the grip.
 
 #### Safe-Fall Cape
+
 This cape billows outward as you fall, and both it’s physical size and magical effects cooperate to slow your fall.
 No matter how far you fall, the cape will prevent you from falling faster than a quick run.
 When you land, you must make an athletics check: if you succeed, you ake no damage, but if you
 fail, you take 1d10 dv.
 
 #### Torque of Speaking
+
 This torgue adds to the array of sounds that you can naturally produce, allowing you to use one additional *language group* (chosen when purchase the torque, if you're purchasing it during character creation; otherwise, it's chosen when designing and producing the torque).
 These items are not always torques, although it is a common choice (given especially that many interact with the wearer's vocal cords).
 
@@ -1352,6 +1358,7 @@ Note that the Torque provides access to a *language group*&mdash;the sounds need
 So a torque could provide you access to the GR language group, but you'd still have to learn a GR language (like Heartland Gnoll) separately.
 
 #### Wand
+
 Wands are both tools and ranged weapons commonly used by mages.
 Wands can only store a finite amount of magical energy&mdash;although recharging them is a very simple magical procedure.
 They use the following profile:
@@ -1369,6 +1376,7 @@ Charges: A wand has 10 *charges*, and one is used with each attack.
 Reload: Quick Action
 
 #### Warmblood Suit
+
 This heavy outfit resembles heavy winter clothing, with an outer layer of wool and a linen inner lining.
 Just inside the linen lining there is a wrapping like a metallic ribbon; at several points along the back, there are pockets containing more of the metallic ribbons.
 Both sets of ribbons cross are connected to two magical mechanisms, each a twin of the other, in the back of the suit.
@@ -1392,6 +1400,7 @@ Tags: Concealing, Layerable, Sociable
 ### Major Cost
 
 #### The Bronze Arm
+
 A magical item crafted for General Chandra to replace an arm lost in combat, this finely-crafted and mighty device has only made the general stronger.
 
 The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
@@ -1399,6 +1408,7 @@ Even though it is functionally a part of Chandra’s body, and he wields it as h
 Chandra can attack with it using either the One-Handed Weapons or Unarmed skills, he is always considered armed, and he can even parry with it.
 
 #### The Hunter’s Bow
+
 A magical bow carried by Aryn the hunter, this weapon fires bolts of magic rather than arrows.
 
 Since the bow fires magical projectiles that it generates, it does not require ammo.

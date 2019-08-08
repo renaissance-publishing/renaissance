@@ -27,78 +27,9 @@ confusing text while we root all of that out.
 
 Changes since last time:
 
-  - Made “other factions” its own subsection, have started cleaning that
-    up a little.
-
-      - wrote up the Kingdoms of Man, finally.
-
-  - Added proficiency skills, reworked skills (again).
-    
-      - Moved attack skills, athletics to proficiency skills.
-      - Removed Sports as a field skill.
-      - Added a section in *skills* about “types of skills”, which has
-        rules for normal, field and proficiency skills. (Some of this
-        text already exists but was lost while editing; if anyone
-        notices text about field skills hiding out somewhere else, tell
-        me so I can delete it.)
-
-  - Added a section on Motivations and Milestones.
-    
-      - And, by the way, added a milestone system (thanks, CV\!).
-
-  - Starting to add “GM hints” sections, positioned near the relevant
-    rules text.
-    
-      - Adding ones for “picking a test” and “awarding rez”.
-      - Many more to come.
-
-  - Added short rules for defaulting, while I was at it. (That’s in the
-    “why wasn’t this already here\!?” set of errors.)
-
-  - Slightly shifted the Magical Items section around,
-    
-      - added a few more magical items (including a Warmblood Coat for
-        King K).
-      - The item section needs a lot more clean-up.
-
-  - Started incorporating a large weapon-and-armor rework, courtesy of
-    CV.
-    
-      - Large cannot be understated.
-      - This rework is in a testable state, but it still needs a *lot*
-        of editing and cleanup.
-
-  - Added a weapon-catch as a special maneuver.
-
-  - Added rules for mounted combat (complete with a complex special
-    version of charging, the ride-by attack)
-
-  - Added more specific rules for unarmed combat and natural weapons.
-
-  - A footnote change that may have notable consequences, noted that
-    Commonwealth Standard forms new words by combining existing words,
-    
-      - and added the sort of meta-narative that the guide is implicitly
-        translated from Commonwealth Standard to English.
-      - And I’m moving towards a standard form for Common words and
-        names, like Worldspine, Islandhome, Westward, Warmblood (Coat) …
-  
-  - Minor adjustments all the backgrounds (in the Backgrounds and Races sections, anyway).
-
-      - standardized a lot of the formatting.
-      - Reworked them so they'd all have 40 CP of stuff (with one exception).
-      - Backgrounds remain a work in progress.
-
-  - Added an Endurance trait for humans,
-
-      - and a Halfling Wagon for halflings.
-
-  - Partial update of the Monsters, Animals and NPCs section.
-      - I removed the REF attribute from the creatures, finally, and updated their INITs.
-      - I added the Horse, the Dancing Raptor (for Drakes) and the Pack-Cat (for Orcs).
-  - Added a familiar-having class for mages, and a three sample familiars to the example creatures section.
-
-  - Lots of tinkering with the Tempters, trying to make them decent without being wildly overpowered.
+- Added shields, woops.
+- reformatting in Items and Wealth.
+- Adding more assides in Items and Wealth.
         
 
 Feedback Questions
@@ -217,4 +148,3 @@ Contributors:
   - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website!
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
-
