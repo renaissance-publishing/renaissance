@@ -9,19 +9,9 @@ This list is *by no means* exhaustive; GMs and players may of course find countl
 
 Note that we also list *services* here, since *services* are acquired using the same rules (and fall into the same cost categories, see below).
 
-## Item Cost Categories
-
-Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*.
-This determines their cost both at character creation and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
-
-- A trivial item is an item of no notable cost: a fork and a candle are trivial items.
-Notably, you usually shouldn’t purchase a trivial item on its own; it’s usually better to buy a *skill kit* for a relevant skill than to purchase a bunch of trivial-cost items directly.
-- A *minor* item is a single, useful item or piece of gear, like a grappling-hook or ladder.
-- A *moderate* item is a notable item&mdash;any one weapon or piece of armor would be a medium item, as would a skill kit (see below).
-- A *major* item plays a major roll in defining a character; this might include a magic weapon, an heirloom, a shop or a plot of land.
-- An extreme item is exceedingly rare, exceedingly expensive, or both; a noble estate is an extreme item.
-
-As you can see, even though we call these ``cost categories,'' they really represent not only the cost of one item relative to other items you might buy in the world, but *also* how important the item is expected to be as a defining part of your character.
+Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*; these categories are described in their own sections below.
+This determines their cost both at character creation (see *Character Creation*) and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
+These categories represent each item's cost, but they also correspond loosely with how *important* we expect each item to be in defining a given character; "how important is this purchase" is a useful guideline for GMs assigning costs to items that are not listed.
 
 <aside class="designnote">
 
@@ -170,7 +160,7 @@ There are a few examples throughout this section, but we will provide you with s
 
 <aside class="designnote">
 
-### Why Not?
+### *Why* isn't there a list?
 
 So, why are we leaving all this design work up to players (and GMs)?
 
