@@ -160,7 +160,7 @@ There are a few examples throughout this section, but we will provide you with s
 
 <aside class="designnote">
 
-### *Why* isn't there a list?
+### Why isn't there a list
 
 So, why are we leaving all this design work up to players (and GMs)?
 

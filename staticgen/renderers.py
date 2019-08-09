@@ -1,13 +1,12 @@
 from mistletoe import block_token, html_renderer
-import re
 
-import sys # Gleech
 import staticgen.utils as utils # Gleech
 
 class RenaissanceHTMLRenderer(html_renderer.HTMLRenderer):
     @staticmethod
     def heading_to_anchor(heading: block_token.Heading) -> str:
-        text = utils.flatten_to_text(heading)
+        #text = utils.flatten_to_text(heading)
+        text = utils.get_content(heading)
         return utils.remove_nonword_chars(text)
 
     def render_heading(self, token):
