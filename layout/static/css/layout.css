@@ -90,7 +90,7 @@ footer
 
 /* Class for all the various asides.
  * It lays them out as right-floats.
- * 
+ *
  * ... also I didn't know that there was an aside element!
  * kinda cool!
  * but I can't use that directly here because the nav is also an aside.
@@ -177,4 +177,26 @@ td
 .header-link:before {
     content: "🔗 ";
     font-size: 0.6em;
+}
+
+
+*:focus {
+    border: 1px red;
+}
+
+*:focus-within {
+    border: 1px green;
+}
+
+
+.main-nav {
+    display: none;
+}
+
+header .branding {
+    display: inline-block;
+}
+
+:not(nav) > ul.dropdown-menu-list {
+    margin-left: 100px;
 }

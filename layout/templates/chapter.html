@@ -4,12 +4,12 @@
 
 {% block content %}
     <nav class="toc-menu pure-menu">
-        <ul class="pure-menu-list">
+        <ul class="dropdown-menu-list" tabindex="0">
             {% for entry in toc recursive %}
-                <li class="pure-menu-item {% if entry.children %}pure-menu-has-children pure-menu-allow-hover{% endif %}">
-                    <a class="pure-menu-link" href="../{{ entry.route }}{{ entry.anchor }}">{{ entry.title }}</a>
+                <li class="menu-item"{% if entry.children %}data-haschildren="true"{% endif %} tabindex="0">
+                    <a class="menu-link" href="../{{ entry.route }}{{ entry.anchor }}">{{ entry.title }}</a>
                     {% if entry.children %}
-                        <ul class="pure-menu-children">
+                        <ul class="dropdown-menu-list">
                             {{ loop(entry.children) }}
                         </ul>
                     {% endif %}
