@@ -394,76 +394,86 @@ Optional Background: Wood Elf Tribal Commuity
 
 ### Gnolls
 
-  - Almost as social as humans and incredibly strong, Gnollish strength
-    (and endurance) was the backbone of the early Commonwealth.
+Gnolls are one of the most numerous races on the Emerald Plane; much like Humans and Elves, they have long lived throughout the Emerald Plane.
+Almost as sociable as humans and incredibly strong, Gnollish strength (and endurance) was the backbone of the early Commonwealth.
 
-  - Gnolls are very common in small farming communities everywhere, and
-    in the mid-sized manors throughout Heartland Province.
+Gnolls are roughly humanoid in gross layout, but they have hyena-like features:
+their head and feet are much like a hyena's;
+they are covered in short, ochre fur much like a hyena's;
+and they have a hyena's short tail.
+Gnolls are also much larger and stronger than most other races&mdash;Drakes are perhaps the only common race that can exceed them.
+Notably, Gnolls display less sex dimorphism than most other races do; as a result, Gnollish cultures tend to place less importance on an individual's sex.
 
-  - Gnolls make up more than half of the Commonwealth Military, where
-    their strength is invaluable.
+Gnolls where one of the three races that cooperated under the auspices of the Old Charter to create the growing, prosperous culture of towns, manors and cities that would eventually become the Commonwealth.
+When Gnollish refugees where granted a manor's charter by the Lord of a Human city, a new and unique culture was created, at least as similar to the urban Human culture that sheltered them as to any prior Gnollish culture;
+this Gnollish culture was one of the ones that was spread west as the Commonwealth expanded, and that is still one of the Commonwealth's most common and distinctive cultures today.
 
-  - A small number of Gnollish tribal communities still exist.
+Commonwealth Gnolls tend to be somewhat rural; they are common in the small villages and towns of the Commonwealth, but rare in its cities.
+Though the idea of a Gnollish farmer may seem odd to some, they are in fact well-suited to it; their great strength and endurance is invaluable for farming work, and the *flexibility* of their diet can be invaluable in lean years.
+(Though Gnolls are meat-eaters, they have discovered a number of useful recipes involving grains that provide them at least some nourishment, which they can use to greatly stretch meat reserves.)
 
-  - Gnolls display less sex dimorphism than some other races do; because
-    of this, Gnollish females have long served in military and
-    leadership rolls.
+Though Gnolls may be somewhat rustic by Commonwealth standards, their communities nevertheless tend to be open and welcoming;
+their ancestor's flight from persecution at the hands of their cousins, and their salvation at the hands of people strange and alien to them&mdash;Humans&mdash;is very much alive in Gnollish culture, and strongly informs their traditions and values to this day.
 
-  - Gnolls “cultural memory” still very much includes the legend of
-    fleeing persecution from other savage Gnolls and settling beside
-    humans; to this day, Gnolls are immensely proud of their roll in
-    founding the Commonwealth, and the roll they continue to play in its
-    prosperity and safety.
+Gnolls put quite a lot of effort into getting along with members of other communities, and will go out of their way to make other races feel comfortable around them.
+Many Gnollish communities have two separate set of customs, one for when members of other races are around, and one for when they're not.
+For example, Gnolls are carrion-eaters, and many other races may be revolted by some of the things that Gnolls may eat; for this reason, Gnollish communities often have a recipe of "guest-food," which both they and their guests can eat.
+Gnolls are also aware of how savage and intimidating they can appear to be, so many of them put quite a lot of effort into developing refined personal styles: fine clothing, subtle jewelry, neat cuts of hair and mane, and died fur are all common.
+Gnolls also commonly use veils to hide their predator's jaws from those who they do not with to frighten or intimidate.
 
-  - Gnolls put quite a lot of effort into getting along with members of
-    other communities, and will go out of their way to make other races
-    feel comfortable around them. Many Gnollish communities have two
-    separate set of customs, one for “when other races are around,” and
-    one for when they're not. They are not secretive about this; they do
-    this because, for example, they are evolved from carrion-eaters and
-    most other races don't want to see Gnoll “cooking.”
+Not every Commonwealth Gnoll stays in the small town where they are born.
+Many Gnollish families have a long military tradition, and Gnolls make up almost two-thirds of the Commonwealth military's ranks.
 
-  - Gnolls are aware of how savage they look, and many put quite a lot
-    of effort into developing elaborate, refined personal styles to
-    counter this effect.
+Since the first Gnollish manors were settled besides Halfling neighbors, the two races have cooperated closely; Gnolls have long found employment with Halfling trade-caravans as guards.
+To this day, many Halfling communities are located next to Gnollish ones, and clans of Halflings and Gnolls may have traditions of cooperation that go back centuries.
+Gnolls that travel with Halfling caravans are often more urbane than their cousins; they are also more likely to go to great lengths to perfect a personal style that is just intimidating enough to scare off the wrong sort, without disturbing the paying customers as well!
 
-  - Gnolls are roughly humanoid, save their great size—and that they
-    have the head and feat of a hyena, and are covered in dusky or ochre
-    fur.
+There are also a number of Gnollish tribal communities in the territory to the west of the Worldspine Mountains.
+Notably, much like their symbiosis with Humans and Halflings in the east, several Gnollish tribes allied with Herder communities in the west, where the frail Herders greatly valued them for their physical strength; this alliance became a force to be reckoned with in the west, and was the major opponent to the Shade Elves prior to the coming of the Commonwealth.
 
-  - Vitals
-    
-      - Old Age: 50 Years
-      - Average Height: 2.2m
-      - Average Weight: 80kg
+There is also a unique ethnic group of Gnolls hailing from stretch of snowy northland that lies to the east of the Worldspine mountains.
+White-furred and adapted to the cold, these Gnolls have long lived on the snowy terrain above and around the subterranean holds of Dwarves, with whom they have long coexisted amicably; Snow Gnolls are expert hunters and herders, and they provide Dwarven holds with an invaluable source of meat.
+Though few in numbers, the combination of these stealthy hunters scattered throughout the northern forests with the extreme resilience of Dwarven holds handily prevented the conquest of the North by the Empire of Man, and later by the Kingdoms of Men.
 
-  - One of three Founding Races. Strong and tough, Gnolls are a majority
-    of the military and are common on farming manors.
-  - DUR 35, STR 35
-  - \+5 INT, +5 SAV, +10 SOM
-  - Movement: Foot 5 / 15
-  - Senses: Normal, Low-Light, Scent
-  - Tags: Natural, Humanoid, Gnoll
-  - Language Group: GR
-  - *Hide*: +1 Armor
-  - *Scavenger*: Resistance to food-borne illness (+20 on related
-    checks)
-  - *Sturdy*: Gnolls can Negate one Wound
+#### Vitals
 
-  - Optional Background: Military Family
-    
-      - You hail from one of the many Gnollish military families.
-      - 10 ranks in Fray
-      - 10 ranks in two other Combat skills
-      - the Soldier class
+- Old Age: 50 Years
+- Average Height: 2.2m
+- Average Weight: 80kg
 
-  - Optional Background: Caravan Guard
-    
-      - Continuing a way of life that stretches back more than 700 years, you travel with Halfling trade-caravans, serving as a guard, a bouncer, a hand and a diplomat.
-      - 10 ranks in Intimidate
-      - 10 ranks in Perception
-      - 10 ranks in Persuasion
-      - 10 ranks in Survival
+- Gnolls are one of the three founding races of the Commonwealth, and prosper anywhere great strength and endurance are valuable.
+- DUR 35, STR 35
+- \+5 INT, +5 SAV, +10 SOM
+- Movement: Foot 5 / 15
+- Senses: Normal, Low-Light, Scent
+- Tags: Natural, Humanoid, Gnoll
+- Language Group: GR
+- *Hide*: Gnolls gain +1 Armor
+- *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
+- *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
+
+#### Optional Background: Military Family
+
+You hail from one of the many Gnollish military families.
+
+- 10 ranks in Fray
+- 10 ranks in two other Combat skills
+- the Soldier class
+
+#### Optional Background: Caravan Guard
+
+Continuing a way of life that stretches back more than 700 years, you travel with Halfling trade-caravans, serving as a guard, a bouncer, a hand, and a diplomat.
+
+- 10 ranks in Intimidate
+- 10 ranks in Perception
+- 10 ranks in Persuasion
+- 10 ranks in Survival
+
+#### Optional Neutral Trait: Cold-Adapted
+
+Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold&mdash;although you suffer somewhat in warmer lands.
+
+- You gain Resistance: Cold and Vulnerability: Heat
 
 ### Humans
 
@@ -1719,39 +1729,51 @@ Optional Background: Wood Elf Tribal Commuity
 
 ### Bone Spiders
 
-  - Bone Spiders are among the more unique races to set foot on the Emerald Plane.
-      - Bone Spiders are arranged somewhat like crabs or spiders, but much larger; they have a large central section about a meter across, from which six meter-long legs extend.
-      - They have a head section at one end; it is not articulated with a neck, but continuous with the body.
-      - Two arms extend from the front, from slightly below the head, one on either side of it.
-      - They have multiple eyes—two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
-      - Bone Spiders have large bone plates covering their backs, underbellies and limbs.  There are a half-dozen diamond-shaped plates on their back, which overlap at their edges a little like scale mail; the plates on their underbellies are segmented, arranged in strips.
-      - Bone Spiders are semi-aquatic; they have gills on their underbellies, and can breathe underwater, though they are not particularly good swimmers.
-      - Bone Spiders are omnivorous.
-  - Bone Spiders only recently made contact with the Commonwealth.
-      - Bone Spider explorers first discovered the Emerald Plane and the Commonwealth some twenty years ago; a trickle of Bone Spider merchants have followed.
-      - Bone Spiders are from a lone island some two months’ voyage from the eastern coast of the Emerald Plane.
-      - Their island is not large: it is roughly circular, and it would take shy of two weeks to cross it on food at its widest.  The island is rocky and mountainous, rising to a single low peak in its middle.
-      - Along its northern and southern coasts, the rocks descend directly into the sea; besides a few lagoons, there is little arable land.
-      - Along the eastern and western coasts, there are flat stretches, hosting thin bands of soil and greenery between the sandy shores and the rocky slope.
-      - The Bone Spiders earliest culture began in a system of flooded caves and caverns in the center of their island.  Among their earliest myths are the stories of ascending from the deep caves to surface, and then descending form the slopes of the mountain to discover the thin crescents of fertile ground on their eastern and western coasts.
-      - Bone Spiders have long practiced aquaculture in the shallows around their island, and have a long history of boat-building and sailing.
-      - Only within the last hundred years did Bone Spiders begin to develop the kinds of boats that could cross the open ocean.
-  - The total Bone Spider population is not large; they have largely filled in the habitable portions of their island and the shallows around it, though they number fewer than five hundred thousand.
-      - Despite this fact, they seem in little hurry to expand onto the Emerald Plane.
-      - They do seem eager to trade, however, and a steady trickle of Bone-Spider merchant-ships have docked at ports along the eastern and southern coasts of the Emerald Plane.
-  - Those traders who do encounter these rare creatures should be advised: Bone Spiders find attempts to mimic their culture to be *very* tiresome.
-  - Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
-      - Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
-  - Vitals:
-      - Old Age: 125 years
-      - Average Height: 0.5m
-      - Average Length: 2.0m
-      - Average Weight: 75kg
+Bone Spiders are among the more unique races to set foot on the Emerald Plane.
 
-  - DUR 35, STR 30
-  - \+5 SAV, +5 SOM, +10 WIL
-  - Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
-  - Senses: Normal
-  - Tags: Natural, Hexapod, Bone Spider
-  - Language Group: HHED
-  - Aquatic: Bone Spiders can breath underwater.
+Bone Spiders are arranged somewhat like crabs or spiders, but much larger; they have a large central section about a meter across, from which six meter-long legs extend.
+They have a head section at one end; it is not articulated with a neck, but continuous with the body.
+Two arms extend from the front, from slightly below the head, one on either side of it.
+They have multiple eyes—two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
+Bone Spiders have large bone plates covering their backs, underbellies and limbs.
+There are a half-dozen diamond-shaped plates on their back, which overlap at their edges a little like scale mail; the plates on their underbellies are segmented, arranged in strips.
+Bone Spiders are semi-aquatic; they have gills on their underbellies, and can breathe underwater, though they are not particularly good swimmers.
+Bone Spiders are omnivorous.
+
+Bone Spiders only recently made contact with the Commonwealth.
+Bone Spider explorers first discovered the Emerald Plane and the Commonwealth some twenty years ago; a trickle of Bone Spider merchants have followed.
+
+Bone Spiders are from a lone island some two months’ voyage from the eastern coast of the Emerald Plane.
+Their island is not large: it is roughly circular, and it would take less than two weeks to cross it on food at its widest.
+The island is rocky and mountainous, rising to a single low peak in its middle.
+Along its northern and southern coasts, the rocks descend directly into the sea; besides a few lagoons, there is little arable land.
+Along the eastern and western coasts, there are flat stretches, hosting thin bands of soil and greenery between the sandy shores and the rocky slope.
+
+The Bone Spiders earliest culture began in a system of flooded caves and caverns in the center of their island.
+Among their earliest myths are the stories of ascending from the deep caves to surface, and then descending form the slopes of the mountain to discover the thin crescents of fertile ground on their eastern and western coasts.
+Bone Spiders have long practiced aquaculture in the shallows around their island, and have a long history of boat-building and sailing.
+Only within the last hundred years did Bone Spiders begin to develop the kinds of boats that could cross the open ocean.
+
+The total Bone Spider population is not large; they have largely filled in the habitable portions of their island and the shallows around it, though they number fewer than five hundred thousand.
+Despite this fact, they seem in little hurry to expand onto the Emerald Plane.
+They do seem eager to trade, however, and a steady trickle of Bone-Spider merchant-ships have docked at ports along the eastern and southern coasts of the Emerald Plane.
+
+Those traders who do encounter these rare creatures should be advised: Bone Spiders find attempts to mimic their culture to be *very* tiresome.
+
+Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
+Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
+
+#### Vitals
+
+- Old Age: 125 years
+- Average Height: 0.5m
+- Average Length: 2.0m
+- Average Weight: 75kg
+
+- DUR 35, STR 30
+- \+5 SAV, +5 SOM, +10 WIL
+- Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
+- Senses: Normal
+- Tags: Natural, Hexapod, Bone Spider
+- Language Group: HHED
+- Aquatic: Bone Spiders can breath underwater.
