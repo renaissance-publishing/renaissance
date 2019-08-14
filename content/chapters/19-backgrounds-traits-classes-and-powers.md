@@ -190,31 +190,12 @@ but taking it *gives* you more CP to spend.
 Some traits are *neutral*, giving you both a benefit and a drawback;
 they do not cost CP.
 
-  - Hardened: You have been exposed to some source of stress repeatedly,
-    and have become resistant to it; however, doing so has taken a toll.
-    
-      - Choose one particular source of stress: you gain +WIL to checks
-        made to resist it, but your Luck stat is reduced by 1.
-      - Example sources of stress include *being gravely injured in
-        combat;* *failing one of your motivational goals spectacularly;
-        witnessing, experiencing or performing torture* and *displays of
-        extreme supernatural power.*
-      - Right now, this is borrowed fairly directly from EP, but I’d
-        like to adapt it to the game and setting more. Maybe reduce LUC
-        by 5 instead?
+- Hardened: You have been exposed to some source of stress repeatedly, and have become resistant to it; however, doing so has taken a toll.
+  - Choose one particular source of stress: you gain +WIL to checks made to resist it, but your Luck stat is reduced by 1.
+  - Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
 
-  - Unique Outlook: You have some personal philosophy or outlook that
-    causes you to process some situation vary differently than other
-    people do; on the plus side, this allows you to weather some
-    situations that others would find stressful, but on the down side,
-    this also makes it harder for others to relate to you.
-    
-      - Choose one particular source of Stress: you gain +WIL to checks
-        made to resist it, but you suffer a -10 penalty to Persuasion
-        and Protocol tests.
-      - Note sure about that one either, I had the idea that instead
-        “your critical successes with Social Skills are ignored” or
-        something like it.
+- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful&mdash;but on the down side, your unusual outlook makes it harder for others to relate to you.
+  - Choose one particular source of Stress: you gain +WIL to checks made to resist it, but you suffer a -10 penalty to Persuasion and Protocol tests.
 
 ## Classes
 

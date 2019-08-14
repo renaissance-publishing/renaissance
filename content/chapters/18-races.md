@@ -473,7 +473,12 @@ Continuing a way of life that stretches back more than 700 years, you travel wit
 
 Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold&mdash;although you suffer somewhat in warmer lands.
 
-- You gain Resistance: Cold and Vulnerability: Heat
+- You gain Resistance: Cold and Vulnerability: Heat.
+
+<!--
+- You gain a +20 bonus to Feats of Endurance related to extremely cold environments.
+- You suffer a -20 penalty to Feats of Endurance related to extremely hot environments.
+-->
 
 ### Humans
 
@@ -843,25 +848,88 @@ Your ancestors have long dwelled in the snowy north, and you are well adapted to
 
 ### Dwarves
 
-  - A large nation of Dwarves exists, but, while affable enough, most of
-    them prefer to deal with their own kind – and their own kin at that.
-    Still, a few Dwarf Holds, complete with their surrounding
-    territories, signed the New Charter – and were reorganized into
-    Northland Province when the Compact came into effect.
-  - DUR 35, STR 30
-  - \+10 SOM, +10 WIL
-  - Movement: foot 4 / 12
-  - Senses: Normal, Infrared
-  - Tags: Natural, Humanoid, Dwarf
-  - Language Group: HHED
-  - *Squat*: Dwarves are treated as small targets when defending against
-    ranged attacks (even though they are Medium-sized creatures)
+Short but sturdy, Dwarves hail from the cold and snowy north.
+Only about a third of the Dwarven Holds have signed the Commonwealth Charter, while the others remained independent.
+A few adventurous Commonwealth dwarves travelled west with the Commonwealth, where they have dug holds in the Haven Isles, besides Ash Elves and Kobolds, and prospered.
 
-  - Optional Background: Dwarven Hold
-    
-      - 10 ranks in two Technical skills
-      - 10 ranks in Protocol
-      - 10 ranks in Barter
+Dwarves originate in the frozen north, where the low peaks and rolling foothills of the Worldspine Mountains give way to the coast, the ocean, and the forested plains to their east and west.
+Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine&mdash;many small Dwarven communities built on the surface still consist largely of bermed buildings.
+As Dwarves began to urbanize and practice settled agriculture, as their population grew, their earthen construction became larger and deeper&mdash;and the development of sophisticated mining and stonework allowed them to burrow into rock and to include finished stonework in their construction&mdash;eventually producing the Dwarven clan-holds that were common when the Empire of Man first contacted them.
+
+Most Dwarven holds are wide, shallow constructions&mdash;at least by comparison to other, deeper-digging cultures, like Kobolds.
+They are often built in a ring around the base of a hill; more rarely, they're dug into open ground.
+They can often feature open spaces on the inside, which helps with ventilation; sometimes these are public spaces, other times they are gardens.
+
+The old Dwarven culture of the North is centered around kin and custom.
+Most Dwarven holds will be controlled by a Clan, consisting of several families&mdash;though some large holds may be governed by multiple Clans, and some clans control multiple holds, typically smaller ones.
+Rather than law and governance as such, holds tend to be run by custom and family consensus; authority typically falls to the heads of families.
+Similarly, exchange is more often mediated by custom, with a strong emphasis on caring for kin, then it is by currency.
+
+Dwarves are open enough, and are rarely hostile, although they can be insular; it can be extremely difficult for an outsider to find a place in such a family-oriented society.
+For this reason, only about a third of the Dwarves Clans of the north ever signed the Commonwealth Charter; the others have remained independent.
+
+Dwarves have cultivated expertise in mining, stonework and agriculture.
+Craftsmen also hold high status in Dwarven holds, and many Dwarven communities are known for the quality of the work of their artisans, which can rival the work of Human craftsmen.
+
+#### Mindsharing Dwarves
+
+Some Dwarven holds have developed a symbiosis with a strange organism first encountered beneath the foothills of the northern terminus of the Worldspine mountains, which has produced a unique culture.
+The organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
+The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
+
+Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures&mdash;what is commonly called psionic energy.
+What's more, the fungus can actually colonize the bodies of some other creatures&mdash;including Dwarves, whose physiology is highly compatible with it.
+Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
+Mindshare Fungus can bridge the minds of its hosts; though a host to a Mindshare symbiote substantially retains their own mind to a great degree, their minds begin to "overlap" with other hosts nearby.
+This allows hosts to exchange thoughts, experiences, knowledge, and even skills.
+These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in&mdash;although hosts cannot completely shut out the connection.
+
+Though this effect can only work over short distances, the effect can be communicated using Mindshare "plants"&mdash;which, like many funguses, can be surprisingly large.
+Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users&mdash;ranging from simple messages or discrete memories to fragments of personalities or skills.
+
+A remarkable culture has developed in the Dwarven Holds where accepting symbiosis with Mindshare Fungus is common.
+Though Mindsharing Dwarves remain individuals separate from their kin, each with their own desires and natures, they share a remarkable amount of themselves with their fellows.
+
+
+#### Haven Isles Dwarves
+
+Though only a few Dwarves have chosen to leave their northern lands and settle elsewhere in the Commonwealth, a large population of Dwarves has nevertheless developed in the Haven Isles.
+There they live in close proximity to Ash Elves and Kobolds, both of whom also often build underground.
+Though these Dwarves do maintain their own traditions, they share quite a bit of culture with their Kobold and Ash Elven neighbors.
+
+The Dwarves of the Haven Isles tend to be more mercantile; formal law and finance have substantially replaced tradition and custom in these communities.
+Though some view this as a loss, it has made these communities far more open and accessible to outsiders; the Dwarves of the Haven Isles welcome guests, travelers and traders.
+
+The Dwarves of the Haven Isles tend to get along particularly well with their Kobold neighbors, whose boisterous, zealous and optimistic nature are often welcome; these friendships can often be bittersweet, as Dwarves live much longer lives than Kobolds.
+It is not unusual for one Dwarf to have a close and vital friendship with several generations of a Kobold family.
+
+#### Vitals
+
+- Old Age: 110 Years
+- Average Height: 90cm
+- Average Weight: 50kg
+
+- DUR 35, STR 30
+- \+10 SOM, +10 WIL
+- Movement: foot 3 / 9
+- Senses: Normal, Infrared
+- Tags: Natural, Humanoid, Dwarf
+- Language Group: HHED
+- Size: Medium
+- *Squat*: Dwarves are treated as small targets when defending against ranged attacks (even though they are Medium-sized creatures).
+- *Hardy*: Dwarves are known for their hardy constitutions, being resistant to both disease and poison.  Dwarves gain Resistance: Disease and Resistance: Poison
+
+#### Optional Background: Dwarven Hold
+
+You hail from a Dwarven Hold, either in the north of the Emerald Plane or one of the mountainous islands of the Haven Isles.
+
+- 10 ranks in two Technical skills
+- 10 ranks in Protocol
+- 10 ranks in Barter
+
+#### Optional Trait: Mycenaean
+
+#### Optional Background: Mycenaean Hold
 
 ### Gnomes
 

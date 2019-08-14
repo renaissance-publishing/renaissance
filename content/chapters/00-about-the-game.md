@@ -30,6 +30,9 @@ Changes since last time:
 - Added shields, woops.
 - reformatting in Items and Wealth.
 - Adding more assides in Items and Wealth.
+- rewriting and expanding a bunch of race blocks.
+  - Gnolls have a lot more text, and arctic gnolls are mentioned now.
+  - Greatly expanding Dwarves (they were stubbed), adding CV's Mycenaean Dwarves idea.
         
 
 Feedback Questions
@@ -93,8 +96,7 @@ To-Do:
 
 Editing Notes:
 
-  - I need to go through and use the term Tag consistently. And then
-    also re-work most entries to use Tags.
+  - I need to go through and use the term Tag consistently. And then also re-work most entries to use Tags.
 
   - Likewise, use “Check” consistently, as opposed to “Test”.
 
@@ -112,6 +114,7 @@ Editing Notes:
   - I’d like to use lower-case for race names (“orc” and “elf” instead
     of “Orc” and “Elf.” I was using caps for a long while tho, so much
     editing will be required.)
+      - I give up, I'm going back to caps-ing race names.
 
   - It’s spelled “orc” by the way.
 
@@ -138,13 +141,14 @@ Editing Notes:
       - Also, the two GM Guidance blocks so far are *really long*, so
         treating them like a sidebar might not work.
 
+  - ... does anyone know of a gender-neutral replacement for words like "craftsman" and "Swordsman" that won't also result in tortured language?
+
 Contributors:
 
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
-  - SeaVea: fort design, feedback on armor and weapons, new drake
-    history. Milestone system. Large weapon rework.
+  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.
   - King K: the Gnomes, Drugs, help with rep networks. A map\!
-  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website!
+  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
