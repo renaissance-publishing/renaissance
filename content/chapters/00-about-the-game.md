@@ -148,7 +148,7 @@ Contributors:
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
   - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.
-  - King K: the Gnomes, Drugs, help with rep networks. A map\!
+  - King K: the Gnomes, Drugs, help with rep networks. A map\!  Also work on the Mycenaean Dwarves.
   - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
