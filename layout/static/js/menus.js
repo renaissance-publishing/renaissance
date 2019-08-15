@@ -15,12 +15,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   menuGroups.forEach(menuGroupUlEl => {
     const menuLiItems = Array.from(menuGroupUlEl.children);
+    const parentUlEl = menuGroupUlEl;
+    const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
+    const parentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
+    const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
 
     menuLiItems.forEach((menuLiElement, menuIndex) => {
-      const parentUlEl = menuGroupUlEl;
-      const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
-      const parentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
-      const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
 
       menuLiElement.setAttribute('data-menuindex', menuIndex);
 
