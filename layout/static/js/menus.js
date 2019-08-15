@@ -25,17 +25,16 @@ document.addEventListener('DOMContentLoaded', () => {
       menuLiElement.setAttribute('data-menuindex', menuIndex);
 
       const getMenuItemByI = (j, el) => Array.from(el.children)
-                                          .find(child => Number(child.dataset.menuindex) === Number(j));
+        .find(child => Number(child.dataset.menuindex) === Number(j));
 
-      menuLiElement.addEventListener('keydown',e => {
-        const stop = () =>
-        {
+      menuLiElement.addEventListener('keydown', e => {
+        const stop = () => {
           e.stopPropagation();
           e.preventDefault();
         };
 
         switch (e.key) {
-          case 'ArrowDown':{
+          case 'ArrowDown': {
             // Get the item below the current one
             // If nothing is there, go ahead and get the parent one after the current parent
             stop();
@@ -66,7 +65,10 @@ document.addEventListener('DOMContentLoaded', () => {
           case 'ArrowRight':
             stop();
             if (!menuLiElement.dataset.haschildren) break;
-            const el = menuLiElement.querySelector(':scope > ul > li:first-child');
+            const el = Array.from(Array.from(menuLiElement.children)
+              .find(child => child.tagName === 'UL')
+              .children
+            )[0];
             if (!el) break;
             el.focus();
             break;
