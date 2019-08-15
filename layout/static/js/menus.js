@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
       menuLiElement.setAttribute('data-menuindex', menuIndex);
 
-      const getMenuItemByI = (j, el) => el.querySelector(`:scope > [data-menuindex="${j}"]`);
+      const getMenuItemByI = (j, el) => Array.from(el.children)
+                                          .find(child => Number(child.dataset.menuindex) === Number(j));
 
       menuLiElement.addEventListener('keydown',e => {
         const stop = () =>
