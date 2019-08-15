@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
           case ' ':
             stop();
             // Fall thru intentionally - make sure that right arrow isn't just clicking
-            if (!menuLiElement.dataset.haschildren) menuItem.click();
+            if (!menuLiElement.dataset.haschildren) menuLiElement.children[0].click();
           case 'ArrowRight':
             stop();
             if (!menuLiElement.dataset.haschildren) break;
