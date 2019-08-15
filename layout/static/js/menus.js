@@ -2,14 +2,6 @@
 // Let the DOM do it!
 // https://github.com/matteobad/focus-within-polyfill
 
-function getParentUlEl(menuItemEl) {
-  if (menuItemEl.parentElement.classList.contains('root-menu-list')) {
-    return menuItemEl.parentElement // This is the root menu
-  } else {
-    return menuItemEl.parentElement.parentElement // This is a submenuItem
-  }
-}
-
 document.addEventListener('DOMContentLoaded', () => {
   const menuGroups = Array.from(document.querySelectorAll('.dropdown-menu-list'));
 
