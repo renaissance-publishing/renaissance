@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const parentUlEl = menuGroupUlEl;
       const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
       const parentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
-      const grandParentUlEl = parentLiEl && parentLiEl.parentElement.parentElement; // If false, is root
+      const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
 
       menuLiElement.setAttribute('data-menuindex', menuIndex);
 
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             // If overflows, select menu below submenu
             let el = getMenuItemByI(menuIndex - 1, parentUlEl);
-            if (!el && !grandParentUlEl) el = getMenuItemByI(parentIndex - 1, grandParentUlEl);
+            if (!el && grandParentUlEl) el = getMenuItemByI(parentIndex - 1, grandParentUlEl);
             if (!el) break;
             el.focus();
             break;
