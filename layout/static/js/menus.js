@@ -2,42 +2,58 @@
 // Let the DOM do it!
 // https://github.com/matteobad/focus-within-polyfill
 
+function getParentUlEl(menuItemEl) {
+  if (menuItemEl.parentElement.classList.contains('root-menu-list')) {
+    return menuItemEl.parentElement // This is the root menu
+  } else {
+    return menuItemEl.parentElement.parentElement // This is a submenuItem
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
-  const menus = document.querySelectorAll('.dropdown-menu-list');
+  const menuGroups = Array.from(document.querySelectorAll('.dropdown-menu-list'));
 
-  menus.forEach((menu, i) => {
-    menu.id = `menu${i}`;
+  menuGroups.forEach(menuGroupUlEl => {
+    const menuLiItems = Array.from(menuGroupUlEl.children);
 
-    // Make iterable thruout tree so not just first level works
-    Array.from(menu.children).forEach((menuItem, ii) => {
-      menuItem.setAttribute('data-menuindex', ii);
+    menuLiItems.forEach((menuLiElement, menuIndex) => {
+      const parentUlEl = menuGroupUlEl;
+      const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
+      const parentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
+      const grandParentUlEl = parentLiEl && parentLiEl.parentElement.parentElement; // If false, is root
 
-      const getMenuItemByI = (j) => menu.querySelector(`[data-menuindex="${j}"]`);
+      menuLiElement.setAttribute('data-menuindex', menuIndex);
 
-      console.log(menuItem)
+      const getMenuItemByI = (j, el) => el.querySelector(`:scope > [data-menuindex="${j}"]`);
 
-
-
-      menuItem.addEventListener('keydown', e => {
-//      debugger;
-        const stop= () =>
+      menuLiElement.addEventListener('keydown',e => {
+        const stop = () =>
         {
           e.stopPropagation();
           e.preventDefault();
-        }
+        };
+
         switch (e.key) {
           case 'ArrowDown':{
+            // Get the item below the current one
+            // If nothing is there, go ahead and get the parent one after the current parent
             stop();
-            const el = getMenuItemByI(ii + 1) || document.querySelector(`#menu${menu.id + 1}`);
-            console.log(el);
+            let el = getMenuItemByI(menuIndex + 1, parentUlEl);
+            // If overflowing to the parent item below
+            if (!el && grandParentUlEl) el = getMenuItemByI(parentIndex + 1, grandParentUlEl);
+            // T'was root, still null. Break
+            if (!el) break;
             el.focus();
             break;
           }
           case 'ArrowUp': {
-            stop();
+            // stop();
+            e.stopPropagation();
+            e.preventDefault();
             // If overflows, select menu below submenu
-            const el = getMenuItemByI(ii - 1) || document.querySelector(`#menu${menu.id - 1}`);
-            console.log(el);
+            let el = getMenuItemByI(menuIndex - 1, parentUlEl);
+            if (!el && !grandParentUlEl) el = getMenuItemByI(parentIndex - 1, grandParentUlEl);
+            if (!el) break;
             el.focus();
             break;
           }
@@ -45,15 +61,19 @@ document.addEventListener('DOMContentLoaded', () => {
           case ' ':
             stop();
             // Fall thru intentionally - make sure that right arrow isn't just clicking
-            if (!menuItem.dataset.haschildren) menuItem.click();
+            if (!menuLiElement.dataset.haschildren) menuItem.click();
           case 'ArrowRight':
             stop();
-            if (!menuItem.dataset.haschildren) break;
-            menuItem.querySelector('.menu-children').focus();
+            if (!menuLiElement.dataset.haschildren) break;
+            const el = menuLiElement.querySelector(':scope > ul > li:first-child');
+            if (!el) break;
+            el.focus();
             break;
           case 'ArrowLeft': // Thing
+            // If root, don't do anything
+            if (!grandParentUlEl) break;
             stop();
-            getMenuItemByI(ii).focus();
+            getMenuItemByI(parentIndex, grandParentUlEl).focus();
             break;
           default:
             break;
