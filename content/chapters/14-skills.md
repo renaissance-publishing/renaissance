@@ -107,33 +107,30 @@ And there's nothing wrong with asking a player which skill they think applies, o
   - Animal Handling (SAV)
     
       - Active, Social
-      - Animal Handling is used as the “Social Skill for Animals”. It’s
-        used to coax animals into doing what you would like them to do
-        (to scare them of, for example), or to change their attitude
-        towards you (to earn their trust, for example).
-      - Animal Handling can be used to train an animal, but we don’t
-        provide detailed rules for that. This is generally best handled
-        either by purchasing a Class or Power (like Wildlander), or by
-        purchasing the animal companion as a Moderate or Major Item and
-        then building it using the rules for Followers.
-      - Sample Specialization: by a family of animals (canines, felines,
-        equines, etc.), or by role (combat, work, companion, riding)
+      - Animal Handling is used as the “Social Skill for Animals”. It’s used to coax animals into doing what you would like them to do (to scare them of, for example), or to change their attitude towards you (to earn their trust, for example).
+      - Animal Handling can be used to train an animal, but we don’t provide detailed rules for that. This is generally best handled either by purchasing a Class or Power (like Wildlander), or by purchasing the animal companion as a Moderate or Major Item and then building it using the rules for Followers.
+      - Sample Specialization: by a family of animals (canines, felines, equines, etc.), or by role (combat, work, companion, riding)
+      - Aryn wants to **scare off a mountain lion** that's threatening the group; she rolls her *Animal Handling*, versus the mountain lion's Resist Social Manipulation.
+      - The mountain lion has been shadowing the group, so Aryn decides to try to lure it to her and **befriend it**; she rolls her *Animal Handling* again, this time unopposed.
+      - Aryn decides to **train** the mountain lion **as a companion**; mountain lions can't normally be domesticated, so this is going to be tricky; the GM decides that this is a 30-shift Job, requiring an Animal Handling test with a -10 penalty.
 
   - Art (INT, Field Skill)
     
       - Active, Knowledge
       - Sample Fields: Literature, Painting, Sculpture, Theater
       - Specializations: by field
+      - River is pretending to be a minstrel, so he decides to spend some time **playing his flute in a bar** for money; this requires an *Art: Music* check.
+      - The adventure taps out River's finances, so he finds himself in the embarrassing situation of needing money: he makes a bargain with a tavern owner, a day spent playing for a day's lodging.  This doesn't require a check.
 
   - Athletics (SOM, Proficiency Skill)
     
       - Active, Movement, Physical
-      - Represents your characters’ general athletic ability, and the
-        specific list of athletic disciplines that you’re proficient
-        with.
+      - Represents your characters’ general athletic ability, and the specific list of athletic disciplines that you’re proficient with.
       - Also used as the movement skill for humanoid creatures.
-      - Example Proficiencies: Acrobatics, Climbing, Parkour, Sprinting,
-        Swimming, *specific sports*
+      - Example Proficiencies: Acrobatics, Climbing, Parkour, Sprinting, Swimming, *specific sports*
+      - Aryn is **chasing a suspect** through the streets of Tern City; this requires opposed Athletics checks.  They both have the Sprinting proficiency, so they both roll their Athletics skill (assuming they're both running flat-out); if Aryn wins, she'll gain on him.
+      - The suspect decides to try to trip Aryn up, so he knocks over a table behind him; Aryn wants to **vault** it, and she has the Parkour proficiency, so she rolls her *Athletics*.
+      - The suspect wants to **climb the wooden facade of a building**, but he doesn't have the *Climbing* proficiency, so he rolls his *Athletics* with a penalty.
 
   - Barter (SAV)
     
@@ -152,8 +149,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
     
       - Active, Mental
       - Your ability to manipulate your own natural magical energy.
-      - Primarily used with sleights that require tests, or to develop
-        new sleights.
+      - Primarily used with sleights that require tests, or to develop new sleights.
       - Example Specialization: by power
 
   - Craft (COG, Field Skill)
@@ -219,7 +215,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Your general-use defense skill, representing your ability to avoid attacks.
       - Can also be used to test your ability to dodge and evade.
 
-  - Fly (COO)
+  - ~~Fly (COO)~~
     
       - Active, Movement, Physical
       - Used to represent your character’s skill at flying and areal maneuvering.
