@@ -557,6 +557,7 @@ on the down side, however, this means that someone who is familiar with these ch
 | Maneuver | You perform a given *combat maneuver* |
 
 | Bonus | Effect | Requirement |
+| ----- | ------ | ----------- |
 | Might | the next Strike or Maneuver in the chain gains +DB DV | |
 | Precision | You gain +10 to *attack* skill checks require by the rest of the chain. | can only be taken up to twice. |
 | Deftness | Your next Step or Stunt does not provoke | |
