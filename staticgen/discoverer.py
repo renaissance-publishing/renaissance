@@ -105,9 +105,12 @@ class Discoverer(object):
 
     @property
     def branches(self) -> List[Branch]:
+        def p(x):
+            return (x == b'source' or x[0] == b'v')
+        
         return sorted(
             lmap(partial(Branch.from_tuple, self.repo),
-                 omit(self.repo.refs.as_dict(b'refs/remotes/origin'), [b'master', b'HEAD']).items()), reverse=True)
+                 filter(p, self.repo.refs.as_dict(b'refs/remotes/origin')).items()), reverse=True)
 
     @property
     def current_branch(self) -> Branch:
