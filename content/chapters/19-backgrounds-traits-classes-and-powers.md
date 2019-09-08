@@ -535,19 +535,26 @@ On the plus side, this allows you to perform complex *chains* efficiently and po
 on the down side, however, this means that someone who is familiar with these chains--possibly because they've fought you before, or because they're familiar with the school or unit you learned them from--can reliably predict what you're going to do.
 
 - **Requires:** 20 ranks in two *Combat* skills.
-- **Effect:** You can learn a number of *chains*; each chain provides bonuses that build with each successfull step.
+- **Effect:** You can learn a number of *chains*; each chain provides bonuses that build with each successful step.
 - **Special:** When you acquire this class, you get two chains.  You may purchase more chains for 5 CP (during character creation) or 5 Rez (while leveling) per chain.  You may have up to 6 chains.
 - **Chain Basics**
   - Each chain consists of between 3 and 5 individual steps, or *links*.
-  - Each *link* has an associated bonus; when you successfully complete a link, you gain its bonus.
-  - The power of a chain lies in your ability to carry through it rapidly and precisely; you must proceed from step to step without interruption, or the chain is broken and the benefits are lost.  A chain is *interrupted* if you take an action that is not part of the chain, or go through a turn without performing a link.
+  - Each *link* has an associated bonus; when you successfully complete a link, you gain its bonus.  (The last link doesn't have a bonus, because there isn't a following link for it to apply to.)
+  - The power of a chain lies in your ability to carry through it rapidly and precisely; you must proceed from link to link without interruption, or the chain is broken and the benefits are lost.  A chain is *interrupted* if you take an action that is not part of the chain, or go through a turn without performing a link.
   - Some actions by other characters may also interrupt your chain; it does not necessarily interrupt your chain if you are successfully attacked, but it would interrupt your chain if you where *knocked down* as a result of an attack.
+  - Taking a *Reaction* interrupts the chain.  Since defending with Fray isn't a reaction, you can do that without interrupting the chain; since parrying is a reaction, parrying will break the chain, unless you're fulfilling a Defend link.
 - **Creating Chains**
-  - to create a chain, simply pick between 3 and 5 links from the list below, and then pick a bonus for each link.
-  - You must specify the details of each *link*.  For a strike, for example, you must speicfy the weapon you're using and the angle of the attack; for a motion, you must specify the movement mode, and how far you're moving.  You don't have to go into excrutiating detail, you just need to provide enough information so that you and the GM can tell what has clearly satisfied the requirements of the link and what has not. (For example, "I step around my opponent" or "I step back a space")
+  - to create a chain, simply pick between 3 and 5 links from the list below, and then pick a bonus for each link (except the last).
+  - You must specify the details of each *link*.  For a strike, for example, you must specify the weapon you're using and the angle of the attack; for a motion, you must specify the movement mode, and how far you're moving.
+  You don't have to go into exhausting detail, you just need to provide enough information so that you and the GM can tell what has clearly satisfied the requirements of the link and what has not.
+  (For example, "I step back a space," "I thrust forward with my sword," "I make a rising block," and so on)
   - Some bonuses have special restrictions or requirements.
 - *Clarification:* chains take several actions and will usually span several turns; a chain doesn't allow you to shoot through all the links in one turn.
 - **Special:** Players may propose their own links and bonuses, although these require the GM's approval.
+- **Flourishes:** You don't pick a bonus for the last link, since there's no following link for it to apply to; you can, however, pick a *flourish* for it.
+A *flourish* is represents some minor movement that completes the chain--a return-to-ready motion, a specific stance, a weapon twirl, or some other minor touch.
+Mechanically, flourishes provide a minor benefit for completing the chain.
+Sample flourishes are given in the table below.
 
 | Link | Effect |
 | ---- | ------ |
@@ -555,6 +562,7 @@ on the down side, however, this means that someone who is familiar with these ch
 | Step | You move with one of your movement modes. (You can specify how far.) |
 | Stunt | You perform a difficult stunt.  (This could range from something as simple as a forward roll to something as complex as a spinning flip.) |
 | Maneuver | You perform a given *combat maneuver* |
+| Defend | You defend against an attack (with Fray, by parrying, or some other way; you must specify which). |
 
 | Bonus | Effect | Requirement |
 | ----- | ------ | ----------- |
@@ -563,6 +571,12 @@ on the down side, however, this means that someone who is familiar with these ch
 | Deftness | Your next Step or Stunt does not provoke | |
 | Evasion | You gain +10 to your defense checks for the rest of the chain. | can only be selected up to twice. |
 | Sway | You gain +30 to your defense checks against a specified target until after the next link. | |
+
+| Flourish | Effect |
+| -------- | ------ |
+| Display | You adopt a visually striking stance, twirl a weapon, or otherwise demonstrate your prowess--which is all the more effective because you've just run through a chain.  You can roll your *Intimidate* against your opponent's Resist Social Manipulation; if you win, they suffer a -10 penalty to their attacks against you. |
+| Ready | Your chain ends with you in an advantageous, ready position; you gain a +10 bonus to your *Combat* skills until the end of your next turn. |
+| Initiative | You've put your opponent in a difficult position, put them off-balance, or otherwise stumbled them.  Your opponent reduces their INIT by 3. |
 
 ### Ideas:
 
@@ -1232,7 +1246,7 @@ You have developed a kind of battle-trance, in which your combat instincts are h
 While centered, you strike with extra force.
 
 - **Requirements:** the *Center* power, 20 ranks in Control
-- **Effect:** While sustaining Center, You gain +Trance Bonus to your DV.
+- **Effect:** WhilStance | You adopt a e sustaining Center, You gain +Trance Bonus to your DV.
 
 #### Centered Defence
 
