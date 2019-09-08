@@ -29,11 +29,14 @@ Changes since last time:
 
 - Added shields, woops.
 - reformatting in Items and Wealth.
-- Adding more assides in Items and Wealth.
+- Adding more asides in Items and Wealth.
 - rewriting and expanding a bunch of race blocks.
   - Gnolls have a lot more text, and arctic gnolls are mentioned now.
   - Greatly expanding Dwarves (they were stubbed), adding CV's Mycenaean Dwarves idea.
-        
+- Added guidance about custom classes, items and powers.
+- Added a few of CV's powers.
+- Started reworking the wealth section.
+- Started adding examples to the skills section.
 
 Feedback Questions
 
