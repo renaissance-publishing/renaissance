@@ -125,7 +125,7 @@ Combat is a special case of Turn Order play, using the following rules:
         
           - You can use your own melee attack skills to defend against
             melee attacks (assuming you have an appropriate weapon to
-            use, of course).
+            use, of course).  We refer to this as *parrying*.
             
               - For example, If you have a sword, you can use your
                 One-Handed Weapons to defend against someone attacking
@@ -135,6 +135,8 @@ Combat is a special case of Turn Order play, using the following rules:
                 defend in this way, too; however, you will be at a
                 disadvantage against an armed opponent, see *Unarmed
                 Combat and Natural Weapons* below.
+
+          - Defending with Fray is not a *reaction,* but parrying *is*.  See *Reactions,* below.
         
           - Sometimes you can defend with movement skills, like
             Athletics; see *Full Defense* in *Unsorted Rules,* below.
@@ -522,6 +524,11 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
         their movement, unless you also incapacitate them with your
         attack (by knocking them over for example).
       - An Attack of Opportunity is a Reaction.
+
+  - Defending:
+      
+      - Defending with Fray is not a reaction, but
+      - defending by parrying *is*.
 
   - Reacting to Events
     
