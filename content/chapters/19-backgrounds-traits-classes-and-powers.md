@@ -1299,3 +1299,14 @@ Maybe you've been thrown in jail more than once, maybe this isn't the first meet
 - **Effect:** When you are *bound*, you can still make an unarmed attack against someone who comes within reach, using all the normal rules for an unarmed attack.
 - **Special:** You can't use this power if you are *completely* bound--such as if you are enclosed in something like an iron maiden.
 - **Special:** Critical hits with this attack may weaken or break weaker bindings, like ropes.
+
+#### Burried Alive
+
+The stuff of nightmares in Goblinoid territories, a creature that can burrow through the ground can erupt from below and drag an opponent down, partly collapsing the tunnel behind them to trap their victim.
+This can either simply *immobilize* the target, or be rapidly fatal, based on whether or not their head has been buried (or, for non-humanoid creatures, wherever they breath through).
+
+- **Requirements:** A burrow speed, 20 ranks in Unarmed Combat
+- **Action:** Standard Action (Maneuver)
+- **Effect:** Roll your Unarmed Combat, against your opponents Feat of Strength or React Quickly; you suffer a -20 modifier.  If you succeed, you haul your target into your tunnel and partially collapse it.  This immobilizes them.
+- **Special:** You must be burrowing near the surface, either adjacent to or directly beneath your opponent to use this power.
+- **Special:** Instead of immobilizing your opponent, you can instead attempt to completely burry them.  This is more difficult, so you take an additional -10 penalty; if you succeed, though, they will soon begin to suffocate.
