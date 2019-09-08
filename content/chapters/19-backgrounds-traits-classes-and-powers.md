@@ -528,7 +528,42 @@ Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a
       - You may also design your own companion, although your GM must
         approve of the creature you create.
 
-Ideas:
+#### Drilled Fighter
+
+You have drilled some set of combat maneuvers to the point that they have become wrote.
+On the plus side, this allows you to perform complex *chains* efficiently and powerfully;
+on the down side, however, this means that someone who is familiar with these chains--possibly because they've fought you before, or because they're familiar with the school or unit you learned them from--can reliably predict what you're going to do.
+
+- **Requires:** 20 ranks in two *Combat* skills.
+- **Effect:** You can learn a number of *chains*; each chain provides bonuses that build with each successfull step.
+- **Special:** When you acquire this class, you get two chains.  You may purchase more chains for 5 CP (during character creation) or 5 Rez (while leveling) per chain.  You may have up to 6 chains.
+- **Chain Basics**
+  - Each chain consists of between 3 and 5 individual steps, or *links*.
+  - Each *link* has an associated bonus; when you successfully complete a link, you gain its bonus.
+  - The power of a chain lies in your ability to carry through it rapidly and precisely; you must proceed from step to step without interruption, or the chain is broken and the benefits are lost.  A chain is *interrupted* if you take an action that is not part of the chain, or go through a turn without performing a link.
+  - Some actions by other characters may also interrupt your chain; it does not necessarily interrupt your chain if you are successfully attacked, but it would interrupt your chain if you where *knocked down* as a result of an attack.
+- **Creating Chains**
+  - to create a chain, simply pick between 3 and 5 links from the list below, and then pick a bonus for each link.
+  - You must specify the details of each *link*.  For a strike, for example, you must speicfy the weapon you're using and the angle of the attack; for a motion, you must specify the movement mode, and how far you're moving.  You don't have to go into excrutiating detail, you just need to provide enough information so that you and the GM can tell what has clearly satisfied the requirements of the link and what has not. (For example, "I step around my opponent" or "I step back a space")
+  - Some bonuses have special restrictions or requirements.
+- *Clarification:* chains take several actions and will usually span several turns; a chain doesn't allow you to shoot through all the links in one turn.
+- **Special:** Players may propose their own links and bonuses, although these require the GM's approval.
+
+| Link | Effect |
+| ---- | ------ |
+| Strike | You attack with a given weapon. |
+| Step | You move with one of your movement modes. (You can specify how far.) |
+| Stunt | You perform a difficult stunt.  (This could range from something as simple as a forward roll to something as complex as a spinning flip.) |
+| Maneuver | You perform a given *combat maneuver* |
+
+| Bonus | Effect | Requirement |
+| Might | the next Strike or Maneuver in the chain gains +DB DV | |
+| Precision | You gain +10 to *attack* skill checks require by the rest of the chain. | can only be taken up to twice. |
+| Deftness | Your next Step or Stunt does not provoke | |
+| Evasion | You gain +10 to your defense checks for the rest of the chain. | can only be selected up to twice. |
+| Sway | You gain +30 to your defense checks against a specified target until after the next link. | |
+
+### Ideas:
 
   - Duelist
   - Explorer
@@ -1147,3 +1182,105 @@ You can inspire others to bravery and heroism even in the direst of circumstance
   - Normally, in order for a character to be inspired, they would need to understand what you are doing--an inspiring speech is useless to someone who doesn't speak your language.  However, some methods of inspiring bravery are universal: delivering a defiant roar can be inspiring without any language or culture in common at all.
 - **Special:** The GM may allow you to inspire those around you if you do something particularly heroic: it might be inspiring just to see you burst out of bonds or rise again in spite of grievous wounds.
 
+#### Diving Strike
+
+You've perfected a diving strike, using the momentum of your fall to strengthen your attack.
+
+- **Requires:** 10 ranks in Athletics, 10 ranks in a *melee combat* skill.
+- **Action:** Quick Action (Movement)
+- **Effect:** When you drop down on a target from above, you are considered to be charging; you deal the bonus damage for your charge if you fall more than 1 meter.  (This uses all the normal rules for falling and for charging.)
+
+#### Reckless Dive
+
+Through some mix of talent, luck, bravery and foolishness, you can drop on targets from great heights, and usually hurt them a lot worse than you hurt yourself.
+
+- **Requires:** the *Diving Strike* power, 20 ranks in Athletics
+- **Effect:** When you make a Diving Strike, any fall damage that you take is also added to your attack's damage.  (You still take the given fall damage.)
+  - For example, if you take 1d10 damage from your fall, your attack does 1d10 extra damage.
+
+#### Rough Landing
+
+Luckily, your opponent broke your fall!
+
+- **Requires:** the *Reckless Dive* power, 20 ranks in Athletics
+- **Effect:** When you use your Reckless Dive power, you may reduce the damage that you take by 1d10; your opponent still takes the full falling damage.
+  - For example, if you would take 2d10 DV of falling damage, but you make a Diving Strike onto your opponent, then you only take 1d10 DV, but they take your weapon attack, plus 2d10 from the Reckless Dive, plus your DB because your diving strike counts as a charge (since you almost certainly fell more than 1m if you're taking falling damage).
+
+#### Acrobatic Strike
+
+By kicking off walls, flipping over obstacles or otherwise acrobatically exploiting your environment, you can build up a lot of momentum in a short space.
+
+- **Requires** 20 ranks in Athletics, 10 ranks in a *melee combat* skill.
+- **Action** Varies (stunt, movement)
+- **Effect:** When you make an appropriate *stunt move,* you are considered to be charging.  If you succeed on the movement check required for the stunt (this would normally be an Athletics check for a humanoid character), you deal your charge's bonus damage.
+  - An "appropriate" stunt move might include kicking off a wall to strike your opponent from above, or making a running dive over an obstacle.
+
+#### Center
+
+Slow down.  Take a breath, in and then out.  Forget your cause, forget your opponent.  Feel the wapon, move with it, *strike*.
+
+You have developed a kind of battle-trance, in which your combat instincts are heightened.
+
+- **Requires:** 10 Ranks in Control, 10 ranks in a combat skill.
+- **Action:** Sustained.
+- **Effect:** Your Trance Bonus is your equal to your ranks in Control ÷ 10.  You gain your Trance Bonus to your INIT.
+- **Special:** No Control test is required to activate this power, although one would likely be required to *sustain* it should you suffer a wound, or should some other sufficiently distracting event occur.
+
+#### Centered Strike
+
+While centered, you strike with extra force.
+
+- **Requirements:** the *Center* power, 20 ranks in Control
+- **Effect:** While sustaining Center, You gain +Trance Bonus to your DV.
+
+#### Centered Defence
+
+While centered, your defence is improved.
+
+- **Requirements:** the *Center* power, 20 ranks in Control, 10 ranks in Fray
+- **Effect:** While sustaining *Center*, you gain +10 to your defence.
+
+#### Denial
+
+While in your battle-trance, your defence is nearly perfect.
+
+- **Requirements:** the *Centered Defence* power, 20 ranks in Fray
+- **Effect:** If you are subject to an attack that you could defend against with Fray while sustaining Center, you may, as a reaction, have that attack fail.  (Since this is a reaction, you can normally only do this once per turn.)
+
+#### Shieldwall
+
+You are expert in the use of large shields, and your defence with them is extraordinary.
+
+- **Requirements:** 20 ranks in Fray
+- **Effect:** If you are using a Heater Shield, Tower Shield or similar large shield, then, while using a Full Defense action, you are considered to be in cover from direction of your shield.  (This means that you cannot be directly attacked from that side.)
+  - Shieldwall cannot be used to defend against effects that would completely overwhelm you, like large explosions or seige weapons.
+  - While an opponent cannot attack you directly, they might attempt to take the shield from you (by trying to grab it, for example, which might be represented by a Disarm maneuver.)
+
+
+#### Brawler's Instinct
+
+Through years of experience with front-line combat, tavern brawls, law enforcement--or only Great Spirits know what else--you've gained a good instinct for when someone is about to start a fight.
+
+- **Requirement:** 10 ranks in Perception, 10 ranks in two *combat* skills.
+- **Effect:** You do not take the Passive Test penalty to passive Perception and Read tests made against those who are planning to attack you.
+
+#### Brawler's Sense
+
+Your fighter's instinct has been honed to the point that it's almost a sixth sense--or seventh or fifth, it depends on how many sense your race normally has...
+
+- **Requirements:** 20 ranks in Perception, 20 ranks in Unarmed Combat
+- **Action:** Sustained
+- **Effect:** While sustaining this power, you gain *Brawler's Sense* as a sense.
+  - This sense allows you to gain enough information about a nearby enemy that you can fight them effectively, even if you can't actually see them.
+  - This sense always requires a perception check to use, and you must have *some* ability to perceive your opponent(s) (like being able to hear or smell them).
+  - What is *nearby* is up to the GM.  Usually, any opponent within 3m is "nearby," and enemies further away may be perceptible with an additional penalty.
+
+#### Bound Fighter
+
+Maybe you've been thrown in jail more than once, maybe this isn't the first meeting you've had with gangsters, or maybe you've been captured before; in any case, you've gotten pretty good at fighting while you're tied up.
+
+- **Requirements:** 20 ranks in Unarmed Combat
+- **Action:** Standard Action
+- **Effect:** When you are *bound*, you can still make an unarmed attack against someone who comes within reach, using all the normal rules for an unarmed attack.
+- **Special:** You can't use this power if you are *completely* bound--such as if you are enclosed in something like an iron maiden.
+- **Special:** Critical hits with this attack may weaken or break weaker bindings, like ropes.
