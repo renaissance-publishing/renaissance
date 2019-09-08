@@ -106,7 +106,7 @@ class Discoverer(object):
     @property
     def branches(self) -> List[Branch]:
         def p(x):
-            return (x[0] == b'source' or x[0][0] == b'v')
+            return (x[0] == b'source' or x[0][0] == ord('v'))
         
         return sorted(
             lmap(partial(Branch.from_tuple, self.repo),
