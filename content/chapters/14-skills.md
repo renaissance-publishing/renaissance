@@ -132,7 +132,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - The suspect decides to try to trip Aryn up, so he knocks over a table behind him; Aryn wants to **vault** it, and she has the Parkour proficiency, so she rolls her *Athletics*.
       - The suspect wants to **climb the wooden facade of a building**, but he doesn't have the *Climbing* proficiency, so he rolls his *Athletics* with a penalty.
 
-  - Barter (SAV)
+  - ~~Barter (SAV)~~
     
       - Active, Social, Technical, Trade
       - Your ability to acquire things you need (or want) at a good
