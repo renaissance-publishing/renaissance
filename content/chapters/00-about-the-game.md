@@ -37,6 +37,7 @@ Changes since last time:
 - Added a few of CV's powers.
 - Started reworking the wealth section.
 - Started adding examples to the skills section.
+- *Finished* reworking the wealth section!  Added Cash, added trade goods, removed barter.
 
 Feedback Questions
 
