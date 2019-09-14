@@ -492,7 +492,7 @@ wielding such a weapon.
 
 Similar to Vulnerability, some weapons, though they may be effective,
 hinder your ability to move about; these weapons have the **Awkward**
-tag. Awkward weapons impose a -10 penalty to* movement skills* while you
+tag. Awkward weapons impose a -10 penalty to *movement skills* while you
 are wielding them.
 
 Some weapons, commonly pole-arms, have a particularly long reach, which
@@ -1273,15 +1273,17 @@ holds and aims the weapon while the other touches it off.
 The Commonwealth are the heaviest users of these weapons, with the
 Goblin Empire being a close second.
 
-Tags: Two-Handed, Ranged, Difficult, Vulnerable, Awkward, Reload, Loud
+**Tags:** Two-Handed, Ranged, Difficult, Vulnerable, Awkward, Reload, Loud, Pair
 
-Damage: 3d10
+**Damage:** 3d10+2
 
-AP: 7
+**AP:** 7
 
-Range: 25m/50m/125m/200m
+**Range:** 25m/50m/125m/200m
 
-Reload: 5 Standard Actions
+**Reload:** 4 Standard Actions
+
+**Special:** If you have a partner helping you operate the weapon, then it looses the Difficult tag (as it is easy for you to aim, and easy for them to fire).  Working with a partner, you can also reload a hand-cannon with only two Standard Actions.
 
 ### Whip
 
