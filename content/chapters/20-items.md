@@ -284,12 +284,12 @@ Drawbacks: None
 
 Tags: Stealthy
 
-### Mail Armour
+### Mail Armor
 
 A flexible covering of metal made of interlocking rings. Intricate, but
 relatively quick to weave and manufacture from the proper wire stock and
 effective at stretching limited supplies of metal. Though its
-flexibility makes it easier to wear, chainmail hangs heavily from the
+flexibility makes it easier to wear, mail hangs heavily from the
 wearer and is less effective at dispersing impacts.
 
 Armor Value: 5 AV
@@ -1155,9 +1155,9 @@ battlefield.
 Tags: Two-Handed, Ranged, Easy, Prone, Reload, Specialist Ammunition,
 Overcharge
 
-Damage: 1d10+4 (standard) 2d10+8 (overcharge)
+Damage: 1d10+4 (standard), 2d10+8 (overcharge)
 
-AP: 6 (standard) 8 (overcharge)
+AP: 6 (standard), 8 (overcharge)
 
 Range: 50/100/200/300
 
