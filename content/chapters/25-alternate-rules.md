@@ -127,61 +127,99 @@ rules, for one reason or another.
 
 ## Guns
 
-  - We don’t include guns in the main game, as, if they’re done remotely
-    realistically, they change the game dramatically.
-  - In particular, they’re likely to make bows and arrows irrelevant.
-  - Still, simple guns (like blunderbusses) are features of many fantasy
-    setting and archetypes, so we’ve decided to provide sample gun rules
-    here.
-  - Guns are handled using the Projectile Weapons skill.
-  - Guns are usually loaded by ramming black powder and a ball or
-    canister down the barrel; this is usually a Standard Action.
-  - The powder is ruined if it gets wet—although it can be stored in
-    water-tight containers. Obviously, guns cannot be fired or loaded
-    under water.
-  - Once you know how to do it, the chemistry to produce black powder
-    isn’t particularly difficult. Black powder can be produced with a
-    Craft: Chemistry check, with a +10 modifier.
-  - 10 balls and enough black powder to fire them can be purchased for
-    Cost: Low.
-  - If these rules are used, then the hand-cannon is the only weapon
-    that has seen any large-scale deployment, and even then it has only
-    been deployed by the Commonwealth.
+Guns have little presence in the core rules: the Dragon's Ace and Hand-Cannon are the only two listed, and both are exotic weapons.
+In CY 830, cannons exist, but are large and awkward, and are only used in siegecraft; man-portable guns also exist, represented by the hand-cannon, but are awkward and are only beginning to see deployment.
 
-  - Blunderbuss
-    
-      - Blunderbusses are short-barreled weapons with fluted ends; they
-        aren’t particularly accurate, and are usually used to fire
-        (scatter)shot—although they can also be loaded with other
-        projectiles as well. Some examples are given below.
-      - Ball: 2d10 DV, AP -5
-      - Scatter: 1d10+1 DV, AP -1, splash 3m
-      - Scour Canister: 3m splash, covers targets with Scour.
-      - Range: short 15m / medium 25m / long 35m
-      - Reload: Standard Action
-      - Tags: Loud, Prone, Two-Handed
+Still, there are types of firearms that, though perhaps decades or centuries from development and wide deployment, are not beyond the capabilities of the Commonwealth to manufacture—and, more importantly, blunderbusses and muskets have a long history in fantasy.
+Guns more advanced than the hand-cannon can be included without too much disruption; some examples are given below.
 
-  - Dragon
-    
-      - The Dragon is the short, one-handed version of the Blunderbuss.
-        It uses lighter loads and smaller projectiles.
-      - Ball: 1d10+2 DV, AP -3
-      - Scatter: 1d10-2 DV, AP -1, splash 3m
-      - Scour Canister: 2m splash, covers targets with Scour.
-      - Range: short 10m / medium 20m / long 30m
-      - Reload: Standard Action
-      - Tags: Loud, One-Handed, Prone
+Guns are handled using the Ranged Weapons skill, with the Guns proficiency.
+Much like crossbows, guns must be reloaded after being fired;
+guns are usually loaded by ramming black powder and a ball or canister down the barrel.
+Also like crossbows—modern heavy crossbows in particular—reloading guns can be a time-consuming process.
 
-  - Musket
-    
-      - A musket is a long-gun that fires a single ball. While their
-        wounds are gruesome, they are even more notable for being very
-        effective at penetrating armor.
-      - Muskets do 3d10 DV, and have AP -7
-      - Range: short 20m / medium 30m / long 40m / extreme 50m
-      - Reload: Standard Action
-      - Tags: Loud, Prone, Two-Handed, Vulnerable
+### Shot and Gunpowder
 
+Guns require both shot and gunpowder to fire.
+Gunpowder is ruined if it gets wet, so it is usually stored in water-resistant containers.
+Obviously, guns cannot be fired or loaded under water.
+
+Normally, we don't track how much ammo you have for an ammo-consuming weapon; guns are a slightly special case.
+We don't track how much "basic" ammo you have, but we *do* track how much gunpowder your character has.
+This is because gunpowder is difficult to produce (compared to an arrow), because it is easily ruined (by moisture), and because gunpowder has significant secondary uses (it can be used as an explosive rather than fired, for example).
+
+Enough gunpowder to fire 10 rounds is Cost: Low.
+
+We track how much special ammo you have as normal.
+Firing special ammo uses up gunpowder the same way firing basic ammo does.
+
+### Gunsmithing
+
+Just like any other item, guns, gunpowder, and ammo can be produced by players using the rules for crafting.
+Guns and ammo can be produced using Craft: Smithing, and gunpowder can be produced with Craft: Alchemy.
+Guns are difficult to produce, so they incur a -10 penalty; gunpowder, however, is not complex to produce, and so enjoys a +10 bonus.
+
+Alternatively, when using these optional rules, *Gunsmithing* can be taken as a craft field; *gunsmithing* covers the production of guns, ammo, and gunpowder.
+When producing a gun with Craft: Gunsmithing, you do not take the -10 penalty given above.
+
+### Guns
+
+#### Blunderbuss
+
+Blunderbussses are two-handed, short-barreled weapons with fluted ends.
+They aren’t particularly accurate and they don't have great range, but they are compact, easy to use and deadly at close-range.
+They are usually used to fire (scatter)shot, although they can also be loaded with other projectiles as well.
+
+Blunderbusses are called "thunder-javelins" in Common.
+
+**Tags:** Easy, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+
+**Range:** 15m / 25m / 35m
+
+**Reload:** 2 Standard Actions
+
+**Ammo:**
+
+- Ball: 2d10 DV, AP -5.  Cost: None (standard ammo)
+- Scatter: 1d10+1 DV, AP -1, splash 3m.  Cost: None (standard ammo)
+- Scour Canister: 3m splash, covers targets with Scour.  Cost: Moderate per 10
+
+#### Dragon
+
+The Dragon is the short, one-handed version of the Blunderbuss.
+It uses lighter loads and smaller projectiles.
+
+These weapons are called "thunder-darts" in Common.
+
+**Tags:** Easy, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+
+**Range:** 10m / 20m / 30m
+
+**Reload:** 2 Standard Actions
+
+**Ammo:**
+
+- Ball: 1d10+3 DV, AP -4.  Cost: None (standard ammo)
+- Scatter: 1d10-1 DV, AP -1, splash 2m.  Cost: None (standard ammo)
+- Scour Canister: 2m splash, covers targets with Scour.  Cost: Moderate per 10
+
+#### Musket
+
+A musket is a long-barrelled weapon that fires a lead ball from its smooth barrel.
+Though large weapons, they are far superior to hand-cannons; their much longer barrels make them far more accurate, and their trigger and flintlock firing mechanism makes it much easier for one person to aim and fire them.
+While their wounds are gruesome, they are even more notable for being very effective at penetrating armor.
+
+**Tags:** Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+
+**Damage:** 3d10+2 DV
+
+**AP:** -7
+
+**Range:** 30mm / 60m / 120m / 180m
+
+**Reload:** 2 Standard Actions
+
+<!-- The hand-cannon was added as an example weapon.
   - Hand Cannon
     
       - It’s supposed to be an arquebus, but we’re trying to use literal
@@ -197,7 +235,9 @@ rules, for one reason or another.
       - Reload: 5 turns (May reduce, since there isn’t a reason this
         should take 5 times as long to reload as a musket.)
       - Tags: Loud, Prone, Two-Handed, Vulnerable
+-->
 
+<!-- the Star Trek RPG is not copylefted, and this isn't a great port of the momentum-and-threat rules anyway.
 ## Momentum and Threat
 
   - Sometimes you score a critical success on a boring and uninteresting
@@ -271,6 +311,7 @@ rules, for one reason or another.
 
   - If anyone has some other suggestions for ways to spend Momentum,
     that’d be rad.
+-->
 
 ## Raw Materials
 
@@ -307,6 +348,7 @@ rules, for one reason or another.
         cost more than a Moderate item and be more than Heavy, so Craft:
         Masonry Raw Materials might not be allowed.
 
+<!-- These rules where mainlined
 ## Reactions
 
   - Consider a caster-character standing behind and to the side of a
@@ -344,6 +386,7 @@ rules, for one reason or another.
         their movement, unless you also incapacitate them with your
         attack (by knocking them over for example).
       - An Attack of Opportunity is a Reaction.
+-->
 
 ## Reputation
 
@@ -590,105 +633,3 @@ rules, for one reason or another.
     
       - You cannot call in favors from an organization that you are
         Wanted by (that is, that you purchased this trait for).
-
-## Special Attacks
-
-  - Any skilled melee combatant will have developed a repertoire of
-    useful tricks, more than simply *sticking pointy end in other
-    fighter.* We call these *strikes* and *maneuvers*.
-    
-      - A *strike* is a modification to a normal attack. To make a
-        strike, you take a penalty on your attack; if you score an
-        Exceptional Success, in addition to the normal affects of the
-        attack, you gain the listed Result.
-        
-          - You decide if your attack is going to be a strike before you
-            make it (since you have to take a penalty on the attack).
-          - An attack can only be one kind of Strike. (You can’t take a
-            -20 penalty to have an attack be both a Called Shot and a
-            Knock Down.)
-    
-      - A *maneuver* is a separate action; it isn’t made as part of an
-        attack.
-        
-          - Each maneuver will list the type of action required, the
-            check, and the result if you succeed.
-    
-      - The following list is by no means exhaustive; players and GMs
-        should feel free to devise and attempt new during play.
-
-### Strikes
-
-  - Called Shot
-    
-      - Penalty: -10
-      - Result: you strike the target in a specified location (you pick
-        the location before your attack).
-      - This one is a catch-all, with results up to the GM.
-      - Special: the attack gains the Precision tag
-
-  - Knock Down
-    
-      - Penalty: -10
-      - Result: your opponent must attempt a SOM×2 check or be knocked
-        *prone*.
-      - Special: must be a melee attack.
-
-  - Maim
-    
-      - Penalty: -20
-      - Result: You maim your opponent, removing a specific limb. You
-        can use this to lop off a hand, break a knee or gouge out an
-        eye.
-      - Special: the attack gains the Precision tag.
-
-  - Mighty Blow
-    
-      - Penalty: -10
-      - Result: You strike your opponent with particular force; you gain
-        +DB to your DV.
-      - Special: must be a melee attack.
-
-  - Strike an Armor Gap
-    
-      - Penalty: -10
-      - Result: You strike a weak spot in the opponent’s Armor; you gain
-        +DB to your AP.
-      - Special: the attack gains the Precision tag.
-
-### Maneuvers
-
-  - Disarm
-    
-      - Action: Standard Action
-      - Test: Your melee attack skill vs. target’s melee attack skill or
-        Fray
-      - Result: If you succeed, then you disarm your opponent, forcing
-        them to drop one held item (like a weapon or shield).
-
-  - Feint
-    
-      - Action: Quick Action
-      - Test: Your Deception vs. target’s Resist Social Manipulation or
-        Read
-      - Result: until the beginning of their next turn, the target takes
-        a -20 penalty to their defense.
-
-  - Grabbing
-    
-      - Action: Standard Action
-      - Test: your Unarmed Combat vs. target’s Fray or Unarmed Combat.
-      - Result: you grab the opponent, impeding them. They cannot easily
-        act.
-      - The results are at the GM’s discretion, but normally grabbed
-        characters cannot take any other actions besides attempting to
-        escape the grab.
-      - A grabbed character can attempt to break a grapple, using either
-        their Unarmed Combat or their STR+SOM, versus the Unarmed Combat
-        of the character grabbing them. If they win, they break free.
-
-  - Trip
-    
-      - Action: Standard Action
-      - Test: your melee attack skill vs. target’s Fray
-      - Result: You trip your opponent, causing them to fall prone.
