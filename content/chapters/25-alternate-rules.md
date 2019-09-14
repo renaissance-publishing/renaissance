@@ -219,6 +219,27 @@ While their wounds are gruesome, they are even more notable for being very effec
 
 **Reload:** 2 Standard Actions
 
+#### Trio
+
+This unusual, finely-craft weapon represents an attempt to overcome the low firing-rate of muzzle-loaded weapons.
+It's multiple barrels must be carefully crafted out of high-quality materials, in order to make sure that they are light enough to carry without being so thin that they are likely to rupture (especially as the weapon heats up).
+The desire to save weight has also lead to a shortening of the barrel and a lightening of the projectile, which incurs other sacrifices.
+The weapon also uses touch-holes to fire, keeping track of each touch-hole on each of the three barrels can be slightly tricky (like the hand-cannon, the trio is often operated by two soldiers, one who holds and aims the weapon, and another who lights the touch-holes.)
+
+**Tags:** Difficult, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable
+
+**Damage:** 2d10+4 DV
+
+**AP:** -4
+
+**Range:** 20m / 40m / 50m / 60m
+
+**Reload:** 2 Standard Actions per barrel
+
+**Special:** The Trio has three barrels, each of which is loaded and fired separately.  Firing any one barrel is a Standard Action (as normal).  Players who wish to attempt to fire one barrel while their partner fires the other should be swatted with something and told to stop being jerks.
+
+**Special:** If you have a partner helping you operate the weapon, then it looses the Difficult tag (as it is easy for you to aim, and for them to fire).  Working with a partner, you can also reload a barrel with only one Standard Action.  However, performing maneuvers in close formation with a partner is difficult, and so the weapon gains the Awkward tag.
+
 <!-- The hand-cannon was added as an example weapon.
   - Hand Cannon
     
@@ -312,6 +333,32 @@ While their wounds are gruesome, they are even more notable for being very effec
   - If anyone has some other suggestions for ways to spend Momentum,
     that’d be rad.
 -->
+
+## Advanced Firearms
+
+In the real world, there was an era when early firearms coexisted with (steel-prod) crossbows and plate armor, without being clearly superior to the one or completing negating the other; these early, muzzle-loading, smooth-bored, ball-firing black-powder weapons are not wildly disruptive if introduced to a world that already has crossbows and seige weapons.
+But the Emerald Plane also has alchemists, blacksmiths, clock-makers, mages and engineers skilled enough to produce an alchemically powered golem-arm; it's certainly not *impossible* that some of these smiths could have developed more advanced guns, decades or centuries ahead of when those weapons where introduced on Earth.
+
+However, unlike Chandra's golem-arm, innovations like the metal cartridge, the breach-loading weapon, the rifled barrel and the pointed bullet are all easily replicated once understood—and any one of them, certainly several of them taken together, could radically alter the balance of power on two continents, should one army suddenly field them.
+
+So, here, we present, as a separate alternate rule from Guns, *Advanced* Firearms.
+Advanced firearms are listed separately, and require a GM's separate approval, because they have the potential to take over a game, and to radically alter the setting; while in principle not wildly better than any other Cost: High item, the innovations given here are far more replicable once understood, and represent astonishing leaps in military technology that could totally change the face of warfare should they escape a character's hands—which many GMs may not wish to deal with.
+
+### Rules
+
+We present here a list of *innovations*—modifications that can be applied to a (basic) firearm from the list above.
+Using these rules, a player can purchase a gun with one of these innovations as a Cost: High item.
+(Subject to the GM's approval, a gun can be purchased with *two* of these innovations as a Cost: Extreme item; however, this is not recommended.)
+
+### Innovations
+
+- **Breach-Loading:** the gun is now reloaded as a Standard Action.
+- **Metal Cartridge:** the gun is now reloaded as a Quick Action.  Requires Breach-Loading.
+  - Metal cartridges are difficult to produce; they are *tracked* even though they are "standard" ammo, and they are Cost: Medium for 10.
+  - Metal cartridges can only be used with balls, slugs and pointed bullets (e.g. they cannot be used with shot or canister rounds).
+- **Rifled Barrel:** Double each range increment.  The weapon gains the Accurate tag, and you gain a +10 bonus to your attack checks with it.
+  - The weapon can only be used with balls, slugs and pointed bullets (e.g. you cannot use it with shot or canister rounds).
+- **Pointed Bullet:** The weapon gains +4 AP.  If taken with the Rifled Barrel, the weapon gains the Very Accurate tag, and you gain an additional +10 bonus to your attack checks with it.
 
 ## Raw Materials
 
