@@ -156,8 +156,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
     
       - Active, Physical, Technical, Trade
       - Used to make things
-      - Sample Fields: Carpentry, Chemistry, Clockwork, Glassworking,
-        Leatherworking, Masonry, Smithing
+      - Sample Fields: Carpentry, Chemistry, Clockwork, Glassworking, Leatherworking, Masonry, Smithing
 
   - Deception (SAV)
     
