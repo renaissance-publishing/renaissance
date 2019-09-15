@@ -180,7 +180,7 @@ Blunderbusses are called "thunder-javelins" in Common.
 
 **Ammo:**
 
-- Ball: 2d10 DV, AP -5.  Cost: None (standard ammo)
+- Ball: 2d10 DV, AP -6.  Cost: None (standard ammo)
 - Scatter: 1d10+1 DV, AP -1, splash 3m.  Cost: None (standard ammo)
 - Scour Canister: 3m splash, covers targets with Scour.  Cost: Moderate per 10
 
@@ -199,7 +199,7 @@ These weapons are called "thunder-darts" in Common.
 
 **Ammo:**
 
-- Ball: 1d10+3 DV, AP -4.  Cost: None (standard ammo)
+- Ball: 1d10+3 DV, AP -5.  Cost: None (standard ammo)
 - Scatter: 1d10-1 DV, AP -1, splash 2m.  Cost: None (standard ammo)
 - Scour Canister: 2m splash, covers targets with Scour.  Cost: Moderate per 10
 
@@ -213,7 +213,7 @@ While their wounds are gruesome, they are even more notable for being very effec
 
 **Damage:** 3d10+2 DV
 
-**AP:** -7
+**AP:** -9
 
 **Range:** 30mm / 60m / 120m / 180m
 
@@ -221,16 +221,22 @@ While their wounds are gruesome, they are even more notable for being very effec
 
 #### Trio
 
-This unusual, finely-craft weapon represents an attempt to overcome the low firing-rate of muzzle-loaded weapons.
-It's multiple barrels must be carefully crafted out of high-quality materials, in order to make sure that they are light enough to carry without being so thin that they are likely to rupture (especially as the weapon heats up).
+This unusual, multi-barrelled weapon represents an attempt to overcome the low firing-rate of muzzle-loaded weapons.
+It is essentially three steel barrels fixed to a wooden heft.
+Despite its simple design, it's multiple barrels must be carefully crafted out of high-quality steel, in order to make sure that they are light enough for infantry to carry without being so thin that they are likely to rupture (especially as the weapon heats up).
 The desire to save weight has also lead to a shortening of the barrel and a lightening of the projectile, which incurs other sacrifices.
-The weapon also uses touch-holes to fire, keeping track of each touch-hole on each of the three barrels can be slightly tricky (like the hand-cannon, the trio is often operated by two soldiers, one who holds and aims the weapon, and another who lights the touch-holes.)
+The weapon also uses touch-holes to fire, rather than having a trigger mechanism; keeping track of each touch-hole on each of the three barrels can be slightly tricky, so the weapon is often rotated in hand after a barrel is discharged.
+Also, like the hand-cannon, the trio is often operated by two soldiers, one who holds and aims the weapon, and another who lights the touch-holes.
+
+Officially, the Trio is called the "three barrels" in Common; this is a reference to the Three Cities at the peak of Islandhome.
+Informally, the Trio is often called the "Kobold's Dance," named for a dance common in Haven Isles Kobold communities that includes rapid clapping.
+It is sometimes derisively referred to as the "bomb that you don't throw," after some early iron prototypes suffered catastrophic breaches—that is, exploded.
 
 **Tags:** Difficult, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable
 
 **Damage:** 2d10+4 DV
 
-**AP:** -4
+**AP:** -6
 
 **Range:** 20m / 40m / 50m / 60m
 
