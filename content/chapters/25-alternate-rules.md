@@ -222,7 +222,7 @@ While their wounds are gruesome, they are even more notable for being very effec
 #### Trio
 
 This unusual, multi-barrelled weapon represents an attempt to overcome the low firing-rate of muzzle-loaded weapons.
-It is essentially three steel barrels fixed to a wooden heft.
+It is essentially three steel barrels fixed to a wooden haft.
 Despite its simple design, it's multiple barrels must be carefully crafted out of high-quality steel, in order to make sure that they are light enough for infantry to carry without being so thin that they are likely to rupture (especially as the weapon heats up).
 The desire to save weight has also lead to a shortening of the barrel and a lightening of the projectile, which incurs other sacrifices.
 The weapon also uses touch-holes to fire, rather than having a trigger mechanism; keeping track of each touch-hole on each of the three barrels can be slightly tricky, so the weapon is often rotated in hand after a barrel is discharged.
