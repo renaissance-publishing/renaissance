@@ -1685,7 +1685,7 @@ You hail from a Dwarven Hold, either in the north of the Emerald Plane or one of
 
   - Movement: Climb 2/6, Foot 3/9
 
-  - Senses: Normal, Scent
+  - Senses: Normal, Low-Light, Motion, Scent
 
   - Tags: Natural, Humanoid, Gremlin
 
@@ -1697,10 +1697,9 @@ You hail from a Dwarven Hold, either in the north of the Emerald Plane or one of
 
   - Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
 
-      - Much like cats, Gremlins also kneed with their claws; though this is for them a sign of great affection, other races often find it painful.
+      - Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.
 
-  - Poor Vision: Goblins have poor vision. Visual perception checks are
-    made at -20.
+  - Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
 
 ### Raptors
 
