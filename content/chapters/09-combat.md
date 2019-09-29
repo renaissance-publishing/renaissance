@@ -55,40 +55,21 @@ Combat is a special case of Turn Order play, using the following rules:
         well-defined.
 
   - Movement
-    
-      - Collectively, the following are called Movement Actions. You may
-        only use one Movement Action during your turn.
-    
-      - As a quick action, you may *move*: you may move up to your base
-        movement rate.
-    
-      - As a quick action, you may *move quickly*: you may move up to
-        your full movement rate. After doing so, you suffer a -10
-        penalty to all Physical skill tests until your next turn.
-    
-      - As a quick action, you may *charge*: you may move up to your
-        full movement rate, and you suffer a -10 penalty to all Physical
-        skill tests until your next turn. See *Charging* and *Bracing*
-        below for more information.
-    
+
+      - As a quick action, you may *move* using one of your movement rates.
+        - You can move up to either your *base* or *full* movement rate for one of your movement modes.
+        - If you move at your *full* movement rate, you suffer a -10 penalty to all Physical actions until your next turn.
+      - As a quick action, you may *charge*.
+        - Charging works much like moving at your full movement rate: you may move up to your full movement rate, and you suffer a -10 penalty to all Physical actions until your next turn.
+        - See *Charging* and *Bracing* below for more information.
       - You may also perform *Stunts*.
-        
-          - “Stunts” are used when your character attempts unusual,
-            difficult maneuvers—they jump, tumble, flip, climb (if they
-            don’t have a climb speed), swing and so on.
-          - The type of action varies: rolling under a hazard might be a
-            quick action, but climbing a trellis might be a standard
-            action (for a character without a climb speed).
-          - How far the character is moved will also vary (in general,
-            GMs should move characters by either their base or full
-            rates).
-          - Stunts almost always require a test using an appropriate
-            movement skill (this is usually Athletics for humanoid
-            creatures).
-          - Stunts may have other affects as well (a dive-and-roll may
-            allow you to end your turn prone behind cover, a flip off a
-            table may allow you to cross over an enemy and land facing
-            their back).
+        - “Stunts” are used when your character attempts unusual, difficult maneuvers—when they jump, tumble, flip, climb (if they don’t have a climb speed), swing and so on.
+        - The type of action varies: rolling under a hazard might be a quick action, but climbing a trellis might be a standard action (for a character without a climb speed).
+        - How far the character is moved will also vary (in general, GMs should move characters by either their base or full rates).
+        - Stunts almost always require a test using an appropriate movement skill (this is usually Athletics for humanoid creatures).
+        - Stunts may have other affects as well (a dive-and-roll may allow you to end your turn prone behind cover, a flip off a table may allow you to cross over an enemy and land facing their back).
+      - You can only use an action to move once during your turn.
+        - (This doesn't count effects that move you without requiring an action on your part, such as being pushed, being teleported, or falling.)
 
 ## Attacking
 
@@ -527,8 +508,9 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
 
   - Defending:
       
-      - Defending with Fray is not a reaction, but
-      - defending by parrying *is*.
+      - ~~Defending with Fray is not a reaction, but~~
+      - ~~defending by parrying *is*.~~
+      - Normally, defending is **not** a reaction; however, some powers that trigger on a successful defense are (like the links of a Chain, or the Quick Break power; see *Backgrounds, Traits, Classes and Powers*).
 
   - Reacting to Events
     
@@ -716,15 +698,12 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
     
       - I’m not actually sure I want or need either of those rules.
 
-  - Charge: when you use the Charge move action, if you end your move at
-    least (twice your walking rate) from where you started, then you
-    gain +DB DV on your attacks for the rest of your turn.
-    
-      - This is still more awkward than I want it to be, but it’s
-        getting there.
+  - Charge: when you use the Charge move action, you gain +DB DV on your attacks for the rest of your turn.
 
-  - Brace: Weapons with the Brace tag can be used to prepare to receive
-    a charge.
+      - You have to be able to *build up speed;* usually, this means that you need to have moved more than one meter.
+
+  - ~~Brace: Weapons with the Brace tag can be used to prepare to receive
+    a charge.~~
     
       - You need to have a weapon with the Brace tag.
       - Bracing to receive a charge is a Standard Action.
@@ -737,6 +716,15 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
         you), unless you incapacitate them with your attack (by
         disabling them, or by dealing a wound and knocking them prone,
         for example).
+
+  - Brace: Weapons with the Brace tag can be used to prepare to receive
+    a charge.
+    
+      - You need to have a weapon with the Brace tag.
+      - Bracing to receive a charge is a Standard Action.
+      - After bracing, until your next turn, if anyone *charges* you (see *Charge* above), they provoke an attack of opportunity from you (see *attacks of opportunity* in *Reactions*).
+      - If you take an attack-of-opportunity and hit the charging character, you deal +DB DV.
+      - You do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).
 
   - Prone:
     
