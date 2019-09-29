@@ -250,7 +250,16 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Active, Knowledge, Physical, Technical
       - Can be used to diagnose and treat injuries.
 
-  - One-Handed Weapons (SOM, Proficiency Skill)
+  - Melee Weapons (SOM, Proficiency Skill)
+
+      - Active, Attack, Combat, Melee Attack, Physical
+      - Your skill with one- and two-handed melee weapons.
+      - Note that unarmed combat and pole-arms are represented by separate skills (Unarmed Combat and Pole-Arms, respectively).
+      - Note that *Shields* is offered as a proficiency.  This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons—such as spiked shields and dueling-shields.
+      - *Double-weapons* refers to "D&D-style" double-weapons; the historicity of these weapons is dubious, but there's no reason your character can't have one!
+      - Sample Specializations: Axes, Clubs, Daggers, *Double-Weapons,* Hammers, Maces, *Shields,* Staffs, Swords, *by exotic weapon*
+
+  - ~~One-Handed Weapons (SOM, Proficiency Skill)~~
     
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with various one-handed melee weapons.
@@ -419,7 +428,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
         impractical.
       - Sample Specializations: Sneaking, Blending In
 
-  - Two-Handed Weapons (SOM, Proficiency Skill)
+  - ~~Two-Handed Weapons (SOM, Proficiency Skill)~~
     
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with large, two-handed weapons.
