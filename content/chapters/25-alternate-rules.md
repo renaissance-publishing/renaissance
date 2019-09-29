@@ -136,7 +136,11 @@ Guns more advanced than the hand-cannon can be included without too much disrupt
 Guns are handled using the Ranged Weapons skill, with the Guns proficiency.
 Much like crossbows, guns must be reloaded after being fired;
 guns are usually loaded by ramming black powder and a ball or canister down the barrel.
-Also like crossbows—modern heavy crossbows in particular—reloading guns can be a time-consuming process.
+Also like crossbows—modern heavy crossbows in particular—reloading guns can be a time-consuming process; for this reason, it is not unusual for guns to be discarded after they are fired, and only retrieved and reloaded after combat has concluded.
+
+The projectiles fired by guns travel extremely quickly, so guns are *hard to dodge*.
+When defending against a gun with Fray, divide your defense by 2.
+(Divide last: if you have a COO of 20, 40 ranks in Fray, and a +10 bonus, then your Fray target against most attacks would be 70, but it would be 35 against a gun.)
 
 ### Shot and Gunpowder
 
@@ -172,7 +176,7 @@ They are usually used to fire (scatter)shot, although they can also be loaded wi
 
 Blunderbusses are called "thunder-javelins" in Common.
 
-**Tags:** Easy, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+**Tags:** Easy, Hard to Dodge, Loud, Prone, Ranged, Reload, Two-Handed, Vulnerable
 
 **Range:** 15m / 25m / 35m
 
@@ -180,8 +184,8 @@ Blunderbusses are called "thunder-javelins" in Common.
 
 **Ammo:**
 
-- Ball: 2d10 DV, AP -6.  Cost: None (standard ammo)
-- Scatter: 1d10+1 DV, AP -1, splash 3m.  Cost: None (standard ammo)
+- Ball: 2d10+2 DV, AP -8.  Cost: None (standard ammo)
+- Scatter: 1d10+2 DV, AP -2, splash 3m.  Cost: None (standard ammo)
 - Scour Canister: 3m splash, covers targets with Scour.  Cost: Moderate per 10
 
 #### Dragon
@@ -191,7 +195,7 @@ It uses lighter loads and smaller projectiles.
 
 These weapons are called "thunder-darts" in Common.
 
-**Tags:** Easy, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+**Tags:** Easy, Hard to Dodge, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
 
 **Range:** 10m / 20m / 30m
 
@@ -199,8 +203,8 @@ These weapons are called "thunder-darts" in Common.
 
 **Ammo:**
 
-- Ball: 1d10+3 DV, AP -5.  Cost: None (standard ammo)
-- Scatter: 1d10-1 DV, AP -1, splash 2m.  Cost: None (standard ammo)
+- Ball: 1d10+4 DV, AP -6.  Cost: None (standard ammo)
+- Scatter: 1d10 DV, AP -2, splash 2m.  Cost: None (standard ammo)
 - Scour Canister: 2m splash, covers targets with Scour.  Cost: Moderate per 10
 
 #### Musket
@@ -209,11 +213,11 @@ A musket is a long-barrelled weapon that fires a lead ball from its smooth barre
 Though large weapons, they are far superior to hand-cannons; their much longer barrels make them far more accurate, and their trigger and flintlock firing mechanism makes it much easier for one person to aim and fire them.
 While their wounds are gruesome, they are even more notable for being very effective at penetrating armor.
 
-**Tags:** Loud, One-Handed, Prone, Ranged, Reload, Vulnerable
+**Tags:** Loud, Hard to Dodge, One-Handed, Prone, Ranged, Reload, Vulnerable
 
 **Damage:** 3d10+2 DV
 
-**AP:** -9
+**AP:** -10
 
 **Range:** 30mm / 60m / 120m / 180m
 
@@ -232,11 +236,11 @@ Officially, the Trio is called the "three barrels" in Common; this is a referenc
 Informally, the Trio is often called the "Kobold's Dance," named for a dance common in Haven Isles Kobold communities that includes rapid clapping.
 It is sometimes derisively referred to as the "bomb that you don't throw," after some early iron prototypes suffered catastrophic breaches—that is, exploded.
 
-**Tags:** Difficult, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable
+**Tags:** Difficult, Hard to Dodge, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable
 
 **Damage:** 2d10+4 DV
 
-**AP:** -6
+**AP:** -7
 
 **Range:** 20m / 40m / 50m / 60m
 

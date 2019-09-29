@@ -1270,14 +1270,18 @@ one hand and touch off the weapon with the other, it is difficult to do.
 In practice, the weapons are often used by a pair of soldiers: one who
 holds and aims the weapon while the other touches it off.
 
-The Commonwealth are the heaviest users of these weapons, with the
-Goblin Empire being a close second.
+The Commonwealth are the heaviest users of these weapons, with the Goblin Empire being a close second.
 
-**Tags:** Two-Handed, Ranged, Difficult, Vulnerable, Awkward, Reload, Loud, Pair
+Much like crossbows, it takes time to reload a hand-cannon; for this reason, it is not uncommon to discard the hand-cannon after it has been fired, and the weapon is only retrieved and reloaded after combat.
+This is especially likely to be the case if the weapon is not being carried by a team.
+
+The projectiles fired by hand-cannons fly extremely rapidly, and are incredibly *hard to dodge* (this means that fray checks are divided by 2; see the *Guns* alternate rule).
+
+**Tags:** Two-Handed, Ranged, Difficult, Vulnerable, Awkward, Reload, Loud, Pair, Two-Handed, Hard to Dodge
 
 **Damage:** 3d10+2
 
-**AP:** 7
+**AP:** 8
 
 **Range:** 25m/50m/125m/200m
 
