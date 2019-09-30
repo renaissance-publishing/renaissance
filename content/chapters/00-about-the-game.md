@@ -35,9 +35,16 @@ Changes since last time:
   - Greatly expanding Dwarves (they were stubbed), adding CV's Mycenaean Dwarves idea.
 - Added guidance about custom classes, items and powers.
 - Added a few of CV's powers.
+  - and then a bunch more, and some classes.
 - Started reworking the wealth section.
 - Started adding examples to the skills section.
 - *Finished* reworking the wealth section!  Added Cash, added trade goods, removed barter.
+- tweaking guns a lot.
+  - they didn't get adjusted with the big weaons rebalance.
+  - Instead of reducing their damage, we upped their reload; we've been making other tweaks.
+- Merged one-handed and two-handed into Melee.
+- Clean-ups in *moving*, *reactions*, and *bracing*.  And Charging.
+- Added a few classes and powers (Missile-Hurler, Ally-Hurler and Challenger)
 
 Feedback Questions
 
