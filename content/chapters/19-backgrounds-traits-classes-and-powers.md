@@ -231,8 +231,28 @@ Some traits are *neutral*, giving you both a benefit and a drawback; they do not
   - Choose one particular source of stress: you gain +WIL to checks made to resist it, but your Luck stat is reduced by 1.
   - Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
 
-- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful&mdash;but on the down side, your unusual outlook makes it harder for others to relate to you.
+- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful—but on the down side, your unusual outlook makes it harder for others to relate to you.
   - Choose one particular source of Stress: you gain +WIL to checks made to resist it, but you suffer a -10 penalty to Persuasion and Protocol tests.
+
+#### Smaller
+
+You are much smaller than average for your race; reduce your size category by one "step" (e.g. from Medium to Small).
+
+This affects your movement(s).
+Most of your movements are reduced: reduce your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements—like flight—might benefit from you being smaller, however: with your GM's approval, you may increase these movements by 1m/3m.
+
+Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.
+
+#### Larger
+
+You are much larger than average for your race; increase your size category by one "step" (e.g. from Small to Medium).
+
+This affects your movement(s).
+Most of your movements are increased: increase your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements—like flight—might be hindered by you being larger, however: at your GM's discretion, some of your movements will instead be reduced by 1m/3m.
+
+Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.
 
 ## Classes
 
@@ -577,6 +597,36 @@ Sample flourishes are given in the table below.
 | Display | You adopt a visually striking stance, twirl a weapon, or otherwise demonstrate your prowess--which is all the more effective because you've just run through a chain.  You can roll your *Intimidate* against your opponent's Resist Social Manipulation; if you win, they suffer a -10 penalty to their attacks against you. |
 | Ready | Your chain ends with you in an advantageous, ready position; you gain a +10 bonus to your *Combat* skills until the end of your next turn. |
 | Initiative | You've put your opponent in a difficult position, put them off-balance, or otherwise stumbled them.  Your opponent reduces their INIT by 3. |
+
+#### Missile-Hurler
+
+Through long practice and physical conditioning, you have developed an excellent stance and strong throwing arm.
+
+- **Requires:** 20 ranks in Ranged Weapons, with the Thrown Weapons proficiency
+- **Effect:** Range and damage when throwing projectiles is improved.
+  - Your range is improved:
+    - When throwing a small object—about the size and weight of a brick, or smaller—you add 20m to each range increment.
+    - When throwing a larger object, you add 10m to each range increment.
+  - Your damage is improved:
+    - When attacking a target in your short range, you gain +DB DV and +2 AP.
+    - When attacking a target in your medium range, gain +1 DV and +1 AP.
+    - This does not apply to weapons that don't do damage through impact—like fireballs or scour canisters.
+
+These effects are summarized in the table below.
+These are only the "base" ranges; they may still be adjusted by the nature of the object and the situation, as normal.
+
+| object | short | medium | long | extreme |
+| ------ | ----- | ------ | ---- | ------- |
+| *without this class* | 5m | 15m | 30m | 45m |
+| small object | 25m, +DB DV, +2 AP | 35m, +1 DV, +1 AP | 50m | 65m |
+| large object | 15m, +DB DV, +2 AP | 25m, +1 DV, +1 AP | 45m | 55m |
+
+#### Challenger
+
+Through a mixture of persuasion and intimidation, you are able to make yourself the focus of whatever situation you find yourself in.
+
+- **Requirements:** 10 ranks in Intimidate, 10 ranks in Persuasion
+- **Effect:** You gain a +10 bonus to Social skill checks related to *challenging others,* *focusing attention on yourself,* and *boasting.*  Those who refuse a challenge may be *demoralized,* and will suffer a -10 penalty to checks related to the challenge.
 
 ### Ideas:
 
@@ -1310,3 +1360,33 @@ This can either simply *immobilize* the target, or be rapidly fatal, based on wh
 - **Effect:** Roll your Unarmed Combat, against your opponents Feat of Strength or React Quickly; you suffer a -20 modifier.  If you succeed, you haul your target into your tunnel and partially collapse it.  This immobilizes them.
 - **Special:** You must be burrowing near the surface, either adjacent to or directly beneath your opponent to use this power.
 - **Special:** Instead of immobilizing your opponent, you can instead attempt to completely burry them.  This is more difficult, so you take an additional -10 penalty; if you succeed, though, they will soon begin to suffocate.
+
+#### Hurl and Ally
+
+You've practice an unusual tactic in which you fling an ally at an enemy.
+
+- **Requirements:** The *Missile-Hurler* class.
+- **Action:** Standard Action
+- **Effect:** You can throw an ally.
+  - They must be at least one size category smaller than you (e.g. if you are Medium, you can throw a Small creature).
+  - If you don't throw them farther than your medium range, they can land safely; if you throw them further than your medium range, they take damage as if they had fallen (1d10 DV at long range, 2d10 DV at Extreme range).
+  - If the hurled creature lands at a lower point than when they where thrown, they take appropriate falling damage.
+  - If you throw your ally at an opponent, and if they were prepared for it, then they are considered to have *charged*, and can attack the targeted opponent.
+    - They can prepare as a Standard Action (during their turn), and are then considered to have "prepared" until their next turn.
+- **Special:** This power represents *throwing* an ally, which is a Standard Action.  Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
+- **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
+
+#### Hurl and Ally
+
+You've practice an unusual tactic in which you fling an ally at an enemy; this is sometimes called "the Minotaur and the Frog," after a folk-legend about the tactic's use during a slave revolt in Shade-Elven lands.
+
+- **Requirements:** The *Missile-Hurler* class.
+- **Action:** Standard Action
+- **Effect:** You can throw an ally.
+  - They must be at least one size category smaller than you (e.g. if you are Medium, you can throw a Small creature).
+  - If you don't throw them farther than your medium range, they can land safely; if you throw them further than your medium range, they take damage as if they had fallen (1d10 DV at long range, 2d10 DV at Extreme range).
+  - If the hurled creature lands at a lower point than when they where thrown, they take appropriate falling damage.
+  - If you throw your ally at an opponent, and if they were prepared for it, then they are considered to have *charged*, and can attack the targeted opponent.
+    - They can prepare as a Standard Action (during their turn), and are then considered to have "prepared" until their next turn.
+- **Special:** This power represents *throwing* an ally, which is a Standard Action.  Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
+- **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
