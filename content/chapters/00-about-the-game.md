@@ -45,6 +45,9 @@ Changes since last time:
 - Merged one-handed and two-handed into Melee.
 - Clean-ups in *moving*, *reactions*, and *bracing*.  And Charging.
 - Added a few classes and powers (Missile-Hurler, Ally-Hurler and Challenger)
+- Added asides for designing the named magic items, and modifying powers.
+- Added the Flashback Anchor.
+- Added a chapter on common hazards.
 
 Feedback Questions
 
