@@ -715,6 +715,19 @@ So, can sacrificial magic make a good addition to your game?  Our answer is, "ye
 
 </aside>
 
+<aside class="gmguidance">
+
+### Tweaking Powers
+
+Much as you and your players should feel free to create entirely new powers, you should also feel free to tweak, adjust and modify the existing powers.
+
+As an example, a player could easily swap fire out for some other "element" to turn the Fireball power into an *iceball* or *ball lightening* power.
+Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
+
+Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power—or whatever else they want.
+
+</aside>
+
   - Fireball: You can manifest a fireball in your hand.
     
       - Requires: 10 ranks in Spellcraft
@@ -723,20 +736,11 @@ So, can sacrificial magic make a good addition to your game?  Our answer is, "ye
     
       - Effect: held ball of fire
         
-          - After it is created, treat the ball of fire as you would any
-            other held object. The ball of fire will not burn you or any
-            possession that you are in contact with, but it will burn
-            other objects (or people).
-          - If the ball of fire looses contact with you (as it will if
-            it is thrown, for example), it can persist for up to 5 turns
-            (about 15 seconds) on its own; otherwise, it can persist as
-            long as you hold on to it.
-          - You can voluntarily dismiss the ball of fire (which is
-            handy, because sleeping with a ball of fire in your hand is
-            ill-advised).
-          - The ball of fire is, of course, fire, and effects other
-            objects as such. (It will burn other people for 1d10 DV,
-            plus 1 per ten ranks of Spellcraft.)
+          - After it is created, treat the ball of fire as you would any other held object. The ball of fire will not burn you or any possession that you are in contact with, but it will burn other objects (or people).
+          - If the ball of fire looses contact with you (as it will if it is thrown, for example), it can persist for up to 5 turns (about 15 seconds) on its own; otherwise, it can persist as long as you hold on to it.
+          - You can voluntarily dismiss the ball of fire (which is handy, because sleeping with a ball of fire in your hand is ill-advised).
+          - The ball of fire is, of course, fire, and effects other objects as such. (It will burn other people for 1d10 DV, plus 1 per ten ranks of Spellcraft; it may set a character on fire if an exceptional success is scored.)
+          - Clarification: since the ball of fire is treated just like any other small object, it can be thrown at an opponent (using all the rules for a ranged attack with a thrown weapon, doing the listed damage, and having the Fire tag), or it can be pressed into an opponent to burn them (a touch-only attack, doing the listed damage, having the Fire tag).
 
   - Exploding Fireball:
     
@@ -744,7 +748,7 @@ So, can sacrificial magic make a good addition to your game?  Our answer is, "ye
       - When using the Fireball power, when your fireball expires
         (either because you dismissed it or because it left contact with
         you), you may choose to have it explode. Treat this as a Blast
-        effect, which does (your fireball’s damage) at its center.
+        effect, which does your fireball’s damage.  (See the rules for Blast effects in Combat)
 
   - Intense Fire:
     
