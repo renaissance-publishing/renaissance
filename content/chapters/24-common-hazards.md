@@ -6,6 +6,8 @@ As players explore, fight, sneak about, and otherwise adventure, they'll encount
 
 What is true elsewhere is true here: these rules are only guidelines, which GM's should use, adapt or discard as the situation (and their intent) merits.
 
+**Warning:** some of these rules are gruesome, and many readers may not wish to read mechanical descriptions of the process of starving to death, for example.
+
 ## Mundane Hazards
 
 ### Falling
@@ -18,19 +20,21 @@ Then, look up their *falling damage* on the given table.
 
 Damage taken from a fall ignores armor (plate armor doesn't help you if you've fallen off a parapet).
 
-| Effective Falling Distance | Damage | 
+| Effective Falling Distance | Damage |
 | -------------------------- | ------ |
-| 2m or less | no damage |
-| 6m or less | (distance - 2)d10 DV |
+| 3m or less | no damage |
+| 6m or less | (distance - 3)d10 DV |
 | 10m or less | (distance)d10 DV |
 | more than 10m | killed |
 
-| Modifier | Effect | 
+| Modifier | Effect |
 | -------- | ------ |
 | Successful Roll (requires Athletics check) | -2m |
+| Landing Badly (e.g. head first) | +2m |
 | Very Hard Surface (stone, brick) | +1m |
 | Soft Surface (sand, grass) | -1m |
 | Very Soft Surface (pile of goose down) | -2m |
+| Sloped Surface | -1m (or more depending on degree) |
 
 ### Fire
 
@@ -57,4 +61,110 @@ Reduce your armor's heat points by 1 per turn that it is not exposed to fire.
 
 Most creatures need to breath; being unable to breath can be rapidly fatal.
 
+Whenever a character cannot breath—whether because they are diving underwater, holding their breath, choking on food, being choked or for some other reason—use the following rules:
 
+- The character suffers no penalties for DUR÷10 turns; then
+- they are *severely impaired* as their air runs out.  They must make an *Endure Physical Hardship* test, and can remain active for 1 turn per 10 points of MoS; they suffer a -30 penalty during this time. Then,
+- they *loose consciousness.*  If they still cannot breath DUR÷10 turns later, they die.
+
+A character can prepare for asphyxiation—like someone who is about to hold their breath, dive underwater or enter a room with no air—by taking a several deep breaths; this is a Quick Action, and doubles the amount of time you have before you must make an *Endure Physical Hardship* test.
+
+Normally, a character who is voluntarily holding their breath will start to breath again if they pass out.
+In children, this is a good thing; a character who was holding their breath in a room filled with poisonous gas may find this less beneficial.
+
+### Exhaustion and Deprivation
+
+#### Exhaustion
+
+Characters who work without rest for long periods may suffer *exhaustion;* their situation may be worsened by inadequate food or water, or by harsh working conditions.
+Characters may face exhaustion because their social situation demands long hours of work, because they are being led on a forced march, because they have been captured and are forced to labor, or simply because they are obsessed or driven and refuse to stop working until their task is completed.
+In any case, once a character starts to exceed their physical limits, they should make an *Endure Physical Hardship* test; they suffer 1d10 DV if they fail (armor does not apply; other damage mitigations, like resistances, may not apply at the GM's discretion).
+If conditions do not improve, characters will have to make additional checks, each one suffering an additional -10 penalty; eventually, when their cumulative penalties would reach -40, the character collapses from exhaustion.
+
+How often these checks must be taken is subject to the GM's discretion—as are any additional penalties that apply, of course.
+Characters undergoing a forced march might make checks at the end of each day—or twice a day if they are being forced to keep up a jogging pace.
+Characters laboring in a Goblin prison-camp may be forced to make checks every few hours—Goblins are *unconcerned* for the long-term survival of their captives.
+
+#### Deprivation
+
+Characters who get inadequate food, water or rest may suffer from *deprivation.*
+
+Characters can survive without food for one day per point of DUR—although they begin to suffer significant penalties before they starve to death.
+
+- After going a full day without food, they suffer a -10 penalty from hunger.
+- After going DUR÷5 days without food, the penalties worsen to -20.
+- After going another DUR÷5 days without food, the penalties worsen to -30, and their suffer WT DV (which causes a wound).  Most damage mitigations (including armor) do not apply to this damage.
+- After going another DUR÷5 days without food, they suffer another WT DV (as before), and they are *debilitated;* they are lethargic and in pain, they likely cannot stand, and they may be unconscious or delirious.  At this point, any significant physical action requires an *Endure Physical Hardship* test.
+- After another DUR÷5 days, they loose consciousness (and take WT DV), and
+- DUR÷5 days later, they are die.
+
+Characters can survive for DUR÷10 days without water.
+
+- After the first day, they suffer a -20 penalty from thirst.
+- After the second day, the penalty increases to -30, and they take WT DV.
+- After the third day, they die.
+
+Characters who go without adequate sleep will suffer exhaustion and delirium.
+
+- After a night without sleep, characters suffer a -10 penalty to all actions.
+- After a second night, the penalty increases to -20.
+- After a third night, the penalty increases to -30.
+- After a fourth night, characters will struggle to act.  They will fall asleep very easily, will be difficult to rouse, and will be in extremely poor mental condition.  Physical strain will put them at risk of heart failure (requiring an *Endure Physical Hardship* test).  They will also incur TT SV, which will automatically impost a *trauma*.
+- After a fifth full night, characters minds will crumble.  They incur another TT SV, and they become delirious and are unable to act rationally.
+- After two more nights, they will die.
+
+Keeping a character awake for so long that they die is difficult; after the fourth night, they will tend to fall asleep rapidly if it is at all possible.
+At this point, if a character is *trying* to stay awake—maybe because some spirit will invade their minds if they sleep, or because a concussion will kill them if they fall asleep—they will find it very difficult to do so; *Endure Physical Hardship* tests may be required, possibly as often as every few hours.
+
+#### Partial and Combined Effects
+
+The above penalties assume *complete* deprivation: no food, no water, no sleep.
+*Partial* deprivation—the situation where characters have access to *inadequate* food, water or sleep—is less dire.
+GMs may represent this situation by "spacing out" the above effects—by having each step take longer—or even by simply applying penalties of -10 to -30 based on the degree of deprivation (as opposed to going through the full process).
+
+In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
+GMs should feel free to adapt (and simplify) these rules in such cases: rather than trying to track the effects of *exhaustion,* *partial starvation,* and *partial dehydration* separately using the full rules above, they may simply represent the inadequate food and water as penalties to the *Endure Physical Hardship* tests caused by the forced march.
+
+## Traps
+
+Traps are somewhat out of place in *Renaissance.*
+For one, *Renaissance* is not primarily a game about "dungeon delving"—we're never going to be as good at that as D&D is, and that's not a theme we're going for anyway.
+For another, they don't make a lot of sense if you think about them.
+Who builds them?  Who maintains them?  Who resets them?  How do they last decades or centuries?  Why not just use a conventional garrison?  Why risk your own garrison falling victim to them?
+
+Nevertheless, they are such a fixture of fantasy RPGs that we cannot realistically expect GMs to completely dispense with them.
+So, we present her a list of common "fantasy dungeon traps"—and we beg the reader's forgiveness if we cannot quite bring ourselves to take these silly things seriously.
+
+#### Blocky-Crushy
+
+This trap consists of a giant stone slab that descends from the roof when someone (who is Small size or larger) steps on a pressure plate beneath it.
+
+The blocky-crushy descends very quickly; players may make a COO×2 check to avoid it.
+If they succeed, they land prone in the square either directly in front of or behind it.
+If players are caught under it, they’re probably squished: most Large-or-smaller creatures will be crushed, while very large creatures may “only” take 5d10 DV.
+
+A comical spring attaches the blocky-crushy to the roof: it will reset the trap after the adventurers are one room away.
+
+#### The Fally-Jabby
+
+This trap consists of a section of false floor, which breaks away if anyone (who is size: Small or larger) steps on it.
+
+A character who walks onto a fally-jabby can attempt a COO+SOM check to grab the edge of the trap.
+If they succeed, then they are left clinging to the edge of the pit.
+
+Characters who fall to the bottom of the fally-jabby take normal falling damage (the traps are often about 5 meters deep), plus 2d10 damage from the sharp stakes on the bottom.
+
+The fally-jabby resets after the party leaves the dungeon.
+
+(Given our criticism of traps above, we should concede in all fairness that trou-de-loup were real things.)
+
+#### The Trunky-Thunky
+
+Similar to the blocky-crushy, the trunky-thunky consists of two tree trunks (or other large objects) suspended in the forest canopy on either side of a trail (or otherwise similarly concealed).
+A trip-wire is laid across the trail; when it is triggered, the two tree trunks swing down and crush whatever tripped it.
+*Small, arboreal teddy-bears not included.*
+
+The Trunky-Thunky gives slightly more lead-time than the other traps listed here, and characters may be able to avoid it by simply dropping prone (depend on how high it strikes); doing so requires a COO×3 check.
+If they fail, they are thunkied by the trunkies; Large and smaller creatures simply die; very large creatures only take 5d10 DV, with AP -10.
+
+One advantage that the Trunky-Thunky has is that they can be set up anywhere in a forest, not just in dungeons.
