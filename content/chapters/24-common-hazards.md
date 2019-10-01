@@ -10,6 +10,11 @@ What is true elsewhere is true here: these rules are only guidelines, which GM's
 
 ## Mundane Hazards
 
+The following are common hazards on the Emerald Plane.
+Some may be the result of carelessness, some may be imposed by the level of technology available, and some are the result of the deliberate cruelty of some cultures.
+
+It should be noted now that all of these hazards are *also* likely to be *stressful,* as per the rules for mental health and trauma.
+
 ### Falling
 
 There are few hazards more mundane than falling.
