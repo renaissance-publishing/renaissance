@@ -1365,22 +1365,7 @@ This can either simply *immobilize* the target, or be rapidly fatal, based on wh
 - **Special:** You must be burrowing near the surface, either adjacent to or directly beneath your opponent to use this power.
 - **Special:** Instead of immobilizing your opponent, you can instead attempt to completely burry them.  This is more difficult, so you take an additional -10 penalty; if you succeed, though, they will soon begin to suffocate.
 
-#### Hurl and Ally
-
-You've practice an unusual tactic in which you fling an ally at an enemy.
-
-- **Requirements:** The *Missile-Hurler* class.
-- **Action:** Standard Action
-- **Effect:** You can throw an ally.
-  - They must be at least one size category smaller than you (e.g. if you are Medium, you can throw a Small creature).
-  - If you don't throw them farther than your medium range, they can land safely; if you throw them further than your medium range, they take damage as if they had fallen (1d10 DV at long range, 2d10 DV at Extreme range).
-  - If the hurled creature lands at a lower point than when they where thrown, they take appropriate falling damage.
-  - If you throw your ally at an opponent, and if they were prepared for it, then they are considered to have *charged*, and can attack the targeted opponent.
-    - They can prepare as a Standard Action (during their turn), and are then considered to have "prepared" until their next turn.
-- **Special:** This power represents *throwing* an ally, which is a Standard Action.  Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
-- **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
-
-#### Hurl and Ally
+#### Hurl an Ally
 
 You've practice an unusual tactic in which you fling an ally at an enemy; this is sometimes called "the Minotaur and the Frog," after a folk-legend about the tactic's use during a slave revolt in Shade-Elven lands.
 
