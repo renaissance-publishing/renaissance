@@ -132,6 +132,8 @@ GMs should feel free to adapt (and simplify) these rules in such cases: rather t
 
 ## Traps, Defences and Hazards
 
+### Reasonable Traps
+
 Here we list traps defensive hazards as they are commonly used in both hunting and warfare.
 
 Note that these are distinct from highly mechanical "classical dungeon traps," which are described below (and which we recommend against).
@@ -174,9 +176,22 @@ Imperial troops typically do not recover caltrops, which allows their opponents 
 
 A dozen caltrops can be purchased for Cost: Minor.
 
-## Dungeon Traps
+#### Wolf Pit
 
-Classical "dungeon traps" are somewhat out of place in *Renaissance.*
+Wolf-pits consist of deep pits dug with sloped sides, with a spike or spikes planted at the bottom; the pit is often covered with a false floor, such as a thin framework covered with dirt or leaves.
+When anyone heavy enough (normally anyone Size: Small or larger) walks on the false floor, it breaks, causing the victim to fall into the pit and be impaled on the spike.
+As with many traps, the intent is not to kill the victim, but to hobble them; wounds from the trap are most commonly to the feet and legs, and safely extracting a victim from the pit is difficult and time-consuming.
+
+Characters near a Wolf Pit may notice them with a Perception check (normally a passive test, unless they are actively keeping a look-out for traps or hidden objects).
+A character who walks on the pit has little hope of avoiding it, since the irregular, dirt-walled pit offers little purchase a character can use to save themselves; they may attempt a COO+SOM check at a -20 penalty to grab hold of some part of the false roof, or claw purchase out of the soft dirt wall of the pit.
+
+Characters who fall into a Wolf Pit take 2d10+5 DV at AP -5; they may be *impaled* on the spike at the bottom, making retrieving them a grisly, time-consuming and traumatic process.
+
+Note that this trap differs from the tongue-in-cheek Fally-Jabby below in that it is a field-expedient trap dug into dirt, while the Fally-Jabby is a deep pit built into the permanent structure of a castle or dungeon, with a significant mechanical component its pressure-sensitive and self-resetting false floor.
+
+### Fantasy Dungeon Traps
+
+"Fantasy dungeon traps" are somewhat out of place in *Renaissance.*
 For one, *Renaissance* is not primarily a game about "dungeon delving"—we're never going to be as good at that as D&D is, and that's not a theme we're going for anyway.
 For another, they don't make a lot of sense if you think about them.
 Who builds them?  Who maintains them?  Who resets them?  How do they last decades or centuries?  Why not just use a conventional garrison?  Why risk your own garrison falling victim to them?
