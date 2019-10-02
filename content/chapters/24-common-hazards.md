@@ -130,9 +130,53 @@ GMs may represent this situation by "spacing out" the above effects—by having 
 In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
 GMs should feel free to adapt (and simplify) these rules in such cases: rather than trying to track the effects of *exhaustion,* *partial starvation,* and *partial dehydration* separately using the full rules above, they may simply represent the inadequate food and water as penalties to the *Endure Physical Hardship* tests caused by the forced march.
 
-## Traps
+## Traps, Defences and Hazards
 
-Traps are somewhat out of place in *Renaissance.*
+Here we list traps defensive hazards as they are commonly used in both hunting and warfare.
+
+Note that these are distinct from highly mechanical "classical dungeon traps," which are described below (and which we recommend against).
+
+#### Caltrops
+
+Called a "thistle" in Common, caltrops are ubiquitous weapons: they are cheap, highly effective, and require no special training or upkeep.
+Though there are many subtle variations in size and design, one of the caltrop's strengths is its simplicity: it consists of four equally-spaced points, arranged so that, when throne, the weapon rests on three of the points while the four sticks up.
+Caltrops are not designed to be immediately fatal: instead, they lame and disable both infantry and mounts.
+Though caltrops can in principle be coated in poisons, this often isn't necessary: contact with soil and weather will often do the job just as well.
+
+Caltrops are used by scattering them into an area; this can be days or weeks in advance of an enemy's charge, since caltrops require no upkeep once deployed, or this can be done during combat in response to an enemy's advance.
+Several caltrops can be thrown at a square using all the normal rules for throwing; infantry can sow a large area—say, selectively scattering them in the area around a fortification—as a one-hour Task Action.
+(Note that throwing caltrops *directly at* an attacker is usually ineffective.)
+
+Anyone who enters a squared (on foot) covered by caltrops risks stepping on one and being injured; roll a Luck check with a -10 modifier; on a failure, the character suffers 1d10+4 DB at -2 AP.
+(Note that armors that do not include greaves or boots will not apply; metal armors can usually be assumed to include greaves, while other armors do not.)
+
+Caltrops are small, and are often dull-colored and difficult to notice.
+A perception check can reveal the presence of caltrops in a square (this will likely be a *passive* check, unless the character is actively searching for concealed items or traps); if they succeed, the character notice the caltrops, and can *move cautiously* to avoid them.
+On a standard success, only some of the caltrops are detected: a character who *moves cautiously* must still make a luck check, although they receive a +30 modifier.
+On an exceptional success, the character notices all of the caltrops, and *moving cautiously* will completely evade them (for at least that square or area).
+In any case, *moving cautiously* is slow; the character cannot move faster than their base rate.
+
+We assume that it takes about 6 caltrops to cover a one-meter square, but more or less can be used.
+More caltrops are easier to detect, but also harder to avoid—a very large number might make the square impassable until they are cleared (allowing no test to move safely, and automatically wounding anyone who enters).
+Conversely, a smaller number might be much harder to detect, but also easier to avoid.
+
+Normally, caltrops are simply dropped or thrown in an area, but they can also be actively concealed.
+Though this is a more time-consuming process, it makes it much less likely that an adversary who enters the area will notice them; both Perception checks to notice them and Search checks to clear them (see below) suffer a -30 penalty.
+
+An area sown with caltrops can be *cleared*.
+This is a slow process; clearing a square is a 1 minute Task Action while clearing the area around a fortification could take hours or days.
+A Search check is required to find and collect all of the caltrops.
+
+When clearing an area, it is very common to miss some of the caltrops; innocent civilians can be lamed days, months, years or decades later.
+For this reason, the Commonwealth are less frequent users of caltrops than other militaries—although they have been a vital part of their defenses against the mounted raiders of the Shaded Sea People and the knights of the Kingdoms of Men.
+Conversely, the Goblin Empire are frequent users of caltrops on the Ruby Plane—as, increasingly, are the peoples of the Ruby Plane attempting to resist them.
+Imperial troops typically do not recover caltrops, which allows their opponents to recover the weapons and redeploy them.
+
+A dozen caltrops can be purchased for Cost: Minor.
+
+## Dungeon Traps
+
+Classical "dungeon traps" are somewhat out of place in *Renaissance.*
 For one, *Renaissance* is not primarily a game about "dungeon delving"—we're never going to be as good at that as D&D is, and that's not a theme we're going for anyway.
 For another, they don't make a lot of sense if you think about them.
 Who builds them?  Who maintains them?  Who resets them?  How do they last decades or centuries?  Why not just use a conventional garrison?  Why risk your own garrison falling victim to them?
