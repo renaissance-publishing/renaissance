@@ -291,22 +291,13 @@ Finally, players may loose luck points for:
   - A major failure at role-playing, such as acting against a
     character’s motivations
 
-Sidebar: How many Luck Points can you spend on a check?
+<aside class="gmguidance">
 
-  - As far as the rules go, there is no set limit: a player could spend
-    a point of luck to remove all penalties, then spend a luck point to
-    flip a test from an 81 to a 18 to pass the test, and then spend a
-    luck point again to upgrade that to an exceptional success.
-  - GMs who want a tougher game for their players—or who don’t want
-    their players to dump Luck Points at the end of each session—may
-    limit their use of luck, allowing only one point to be spent on a
-    test (for example).
+### How many Luck Points can you spend on a check
 
-Thought: rename this* *back to Moxie, or something else more general,
-and make it do more things. I already have a couple of abilities that
-allow you to do stuff with Luck, and I like them; I have a couple more I
-wanted to add, except that linking them to “Luck” doesn’t make much
-sense.
+As far as the rules go, there is no set limit: a player could spend a point of luck to remove all penalties, then spend a luck point to flip a test from an 81 to a 18 to pass the test, and then spend a luck point again to upgrade that to an exceptional success.
 
-“Resolve” might also work.
+GMs who want a tougher game for their players—or who don’t want their players to dump Luck Points at the end of each session—may limit their use of luck, allowing only one point to be spent on a test (for example).
+If you decide to do this, you should make this decision before an adventure starts and inform your players about it, so that they can take this into account during character creation—players may very reasonably decide to buy less Luck.
 
+</aside>
