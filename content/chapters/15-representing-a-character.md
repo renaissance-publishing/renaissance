@@ -31,7 +31,7 @@ Characters have the following:
       - Somatics (SOM): your character’s ability to manage your body.
     
       - Willpower (WIL): your character’s self-discipline.
-    
+
 <aside class="playerguidance">
 
 ### Somatics is a mental aptitude
