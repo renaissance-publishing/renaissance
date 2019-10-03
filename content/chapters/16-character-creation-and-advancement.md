@@ -120,7 +120,7 @@ Wealth Levels:
 | 4 (local wealthy)  | 10   |
 | 5 (noble)          | 20   |
 
-<aside class="">
+<aside class="clarification">
 
 ### Skill Cost Table
 
@@ -141,7 +141,7 @@ we can save players some effort by listing the CP costs for these common scenari
 | 45 | 60 | 50 | 40 |
 | 50 | 70 | 60 | 50 |
 
-</asid>
+</aside>
 
 ## Character Advancement
 
