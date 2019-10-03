@@ -113,7 +113,7 @@ Also, WIL×3 checks are commonly used to resist fear and stress.
       - I’m worried point A could be done with traits, and point B could
         be done with powers
 
-<aside class="clarification lowprofile">
+<aside class="clarification">
 
 We sometimes refer to a character's racial abilities, traits, classes and powers collectively as their "features".
 
