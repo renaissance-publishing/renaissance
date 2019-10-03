@@ -115,7 +115,7 @@ Also, WIL×3 checks are commonly used to resist fear and stress.
 
 <aside class="clarification lowprofile">
 
-We sometimes refer to a racial abilities, traits, classes and powers collectively as "features".
+We sometimes refer to a character's racial abilities, traits, classes and powers collectively as their "features".
 
 </aside>
 
