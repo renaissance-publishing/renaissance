@@ -96,9 +96,9 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
     and they still have several “client” populations in the Shaded Sea
     and on Emerald Plane.
 
-## The Raptor’s Alliance
+## The Raptors' Protectorate
 
-  - The Raptor’s Alliance
+  - The Raptors' Protectorate
   - On the Raptor’s Plane, in the North-West and Central regions of the
     continent.
   - An alliance formed almost 400 years ago to resist piracy and raiding
@@ -111,16 +111,129 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
   - May be forced into closer alliance, as they are pressured by Goblins
     on the Eastern shore and Shaded Sea peoples on the West.
 
-## The Goblin Kings
+## The Goblin Empire
 
-  - In South-East of Emerald Plain – East of Dragonshire, South of
-    Kingdoms of Men
-  - also on North-Eastern edge of the Raptor’s Plane.
-  - In the past, they were a much bigger threat; the Commonwealth and
-    Kingdoms have since grown militarily too powerful, and the Goblinoid
-    Kingdoms have been “contained.”
-  - Rather than die out, they’ve crossed the Gulf and begun colonizing
-    the island-continent to the South.
-  - There they have subjugated several of the races they’ve encountered,
-    and have begun to become wealthy.
+Goblins have long dwelled in the southeastern reaches of the Emerald Plane, their culture ruled by Kings and Warlords—and infamous for the sale and brutalization of intelligent beings as slaves.
+Since the rise of the Dragonshire—and especially since the Kingdoms of Men reformed from the remains of the Empire of Man—the Goblins have been the weakest major power in the East.
 
+Their fortunes have changed dramatically since the creation of the Goblin Empire and their conquest of the Ruby Plane.
+
+### Kings, Warlords, Emperors and the Code
+
+Goblin society is ruled by Kings and Warlords.
+Kings control cities, towns and territories—the means for food, industry and trade.
+Warlords, in turn, control bands of Goblin fighters.
+Kings jostle amongst themselves, forming alliances and competing for power, but they also compete for the services of warlords; kings' arrangements with warlords are openly mercenary—there is little pretense of honor, loyalty or higher causes—and they can be extremely fragile.
+
+Unsurprisingly, rule in Goblin society can be extremely unstable.
+
+This does not have as great an impact on Goblin society as it could, however, because law and commerce are not administered by their Kings; instead, they have a parallel legal system, founded in the Code, and administered by Judges.
+
+#### The Code
+
+Originally called the *North Coast Code,* the Code was a formalization of the customs used to govern trade between several cities on the southern coast of the Glass Sea—the sea between the Kingdoms of Men and the Goblins.
+Though it was only originally intended as a trading agreement between a handful of cities, it began to spread; though it doesn't claim to be ordained great spirits, destiny or fate, it has nevertheless come to occupy a central place in Goblin society.
+
+The Code has evolved over the centuries; eight major schools of legal scholarship have developed, and each has accepted modifications to the Code itself—the Code never claimed to be unmodifiable, although no procedure for amending it was specified.
+In general, there is little competition between Schools; Goblins tend to view each of the schools as being equally valid, thinking of them much like the way that members of the Commonwealth think of different provinces.
+
+Judges as such are few: there may be only three or four in a city of five thousand.
+They have the support of clerks, scholars, and Enforcers—though the ranks of the Enforcers will be fewer than the forces of local Kings and Warlords, they are numerous enough to enforce the Judge's judgments on the populace.
+Those who appear before Judges can hire Advocates—scholars of the law who specialize in pleading before Judges.
+Advocates' skills are highly valuable, and they are often important, powerful and wealthy members of their communities.
+
+#### Kings-by-the-Assembly
+
+The Second High Kingship of the Kingdoms of Men (CY 361-435) was particularly warlike, and cost the Goblin Kingdoms heavily.
+In CY 377, an unprecedented step was taken: several desperate northern Kings called their peers to an assembly, with the purpose of selecting one among their number to lead their combined forces, the better to resist the Kingdoms of Men.
+In early CY 378, the First king-by-the-Assembly was appointed.
+
+The First King-by-the-Assembly had the loyalty of most Kings—and could exploit the internal peace to buy most Warlords—and was able to rally stronger resistance to the Kingdoms; however, they where still overmatched.
+The first King-by-the-Assembly served until CY 417.
+
+The only other King-by-the-Assembly ruled from 541 to 563; the line ended when the king's daughter was assassinated less than 6 months after taking the throne.
+
+The Third High Kingship of the Kingdoms of Men (CY 695), the peace between the Kingdoms of Men and the Dragonshire (beginning in CY 698), and the incorporation of the Dragonshire into the Commonwealth at the signing of the Commonwealth Compact (CY 744) spelled the end of the Goblins as a major power on the Emerald Plane; the new Commonwealth was far too vast, wealthy and powerful for the Goblin Kings to compete with.
+
+#### The Empire
+
+Goblins hailing from southern kingdoms first sailed far enough south to reach the Ruby Plane in CY 538; they found in the northeastern Ruby Plane an arid land, populated by relatively primitive people—a land the could plunder, full of people who would be their slaves.
+Goblin sailing techniques rapidly improved, and by CY 617 they had established a permanent outpost on the northern shore of the Ruby Plane.
+
+In CY 703, the Noble Assembly once again appointed a ruler—this time an Empress.
+She was given the power to assembly an Empire—to raise taxes, to build an Imperial administration, and to levy the forces of the kings and warlords and place them under her command.
+She was given this power for the express purpose of efficiently conquering and plundering the Ruby Plane.
+
+The Goblin Empire has seen a rapid rise in the Goblin's fortune.
+They have conquered a large swath of the northeast Ruby Plane, displacing, enslaving or exterminating many of the native races in the process.
+The territory on the Ruby Plane is now larger than their territory on the Emerald Plane—though they still rule this territory from the Emerald Plane.
+
+In characteristic style, modern Goblin society has at least three centers of power, who compete as much as they cooperate: The Imperial administration rules their society, but only so long as it has the consent of the Kings—only so long as it enriches the Kings with treasure plundered from the Ruby Plane—and the Kings try to keep the Empire on a short leash.
+And through it all, the Judges remain, ruling on matters of law and custom.
+
+### The Economy—and Slavery
+
+Slaves have long been one of the chief resources of the Goblin economy—the North Coast Code specifically granted Goblins the right to take any non-Goblin as a slave, and very few scholars of the Code have questioned this provision or called for change.
+
+Acquiring slaves on their home plane grew more and more difficult as the other peoples and nations of the eastern Emerald Plane grew stronger; it effectively became impossible with the signing of the Commonwealth Compact, as they could no longer risk the wrath of the Commonwealth.
+
+The Ruby Plane has become the chief source of slaves and plunder, and the economy of the Goblin Empire now revolves around the conquest and exploitation of the Ruby Plane and her people; this transformation has brought the Empire unprecedented wealth and prosperity.
+
+### The Imperial Military
+
+Goblin metal-working has long lagged behind that of the Kingdoms of Men and the Dragonshire; owing to their long talons, awkward hands, and stiff bone-plated backs, they have never been able to ride horses well; and the forces of Kings and Warlords are often highly heterogeneous—and almost always reinforced with slaves.
+All of these factors have meant that the Goblin Kings have long lagged behind the other militaries of the Emerald Plane.
+
+Still, they are not without advantages.
+Several Goblin Kingdoms have cultivated expertise in chemistry, alchemy and medicine, and they have used these skills to turn their slave ranks into forces to be feared.
+
+They have also used their time on the Ruby Plane wisely.
+Though the troops levied from Kings and Warlords may vary widely in tactics, composition and quality, the Empire has reorganized them into regular units, drilled them, and deployed them together; this has led to rapid improvements in their coordination.
+The Empire has also experimented with new technologies—they are the only power besides the Commonwealth to experiment with guns and cannons.
+
+#### The Infantry
+
+Goblins commonly use large formations of infantry equipped with long spears or pikes.
+The first two ranks carry shields: the first rank will fight kneeling, with their spears braced at their feet and their shields readied, while the second rank fights standing and holding their shield up—though also with their spears braced.
+The ranks behind them fight with their spears or pikes held overhead, attacking by thrusting.
+
+These pike-wielding formations can be extraordinarily deadly, but they are also very vulnerable if they are flanked; for this reason, support is essential.
+The flanks of these formations are often guarded by ranks equipped with crossbows or hand-cannons—Goblins are not well designed for the use of bows, but they can use guns and crossbows effectively.
+
+Goblins do not field heavy cavalry the way the Kingdoms of Men do—although they do field deadly light cavalry.
+Gremlins do not have long talons interfering with their ability to grip, they do not have bony plates impeding their flexibility, they are light enough to ride two-to-a-horse, and—vitally—they can be trusted enough to play a vital role in a fighting force, unlike other slaves.
+Gremlins ride two-to-a-horse, typically in light armor, carrying guns or crossbows; though they are almost incapable of mounting a charge like mounted human Knights can, they make deadly skirmishers and archers.
+Because there is a separate jockey and crossbow-wielder or cannoneer, they can fire effectively while moving at speed; because they are so fast and mobile, they can close to a much shorter range without feer of being effectively engaged—even by enemy archers.
+And because they are so lite and quickly, they are particularly effective at running down an enemy who breaks; this capability is very important, as it has allowed the Goblin Empire to turn many partial victories into devastating routes.
+Sometimes, these light cavalry will carry man-catchers, nets, bolos and other weapons designed to debilitate and capture fleeing enemies; a future of misery and slavery awaits those so captured—and wealth and reward awaits the Gremlin who captures many future slaves.
+
+When operating in smaller units, Goblins often field a single formation, of mixed pike-wielders and crossbow-wielders.
+Each rank will be a mix of pikes and crossbows; in the first two ranks, the pike-wielders will also carry shields.
+When the enemy is at range, the crossbow-wielders will stand next to the pike-wielders; the pikes will cover them with their shields.
+As the enemy closes, the crossbows will step back into the pikes, who will close ranks in front of them; if the enemy engages the formation in melee, the crossbows will fight with their talons.
+This requires careful coordination; if order collapses, the results are likely to be catastrophic.
+The Goblin Empire drills these formation often, and is careful to arrange troop rotations so that all of their infantry have experience deploying these tactics in combat.
+
+Though Goblin Kings have long made use of slave rabble in their military tactics, the Goblin Empire is less willing to do so; the loyalty and reliability of slaves recently acquired from the cultures of the Ruby Plane remain a serious concern.
+Still, some generals do press slaves into service—especially members of larger and more battle-capable races; these slaves are often paid a wage and afforded better treatment, the better to secure their loyalty.
+
+#### The Navy
+
+The Goblin navy is vital for connecting their territories on the Ruby Plane with their homeland.
+This navy is primarily a defensive and logistical force—protecting their landings, ferrying troops and equipment from the mainland and riches back home.
+
+### Other Nations
+
+While the Goblin Empire has made no peace overture to the Kingdoms of Men or the Commonwealth as such, they have avoided any conflict with those powers.
+
+The Goblin Empire is, of course, an enemy of the Raptors' Protectorate, and the two are at war; indeed, the very mission of the Protectorate is to provide a safe refuge from the predations of the Shaded Sea Peoples and the Goblin Empire.
+So far, however, direct conflict has been minimal: the Protectorate lags behind the Empire in technological sophistication and military capability, and so they have focused on securing their borders and integrating and arming their refugee populations.
+
+The Commonwealth has been slow to form an alliance with the Raptors' Protectorate—they are slow to start a war that may consume half a continent on another's behalf—but sympathy for the Protectorate has long been strong in the Commonwealth, and relations between the two have been strengthening.
+The Goblins know that such an alliance is coming, and that they may lack the diplomatic means to stop it; in recent years, they have begun to prepare to fight a war on two fronts.
+
+Even though the Commonwealth has not yet formally allied with the Protectorate, they have long meddled in the affairs of the Goblin Empire—through spies directly commissioned by the council, and through the tacit support of organizations like the High Road.
+
+While some kings have sought allies among the kings and nobles of the Eastern Kingdoms, such overtures have not yet been fruitful, and the Empire has not yet given them its official support; the southern Human Kingdoms have long been enemies of the Goblin Kings, and the Kings of the East are slow to forgive.
+
+The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the sea south of their borders, cutting off an ocean route).
