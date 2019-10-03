@@ -102,8 +102,8 @@ aside:not(.toc-menu)
     text-align: left;
     float: right;
     */
-    margin: 4em;
-    padding: 2em;
+    margin: 2em;
+    padding: 1em;
     border: 3px dotted #101020;
 }
 
@@ -130,7 +130,7 @@ aside:not(.toc-menu).insert
 
 .playerguidance
 {
-    background-color: #5f5f96;
+    background-color: #8a8aa1;
 }
 
 .designnote
