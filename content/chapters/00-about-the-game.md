@@ -48,6 +48,8 @@ Changes since last time:
 - Added asides for designing the named magic items, and modifying powers.
 - Added the Flashback Anchor.
 - Added a chapter on common hazards.
+  - which has fire, drowning, falling, realistic and stupid traps, and other fun things.
+- Some editing and clean-up in *representing a character* and other chapters.
 
 Feedback Questions
 
