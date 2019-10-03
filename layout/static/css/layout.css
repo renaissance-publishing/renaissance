@@ -107,6 +107,12 @@ aside:not(.toc-menu)
     border: 3px dotted #101020;
 }
 
+aside:not(.toc-menu).insert
+{
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
 .example
 {
     background-color: #f3d2f3;
@@ -120,6 +126,11 @@ aside:not(.toc-menu)
 .gmguidance
 {
     background-color: #ceecce;
+}
+
+.playerguidance
+{
+    background-color: #5f5f96;
 }
 
 .designnote
