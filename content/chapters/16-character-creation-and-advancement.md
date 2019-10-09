@@ -26,15 +26,35 @@ Proceed through the following steps in order:
     
       - Add your racial Aptitude modifiers.
     
-      - Distribute 20 points between your various aptitudes.
+      - Distribute +20 points between your various aptitudes.
         
           - You could add 5 to SOM, 10 to WIL and 5 to COO, for example.
     
-      - Distrubte -5 points between your various aptitudes.
+      - Distribute -5 points between your various aptitudes.
         
           - You could subtract 5 from your COO, for example.
           - You can subtract points from one of the aptitudes that you
             added points to.
+
+<aside class="designnote">
+
+### Why Add 20 then Subtract 5
+
+Why distribute +20 points to your aptitudes, then distribute -5?
+
+It's so you can choose to have a "dump stat" or not.
+You can subtract 5 from an aptitude that you added 5 to, so that you will *in effect* have just distributed +15.
+Or you can apply the -5 to an aptitude that you *didn't* boost, so you will have more boosts to your good stats at the price of having a bad stat.
+
+### Why Not Boost Stats with CP
+
+Eclipse Phase lets you buy Apt boost with CP, why don't we?
+
+One reason is that it arguably doesn't work very well in Eclipse Phase—although the reasons it doesn't work in Eclipse Phase don't really apply to us.
+
+The relevant reasons are, one, to keep the character creation process simple, and two, to make your race selection important (the more free-form your ability to move Aptitude points around is, the less your race's specific aptitude bonuses matter, and the more races that have lower aptitude bonuses—like Shifters—suffer in comparison to the others).
+
+</aside>
 
   - Pick your Background
     
@@ -88,7 +108,7 @@ Proceed through the following steps in order:
         
           - 1 CP → minor-cost item
           - 5 CP → moderate-cost item
-          - 10 CP → high-cost item
+          - 10 CP → major-cost item
           - 20 CP → extreme-cost item
           - We don’t track the CP cost of Trivial-cost items; most
             useful trivial-cost items are best acquired as parts of
@@ -119,6 +139,30 @@ Wealth Levels:
 | 3 (merchant)       | 5    |
 | 4 (local wealthy)  | 10   |
 | 5 (noble)          | 20   |
+
+<aside class="gmguidance">
+
+### Getting Gear Without Paying
+
+Consider Lady Katarina, the wealthy Ratfolk noble and crime-lord.
+Ratfolk aren't strong or large, so she can't rely on strength in combat; instead, she uses poisons and throwables (like scour) to amplify her damage-dealing ability.
+A dose of poison or a can of scour are both Cost: Medium (see *Alchemical Items* in Items); if she buys these things during character creation, each one will cost her 1 CP.
+During character creation, her creator might decide to spend 10 CP to get 5 doses of poison and 5 canisters of scour.
+
+But, as soon as the game starts, she can *craft* any one of these items, using her skills; since we don't normally track raw material consumption during crafting, she effectively gets these items for free.
+If she gets some Down Time, she can potentially make *dozens of them.*
+Or she could just buy them: with level 4 wealth and good Protocol, she can potentially get a *lot* of Low- or Medium-cost potions before she depletes a wealth dot!
+
+So, does it make sense that she should spend a scarce, valuable resource like CP to acquire a thing that she might be able to get for free an hour later—especially given that that thing is single-use?
+Probably not!
+
+At the GM's discretion, players may be allowed to acquire items (or, rarely, features) without paying CP, if there is some *compelling reason* that they are able to do so; this might include an item you could have crafted, or whose cost is much lower than your wealth, or that would likely be provided to you by a guild or organization that you're a member of.
+
+Players shouldn't attempt to get *large amounts* of items this way.
+(We are deliberately not specifying what the upper-bound for "a large amount" is; if we said that "players shouldn't get more than *k* CP of items without paying CP," then every character will be sure to find one way or another to get *k* CP of items for free.)
+Players also usually shouldn't get expensive (or important) items this way—if a special, magical staff is central to your character concept, you can specify that you constructed it yourself, but you should still pay CP for it (since it's probably a Cost: Major item).
+
+</aside>
 
 <aside class="clarification">
 
