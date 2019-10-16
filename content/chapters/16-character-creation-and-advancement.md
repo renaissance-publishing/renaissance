@@ -120,6 +120,29 @@ Wealth Levels:
 | 4 (local wealthy)  | 10   |
 | 5 (noble)          | 20   |
 
+<aside class="clarification">
+
+### Skill Cost Table
+
+Doing the math for purchasing skills can be frustrating.
+Most of the time, players purchase skills in multiples of 5, and people usually get no, 10 or 20 free ranks from their backgrounds;
+we can save players some effort by listing the CP costs for these common scenarios.
+
+| Ranks | No Free Ranks | 10 Free Ranks | 20 Free Ranks |
+| ----- | ------------- | ------------- | ------------- |
+| 5 | 5 | × | × |
+| 10 | 10 | 0 | × |
+| 15 | 15 | 5 | × |
+| 20 | 20 | 10 | 0 |
+| 25 | 25 | 15 | 5 |
+| 30 | 30 | 20 | 10 |
+| 35 | 40 | 30 | 20 |
+| 40 | 50 | 40 | 30 |
+| 45 | 60 | 50 | 40 |
+| 50 | 70 | 60 | 50 |
+
+</aside>
+
 ## Character Advancement
 
 As characters operate in the world (and especially as they complete

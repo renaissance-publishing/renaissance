@@ -33,6 +33,8 @@ title: "The Commonwealth Today"
         a parliamentary republican government. Where the dragons are
         from.
 
+      - Westward: a band of territory stretching between the Worldspine Mountain and the western shores of the Emerald Plane.  The tribal territories sit between Westward Province and Northland Province.  On the south, Westward shares a border with the Shade Elves, and that border has seen near-constant conflict; because of this, Westward is heavily militarized.
+
   - There are three major city-states
     
       - Twin Cities, old (above-ground) trade-city and new Kobold

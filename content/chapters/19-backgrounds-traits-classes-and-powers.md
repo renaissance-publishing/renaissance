@@ -2,41 +2,50 @@
 title: "Backgrounds, Traits, Classes and Powers"
 ---
 
-See the Character Creation rules.
+Backgrounds, traits, classes and powers represent (some of) the experiences, abilities and properties that define your character.
 
-Traits work more or less like EP Traits, and Powers are distantly
-inspired by EP Sleights. In terms of this game, Backgrounds give you a
-package of skills, traits and items that represent your upbringing,
-Traits give you some useful property, Powers give you a special action
-you can perform – usually, and Classes let you “break the rules” in
-limited and interesting ways – for example, Soldier let you use the
-Assist action during combat.
+Rules for acquiring backgrounds, traits, classes and powers can be found in the *Character Creation* section (and, for GMs, some guidance for assigning them to NPCs can be found in *Monsters, Animals and NPCs*).
+
+<aside class="designnote">
+
+The exact boundary between a Trait, a Class and a Power might be confusing.
+In general:
+- A **trait** represents an *innate* property that your character has, like being particularly brave or have unusually fast reflexes. Importantly, traits aren't actions (like powers), and traits usuall aren't acquired through experience (like classes).
+- A **power** represents a unique ability that your character can perform.  Power usually *are* discrete actions (even a sustained action is still an action that you're not performing except when you decide that you are).  Also, powers often *are* learned; they often represent a "trick" that your character has drilled to perfection.
+- **Classes** are a little more variable.  Very broadly, they often represent a membership you have (or have had) in some organization--which might have given you some special training, or might give you access to their resources.  Classes commonly take two forms: they either let you "break the rules" in some interesting way (like the *Channeler*) or they give you access to an organization's resources (like *Guild Member*).
+  - There is a third, somewhat odd and rarer kind of *Class*, one that gives you a "feature".  *Corpse-Herder* and *Familiar-Bound Mage* are examples.  Both conceptually and mechanically, these are a little awkward: they're classes essentially because they're not *traits* (since they're not innate), and since they're not *powers* (because they aren't discrete actions--"having a magical pet" isn't really an action that you perform).
+
+A final note on classes: we've tried to avoid adding things that *should be* traits or *should be* powers as part of what you get from a class; we much prefer that the trait or class be a separate thing--one that has the given class as a prerequisite.
+(Every attendant at a given shrine might have a certain power, for example, but it's preferable to list the power separately from the shrine-attendant class.)
+
+</aside>
 
 ## Backgrounds
 
-  - Guidelines
-    
-      - Should give you a few skills, possibly a Trait
-        
-          - should give you *ranks* and not a bonus, because of how
-            buying skills works.
-          - Really shouldn’t include EP-style “buy at half price”, those
-            are obscenely strong.
-          - Should probably provide about 40 CP-worth of bonuses
-    
-      - Backgrounds shouldn’t give you something you can’t get anywhere
-        else. Instead, they should give you a “starting package” at no
-        cost.
-    
-      - Hint: Backgrounds can award Traits, Classes and even Powers –
-        it’s not a bad trick for making them more interesting, and
-        it’s useful if a Class, Trait or Power is important to a given
-        theme.
-    
-      - These backgrounds are general backgrounds – the kind of
-        backgrounds that anybody might have, and that might exist in any
-        province. If you want a more specific backgrounds, you can make
-        it an optional background for a given race.
+Your *Background* represents what you have gained from your early life experiences--from the influences your culture had on you, from growing up wherever you grew up.
+
+Note that the list of backgrounds presented here is far from exhaustive: these are merely the most common and general backgrounds, capable of representing most common cultures and backgrounds in the Commonwealth.
+Players and GMs should feel free to modify these backgrounds to represent a character's unique origins (players require their GM's approval, of course).
+Notably, many of the races that have joined the Commonwealth have their own unique culture (or cultures); to represent this, many of the races in the *Races* section have their own unique backgrounds.
+
+Note also that none of these backgrounds should be taken to be exclusive to a given race; the "common races" list is intended merely as a guide.
+It's entirely possible for a Human to grow up in a trival society, or a Shifter to grow up in one of the Commonwealth's large cities.
+Note that this is even true of the optional racial backgrounds presented in the *Races* section: it's entirely possible for a Human to grow up among Gnolls and Halflings in a trade-caravan, for example, or for a Gnoll to grow up in an Ash-Elven undercity.
+
+<aside class="gmguidance">
+
+### What should be in a background
+
+Most of the backgrounds give you 40CP of benefits, which represent the skills and resources that most members of your culture acquire.
+
+Ranks in skills, traits, and items are common choices; these repesent the skills that every member of a culture would acquire, the abilities that people commonly learn, and the kinds of possessions that are common among them.
+Ranks in skills are usually a good place to start; you can branch out into traits and items if you can't come up with 40 CP of particularly unique or exciting ranks in skills.
+(There's no reason a background can't award a class or power, but in our opinion this makes a little less sense and is a little harder to balance, and so is often best avoided.)
+
+Backgrounds *usually* shouldn't include things that it's impossible to acquire somewhere else, although this is mostly for "game design and balance" reasons; we find it very frustrating to force people into taking a particular background in order to have access to some trait or skill.
+(This is why most of the Optional Racial Backgrounds give you some of the other Optional traits for that race, which you can in principle purchase separately.)
+
+</aside>
 
   - Dragonshire
     
@@ -114,50 +123,77 @@ Assist action during combat.
 
 ## Traits
 
-Traits represent special properties about your character. In general,
-Traits are not actions; they are always in effect during play.
+Traits represent special properties about your character.
+In general, Traits are not actions (and thus they are always in effect during play).
 
-  - Alert: You are particularly aware of your surroundings. You take no penalty to passive Perception tests.
+<aside class="gmguidance">
 
-  - Ambidextrous: Choose one of your hands: you may now use that hand as
-    well as your dominant hand. Notably, this means that the penalties
-    for using an Off-Handed Weapon would not apply when using that hand.
-    (Characters with more than two hands may take the Ambidextrous trait
-    repeatedly, if they wish to have more of their limbs be “dominant
-    hands”.)
+### What Makes a Good Trait?
 
-  - Brave: your character receives a +20 bonus to tests to resist fear
-    or intimidation
+Designing a good trait is tricky.
+They're not like Backgrounds, which, for the most part, have a fixed allotment of things with a given CP cost.
+Designing a good (and balanced!) trait is far more subjective.
 
-  - Common Sense: you know a good idea (or a bad one\!) when you see it.
+It's important to understand the difference between what should be a class, a trait, and a power, and it's important to heed the general advice for designing new elements (avoid something that completely eclipses other options, that negates the need for a skill, or that trivializes a role).
+After that, your best bet is to compare your new trait to the ones that already exist; in particular, make sure that it's different enough from the traits that already exist (otherwise it probably isn't worth the effort), and that it's not wildly more or less powerful (or valuable, in CP terms) than the other options.
+
+</aside>
+
+### Positive Traits.
+
+Some traits are *positive:* they provide a benefit (and cost CP during character creation, see *Character Creation* for rules for acquiring traits).
+
+- Alert: You are particularly aware of your surroundings. You take no penalty to passive Perception tests.
+
+- Ambidextrous: Choose one of your limbs: you may now use that limb as adroitly as you can use your dominant hand.
+  - Notably, this means that the penalties for using an Off-Handed Weapon would not apply when using that hand.
+  - Note that this trait is not specific to an arm: an Elf could use to to be able to handle a weapon (without offhand penalties) with one of their prehensile feet, for example.
+
+- Brave: your character receives a +20 bonus to tests to resist fear or intimidation
+
+- Common Sense: you know a good idea (or a bad one\!) when you see it.
     Once per game, you may ask the GM whether some particular action is
     a *good idea* or not; alternatively, the GM may warn you that
     something you are about to do is a *bad idea*.
 
-  - Disciplined: You are particularly good at self-control. You may spend 1 luck to reroll a check that includes your WIL.
+- Disciplined: You are particularly good at self-control. You may spend 1 luck to reroll a check that includes your WIL.
 
-  - High Pain Tolerance: your character can *negate* the effect of one wound.
+- High Pain Tolerance: your character can *negate* the effect of one wound.
 
-  - Limber: Your character is very lithe, and receives a +10 bonus on checks where this would be beneficial, such as trying to escape bindings or squeeze through tight spaces.
+- Limber: Your character is very lithe, and receives a +10 bonus on checks where this would be beneficial, such as trying to escape bindings or squeeze through tight spaces.
 
-  - Ready: you may spend a Luck Point to re-roll your initiative.
+- Ready: you may spend a Luck Point to re-roll your initiative.
 
-  - Resilient: you are particularly mentally durable. You can negate one Trauma.
+- Resilient: you are particularly mentally durable. You can negate one Trauma.
 
-  - Social Animal: you are particularly well-suited to large groups and complex social situations. You may spend a Luck Point to reroll a social skill check.
+- Social Animal: you are particularly well-suited to large groups and complex social situations. You may spend a Luck Point to reroll a social skill check.
 
-  - Strong: you are particularly strong. This increases your STR by 5.
+- Strong: you are particularly strong. This increases your STR by 5.
 
-  - Thrifty
-    
-      - You have a knack for getting the most out of your money.
-      - You have one additional wealth dot at each level.
+- Thrifty
+  - You have a knack for getting the most out of your money.
+  - You have one additional wealth dot at each level.
 
-  - Tough: you are particularly tough. This increases your DUR by 5;
-    this changes your WT and DR as well.
+- Tough: you are particularly tough. This increases your DUR by 5.
 
-Some traits are *negative traits*. A negative trait imposes a *penalty*,
-but taking it *gives* you more CP to spend.
+#### Deathless
+
+Your heroic defiance can even delay death for a time.
+
+- **Requires:** Defiance, 25 WIL
+- **Benefit:** When your damage exceeds your DR, you may continue to act normally for WIL÷5 rounds.  During this time, your heroic resolve is astonishing: your wounds and traumas are *negated*.  At the end of this duration, you die as normal.
+- **Design Note:** no test is required, because you die at the end; how sad would it be to carry this trait around for a character's entire life and then fail to activate it at the end?
+
+#### Defiance
+
+You are defiant in the face of injury and agony.
+
+- **Requires:** 20 WIL
+- **Benefit:** When your damage exceeds your DUR, you have a chance to continue to act for a short time (instead of losing consciousness immediately, like you normally would).  When you damage exceeds your DUR, roll WIL×3; if you succeed, you may remain conscious for WIL÷5 rounds.
+
+### Negative Traits
+
+Some traits are *negative traits*. A negative trait imposes a *penalty,* but taking it *gives* you more CP to spend during character creation.
 
   - Distinctive: you have some very distinctive characteristic, which
     makes you very recognizable. You take a -20 penalty on Disguise
@@ -187,68 +223,59 @@ but taking it *gives* you more CP to spend.
   - Weak: you are weaker than the norm for your race. You have -5 STR.
     You cannot take both this and the Strong trait.
 
-Some traits are *neutral*, giving you both a benefit and a drawback;
-they do not cost CP.
+### Neutral Traits
 
-  - Hardened: You have been exposed to some source of stress repeatedly,
-    and have become resistant to it; however, doing so has taken a toll.
-    
-      - Choose one particular source of stress: you gain +WIL to checks
-        made to resist it, but your Luck stat is reduced by 1.
-      - Example sources of stress include *being gravely injured in
-        combat;* *failing one of your motivational goals spectacularly;
-        witnessing, experiencing or performing torture* and *displays of
-        extreme supernatural power.*
-      - Right now, this is borrowed fairly directly from EP, but I’d
-        like to adapt it to the game and setting more. Maybe reduce LUC
-        by 5 instead?
+Some traits are *neutral*, giving you both a benefit and a drawback; they do not cost or provide CP.
 
-  - Unique Outlook: You have some personal philosophy or outlook that
-    causes you to process some situation vary differently than other
-    people do; on the plus side, this allows you to weather some
-    situations that others would find stressful, but on the down side,
-    this also makes it harder for others to relate to you.
-    
-      - Choose one particular source of Stress: you gain +WIL to checks
-        made to resist it, but you suffer a -10 penalty to Persuasion
-        and Protocol tests.
-      - Note sure about that one either, I had the idea that instead
-        “your critical successes with Social Skills are ignored” or
-        something like it.
+- Hardened: You have been exposed to some source of stress repeatedly, and have become resistant to it; however, doing so has taken a toll.
+  - Choose one particular source of stress: you gain +WIL to checks made to resist it, but your Luck stat is reduced by 1.
+  - Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
+
+- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful—but on the down side, your unusual outlook makes it harder for others to relate to you.
+  - Choose one particular source of Stress: you gain +WIL to checks made to resist it, but you suffer a -10 penalty to Persuasion and Protocol tests.
+
+#### Smaller
+
+You are much smaller than average for your race; reduce your size category by one "step" (e.g. from Medium to Small).
+
+This affects your movement(s).
+Most of your movements are reduced: reduce your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements—like flight—might benefit from you being smaller, however: with your GM's approval, you may increase these movements by 1m/3m.
+
+Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.
+
+#### Larger
+
+You are much larger than average for your race; increase your size category by one "step" (e.g. from Small to Medium).
+
+This affects your movement(s).
+Most of your movements are increased: increase your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements—like flight—might be hindered by you being larger, however: at your GM's discretion, some of your movements will instead be reduced by 1m/3m.
+
+Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.
 
 ## Classes
 
-  - Guidelines for Creating Classes
-    
-      - Most classes either represent an association (that should be
-        useful to players during the game), or let them “cheat” in some
-        interesting way (i.e. by stepping around something that’s
-        normally a rule).
-        
-          - Classes shouldn’t give them new actions that they can
-            perform: those should be Powers.
-          - Classes shouldn’t give players ranks or fixed bonuses in
-            skills; that should happen in Backgrounds and Traits.
-    
-      - “20 ranks in 2 skills” is a good rule of thumb for most class
-        requirements – but obviously not all of them
-    
-      - Classes should not be *mandatory* for a given character concept.
-        A character with 85 in One-Handed Weapons should be a master
-        sword-fighter, and should be perfectly effective as a
-        sword-fighter without any classes (or powers). So, if you’re
-        working on a class that would be functionally mandatory for
-        every sword-fighter, or that just means “is a master
-        sword-fighter,” then something has gone wrong.
-        
-          - The biggest exception are Classes that directly represent a
-            social role, like Noble and Officer.
+Classes are somewhat variable; in principle, they represent either some association or experience that your character has (or had).
+As such, they usually grant you either access to some group's resources, or to some unique talent or training.
 
-  - Class whose names are italicized are dependent on specific locals,
-    spirits or characters, and so won’t make sense “just anywhere.” They
-    are intended more as examples of the kinds of things that players
-    might come up with to customize their characters, or that GMs might
-    use to “flesh out” a unique local.
+In practice, though, classes can become something of a catch-all--a very diverse type of feature that represents things that are not innate properties (like traits) or discrete actions (like powers).
+
+<aside class="gmguidance">
+
+### What Makes a Good Class
+
+Much as with traits, what makes a good class is highly subjective--and classes are even more tricky, since they are so variable.
+As with traits, it's a good idea to understand what the difference between a trait, a class and a power is, and to understand the general guidelines for creating new content.
+Notably, a class *shouldn't* give a character an action that they can perform or an innate property that they have: those should be separate powers or traits, respectively, although that separate power or trait can list the class as a requirement.
+
+There is one general rule that's worth pointing out specifically for classes: a class should not be "mandatory" for a given character concept ("mandatory" here meaning that anyone building a particular character concept would always choose to take that class).
+Classes also shouldn't represent something that any expert in a field would know how to do: someone with 50 ranks in Spellcraft is a master mage, even if they've taken no Classes at all.
+
+Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a good requirement for a "basic" class (a class that doesn't require any other feature).
+"Advanced" classes (classes that require other features) can have higher skill requirements (although they don't have to).
+
+</aside>
 
   - Artisan of the Dead
     
@@ -361,7 +388,7 @@ they do not cost CP.
       - Your familiar gains a COG of 10 (unless its COG is already higher).
       - You can distribute +15 points to the familiar's aptitudes.
       - You may spend up to 200 CP on your familiar.
-      - Your familiar is magically linked to you; it can understand you when you speak, and you can understand it (regardless of the language that you use, even if it doesn'ts peak a language), and
+      - Your familiar is magically linked to you; it can understand you when you speak, and you can understand it (regardless of the language that you use, even if it doesn't speak a language), and
       - you and it can exchange simple telepathic messages (like simple ideas or flashes of images).
 
   - Gang Member
@@ -521,7 +548,87 @@ they do not cost CP.
       - You may also design your own companion, although your GM must
         approve of the creature you create.
 
-Ideas:
+#### Drilled Fighter
+
+You have drilled some set of combat maneuvers to the point that they have become wrote.
+On the plus side, this allows you to perform complex *chains* efficiently and powerfully;
+on the down side, however, this means that someone who is familiar with these chains--possibly because they've fought you before, or because they're familiar with the school or unit you learned them from--can reliably predict what you're going to do.
+
+- **Requires:** 20 ranks in two *Combat* skills.
+- **Effect:** You can learn a number of *chains*; each chain provides bonuses that build with each successful step.
+- **Special:** When you acquire this class, you get two chains.  You may purchase more chains for 5 CP (during character creation) or 5 Rez (while leveling) per chain.  You may have up to 6 chains.
+- **Chain Basics**
+  - Each chain consists of between 3 and 5 individual steps, or *links*.
+  - Each *link* has an associated bonus; when you successfully complete a link, you gain its bonus.  (The last link doesn't have a bonus, because there isn't a following link for it to apply to.)
+  - The power of a chain lies in your ability to carry through it rapidly and precisely; you must proceed from link to link without interruption, or the chain is broken and the benefits are lost.  A chain is *interrupted* if you take an action that is not part of the chain, or go through a turn without performing a link.
+  - Some actions by other characters may also interrupt your chain; it does not necessarily interrupt your chain if you are successfully attacked, but it would interrupt your chain if you where *knocked down* as a result of an attack.
+  - Taking a *Reaction* interrupts the chain.  Since defending with Fray isn't a reaction, you can do that without interrupting the chain; since parrying is a reaction, parrying will break the chain, unless you're fulfilling a Defend link.
+- **Creating Chains**
+  - to create a chain, simply pick between 3 and 5 links from the list below, and then pick a bonus for each link (except the last).
+  - You must specify the details of each *link*.  For a strike, for example, you must specify the weapon you're using and the angle of the attack; for a motion, you must specify the movement mode, and how far you're moving.
+  You don't have to go into exhausting detail, you just need to provide enough information so that you and the GM can tell what has clearly satisfied the requirements of the link and what has not.
+  (For example, "I step back a space," "I thrust forward with my sword," "I make a rising block," and so on)
+  - Some bonuses have special restrictions or requirements.
+- *Clarification:* chains take several actions and will usually span several turns; a chain doesn't allow you to shoot through all the links in one turn.
+- **Special:** Players may propose their own links and bonuses, although these require the GM's approval.
+- **Flourishes:** You don't pick a bonus for the last link, since there's no following link for it to apply to; you can, however, pick a *flourish* for it.
+A *flourish* is represents some minor movement that completes the chain--a return-to-ready motion, a specific stance, a weapon twirl, or some other minor touch.
+Mechanically, flourishes provide a minor benefit for completing the chain.
+Sample flourishes are given in the table below.
+
+| Link | Effect |
+| ---- | ------ |
+| Strike | You attack with a given weapon. |
+| Step | You move with one of your movement modes. (You can specify how far.) |
+| Stunt | You perform a difficult stunt.  (This could range from something as simple as a forward roll to something as complex as a spinning flip.) |
+| Maneuver | You perform a given *combat maneuver* |
+| Defend | You defend against an attack (with Fray, by parrying, or some other way; you must specify which). |
+
+| Bonus | Effect | Requirement |
+| ----- | ------ | ----------- |
+| Might | the next Strike or Maneuver in the chain gains +DB DV | |
+| Precision | You gain +10 to *attack* skill checks require by the rest of the chain. | can only be taken up to twice. |
+| Deftness | Your next Step or Stunt does not provoke | |
+| Evasion | You gain +10 to your defense checks for the rest of the chain. | can only be selected up to twice. |
+| Sway | You gain +30 to your defense checks against a specified target until after the next link. | |
+
+| Flourish | Effect |
+| -------- | ------ |
+| Display | You adopt a visually striking stance, twirl a weapon, or otherwise demonstrate your prowess--which is all the more effective because you've just run through a chain.  You can roll your *Intimidate* against your opponent's Resist Social Manipulation; if you win, they suffer a -10 penalty to their attacks against you. |
+| Ready | Your chain ends with you in an advantageous, ready position; you gain a +10 bonus to your *Combat* skills until the end of your next turn. |
+| Initiative | You've put your opponent in a difficult position, put them off-balance, or otherwise stumbled them.  Your opponent reduces their INIT by 3. |
+
+#### Missile-Hurler
+
+Through long practice and physical conditioning, you have developed an excellent stance and strong throwing arm.
+
+- **Requires:** 20 ranks in Ranged Weapons, with the Thrown Weapons proficiency
+- **Effect:** Range and damage when throwing projectiles is improved.
+  - Your range is improved:
+    - When throwing a small object—about the size and weight of a brick, or smaller—you add 20m to each range increment.
+    - When throwing a larger object, you add 10m to each range increment.
+  - Your damage is improved:
+    - When attacking a target in your short range, you gain +DB DV and +2 AP.
+    - When attacking a target in your medium range, gain +1 DV and +1 AP.
+    - This does not apply to weapons that don't do damage through impact—like fireballs or scour canisters.
+
+These effects are summarized in the table below.
+These are only the "base" ranges; they may still be adjusted by the nature of the object and the situation, as normal.
+
+| object | short | medium | long | extreme |
+| ------ | ----- | ------ | ---- | ------- |
+| *without this class* | 5m | 15m | 30m | 45m |
+| small object | 25m, +DB DV, +2 AP | 35m, +1 DV, +1 AP | 50m | 65m |
+| large object | 15m, +DB DV, +2 AP | 25m, +1 DV, +1 AP | 45m | 55m |
+
+#### Challenger
+
+Through a mixture of persuasion and intimidation, you are able to make yourself the focus of whatever situation you find yourself in.
+
+- **Requirements:** 10 ranks in Intimidate, 10 ranks in Persuasion
+- **Effect:** You gain a +10 bonus to Social skill checks related to *challenging others,* *focusing attention on yourself,* and *boasting.*  Those who refuse a challenge may be *demoralized,* and will suffer a -10 penalty to checks related to the challenge.
+
+### Ideas:
 
   - Duelist
   - Explorer
@@ -535,10 +642,91 @@ Ideas:
 
 ## Powers
 
-Powers generally list the type of action they require, and the effect
-when used.  Some powers also have prerequisites. Note that a “power” is
-not necessarily supernatural: martial maneuvers also use the same rules,
-and are thus listed here.
+Powers represent unique abilities that your character has learned to deploy; mechanically, they are extraordinary actions that you have mastered.
+
+Note that powers do not represent the extent of your magical, psionic or martial skill: your skills represent your ability to manipulate magic, handle weapons and so on.
+Instead, think of powers more like specific "tricks" that you've drilled to wrote--some difficult or unusual use of your skills that you've practiced to the point that you can do them quickly and reliably.
+
+Powers have requirements, like classes and some traits do.
+Since powers are actions, they will also list the *type* of action that they require.
+
+<aside class="gmguidance">
+
+### What Makes a Good Power
+
+Powers are probably the hardest to design and balance of all the features in this chapter!
+
+While all the rules for designing content apply, there are two that are particularly important:
+
+- powers *especially* should not eclipse any skill or other feature, and
+- powers should not be *mandatory* for any given character concept.
+
+The first rule is why Vanish still requires a Stealth check, why Fireball still requires a touch-only or Ranged Weapon attack to be used as a weapon (to touch someone with it or throw it at them, respectively), why Push still requires a Persuasion check (and is so limited), and why Join doesn't give you uncontested control of the "gestalt".
+This is also why several "damaging" powers do fairly modest damage--certainly compared to the amounts of damage one may see in some other games.
+
+The second rule covers both skills that anyone with a given level of skill would have (so they're "mandatory" to unlock abilities that by rights you've already paid for by purchasing skills), and any power that's too, well, powerful, and so in practice everyone building a certain type of character would always choose to take (so they're "mandatory" if you want to keep up).
+This is why we don't have a "feint" power, for example, since any competent fighter--anyone with more than, say, 30 ranks in a combat skill--would know how to feint.
+This is also why we don't have a "power attack" power, since almost ever melee fighter would end up taking it.
+(You might note that both Feint and Mighty Blow are among the strikes listed in the *Combat* section; this is not accidental.)
+
+Finally, there are some powers that we have very deliberately decided not to include, and that we recommend you don't add either.
+This includes:
+
+- A "hard invisibility" power, because it negates the need for the Stealth skill, trivializes the Infiltrator role, and even worse, possibly allows mages to steal that role outright.
+- A "hard mind-control" power, since it negates the need for social skills, trivializes the Socialite role, and allows mages or psions to steal the role outright.
+- An "impulse healing" power, because it eclipses the capabilites of the regrowth power, removes the need for the Medicine skill, and radically upsets the design of the game (since healing is *intended* to be very difficult).
+- Any powers that give a flat melee damage bonus, because they wreck up the intended game balance, and have the potential to launch an arms race (requiring the GM to start escalating enemy health and armor numbers, which requires the rest of the party to start boosting their own damage to keep up).  However, powers that give "on use" damage bonuses, require reloads or impose other penalties can be acceptable.
+- Powers that represent combat maneuvers that any trained fighter would know how to do; if you have 50 ranks in Unarmed Combat, then you're a master martial artist, and you don't need to purchase powers to represent things any martial artist would know how to do.  (This point is particularly tricky, and resolving some confusion around it is why the Strikes where added to the combat rules.)
+
+</aside>
+
+<aside class="gmguidance">
+
+### Vancian Casting, and Why You Shouldn't Use It
+
+Many of the above rules come from an attempt to "balance" Powers, especially supernatural powers, against the capabilities of other characters, on an action-by-action basis.
+Essentially, these powers can't be too extraordinary, in part because there's no limit to how many times you can use them.
+
+Some other game systems use "Vancian casting:" they feature much stronger powers--usually strictly magical powers--with the limit that they can only be used a certain, limited number of times per day.
+The rough idea is that, in the long term, this all balances out: "martial" characters can maintain a given level of power consistently, while "vancian magical" characters can perform a smaller number of far more impressive deeds.
+
+So, if one of your players wants to take a "Vancian" power--a far more powerful power than would normally be allowed, with the caveat that it can only be used a few times per day--is that a good idea?
+
+Obviously, we can't control what you do at your gaming table, but our recommended answer is "no."
+One very good reason is that "Vancian" powers constrain the design of the adventure, and badly perturb the balance of power between the characters if that design constraint is not satisfied.
+In order for the "vancian-magic-versus-steady-martial" balance to work out, a certain average number of "encounters per day" must be maintained:
+if there are too few encounters, then the Vancian characters just get to be strictly more powerful than everyone else, because they never get run out of uses of their amazing superpowers; if there are too many, then the Vancian characters get hosed.
+(In practice, the first problem is far more common than the second--especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
+
+</aside>
+
+<aside class="gmguidance">
+
+### Sacrificial Magic, and Why It Might Be Ok
+
+Another common avenue for giving players access to more powerful magical abilities is to attach a *price* to their use; we'll call this "sacrificial magic."
+For example, characters might be required to take 1d10 DV to activate a power, or might be required to roll Control or risk a "blowback effect."
+
+Any time you give one class of character access to more powerful abilities than others, you run the risk of upturning the balance of power between characters and letting some players dominate the game; this risk still applies to sacrificial magic schemes.
+
+However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game--and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
+
+So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
+
+</aside>
+
+<aside class="gmguidance">
+
+### Tweaking Powers
+
+Much as you and your players should feel free to create entirely new powers, you should also feel free to tweak, adjust and modify the existing powers.
+
+As an example, a player could easily swap fire out for some other "element" to turn the Fireball power into an *iceball* or *ball lightening* power.
+Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
+
+Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power—or whatever else they want.
+
+</aside>
 
   - Fireball: You can manifest a fireball in your hand.
     
@@ -548,20 +736,11 @@ and are thus listed here.
     
       - Effect: held ball of fire
         
-          - After it is created, treat the ball of fire as you would any
-            other held object. The ball of fire will not burn you or any
-            possession that you are in contact with, but it will burn
-            other objects (or people).
-          - If the ball of fire looses contact with you (as it will if
-            it is thrown, for example), it can persist for up to 5 turns
-            (about 15 seconds) on its own; otherwise, it can persist as
-            long as you hold on to it.
-          - You can voluntarily dismiss the ball of fire (which is
-            handy, because sleeping with a ball of fire in your hand is
-            ill-advised).
-          - The ball of fire is, of course, fire, and effects other
-            objects as such. (It will burn other people for 1d10 DV,
-            plus 1 per ten ranks of Spellcraft.)
+          - After it is created, treat the ball of fire as you would any other held object. The ball of fire will not burn you or any possession that you are in contact with, but it will burn other objects (or people).
+          - If the ball of fire looses contact with you (as it will if it is thrown, for example), it can persist for up to 5 turns (about 15 seconds) on its own; otherwise, it can persist as long as you hold on to it.
+          - You can voluntarily dismiss the ball of fire (which is handy, because sleeping with a ball of fire in your hand is ill-advised).
+          - The ball of fire is, of course, fire, and effects other objects as such. (It will burn other people for 1d10 DV, plus 1 per ten ranks of Spellcraft; it may set a character on fire if an exceptional success is scored.)
+          - Clarification: since the ball of fire is treated just like any other small object, it can be thrown at an opponent (using all the rules for a ranged attack with a thrown weapon, doing the listed damage, and having the Fire tag), or it can be pressed into an opponent to burn them (a touch-only attack, doing the listed damage, having the Fire tag).
 
   - Exploding Fireball:
     
@@ -569,7 +748,7 @@ and are thus listed here.
       - When using the Fireball power, when your fireball expires
         (either because you dismissed it or because it left contact with
         you), you may choose to have it explode. Treat this as a Blast
-        effect, which does (your fireball’s damage) at its center.
+        effect, which does your fireball’s damage.  (See the rules for Blast effects in Combat)
 
   - Intense Fire:
     
@@ -586,31 +765,25 @@ and are thus listed here.
   - Group Jump
     
       - Requires: Jump, 20 ranks in Spellcraft
-      - Effect: when you teleport ~~using Jump, Long Jump, Journey or
-        Pilot~~, you may take objects or other people with you. You may
-        carry either one normal-sized person or 50 Kg of cargo per 10
-        ranks in Spellcraft.
+      - Effect: when you teleport, you may take objects or other people with you. You may carry either one normal-sized person or 50 Kg of cargo per 10 ranks in Spellcraft.
 
   - Long Jump
     
       - Requires: Jump, 20 ranks in Spellcraft
       - Action: Standard Action
-      - Effect: You teleport, moving up to 10 times your Running
-        movement.
+      - Effect: You teleport, moving up to 10 times your Running movement.
 
   - Journey
     
       - Requires: Long Jump, 30 ranks in Spellcraft
       - Action: Task Action (1 minute)
-      - Effect: You teleport, moving up to ~~2 kilometers per meter of
-        running movement~~ 2 kilometer per 10 ranks in Spellcraft.
+      - Effect: You teleport, moving up to 2 kilometer per 10 ranks in Spellcraft.
 
   - Pilot
     
       - Requires: Journey, Group Jump
       - Action: Task Action (10 minutes)
-      - Effect: You can use a Kairne to teleport; when you do so, you
-        can teleport to any other Kairne in the network.
+      - Effect: You can use a Kairne to teleport; when you do so, you can teleport to any other Kairne in the network.
 
   - Master
     
@@ -618,11 +791,9 @@ and are thus listed here.
     
       - Action: Sustained
     
-      - Effect: You can use your own intrinsic magic to control (and
-        fortify) your own life processes.
+      - Effect: You can use your own intrinsic magic to control (and fortify) your own life processes.
         
-          - While sustaining this power, you receive a +20 bonus to
-            checks to Endure Physical Hardship.
+          - While sustaining this power, you receive a +20 bonus to checks to Endure Physical Hardship.
           - While sustaining this power, you gain +1 Armor.
 
   - ~~Transcend~~
@@ -1069,3 +1240,142 @@ and are thus listed here.
       - Effect: You gain +3 armor, and those you choose within 5m of you
         gain +2 armor.
 
+#### Rallying Cry
+
+You can inspire others to bravery and heroism even in the direst of circumstances.
+
+- **Requires:** 10 Ranks in a Social Skill, 10 Ranks in a Combat Skill
+- **Action:** Quick Action
+- **Effect:** Roll one of your Social Skills (the GM must approve of your choice).  If you succeed, you *inspire* those nearby (they gain the Brave trait) for 1 turn per 10 points of MoS.
+  - Normally, you would inspire every ally who can see and hear you, although this might not be the case under unusual circumstances (your GM will decide this).
+  - Normally, in order for a character to be inspired, they would need to understand what you are doing--an inspiring speech is useless to someone who doesn't speak your language.  However, some methods of inspiring bravery are universal: delivering a defiant roar can be inspiring without any language or culture in common at all.
+- **Special:** The GM may allow you to inspire those around you if you do something particularly heroic: it might be inspiring just to see you burst out of bonds or rise again in spite of grievous wounds.
+
+#### Diving Strike
+
+You've perfected a diving strike, using the momentum of your fall to strengthen your attack.
+
+- **Requires:** 10 ranks in Athletics, 10 ranks in a *melee combat* skill.
+- **Action:** Quick Action (Movement)
+- **Effect:** When you drop down on a target from above, you are considered to be charging; you deal the bonus damage for your charge if you fall more than 1 meter.  (This uses all the normal rules for falling and for charging.)
+
+#### Reckless Dive
+
+Through some mix of talent, luck, bravery and foolishness, you can drop on targets from great heights, and usually hurt them a lot worse than you hurt yourself.
+
+- **Requires:** the *Diving Strike* power, 20 ranks in Athletics
+- **Effect:** When you make a Diving Strike, any fall damage that you take is also added to your attack's damage.  (You still take the given fall damage.)
+  - For example, if you take 1d10 damage from your fall, your attack does 1d10 extra damage.
+
+#### Rough Landing
+
+Luckily, your opponent broke your fall!
+
+- **Requires:** the *Reckless Dive* power, 20 ranks in Athletics
+- **Effect:** When you use your Reckless Dive power, you may reduce the damage that you take by 1d10; your opponent still takes the full falling damage.
+  - For example, if you would take 2d10 DV of falling damage, but you make a Diving Strike onto your opponent, then you only take 1d10 DV, but they take your weapon attack, plus 2d10 from the Reckless Dive, plus your DB because your diving strike counts as a charge (since you almost certainly fell more than 1m if you're taking falling damage).
+
+#### Acrobatic Strike
+
+By kicking off walls, flipping over obstacles or otherwise acrobatically exploiting your environment, you can build up a lot of momentum in a short space.
+
+- **Requires** 20 ranks in Athletics, 10 ranks in a *melee combat* skill.
+- **Action** Varies (stunt, movement)
+- **Effect:** When you make an appropriate *stunt move,* you are considered to be charging.  If you succeed on the movement check required for the stunt (this would normally be an Athletics check for a humanoid character), you deal your charge's bonus damage.
+  - An "appropriate" stunt move might include kicking off a wall to strike your opponent from above, or making a running dive over an obstacle.
+
+#### Center
+
+Slow down.  Take a breath, in and then out.  Forget your cause, forget your opponent.  Feel the wapon, move with it, *strike*.
+
+You have developed a kind of battle-trance, in which your combat instincts are heightened.
+
+- **Requires:** 10 Ranks in Control, 10 ranks in a combat skill.
+- **Action:** Sustained.
+- **Effect:** Your Trance Bonus is your equal to your ranks in Control ÷ 10.  You gain your Trance Bonus to your INIT.
+- **Special:** No Control test is required to activate this power, although one would likely be required to *sustain* it should you suffer a wound, or should some other sufficiently distracting event occur.
+
+#### Centered Strike
+
+While centered, you strike with extra force.
+
+- **Requirements:** the *Center* power, 20 ranks in Control
+- **Effect:** WhilStance | You adopt a e sustaining Center, You gain +Trance Bonus to your DV.
+
+#### Centered Defence
+
+While centered, your defence is improved.
+
+- **Requirements:** the *Center* power, 20 ranks in Control, 10 ranks in Fray
+- **Effect:** While sustaining *Center*, you gain +10 to your defence.
+
+#### Denial
+
+While in your battle-trance, your defence is nearly perfect.
+
+- **Requirements:** the *Centered Defence* power, 20 ranks in Fray
+- **Effect:** If you are subject to an attack that you could defend against with Fray while sustaining Center, you may, as a reaction, have that attack fail.  (Since this is a reaction, you can normally only do this once per turn.)
+
+#### Shieldwall
+
+You are expert in the use of large shields, and your defence with them is extraordinary.
+
+- **Requirements:** 20 ranks in Fray
+- **Effect:** If you are using a Heater Shield, Tower Shield or similar large shield, then, while using a Full Defense action, you are considered to be in cover from direction of your shield.  (This means that you cannot be directly attacked from that side.)
+  - Shieldwall cannot be used to defend against effects that would completely overwhelm you, like large explosions or seige weapons.
+  - While an opponent cannot attack you directly, they might attempt to take the shield from you (by trying to grab it, for example, which might be represented by a Disarm maneuver.)
+
+
+#### Brawler's Instinct
+
+Through years of experience with front-line combat, tavern brawls, law enforcement--or only Great Spirits know what else--you've gained a good instinct for when someone is about to start a fight.
+
+- **Requirement:** 10 ranks in Perception, 10 ranks in two *combat* skills.
+- **Effect:** You do not take the Passive Test penalty to passive Perception and Read tests made against those who are planning to attack you.
+
+#### Brawler's Sense
+
+Your fighter's instinct has been honed to the point that it's almost a sixth sense--or seventh or fifth, it depends on how many sense your race normally has...
+
+- **Requirements:** 20 ranks in Perception, 20 ranks in Unarmed Combat
+- **Action:** Sustained
+- **Effect:** While sustaining this power, you gain *Brawler's Sense* as a sense.
+  - This sense allows you to gain enough information about a nearby enemy that you can fight them effectively, even if you can't actually see them.
+  - This sense always requires a perception check to use, and you must have *some* ability to perceive your opponent(s) (like being able to hear or smell them).
+  - What is *nearby* is up to the GM.  Usually, any opponent within 3m is "nearby," and enemies further away may be perceptible with an additional penalty.
+
+#### Bound Fighter
+
+Maybe you've been thrown in jail more than once, maybe this isn't the first meeting you've had with gangsters, or maybe you've been captured before; in any case, you've gotten pretty good at fighting while you're tied up.
+
+- **Requirements:** 20 ranks in Unarmed Combat
+- **Action:** Standard Action
+- **Effect:** When you are *bound*, you can still make an unarmed attack against someone who comes within reach, using all the normal rules for an unarmed attack.
+- **Special:** You can't use this power if you are *completely* bound--such as if you are enclosed in something like an iron maiden.
+- **Special:** Critical hits with this attack may weaken or break weaker bindings, like ropes.
+
+#### Burried Alive
+
+The stuff of nightmares in Goblinoid territories, a creature that can burrow through the ground can erupt from below and drag an opponent down, partly collapsing the tunnel behind them to trap their victim.
+This can either simply *immobilize* the target, or be rapidly fatal, based on whether or not their head has been buried (or, for non-humanoid creatures, wherever they breath through).
+
+- **Requirements:** A burrow speed, 20 ranks in Unarmed Combat
+- **Action:** Standard Action (Maneuver)
+- **Effect:** Roll your Unarmed Combat, against your opponents Feat of Strength or React Quickly; you suffer a -20 modifier.  If you succeed, you haul your target into your tunnel and partially collapse it.  This immobilizes them.
+- **Special:** You must be burrowing near the surface, either adjacent to or directly beneath your opponent to use this power.
+- **Special:** Instead of immobilizing your opponent, you can instead attempt to completely burry them.  This is more difficult, so you take an additional -10 penalty; if you succeed, though, they will soon begin to suffocate.
+
+#### Hurl an Ally
+
+You've practice an unusual tactic in which you fling an ally at an enemy; this is sometimes called "the Minotaur and the Frog," after a folk-legend about the tactic's use during a slave revolt in Shade-Elven lands.
+
+- **Requirements:** The *Missile-Hurler* class.
+- **Action:** Standard Action
+- **Effect:** You can throw an ally.
+  - They must be at least one size category smaller than you (e.g. if you are Medium, you can throw a Small creature).
+  - If you don't throw them farther than your medium range, they can land safely; if you throw them further than your medium range, they take damage as if they had fallen (1d10 DV at long range, 2d10 DV at Extreme range).
+  - If the hurled creature lands at a lower point than when they where thrown, they take appropriate falling damage.
+  - If you throw your ally at an opponent, and if they were prepared for it, then they are considered to have *charged*, and can attack the targeted opponent.
+    - They can prepare as a Standard Action (during their turn), and are then considered to have "prepared" until their next turn.
+- **Special:** This power represents *throwing* an ally, which is a Standard Action.  Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
+- **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*

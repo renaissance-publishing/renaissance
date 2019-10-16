@@ -29,8 +29,27 @@ Changes since last time:
 
 - Added shields, woops.
 - reformatting in Items and Wealth.
-- Adding more assides in Items and Wealth.
-        
+- Adding more asides in Items and Wealth.
+- rewriting and expanding a bunch of race blocks.
+  - Gnolls have a lot more text, and arctic gnolls are mentioned now.
+  - Greatly expanding Dwarves (they were stubbed), adding CV's Mycenaean Dwarves idea.
+- Added guidance about custom classes, items and powers.
+- Added a few of CV's powers.
+  - and then a bunch more, and some classes.
+- Started reworking the wealth section.
+- Started adding examples to the skills section.
+- *Finished* reworking the wealth section!  Added Cash, added trade goods, removed barter.
+- tweaking guns a lot.
+  - they didn't get adjusted with the big weaons rebalance.
+  - Instead of reducing their damage, we upped their reload; we've been making other tweaks.
+- Merged one-handed and two-handed into Melee.
+- Clean-ups in *moving*, *reactions*, and *bracing*.  And Charging.
+- Added a few classes and powers (Missile-Hurler, Ally-Hurler and Challenger)
+- Added asides for designing the named magic items, and modifying powers.
+- Added the Flashback Anchor.
+- Added a chapter on common hazards.
+  - which has fire, drowning, falling, realistic and stupid traps, and other fun things.
+- Some editing and clean-up in *representing a character* and other chapters.
 
 Feedback Questions
 
@@ -93,8 +112,7 @@ To-Do:
 
 Editing Notes:
 
-  - I need to go through and use the term Tag consistently. And then
-    also re-work most entries to use Tags.
+  - I need to go through and use the term Tag consistently. And then also re-work most entries to use Tags.
 
   - Likewise, use “Check” consistently, as opposed to “Test”.
 
@@ -112,6 +130,7 @@ Editing Notes:
   - I’d like to use lower-case for race names (“orc” and “elf” instead
     of “Orc” and “Elf.” I was using caps for a long while tho, so much
     editing will be required.)
+      - I give up, I'm going back to caps-ing race names.
 
   - It’s spelled “orc” by the way.
 
@@ -138,13 +157,14 @@ Editing Notes:
       - Also, the two GM Guidance blocks so far are *really long*, so
         treating them like a sidebar might not work.
 
+  - ... does anyone know of a gender-neutral replacement for words like "craftsman" and "Swordsman" that won't also result in tortured language?
+
 Contributors:
 
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
-  - SeaVea: fort design, feedback on armor and weapons, new drake
-    history. Milestone system. Large weapon rework.
-  - King K: the Gnomes, Drugs, help with rep networks. A map\!
-  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website!
+  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.
+  - King K: the Gnomes, Drugs, help with rep networks. A map\!  Also work on the Mycenaean Dwarves.
+  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!

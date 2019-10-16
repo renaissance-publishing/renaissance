@@ -82,9 +82,6 @@ it.
 | Being Tortured                                | \-20 | 1d10+2 |
 | Death of a Loved One                          |      | 1d10+1 |
 | Witnessing a Terrifying Manifestation         |      | 1d10   |
-|                                               |      |        |
-|                                               |      |        |
-|                                               |      |        |
 
 ## Healing
 
@@ -127,11 +124,6 @@ so.
 ## Conditions, Potions, Poisons and Diseases
 
 ### conditions
-
-  - I’m not sure if I actually need rules for this; I want to keep the
-    number of “rules and systems” to the minimum necessary. And if I add
-    rules for conditions, then everything that could be a condition
-    should be—and I don’t want to commit to that.
 
   - Conditions have *effects* that persist while the condition applies
     to you, and rules for *removing* the condition it (which might be as

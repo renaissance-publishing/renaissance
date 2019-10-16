@@ -17,12 +17,15 @@ This list is by no means exhaustive.
     larger than a human fist, out to a distance of 30m. You cannot
     perceive color or fine detail. Perception tests made with
     Blind-Sight suffer a -20 penalty.
-    
-      - This is more like D\&D Dark-Vision than I wanted it to be; I did
-        not want to add off-brand Dark Vision.
 
-  - Infra-red: you can see in infra-red. This is particularly useful at
-    night.
+  - Infra-red: you can see in infra-red.
+      - This has several advantages:
+          - you can see at night, 
+          - you can easily pick out objects at a very different temperature than their environment (like very hot objects in a cold room, or very cold objects in a hot room), and
+          - you can very clearly see changes in blood-flow and skin temperature, which makes it easy to pick up on emotional queues that are invisible to many other races (which is represented as a +20 to Read checks against warm-blooded races).
+      - However, this does have some drawbacks:
+          - The resolution of infrared vision is poor, making it impossible to pick out fine detail.
+      - Some materials (like glass) that are transparent in visible light are opaque in infrared, while some other materials that are opaque in visible light are transparent in infrared.
 
   - Low-Light: creature can see clearly in low-light conditions (but not
     total darkness).
@@ -35,12 +38,12 @@ This list is by no means exhaustive.
       - As being of magic, Spirits are perceptible to those with mage sight.  However, their nature may appear strange or chaotic, and difficult to understand&mdash;powerful spirits especially may be entirely overwhelming, or impossible to understand.
       - Some beings (and some powers) can partially mask their magical nature; in these cases, an opposed test is required (the power or creature will specify the test).
 
-  - Scent: you have an extremely keen sense of smell. This allows you to
-    detect many sneaking creatures, and to identify things by smell.
+  - Motion: you have a particularly good sense for balance and motion.  This provides you with a +10 bonus to many Athletics checks, and may be useful in other circumstances as well.
+      - This sense is very common in races with whiskers.
 
-  - Tremor-sense: when in contact with a solid object, you can sense
-    vibrations propagating through it. This allows you to sens
-    approaching footfalls through the ground, for example.
+  - Scent: you have an extremely keen sense of smell. This allows you to detect many sneaking creatures, and to identify things by smell.
+
+  - Tremor-sense: when in contact with a solid object, you can sense vibrations propagating through it. This allows you to sens approaching footfalls through the ground, for example.
 
 ## Movement Modes
 
