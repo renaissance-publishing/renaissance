@@ -9,11 +9,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const menuLiItems = Array.from(menuGroupUlEl.children);
     const parentUlEl = menuGroupUlEl;
     const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
-    const parentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
+    const strParentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
+    const parentIndex = Number(strParentIndex);
     const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
 
-    menuLiItems.forEach((menuLiElement, menuIndex) => {
+    menuLiItems.forEach((menuLiElement, strMenuIndex) => {
 
+      const menuIndex = Number(strMenuIndex);
       menuLiElement.setAttribute('data-menuindex', menuIndex);
 
       const getMenuItemByI = (j, el) => Array.from(el.children)
@@ -44,7 +46,10 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             // If overflows, select menu below submenu
             let el = getMenuItemByI(menuIndex - 1, parentUlEl);
-            if (!el && grandParentUlEl) el = getMenuItemByI(parentIndex - 1, grandParentUlEl);
+            if (!el && grandParentUlEl) el =
+											menuIndex == 0
+												? getMenuItemByI(parentIndex, grandParentUlEl)
+												: getMenuItemByI(parentIndex - 1, grandParentUlEl);
             if (!el) break;
             el.focus();
             break;
