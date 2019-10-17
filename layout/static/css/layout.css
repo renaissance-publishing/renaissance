@@ -237,6 +237,8 @@ header .branding {
 }
 
 .dropdown-menu-list>li ul {
+    /* Fix hover states applying when they should not due to them being z-index of 0 */
+    z-index: -1;
     position: absolute;
     left: calc(100% + 5px);
     top: 0;
