@@ -2,17 +2,34 @@
 // Let the DOM do it!
 // https://github.com/matteobad/focus-within-polyfill
 
+/**
+ * 
+ * @param {*} parentUlEl - A UL element
+ */
+const getUlMetaData = parentUlEl => {
+			const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
+			const strParentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
+			const parentIndex = Number(strParentIndex);
+			const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
+			const isRoot = !parentLiEl || !grandParentUlEl;
+
+			return {
+				parentLiEl,
+        parentIndex,
+        grandParentUlEl,
+        isRoot
+			};
+		};
+
 document.addEventListener('DOMContentLoaded', () => {
   const menuGroups = Array.from(document.querySelectorAll('.dropdown-menu-list'));
 
   menuGroups.forEach(menuGroupUlEl => {
     const menuLiItems = Array.from(menuGroupUlEl.children);
     const parentUlEl = menuGroupUlEl;
-    const parentLiEl = parentUlEl.parentElement.tagName === 'LI' && parentUlEl.parentElement; // If false, is root
-    const strParentIndex = parentLiEl && parentLiEl.dataset.menuindex; // If false, is root
-    const parentIndex = Number(strParentIndex);
-    const grandParentUlEl = parentLiEl && parentLiEl.parentElement; // If false, is root
 
+    const { parentIndex, grandParentUlEl } = getUlMetaData(parentUlEl);
+      
     menuLiItems.forEach((menuLiElement, strMenuIndex) => {
 
       const menuIndex = Number(strMenuIndex);
@@ -34,16 +51,27 @@ document.addEventListener('DOMContentLoaded', () => {
             stop();
             let el = getMenuItemByI(menuIndex + 1, parentUlEl);
             // If overflowing to the parent item below
-            if (!el && grandParentUlEl) el = getMenuItemByI(parentIndex + 1, grandParentUlEl);
+            
+            let ul = parentUlEl;
+            if (!el && ul) {
+            while (true) {
+                  const { parentIndex: gpIndex, grandParentUlEl: newGrandParentUlEl, isRoot } = getUlMetaData(ul);
+                  const tmpEl = getMenuItemByI(gpIndex + 1, newGrandParentUlEl);
+                  if (el || tmpEl) {
+                    el = tmpEl;
+                    break;
+                  }
+                  if (isRoot) break;
+                  ul = newGrandParentUlEl;
+              }
+            }
             // T'was root, still null. Break
             if (!el) break;
             el.focus();
             break;
           }
           case 'ArrowUp': {
-            // stop();
-            e.stopPropagation();
-            e.preventDefault();
+            stop();
             // If overflows, select menu below submenu
             let el = getMenuItemByI(menuIndex - 1, parentUlEl);
             if (!el && grandParentUlEl) el =
