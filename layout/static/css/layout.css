@@ -211,3 +211,51 @@ header .branding {
 :not(nav) > ul.dropdown-menu-list {
     margin-left: 100px;
 }
+
+/**
+    The CSS for the menuitems
+*/
+/* The parent list should not be too too wide */
+.dropdown-menu-list li {
+    position: relative;
+}
+
+.dropdown-menu-list {
+    max-width: 200px;
+}
+
+.dropdown-menu-list>li ul:focus,
+.dropdown-menu-list>li ul:focus-within {
+    opacity: 1;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: -5px 2px 20px rgba(0, 0, 0, 0.19), 5px 7px 6px rgba(0, 0, 0, 0.23);
+}
+
+.dropdown-menu-list>li ul {
+    position: absolute;
+    left: calc(100% + 5px);
+    top: 0;
+    opacity: 0;
+    width: 150px;
+    background: white;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ /* Ensure that if there is a child that it does not overflow on the arrow icon */
+[data-haschildren="true"] {
+    padding-right: 25px;
+}
+
+ /* Add an arrow icon when there needs to be one */
+[data-haschildren="true"]::after {
+    content: "➡";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 20px;
+    text-align: center;
+    transform: translateY(-50%);
+}
