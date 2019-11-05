@@ -50,6 +50,10 @@ Changes since last time:
 - Added a chapter on common hazards.
   - which has fire, drowning, falling, realistic and stupid traps, and other fun things.
 - Some editing and clean-up in *representing a character* and other chapters.
+- Added asides to list major cities and languages to the Goblin Empire and the Kingdoms of Men.
+- Added a new minor faction, the Kingdom of Foam and Cloud
+- Added Certa to the Kingdoms of Men.
+- Added some quest-hook asides.
 
 Feedback Questions
 
@@ -163,8 +167,8 @@ Contributors:
 
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
-  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.
+  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.  The Terranaut Dwarves.  And further work on weapons (crossbow designs).
   - King K: the Gnomes, Drugs, help with rep networks. A map\!  Also work on the Mycenaean Dwarves.
-  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!
+  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
