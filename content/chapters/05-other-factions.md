@@ -6,6 +6,60 @@ title: "Other Factions"
 
 The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after it had collapsed.
 
+<aside class="floating">
+
+A feudal society, composed of many (mostly-)Human kingdoms tied together by a complex web of custom, alliance and treaty.
+
+---
+
+#### Major City: Merchentmen City
+
+Known as Annhallan in Royal and Merchentmen City in Commonwealth Standard, this city of 900,000 sits in the northwest of the Kingdoms, about 140 *demarc* \[roughly 588 kilometers\] from the border with the Dragonshire, sitting scarcely a *demarc* from the coast of the Glass Sea.
+Annhallan is the capital city of the Kingdom of Anaff; since Kass Anaff is the current High King, the city is currently also the center of government for the Kingdoms of Men.
+
+As the name Merchentmen City implies, the Kingdom of Anaff has long prospered by trade, especially with the Commonwealth; traders from Heartland Province and the Dragonshire are common, and many of hte Commonwealth's languages are spoken in Merchentmen City.
+
+#### Major City: Hate's Hold
+
+Called Tenlan in Royal, Hate's Hold is the capital of the Kingdom of Tennec; it is a city of 800,000 in the southeast of the Kingdoms.
+It lies on a river, less than two *demarc* \[8km\] up-river from the the coast of the Glass Sea, and a mere 160 *demarc* \[672km\] from the open ocean.
+
+The Tenna are among the wealthiest (and most convicted) of the royal families of the East; as such, Tenlan is the unofficial capital of the Eastern Kings.
+Tenlan is also the center of the worship of the One who Chose Us in the Eastern Kingdoms.
+
+The city is called Hate's Hold for a reason; it is not a good place to be if you aren't Human.
+
+#### Major City: The First Throne
+
+Called Hanman in Royal (and Old Imperial), First Throne is one of the Three Cities that came together to found the Old Empire.
+Though it is still a large and prosperous city—situated on the large River Hanem, it has always been a center of trade—it is no longer a center of power within the Kingdoms.
+It has a population of 350,000.
+
+The name First Throne is not figurative: the first and oldest-known cities where founded by Humans; though Hanman is not one of these oldest cities, it is believed to be the first city to hold a *throne*—to develop a regional government.
+
+The city is in the Kingdom of Enha, although the Enhan Kings are relatively weak; the city is ruled by the Hanman Congress.
+So far, both the Enhan line and the Hanman Congress have been content to cooperate (for the most part), and enjoy the prosperity that comes from their prominent location and rich trade.
+The Enhan Kings are allies of the Annhallan and the Western Kings; the Hanman Congress are divided.
+A plurality are supporters of the Western Kings, but other blocs support the Certan cause, direct Commonwealth alliance and the Eastern Kings, in roughly that order of size.
+
+#### Major City: Certa
+
+Certa is a city of 650,000; located roughly in the middle of the Kingdoms of Men, it is the center of the Certan Movement, an anti-monarchist movement.
+Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certans and rebuilt some 62 years ago.
+
+The Certans are described in more detail below.
+
+---
+
+#### Language: Royal
+
+Royal is the language of the Kingdoms of Men.
+Like Weal, it is distantly derived from Old Imperial, the language of the Empire of Man, but almost a thousand years have passed since the two languages began to diverge, and they are now quite dissimilar.
+
+*Group HHED*
+
+</aside>
+
 They are Kingdoms in more than name alone; the society consists of a
 large number of local nobles, tied together in a complex web of
 allegiances.  At present, there are 23 kings as such, more than 35 independent landed nobles (though some of their territories are no larger than a town), and more than a hundred noble families besides.
@@ -23,7 +77,10 @@ The Kingdoms can be roughly divided between their western and eastern halves.  T
 
 The eastern Kingdoms are far more cruel; the Three Cities that built the Empire lie in the eastern portion, and to this day many of the residents there are quick to believe that humans should hold dominion over all other races (and that those whose ancestors built the Empire should hold dominion over all other humans).
 
-The current High King is one Kass Ahnaff, who is the king of the city-kingdom of Annhallan (styled as Wise Westking and Merchentmen City in Common).  Merchentmen City is in the Western Kingdoms; it lies not on the border with the Commonwealth, but rather near the shores of the Kings' Sea.  Kass has enthusiastically pursued better relations with the Commonwealth, and has made only the barest pretense to disguise his willingness to cooperate with the Commonwealth to combat the nobles of the East who would see him deposed.  Many easterners view Kass as the worst human being alive.
+The current High King is one Kass Ahnaff, who is the king of the city-kingdom of Annhallan (styled as Wise Westking and Merchentmen City in Common).
+Merchentmen City is in the Western Kingdoms;.
+Kass has enthusiastically pursued better relations with the Commonwealth, and has made only the barest pretense to disguise his willingness to cooperate with the Commonwealth to combat the nobles of the East who would see him deposed.
+Many easterners view Kass as the worst human being alive.
 
 ### The Kingdoms' Economy
 
@@ -72,6 +129,59 @@ If the Easterners can seize control of the Kingdoms, and if they strike an allia
 
 Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance between the Shaded Sea People, the Goblins and the Eastern Kingdoms seems unlikely; the Human and Goblin nations have a long history of conflict, and the Shaded Sea People have no significant contact with either; what's more, the Eastern Kingdom's obvious contempt for non-humans would make such an alliance difficult to strike (and impossible to sustain).
 
+### The Certa Movement
+
+The Certan Movement is an anti-monarchist movement centered in the city of Certa.
+Though centered in the city of the same name, they have risen in power and prestige; they have claimed the territory around the city of Certa, and have begun to spread.
+
+The city of Certa was built on the site of a much older city, which was destroyed almost a century ago.
+The remains of that city where claimed by the nascent Certan movement, and its reconstruction began 62 years ago.
+Sitting at the center of the Kingdoms of Men, Certa is a crossroads; it has become a center of overland trade and travel in the Kingdoms, and has risen rapidly in wealth and prestige—though it does suffer somewhat from being several hundred *demarc* from the coast of the Glass Sea.
+
+Besides the city of Certa itself, they also control the surrounding territory—and they are expanding.
+So far, they have advanced to the south (toward the coast) and west (into the territory of the Western Kings), displacing local nobles as they go.
+
+The Certa are not a peaceful movement; not all of the nobles that they have displaced have survived.
+Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances—and others have obviously been assassinated.
+Though the Certans have not yet been proven responsible, they have also not been particularly subtle—particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
+
+<aside class="floating hook">
+
+#### Plot Hook: Certan Insurrection
+
+The Certans are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
+
+* The Certans may began an open insurrection; this might provide the Goblin Kingdoms with an opportunity for attack, pull the Commonwealth into a war to defend their Western allies, or—if the Certans and the West wound each other too badly—place the Eastern Kings in command of the Empire.
+* A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
+
+</aside>
+
+Though the Certans are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
+Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners—can actually vote in elections for the *Chamber of Law*, or hold seats in it.
+(The *Chamber of Law* is the only house in the Republic that can actually make law; the *Chamber of the People* serves a purely advisory role.)
+
+The Certans consider themselves natural allies to the Commonwealth—their movement was inspired by their powerful, peaceful and mercantile neighbor.
+Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certans; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certans and the Commonwealth somewhat fraught.
+What is perhaps worse is that some believe that the Certans may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility—even if they have largely surrendered power to representative governments.
+
+<aside class="floating hook">
+
+#### Plot Hook: Certa's Secret Loyalties
+
+Why *have* the Kings of the West been the Certans' main victims?
+Certainly one possibility is that they're weaker.
+Though the Kings of the West are often wealthier than those of the East, they are also often less militaristic and more mercantile—thus they're more vulnerable to insurrection.
+
+Another possibility is that the Certans are a cat's-paw; if so, who's agenda are they really serving?
+
+It might be the Kings of the East; they may using the Certans to weaken and slay the Kings of the West, in a way that the Commonwealth will not rapidly intervene to stop.
+It might be the Goblin Kings, for much the same reason—this may be more likely, given that the Certans are expanding rapidly towards the coast of the Glass Sea.
+Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
+It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
+It might even be a Tempter—or a spirit like them—seeking power for themselves.
+
+</aside>
+
 ## The Shaded Sea People
 
   - Alliance of Ratfolk and Shade Elves.
@@ -117,6 +227,55 @@ Goblins have long dwelled in the southeastern reaches of the Emerald Plane, thei
 Since the rise of the Dragonshire—and especially since the Kingdoms of Men reformed from the remains of the Empire of Man—the Goblins have been the weakest major power in the East.
 
 Their fortunes have changed dramatically since the creation of the Goblin Empire and their conquest of the Ruby Plane.
+
+<aside class="floating">
+
+A society with several power-centers, all cooperating under the aegis of the Empire to plunder the Ruby Plane.
+
+---
+
+#### Major City: Strong-Throne
+
+Strong-Throne is the capital of the Empire, located in the south-center of Goblin territory on the Emerald Plane.
+The city has a population of roughly 450,000, contains the Imperial throne, and is the center of their administration and military command.
+
+#### Major City: Market-of-the-Empire
+
+Market-of-the-Empire is a city of more than a million located only 70 miles from the Imperial frontier on the Ruby Plane.
+The city is not a seat of Imperial administration; rather, it is a center of trade and business; here, slaves and pillage from the frontier are traded for coin and supplies from the Emerald Plane.
+Perhaps as few as 300,000 of the city's occupants are resident citizens; they are joined by another 300,000 traders, travellers and transients, and between 400,000 and 800,000 slaves.
+
+---
+
+#### Language: Classical Goblin
+
+Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
+
+Goblins have an unusually wide vocalization range, and their language spans all of it.
+Few other races can speak it—which suits Goblin cultural values.
+
+*Group GR+DDK*
+
+#### Language: Vulgar Goblin
+
+Vulgar Goblin is the form of the Goblin language in use today.
+Vulgar Goblin has borrowed from the languages of many of the races that they have encountered (or enslaved) over the centuries.
+
+Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new words by combining existing ones; this means that many words and place-names can be nicely rendered in Commonwealth Standard.
+
+*Group GR+DDK*
+
+#### Language: Speech-of-the-Lesser
+
+Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
+It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
+
+Notably, Many Goblins do not speak Speech-of-the-Lesser—in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
+This task often falls to slave-tenders—often Gremlins or low-born Goblins—who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
+
+*Any Group*
+
+</aside>
 
 ### Kings, Warlords, Emperors and the Code
 
@@ -237,3 +396,95 @@ Even though the Commonwealth has not yet formally allied with the Protectorate, 
 While some kings have sought allies among the kings and nobles of the Eastern Kingdoms, such overtures have not yet been fruitful, and the Empire has not yet given them its official support; the southern Human Kingdoms have long been enemies of the Goblin Kings, and the Kings of the East are slow to forgive.
 
 The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the sea south of their borders, cutting off an ocean route).
+
+## Ground-Explorer Dwarves
+
+Ground-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
+"Ground-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
+
+### History
+
+Early in CY 509, a psychically-reactive fungus was discovered underneath an island in the Haven Isles; experiments with this organism eventually spawned the Mindsharing Dwarves, or the *Fahrat*.
+This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Ground-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
+
+The Ground-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the southern end of the Worldspine Mountains.
+They where (and still are) relatively insular, and where not among the Dwarven clans that joined the Commonwealth.
+
+Descendants of another confederation 9 *demarc* \[38km\] to the East had left more than a century prior to settle in the Haven Isles, and it was there that psions and philosophers studying the *Fahra*, the mindsharing fungus, settled.
+As the properties of the Fahra where explored, as a movement began to develop around it, the insular and individualistic *Lun* began to fear what the *Fahrat* might become, and began to seek escape.
+Their fear was great enough that they sought a shelter that the *Fahrat* could never breach, even if they should consume the entire surface: they dug into the depths.
+
+The *Drahrat* began to explore the depths in CY 517.
+More of their civilization moved underground over the following decades: by CY 533, their culture had mostly moved underground.
+Their surface settlements, now highly fortified, where little more than trading posts and support hubs.
+
+Little more is known about the history of the enigmatic *Drahrat*.
+
+### The Drahrat Today
+
+The *Drahrat* are secretive and enigmatic.
+Though they do trade with surface-dwelling civilizations, they have not revealed the extent or locations of their holdings.
+The *Drahrat* have mapped extensive networks of caves; they sometimes off the use of portions of these caves to other races in trade.
+So far, all of these caves have appeared to be natural formations.
+
+The Drahrat have breached the surface at several other far-flung points; like their former homeland, these constructions are heavily fortified and lightly populated, serving as little more than trade-posts for surface dwellers.
+The Drahrat have also constructed outposts near the settlements of other subterranean races, notably near several Clay Men holds and Kobold cities; these outposts provide other races' only insight into the Drahrat society.
+All known Drahrat settlements are built in natural caverns, and heavily exploit natural resources; they make extensive use of wood, plant tissue, bone, hide, shells and other natural substances.
+Conversely, they seem to make little use of metals, glass, worked stone or other artificial materials.
+
+These underground outposts are also heavily fortified.
+
+## Foam-and-Cloud
+
+Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands—an island chain in the Great Gulf.
+The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two—and most of the rest of the chain—have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
+
+### History
+
+Nearly four centuries ago, between CY 534 and CY 561, the islands where settled by both Commonwealth and Goblinoid explorers; at the time, reaching these islands was difficult, and the colonies had little support from their parent cultures.
+Conflict could be fierce, but it was also limited; neither side had substantial military resources, and the Goblins where outnumbered.
+In fall of CY 559, the Goblin politics shifted violently against the King of Bronze, who collected what remained of his holdings (and the handful of fighters he could convince to defect from their various Warlords), and departed the Emerald Plane entirely; he arrived in the Horizon Islands scarcely ahead of winter.
+Over the course of winter, he quickly assumed control of the Goblinoid settlements in the Horizon Islands; when Spring came, he launched a campaign against the Commonwealth settlements.
+Through a series of sieges and campaigns, he was able to subdue all of the Commonwealth settlements by CY 568—some he took out-right, though others he forced into tribute.
+
+The King of Bronze did not loot or despoil those cities.
+He could not count on the mainland for supplies, and he did not have complete control of many of those cities—and, perhaps wisely, he knew that the Commonwealth cities had more vibrant economies than the Goblin ones, and he wished to keep those economies intact.
+Instead, he allowed those cities to continue much as they always had—notably, exempting them from slavery under the code—so long as they accepted his rule, and payed his tribute.
+
+This arrangement has evolved over the centuries.
+The Standard-speaking and Goblin-speaking societies have cross-pollinated extensively; notably, the Commonwealth-descended population proved to have notably better education and administration systems, and so the Bronze Kings came to rely almost exclusively on Standard-speaking administrators and scribes—with the notable exception of the Code, which is still solely the province of Goblins.
+
+The Standard-speaking, Commonwealth-descended communities grew more rapidly than their Goblinoid counterparts; over the next 20 to 30 years, they became the major source of local production, wealth and food for the Bronze Kings.
+The Goblinoid communities, in turn, became more divided: some Goblins adopted some of their Standard-speaking neighbors' customs and values, and began to prosper with them; other, more conservative Goblins saw their power erode.
+
+As ocean-going technology became more sophisticated, trade with the Emerald Plane increased—with both the Commonwealth and the Goblin Kings.
+The Islands' Goblin King and Code-mediated trade system made trade with the Goblin Kings on the Emerald Plane more favorable, and provided a mechanism for conservative Goblins to retain wealth and power.
+
+As the Goblin Empire's pillaging of the Ruby Plane has accelerated, one might expect the Goblin Kingdom of the Foam and Cloud to become an important and prosperous cross-roads of the Empire—but that has not happened.
+
+### Slavery under the Turquoise Kings
+
+Part of the arrangement between the King of Bronze and the Commonwealth communities who surrendered to him was that their citizens would not be taken as slaves; the King of Bronze honored this agreement, and, under his descendants' rule, the fate of slavery in the Horizon Islands has waned.
+As some Goblin communities where influenced by Commonwealth customs—and as the Commonwealth-descended communities have grown wealthy and productive, and have become vital to the fortunes of the Kings of Bronze—opposition to slavery has grown stronger and stronger, and the institutions of slavery have eroded.
+
+In CY 577, the King of Bronze formally restricted the taking of slaves from any of the islands' Commonwealth communities; in CY 586, he passed laws restricting the abuse of slaves; through CY 591 to CY 617, his daughter passed further reforms limiting the abuse of slaves; and in CY 651, the Bronze King's great-grandson restricted slavery on the island only to those whose parents where already slaves, or who came from the Goblinoid Kingdoms with their owners—which nearly eliminated slavery on the islands.
+
+Under these rules, the only remaining slaves on the islands are those who come from the Goblinoid Kingdoms on ships, and a small population of Halflings living in a traditionalist enclave on the Island of Cloud—the southernmost of the two large islands in the chain; they are effectively forced into servitude because they are the only Halflings in the island—they must either mary into slavery or die out.
+They live deep within large, defended Goblin manors, jealously guarded against the outside; so isolated, they serve an almost symbolic role.
+
+They are guarded so jealously because the High Road operates almost freely on the islands; they enjoy wide support among both the Commonwealth-descended and Goblin communities, and the tacit approval of the current King of Bronze.
+
+### The Kingdom of Foam and Cloud
+
+The Kingdom of the Foam and Cloud is a Goblinoid Kingdom; the Turquoise Kings have a seat in the Assembly of Kings, and their Goblin communities are ruled by the Code—the title *Turquoise Kings* itself is derived from a series of carved turquoise chips commissioned in CY 694 and given to the School of the Code on the Island of Cloud.
+
+It is an unusual Kingdom.
+In CY 703, the first Turquoise King voted against the formation of the Empire, and—though they are still Goblin Kings, subjects of the Code—they have not contributed to the Empire or accepted its rule.
+Slavery has almost been extinguished there—the Kings of Bronze have almost eradicated it, and the islands have their own legal school that has accepted their changes into the Code as they practice it.
+What is left of slavery under the code may soon pass away entirely; it is widely believed that the current Turquoise King is a supporter of the High Road, and that he will do away with slavery completely before he passes rule of the island to his second son.
+Though they still trade with the Goblin mainland, many merchants will not sail to the island—because the status of slavery there is tenuous, and their own slaves are likely to be liberated by the High Road; if slavery is abolished, trade with the Goblin Empire will all but cease.
+
+The culture there is neither purely Goblinoid nor Commonwealth; it is a hybrid that has been forged over more than 250 years.
+Commonwealth Standard, Vulgar Goblin, Speech-of-the-Lesser, Weal and Heartland Gnoll and more can all be heard in the kingdom's lively markets; Goblin scholars of the Code argue law with the elected leaders of Commonwealth communities; and Goblins, Gremlins, Humans and Gnolls dine together on feast-days.
+
+The kingdom is a major outpost of the High Road; it is one major route by which slaves are smuggled out of the Goblin Empire's holdings on the Ruby Plane, and into the Commonwealth.
