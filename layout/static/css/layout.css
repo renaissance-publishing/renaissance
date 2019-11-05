@@ -113,6 +113,14 @@ aside:not(.toc-menu).insert
     padding: 0.5em;
 }
 
+aside:not(.toc-menu).floating
+{
+    margin: 0.5em;
+    padding: 0.5em;
+
+    float: right;
+}
+
 .example
 {
     background-color: #f3d2f3;
@@ -136,6 +144,11 @@ aside:not(.toc-menu).insert
 .designnote
 {
     background-color: rgb(252, 216, 176);
+}
+
+.hook
+{
+    background-color: rgb(207, 204, 200);
 }
 
 /* Class for fiction blocks.
