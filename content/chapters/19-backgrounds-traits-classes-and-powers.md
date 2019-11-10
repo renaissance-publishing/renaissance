@@ -195,6 +195,8 @@ You are defiant in the face of injury and agony.
 
 Some traits are *negative traits*. A negative trait imposes a *penalty,* but taking it *gives* you more CP to spend during character creation.
 
+  - Congenital Defect: you have some congenital defect; choose one from the list below:
+    - *TBD*
   - Distinctive: you have some very distinctive characteristic, which
     makes you very recognizable. You take a -20 penalty on Disguise
     checks, and on Stealth checks to blend into a crowd.
@@ -208,9 +210,13 @@ Some traits are *negative traits*. A negative trait imposes a *penalty,* but tak
     decreases your DUR by 5; this alters your DR and WT as well. You
     cannot take both this trait and the Tough trait.
   - Illiterate: You cannot read or write.
+  - Impaired Sense: your character has poor vision, poor hearing, or one of their other senses is impaired.  You suffer a -10 penalty to one of your senses (choose one when you take this trait).
   - Meek: No-one would describe you as “brave”: you have a -20 penalty
     to tests to resist fear or intimidation. You cannot take both this
     and the Brave trait.
+  - Old Injury: you have an old injury.  Choose one from the list below:
+    - *tbd*
+  - Sensory Loss: your character is blind, deaf, or otherwise lacks some sense (that they would normally have).  Choose one sense for which you have the Impaired Sense trait; you loose this sense.
   - Social Stigma: you are part of a group, organization or movement
     that people have a negative view of. You take penalties on Social
     skills (these skills depend heavily on the situation, and are up to
