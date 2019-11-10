@@ -852,56 +852,83 @@ Short but sturdy, Dwarves hail from the cold and snowy north.
 Only about a third of the Dwarven Holds have signed the Commonwealth Charter, while the others remained independent.
 A few adventurous Commonwealth dwarves travelled west with the Commonwealth, where they have dug holds in the Haven Isles, besides Ash Elves and Kobolds, and prospered.
 
-Dwarves originate in the frozen north, where the low peaks and rolling foothills of the Worldspine Mountains give way to the coast, the ocean, and the forested plains to their east and west.
-Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine&mdash;many small Dwarven communities built on the surface still consist largely of bermed buildings.
-As Dwarves began to urbanize and practice settled agriculture, as their population grew, their earthen construction became larger and deeper&mdash;and the development of sophisticated mining and stonework allowed them to burrow into rock and to include finished stonework in their construction&mdash;eventually producing the Dwarven clan-holds that were common when the Empire of Man first contacted them.
+#### Traditional Dwarven Culture
 
-Most Dwarven holds are wide, shallow constructions&mdash;at least by comparison to other, deeper-digging cultures, like Kobolds.
-They are often built in a ring around the base of a hill; more rarely, they're dug into open ground.
-They can often feature open spaces on the inside, which helps with ventilation; sometimes these are public spaces, other times they are gardens.
+Dwarves originate in the frozen north, where the low peaks and rolling foothills of the Worldspine Mountains give way to the coast, the ocean, and the forested plains to their east and west.
+Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine—many small Dwarven communities built on the surface still consist largely of bermed buildings.
+As Dwarves began to urbanize, their earthen construction became larger and deeper; the development of sophisticated mining and masonry techniques allowed them to incorporate stone into their construction and to build underground, eventually producing the Dwarven clan-holds that were common when the Empire of Man first contacted them.
+
+Most modern Dwarven holds are large, wide, sturdy structures built of stone and earthwork; they are often dug shallowly, with substantial extent on the surface (as opposed to deeper-digging races like Kobolds, who often build entirely subterranean structures deep underground).
+Dwarven Holds are often built in a ring around the base of a hill; more rarely, they may be dug into open ground, or partially dug into the slope of a mountain.
+They often feature large open spaces on the interior, which provide ventilation, and serve as public spaces or gardens.
 
 The old Dwarven culture of the North is centered around kin and custom.
-Most Dwarven holds will be controlled by a Clan, consisting of several families&mdash;though some large holds may be governed by multiple Clans, and some clans control multiple holds, typically smaller ones.
-Rather than law and governance as such, holds tend to be run by custom and family consensus; authority typically falls to the heads of families.
-Similarly, exchange is more often mediated by custom, with a strong emphasis on caring for kin, then it is by currency.
+Most Dwarven holds will be controlled by a Clan, consisting of several families—though some large holds may be governed by several Clans, and some large and wealth Clans control multiple holds.
+Rather than law and governance as such, holds tend to be run by custom and consensus; authority is typically held by the heads of families.
+Similarly, exchange is more often mediated by custom than currency, and there is a strong emphasis on caring for kin.
 
-Dwarves are open enough, and are rarely hostile, although they can be insular; it can be extremely difficult for an outsider to find a place in such a family-oriented society.
-For this reason, only about a third of the Dwarves Clans of the north ever signed the Commonwealth Charter; the others have remained independent.
+Dwarves are open enough and are rarely hostile, although they can be insular; it can be extremely difficult for an outsider to find a place in such a family-oriented society.
+For this reason, only about a third of the Dwarven Clans of the north ever signed the Commonwealth Charter; the others have remained independent.
 
 Dwarves have cultivated expertise in mining, stonework and agriculture.
 Craftsmen also hold high status in Dwarven holds, and many Dwarven communities are known for the quality of the work of their artisans, which can rival the work of Human craftsmen.
 
-#### Mindsharing Dwarves
-
-Some Dwarven holds have developed a symbiosis with a strange organism first encountered beneath the foothills of the northern terminus of the Worldspine mountains, which has produced a unique culture.
-The organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
-The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
-
-Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures&mdash;what is commonly called psionic energy.
-What's more, the fungus can actually colonize the bodies of some other creatures&mdash;including Dwarves, whose physiology is highly compatible with it.
-Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
-Mindshare Fungus can bridge the minds of its hosts; though a host to a Mindshare symbiote substantially retains their own mind to a great degree, their minds begin to "overlap" with other hosts nearby.
-This allows hosts to exchange thoughts, experiences, knowledge, and even skills.
-These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in&mdash;although hosts cannot completely shut out the connection.
-
-Though this effect can only work over short distances, the effect can be communicated using Mindshare "plants"&mdash;which, like many funguses, can be surprisingly large.
-Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users&mdash;ranging from simple messages or discrete memories to fragments of personalities or skills.
-
-A remarkable culture has developed in the Dwarven Holds where accepting symbiosis with Mindshare Fungus is common.
-Though Mindsharing Dwarves remain individuals separate from their kin, each with their own desires and natures, they share a remarkable amount of themselves with their fellows.
-
 
 #### Haven Isles Dwarves
 
-Though only a few Dwarves have chosen to leave their northern lands and settle elsewhere in the Commonwealth, a large population of Dwarves has nevertheless developed in the Haven Isles.
-There they live in close proximity to Ash Elves and Kobolds, both of whom also often build underground.
-Though these Dwarves do maintain their own traditions, they share quite a bit of culture with their Kobold and Ash Elven neighbors.
+Though only a few Dwarves chose to leave their northern lands and settle elsewhere in the Commonwealth, the communities founded by these travellers, explorers and exiles have endured, grown and prospered.
+Today, Dwarves are one of the most common races in the huge urban centers of the Haven Isles in particular, where their own culture blends with their Kobold and Ash-Elf neighbors.
 
 The Dwarves of the Haven Isles tend to be more mercantile; formal law and finance have substantially replaced tradition and custom in these communities.
 Though some view this as a loss, it has made these communities far more open and accessible to outsiders; the Dwarves of the Haven Isles welcome guests, travelers and traders.
 
 The Dwarves of the Haven Isles tend to get along particularly well with their Kobold neighbors, whose boisterous, zealous and optimistic nature are often welcome; these friendships can often be bittersweet, as Dwarves live much longer lives than Kobolds.
 It is not unusual for one Dwarf to have a close and vital friendship with several generations of a Kobold family.
+
+While many of these Dwarven populations reside in Holds dug into the peaks of the Haven Isles beside Ash Elves and Kobolds, several Dwarven clans have settled in the trading-cities and harbors of the Haven Isles' coast.
+These "shipwright" Dwarves have come to cooperate closely with the Ratfolk, Halfling and Orcish shipwrights who have helped to build the Commonwealth's navy.
+
+#### Mindsharing Dwarves
+
+In CY 509, Dwarven explorers discovered a strange, psionically-active fungus beneath the low peak of a small island in the northern Haven Isles.
+The fungus proved to have remarkable capabilities, and an entirely new Dwarven culture has developed around it.
+This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
+The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
+
+Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures—what is commonly called psionic energy.
+What's more, the fungus can actually colonize the bodies of some other creatures—including Dwarves, whose physiology is highly compatible with it.
+Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
+Mindsharing Fungus "bridges" the minds of its host with other hosts nearby; this allows hosts to exchange thoughts, experiences, knowledge, and even skills.
+These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in—although hosts cannot completely shut out the connection.
+
+Though this effect can only work over short distances, the effect can be communicated using Mindshare "plants"—which, like many funguses, can be surprisingly large.
+Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users—ranging from simple messages or discrete memories to fragments of personalities or skills.
+
+A unique, highly communal culture has sprung up around the *Fahra*.
+The Mindsharing Dwarves tend to be radically open, honest and egalitarian.
+Even more than traditional Dwarves, they run their societies by consensus and memory—thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
+Members of Mindsharing communities will often share some personality traits—this is never enforced, as even Mindsharing Dwarves value their individuality, but occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
+Some communities remain highly individualistic in their own way, where each member lives their own lives and pursues their own goals, merely using the *Fahra* to best live at peace with their neighbors; in other communities, however, members can begin to "vanish" into the collective.
+
+No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link—no matter how much they might try to stop it—and would "poison" all the other members.
+Still, even though, for the most part, the Mindsharing Dwarves are as welcome in the Commonwealth as any other community, there are those that fear them.
+
+Most Mindsharing Dwarves live in the Haven Isles.
+A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them cooly (an understatement in the case of the Ground-Explorer Dwarves).
+
+#### Ground-Explorer Dwarves
+
+Ground-Explorer Dwarves are a Dwarven subculture that has vanished into the depths, substantially withdrawing from the affairs of surface-dwellers and "shallow diggers".
+The Ground-Explorer Dwarves' origins lie in the *Lun*, a confederation of Dwarven holds in the northeastern peaks of the Worldspine mountains.
+Independent and individualistic, they where not among the holds that joined the Commonwealth.
+In CY 514, a community of Dwarves from the Haven Isles resettled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to experiment with the symbiotic organism.
+
+The fiercely individualistic *Lun* where horrified; they feared what their new neighbors might become, and were particularly alarmed that their hold was in a position to close off the *Lun*'s path out of the Worldspine Mountains.
+The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging into the 'Plane in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
+
+Today, little is known about the Ground-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
+
+See also *Ground-Explorer Dwarves* in *Other Factions*.
 
 #### Vitals
 
@@ -927,9 +954,90 @@ You hail from a Dwarven Hold, either in the north of the Emerald Plane or one of
 - 10 ranks in Protocol
 - 10 ranks in Barter
 
-#### Optional Trait: Mycenaean
+#### Optional Trait: Cave-Eyes
 
-#### Optional Background: Mycenaean Hold
+Some Dwarves eyesight has become extremely sensitive; this allows them very good vision in dim light, but it also makes them very sensitive to bright light.
+This is extremely common among the *Drahrat*, most of whom cannot venture in daylight without day-masks (see below).
+
+- You gain the *Low-Light* sense.
+- You become highly sensitive to bright light; your are dazzled in bright light (such as daylight), suffering a -30 penalty to visual perception tests.
+- Prolonged exposure to bright light is increasingly painful, eventually causing permanent damage to your vision.
+
+#### Cultural Item: Day-Mask (Cost: Medium or Cost: Hight)
+
+The *Day-Mask* consists of smoked lenses designed to filter out bright light, as well as a fabric or leather wrap that attaches them to the head.
+The wrap is used to completely enclose the eyes, preventing light from "leaking" around the edges of the lenses; leather and wool are common in the north, while lighter fabrics (often dyed dark colors) are used in the south.
+
+- You do not suffer any penalty from exposure to bright light (such as from the Cave-Eyes trait).
+- You suffer a -10 penalty to visual perception checks.
+- You suffer a -10 penalty in dim light.
+- Normal Day-Masks are Cost: Medium
+
+The lenses of some Day-Masks are *ground*, with different sections having different shapes.
+This may be done to correct for poor vision, or may provide magnification at long or short range.
+
+- *Ground* Day-Masks provide a +10 bonus to visual perception checks.
+- *Grinding* a Day-Mask is Cost: Medium (in addition to the cost of the Day Mask).
+
+Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rapidly "smoke over" when exposed to bright light.
+
+- Magical Day-Masks protect your eyes from bright light the way normal Day-Masks do, but they impose none of the penalties that normal Day-Masks have.
+- The lenses "smoke over" in little more than a second.  If you are suddenly exposed to bright light, you may experience some dazzling (incuring a -10 penalty to visual perception tests), but this fades quickly (lasting only for the first turn of exposure).
+- You can force the Day-Mask to become clear or smoked.
+- Magical Day-Masks are usually *ground* (at no additional cost).
+- Magical Day-Masks are Cost: High.
+
+#### Cultural Item: Day-Wrap
+
+Dwarves who cannot afford Day-Masks—or who must do without them for some other reason—often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
+\[Dwarven day-wraps are much like *shemaghs*.\]
+
+Some day-wraps may be woven in complex patterns or richly died; many Clans and Holds have specific patterns and colors.
+
+- When wearing a day-wrap—or improvising a similar covering—the penalty for exposure to bright light is reduced to -20.
+- Day-wraps work by shading the eyes from the sun; they are ineffective against lights at eye-level.
+- Day-Wraps are Cost: Trivial
+
+#### Optional Trait: Mind-Sharing
+
+You have a *Fahra* symbiote; this allows you to share parts of your mind with other Mind-Sharing Dwarves nearby, and for them to share their minds with you.
+
+- You can *share your mind* with anyone else with the Mind-Sharing trait who is within 15m.
+  - The Mind-Sharing Fungus serves as something of a conductor; if a Mind-Sharing Fungus is within range, then you can *share your mind* with anyone else with the Mind-Sharing trait who is within range of the same *Mind-Sharing Fungus*.
+  - Note that many funguses are quite large; what may appear to be many different growths on the surface may actually all be parts of one huge plant, with a vast root-system.
+- *Sharing your mind* provides several benefits:
+  - you can communicate, as though speaking;
+  - you can share a sense-perception (i.e. allowing someone to see through your eyes);
+  - you can share memories (i.e. allowing someone to perceive your memories as you do);
+  - you can share knowledge;
+  - you can share your skills (if you have 30 or more ranks in a skill, then you can grant someone access to your skill; they are treated as if they have 15 ranks in that skill);
+  - you can even "fortify" someone else's mind (if you have a rating of 25 or more in an aptitude, then you can "fortify" that aptitude in someone else; they are treated as having a rating of 15 in that aptitude).
+- Being connected with the minds of others can cause some of your personality to blend with their, and vice-versa.
+  - This effect is subtle, only occurs over the long-term, and is intended to be role-played; even in its most extreme form, it does not *require* a character to "loose themselves" to those they are sharing their mind with.
+
+#### Optional Background: Mind-Sharing Dwarf
+
+You are from a community of Mind-Sharing Dwarves.
+
+- the Mind-Sharing trait.
+- 10 ranks in Control
+- 10 ranks in Protocol
+- 10 ranks in one Technical skill
+
+#### Optional Background: Ground-Explorer Dwarf
+
+You are a *Drahrat*—called a "Ground-Explorer" in the Commonwealth.
+You are from a member of a secretive culture that has vanished deep underground.
+
+- 10 ranks in Ride
+- 10 ranks in Survival
+- 10 ranks in one Technical skill
+- a Survival skill-kit, specialized for caves.
+- one other skill-kit
+
+The Cave-Eyes trait is very common, as are *day-wraps*.
+
+Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to describe the culture that your character is from, they may have plans for the Ground-Explorers that you will need to account for, or they may not allow you to play a Ground-Explorer at all.
 
 ### Gnomes
 
