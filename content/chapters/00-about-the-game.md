@@ -54,6 +54,12 @@ Changes since last time:
 - Added a new minor faction, the Kingdom of Foam and Cloud
 - Added Certa to the Kingdoms of Men.
 - Added some quest-hook asides.
+- Big Dwarf rewrite in the Races section!
+  - added the Fahrat and Drahrat
+  - Added light-sensitivity and smoked goggles
+  - added the mindsharing fungus
+- added negative traits for impaired and lost senses.
+- added (placeholders for) "congenital defect" and "old injury" negative traits.
 
 Feedback Questions
 
@@ -167,8 +173,8 @@ Contributors:
 
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
-  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Mycenaean Dwarves.  The Terranaut Dwarves.  And further work on weapons (crossbow designs).
-  - King K: the Gnomes, Drugs, help with rep networks. A map\!  Also work on the Mycenaean Dwarves.
+  - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.
+  - King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.
   - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
