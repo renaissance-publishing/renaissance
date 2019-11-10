@@ -531,11 +531,11 @@ The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven
 Early in CY 509, a psychically-reactive fungus was discovered underneath an island in the Haven Isles; experiments with this organism eventually spawned the Mindsharing Dwarves, or the *Fahrat*.
 This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Ground-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
 
-The Ground-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the southern end of the Worldspine Mountains.
+The Ground-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the northern end of the Worldspine Mountains.
 They where (and still are) relatively insular, and where not among the Dwarven clans that joined the Commonwealth.
 
 Descendants of another confederation 9 *demarc* \[38km\] to the East had left more than a century prior to settle in the Haven Isles, and it was there that psions and philosophers studying the *Fahra*, the mindsharing fungus, settled.
-As the properties of the Fahra where explored, as a movement began to develop around it, the insular and individualistic *Lun* began to fear what the *Fahrat* might become, and began to seek escape.
+As the properties of the Fahra where explored, and as a movement began to develop around it, the insular and individualistic *Lun* began to fear what the *Fahrat* might become, and began to seek escape.
 Their fear was great enough that they sought a shelter that the *Fahrat* could never breach, even if they should consume the entire surface: they dug into the depths.
 
 The *Drahrat* began to explore the depths in CY 517.
