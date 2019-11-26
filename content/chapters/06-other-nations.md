@@ -1,5 +1,5 @@
 ---
-title: "Other Factions"
+title: "Other Nations"
 ---
 
 ## The Kingdoms of Men
