@@ -60,6 +60,7 @@ Changes since last time:
   - added the mindsharing fungus
 - added negative traits for impaired and lost senses.
 - added (placeholders for) "congenital defect" and "old injury" negative traits.
+- adding a chapter for Organizations!
 
 Feedback Questions
 
