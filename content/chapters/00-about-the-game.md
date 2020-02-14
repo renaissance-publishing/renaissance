@@ -61,6 +61,8 @@ Changes since last time:
 - added negative traits for impaired and lost senses.
 - added (placeholders for) "congenital defect" and "old injury" negative traits.
 - adding a chapter for Organizations!
+- Working the chapters on the Supernatural, and on Cheating Reality.
+  - not changing any actual rules text, but pulling down the power-level for magic as described.
 
 Feedback Questions
 
