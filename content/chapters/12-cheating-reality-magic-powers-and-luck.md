@@ -4,102 +4,48 @@ title: "Cheating Reality: Magic, Powers and Luck"
 
 ## Using Magic
 
-  - I’ve been moving this section around a lot. I’ve removed it before,
-    when it was just talking about rituals, and then I added it back in
-    the character guide. But, now that it’s also talking about mages and
-    psions, I’ve decided to put it back in the mechanical section.
-  - In general, magical abilities that you have ready access to are best
-    represented as either powers, classes or items (see Powers below,
-    and in Character Options).
-  - As above, powers represent some action that you can perform: this
-    might be a sleight that increases your armor, a spell that allows
-    you to shield yourself with ice, or a blessing bestowed on you by a
-    spirit that allows you to strike fear into their enemies.
-  - Classes can be used to represent magical effects that aren’t
-    actions. The Corpse-Herd class is an example of this: it represents
-    the magical ability to build a corpse-minion that will serve you,
-    but it’s presented as a class rather than a power because presumably
-    you’ll only perform the action of making it occasionally (unless you
-    get your corpse minion killed a lot).
-  - Finally, items are useful to represent magical devices that you’ve
-    created—like a bow that fires bolts of fire.
+In general, characters in Renaissance will represent their magical abilities with either *powers*, *classes*, or *items*.
+Powers represent some action that you can perform: this might be a sleight that increases your armor, a spell that allows you to shield yourself with ice, or a boon bestowed on you by a spirit that allows you to strike fear into their enemies.
+ Classes can be used to represent magical effects that aren’t actions.
+ The Corpse-Herd class is an example of this: it represents the magical ability to build a corpse-minion that will serve you, but it’s presented as a class rather than a power because presumably you’ll only build your minion occasionally (unless you get your corpse minion killed a lot).
+Finally, items are useful to represent magical devices that you’ve created—like a bow that fires bolts of fire.
 
-### Creating Magical Effects
+Classes and Powers are described in *Backgrounds, Traits, Classes and Powers*, and some sample potions and magical items are described in *Items*.
 
-  - What else can your character do with magic? Presumably, if you’re a
-    skilled mage (i.e. if you have 40 or 50 ranks in Spellcraft), then
-    surely you have other magical resources besides the powers that you
-    have (or the ability to put on light shows, if you have the Mage
-    class).
+## Creating Magical Effects
 
-  - Indeed, skilled magic users, be they mages, psions or priests, can,
-    with study and preparation, produce a wide variety of magical
-    effects.
-    
-      - These effects are usually “one-off” events; they usually requrie
-        (at least) a task action of several hours to achieve, and an
-        appropriate skill check (either spellcraft or control for mags
-        and psions, the situations being somewhat more complicated for
-        priests).
-      - We don’t provide detailed rules for exactly what kinds of
-        effects can be created. The intent is that characters should be
-        able to specify any magical effect (within reason) and then
-        realize that result as a one-off effect with appropriate
-        preparation.
-      - The GM is the final arbiter for what is “within reason,” of
-        course. This might even change: such is the nature of magic,
-        that what is possible at one time in one area might not be
-        workable in another.
+In much the same way that a skilled blacksmith can crate a wide variety of useful metal items, skilled mages, psions and alchemysts are not limited to only the powers and classes they have directly purchased, but can, with research and time, produce a wide variety of useful magical effects.
+This process works somewhat like "crafting" an item; it usually requires a Task Action or Job, and an appropriate skill check (typically spellcraft for mages, control for psions, and Craft: Alchemy for alchemists).
+Unlike powers and classes, effects produced by "crafting" in this way are usually "one off" events—magic is gathered, an effect is produced, and then it's over.
+(If you want a persistent or reusable effect, you should purchase a class or power during character-creation or down-time.)
 
-  - Mages
-    
-      - Mages can produce a wide variety of useful effects. They usually
-        do this by acquiring texts describing the manipulation of magic,
-        researching and planning, preparing reagents and ultimately
-        casting their spell.
-        
-          - For power effects, this process might be long and
-            involved—it could even be an adventure unto itself\!
-          - Mechanically, this usually involves at least a spellcraft
-            check to design the ritual, and another spellcraft check to
-            perform it.
-          - knowledge: magic, profession: mage and research might all
-            also be required, especially for complex, unusual or
-            powerful rituals.
-    
-      - With a few hours of study and preparation, a mage might produce
-        a great fireball or freeze over the surface of a lake.
-    
-      - With a few days of work, a mage might raise a shield over a
-        house, or blight a field.
-    
-      - With weeks or months of works, mages might render a tower nearly
-        indestructible, unleash a plague on a city, or construct a
-        permanent bridge of light.
+### Examples
 
-  - Psions
-    
-      - Psions can create powerful affects through meditation,
-        concentration and mental discipline.
-        
-          - Psions often achieve this with hours of meditation and
-            mental conditioning; this usually requires a control check.
-    
-      - With a few hours of preparation, a psion could suspend the
-        progress of a disease, listen to the thoughts of someone nearby,
-        render themselves immune to a hostile environment (as long as
-        they can maintain their trance) or solve a complex logic puzzle.
-    
-      - With a few days of meditation and quiet contemplation, a psion
-        could render themselves nearly immune to damage (as long as they
-        can sustain the trance), cast their mind far from their bodies,
-        or heal their wounded psyches (regaining some stress and trauma
-        much like the rules for first aide).
-    
-      - With weeks or months of quiet contemplation and meditation,
-        psions could make themselves younger, regrow limbs, modify their
-        physical forms (growing a carapace, adding limbs), or probe the
-        minds of distant enemies.
+Mages can produce a wide variety of useful effects, called spells.
+They usually do this by acquiring texts describing the manipulation of magic, researching and planning, preparing reagents, and ultimately casting their spell.
+
+Even for simple effects—like mimicking a minor spell (i.e. a power that the mage hasn't purchased)—this might take hours or days.
+For more profound effects, this process might be so long and involved—requiring so many steps or having so many special requirements—that it could even be an adventure unto itself\!
+
+Mechanically, this usually involves at least a spellcraft check to design the ritual, and another spellcraft check to perform it.
+*Knowledge: Magic*, *Profession: Mage* and *Research* might all also be useful.
+
+For example:
+
+- With a few hours of study and preparation, a mage can mimic a minor spell (i.e. can reproduce a power that they didn't purchase).
+- With a few day's work, they might produce a fireball powerful enough to knock over a house, freeze over the surface of a lake, or erect a magical barrier over .
+- With a few days of work, a mage might raise a magical shield over a house, or blight a field.
+- With weeks or months of works, mages might render a tower nearly indestructible, unleash a plague on a city, or construct a permanent bridge of light.
+
+Psions can create magical affects (called sleights) by using meditation, focus and discipline to manipulate their own innate magical energy.
+*Sleights* often alter the body or mind of the psion, sometimes in profound ways; sleights might allow a psion to heal rapidly, ignore the effects of poison, to heal their minds, or to sustain themselves without food.
+Psions rarely have need of external tools and reagents; instead, they develop sleights purely by mental discipline and practice.
+
+For example:
+
+- With a few hours of preparation, a psion could suspend the progress of a disease, listen to the thoughts of someone nearby, render themselves immune to a hostile environment (as long as they can maintain their trance) or solve a complex logic puzzle.
+- With a few days of meditation and quiet contemplation, a psion could render themselves nearly immune to damage (as long as they can sustain the trance), cast their mind far from their bodies, or heal their wounded psyches (regaining some stress and trauma much like the rules for first aide).
+- With weeks or months of quiet contemplation and meditation, psions could make themselves younger, regrow limbs, modify their physical forms (growing a carapace, adding limbs), or probe the minds of distant enemies.
 
   - Priests
     
@@ -164,6 +110,59 @@ title: "Cheating Reality: Magic, Powers and Luck"
               - Rituals don’t have error messages; it’s possible that
                 things can go completely wrong in ways that might not be
                 obvious.
+
+### Limiting Magic
+
+While we have provided some guidelines and examples for what magic can do, we have not provided a detailed system for "building magical effects."
+The intent is that characters should be able to specify any magical effect (within reason) and then realize that result as a one-off effect, given an appropriate investment of time and success on an appropriately-modified check.
+
+We recognize that this can be tricky for GMs; it can be difficult to design a campaign if one of your players might choose to attempt to design *literally any* magical effect at any time.
+In general, we think that you should take a generous view of what your players can achieve—although that doesn't mean you can't refuse a player.
+Certainly, no-one in the Commonwealth can explode a mountain, fling someone into the sun, or ascend to godhood; these things are simply beyond the capabilities of mortal magic in the Commonwealth (and the rest of the known world) in CY 830.
+
+GMs also have subtler tools to limit the disruptive effects of magic.
+Remember that you decide *how long* it takes to produce a magical effect—and manipulating magic isn't easy, so those Task Action and Job durations probably shouldn't be *short*.
+While it might be possible to unleash a plague on a city—an event that might have an effect as dramatic as ending a seige—it might also take *months* to do; in that time, a conventional army could win a conventional victory.
+
+Another hazard is Mage-Sight.
+Some magic-users have developed the ability to see magic (i.e. have purchased it as a class or power), while some creatures naturally have the ability to see magic.
+In any case, powerful magical effects require *huge* amounts of magic, and thus they might be obvious to anyone (or anything) with Mage-Sight nearby.
+So, in the example of someone trying to end a seige with a plague, not only might such a spell take months to achieve, but the mage and their workshop might shine like a bonfire the entire time, making them an obvious target.
+
+Finally, some of the ideas behind the design of *classes* and *powers* can serve as a guide for what can (and can't) be done with magic in general.
+Apparently, mages and psions in the Commonwealth have developed (or can develop) the ability to throw fireballs, animate corpses, and partly transcend their mortality; mages and psions can reasonably achieve effects *like* these with time and preparation, even if they don't have those powers.
+However, there isn't a *remote viewing* or *mind control* power, and for good reason.
+
+<aside class="gmguidance">
+
+### To the Sun
+
+The GM has prepared an intrigue campaign: there's a wealthy, powerful Certan who's pulling the Certan Movement closer to the Eastern Kingdoms.
+If he where "removed," the Certans might be induced to shift their focus from the Western Kings (who are Commonwealth Allies) to the Eastern Kings (who decidedly are not).
+The High Road has put up a bounty to do just that; to collect, the party will need to cross the border, steal into Certa and quietly, deniably "dispose of" the noble.
+
+Fire is in the party, and his player asks the GM if he can simply develop a magical spell to teleport the troublesome noble straight into the sun from here.
+
+The GM has a number of options, probably the best of which is to say "no."
+While there are teleporting spells, all of them have the *caster* teleport to a destination, and optionally bring something with them; *none* of them allow you to teleport something to you, and *certainly* none of them allow you to teleport an object at Remote Location A to Remote Location B.
+So, it's reasonable to assume that no-one knows how to do that.
+
+(Equally, the distance from the campaign's starting-point in the Dragonshire to the target in Certa is much further than any teleporting magic besides the Kairnes has ever gone—never mind the distance to the *sun*.)
+
+If she wants to be a little more subtle, she might simply tell him that, yes, he can do that, but it's going to take *six months*, and the spellcraft check will be made at a -30 penalty—essentially, "sure, but the rest of the party can probably just complete the quest before you're done."
+But, if Fire is determined to be a jerk, he can get around this by spending a Luck Point to remove the negative modifier.
+At that point, he may as well rush the job down to six weeks—about a 75% reduction—since he's removing all his penalties anyway.
+
+If the GM wants to provide a little extra discouragement, she might declare that a "numinous thread of magic" will arc from where Fire is to the Noble he's targeting, which will make it immediately obvious to Certan mages who is responsible for banishing their noble into the sky.
+Or, if she wants to go the other way, she might declare that there's no way for Fire to prove that *he* killed the noble, and so the party won't be able to claim the purse.
+
+A third option is to place some restrictions on what his spell can do.
+Sure, he can teleport the noble to his death, but not *from here*; it'll need to be applied to the target directly.
+Essentially, Fire will have to create the spell, and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll need to sneak up to his target and physically touch them to trigger it.
+This way, Fire still gets his spell, but the structure of the campaign remains intact.
+The GM can also make this trickier by declaring that the spell is visible in Mage-Sight while it's bound to Fire, which will make sneaking harder for him; she might also declare that he can't use his normal teleporting powers while carrying the spell—he'll risk destabilizing it and teleporting *himself* to his death if he does.
+
+</aside>
 
 ## Designing and Using Powers
 
@@ -255,6 +254,26 @@ General rules for powers
         magic (unless it’s also a spell, sleight or boon)
       - Boon, Blessing: a power that has been granted by a Spirit,
         possibly drawing power from them or their Basin.
+
+<div class="playerguidance">
+
+### Do Spells Require Magical Crafting
+
+According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting—by gathering materials that react to magic, accumulating magical energy, and processing them.
+But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
+Shouldn't you need to perform "magical crafting" to use a spell?
+
+Simply put, that's up to the player.
+A power is something that your character has practiced until its down to wrote; presumably, you've found some way to reliably trigger your magical powers—your spells—quickly and reliably.
+How you did that is up to you.
+
+Some players might choose to include a magical apparatus or process in their powers—like Fire, for example.
+Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
+
+Other players may just want to use their powers, without needing to manipulate some kind of magical tool—Lady Katarina, for example, may simply want to use her Blurr power, without needing some special device.
+We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
+
+</div>
 
 ## Luck
 
