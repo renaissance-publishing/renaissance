@@ -1568,7 +1568,7 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
   - Shamblers are spirits bound to plants.
 
   - They originated in the dense marshes of the Southern lowlands to the
-    East of the World-Spine Mountains.
+    West of the World-Spine Mountains.
 
   - They were created when Father Cypress, a Great Spirit who admired
     mortals and wished to interact with them, created plants with
