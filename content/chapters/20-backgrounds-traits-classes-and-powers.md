@@ -715,7 +715,7 @@ For example, characters might be required to take 1d10 DV to activate a power, o
 
 Any time you give one class of character access to more powerful abilities than others, you run the risk of upturning the balance of power between characters and letting some players dominate the game; this risk still applies to sacrificial magic schemes.
 
-However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game--and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
+However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game—and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
 
 So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
 
