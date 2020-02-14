@@ -8,61 +8,44 @@ title: "The Commonwealth Today"
 
   - Commonwealth has 4 Provinces (not counting the Tribal Lands)
     
-      - Heartland: original territory. The World-Spine, some territory
-        East, and a large chunk West. Still a network of manors
-        internally
+      - Heartland: original territory. The World-Spine, some territory East, and a large chunk West. Still a network of manors internally
     
-      - The Haven Isles: island chain off the Western coast, featuring
-        one large sub-continent island (Islandholm), and several smaller
-        islands. A federalized state in the modern sense.
+      - The Haven Isles: island chain off the Western coast, featuring one large sub-continent island (Islandholm), and several smaller islands. A federalized state in the modern sense.
     
-      - Northland: northern territories occupied by Dwarves, consists
-        largely of the Dwarven holds that chose to join the Commonwealth
-        (not all did).
+      - Northland: northern territories occupied by Dwarves, consists largely of the Dwarven holds that chose to join the Commonwealth (not all did).
     
-      - Tribal Territories: large swaths of central land-mass left
-        un-governed
+      - Tribal Territories: large swaths of central land-mass left un-governed
         
           - complex relationship
           - Not a province, more an Unorganized Territory
           - Some tribes are Commonwealth members or allies, and some are
             not.
     
-      - Dragonshire: Territory in the South-East, between Heartland and
-        the Kingdoms of Men. Essentially a constitutional monarchy, with
-        a parliamentary republican government. Where the dragons are
-        from.
+      - Dragonshire: Territory in the South-East, between Heartland and the Kingdoms of Men. Essentially a constitutional monarchy, with a parliamentary republican government. Where the dragons are from.
 
       - Westward: a band of territory stretching between the Worldspine Mountain and the western shores of the Emerald Plane.  The tribal territories sit between Westward Province and Northland Province.  On the south, Westward shares a border with the Shade Elves, and that border has seen near-constant conflict; because of this, Westward is heavily militarized.
 
-  - There are three major city-states
+  - There are four major city-states
     
-      - Twin Cities, old (above-ground) trade-city and new Kobold
-        underground metropolis, built one-above-the-other in World Spine
-        Mountains.
+      - Twin Cities, old (above-ground) trade-city and new Kobold underground metropolis, built one-above-the-other in World Spine Mountains.
       - Port City situated on Southern coast of Emerald Plain
       - Royal City in Dragonshire?
+      - 
 
   - The Commonwealth is stable and prosperous
     
-      - internal trade flourishes, mediated by the river-boats, by
-        halfling and human trade caravans, and by sailing along the
-        coast.
+      - internal trade flourishes, mediated by the river-boats, by halfling and human trade caravans, and by sailing along the coast.
     
-      - The Commonwealth Council collects taxes, negotiates with
-        external nations, and runs the Council organizations (like the
-        Military and the Engineers).
+      - The Commonwealth Council collects taxes, negotiates with external nations, and runs the Council organizations (like the Military and the Engineers).
         
           - The Council can amend the Compact, although it’s hard.
           - The Council also manages inter-province disputes.
-          - Note that the Council doesn’t make law, each province does
-            that for themselves.
+          - Note that the Council doesn’t make law, each province does that for themselves.
     
       - The Commonwealth is internally stable.
         
           - The military keeps the peace.
-          - People identify as Commonwealth citizens; they view this as
-            important as racial or provincial identities.
+          - People identify as Commonwealth citizens; they view this as important as racial or provincial identities.
     
       - well-funded professional military (internal police, army, navy)
         
@@ -75,26 +58,18 @@ title: "The Commonwealth Today"
   - major concern is their neighbors
     
       - Long-term conflict with the Shaded Sea Peoples.
-      - The Kingdom of Men is internally unstable, and could easily
-        switch from being an ally to an enemy.
-      - Though not at war with the Goblin Kingdoms, they have very
-        little trade and no cooperation; the Kingdom is hostile, and is
-        actively in conflict with an ally (the Raptor’s Alliance).
+      - The Kingdom of Men is internally unstable, and could easily switch from being an ally to an enemy.
+      - Though not at war with the Goblin Kingdoms, they have very little trade and no cooperation; the Kingdom is hostile, and is actively in conflict with an ally (the Raptor’s Alliance).
 
   - Internal corruption still exists
     
       - notably in cities, and notably in the Heartland Province
 
-  - Also, the whims of the spirits are a constant source of trouble;
-    though some spirits are friendly, and some others can be bought, but
-    many others are both inscrutable and powerful—operating by rules
-    that neither mortals nor lesser spirits understand, and willing to
-    upend the affairs of lower beings for their own ends.
+  - Also, the whims of the spirits are a constant source of trouble; though some spirits are friendly, and some others can be bought, but many others are both inscrutable and powerful—operating by rules that neither mortals nor lesser spirits understand, and willing to upend the affairs of lower beings for their own ends.
 
 ## Commonwealth Technology
 
-  - I’m bad at history, but shooting for something-like Europe in
-    1200-1400.
+  - I’m bad at history, but shooting for something-like Europe in 1200-1400.
     
       - I want them to have an impressive cultures, so I might bump that
         target year forward a little.
