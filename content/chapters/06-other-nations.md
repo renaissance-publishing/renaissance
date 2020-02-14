@@ -233,7 +233,7 @@ It might even be a Tempter—or a spirit like them—seeking power for themselve
 GMs have a fair amount of leeway in how they depict Certa.
 
 They might be a cynical movement no better than the kings they're replacing—an *effectively* hereditary ruling class replacing a *directly* hereditary one.
-Or they might be a major positive step for the Empire, despite their flaws—a sincere movement that heralds the breaking up of royal power.
+Or they might be a major positive step for the Empire, despite their flaws—a sincere republican movement that heralds the breaking up of royal power.
 
 Pick a Certa that fits the game you want to run!
 
