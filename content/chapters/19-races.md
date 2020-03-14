@@ -1900,6 +1900,31 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
   - Language Group: GR
   - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
 
+### Brightfeathers
+
+Brightfeathers are small, bird-like humanoids with a wide variety of richly colored plumages. Once the sole inhabitants of the western fringe of the Ruby Plane, they were formerly a relatively isolated culture until Ratfolk began fleeing the Warren Isles to avoid the brunt of Shade Elven raids and quickly began to establish themselves in their new home. The Ratfolk brought relatively advanced technology to the Brightfeathers, who gained the ability to sail along the coastal waters rather than attempting to traverse the dense jungles on foot or wing. While this helped open them to others on the Plane, this also made them natural allies for the Ratfolk as they established themselves.
+
+Initially, they were mistrusted along with the Ratfolk who had fled the Warren Isles due to their connection wth the brutal raids from the Shaded Sea Peoples, but in time the other major power in the northwestern Ruby Plane, the Raptors,came to view coexistance as essential to survival against the onslaught from the north, leading to the initial treaties which later lead to the official establishment of the Raptor Protectorate.
+
+The Brightfeathers themselves have a rich culture, with a native language which cannot be imitated by any other known race and a complex psuedo-pictographic writing system. Until meeting the Ratfolk, their existance had long been rather peaceful, which helps to explain their particular focus on art of almost any kind. Creative expression is very important to them, and those who create great works are highly respected.
+
+Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning. Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song. In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.
+
+#### Vital Statistics
+* Old age: 90 years
+* Average height: 1.2 meters
+* Average weight: 25 kilograms
+* DUR 20, STR 20
+* +5 COO, +5 INT, +10 SAV
+* Movement: Foot 3/9, Fly 4/12/48
+* Senses: Normal, Infrared
+* Tags: Natural, Humanoid, Avian, Brightfeathers
+* Language Group: Any
+* _Small_: Brightfeathers are small
+* _Natural Linguist_: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
+* _Acute Eyesight_: Brightfeathers recieve a +20 bonus to visual perception checks.
+* _Talons_: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
+
 ## Exotic Races
 
 ### Bone Spiders
