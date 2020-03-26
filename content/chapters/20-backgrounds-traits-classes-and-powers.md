@@ -191,6 +191,16 @@ You are defiant in the face of injury and agony.
 - **Requires:** 20 WIL
 - **Benefit:** When your damage exceeds your DUR, you have a chance to continue to act for a short time (instead of losing consciousness immediately, like you normally would).  When you damage exceeds your DUR, roll WIL×3; if you succeed, you may remain conscious for WIL÷5 rounds.
 
+#### Member
+
+You are a member of an organization, like one of the Commonwealth's large guilds, or one of the organizations listed in *Organizations*.  This gives you access to the organization's resources, but also imposes obligations to the organization on your character.
+
+- **Benefit:** You are a member of an *organization*, gaining access to the organization's resources, but also accepting an obligation to the organization.
+  - Players and GMs should work together to detail the player's organization; the GM's final approval is required.
+  - Organizations generally shouldn't be so powerful that they trivialize the game or make it impossible to threaten the characer—that's too powerful.  However, the player should also gain some benefit from being in the organization—they're paying CP for the trait, after all.
+  - Membership in an organization should also impose some obligations on the character—for example, a commercial guild might require its members to pay dues, and to maintain a good reputation (so as to not tarnish the reputation of other members of the guild).
+
+
 ### Negative Traits
 
 Some traits are *negative traits*. A negative trait imposes a *penalty,* but taking it *gives* you more CP to spend during character creation.
