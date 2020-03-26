@@ -171,7 +171,7 @@ It is unknown why the Bulrush God wanted to own a marsh—or why it needed Karra
 It is unknown if it has any wants, rituals, or binds, and it is unknown what its basin is; it is such that it could aid in the creation of the Drakes, but it is unknown what influence it used to do so.
 Since being granted its title and domain, it has sought no further contact with mortals, and has made no further desires known.
 
-The Dragonshire zealously guards the territory granted to the Bulrush God, even though it did not specifically tell them to do so, out of concern for what it *might* do should its lands be invaded; they are wise to do so, as spirits are mercurial and unpredictable and it is impossible to guess what it might do if its territory is violated.
+The Dragonshire zealously guards the territory granted to the Bulrush God, even though it did not specifically tell them to do so, out of concern for what it *might* do should its lands be invaded; when dealing with a spirit as powerful and mysterious as the Bulrush God, such precautions are wise.
 
 #### Father Cypress
 
@@ -191,7 +191,59 @@ He believes that the interests of wilderness and nature do not need to be in con
 He is the creator and forefather of the Shamblers (see their entry in *Races*); they are his attempt to create a people who can bridge swamp and civilization.
 He encourages his children to travel among the world, and he welcomes mortals into his swamp—so long as they are respectful of it.
 
+#### The Mourner
+
+>You whose wings embrace the dead
+> as the warmth of the summer night,
+>Your wings are as a balance;
+> on one is written justice, on the other, mercy.
+>Your voice is the voice of the dead;
+> your cry is their call for justice.
+
+**Basin:**  history, law, justice, mercy, death
+
+**Manifestation:** large black dragon
+
+**Propitiation:**
+
+**Binds:**
+
+The Mourner is a Great Spirit associated with history, law, justice, mercy and death; he is also a Saint—a mortal creature who was elevated upon his death.
+He is closely associated with the Orator and the Mother; in the shifting politics of Great Spirits, he is one of their strongest allies.
+
+In autumn of CY 616, human Champions of the One who Chose Us set out from the Eastern Kingdoms and travelled to the ruins of vanquished civilization resting in the trackless deeps of a stretch of marsh and swampland in the northeastern Dragonshire; the civilization there had been destroyed by human settlers from the Empire of Man a thousand years before their departure, and they hoped to bring back a token of this ancient conquest to present to the One.
+When they arrived, they slew an old elf who dwelled among the ruins, secured one of the few intact relics of the destroyed civilization—an ancient scroll of unknown purpose—and carried it back to Hate's Hold.
+
+This "old elf" was known to those who lived near the swamp.
+He had been living there as long as anyone could remember—since before the oldest elves had been born; some believed he had even walked among the ancient civilization that had dwelt in the swamp.
+It was widely held that he was not actually an elf at all, but in fact a magical construction, formed of the sand and soil of the swamp by some ancient, powerful mage.
+
+What is known for certain is that, after the "elf" was killed and the scroll was stolen, an ancient, massive, black-scaled dragon emerged from the swamp and travelled to Hate's Hold.
+There, rather than attack the city, he called out at the gates and demanded the return of the scroll; the city's soldiery engaged him, and captured him.
+He was hauled into the square in the fortress and was slaughtered.
+
+What is known for certain is that, after the "elf" was killed and the scroll was stolen, an ancient, massive, black-scaled dragon emerged from the swamp and travelled to Hate's Hold.
+There, rather than attack the city, he called out at the gates and demanded the return of the scroll.
+The Lord of Hate's Hold, the King of Tennec, then came out to argue with him.
+The dragon claimed to be a survivor of the people who had written the scroll, and demanded its return; the Tenna King claimed it as a spoil of conquest, an offering to the One.
+The Tenna then deployed the soldiery against the dragon; the dragon was mortally wounded in the fight, and died at the gates of Hate's Hold.
+
+Upon his death, he was elevated as the Mourner.
+
+The Mourner is worshipped throughout the Commonwealth.
+His symbols—which include balances, scrolls, books, black dragon's scales—are often incorporated into the decoration of courthouses, town-halls, libraries, colleges and graveyards.
+The Mourner is not honored by elaborate rituals or grand shrines; instead, he glories in just law and governance, in peacemaking, in the study of history, and in honoring the dead.
+He is often invoked in short chants at the opening of trials and at funerals; the Mourner is a compassionate Spirit, and it is widely believed that he offers the dead a chance at a happier fate than passage into shadow—though he reveals no more of the fate of the dead than any other spirit associated with death has.
+
+Unlike the Orator or the Mother, the Mourner's location is often a mystery; one theory is that he is often in the realms of the dead.
+When he does manifest, he often appears as a lusterless black form in the shape of a dragon.
+
+The day that the Mourner was slaughtered is celebrated in Hate's Hold and in the temples of the One in the Eastern Kingdoms; his death is glorified as a grand conquest by the followers of the One.
+
 #### The Night
+
+> The young orc looked around her; it was dark, like it was hours before dawn, even though it should have been the afternoon.
+> For a time it had been dim, like late evening, but now even that light was almost gone.
 
 **Basin:** hatred
 
@@ -298,20 +350,6 @@ While he does not have a cult or devoted supplicants, he is well liked along the
       - manifests as she died: female Gnoll in tattered clothing,
         covered in deep cuts and wounds
       - appears in company of Orator and All-Mother
-
-  - The Mourner
-    
-      - Great Spirit and Saint whose Basins are history, law, justice
-        and mercy.
-      - Black dragon who dwelt among nomadic elf-like race
-      - elf-like race was massacred more than a 1500 years ago, when
-        pre-settled humans entered region
-      - elevated upon death (details not widely known, *possible
-        adventure arc*)
-      - Patron associated with History, Law, Justice and Mercy.
-      - Rarely manifests: appears as massive black dragon when he does
-      - Dwells among the ancient swamps (on the South-Estern edge of the
-        World Spine mountains), where his adopted people lived.
 
   - The Eyrie
     
