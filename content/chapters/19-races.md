@@ -890,7 +890,7 @@ These "shipwright" Dwarves have come to cooperate closely with the Ratfolk, Half
 
 #### Mindsharing Dwarves
 
-In CY 509, Dwarven explorers discovered a strange, psionically-active fungus beneath the low peak of a small island in the northern Haven Isles.
+In CY 509, Dwarven explorers discovered a strange, psionically active fungus beneath the low peak of a small island in the northern Haven Isles.
 The fungus proved to have remarkable capabilities, and an entirely new Dwarven culture has developed around it.
 This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
 The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
@@ -898,20 +898,21 @@ The Common word for the organism is "Mindshare Fungus," which is an apt descript
 Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures—what is commonly called psionic energy.
 What's more, the fungus can actually colonize the bodies of some other creatures—including Dwarves, whose physiology is highly compatible with it.
 Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
-Mindsharing Fungus "bridges" the minds of its host with other hosts nearby; this allows hosts to exchange thoughts, experiences, knowledge, and even skills.
-These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in—although hosts cannot completely shut out the connection.
+The Mindsharing Fungus can "bridge" the minds of its hosts; this allows those hosts to exchange thoughts, experiences, knowledge, and even skills.
+These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in—although they cannot completely shut out the connection.
 
-Though this effect can only work over short distances, the effect can be communicated using Mindshare "plants"—which, like many funguses, can be surprisingly large.
-Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users—ranging from simple messages or discrete memories to fragments of personalities or skills.
+Normally, this effect only works over short distances—hosts need to be within a few *strides* of each-other to bridge their minds.
+However, the effect can be "conducted" over greater distance by Mindsharing Fungus "plants" themselves—and these "plants" can be quite large, with many different surface growths connected by a vast rootwork.
+Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users—ranging from simple messages or discrete memories to fragments of personalities.
 
 A unique, highly communal culture has sprung up around the *Fahra*.
 The Mindsharing Dwarves tend to be radically open, honest and egalitarian.
 Even more than traditional Dwarves, they run their societies by consensus and memory—thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
-Members of Mindsharing communities will often share some personality traits—this is never enforced, as even Mindsharing Dwarves value their individuality, but occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
+Members of Mindsharing communities will often share some personality traits—an individual's personality is never forcefully changed, as even Mindsharing Dwarves value their individuality, but rather occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
 Some communities remain highly individualistic in their own way, where each member lives their own lives and pursues their own goals, merely using the *Fahra* to best live at peace with their neighbors; in other communities, however, members can begin to "vanish" into the collective.
 
 No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link—no matter how much they might try to stop it—and would "poison" all the other members.
-Still, even though, for the most part, the Mindsharing Dwarves are as welcome in the Commonwealth as any other community, there are those that fear them.
+Still, there are those that fear them.
 
 Most Mindsharing Dwarves live in the Haven Isles.
 A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them cooly (an understatement in the case of the Ground-Explorer Dwarves).
@@ -921,10 +922,10 @@ A few have resettled in their traditional homeland, building a few Holds in the 
 Ground-Explorer Dwarves are a Dwarven subculture that has vanished into the depths, substantially withdrawing from the affairs of surface-dwellers and "shallow diggers".
 The Ground-Explorer Dwarves' origins lie in the *Lun*, a confederation of Dwarven holds in the northeastern peaks of the Worldspine mountains.
 Independent and individualistic, they where not among the holds that joined the Commonwealth.
-In CY 514, a community of Dwarves from the Haven Isles resettled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to experiment with the symbiotic organism.
+In CY 514, a community of Dwarves from the Haven Isles settled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to culture and experiment with the symbiotic organism.
 
 The fiercely individualistic *Lun* where horrified; they feared what their new neighbors might become, and were particularly alarmed that their hold was in a position to close off the *Lun*'s path out of the Worldspine Mountains.
-The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging into the 'Plane in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
+The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
 
 Today, little is known about the Ground-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
 
@@ -989,7 +990,7 @@ Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rap
 
 #### Cultural Item: Day-Wrap
 
-Dwarves who cannot afford Day-Masks—or who must do without them for some other reason—often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
+Dwarves who cannot afford a Day-Mask—or who must do without one for some other reason—often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
 \[Dwarven day-wraps are much like *shemaghs*.\]
 
 Some day-wraps may be woven in complex patterns or richly died; many Clans and Holds have specific patterns and colors.
@@ -1037,7 +1038,7 @@ You are from a member of a secretive culture that has vanished deep underground.
 
 The Cave-Eyes trait is very common, as are *day-wraps*.
 
-Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to describe the culture that your character is from, they may have plans for the Ground-Explorers that you will need to account for, or they may not allow you to play a Ground-Explorer at all.
+Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Ground-Explorers that you will need to account for, or they may not allow you to play a Ground-Explorer at all.
 
 ### Gnomes
 
