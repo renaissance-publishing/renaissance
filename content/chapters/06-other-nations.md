@@ -24,7 +24,7 @@ His throne is in Merchentmen City (below).
 
 #### Major Character: Mela, Tenna King
 
-Mela Tenna is the current king of the Kingdom of Tenna; his throne is in Hate's Hold (below).
+Mela Tenna is the current king of the Kingdom of Tennec; his throne is in Hate's Hold (below).
 He is the most powerful Eastern King, and the de facto head of their movement.
 
 He has openly declares his hatred of all non-Humans—including Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
@@ -265,18 +265,49 @@ Pick a Certa that fits the game you want to run!
 
 ## The Raptors' Protectorate
 
-  - The Raptors' Protectorate
-  - On the Raptor’s Plane, in the North-West and Central regions of the
-    continent.
-  - An alliance formed almost 400 years ago to resist piracy and raiding
-    by Shaded Sea People.
-  - United the Raptors with Ratfolk who had settled on the North-West
-    shore, fleeing the cruelty of their cousins.
-  - First contacted 300 years ago, with heavy travel beginning 200 years
-    ago.
-  - Friendly with the Commonwealth, though independent.
-  - May be forced into closer alliance, as they are pressured by Goblins
-    on the Eastern shore and Shaded Sea peoples on the West.
+- On the Raptor’s Plane, in the North-West and Central regions of the continent.
+- An alliance formed almost 400 years ago to resist piracy and raiding by Shaded Sea People.
+- United the Raptors with Ratfolk who had settled on the North-West shore, fleeing the cruelty of their cousins.
+- First contacted 300 years ago, with heavy travel beginning 200 years ago.
+- Friendly with the Commonwealth, though independent.
+- May be forced into closer alliance, as they are pressured by Goblins on the Eastern shore and Shaded Sea peoples on the West.
+
+The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane
+Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
+
+<aside class="floating">
+
+An alliance formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples and Goblin Empire.
+
+---
+
+#### Major Character: 
+
+---
+
+#### Major City:
+
+---
+
+#### Language: Protectorate Standard
+
+The common language of the Protectorate, Protectorate Standard derives from a pigin that Ratfolk refugees used to communicate with the Raptors that leaved near the coasts.
+As other races sought to trade with the Protectorate, they developed their own variants of the pigin; today, in effect, there is an abstract 'core' language, which all the pigins share, and which each race uses a unique set of sounds to pronounce.
+
+The language is the primary written language of exchange and scholarship in the Protectorate; it uses a variant of the Ratfolk's alphabet.
+
+*Group: Any*
+
+#### Language: Brook
+
+The language spoken by the Raptors 
+
+</aside>
+
+### History
+
+Around CY 40, the civilization who would be known as the Terrace-Builder Raptors built their first large city, 
+
 
 ## The Goblin Empire
 
