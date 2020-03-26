@@ -345,3 +345,14 @@ Example Languages, Rare and Common:
         the Kingdoms; Old Kobold can still be heard there.
       - Group DDK
 
+  - Songspeak: the imitation-based language spoken by the Brightfeathers.
+
+      - Songspeak has a complex ideographic writing system that evolved from 
+        an earlier pictographic script. It is quite difficult to learn to 
+        read and write it.
+      - While the written language is standardized, the spoken language, in
+        which many words consist of imitated natural sounds has resisted 
+        full standardization.
+      - Group: Songspeak
+        - Only Brightfeathers (and Tempters mimicking them) can naturally
+          speak Songspeak.
