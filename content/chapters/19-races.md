@@ -1318,7 +1318,7 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
         to join the Commonwealth.
       - Access to the Commonwealth’s markets greatly eased the misery of
         Akala; seeing their success, other movements in other clan-holds
-        also sought to join the Commonwealth..
+        also sought to join the Commonwealth.
 
   - Today, Orcs have been members of the Commonwealth for almost 700
     years.
