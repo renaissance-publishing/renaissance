@@ -191,6 +191,28 @@ He believes that the interests of wilderness and nature do not need to be in con
 He is the creator and forefather of the Shamblers (see their entry in *Races*); they are his attempt to create a people who can bridge swamp and civilization.
 He encourages his children to travel among the world, and he welcomes mortals into his swamp—so long as they are respectful of it.
 
+#### Lyn
+
+> Lyn
+
+**Basin:**  history, law, justice, mercy, death
+
+**Manifestation:** large black dragon
+
+**Propitiation:**
+
+**Binds:**
+
+Lyn is a Great Spirit associated with resistance, strength, courage, and sacrifice; she is an enemy of tyrants, and an ally to those who fight them.
+
+She is also a Saint—an elevated mortal.
+In life, she was a Gnollish farmer on Islandhome.
+In CY 447, the Shaded-Sea People laid seige to Islandhome; some residents fled into the fortresses and Dwarven holds scattered across the islands, but may where taken captive by the Shaded-Sea raiders and held as slaves.
+Lyn was one of those taken captive; she proved "unruly" and would not accept slavery, leading to brutal abuse and torture at the hands of her captors.
+When the Commonwealth Navy counter-attack liberated her, she followed them to war; in what would prove to be the turning-point of the seige, in a battle with the Shaded-Sea raiders a few miles up the slopes of the island from the Sea, an unarmed Lyn found herself a hundred *strides* from the mounted Shade-Elven commander.
+She charged him, lept, was skewered by one of his fellow riders, and still managed to take hold of him; having no weapon, and unable to dismount him, she bit down on his neck with her powerful Gnollish jaws and tore out his throat.
+After slaughtering the Shade-Elven commander, she succumbed to her wounds and died; she was then elevated as a Great Spirit.
+
 #### The Mourner
 
 >You whose wings embrace the dead
@@ -217,10 +239,6 @@ When they arrived, they slew an old elf who dwelled among the ruins, secured one
 This "old elf" was known to those who lived near the swamp.
 He had been living there as long as anyone could remember—since before the oldest elves had been born; some believed he had even walked among the ancient civilization that had dwelt in the swamp.
 It was widely held that he was not actually an elf at all, but in fact a magical construction, formed of the sand and soil of the swamp by some ancient, powerful mage.
-
-What is known for certain is that, after the "elf" was killed and the scroll was stolen, an ancient, massive, black-scaled dragon emerged from the swamp and travelled to Hate's Hold.
-There, rather than attack the city, he called out at the gates and demanded the return of the scroll; the city's soldiery engaged him, and captured him.
-He was hauled into the square in the fortress and was slaughtered.
 
 What is known for certain is that, after the "elf" was killed and the scroll was stolen, an ancient, massive, black-scaled dragon emerged from the swamp and travelled to Hate's Hold.
 There, rather than attack the city, he called out at the gates and demanded the return of the scroll.
