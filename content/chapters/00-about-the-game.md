@@ -63,6 +63,12 @@ Changes since last time:
 - adding a chapter for Organizations!
 - Working the chapters on the Supernatural, and on Cheating Reality.
   - not changing any actual rules text, but pulling down the power-level for magic as described.
+- Add the Brightfeathers, thanks to Sinestro and Morgan.
+- Started working on a writup for the Raptors
+- Added the Knights of the White Tusk.
+- Added the Membership trait.
+- Kept tinkering with the Tempters.
+- Added a section for the Haffa in the Kingdoms write-up.
 
 Feedback Questions
 
@@ -177,7 +183,7 @@ Contributors:
   - Gleech: lead author
   - Sauce: a list of powers, GMing for a test, whisps
   - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.
-  - King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.
-  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)
+  - King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.  The Knights of the White Tusk.
+  - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)  The Brightfeathers.
   - Misandry: helping to fill out the Shamblers.
   - Runic: clever uses for fireballs. Lobsters\!
