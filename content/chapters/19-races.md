@@ -401,7 +401,7 @@ Gnolls are roughly humanoid in gross layout, but they have hyena-like features:
 their head and feet are much like a hyena's;
 they are covered in short, ochre fur much like a hyena's;
 and they have a hyena's short tail.
-Gnolls are also much larger and stronger than most other races&mdash;Drakes are perhaps the only common race that can exceed them.
+Gnolls are also much larger and stronger than most other races—Drakes are perhaps the only common race that can exceed them.
 Notably, Gnolls display less sex dimorphism than most other races do; as a result, Gnollish cultures tend to place less importance on an individual's sex.
 
 Gnolls where one of the three races that cooperated under the auspices of the Old Charter to create the growing, prosperous culture of towns, manors and cities that would eventually become the Commonwealth.
@@ -1626,81 +1626,83 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
 
 ### Tempters
 
-  - Vitals:
-    
-      - Old Age: None
-      - Average Height: by shape
-      - Average Weight: by shape
-
   - shape-shifting spirit beings. Charming and suave, but also very frail.
 
   - They can shape shift freely.
   
   - They tend to live in urban centers among other races. Some Tempters live openly among the large cities of the Commonwealth; more almost certainly live in secret.
 
-  - DUR 30, STR 30
+#### Vitals
 
-  - \+5 INT, +5 SAV, +5 WIL
+- Old Age: None
+- Average Height: by shape
+- Average Weight: by shape
 
-  - Movement: Shape-Dependant (usually Foot 4/12)
+- Shape-shifting spirits; charming and suave, but also frail.
+- DUR 25, STR 25
+- \+5 INT, +5 SAV, +5 WIL
+- Movement: Shape-Dependant (usually Foot 4/12)
+- Senses: Normal, Mage-Sight
+- Tags: Spirit, Shape-Shifter, Tempter
+- Language Group: Any
+- *Appearance of Flesh*: Even though Tempters are spirits, they are bound to the nature of flesh;they have a physical form, they can be wounded and killed, they can sicken, and they need to eat, drink, breath and sleep just like mortal beings.
+  - However, because they are so bound to the nature of flesh, they are not immediately obvious as spirits to those with Mage Sight.  In order for someone with Mage Sight to recognize a Tempter, a detailed examination is required; this is a 10 minute Task Action, requiring either a Search or Spellcraft check at -20.
+- *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific individuals.
+  - They must take the form of a *real* (in the worlf of Renaissance) creature; they can't assume the shape of any arbitrary thing they could imagine.  That is, they can, for example, appear to be a Human, a Gnoll, a Drake and so on, but they cannot appear to be a ball of arms, legs and claws.
+  - They can change shape as a Standard Action.
+  - They can control their shape precisely enough that they can appear to be a specific person.
+    - Assuming the form of a *specific* individual requires a Disguise check at +10.
+    - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
+    - Obviously, they can only mimic the features of a person that they know about.  If someone has a birthmark on their lower back, but the Shifter character has never seen that person naked, then they won't know to mimic that birthmark.  And, of course, if they've never seen a person, they cannot effectively mimic them.
+  - Normally, changing shape does not affect their statistics—but see the powers listed below.
+- *Mimics*: Tempters can also mimic the *speech* of any race whose shape they can take, and can mimic the voice of specific individuals.
+  - Much like mimicing an individual's appearance, they still need to know what that person sounds like, and they will still need to use Disguise and Deception checks to actually impersonate someone.
+- *Basin*: Like other Spirits, Tempters have a Basin (see *The Supernatural*): the mental energies of other intelligent beings.
 
-  - Senses: Normal, Mage-Sight
-
-  - Tags: Spirit, Shape-Shifter, Tempter
-
-  - Language Group: any
-
-  - *Appearance of Flesh*: Even though Tempters are spirits, they are bound to the nature of flesh;they have a physical form, they can be wounded and killed, they can sicken, and they need to eat, drink, breath and sleep just like mortal beings.  More than that, it is required of them that their form always resemble that of a flesh-and-blood creature&mdash;although they can control their form at will.
-
-      - However, because they are so bound to the nature of flesh, they are not immediately obvious as spirits to those with Mage Sight.  For someone with Mage Sight to recognize a Tempter, a detailed examination is required; this is a 10 minute task action, requiring either a Search or Spellcraft check at -20.
-
-  - *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific individuals.
+#### Optional Negative Trait: Bind
     
-      - They can change shape as a Standard Action.
-      - Assuming the form of a *specific* individual requires a Disguise check at +10.
-      - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
-      - Normally, changing shape does not affect their statistics&mdash;but see the powers listed below.
+Like some Spirits, you have a *bind* (see *The Supernatural*).
 
-  - *Basin*: Like other Spirits, Tempters have a basin (see *The Supernatural*): the mental energies of other intelligent beings.  This connection is not as strong as Uncle Haw's control over the Haw river, for example, but it does allow them a greater sense of the state-of-mind of others&mdash;which some hone into a limited ability to sense and manipulate the emotions of others.
-      
-      - Mechanically, this grants Tempters a +10 bonus on most Social Skills test, and may negate some penalties to those tests as well.
+- **Effect:** You have a *Bind*.
+  - You should work out the details of your bind with your GM; your GM has final approval.
+  - The bind should pose a real danger to you.  It must be known to at least one clerical organization in the area where you live—although it does not need to be *widely* known.
 
-  - Optional Negative Trait: Bind
-    
-      - You have a *bind*, the details of which you should work out with your GM. The bind should pose a real danger to you. It must be known to at least one clerical organization in the area where you live – although it does not need to be widely known. (This is a negative trait; it you select it, you *gain* 10 CP, which you may then spend elsewhere.)
+#### Optional Power: More than Form Alone
 
-  - Optional Power: More than Form Alone
+When you assume the form of a given race, you can adopt some of their nature.
 
-      - More than simply assuming the shape of a given race, you can adopt some of their nature.
-      - When you assume the form of a given race, you may choose one Aptitude in which that race has a bonus; you gain a +5 bonus to the chosen aptitude.
-      - You may choose STR or DUR if that race has a higher STR or DUR than you do.
-      - You must choose either INT, SAV or WIL and take a -5 penalty to that aptitude.
+- **Effect:** When you assume the form of a given race, you may choose one Aptitude in which that race has a bonus; you gain a +5 bonus to the chosen aptitude.
+  - You may choose STR or DUR if that race has a higher STR or DUR than you do.
 
-  - Optional Power: To Crawl and Soar
+#### Optional Power: To Crawl and Soar
 
-      - You can mimic the construction of other races well enough that you gain some of their biological capabilities.
-      - When you assume the form of a given race, you may choose two of the following:
-          - One Movement Mode that race has.
-          - One Sense that race has.
-          - That race's armor bonus (not more than +3).
-          - One natural attack that race has.
+You can mimic the construction of other races well enough that you gain some of their biological capabilities.
 
-  - Optional Class: Master Shifter
+- **Effect:** When you assume the form of a given race, you may choose to gain two of the following benefits:
+  - One Movement Mode that race has.
+  - One Sense that race has.
+  - That race's *natural armor bonus* (but not more than +3).
+  - One natural attack that race has.
 
-      - Requires: either the *More than Form Alone* or *To Crawl and Soar* power (or both)
-      - When you assume a new form, you may choose one of the following:
-          - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.  (You don't have to take another -5 penalty.)
-          - If you have the *To Crawl and Soar* power, you choose two additional bonuses.
-          - You may take the form of a race with the Empowered tag.  (Normally, you could only take the form of a Natural creature.)
-          - You may take the form of a small creature.  (Normally, you could only take the form of a Medium-sized creature.)
+#### Optional Class: Master Shifter
 
-  - Optional Class: Empath
-  
-      - You have extensively developed your race's empathic talents, enabling you to sense and manipulate the emotions of others.
-      - You gain the *Empath* sense.
-          - This sense has a limited range&mdash;roughly 10 meters, although you may be able to read intense emotion from further away.
-      - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
-          - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
+You have mastered your ability to change your shape, allowing you to push the limits of what is possible.
+
+- **Requirement:** either the *More than Form Alone* or *To Crawl and Soar* power (or both).
+- **Effect:** When you assume a new form, you may choose one of the following:
+  - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.
+  - If you have the *To Crawl and Soar* power, you may choose two additional bonuses.
+  - You may take the form of a race with the Empowered tag.  (Normally, you could only take the form of a Natural creature.)
+  - You may take the form of a small creature.  (Normally, you could only take the form of a Medium-sized creature.)
+
+#### Optional Class: Empath
+
+You have extensively developed your race's empathic talents, giving you a limited ability to sense and manipulate the emotions of others.
+
+- **Effect:** You gain the *Empath* sense.
+  - This sense has a limited range—roughly 10 meters, although you may be able to read intense emotion from further away.
+  - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
+  - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
 ## Neighboring Races
 
