@@ -27,7 +27,7 @@ His throne is in Merchentmen City (below).
 Mela Tenna is the current king of the Kingdom of Tennec; his throne is in Hate's Hold (below).
 He is the most powerful Eastern King, and the de facto head of their movement.
 
-He has openly declares his hatred of all non-Humans—including Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
+He has openly declared his hatred of all non-Humans—including the Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
 (He utterly loathes Kass Ahnaff, who he views as the greatest race-traitor in the Kingdoms.)
 He has led a series of bloody purges of any remaining non-Humans in the Kingdom of Tenna; he promises similar purges in the entire Kingdoms of Men should he attain the Throne, to be followed by a war of annihilation on the Commonwealth.
 
@@ -49,7 +49,9 @@ As the name Merchentmen City implies, the Kingdom of Anaff has long prospered by
 Called Tenlan in Royal, Hate's Hold is the capital of the Kingdom of Tennec; it is a city of 800,000 in the southeast of the Kingdoms.
 It lies on a river, less than two *demarc* \[8km\] up-river from the the coast of the Glass Sea, and a mere 160 *demarc* \[672km\] from the open ocean.
 
+With convenient river access to the Glass Sea, Tenlan is a wealthy trade town; their wealth and power are bolstered by a system of weirs and water-channels that water the surrounding territory, which they control and charge for access to.
 The Tenna are among the wealthiest (and most convicted) of the royal families of the East; as such, Tenlan is the unofficial capital of the Eastern Kings.
+
 Tenlan is also the center of the worship of the One who Chose Us in the Eastern Kingdoms.
 
 The city is called Hate's Hold for a reason; it is not a good place to be if you aren't Human.
@@ -70,7 +72,10 @@ A plurality are supporters of the Western Kings, but other blocs support the Cer
 #### Major City: Certa
 
 Certa is a city of 650,000; located roughly in the middle of the Kingdoms of Men, it is the center of the Certan Movement, an anti-monarchist movement.
-Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 62 years ago.
+Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 38 years later—62 years ago.
+
+The city is roughly circular; it is divided into pie-slice-shaped districts by prominent roads that run from the central administrative district to the outer wall.
+The city is built with a distinctive, modern architectural style; the buildings are built high, supported by free-standing buttresses, and are decorated with wide windows and prominent artwork.
 
 The Certanis are described in more detail below.
 
@@ -175,6 +180,7 @@ and on and on!
 
 The Certan Movement is an anti-monarchist movement centered in the city of Certa.
 Though centered in the city of the same name, they have risen in power and prestige; they have claimed the territory around the city of Certa, and have begun to spread.
+*Certa* is the name of both the movement and its stronghold in Royal; in Common, they are often called King-Slayers or Gold-Bloods (the latter being an epithet).
 
 The city of Certa was built on the site of a much older city, which was destroyed almost a century ago.
 The remains of that city where claimed by the nascent Certan movement, and its reconstruction began 62 years ago.
@@ -238,6 +244,40 @@ Or they might be a major positive step for the Empire, despite their flaws—a s
 Pick a Certa that fits the game you want to run!
 
 </aside>
+
+### The Haffa
+
+The Kingdom of Haffa lies in the extreme northwest of the Kingdoms of Men; it shares a border with the Commonwealth.
+Its current capital is called Ehnef in Royal, although it is sometimes referred to as nal'Haffa (literally "Haffa Capital"); it's called Grey-Blood's Weir in Common, named for a spill-over dam on a river immediately to the east that feeds the water-channels that supply the city with water.
+
+The Haffa are remarkable because they are one of the only large populations of half-breeds in the known world.
+Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor—they are often taller, heavier and stronger than either elves or humans—but they can also suffer from strange, sometimes terrible diseases—ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects.
+They are also almost always sterile.
+
+The Haffa are one of only two stable, healthy and fertile populations of Elf-Human hybrids (the other being the Shifters).
+The Haffa maintain their health through selective breeding, special medicines, and magical intervention—the exact nature of which is not widely known outside of the Haffa royal line.
+(Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world—they are certainly among the best in the Kingdoms.)
+
+<aside class="floating hook">
+
+#### Plot Hook: The Secrets of the Haffa
+
+The (secret) magical intervention that the Haffa use to ensure their health is an obvious plot hook.
+What is it?
+Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
+What spirit was it struck with, and what cost was demanded?
+Or is it on-going, some magical process that requires constant tending—and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
+
+</aside>
+
+The Haffans politics are determined for them by their blood and their location; they have long been allies of both the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
+Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
+
+Most recently, between CY 789 and CY 797, the Eastern Kingdoms deployed all their wealth and power to target Lords on the eastern border of the Haffa; after their finances crumbled, the Easterners purchased the Haffans' lands and holdings.
+What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally abused by their new, distant Eastern Lords
+As their circumstances became dire, the Haffan peasantry began to revolt; between CY 811 and 814, the Eastern Kings attempted to muster an army to suppress the revolts, but Ayl Ahnaff, Kass Ahnaff's granfather and the High King at the time, prevented them from marching to their Haffan holdings.
+This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl—the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
+The incident secured the Haffa's loyalty to the Ahnaff line for generations—as well as their deep hatred of the Eastern Kings.
 
 ## The Shaded Sea People
 
