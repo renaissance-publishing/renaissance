@@ -6,13 +6,17 @@ title: "Organizations"
 
 There are many organizations active in the Commonwealth, the wider Emerald Plane, and beyond.
 
+<aside class="playerguidance">
+
 Organizations can be useful, for both players and GMs.
 For a player, membership in an organization can explain why a character is undertaking a particular adventure, and can give that character access to the kind of resources and support that they might find useful.
-For GMs, a these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats—like the Far Watch—is a good place to start the adventure.
+For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats—like the Far Watch—is a good place to start the adventure.
 
 Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not requried.
 
 And, of course, there are many more active organizations than the handful presented here; GMs and players should feel free to add more.
+
+</aside>
 
 <aside class="playerguidance">
 
@@ -172,7 +176,7 @@ They still have to keep their operations secret; even in the Commonwealth, opera
 (Or, worse, to slay its members and foil their operations.)
 
 Operatives in slave-holding nations must be far more secretive.
-They are extremely careful to protect their operations, both for their own sake, and because there are precious few reliable paths to smuggle slaves to safety from deep within the Shaded Sea, the Goblin Empire's holdings on the Ruby Plane, or the Eastern Kingdoms.
+They are extremely careful to protect their operations, both for their own sake, and because there are precious few reliable paths to smuggle slaves to safety from deep within the Shaded Sea, the Goblin Empire's holdings on the Ruby Plane, or the Eastern Kingdoms—if an operative is discovered, there may be no-one else to take their place.
 They are often organized into cells, knowing only the previous links in the chain, or the few that follow them.
 
 <aside class="playerguidance">
@@ -180,7 +184,36 @@ They are often organized into cells, knowing only the previous links in the chai
 ### High-Road Characters
 
 The High-Road can be a very morally satisfying faction to join—who doesn't love underdog heroes smuggling slaves to freedom?
-They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth, and even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
+They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth—even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
+
+Consider joining the High Road if you:
+
+- want to play a character who smuggles slaves (and other desperate people) to freedom.
+- want to occasionally assassinate slavers.
+- want to have access to a secret network whose tendrils reach into the Kingdoms, the Shaded Sea and the Goblin Empire.
+- want to play someone from the Eastern Kingdoms, the Shaded Sea or the Goblin Empire.
+- want to play a character who mixes stealth, deception and combat skills.
+
+</aside>
+
+<aside class="gmguidance">
+
+### High-Road Adventures
+
+The High Road are an incredibly useful organization for GMs.
+They can be the starting-point for countless morally-satisfying adventures: there's no end of desperate, brutally-oppressed people in the Shaded Sea and Goblin Empire looking for a path to freedom, and no end of brutal tyrants in the world that the High Road would like to see dead.
+As a secret organization with native operatives embedded throughout the Commonwealth's adversaries, they're also exceptionally useful even in campaigns that *aren't* directly about liberating slaves; they can be an invaluable source of secret information, and they might be willing to smuggle operatives from the Commonwealth *into* the Shaded Sea or Goblin Empire.
+
+#### High-Road Campaign: Escalating Conflict
+
+The town of Redstone Arch in the Dragonshire sits just across the Red-Bank River from Red-Weir, a town in the Kingdoms of Men that sits on a wide, shallow lake.
+Over the last few weeks, both towns have been wracked by a series of disappearances, abductions and murders; the residents of Redstone Arch quietly whisper that the violence is a quiet war being fought between the High Road and a gang of slavers operating near Red-Weir.
+The Lord of Redstone Arch offers a prize to anyone who can put an end to the violence.
+
+- Who's winning, the High Road or the slavers?
+- Who's running the slaver gang?
+- Does the party find out about the High Road—or does the High Road approach the party?
+- Do the people of Red-Weir support the slavers, or do they perhaps want them gone almost as much as the people of Redstone?
 
 </aside>
 
