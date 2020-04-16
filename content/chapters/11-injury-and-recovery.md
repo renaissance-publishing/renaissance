@@ -76,12 +76,12 @@ Sometimes Traumas can be *negated*. When this occurs, the Trauma is not
 healed, the character is simply able to function effectively in spite of
 it.
 
-|                                               |      |        |
-| --------------------------------------------- | ---- | ------ |
-| Major Failure Relating to a Motivational Goal |      | 1d10+1 |
-| Being Tortured                                | \-20 | 1d10+2 |
-| Death of a Loved One                          |      | 1d10+1 |
-| Witnessing a Terrifying Manifestation         |      | 1d10   |
+| Stressful Event                               | Check Modifier     | Stress |
+| --------------------------------------------- | ------------------ | ------ |
+| Major Failure Relating to a Motivational Goal |                    | 1d10+1 |
+| Being Tortured                                | \-20               | 1d10+2 |
+| Death of a Loved One                          |                    | 1d10+1 |
+| Witnessing a Terrifying Manifestation         |                    | 1d10   |
 
 ## Healing
 
