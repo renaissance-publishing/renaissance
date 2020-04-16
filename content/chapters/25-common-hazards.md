@@ -64,18 +64,18 @@ Reduce your armor's heat points by 1 per turn that it is not exposed to fire.
 
 ### Suffocating
 
-Most creatures need to breath; being unable to breath can be rapidly fatal.
+Most creatures need to breathe; being unable to breathe can be rapidly fatal.
 
-Whenever a character cannot breath—whether because they are diving underwater, holding their breath, choking on food, being choked or for some other reason—use the following rules:
+Whenever a character cannot breathe—whether because they are diving underwater, holding their breath, choking on food, being choked or for some other reason—use the following rules:
 
 - The character suffers no penalties for DUR÷10 turns; then
 - they are *severely impaired* as their air runs out.  They must make an *Endure Physical Hardship* test, and can remain active for 1 turn per 10 points of MoS; they suffer a -30 penalty during this time. Then,
-- they *loose consciousness.*  If they still cannot breath DUR÷10 turns later, they die.
+- they *loose consciousness.*  If they still cannot breathe DUR÷10 turns later, they die.
 
 A character can prepare for asphyxiation—like someone who is about to hold their breath, dive underwater or enter a room with no air—by taking a several deep breaths; this is a Quick Action, and doubles the amount of time you have before you must make an *Endure Physical Hardship* test.
 
 Normally, a character who is voluntarily holding their breath will start to breath again if they pass out.
-In children, this is a good thing; a character who was holding their breath in a room filled with poisonous gas may find this less beneficial.
+In children, this is a good thing; a character who was holding their breath in a room filled with poisonous gas may find this to be less beneficial.
 
 ### Exhaustion and Deprivation
 
@@ -83,8 +83,8 @@ In children, this is a good thing; a character who was holding their breath in a
 
 Characters who work without rest for long periods may suffer *exhaustion;* their situation may be worsened by inadequate food or water, or by harsh working conditions.
 Characters may face exhaustion because their social situation demands long hours of work, because they are being led on a forced march, because they have been captured and are forced to labor, or simply because they are obsessed or driven and refuse to stop working until their task is completed.
-In any case, once a character starts to exceed their physical limits, they should make an *Endure Physical Hardship* test; they suffer 1d10 DV if they fail (armor does not apply; other damage mitigations, like resistances, may not apply at the GM's discretion).
-If conditions do not improve, characters will have to make additional checks, each one suffering an additional -10 penalty; eventually, when their cumulative penalties would reach -40, the character collapses from exhaustion.
+In any case, once a character starts to exceed their physical limits, they should make an *Endure Physical Hardship* test; they suffer 1d10 DV if they fail (armor does not apply; other damage mitigations, like resistances, may or may not apply at the GM's discretion).
+If conditions do not improve, characters will have to make additional checks, each one suffering an additional -10 penalty; eventually, when their cumulative penalties would reach -40, the character collapses from exhaustion (without making a check).
 
 How often these checks must be taken is subject to the GM's discretion—as are any additional penalties that apply, of course.
 Characters undergoing a forced march might make checks at the end of each day—or twice a day if they are being forced to keep up a jogging pace.
@@ -94,24 +94,24 @@ Characters laboring in a Goblin prison-camp may be forced to make checks every f
 
 Characters who get inadequate food, water or rest may suffer from *deprivation.*
 
-Characters can survive without food for one day per point of DUR—although they begin to suffer significant penalties before they starve to death.
+Characters can survive without food for one day per point of DUR—although they begin to suffer significant penalties long before they starve to death.
 
-- After going a full day without food, they suffer a -10 penalty from hunger.
+- After going a full day without food, they suffer a -10 penalty to all tests from hunger.
 - After going DUR÷5 days without food, the penalties worsen to -20.
-- After going another DUR÷5 days without food, the penalties worsen to -30, and their suffer WT DV (which causes a wound).  Most damage mitigations (including armor) do not apply to this damage.
+- After going another DUR÷5 days without food, the penalties worsen to -30, and the character suffers WT DV (which causes a wound).  Most damage mitigations (including armor) do not apply to this damage.
 - After going another DUR÷5 days without food, they suffer another WT DV (as before), and they are *debilitated;* they are lethargic and in pain, they likely cannot stand, and they may be unconscious or delirious.  At this point, any significant physical action requires an *Endure Physical Hardship* test.
 - After another DUR÷5 days, they loose consciousness (and take WT DV), and
-- DUR÷5 days later, they are die.
+- DUR÷5 days later, they die.
 
-Characters can survive for DUR÷10 days without water.
+Most characters can survive for three days without water.
 
 - After the first day, they suffer a -20 penalty from thirst.
 - After the second day, the penalty increases to -30, and they take WT DV.
 - After the third day, they die.
 
-Characters who go without adequate sleep will suffer exhaustion and delirium.
+Most characters who go without adequate sleep will suffer exhaustion and delirium.
 
-- After a night without sleep, characters suffer a -10 penalty to all actions.
+- After a night without sleep, characters suffer a -10 penalty to all tests.
 - After a second night, the penalty increases to -20.
 - After a third night, the penalty increases to -30.
 - After a fourth night, characters will struggle to act.  They will fall asleep very easily, will be difficult to rouse, and will be in extremely poor mental condition.  Physical strain will put them at risk of heart failure (requiring an *Endure Physical Hardship* test).  They will also incur TT SV, which will automatically impost a *trauma*.
@@ -125,7 +125,7 @@ At this point, if a character is *trying* to stay awake—maybe because some spi
 
 The above penalties assume *complete* deprivation: no food, no water, no sleep.
 *Partial* deprivation—the situation where characters have access to *inadequate* food, water or sleep—is less dire.
-GMs may represent this situation by "spacing out" the above effects—by having each step take longer—or even by simply applying penalties of -10 to -30 based on the degree of deprivation (as opposed to going through the full process).
+GMs may represent this situation by "spacing out" the above effects (i.e. by having each step take longer), or they may waive the above procedures and instead apply a "flat" penalty based on the degree of deprivation.
 
 In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
 GMs should feel free to adapt (and simplify) these rules in such cases: rather than trying to track the effects of *exhaustion,* *partial starvation,* and *partial dehydration* separately using the full rules above, they may simply represent the inadequate food and water as penalties to the *Endure Physical Hardship* tests caused by the forced march.
@@ -196,8 +196,8 @@ For one, *Renaissance* is not primarily a game about "dungeon delving"—we're n
 For another, they don't make a lot of sense if you think about them.
 Who builds them?  Who maintains them?  Who resets them?  How do they last decades or centuries?  Why not just use a conventional garrison?  Why risk your own garrison falling victim to them?
 
-Nevertheless, they are such a fixture of fantasy RPGs that we cannot realistically expect GMs to completely dispense with them.
-So, we present her a list of common "fantasy dungeon traps"—and we beg the reader's forgiveness if we cannot quite bring ourselves to take these silly things seriously.
+Nevertheless, they are such a fixture of fantasy RPGs and we cannot realistically expect GMs to completely dispense with them.
+So, we present here a list of common "fantasy dungeon traps"—and we beg the reader's forgiveness if we cannot quite bring ourselves to take these silly things seriously.
 
 #### Blocky-Crushy
 
