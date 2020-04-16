@@ -71,6 +71,13 @@ Changes since last time:
 - Added a section for the Haffa in the Kingdoms write-up.
 - Some clean-up in Common Hazards.
 - Major editing and clean-up in the Wealth section.
+- Broke *Backgrounds, Traits, Classes and Powers* into four separate chapters.
+  - Mainly because it was getting two absurdly long.
+  - *More reorganization work is still required here.*
+- Move Member from a Trait to a Class.
+- Added a Chapter for The Mundain: Travelling
+  - It's called that because it's right before *Cheating Reality: Magic*.
+  - I need to put things in it.  And possibly also move and retitle it.
 
 Feedback Questions
 
