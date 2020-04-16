@@ -69,6 +69,8 @@ Changes since last time:
 - Added the Membership trait.
 - Kept tinkering with the Tempters.
 - Added a section for the Haffa in the Kingdoms write-up.
+- Some clean-up in Common Hazards.
+- Major editing and clean-up in the Wealth section.
 
 Feedback Questions
 
