@@ -30,7 +30,6 @@ title: "The Commonwealth Today"
       - Twin Cities, old (above-ground) trade-city and new Kobold underground metropolis, built one-above-the-other in World Spine Mountains.
       - Port City situated on Southern coast of Emerald Plain
       - Royal City in Dragonshire?
-      - 
 
   - The Commonwealth is stable and prosperous
     
