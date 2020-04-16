@@ -24,9 +24,9 @@ Each dot has a wealth level; you get three dots at your wealth level, and four d
 As an example, Fire the scholar has wealth level 3—he's an educated professional, and he makes a comfortable living for himself.
 He gets 3 dots at level 3, 4 dots at level 2, and 4 dots at level 1—and, of course, no dots at level 0, since there aren't level 0 wealth dots.
 
-Your wealth dots start out *full,* but they can also be *depleted*.
+Your wealth dots start out *full*, but they can also be *depleted*.
 A depleted dot isn't gone, it's just taped-out; you've used the liquid part of those assets, so they can't be used in bartering (see Bartering below).
-Depleted dots can be *restored;* one way to do this is by working for an income (see Income, Investments and Lifestyles below)
+Depleted dots can be *restored*; one way to do this is by working for an income (see Income, Investments and Lifestyles below)
 
 ## Purchasing Things
 
@@ -60,22 +60,24 @@ These rules are summarized in the table below:
 
 ### Character Wealth
 
-The wealth-and-trade system may seem a little odd to someone coming from a game that meters wealth in gold, silver and copper;
+The wealth-and-trade system may seem a little odd to someone coming from a game that measures wealth in gold, silver and copper;
 why is it put together this way?
 
 One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
 But that's far from the entire motivation!
 
-Much like *Eclipse Phase*, we want players to be able to play characters with wildly different wealth levels--running from penniless peasants to Dukes and Lords.
-We don't want to measure a character's power and advancement in terms of powerful items and wealth.
-Players should be able to *choose* how important wealth is to their concept for their character, and in order to do that, they should be able to either start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, either of whome are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
+Much like *Eclipse Phase*, we want players to be able to play *choose* how important wealth is to their character-concept, and to be able to play characters with vastly different levels of wealth;
+players should be able to start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, both of whom are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
+In particular, much like *Eclipse Phase*, we want "the character who provides the party with things that they need" to be a *player* role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
+This means that our wealth system needs to *scale elegantly*, supporting everything from destitute drifters to propertied nobles.
 
-Also, like *Eclipse Phase*, in *Renaissance*, "character who provides the party with things that they need" is intended to be a player role, rather than an NPC role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
-And, as a design principle, we also wish to avoid keeping track of tedious and unimportant details.
-Taken together, this means that our wealth system should allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down in "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
+At the same time, as a design principle, we try to avoid making characters keep track of *tedious and unimportant details*.
+This means that we want our wealth system to allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down with "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
 
-Though we tend to really enjoy moving the role of "wealthy provisioner" into the space of jobs players can do, there is something of a flip-side; if "provisioner" is a player role, then that means that someone *needs* to do it.
-If the party doesn't have a character who has at least *some* access to funds, they'll be missing an important role--a "gotcha" that can catch people used to traditional party construction by surprise!
+That's why we've designed our wealth system the way we have; we've broken wealth levels and item costs down using a roughly *logarithmic* scale, and we've designed our bartering system so that you only need to keep track of *what level of item you start to have trouble paying for*, and *how many of those items you can probably buy*.
+
+Another consequence of this design is that we *don't* measure character power or advancement in magical items and wealth.
+That might be less evident here—that's why we've made minimal provision for *changing* your wealth level—but it has more profound impact elsewhere.
 
 </aside>
 
@@ -83,12 +85,19 @@ If the party doesn't have a character who has at least *some* access to funds, t
 
 Before the era of central banks and stable currencies, prices where fluid and people *bartered.*
 
-If your wealth level is near the cost level of the thing you're trying to purchase, you can simply deplete a wealth dot at your highest level to pay for it, or you can *barter.*
-Bartering gives you a chance to acquire the item without depleting a dot
+Mechanically, bartering is an *optional* step in the process for *purchasing things* described above.
+Instead of simply depleting a dot, you can attempt to *barter*; this gives you a chance ot acquire an item without depleting a wealth dod, but it also puts you at risk of not acquiring the item at all.
 
-Normally, bartering is a one-minute Task Action that requires a Protocol check; sometimes, however, the GM (or the player) may decide to talk with the merchant in-character and try to convince them using their social skills (and professions).
+Normally, bartering is a one-minute Task Action that requires a Protocol check; sometimes, however, the GM may allow (or require) the player to speak with the merchant in character, or the GM may allow the player to use their other social skills or professions.
+The GM may also take other circumstances into account—such as the whether the player has made a good impression by observing the merchant's cultural traditions, or whether the character has the Social Stigma trait.
+
 If you score an Exceptional Success on your Protocol check—or do a similarly good job talking with the merchant in-character—then you acquire the item (or service) without depleting a wealth dot; this represents you finding some way to pay the merchant that doesn't significantly impact your net wealth.
 However, if you score an exceptional failure, you cannot acquire the item—maybe the merchant doesn't want anything you've got for trade, maybe they decide that they just don't like you, or something else happens to sour the deal.
+
+How long do you have to wait before you can try again?
+That depends on why you failed—which is largely up to the GM.
+If you didn't have anything that the merchant wanted, you might be able to head out into the market and acquire something that they *would* want; in this case, you could try again very quickly.
+If, on the other hand, you've grossly offended the merchant, then they might not consider trading with you again for some time.
 
 ## Trade Goods and Currency
 
@@ -99,13 +108,13 @@ In these cases, you'll need to either use *trade goods* to represent the portion
 
 ### Trade Goods
 
-Tade goods work much like wealth dots; they have an associated *wealth level,* and can be used in place of a (full) wealth dot in the rules for purchasing items above.
-However, trade goods *cannot* be depleted; instead, you spend them, and they're gone.
+Trade goods work much like wealth dots; they have an associated *wealth level,* and can be used in place of a (full) wealth dot in the rules for purchasing items above.
+However, trade goods *cannot* be depleted; instead, you *spend* them, and once you do, they're gone.
 
 Creating a *trade good* requires converting some of your various assets into portable valuables—currencies, valuable commodities, gems and jewelry, and the like.
-This requires some time, as given by the table below, and that you deplete a wealth dot of the same level as the trade good that you're producing.
+This requires some time (see the table below), and that you deplete a wealth dot of the same level as the trade good that you're producing.
 
-The process can also be reversed: a trade good can be consumed to refresh a depleted wealth dot; this takes the same time as producing a trade good of the same level.
+The process can also be reversed: a trade good can be *spent* to refresh a depleted wealth dot; this takes the same time as producing a trade good of the same level.
 
 | Level | Time |
 | ----- | ---- |
@@ -116,14 +125,15 @@ The process can also be reversed: a trade good can be consumed to refresh a depl
 | 5     | 5 shift Job |
 
 Note that *level 5 Trade Goods,* for example, represent very small and very valuable items—rare gems, legendary jewelry, priceless relics, deeds to valuable lands and so on.
-Carrying around this kind of wealth might make a character a target for bandits, and may tempt even the honest.
+Carrying around this kind of wealth might make a character a target for bandits, and may tempt even the most honest to theft.
 
 ### Currency
 
 Sometimes it's just easiest to price things in a *currency.*
-Though central banks and stable currencies are centuries off, there do still exist banks issuing bank notes, and the Commonwealth, the Kingdoms of Men and the Goblinoid Kingdoms have all minted coins of precious metals.
+Though central banks and stable currencies are centuries off, there do still exist banks issuing bank notes, and the Commonwealth, the Kingdoms of Men and the Goblin Empire have all minted coins of precious metals.
 
 For simplicity, we'll give prices in *copper* and *gold* pieces, with one gold piece equal to 100 copper pieces.
+(GMs may introduce other coins, like silver, electrum or platinum; for simplicity, we usually recommend recording these as their converted value in copper and gold values.)
 Similar to trade goods, you can deplete dots of wealth to produce currency, and you can expend currency to refresh a depleted wealth dot (use the same time-spans as for creating trade goods).
 
 | Level | Price Range   | Wealth Dot |
@@ -136,28 +146,43 @@ Similar to trade goods, you can deplete dots of wealth to produce currency, and 
 
 ## Income, Investments and Lifestyles
 
-Most characters need to work for a living—even those who are independantly wealthy have likely put their wealth to work by investing.
+Most characters need to work for a living—even those who are independently wealthy have likely put their wealth to work by investing.
 
 ### Income
 
 You can work for income during down-time; working for income is a 20-shift *job*.
-(This is intended to line up roughly with one month of work; your GM may adjust this time-scale based on how many days you work in a given week, how long you work each day, or other factors.)
+(This is intended to line up roughly with one month of work; your GM may adjust this time-scale based on how many days you work in a given week, how long you work each day, and other factors.)
 You must have at least 20 ranks in a Profession to work for income, although a check using one of your profession skills is not required under normal circumstances (under exceptional circumstances, a check may be required—for example, if you are a farmer and there is a drought).
 
 After completing all 20 shifts of work, you are credited with your income; you may either refresh one of your highest-level wealth dots, or any three lower-level wealth dots.
+
+Note that we don't have any particular rules for how large a wealth dot you can fill—we haven't assigned wealth levels to different skills, and we don't require certain numbers of ranks to refill dots of a certain level.
+This doesn't mean that you can use 20 ranks in Profession: Farmer to refill a Level 5 wealth dot; the GM has the prerogative to limit the highest level of wealth dot that you can fill with a certain skill.
+
+<aside class="playerguidance">
+
+If you want to be able to use your skills to *work for income*, it's a good idea to talk about that with your GM *during character creation*, so that you'll know if your skill selection is going to work for that.
+
+</aside>
+
+<aside class="gmguidance">
+
+While you *can* restrict a player from using an inappropriate skill to work for income, we encourage you to be lenient; we intend for players to be able to recharge their wealth dots during down-time, and we chose not to build "hard" requirements into the system.
+
+</aside>
 
 ### Investments
 
 Your character can put their wealth to work producing more wealth.
 
 Investments represent planted fields, stakes in businesses, trade caravans loaded with your goods, and so on.
-Like investments and trade goods, they have an associated level, from 1 to 5.
+Like wealth dots and trade goods, they have an associated level, from 1 to 5.
 
-Investments aren’t liquid assets, so you can’t spend them like wealth dots or trade goods.
+Investments aren’t liquid assets, so you can’t deplete them like wealth dots or spend them like trade goods.
 Instead, investments *generate* wealth for you.
-At the end of each month, for each investment that you have, you may refresh one dot of wealth of the same level, or three dots at a lower level, just as if you had *worked for income* as above.
+At the end of each month, for each investment that you have, you may refresh one dot of wealth of the same level, or three dots at a lower level (much as if you had *worked for income* as above, except that the dot or dots you can deplete depends on the *investment's* level and not *your* wealth level).
 
-Creating an investment involves converting some of your liquid wealth into an illiquid form—that is, essentially, you have to lose a wealth dot to create an investment.
+Creating an investment involves converting some of your liquid wealth into an illiquid form—that is, essentially, you have to lose a Wealth Dot to create an Investment.
 Converting a wealth do to an investment is a 5 shift job and requires a successful Protocol check, Profession: Investor check, or other reasonable check
 
 Conversely, you can *liquidate* an investment, turning it back into a wealth dot; this is also a 5-shift job, and also requires a Protocol check, Profession: Investor check, or other reasonable check.
@@ -175,178 +200,36 @@ At the beginning of each month, you pick your level of lifestyle; you must then 
 
 | Level | Description |
 | ----- | ----------- |
-| 0 (begger) | You live of what you can beg, steal or scrounge, dwelling in alleys, woods and caves. |
+| 0 (begger) | You live off what you can beg, steal or scrounge, dwelling in alleys, woods and caves. |
 | 1 (peasant) | You live a humble life, with long hours of work and no luxuries; you know want and hunger well. |
 | 2 (poor) | Though poor, your basic needs are met, and you may have access to the occasional luxury. |
-| 3 (comfortable) | Your needs are reliably met, and you have some amount of leisure time, and you have access to modest luxuries.  You likely own your own house. |
+| 3 (comfortable) | Your needs are reliably met, you have some amount of leisure time, and you have access to modest luxuries.  You likely own your own house. |
 | 4 (wealthy) | You have amassed significant wealth, enough that you can afford a luxurious lifestyle for quite some time. |
 | 5 (noble) | You own a king's fortune, perhaps literally; if managed wisely, you and your descendants will not need to work for generations. |
 
 ## Changing your Wealth Level
 
-  - You can change your wealth level during down-time. However, this is
-    very difficult to do.
-  - You may proceed from one wealth level to the next, one at a time,
-    using the following checks.
+While your character *can* work hard enough and earn enough money to *go up a wealth level*, doing so isn't easy—CY 830 is not a time of high social mobility.
 
-|                   |                                   |
-| ----------------- | --------------------------------- |
-| 1 (peasant)       | 3 months, profession check at +10 |
-| 2 (local artisan) | 6 months, Profession check        |
-| 3 (merchant)      | 1 year, Profession check          |
-| 4 (local wealthy) | 2 years, Profession check at -20  |
-| 5 (noble)         | 5 years, Profession check at -30  |
+Mechanically, advancing from one wealth level to the next wealth level is a *Job* done during Down-Time and requiring a successful check; on a success, you advance a wealth level, but you don't suffer any particular penalty if you fail—other than your wasted time.
 
-# The Old Wealth Rules
+| Change | Job Length                  | Check                   |
+| ------ | --------------------------- | ----------------------- |
+| 0 → 1  | 60 Shifts (about 3 months)  | profession check at +10 |
+| 1 → 2  | 120 Shifts (about 6 months) | Profession check        |
+| 2 → 3  | 240 Shifts (about 1 year)   | Profession check        |
+| 3 → 4  | 480 Shifts (about 2 years)  | Profession check at -20 |
+| 4 → 5  | 1200 Shifts (about 5 years) | Profession check at -30 |
 
-Each item has a *cost level*, according to its *cost category*: a Trivial item is Cost Level 1, a minor item is Cost Level 2, and so on up to Cost Level 5 for Extreme items (see the *Items* chapter).
+Note that *changing your wealth-level* and *working for income* are two separate jobs.
+You'll need to juggle both of them—possibly by accepting a lower level of lifestyle than you're used to—while you're trying to gain a wealth level (building up wealth requires sacrifices, like long working hours and skipped meals).
 
-  - When you want to purchase something:
-    
-      - You might need to roll a Barter check, to determine if you and
-        the merchant can reach a deal; consult the table below to see if
-        a check is required, and if it has a modifier.
-      - If you succeed, the merchant is willing to sell you the item,
-        and you can pay for it without affecting your net wealth; you
-        receive the item, and you don’t deplete a dot.
-      - If you fail, the merchant is willing to sell you the item, but
-        they drive a hard bargain; you can choose to either deplete a
-        dot and receive the item, or to go without (you don’t deplete a
-        dot and don’t get the item).
-      - If you score an exceptional failure, then you can’t reach a deal
-        with the merchant; maybe their stock is low, or you don’t have
-        something they want, or they decide they don’t like you.
+Alternatively, you might *acquire* wealth that you can use to improve your circumstances—this is slightly more common for the kind of characters that often have fantastic adventures (and *survive* them).
+If you acquire *trade goods*, *investment* or a *large amount of cash*, you can *expend* them to make the process of advancing a wealth level easier.
 
-  - Sidebar: Paying Up Front
-    
-      - If you don’t want to try to barter for an item—or if your
-        character isn’t particularly good at bartering—the GM may allow
-        you to skip the barter check and simply deplete a dot of wealth.
-      - Some items may not be available without bartering.
+For each higher-level *asset* (a trade good, investment or large amount of cash) you expend, you reduce the duration of the Job by a third, and you gain a +20 bonus on your check.
+In order to be useful, the asset you expend must be higher than your current wealth level.
+(You can determine the wealth level for "a large amount of cash" using the table for *restoring wealth dots with cash* above.)
 
-  - Sidebar: Holding Back
-    
-      - Sometimes, you might want to conceal the full extent of your
-        financial resources; we call this *holding back*.
-      - When holding back, you can choose to use a lower wealth level
-        than your highest one.
-      - You have to have an available dot at the level that you choose
-        to use, and if you deplete a dot, you must deplete a dot at that
-        level.
-
-  - A depleted dot isn’t gone, it’s just tapped out; you’ve used the
-    liquid part of those assets.
-    
-      - You can restore a depleted dot during down-time, see below.
-
-  - Wealth level is selected during character creation, see *Character
-    *Creation for rules.
-
-|                                              |                   |
-| -------------------------------------------- | ----------------- |
-| Item Cost vs. Wealth Level                   | Barter Test       |
-| Item cost is more than 1 less than wealth    | Automatic success |
-| Item cost is 1 less than wealth level        | \+20 bonus        |
-| Item cost is the same as wealth level        | No modifier       |
-| Item cost is 1 higher than wealth level      | \-20 penalty      |
-| Item cost is more than 1 greater than wealth | Automatic failure |
-| You are wealth level 0                       | You can’t barter  |
-
-<aside class="designnote">
-
-### Character Wealth
-
-The wealth-and-trade system may seem a little odd to someone coming from a game that meters wealth in gold, silver and copper;
-why is it put together this way?
-
-One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
-But that's far from the entire motivation!
-
-Much like *Eclipse Phase*, we want players to be able to play characters with wildly different wealth levels--running from penniless peasants to Dukes and Lords.
-We don't want to measure a character's power and advancement in terms of powerful items and wealth.
-Players should be able to *choose* how important wealth is to their concept for their character, and in order to do that, they should be able to either start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, either of whome are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
-
-Also, like *Eclipse Phase*, in *Renaissance*, "character who provides the party with things that they need" is intended to be a player role, rather than an NPC role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
-And, as a design principle, we also wish to avoid keeping track of tedious and unimportant details.
-Taken together, this means that our wealth system should allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down in "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
-
-Though we tend to really enjoy moving the role of "wealthy provisioner" into the space of jobs players can do, there is something of a flip-side; if "provisioner" is a player role, then that means that someone *needs* to do it.
-If the party doesn't have a character who has at least *some* access to funds, they'll be missing an important role--a "gotcha" that can catch people used to traditional party construction by surprise!
-
-</aside>
-
-## Changing your Wealth Level
-
-  - You can change your wealth level during down-time. However, this is
-    very difficult to do.
-  - You may proceed from one wealth level to the next, one at a time,
-    using the following checks.
-
-|                   |                                   |
-| ----------------- | --------------------------------- |
-| 1 (peasant)       | 3 months, profession check at +10 |
-| 2 (local artisan) | 6 months, Profession check        |
-| 3 (merchant)      | 1 year, Profession check          |
-| 4 (local wealthy) | 2 years, Profession check at -20  |
-| 5 (noble)         | 5 years, Profession check at -30  |
-
-## Income, Investments and Lifestyles
-
-  - You can work for income during down-time.
-    
-      - Working for income is a 20-shift job; you must have at least 10
-        ranks in a profession, but no check is required.
-        
-          - Let’s not require a profession check, because it’s tedious
-            and because the failure case is irritating to handle (your
-            character abruptly gets 0 income?).
-    
-      - If you succeed, you either restore a depleted dot of wealth at
-        your highest level, or two lower-level dots.
-
-  - Your character lives a certain lifestyle, which incurs expenses.
-    
-      - Lifestyles have levels from 0 to 5, just like wealth; see the
-        table below for descriptions.
-      - At the beginning of each month, pick a lifestyle for that month,
-        and deplete a dot of the same level to pay for it.
-
-  - Your character can put their wealth to work producing more wealth.
-    
-      - Investments represent planted fields, investments in businesses,
-        traveling trade caravans and so on.
-    
-      - They aren’t liquid assets, so you can’t spend them.
-    
-      - Investments have a level from 1 to 5.
-    
-      - You can convert a dot of wealth into an investment; you loose
-        the dot, but you gain an investment at the specified level.
-        
-          - Converting a dot of wealth to an investment is a 5 shift job
-            and requires a successful Barter, Profession: Investor or
-            similar check.
-    
-      - Every month, your investments generate wealth.
-        
-          - At the end of every month, for each investment that you
-            have, you may refresh one dot of wealth of the same level.
-    
-      - You can liquidate an investment, converting it back into a dot
-        of wealth; this is a 5 shift job and requires a successful
-        Barter, Profession: Investor or similar check.
-    
-      - Investments can be handled in the abstract, but some players may
-        wish to detail exactly what their character’s holdings and
-        investments look
-like.
-
-|                 |                                                                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| 0 (begger)      | You live of what you can beg, steal or scrounge, dwelling in alleys, woods and caves.                         |
-| 1 (poor)        | You live a humble life, with long hours of work and no luxuries.                                              |
-| 2               | Though poor, you have accrued more wealth than those around you, giving you access to a few greater luxuries. |
-| 3 (comfortable) | You                                                                                                           |
-| 4 (wealthy)     |                                                                                                               |
-| 5 (noble)       |                                                                                                               |
-
+Note that expending an *investment* in this way doesn't necessarily imply that you've *liquidated* it; mechanically, you'll still lose the investment, but it will be because it's directly incorporated into your wealth, not because you've withdrawn your investment.
+The difference between these two outcomes might be *significant* to the people that you have invested in.
