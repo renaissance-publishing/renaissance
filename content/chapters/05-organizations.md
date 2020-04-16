@@ -26,12 +26,8 @@ And, of course, there are many more active organizations than the handful presen
 So, how exactly *do* you join an organization?
 
 As with many things in *Renaissance*, there's no one canonically correct answer to this question;
-perhaps the most straightforward way is to simply take the *Member* trait, and select one of the listed organizations.
-However, there are other options, depending on what your character's relationship with the organization is.
-
-If your arrangement with the organization is complex or comes with very specific rules, then you might choose to represent it with *class*; likewise, if you have a prominent position in the organization that provides you with additional benefits, you might choose to represent this with an additional trait or class (like the *Rat Queen* example class).
-
-On the other hand, if your relationship with your organization is as much a problem as a benefit—like an order of Monks that imposes extreme obligations on its members—then you might select a neutral or even negative trait.
+in general, you should start by taking the *Member* Class, and detailing it as appropriate for the organization you want to join.
+If your arrangement with the organization is complex or comes with very specific rules, you could represent this with an additional class; likewise, if you have a prominent position in the organization that provides you with additional benefits, you represent this with an additional class (like the *Rat Queen* example class).
 
 </aside>
 
