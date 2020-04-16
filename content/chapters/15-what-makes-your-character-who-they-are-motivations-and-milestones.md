@@ -1,5 +1,5 @@
 ---
-title: "Motivations and Milestones"
+title: "What Makes your Character Unique: Motivations and Milestones"
 ---
 
 The rules of the game are primarily concerned with what your character
