@@ -1913,20 +1913,23 @@ The Brightfeathers themselves have a rich culture, with a native language which 
 
 Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning. Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song. In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.
 
-#### Vital Statistics
-* Old age: 90 years
-* Average height: 1.2 meters
-* Average weight: 25 kilograms
-* DUR 20, STR 20
-* +5 COO, +5 INT, +10 SAV
-* Movement: Foot 3/9, Fly 4/12/48
-* Senses: Normal, Infrared
-* Tags: Natural, Humanoid, Avian, Brightfeathers
-* Language Group: Any
-* _Small_: Brightfeathers are small
-* _Natural Linguist_: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
-* _Acute Eyesight_: Brightfeathers recieve a +20 bonus to visual perception checks.
-* _Talons_: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
+#### Vitals
+
+- Old age: 90 years
+- Average height: 1.2 meters
+- Average weight: 25 kilograms
+
+- Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
+- DUR 20, STR 20
+- +5 COO, +5 INT, +10 SAV
+- Movement: Foot 3/9, Fly 4/12/48
+- Senses: Normal, Infrared
+- Tags: Natural, Humanoid, Avian, Brightfeathers
+- Language Group: Any
+- _Small_: Brightfeathers are small
+- _Natural Linguist_: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
+- _Acute Eyesight_: Brightfeathers recieve a +20 bonus to visual perception checks.
+- _Talons_: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
 
 ## Exotic Races
 
@@ -1973,6 +1976,7 @@ Merchants who deal with them know that Bone Spiders will not actually drink the 
 - Average Length: 2.0m
 - Average Weight: 75kg
 
+- Strange, spider-like creatures from a distant island.
 - DUR 35, STR 30
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
