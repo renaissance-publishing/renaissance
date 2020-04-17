@@ -1921,7 +1921,7 @@ Their language, Songspeak, is based largely on mimicry, with many words simply c
 
 - Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
 - DUR 20, STR 20
-- +5 COO, +5 INT, +10 SAV
+- \+5 COO, +5 INT, +10 SAV
 - Movement: Foot 3/9, Fly 4/12/48
 - Senses: Normal, Infrared
 - Tags: Natural, Humanoid, Avian, Brightfeathers
