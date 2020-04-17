@@ -101,6 +101,8 @@ We're working on it.
 - Copy over a bunch of the finalized names, dates and units.
 - fill in the stubs in *travelling* and *common hazards*.
 - Fill in the *Secrets* section.
+- Finish updating the *From-the-Authors* section,
+  - including renaming the file.
 
 ## Editing Notes
 
