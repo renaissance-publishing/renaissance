@@ -1660,7 +1660,7 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
 - *Basin*: Like other Spirits, Tempters have a Basin (see *The Supernatural*): the mental energies of other intelligent beings.
 
 #### Optional Negative Trait: Bind
-    
+
 Like some Spirits, you have a *bind* (see *The Supernatural*).
 
 - **Effect:** You have a *Bind*.
