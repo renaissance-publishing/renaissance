@@ -66,7 +66,7 @@ why is it put together this way?
 One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
 But that's far from the entire motivation!
 
-Much like *Eclipse Phase*, we want players to be able to play *choose* how important wealth is to their character-concept, and to be able to play characters with vastly different levels of wealth;
+Much like *Eclipse Phase*, we want players to be able to *choose* how important wealth is to their character-concept, and to be able to play characters with vastly different levels of wealth;
 players should be able to start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, both of whom are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
 In particular, much like *Eclipse Phase*, we want "the character who provides the party with things that they need" to be a *player* role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
 This means that our wealth system needs to *scale elegantly*, supporting everything from destitute drifters to propertied nobles.
