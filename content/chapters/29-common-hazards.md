@@ -130,6 +130,8 @@ GMs may represent this situation by "spacing out" the above effects (i.e. by hav
 In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
 GMs should feel free to adapt (and simplify) these rules in such cases: rather than trying to track the effects of *exhaustion,* *partial starvation,* and *partial dehydration* separately using the full rules above, they may simply represent the inadequate food and water as penalties to the *Endure Physical Hardship* tests caused by the forced march.
 
+## Extreme Environments
+
 ## Traps, Defences and Hazards
 
 ### Reasonable Traps
