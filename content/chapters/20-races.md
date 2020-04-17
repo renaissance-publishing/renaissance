@@ -1926,10 +1926,10 @@ Their language, Songspeak, is based largely on mimicry, with many words simply c
 - Senses: Normal, Infrared
 - Tags: Natural, Humanoid, Avian, Brightfeathers
 - Language Group: Any
-- _Small_: Brightfeathers are small
-- _Natural Linguist_: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
-- _Acute Eyesight_: Brightfeathers recieve a +20 bonus to visual perception checks.
-- _Talons_: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
+- **Small**: Brightfeathers are small
+- **Natural Linguist**: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
+- **Acute Eyesight**: Brightfeathers recieve a +20 bonus to visual perception checks.
+- **Talons**: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
 
 ## Exotic Races
 
