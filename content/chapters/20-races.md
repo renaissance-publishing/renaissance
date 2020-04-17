@@ -435,7 +435,7 @@ There is also a unique ethnic group of Gnolls hailing from stretch of snowy nort
 White-furred and adapted to the cold, these Gnolls have long lived on the snowy terrain above and around the subterranean holds of Dwarves, with whom they have long coexisted amicably; Snow Gnolls are expert hunters and herders, and they provide Dwarven holds with an invaluable source of meat.
 Though few in numbers, the combination of these stealthy hunters scattered throughout the northern forests with the extreme resilience of Dwarven holds handily prevented the conquest of the North by the Empire of Man, and later by the Kingdoms of Men.
 
-#### Vitals
+**Vitals**
 
 - Old Age: 50 Years
 - Average Height: 2.2m
@@ -931,7 +931,7 @@ Today, little is known about the Ground-Explorer Dwarves—called the *Drahrat* 
 
 See also *Ground-Explorer Dwarves* in *Other Factions*.
 
-#### Vitals
+**Vitals**
 
 - Old Age: 110 Years
 - Average Height: 90cm
@@ -1632,7 +1632,7 @@ Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you sho
   
   - They tend to live in urban centers among other races. Some Tempters live openly among the large cities of the Commonwealth; more almost certainly live in secret.
 
-#### Vitals
+**Vitals**
 
 - Old Age: None
 - Average Height: by shape
@@ -1890,18 +1890,20 @@ You have extensively developed your race's empathic talents, giving you a limite
       - Too late did the Washers ally themselves with the Raptors and join their alliance with the Ratfolk; by this time, they only had one major city left, and a total surviving population of just more than a quarter-million.
       - Today, the Washer’s territory defines the border between the Raptor’s Alliance and the Goblinoid territories.
   - Washers have an impish sense of humor.
-  - Vitals:
-      - Old Age: 50 years
-      - Average Height: 0.8m
-      - Average Weight: 21kg
 
-  - DUR 20, STR 20
-  - \+5 COG +10 COO +5 SAV
-  - Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12
-  - Senses: Normal, Acute Touch
-  - Tags: Natural, Humanoid, Procyonid, Washers
-  - Language Group: GR
-  - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
+**Vitals**
+
+- Old Age: 50 years
+- Average Height: 0.8m
+- Average Weight: 21kg
+
+- DUR 20, STR 20
+- \+5 COG +10 COO +5 SAV
+- Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12
+- Senses: Normal, Acute Touch
+- Tags: Natural, Humanoid, Procyonid, Washers
+- Language Group: GR
+- Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
 
 ### Brightfeathers
 
@@ -1913,7 +1915,7 @@ The Brightfeathers themselves have a rich culture, with a native language which 
 
 Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning. Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song. In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.
 
-#### Vitals
+**Vitals**
 
 - Old age: 90 years
 - Average height: 1.2 meters
@@ -1969,7 +1971,7 @@ Those traders who do encounter these rare creatures should be advised: Bone Spid
 Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
 Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
 
-#### Vitals
+**Vitals**
 
 - Old Age: 125 years
 - Average Height: 0.5m
