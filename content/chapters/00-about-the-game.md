@@ -71,6 +71,12 @@ We're working on it.
   - I need to put things in it.  And possibly also move and retitle it.
 - Major edits on *this very about page*;
   - some of the content here dated back to *before Sinestro did the website*.
+- Moved things around to add a *travelling* chapter and a *Secrets* chapter,
+  - and just barely started filling things in.
+- Tweaked the "from the authors" page,
+  - which is now the intro page.  (We should rename the file.)
+- Added a bunch of content to the *travelling* section.
+  - It's still got a bunch of stubs.
 
 ## To-Do
 
@@ -90,6 +96,11 @@ We're working on it.
   - Also, tag the things in it with a difficulty hint.
   - And add Sinestro’s Cold Shadows and Sauce’s Whisps.
 - Fill in the *Raptor's Protectorate* and the *Shaded-Sea People*, dear god.
+- Fill in the new *travelling* and *secrest* sections.
+- Add examples for all the skills.
+- Add optional rules for ranking profession skills by wealth?
+- Copy over a bunch of the finalized names, dates and units.
+- fill in the stubs in *travelling* and *common hazards*.
 
 ## Editing Notes
 
