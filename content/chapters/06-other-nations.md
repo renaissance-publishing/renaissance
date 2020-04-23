@@ -312,7 +312,7 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
 - Friendly with the Commonwealth, though independent.
 - May be forced into closer alliance, as they are pressured by Goblins on the Eastern shore and Shaded Sea peoples on the West.
 
-The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane
+The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
 Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
 
 <aside class="floating">
@@ -340,13 +340,148 @@ The language is the primary written language of exchange and scholarship in the 
 
 #### Language: Brook
 
-The language spoken by the Raptors 
+The language spoken by the Raptors, named for the way it sounds—like a burbling brook, or small rockslide.
+Originally, Brook was written pictographically; after the Ratfolk and Raptors began to trade heavily, a phonetic encoding was developed using the Ratfolk's alphabet.
+
+*Group: DDK*
 
 </aside>
 
 ### History
 
-Around CY 40, the civilization who would be known as the Terrace-Builder Raptors built their first large city, 
+#### The Raptor Empire
+
+The Raptors have long been the dominant race throughout the mountainous jungles of the central Ruby Plane, divided into diverse tribes and cultures.
+Around CY 40, the *Terrace-Builder* Raptors built their first large cities in the northeast corner of the mountains.
+They developed a style of terrace-building, and used it extensively both for urban design and agriculture.
+
+The early settlements developed into city-states.
+They were broken into *castes*: roughly, *rulers*, *administrators*, *soldiers*, and *farmers*.
+Rather than using money, they used a *corvee* system: individuals where required to contribute labor to the city-state's projects—which included farming (which was done collectively), the construction of roads, terraces and buildings, and serving as a soldier.
+
+An alliance of two Raptor city-states—Giant's Stairs and River-Cutter's City—came to prominance and, over the following centuries, eventually built an empire.
+Their conquests where subtle, using a mix of diplomacy and military threat; often, rather than pursue the total conquest of an enemy, they chose to end conflicts once favorable terms had been secured.
+This put the Raptors in the position of managing a heterogeneous empire, whose subjects they had not entirely defeated and pacified; in order to control this empire, they had to manage a careful mix of diplomatic, military and economic pressure.
+They also had to play the different parts of their fracuous empire against each-other, using one faction as a counter-weight to another; they where masters at maintaining enough internal cohesion to preserve their prosperity and military strength, while keeping their clients at-odds enough to maintain control.
+
+#### The Ratfolk Arrive
+
+The Ratfolk had long lived in the Warren Isles; they where a society fishers, farmers and traders.
+Between CY 331, several larger Ratfolk cities united, and began the conquest of their neighbors; this started an ocean-born exodus, with some of the refugees settling on the northwest shores of the Ruby Plane; this exodus only intensified when the Shade Elves began to raid the Warren Isles in CY 346.
+
+The Ratfolk that settled on the Ruby Plane where far from the center of power of the Raptor Empire—Giant's Stairs and River-Cutter's City where on the other side of a jungle-covered mountain range.
+The Ratfolk brought with them a mercantile culture, and relatively sophisticated technology—unlike much of the Ruby Plane, they had mastered the use of iron, for example, and where proficient sailors.
+They prospered on the Ruby Plane, and made allies—including the Brightfeathers, a parrot-like race that lived in the mountains of the northwest.
+
+Eventually, the Ratfolk began to trade with several of the tribes of Raptors that lived in the southwest flanks of the mountains; those tribes where tributaries of the Raptor's Empire just as much as any other race was.
+Though neither the Ratfolk nor the Brightfeathers where warlike, in the eyes of the Raptor Empire, they began to form a dangerous competitor.
+
+#### The Shaded Sea Attacks
+
+Then, in CY 454, the Warren-Isles Ratfolk and the Shade Elves of the Emerald Plane, united under the Leapers, began to attack the northwest Ruby Plane—most heavily falling on the Ratfolk there.
+The Ruby-Isles Ratfolk sought out the aid of the militarily powerful Raptor Empire, offering to become tributaries if the Empire would protect them.
+The Raptor Empire, long used to juggling a vast empire of only weakly-bonded peoples, offered the Ratfolk favorable terms: military aid, in exchange for the Ratfolk's nominal submission, and access to their prosperous markets.
+
+The Raptor Empire marched west, and helped the Ratfolk resist the Shaded Sea raiding.
+In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely—though their seaborn raiding would never completely cease.
+
+#### Prosperity
+
+For centuries, the Raptor Empire prospered; the terrace-builder Raptors cut roads through the mountains and jungles, and allowed goods to flow from the Ratfolk in the west to the Raptors in the east.
+The Terrace-Maker Raptor's society was dramatically altered; trade with the Ratfolk made them wealthier, and that wealth made them more mercantile.
+While they still use a system of corvee labor, they pay their citizens a small wage collected from trade; they also allow their citizens to purchase their way out of corvee labor.
+In turn, a *merchant* class has developed, who trade profitably with other cultures and purchase their way out of corvee obligations.
+
+#### The Goblin Empire
+
+In CY 617, Goblins first established a settlement on the northeast Ruby Plane.
+In CY 703, the Goblin Empire was formed, and they began their sack and conquest of the Ruby Plane in earnest.
+
+As the Goblin Empire conquered their way inland from their foothold on the Ruby Plane, members of the cultures and races that the Goblins conquored sought the protection of the Raptors.
+Soon, the Raptor Protectorate began to swell with the refugees of the Goblin's conquest.
+
+#### The Present
+
+Today, the Raptor Protectorate have face enemies on two fronts.
+So far, direct confrontation between the Raptor Protectorate and the Goblin Empire has been minimal; the Empire has, for the most part, avoided territories claimed or protected by the Protectorate.
+On the west, though the Shaded-Sea People claim no territory on the Ruby Plane, their raiding has been a constant threat.
+
+### Culture
+
+The Raptor Protectorate integrates several different cultures from through the Ruby Plane—though its two dominant cultures remain the Terrace-Builder Raptors, who lead the Protectorate and provide most of its military might, and the Iron-Worker Ratfolk, who remain drivers of their trade-network and economy.
+
+#### The Terrace-Builder Raptors
+
+The Terrace-Builder Raptors continue to use a distinctive system of terraces for agricultural production in the highlands of the Raptor's Peaks.
+They also continue to construct and occupy some of the largest urban centers on the Ruby Plane.
+Their systems of caste and corvee labor also survive—although perhaps somewhat changed.
+Their leaders are still drawn from the *rulers* caste, and their administrators are still drawn from the *administrators* caste.
+Members of the *soldiers* caste still form the elite troops of their armies; they are trained in war from their youths, and serve their city-states as labourers when the army is not active.
+Farmers, in turn, work the terraced fields, and serve as craftsmen in rural settlements.
+
+The inclusion of the Iron-Worker Ratfolk in the Protectorate brought profitable trade, and with it chnage.
+The "tribute" that the Iron-Workers pay to the Terrace-Builders is minor, but profit from trade with them is significant; the Terrace-Builters also charge a tarrif on goods carried over the extensive network of roads that they maintain through the Raptor's Peaks at the center of the Ruby Plane.
+Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people—minus a portion claimed by the city-states themselves.
+This means, in practice, that those doing corvee labor now receive a modest wage.
+
+To encourage profitable trade and useful craft, most Terrace-Builder Raptors allow members of the Soldier and Farmer castes to purchase an exemption from most corvee duties.
+This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
+This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
+
+<aside class="fiction">
+
+> "Corvee labor!"
+> The Terrace-Builders are the bullwark that protects the Ruby Plane from the Goblins and Shade Elves—and our likely allies!—so we'd like to think the best of them.
+> We've inveted a nice word for it, "corvee labor."
+>
+> But it's slavery.
+> A guy from the Administrator caste shows up, has a few Soldiers haul you out of your house at dawn, and forces you to build a road through the steaming jungle.
+
+*Fire-Watcher, a Scholar from the Dragonshire in the Commonwealth*
+
+</aside>
+<aside class="fiction">
+
+> I can say I never thought of myself as a slave.
+> I think we thought of ourselves as citizens doing our duty, to maintain the roads that we travelled and the fields that fed us.
+> And I can point out at least on important difference between what I was, and what the slaves of the Goblins are: I was allowed to leave.
+
+*Eager, a Raptor who emigrated to the Commonwealth.*
+
+</aside>
+
+Much ancient Terrace-Builder construction used fieldstones, though most most major construction in modern city-states is done using carefully dressed stone masonry—often limestone.
+The use of brick construction is also common, especially for minor buildings and in villages outside of their citystates; they are often face with mudbrick.
+Thatch is often used for roofing, and ornamentation is rare.
+
+Raptor buildings are often designed for communal use.
+Many buildings are large and open, without walls; sheets of thick fabric are used for doors and internal partitions.
+
+In the mountains and foothills, the Terrace-Builders often lay their cities out in terraces; they often exploit natural defences, building walls only at the entrances to vallies.
+In the plains to the extreme east of the Empire, they sometimes use a more regular, level city-plan, with walls all-around.
+
+Raptors use a 6-day week, with the precise schedule varying by caste—the Farmer caste works three days in the field and two days for the city-state, and has one day off.
+The sixth day begins with a short ritual meal, but is otherwise left to the citizen.
+
+Terrace-Builder Raptors have spent centuries riding herd over an empire consisting of diverse peoples; they tend to be very open, and they are welcoming to members of strange new races and cultures.
+Members of countless different races can be found in the prosperous markets of the Terrace-Builders' city-states.
+However, it is not easy for an outsider to find a permanent place in their city-states: their caste system influences every part of their society, and it is not easy to operate within their society without a caste affiliation (and an outsider—especially a non-raptor—cannot easily claim a caste).
+
+#### Iron-Worker Ratfolk
+
+The Iron-Worker Ratfolk are culture of skilled traders, sailors, fishers and iron-workers.
+Their industry is one of the major drivers of the Protectorate economy; fish, crab, iron, and steel from the Iron-Workers is traded in markets throughout the rest of the Ruby Plane, carried along the coast by ships and across the mountains by the Raptor's roads.
+
+They live throughout the northwest of the Ruby Plane, in large cities and small fishing villages.
+
+
+### Economy
+
+### Military
+
+### Other Nations
+
+The Raptor Protectorate has no shortage of enemies: the Goblin Empire presses on the east, and the Shaded-Sea constantly attack the west.
 
 
 ## The Goblin Empire
