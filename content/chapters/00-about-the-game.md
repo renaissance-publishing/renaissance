@@ -77,6 +77,15 @@ We're working on it.
   - which is now the intro page.  (We should rename the file.)
 - Added a bunch of content to the *travelling* section.
   - It's still got a bunch of stubs.
+- Added a *soothe* skill, useful for healing stress.
+  - I don't like this one but it's a start.
+- Removed a bunch of the skills that we already crossed out.
+- Lots of editing in the healing section.
+  - Lots of rewording.
+  - Added some clarifications.
+  - Added rules for *Soothe* (again, not great, but it's a start).
+  - Added the option for *surgery* which can be used after you botch a test to bind a wound.
+  - Slightly changed how *Stress* works.  (Now there are two tags!)
 
 ## To-Do
 
