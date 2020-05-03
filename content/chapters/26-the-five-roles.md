@@ -124,7 +124,7 @@ GMs should try to balance all 5 roles.
 Remember,
 
 - each is equally important,
-- each should get equal time, and 
+- each should get equal time, and
 - any given challenge should be solvable by several roles.
 
 Satisfying all these requirements can be tricky—it isn't even always possible!
