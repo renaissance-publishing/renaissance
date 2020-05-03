@@ -95,6 +95,8 @@ We're working on it.
 - Extensive bullet-list-to-text conversion in *Basic Rules*.
   - complete with editing, sections, examples and asides.
   - And some text to help describe what the *Common Checks* are supposed to be, with a few cross-references.
+- Some light editing in the *Combat* section.
+- Added a blank chapter where we're going to talk about what adventures look like.
 
 ## To-Do
 
