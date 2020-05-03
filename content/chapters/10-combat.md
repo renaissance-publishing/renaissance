@@ -521,59 +521,43 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
 
 ## Unarmed Combat and Natural Weapons
 
-  - Some characters have learned to fight without a weapon, by striking
-    opponents with punches, kicks, and other unarmed attacks; other
-    characters have *natural* weapons, like claws, fangs, or spiked
-    tails.
+Some characters have learned to fight without a weapon, by striking opponents with punches, kicks, and other unarmed attacks; other characters have *natural* weapons, like claws, fangs, or spiked tails.
 
-  - Characters who are unarmed are generally at a disadvantage against
-    armed and armored opponents.
-    
-      - If a character who does not have *basic *proficiency in *Unarmed
-        Combat *(that is, who has fewer than 10 ranks in *Unarmed
-        Combat*)*,* then, when they are unarmed, they do not *threaten*
-        opponents next to them, and they cannot use the *Unarmed Combat*
-        skill to defend themselves against an armed opponent.
-      - A character who *does* have basic proficiency in *Unarmed
-        Combat* can use that skill to fight an armed opponent, but they
-        are at a disadvantage; they take a -10 penalty when attacking,
-        and a -20 penalty when defending.
-      - A character who attacks an *armored* opponent with an unarmed
-        attack is at risk of injury, for obvious reasons; on an
-        exceptional failure, they take 1d10÷2 DV. Note that this applies
-        to *unarmed attacks*, but not to grapples, throws, trips or
-        similar maneuvers.
-      - Conversely, characters wearing armor will do additional damage
-        with an unarmed attack. Characters gain AV÷3 bonus damage to
-        unarmed attacks, for the highest AV among the armors that
-        they’re wearing.
-      - Attacks with punches, kicks, and so on have the *Unarmed Attack*
-        tag; note that some creatures and armors may have resistance to
-        *unarmed* attacks.
+<aside class="designnote">
 
-  - Some characters have natural weapons, like claws, fangs or a spiked
-    tail.
-    
-      - A character with a natural weapon is generally treated like an
-        armed character; they threaten characters next to them, and can
-        attack and defend against armed and armored characters.
-      - A character using a natural weapon takes only a -10 penalty when
-        defending against an armed character.
-      - Attacks with natural weapons have the *Natural Weapon* tag (and
-        don’t have the *Unarmed Attack *tag).
-      - Attacks with natural weapons still use the Unarmed Combat skill;
-        each natural weapon requires a specific proficiency (for
-        example, Unarmed Combat (Claws), or Unarmed Combat (Fangs)).
+The original intent was that Unarmed Combat would be treated no differently than any other style of combat, without any special rules (and without anything like a “mandatory feat chain” required to make it useful).
 
-  - Design Note: the original intent was that Unarmed Combat would be
-    treated no differently than any other style of combat, without any
-    special rules (and, importantly, without anything like a “mandatory
-    feat chain” required to make it useful). This proved confusing, as
-    many players assumed (not unreasonably\!) that they could not fight
-    an armed character while unarmed, and often even attempted to take
-    Powers to allow them to do so\! The rules given above are an attempt
-    at a minimal viable treatment of the disadvantages of Unarmed
-    Combat.
+This proved confusing, as many players assumed (not unreasonably\!) that they could not fight an armed character while unarmed, and often even wanted to take Powers to allow them to do so\!
+
+The rules given here are an attempt at a minimal viable treatment of Unarmed Combat, which will explicitly allow characters who invest ranks in *Unarmed Combat* to effectively fight against an armed and armored opponent.
+
+</asid>
+
+### Unarmed Combat
+
+Most *unarmed attacks*—punches, kicks, and other strikes—works work much like any other attack.
+Attacks with punches, kicks, and so on have the *Unarmed Attack* tag; note that some creatures and armors may have resistance to *unarmed* attacks.
+The base damage for an *unarmed attack* is 1d10+DB DV with no AP.
+
+A character who is unarmed is at a disadvantage against an armed or armored opponent.
+A character who does not have *basic proficiency* (see *Basic Rules*) in *Unarmed Combat* does not *threaten* opponents next to them, and they cannot use the *Unarmed Combat* skill to defend themselves against an armed opponent.
+A character who *does* have basic proficiency in *Unarmed Combat* can use that skill to fight an armed opponent, but they take a -10 penalty when attacking, and a -20 penalty when defending.
+A character who attempts to strike an *armored* opponent while unarmed is at risk of injury (for obvious reasons); if they score an exceptional failure on their attack, they take 1d10÷2 DV.
+Note that this applies to *strikes*, but not to grapples, throws, sweeps, or similar maneuvers.
+
+Conversely, characters wearing armor will do additional damage with an unarmed attack. Characters gain AV÷3 bonus damage to unarmed attacks, for the highest AV among the armors that they’re wearing.
+
+### Natural Weapons
+
+Some characters have natural weapons, like claws, fangs, or a spiked tail.
+
+Attacks with natural weapons have the *Natural Weapon* tag (and don’t have the *Unarmed Attack* tag).
+Natural weapons don't use the base damage for an unarmed attack; instead, they will list their own damage an AP (like an artificial weapon does).
+
+A character with a natural weapon is generally treated like an armed character; they threaten characters next to them, and can attack and defend against armed and armored characters.
+A character using a natural weapon takes only a -10 penalty when defending against an armed character.
+
+Attacks with natural weapons still use the Unarmed Combat skill; each natural weapon requires a specific proficiency (for example, Unarmed Combat (Claws), or Unarmed Combat (Fangs)).
 
 ## Mounted Combat
 
@@ -670,52 +654,9 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
         differences.
       - see *Sizes*
 
-  - Natural Attacks: Natural Attacks are attacks made with “weapons”
-    with the Natural tag (which is to say, claws, bites and so on).
-    Natural attacks use the same rules as attacks with weapons.
-    
-      - Clarification: most Natural Attacks have the off-hand tag. This
-        is the same off-hand tag that light weapons have; it means that
-        the Natural Attack does not suffer the additional -10 penalty
-        when made with a non-dominant hand.
-      - *This could use some adjustment; feedback is appreciated.*
-
-  - Unarmed Combat:
-    
-      - Unarmed Attacks have a base DV of 1d10+DB (Damage Bonus, see
-        *Vital Statistics*), with no AP.
-        
-          - Unarmed Attacks have the Natural and Off-Hand tags.
-          - Unarmed Attacks are punches, kicks and other similar
-            attacks. Mechanically, they are those that are made without
-            a Weapon or a listed Natural Attack.
-    
-      - An Unarmed Attack made against an opponent with a weapon (or
-        natural attack) suffers a -10 penalty.
-    
-      - When using the Unarmed skill to defend against a weapon or
-        natural attack, you take a -10 penalty.
-    
-      - I’m not actually sure I want or need either of those rules.
-
   - Charge: when you use the Charge move action, you gain +DB DV on your attacks for the rest of your turn.
 
       - You have to be able to *build up speed;* usually, this means that you need to have moved more than one meter.
-
-  - ~~Brace: Weapons with the Brace tag can be used to prepare to receive
-    a charge.~~
-    
-      - You need to have a weapon with the Brace tag.
-      - Bracing to receive a charge is a Standard Action.
-      - After bracing, until your next turn, if anyone *charges* you
-        (see *Charge* above), you may attack them first, before they
-        attack you. (Resolve the attack normally; the charging character
-        can still defend, for example.)
-      - If you hit the charging character, you deal +DB damage.
-      - You do not prevent them from completing the charge (by attacking
-        you), unless you incapacitate them with your attack (by
-        disabling them, or by dealing a wound and knocking them prone,
-        for example).
 
   - Brace: Weapons with the Brace tag can be used to prepare to receive
     a charge.
