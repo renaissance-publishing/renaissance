@@ -86,6 +86,10 @@ We're working on it.
   - Added rules for *Soothe* (again, not great, but it's a start).
   - Added the option for *surgery* which can be used after you botch a test to bind a wound.
   - Slightly changed how *Stress* works.  (Now there are two tags!)
+- Total rewrite of the Building Characters chapter, to reflect the "five roles" concept
+  - and not repeat that information.
+  - And to have concrete build guidance and fluff bits.
+  - This is going to be an undertaking.
 
 ## To-Do
 
