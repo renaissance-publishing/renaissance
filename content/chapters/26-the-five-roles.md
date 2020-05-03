@@ -3,24 +3,34 @@ title: "The Five Roles"
 ---
 
 In *Renaisance,* there are, broadly, five player roles—which we've referred to incidentally throughout the guide.
-The Five Roles are:
+They are:
 
 - **Combatant:** winning (or just surviving) combat encounters.
-- **Analyst:** understanding clues, providing analysis, and helping the party figure out what's going on, and what to do next.
+- **Analyst:** understanding clues, providing analysis, and helping the party figure out what's going on and what to do next.
 - **Socialite:** persuading, lying, bullying, and using social manipulation to get what the party needs, provide cover, find nonviolent solutions to problems, and more.
-- **Infiltrator:** using stealth, athletics, unique powers and special movement-modes to get into places where opponents don't want you to be.
-- **Provisioner:** using wealth, social or organizational connections, or craft skills to acquire things that the party needs.
+- **Infiltrator:** using stealth, athletics, unique powers and special movement-modes to get into places where opponents don't want you to be—and get out without being detected.
+- **Provisioner:** using wealth, social, organization access, or craft skills to acquire things that the party needs.
 
-We intend each role to be *equally important and powerful:* a character might pick any one of these roles as their primary role, each of these roles should be equally important and engaged throughout the course of an adventure, and each problem confronted by the party should have solutions from two or three of these roles.
+We intend each role to be *equally important and powerful*: a character might pick any one of these roles as their primary role; each of these roles should be equally important and engaged throughout the course of an adventure; and, as a general rule, any it should be possible for any two or three of these roles to contribute to solving any given problem.
 This is different from many other fantasy RPGs, where Combat is the presumptive primary role for almost every character—which in turn means that most characters in other fantasy RPGs are defined primarily by their combat role—and where combat is the presumptive primary solution to any given problem.
+
+In addition, there are two *specialties* that are common:
+
+- *Survivalist*: helping the party to travel, explore, or just survive in the wilds.
+- *Healer*: putting the party back together after they're wounded or traumatized.
+
+The reason we call these "specialties" rather than "roles" is because they're only supported by one or two skills, and thus they don't require the investment that a "role" does.
+Also, they can be viewed as subsets of other roles: many Combatant or Infiltrator characters may take ranks in *Survival*; many Analyst and Provisioner characters may take ranks in *Medicine*; and many Socialites may take ranks in *Soothe*.
 
 ## Impact on Players
 
-Characters should usually be *great* at one of the roles above, and *good* at two more; here, "great" means Target Numbers (TNs) in the 65+ range for relevant skills, with support from relevant items, skills and classes, while "good" means TNs in the 50+ range, with at least the appropriate skill kits.
+Characters should usually be *great* at one of the roles above, and *good* at two more.
+Here, "great" means having Target Numbers (TNs) of 70 or more for the relevant skills, with support from relevant items, skills and classes.
+"Good" means TNs in the 50+ range, with at least the appropriate skill kits.
 
-It's important to have on role that you're *great* at, so that there's one role that clearly defines your character—so that the rest of the party knows that when infiltration (say) comes up, your character is the go-to—but also so that there's one role that you can fill even in tough circumstances—when you're wounded, out of resources, and rushed.
+It's important to have one role that you're *great* at, so that there's one role that clearly defines your character (so that the rest of the party knows that when infiltration (say) comes up, your character is the one to call on), but also so that there's one role that you can fill even in tough circumstances—when you're wounded, out of resources, and rushed.
 However, it's also important to have *several* things that your character is *good* at—things that they can do when the pressure isn't on, and things that they can at least *help with* in dire circumstances—because the role that you've specialized in won't always be applicable!
-This is the flip side of the five roles: any one role is only going to be picked as the best solution to the current problem about a fifth of the time.
+This is the flip side of the five roles: any one role is only going to be picked as the best solution to the current problem about a fifth of the time!
 
 Parties should usually include good coverage of all of the roles—if they don't, they'll find that they're missing important capabilities.
 
@@ -42,7 +52,7 @@ Importantly, he also has the Scholar trait, coupled with a good COG, so he can p
 He's also an effective provisioner: he has Wealth Level 4 and a high Protocol, so he can simply *buy* the party things that they need.
 He's also a member of a Lawyer's Guild, which enables him to draw on that organization's resources, and he has a Level 4 Investment, which is another asset that he can draw on to support the party.
 
-Sadly, River is all but helpless in combat.
+River is all but helpless in combat.
 His Fray TN is 50, his Ranged Weapons TN is 60, and he is armed only with a crossbow and a dagger; while this allows him to participate in a combat by firing at range, he certainly *won't* be a primary factor in a fight.
 (Tempters' average STR and River's low SOM mean that his damage with his dagger is singularly unimpressive.)
 He doesn't even have armor—even though Tempters have mediocre DUR—so if the enemy successfully engages him, he's in deep trouble.
@@ -70,7 +80,7 @@ She has good ranks in Melee Weapons, Ranged Weapons and Fray, and she specialize
 Blur, Vanish and Sneak Attack combine powerfully, and her proficiency with Alchemy give her access to deadly poisons (that she can apply to her daggers) and powerful thrown weapons (like Scour canisters).
 However, she has to be near her opponents to fight them, and her survivability is very low once she's detected—she has no armor, and Ratfolk have low DUR.
 (Her opponents have a reasonable change of detecting her, since Vanish requires an opposed check; in a large combat, most opponents probably won't see her, but some of them will; to the ones who do, she's a high-priority target with very low durability.)
-And, of course, deploying Scour and Tar in combat is a risky gambit, especially when throwing them; while the damage she'll cause if she covers three or four enemies in Scour will be massive, she may also put her allies at risk—or even herself, on a bad throw.
+And, of course, deploying Scour and Tar in combat is a risky gambit, especially when throwing them; while the damage she'll cause if she covers three or four enemies in Scour will be massive, she may also put her allies at risk—or even herself, on a critically bad throw.
 
 It should be noted that there's nothing wrong with Katarina's attempt to fit into four of the roles, as long as she accepts the trade-offs she made to do it; and there's nothing wrong with the high-risk, high-reward strategy she's trying to deploy in combat, as long as she accepts the risks associated with it.
 
@@ -84,19 +94,25 @@ Chandra the Drake General is a very focused character: he's a powerful combatant
 He's also a useful *analyst* and a workable *provisioner*.
 
 Chandra is terrifying in battle, and almost as durable as you could want a character to be.
-He has extraordinary innate durability, between his Dragon's Scales, his Bronze Arm (which improves his DUR and Armor), and his Tough trait, and he wears heavy armor (a full suit of plate worn over an arming jacket).
+He has extraordinary innate durability, between his Dragon's Scales, his Bronze Arm (which improves his DUR and Armor), and his Tough trait.
+And he wears heavy armor over it all—a full suit of plate worn over an arming jacket.
 Though he doesn't carry a shield, his AV is still a massive 16 (2 for his scales, 10 for the plate armor, 2 for the quilted armor, and 2 for the bronze arm); this means he has a running shot at negating most of a well-struck short-sword blow, which would do 1d10+3+DB DV at AP -1 (a reasonably-built combatant might have a DB of 6).
-Helping his durability are his high ranks in Fray, and the fact that his bronze arm means that he is always considered armed—and that he can parry with it.
-Equally terrifying is his melee damage: the Bronze Arm can be wielded with either *melee weapons* or *unarmed,* and it gives Chandra +5 STR besides—and General Chandra already had good STR and SOM.
-(Chandra is famous for dropping an enemy lieutenant—a Wolverine shifter—in a single, massive blow.)
+Helping his durability are his high ranks in Fray, and the fact that his bronze arm means that he is always considered armed (and thus he can always defend himself against armed attackers).
+
+Equally terrifying is his melee damage: the Bronze Arm gives Chandra +5 STR, and General Chandra already had good STR and SOM, giving him a massive DB of 8.
+The Bronze Arm is a formidable weapon on its own, but he's also a master swordsman, and he carries a massive two-handed sword of distinctive Dragonshire design.
+Taken together, he deals a massive 2d10+10 DV on a melee attack—plus *even more* if he scores an exceptional success!
+(Chandra is famous for dealing more than 40 DV on a single attack, dropping an enemy lieutenant—a Wolverine shifter—in a single, massive blow.)
 
 Chandra is also a useful *analyst:* he has Knowledge: History, Knowledge: Politics \[Royal Houses\], Knowledge: Siegecraft and Profession: Soldier \[Command\].
-(Don't dismiss these knowledge skills as mere character-building details; they can be invaluable, even game-changing, during any intrigue-focused campaign anywhere in the eastern half of the Emerald Plane—including almost any adventure set in the Kingdoms of Men.)
+(Don't dismiss these knowledge skills—which might seem to be very narrowly focused—as mere character-building details; they can be invaluable, even game-changing, during any intrigue-focused campaign anywhere in the eastern half of the Emerald Plane—including almost any adventure set in the Kingdoms of Men.)
 
 Chandra has both a noble title (as a Lord) and a high military rank (as a General), as well as a fortune to draw on (he has Wealth Level 5); he also has good Protocol, which allows him to effectively tap into all these assets.
-These things can make him a powerful *provisioner*—the ability to call in the Commonwealth military can be a powerful advantage, for obvious reasons.
+These things can make him a powerful *provisioner*.
+(The ability to call on the Commonwealth military can be a particularly powerful advantage, for obvious reasons.)
 
-Chandra is not without his drawbacks, of course: his melee-focused combat strategy requires him to be at the front of the fighting, where even his immense durability will be tested—especially by enemy combatants equipped for an armored opponent, and he will be in trouble indeed if his opponents are armed with guns.
+Chandra is not without his drawbacks, of course: his melee-focused combat strategy requires him to be at the front of the fighting, where even his immense durability will be tested—especially by enemy combatants equipped for an armored opponent.
+(He will be in trouble indeed if his opponents are armed with guns, whose extremely high AP can negate even his armor.)
 His wealth and title also become more difficult to draw on once he leaves the Commonwealth—the title of Lord-General may be all but meaningless in the wilds of the Ruby Plane.
 He also has the *Distinctive* trait, representing both his bronze arm and his far-reaching reputation; this can make him as much a liability as a strength in an intrigue game (at the very least, it requires the party to plan around the need to keep the general stashed somewhere out-of-sight, since he is almost incapable of stealth or deceit).
 
@@ -104,18 +120,19 @@ He also has the *Distinctive* trait, representing both his bronze arm and his fa
 
 ## Impact on GMs
 
-  - GMs should try to balance all 5 roles.
-    
-      - Each is equally important.
-      - Each should get equal time.
-      - Any given challenge should be solvable by several roles.
-      - Obviously, this can’t always be the case; it’s the goal.
+GMs should try to balance all 5 roles.
+Remember,
 
-  - You might have to work hard to shake your D&D instinct to do combat-focused games.
+- each is equally important,
+- each should get equal time, and 
+- any given challenge should be solvable by several roles.
 
-      - A combat-focused game should work well-enough—as well as a diplomacy-focused or crafting-focused game should work—but that *really isn't* what Renaissance is designed to do well.
+Satisfying all these requirements can be tricky—it isn't even always possible!
 
-  - Another D&D instinct you might have to shake is thinking of players who use means other than combat to solve problems as people who are "doing it wrong" or "messing your game up."
+This also means that you might have to work hard to shake some D&D instincts:
+
+- Games shouldn't be *combat-focused*.  Games can have a lot of action—and they can have good combat scenes—but almost-all-combat games really won't work.  The wound and healing rules are major reason for this; you'll find that combat rapidly debilitates your characters, and that they heal very slowly.  This design works *great* to add impact to "fight scenes" in an intrigue or horror game, but very poorly in arcs with lots and lots of fights.
+- Another D&D instinct you might have to shake is thinking of players who use means other than combat to solve problems as people who are "doing it wrong" or "messing your game up."
 
       - In D&D, a character who uses their lawyer backstory to talk their way out of a combat encounter might be *fucking it up;* in Renaissance, they're playing their role *exactly* as intended—and you should do your best to enable that if their approach is reasonable and they're playing it well.
 
