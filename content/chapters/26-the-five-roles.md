@@ -133,12 +133,8 @@ This also means that you might have to work hard to shake some D&D instincts:
 
 - Games shouldn't be *combat-focused*.  Games can have a lot of action—and they can have good combat scenes—but almost-all-combat games really won't work.  The wound and healing rules are major reason for this; you'll find that combat rapidly debilitates your characters, and that they heal very slowly.  This design works *great* to add impact to "fight scenes" in an intrigue or horror game, but very poorly in arcs with lots and lots of fights.
 - Another D&D instinct you might have to shake is thinking of players who use means other than combat to solve problems as people who are "doing it wrong" or "messing your game up."
-
-      - In D&D, a character who uses their lawyer backstory to talk their way out of a combat encounter might be *fucking it up;* in Renaissance, they're playing their role *exactly* as intended—and you should do your best to enable that if their approach is reasonable and they're playing it well.
-
-  - This means that designing Renaissance games becomes complex.
-
-      - Some games that might work as Pathfinder games don't work as Renaissance games.
-      - It's usually a good idea to focus prep time less on specific fights and maps and more on designing a good opponent.
-      - Renaissance games work well with a *live opponent* who's working against the party in response to what they do; that's easier to do if you have a good grip on what the opponent's goal is, what their resources are, and what their history and motivation is.
-
+  - In D&D, a character who uses their lawyer backstory to talk their way out of a combat encounter might be *fucking it up;* in Renaissance, they're playing their role *exactly* as intended—and you should do your best to enable that if their approach is reasonable and they're playing it well.
+- This means that designing Renaissance games becomes complex.
+  - Some games that might work as Pathfinder games don't work as Renaissance games.
+  - It's usually a good idea to focus prep time less on specific fights and maps and more on designing a good opponent.
+  - Renaissance games work well with a *live opponent* who's working against the party in response to what they do; that's easier to do if you have a good grip on what the opponent's goal is, what their resources are, and what their history and motivation is.
