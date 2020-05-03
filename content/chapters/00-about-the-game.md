@@ -90,6 +90,11 @@ We're working on it.
   - and not repeat that information.
   - And to have concrete build guidance and fluff bits.
   - This is going to be an undertaking.
+- There where two Unarmed Combat sections; I merged them, and cleaned up some wording.
+  - I also pulled a crossed-out section out, and moved a design-note aside.
+- Extensive bullet-list-to-text conversion in *Basic Rules*.
+  - complete with editing, sections, examples and asides.
+  - And some text to help describe what the *Common Checks* are supposed to be, with a few cross-references.
 
 ## To-Do
 
@@ -116,6 +121,8 @@ We're working on it.
 - Fill in the *Secrets* section.
 - Finish updating the *From-the-Authors* section,
   - including renaming the file.
+- Right now, the *Basic Rules* chapter is... fucked up and mostly asides.
+  - And right now the definition of "basic proficiency" appears to be in a side-bar, which isn't ideal.
 
 ## Editing Notes
 
@@ -134,6 +141,8 @@ We're working on it.
   - There may not be enough difference between GM Guidance and most Sidebars to give them different colors.
   - Also, the two GM Guidance blocks so far are *really long*, so treating them like a sidebar might not work.
 - ... does anyone know of a gender-neutral replacement for words like "craftsman" and "Swordsman" that won't also result in tortured language?
+- I think I'm going to start using a "bold-at-definition, italics-at-reference" style for keywords.
+  - I'll need to go back and reformat... a christing lot.
 
 ## Contributors
 
