@@ -97,6 +97,8 @@ We're working on it.
   - And some text to help describe what the *Common Checks* are supposed to be, with a few cross-references.
 - Some light editing in the *Combat* section.
 - Added a blank chapter where we're going to talk about what adventures look like.
+- Changed Ground-Explorer to Deep-Explorer.
+- Filled in the *Adventures* chapter a little bit.
 
 ## To-Do
 
