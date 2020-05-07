@@ -700,10 +700,10 @@ While some kings have sought allies among the kings and nobles of the Eastern Ki
 
 The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the sea south of their borders, cutting off an ocean route).
 
-## Ground-Explorer Dwarves
+## Deep-Explorer Dwarves
 
-Ground-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
-"Ground-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
+Deep-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
+"Deep-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves or Ground-Explorers, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
 
 <aside class="floating">
 
@@ -735,9 +735,9 @@ The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven
 ### History
 
 Early in CY 509, a psychically-reactive fungus was discovered underneath an island in the Haven Isles; experiments with this organism eventually spawned the Mindsharing Dwarves, or the *Fahrat*.
-This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Ground-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
+This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Deep-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
 
-The Ground-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the northern end of the Worldspine Mountains.
+The Deep-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the northern end of the Worldspine Mountains.
 They where (and still are) relatively insular, and where not among the Dwarven clans that joined the Commonwealth.
 
 Descendants of another confederation 9 *demarc* \[38km\] to the East had left more than a century prior to settle in the Haven Isles, and it was there that psions and philosophers studying the *Fahra*, the mindsharing fungus, settled.
@@ -800,7 +800,7 @@ The High Road operates here with impunity.
 
 ---
 
-#### Major Character: the Sans-Shelled King
+#### Major Character: the Sand-Shelled King
 
 The Sand-Shelled King is the current king of the Kingdom of Foam and Cloud.
 He is the latest in the line that founded the Kingdom more than two hundred years ago, the line of the Kings-of-Bronze.

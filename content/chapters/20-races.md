@@ -915,21 +915,21 @@ No Mindsharing community has been known to forcefully recruit a member, or force
 Still, there are those that fear them.
 
 Most Mindsharing Dwarves live in the Haven Isles.
-A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them cooly (an understatement in the case of the Ground-Explorer Dwarves).
+A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them cooly (an understatement in the case of the Deep-Explorer Dwarves).
 
-#### Ground-Explorer Dwarves
+#### Deep-Explorer Dwarves
 
-Ground-Explorer Dwarves are a Dwarven subculture that has vanished into the depths, substantially withdrawing from the affairs of surface-dwellers and "shallow diggers".
-The Ground-Explorer Dwarves' origins lie in the *Lun*, a confederation of Dwarven holds in the northeastern peaks of the Worldspine mountains.
+Deep-Explorer Dwarves are a Dwarven subculture that has vanished into the depths, substantially withdrawing from the affairs of surface-dwellers and "shallow diggers".
+The Deep-Explorer Dwarves' origins lie in the *Lun*, a confederation of Dwarven holds in the northeastern peaks of the Worldspine mountains.
 Independent and individualistic, they where not among the holds that joined the Commonwealth.
 In CY 514, a community of Dwarves from the Haven Isles settled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to culture and experiment with the symbiotic organism.
 
 The fiercely individualistic *Lun* where horrified; they feared what their new neighbors might become, and were particularly alarmed that their hold was in a position to close off the *Lun*'s path out of the Worldspine Mountains.
 The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
 
-Today, little is known about the Ground-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
+Today, little is known about the Deep-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
 
-See also *Ground-Explorer Dwarves* in *Other Factions*.
+See also *Deep-Explorer Dwarves* in *Other Factions*.
 
 **Vitals**
 
@@ -1025,9 +1025,9 @@ You are from a community of Mind-Sharing Dwarves.
 - 10 ranks in Protocol
 - 10 ranks in one Technical skill
 
-#### Optional Background: Ground-Explorer Dwarf
+#### Optional Background: Deep-Explorer Dwarf
 
-You are a *Drahrat*—called a "Ground-Explorer" in the Commonwealth.
+You are a *Drahrat*—called a "Deep-Explorer" in the Commonwealth.
 You are from a member of a secretive culture that has vanished deep underground.
 
 - 10 ranks in Ride
@@ -1038,7 +1038,7 @@ You are from a member of a secretive culture that has vanished deep underground.
 
 The Cave-Eyes trait is very common, as are *day-wraps*.
 
-Since the secrets of the Ground-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Ground-Explorers that you will need to account for, or they may not allow you to play a Ground-Explorer at all.
+Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Deep-Explorers that you will need to account for, or they may not allow you to play a Deep-Explorer at all.
 
 ### Gnomes
 
