@@ -81,6 +81,8 @@ The following are examples of *minor* items:
 - a pet (a bird, a cat, a dog, a rat)
 - a common magical potion or item
 - a night in an inn
+- rations for 7 days (see *Travel*)
+- an outfit (may be more or less expensive based on style and quality)
 
 ### Moderate Items
 
@@ -110,22 +112,12 @@ Example *major* items include:
 
 - a shop
 - a home
-- a powerful or unique magical item
+- a powerful or unique magical item (see below)
 - one month’s work by an artisan
-
-<!--
-  - a sword that glows when Orcs are near
-  - a shield that shocks anyone who touches the front
-  - a bow that fires ethereal arrows
-  - a golem arm that is far more durable than the flesh it
-    replaced
-  - to do: move into the magical items section proper. Or
-    weapons.
--->
 
 ### Extreme Items
 
-*Extreme* items are of extraordinary worth&mdash;only available to the most wealthy, they represent fortunes, treasures and power-bases.
+*Extreme* items are of extraordinary worth—only available to the most wealthy, they represent fortunes, treasures and power-bases.
 
 Most *extreme* items are intended to play a major role in how you define your character, possibly opening whole new options up to them; a caravel is among the newest, largest and most capable types of ocean-going vessels, for example, and having one might open up whole new avenues to a player.
 
@@ -149,12 +141,12 @@ A player who has a magic item in mind describes it to the GM, and then the GM an
 There are a few examples throughout this section, but we will provide you with some guidelines below (these guidelines are most applicable to magical weapons).
 
 - **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
-- **Items shouldn't eclipse other options.**  An item you're playing 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a class, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
+- **Items shouldn't eclipse other options.**  An item you're playing 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
   - This is why you shouldn't add a "hard invisibility" cloak.
-- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game&mdash;even though people are going to ask.
+- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game—even though people are going to ask.
   - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
   - Items that give you extra actions or turns in combat are a very bad idea.
-  - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits the game.
+  - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits some deliberate game-design choices.  (If you find yourself in frequent need of an impulse-healing item, consider running your game in a system that's designed to focus on combat-heavy adventures.)
 
 </aside>
 
@@ -167,7 +159,7 @@ So, why are we leaving all this design work up to players (and GMs)?
 One reason is just that *it's a lot of damned work!*
 We're a small team, and creating a large list of diverse, high-quality items would be quite an undertaking!
 
-But there are other reasons too&mdash;and our laziness isn't even the most important one!
+But there are other reasons too—and our laziness isn't even the most important one!
 
 We also don't believe that it's possible to create a list of magical items that is *exhaustive* (in the sense that it covers most of the magical items that people would want) without being *unwieldy* (in the sense that it would be far to vast to be useful).
 Any *very large* list of magical items will encumber *all* players with a huge list of items that they have to navigate, hoping that the item they want is in there *somewhere*.
@@ -187,74 +179,42 @@ and designing those rules such that every item it produces is balanced against a
 
 ## Armors
 
-The following listings are for common types of armor. Each entry is for
-a full *suit* or *set* of the given armor type (that is, helmets,
-gauntlets and grieves are not purchased separately).
+The following listings are for common types of armor.
+Each entry is for a full *suit* or *set* of the given armor type (that is, helmets, gauntlets and grieves are not purchased separately).
+(The list also contains some related garments that provide AV or other useful features.)
 
-Armor is often heavy and cumbersome, and it is not normally possible to
-wear more than one suit of armor at a time. **Layerable** armors are an
-exception: they can be worn under (or sometimes over) other armors to
-provide an additional benefit. Besides your primary armor, you can wear
-a second set of armor under or over it, but only if the second set has
-the layerable tag.
+Armor is often heavy and cumbersome, and it is not normally possible to wear more than one suit of armor at a time.
+**Layerable** armors are an exception: they can be worn under (or sometimes over) other armors to provide an additional benefit.
+Besides your primary armor, you can wear a second set of armor under or over it, but only if the second set has the layerable tag.
 
-Most people only wear armor if they are either going into battle or are
-performing some ceremonial role; wearing armor while eating, dinner or
-doing business would be considered extremely unusual at best (which
-might impose penalties to social skills checks, and would make it nearly
-impossible to blend into a crowd). **Sociable** armors are an exception;
-either because they are accepted as normal attire in some cultures, or
-because they are not obvious as armor, they can be worn in social
-situations without seeming strange.
+Most people only wear armor if they are either going into battle or are performing some ceremonial role; wearing armor while eating, attending a reception, doing business, or otherwise going about your business would be considered extremely unusual at best (which might impose penalties to social skills checks, and would make it nearly impossible to blend into a crowd), and might be interpreted as a threat at worst.
+**Sociable** armors are an exception; either because they are accepted as normal attire in some cultures, or because they are not obvious as armor, they can be worn in social situations without seeming strange.
+(The **Sociable** tag is potentially dependant on the culture and situation; in some situations, the GM may declare that it does not apply.)
 
-Some armors provide protection at the cost of impairing movement,
-whether by virtue of being heavy, or rigid, or awkwardly placed; these
-armors have the **Cumbersome** tag.
+Some armors provide protection at the cost of impairing movement, whether by virtue of being heavy, or rigid, or awkwardly placed; these armors have the **Cumbersome** tag.
+(The exact penalty or penalties will be listed separately.)
 
-Most armors cover most of the wearer’s body, including their head and
-extremities. Some armor, however, leaves large portions of the wearer
-exposed; these armors have the **Exposed** tag.
-Armors with the *exposed* tag are particularly vulnerable to those attempting to *strike an armor gap* (see the maneuver, in *Combat*).
+Most armors are assumed to represent a complete suit of armor of a consistent construction—for example, a whole suit of plate, including helmets, gauntlets and grieves, or an entire coat of mail, covering a user to the thigh and including sleeves.
+Some armor, however, consist of different components, such as pairing plate at the arms and legs with a brigandine chest-piece.
+These armors have the **Composite** tag.
 
-<!--
-It was “Armor with the Exposed tag provides no protection on a critical
-hit,” but I think that’s too extreme if we want people to actually use
-partial plate. Honestly, at this point, I think maybe some of these tags
-don’t need a fixed rule, so I might just ad-hoc it for the Partial
-Plate.
--->
+Most armors cover most of the wearer’s body, including their head and extremities.
+Some armor, however, leaves large portions of the wearer exposed; these armors have the **Exposed** tag.
+Armors with the *exposed* tag are particularly vulnerable to those attempting to *strike an armor gap* (see the maneuver, in *Combat*), and may impose other penalties as well (listed separately.)
 
-Some armor (and other outfits) are particularly good at concealing their
-wearer. Armor with the **Stealthy** tag provides the wearer with a +10
-bonus to Stealth checks.
+Some armor (and other outfits) are particularly good at concealing their wearer.
+Armor with the **Stealthy** tag provides the wearer with a +10 bonus to Stealth checks.
 
-Similarly, some armors (and other garments) obscure the wearer, making
-it difficult to identify them. Armor with the **Concealing** tag
-provides the wearer with a +10 bonus when attempting to blend into a
-crowd. They also imposes a -20 penalty on characters making Perception
-to pick the wearer out of a crowd, they make it impossible to detect
-items concealed with Slight of Hand, and impose a -30 penalty on Read
-checks made against the wearer. These penalties do not apply to
-characters who can stop and search the wearer, such as a captor.
+Similarly, some armors (and other garments) obscure the wearer, making it difficult to identify them.
+Armor with the **Concealing** tag provides the wearer with a +10 bonus when attempting to blend into a crowd.
+They also make it impossible to detect items concealed with Slight of Hand, and impose a -30 penalty on Read checks made against the wearer.
+(These bonuses only apply to casual inspection—such as passing a character in a crowd.
+They do not apply to detailed inspection—such as if a character is being searched.)
 
-I’m not sure what to do with the ~~Concealable~~ Stealthy tag. One
-solution is to add an implicit stealth *penalty* to every other armor; I
-don’t like that because it reinforces the whole “no armor for stealth
-characters” thing (which might make sense but still feels formulaic). On
-the other hand, if we add a stealth bonus to leather armor, that really
-doesn’t make sense either: why would wearing leather armor be stealthier
-than wearing, say, black clothing? We could fix *that* by adding a
-“sneak suit” that’s just dark or camoflaged clothing and provides a
-stealth bonus, but now every stealth build has a fixed +10 stealth bonus
-from one of those items. Of all of those, I think I hate the last one
-the least. … oh fuck, if we add a stealth suit, we’ll have to have a
-rule somewhere that you can’t wear it with armor.
-
-Some armor is especially visible, ostentatious or prominent; this is
-often true of armors that have a ritual or ceremonial role, or armors
-that are commonly worn during competition. Characters wearing armor with
-the **Proud** tag will stand out in combat, and may be more likely to be
-targeted by an enemy. This tag may not do enough to keep.
+Some armor is especially visible, ostentatious, or prominent; this is often true of armors that have a ritual or ceremonial role, armors that prominently bear the insignia of some clan or organization, or armors that are commonly worn during competition.
+These armors have the **Proud** tag.
+Armor with the *Proud* tag can provide bonuses or penalties in social situations, depending on the associations that other characters have with the armor or its insignia; this is at the GM's discretion.
+In combat, opponents may view a character wearing *Proud* armor as particularly prominent or threatening, and thus be more likely to focus on that character.
 
 ### Quilted Armor
 
@@ -286,32 +246,45 @@ Tags: Stealthy
 
 ### Mail Armor
 
-A flexible covering of metal made of interlocking rings. Intricate, but
-relatively quick to weave and manufacture from the proper wire stock and
-effective at stretching limited supplies of metal. Though its
-flexibility makes it easier to wear, mail hangs heavily from the
-wearer and is less effective at dispersing impacts.
+A flexible covering of metal made of interlocking rings, mail armor has been in use in one form or another for more than 800 years.
+Mail is relatively quick to weave and manufacture from the proper wire stock, so it is effective at stretching limited supplies of metal.
+It's flexibility makes it easy to wear, and it means that it can be made large enough to cover most of the wearer's body without limiting mobility or requiring careful fitting and manufacture; however, mail hangs very heavily from the wearer, which impedes useful mobility in its own way.
+Mail is also relatively bad at distributing impacts, and resisting modern arrowheads and lances; for this reason, those who can afford to do so are shifting to plated armors.
 
 Armor Value: 5 AV
 
-Drawbacks: -5 to checks that include your COO.
+Drawbacks: -5 to checks that include your COO
 
-Tags: Heavy
+Tags: Cumbersome, Heavy
+
+### Mail Armor Rev
+
+A flexible covering of metal made of interlocking rings, mail armor has been in use in one form or another for more than 800 years.
+Mail is relatively quick to weave and manufacture from the proper wire stock, so it is effective at stretching limited supplies of metal.
+It's flexibility makes it easy to wear, and it means that it can be made large enough to cover most of the wearer's body without limiting mobility or requiring careful fitting and manufacture; however, mail hangs very heavily from the wearer, which impedes useful mobility in its own way.
+Mail is also relatively bad at distributing impacts, and resisting modern arrowheads and lances; for this reason, those who can afford to do so are shifting to plated armors.
+
+Armor Value: 6 AV
+
+Drawbacks: -5 to checks that include your COO
+
+Tags: Cumbersome, Heavy, Vulnerable: Impact (-2 AV), Vulnerable: Piercing (-3 AV)
 
 ### Brigandine
 
-Something of a mid-point between mail and plate armors, brigandine armor
-consists of oblong, overlapping metal plates molded to the wearer. There
-are a number of methods for holding the plates in place; one common
-technique is to rivet them to a leather or fabric vest, providing a
-distinctive appearance. It is somewhat easier to slip between the
-individual plates with piercing weapons.
+*Brigandine armor is representative of a wide variety of "intermediate" armors based on the composition of many smaller plates with other materials, like layers of mail, leather, or plate.*
+*This entry can be adapted to produce lamellar armor, laminar armors, a coat-of-plates, or other broadly similar armors.*
 
-Armor Value: 7 armor
+Brigandine armor is one among several varieties of armors that make use of *metal plates* to improve protection.
+Brigandine armor consists of small, oblong metal plates riveted to the outside of a leather garment.
+Brigandine armor provides improved protection over mail, while being cheap and easy to produce—although it still requires access to good-quality steel plates, and the highest-quality armors still require those plates to be fitted to the wearer.
 
-Drawbacks: -10 to checks that include your COO.
+Brigandine armor is in wide use in the Commonwealth.
+It became the standard armor for the Commonwealth's armies more than 180 years ago; only within the last 30 years as the Commonwealth begun to replace brigandine armor with solid plate even for its common soldiery.
 
-Tags: Heavy
+- Armor Value: 7 armor
+- Drawbacks: -10 to checks that include your COO.
+- Tags: Composite, Cumbersome, Heavy
 
 <!--
 ### Partial Plate (Original)
@@ -347,63 +320,102 @@ worn with Full Plate.
 Tags: Layerable, Proud
 -->
 
+### Raider's Armor
+
+*Raider's armor is an example variant armor, based on Brigandine.*
+*It is similar to Brigandine, but is easier to manufacture—especially if you're scavenging components.*
+*It is commonly worn by Shade Elven raiders.*
+
+Raider's armor is a style of armor commonly worn by Shade Elves.
+It has replaced iron mail jackets and coats as the Shade Elves' enemies have begun to use more powerful and effective weapons.
+
+Raider's armor is multi-layered; it consists of metal plates, riveted to an outer layer of leather and covered on the inside by a layer of fabric.
+(Silk is often used, as it's believed to better bind arrows as they strike, making them easier to remove.)
+This armor allows the Shade Elves to make use of metal plates for armor, while still remaining relatively light, flexible, and easy to manufacture and wear.
+
+The components can vary; the Shade Elves have poor access to steel, so the inner plates are often made of iron, cured leather, or even wood.
+Shade Elves also often scrap captured Commonwealth steel armors to make Raider's armor; Commonwealth plates are often fitted to Gnollish or Drake wearers, which Shade Elves cannot conceivably wear.
+(One notable benefit of riveting the plates on the *inside* is that an attacker does not necessarily know how many plates are present, what their extent is, or what they are made of.)
+
+- Armor Value: 4 AV (Wood or Leather), 7 AV (Iron or Steel)
+- Drawbacks: -10 to checks that include your COO.
+- Tags: Composite, Cumbersome, Heavy
+
+### Imperial Armor
+
+*Imperial Armor is an example variant armor, based on Brigandine armor.*
+*It requires more maintenance and is more difficult to make, but it provides good protection, and it travels better because it can be broken into segments which collapse on themselves.*
+*It is commonly worn by the soldiers of the Goblin Empire.*
+
+Imperial Armor is a distinctive style of armor worn by the soldiers of the Goblin Empire.
+As much as an improvement in technology, it represents the rapid increase in wealth in the Goblin Empire and the strides the Empire has made in consolidating power under their banner.
+
+The Second High Kingship of the Kingdom of Men took a toll on the Goblins; for centuries after, high-quality metal armors became a scarcity, as the relatively poor and unorganized Goblin Kingdoms outfitted their various troops with a range of armors, often of hide or light mail.
+As the Goblin Empire has grown wealthy from the conquest of the Ruby Plane, metal armors have become more common—and as the Empire has slowly shifted power from the Goblin Kings and Warlords to its own bureaucracy, it has increasingly standardized the equipment and training of its troops.
+
+Imperial armor is made out of a series of horizontal steel bands, overlapping at the bottom; these are attached to vertical strips of leather.
+(These strap are thick, which lifts the steel plates slightly off the chest and back of the wearer; this is important to keep the plates from catching on the plates of the goblin's own bony segmented plates.)
+The shoulders feature their own, larger plates, "sleeves" of smaller plates protect the arms (and, rarely, thighs).
+
+The design of this armor allows the Empire to field steel plate armors, without requiring that a single solid plate be individually fitted to its wearer.
+The armor also travels well, because it can be "collapsed"—where the plates stack over the top of each other.
+The rows of plates typically do not meet along the sides under the arms, so it is also light and breaths relatively well—especially since Imperial troops usually do not wear layers of leather or cloth beneath it as the soldiers of the Kingdoms or Commonwealth do.
+
+On the down-side, this armor also doesn't completely cover the wearer: it doesn't cover the legs or under-arms, and leaves plenty of prominent gaps.
+This problem is mitigated in practice, because Imperial troops are normally issued large, curved shields, and they rely on these shields (and close formation) to provide primary defense.
+
+- Armor Value: 7 AV
+- Drawbacks: -5 to checks that include your COO.  This armor's AV is reduced by 2 if the attacker scores an Exceptional or Critical success.
+- Tags: Cumbersome, Exposed, Heavy
+
 ### Partial Plate
 
-Consisting of steel plates and leather straps, partial plate protects
-only parts of the wearer. The typical layout will cover the throat,
-shoulders, arms and shins in plate, though other arrangements exist,
-including single plates directly over the heart and kidneys, or
-gladiator sleeves.
+Consisting of steel plates and leather straps, partial plate protects only parts of the wearer.
+The typical layout will cover the throat, shoulders, arms and shins in plate, though other arrangements exist—including single plates directly over the heart and kidneys, or gladiator sleeves.
 
-Armor Value: 6 AV
-
-Drawbacks: This armor’s AV is reduced by 3 if the attacker scores an
-Exceptional of Critical Success.
-
-Tags: Exposed, Proud
+- Armor Value: 6 AV
+- Drawbacks: This armor’s AV is reduced by 3 if the attacker scores an Exceptional or Critical Success.
+- Tags: Exposed, *Proud* (Optionally)
 
 ### Full Plate
 
 A full set of plate armor is among the best protection available.
-Coating the wearer's body in solid plates of refined steel, it is worn
-by the noble knights of the Dragonshire and Kingdoms, and by the
-Commonwealth’s fearsome shock troops. The weight of the metal armour
-makes some motions sluggish, but does not impair gross agility or
-strength.
+Coating the wearer's body in solid plates of refined steel, it is worn by the noble knights of the Dragonshire and Kingdoms of Men, and by the Commonwealth’s fearsome elite soldiers and shock troops.
+The weight of the metal armour makes some motions sluggish, but does not impair gross agility or strength.
 
-Armor Value: 10 AV
+- Armor Value: 10 AV
+- Drawbacks: -10 to checks that include your COO, -2 INIT
+- Tags: Concealing, Cumbersome, Heavy, Proud
 
-Drawbacks: -10 to checks that include your COO, -2 INIT
+### Full Plate Rev
 
-Tags: Concealing, Heavy, Proud
+A full set of plate armor is among the best protection available.
+Coating the wearer's body in solid plates of refined steel, it is worn by the noble knights of the Dragonshire and Kingdoms of Men, and by the Commonwealth’s fearsome elite soldiers and shock troops.
+The weight of the metal armour makes some motions sluggish, but does not impair gross agility or strength.
+
+- Armor Value: 10 AV
+- Drawbacks: -5 to checks that include your COO
+- Special: suits of Full Plate are Cost: Major
+- Tags: Concealing, Cumbersome, Heavy, Proud
 
 ### Heavy Cloak
 
-Outwear made of heavy, dense material, commonly worn by travelers and
-soldiers alike. They are often enchanted or emblazoned with badges or
-symbols of position and power.
+Outerwear made of heavy, dense material, commonly worn by travelers and soldiers alike.
+Some are emblazoned with badges of office, crests, or other symbols of power and prestige; others are made in muted colors, designed to make the wearer inconspicuous.
 
-Armour Value: 1 AV
-
-Drawbacks: None
-
-Special: Heavy Cloaks are Cost: Low
-
-Tags: Concealing, Layerable, Sociable, Stealthy
+- Armour Value: 1 AV
+- Drawbacks: None
+- Special: Heavy Cloaks are Cost: Minor
+- Tags: Concealing, Layerable, *Proud* (Optionally), Sociable, *Stealthy* (Optionally)
 
 ### Stealth Suit
 
-Individuals and cultures throughout the known world have developed
-outfits designed for stealth, from webbing fastened with leaves and
-foliage to simple dark clothing.
+Individuals and cultures throughout the known world have developed outfits designed for stealth, from webbing fastened with leaves and foliage to simple dark clothing.
 
-Armor Value: 0 AV
-
-Drawbacks: None
-
-Special: Sneak Suits are Cost: Low
-
-Tags: Concealing, Layerable, Stealthy
+- Armor Value: 0 AV
+- Drawbacks: None
+- Special: Sneak Suits are Cost: Minor
+- Tags: Concealing, Layerable, Stealthy
 
 ## Shields
 
@@ -636,7 +648,7 @@ messages.
 When thrown, knives use the normal range-brackets for a thrown object,
 see Thrown Weapons in Combat.
 
-Tags: One-handed, Off-Hand, Thrown, Bladed, Small, Soak, Utility
+Tags: One-handed, Off-Hand, Thrown, Bladed, Small, Soak, Utility, Close
 
 Damage: 1d10-1+DB (one-handed and thrown)
 
@@ -655,7 +667,7 @@ Notably, many Shade Elves practice an energetic and mobile fighting
 style that uses daggers; the style has been inherited (and modified) by
 Ash Elves as well.
 
-Tags: One-handed, Off-hand, Bladed, Small, Soak, Defensive, Utility
+Tags: One-handed, Off-hand, Bladed, Small, Soak, Defensive, Utility, Close
 
 Damage: 1d10+1+DB
 
@@ -820,6 +832,20 @@ Tags: One-Handed, Two-Handed, Thrown, Easy, Fend
 Damage: 1d10+2+DB (one-handed and thrown), 1d10+5+DB (two-handed)
 
 AP: 2
+
+### Improvised Spear
+
+Similar to a short-spear, but improvised—made quickly, possibly without being treated, probably without a metal tip.
+
+Tags: One-Handed, Two-Handed, Thrown, Easy, Fend, Fragile
+
+Damage: 1d10+2+DB (one-handed and thrown), 1d10+5+DB (two-handed)
+
+AP: 1
+
+Special: on a critical failure, an *Improvised Spear* is likely to break, rendering the weapon useless.
+
+Special: An improvised spear is Cost: Low.
 
 ## Two-Handed Weapons
 
@@ -1052,15 +1078,11 @@ to drive a projectile.
 
 ### Light Bow
 
-Light bows are small bows suitable for a wide variety of uses; the class
-includes modern composite bows, recurve bows, traditional short cavalry
-bows, and many others. The tactical flexibility of light bows is only
-amplified by the use of specialized arrows.
+Light bows are small bows suitable for a wide variety of uses; the class includes modern composite bows, recurve bows, traditional short cavalry bows, and many others.
+The tactical flexibility of light bows is only amplified by the use of specialized arrows.
 
-Both Wood and Shade elves commonly use shortbows—wood elves for their
-lightness and flexibility while hunting, and shade elves as mounted
-weapons for their infamous cavalry. Shade Elf mounted archers remain
-terrifying soldiers in service of the Shaded Sea Peoples.
+Both Wood and Shade elves commonly use light bows—wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous cavalry.
+Shade Elf mounted archers remain terrifying soldiers in service of the Shaded Sea Peoples.
 
 Tags: Two-Handed, Ranged, Special Ammunition, Cavalry
 
@@ -1071,6 +1093,20 @@ AP: 2
 Range: 50m/100m/150m/200m
 
 Reload: no action (you can select, ready and nock an arrow as part of an
+attack)
+
+### Composite Bow Rev
+
+Composite bows are made of several materials in layers—often bone on the back and sinew on the front—which allows the bow to store more energy in a smaller package with a shorter draw.
+This makes these bows particularly small, and thus well-suited for use by cavalry (and others who value the small size of the weapon).
+
+Both Wood and Shade elves commonly use light bows—wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous and devastating cavalry.
+
+- Tags: Two-Handed, Ranged, Special Ammunition, Cavalry
+- Damage: 2d10-1+DB
+- AP: 2
+- Range: 50m/100m/150m/200m
+- Reload: no action (you can select, ready and nock an arrow as part of an
 attack)
 
 ### Longbow
@@ -1189,6 +1225,33 @@ Range: 10/20/40/80
 
 Reload: no action (you can select a projectile, pouch it, and start
 swinging as part of the attack)
+
+### Special Arrows
+
+The following *special arrows* can be used with composite bows and longbows:
+
+- **Diamond**: *Diamond* arrows are named for the cross-section of the arrowhead, not the material they're made of (they're just wood, with a steel arrowhead).  Diamond arrows are particularly good at penetrating armor.  Diamond arrows have +2 AP and gain the *Piercing* tag.  Diamond arrows are Cost: Minor for 6 arrows.
+- **Improvised**: *improvised* arrows are hastily constructed; they might not be properly fletched, and they might not even have a metal tip.  They do -1 DV and have -1 AP; if they aren't even properly fletched, they impose a -10 penalty to the attack check.  Improvised Arrows are Cost: Minor for 12 arrows.
+- **Broadhead**: *broadhead* arrows have large heads that trail *edges* that can be sharpened.  Broadheads are particularly good at wounding flesh, and often cause bleeding.  Broadhead arrows do +1 DV, and cause *Bleeding 1* on an exceptional or critical success.  On the down-side, their large heads are somewhat more expensive.  Broadhead arrows are Cost: Minor for 4 arrows.
+- **Needle**: *needle* arrows have an extremely narrow circular cross-section, like a needle.  They are cheap to make, they are good at penetrating armor, and they fly further (owing to the lower drag).  On the down-side, though, they are easy to deflect if they do not strike head-on.  Needle arrows are AP 3, have the *Piercing* tag, and gain +25m to each range increment.  If the attacker only scores a normal success, their DV is halved.  Needle arrows are Cost: Minor for 8.
+- **Blunts**: *blunt* arrows are designed to *stun* a target, rather than kill it.  Rather than being sharpened to a point, blunt arrows are… blunted.  Some are even covered with hide, wadding, or another soft material.  (Of course, users should be aware that any time you're causing trauma to a target, serious injury and death are always possibilities.)  Blunt arrows halve the DV they do and are AP 0.  Blunt arrows are Cost: Minor for 6.
+
+As always, this list is not exhaustive; players and GMs should feel free to add more as desired.
+
+<aside class="playerguidance">
+
+*Improvised arrows* are listed even though we don't track "normal" ammo consumption, because you never know when you'll have your arrows stolen, or when the GM will declare that, over the course of the last month of travel, you've definitely run out of arrows.
+
+</aside>
+
+<aside class="designnote">
+
+As-written, these arrows can't be used with crossbows, because we assume that that crossbow bolts have very different *terminal ballistics* that impose tighter constraints on how their bolt-heads can be designed and how differently they can perform.
+Basically, they travel faster and strike harder, so the heads probably have to be designed more similarly to punch through armor.
+
+Of course, "we" (meaning the lead author) could *very easily* be wrong about this—or ths might just be boring—so GMs and players should feel free to disregard this restriction.
+
+</aside>
 
 ## Exotic Weapon
 
