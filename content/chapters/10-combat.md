@@ -2,74 +2,135 @@
 title: "Combat"
 ---
 
-## Overview
+Unlike other parts of the game, *Combat* has fairly specific rules.
 
-Combat is a special case of Turn Order play, using the following rules:
+## Taking Turns
 
-  - Initiative Modifier: your initiative modifier (INIT) is (INT + COO)
-    ÷ 5
-    
-      - see the Derived Stat in *Character Creation*.
+Combat is a special case of *Turn Order* play (see *Basic Rules*) using the following structure:
 
-  - Action allotment
-    
-      - one Standard Action and one Quick Action, or
-      - three Quick Actions
-      - since Task Actions are not given in the action allotment, Task
-        Actions are not tracked during Combat; see *Turn Order Play*.
+- **Initiative Modifier**: in combat, a character's *Initiative Modifier* (INIT) is their (INT + COO) ÷ 5 (see the Derived Stat in *Character Creation*).
+- **Action allotment**:
+  - either one *Standard Action* and one *Quick Action*, or
+  - three Quick Actions.
 
-  - In combat, a turn is about 3 seconds; therefore, there are 20 turns
-    in a minute.
+Since *Task Actions* are not given in the action allotment, Task Actions are not tracked during Combat; see *Turn Order Play*.
+In combat, a turn is about 3 seconds; therefore, there are about 20 turns in a minute.
 
-  - Unlike many other areas of the game, Combat has fairly specific
-    rules about what characters can and cannot do.
+## Useful Terms
 
-### Useful Terms
+Let's define a few useful terms; these terms don't have fixed effects we're going to discuss now, although other powers or rules may refer to them.
 
-  - These aren’t really useful here, but having them defined will make
-    some powers a little easier to write. Remove / move?
-  - Threatened: we say that you *threaten* an opponent if you could make
-    a melee attack against them; you usually threaten opponents if they
-    are next to you.
-  - Bloodied: we say that a character is *bloodied* if they have taken
-    DV exceeding half their DUR.
+- **Threatened**: we say that you *threaten* an opponent if you could make a melee attack against them; you usually threaten opponents if they are next to you, although some weapons (like those with the *Reach* tag) may allow you to threaten a character further away.
+- **Bloodied**: we say that a character is *bloodied* if they have taken DV exceeding half their DUR.
 
-## The Combat Grid and Movement
+## The Combat Grid
 
-  - Combat Grid
-    
-      - positions in combat are usually tracked using a *square grid*,
-        with each square representing a 1 meter square.
-      - Most creatures (those that are Small-, Normal- or Large-sized)
-        usually take up one square, and can reach the adjacent squares
-        (to attack them, for example).
-      - Distances (like ranges) are usually measured directly and then
-        rounded to the nearest whole meter. Distance while moving
-        depends on the exact path traveled (in this case, “diagonal
-        steps” count as traveling 1.5 meters).
-      - Traditionally, *facing* is not tracked.
-      - Though we will assume a combat grid with one-meter squares in
-        this guide, nothing prevents you from using other combat
-        systems—like hex-grids or miniatures—as long as the rules for
-        measuring distance, determining reach and tracking movement are
-        well-defined.
+We usually track positions and movement in combat using a *square grid*, with each square being 1m to a side.
+Most creatures (those that are Small-, Normal- or Large-sized) usually take up one square, and can reach (and thus threaten) the adjacent squares.
+Distances (like ranges for attacks) are usually measured directly and then rounded to the nearest whole meter.
+(That is, we usually use a *euclidian* metric; this is different from some other games.)
+Distances while moving are also directly measured, although they depend on the exact path travelled (if you can't easily measure a path, you can break it into "cardinal" and "diagnoal" steps, and assume that a "diagonal step" covers 1.5 meters).
 
-  - Movement
+Traditionally, the direction a character is *facing* is not tracked.
 
-      - As a quick action, you may *move* using one of your movement rates.
-        - You can move up to either your *base* or *full* movement rate for one of your movement modes.
-        - If you move at your *full* movement rate, you suffer a -10 penalty to all Physical actions until your next turn.
-      - As a quick action, you may *charge*.
-        - Charging works much like moving at your full movement rate: you may move up to your full movement rate, and you suffer a -10 penalty to all Physical actions until your next turn.
-        - See *Charging* and *Bracing* below for more information.
-      - You may also perform *Stunts*.
-        - “Stunts” are used when your character attempts unusual, difficult maneuvers—when they jump, tumble, flip, climb (if they don’t have a climb speed), swing and so on.
-        - The type of action varies: rolling under a hazard might be a quick action, but climbing a trellis might be a standard action (for a character without a climb speed).
-        - How far the character is moved will also vary (in general, GMs should move characters by either their base or full rates).
-        - Stunts almost always require a test using an appropriate movement skill (this is usually Athletics for humanoid creatures).
-        - Stunts may have other affects as well (a dive-and-roll may allow you to end your turn prone behind cover, a flip off a table may allow you to cross over an enemy and land facing their back).
-      - You can only use an action to move once during your turn.
-        - (This doesn't count effects that move you without requiring an action on your part, such as being pushed, being teleported, or falling.)
+<aside class="designnote">
+
+Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems—like hex-grids or miniatures—as long as the rules for measuring distance and determining movement are well-defined.
+Supporting these kinds of scenarios are why we've tried to give all distances in *meters* rather than *squares*.
+
+</aside>
+
+## Moving Around
+
+### Movement Modes
+
+As a quick action, a character may *move* using one of their *movements modes*.
+Movement modes have a *base* and *full* rate; they can move up to their *full rate*, but if they move more than their *base* rate, they take a -10 penalty to all physical actions until the beginning of their next turn.
+(Essentially, you can walk or run, but running imposes a -10 penalty.)
+
+### Stunts
+
+Characters can also perform *stunts*.
+**Stunts** are used when your character attempts unusual, difficult maneuvers—when they jump, tumble, flip, climb (if they don’t have Climb as a movement mode), swing and so on.
+
+The details of stunts are largely left open to the imagination of players and the discretion of GMs.
+The type of action varies: rolling under a hazard might be a quick action, but climbing a trellis might be a standard action (again, for a character without Climb as a movement mode).
+Similarly, how far the character is moved will also vary (in general, GMs should move characters by either their base or full rates).
+Stunts almost always require a test using an appropriate movement skill (this is usually Athletics for humanoid creatures).
+
+Stunts may have other affects besides simply moving a character; a dive-and-roll may allow a character to end their turn prone behind cover, for example, or a flip off a table may allow a character to vaults over an enemy and land facing their back.
+
+Examples for a *Humanoid* character are given in the table below:
+
+| Stunt | Check | Result |
+| ----- | ----- | ------ |
+| Vaulting a *fence* or *counter* | Athletics (Parkour) at +10 | Clear obstacle while keeping *momentum* |
+| Diving Roll | Athletics (Parkour) | Advance several spaces while avoiding attacks, clear a low obstacle |
+| Corner Wall Kick | Athletics (Parkour) | Move around a character quickly, attacking from behind |
+
+### Unusual Movement
+
+Sometimes, characters might attempt to move in a way that isn't directly covered by one of their *Movement Modes*; we call this **unusual movement**.
+If a Human climbs a tree, a Herder crawls along the ground, or a Clay Man attempts to support itself on two psuedopods and "walk" like a humanoid, then they are using *unusual movement*.
+
+Unlike a *stunt*, unusual movement isn't necessarily difficult, and so it usually *doesn't* require a check—although it might require *basic proficiency* in an appropriate skill (like *Athletics*) and it might require a specific *proficiency*.
+
+Unusual Movement is usually less efficient than movement directly covered by a movement mode.
+Characters using unusual movement usually move at half the base rate for their *most applicable* movement.
+(For a *Humanoid* character, this is usually their *Foot* movement.)
+Unusual movement is also often exhausting; characters can't usually use unusual movement to cover great distances (at least without requiring an athletics check).
+
+Of course, the unusual movement that a character wants to use has to be physically possible; a Human character can't choose to *flap their arms and fly* as an unusual movement.
+
+Examples for a *Humanoid* character are given in the table below:
+
+| Unusual Movement | Rate                | Tags       |
+| ---------------- | ------------------- | ---------- |
+| Climbing         | (Base for Foot) ÷ 2 | Exhausting |
+| Swimming         | Base for Foot       | Exhausting |
+| Crawling         | (Base for Foot) ÷ 2 |            |
+
+### Charging
+
+Sometimes you want to have some momentum behind a blow.
+A character can declare a *charge* before they move; they can then move up to the *Full* rate for the movement mode they're using to charge.
+Because a charging character is attempting to build up momentum, they will always be treated as if they had moved more than their *base* rate (and thus take a -10 penalty to their physical actions) regardless of how far they actually move.
+(A "charging move" otherwise uses all the normal rules for movement, and is a Quick Action)
+
+After declaring a charge, if the character then moves *far enough to build up speed* (usually 3m), they then deal +DB DV to all their (physical, melee) attacks for the remainder of their turn.
+
+<aside class="playerguidance">
+
+There are some "they cans" and "if thens" above; let's walk through that.
+A turn is a *Quick Action* and a *Standard Action*; that means that, in practice, a player declares a charge, moves up to their full movement (a Quick Action), and then makes an attack (a Standard Action).
+That attack check has a -10 penalty (for the Full movement), but deals +DB DV.
+
+Note that they deal +DB DV to *all* their physical attacks.
+If a character makes *more than one attack* (as they can if they have *more than one weapon*, see below), then each attack gets the +DB DV (and each attack check takes the -10 penalty for the movement, on top of any other penalties for wielding multiple weapons and making multiple attacks).
+
+</aside>
+
+<aside class="designnote">
+
+This implementation of charging is a bit out of place.
+
+Most mechanisms we've been able to package into fairly atomic actions; charging is an exception.
+Charging isn't one action; instead, it's a thing you declare at the beginning of your turn, that then adjusts your damage at the end, *if* you meet some conditions.
+
+Charging is something of a least-bad design; we're working on it.
+
+</aside>
+
+Characters can *brace* to receive a charge; see *Receiving a Charge*, below.
+
+### The "Single-Movement" Rule
+
+Normally, a character is only allowed to use *one* of their *actions* to move in any given turn; that is, they cannot use three Quick Actions to move with a Movement Mode three times, for example.
+We call this the **Single-Movement Rule**.
+
+The Single-Movement Rule is subject to the **Follow-Through Exception**.
+At the GM's discretion, a character can use one of their *Movement Modes* immediately before or after using some *Stunts*.
+For example, a character could use a Quick Action to *run*, and then use another *Quick Action* to perform a *hand-spring* (as a *Stunt*); or they could use a *Quick Action* to vault a counter (as a *Stunt*), and then break into a run (as a *Quick Action*).
 
 ## Attacking
 
@@ -418,106 +479,60 @@ If you don’t have the Ambidextrous trait, you're wielding two one-handed weapo
 
 ## Resistance and Vulnerability
 
-  - Resistance and Vulnerability:
-    
-      - some creature, objects or armors will have a Resistances and
-        Vulnerabilities
-    
-      - The Resistance or Vulnerability will name the keywords to which
-        they apply – for example, Resistance: Fire or Vulnerability:
-        Cold. If an attack is *resisted*, then its effects are reduced;
-        if a creature is *vulnerable* to an attack, then its affects
-        will be increased.
-    
-      - Option 1:
-        
-          - Attacks, powers and other affects will specify what happens
-            when they are *resisted*, or when a target is *vulnerable*
-            to them.
-        
-          - Normally, if an attack does DV, then:
-            
-              - the DV is *halved* if it is *resisted*, or
-              - the DV will be *doubled *if the target is *vulnerable*.
-        
-          - In some ways the ideal version, but bad because now every
-            power has to have Resist and Vulnerable lines; just don’t
-            wanna fuck with it.
-    
-      - Option 2: if the target is Vulnerable, they get -20 to their
-        check; if they are Resistant, they get a +20 bonus. That spare
-        me having to do Vulnerable and Resisted lines for each power.
-        
-          - Problem is that some powers don’t have checks. Also it’s
-            just not very exciting.
-    
-      - Option 3:
-        
-          - ~~if the defender is Vulnerable to a power, then Success are
-            treated as Exceptional Successes, and Exceptional Successes
-            are treated as Criticals.~~ If the defender is vulnerable to
-            an attack, effect or power, then the attacker’s checks are
-            Upgraded.
-          - ~~If the defender is Resistant to an effect, then
-            Exceptional Successes and Criticals are treated as regular
-            Successes.~~ If the defender is Resistant to an effect, then
-            the attacker’s checks are Downgraded.
-          - This sounds both Exciting and Easy without introducing new
-            rules, but it’s vulnerable to the same thing that Option 2
-            is; not every power will have a check (or a specific result
-            on a critical).
-    
-      - Option 4
-        
-          - D\&D 5 style
-          - if you resist, roll damage dice twice and take the lowest.
-          - If you are vulnerable, roll damage dice twice and take the
-            highest.
-    
-      - Option 5: the resist or vulnerable line will say what happens.
-        
-          - So some might just be “-2 DV” or “+3 DV”, while others might
-            be “÷2 or “×3” or “catches fire” or “melts”.
-          - I like that actually.
+Some creature, objects or armors have special **Resistances** or **Vulnerabilities**.
+The Resistance or Vulnerability will name the *Tags* to which they apply, and what affect the resistance or vulnerability has; any attack or effect that matches the *tag* will then be modified as specified.
+For example, "Resistance: Fire (DV÷2)" would mean that any damage done with an attack (or effect) with the *Fire* tag is halved; "Vulnerability: Cold (DV+3)" would mean that attacks with the *Cold* tag deal an extra 3 DV.
+
+Of course, resistances and vulnerabilities can do things other than modify DV.
+A spirit of snow and frost might have *Vulnerability: Fire (Melts)", for example.
+Likewise, a creature that's particularly resistant to psychic manipulation might have "Resistance: Sleights (+WIL to checks to resist)".
+
+Sometimes a *Resistance* or *Vulnerability* might say to modify a property that an attack or effect doesn't *have*.
+For example, "Resistance: Fire (DV÷2)" would not effect an attack with the *Fire* tag if that attack didn't actually deal *damage*.
+Normally, in this case, that part of the *Resistance* or *Vulnerability* simply doesn't apply; you can't half the DV of an attack that doesn't have a DV, after all, so you would just ignore that effect.
+
+In special circumstances, a GM might decide that a resistance or vulnerability has some other effect.
+If a creature has "Resistance: Fire (Immune)", a GM might declare that a power that uses fire to *frighten* its target would not affect that creature.
+
+<aside class="designnote">
+
+We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results—not just changing damage.
+
+We're not there yet, but we're getting closer.
+
+</aside>
 
 ## Reactions
 
-  - Under some situations, you can take an action (or might be forced to
-    take an action) even though it isn’t your turn.
-    
-      - An action taken outside of your turn is called a *reaction*.
-      - Once you take a reaction, you cannot take *another* reaction
-        until the end of your next turn. (Roughly, you only get one
-        reaction per turn cycle.)
+Under some situations, you can take an action (or you will be *forced* to take an action) even though it isn’t your turn.
+An action taken outside of your turn is called a **reaction**.
+Once you take a *reaction*, you cannot take *another* reaction until the end of your next turn.
+(Roughly, you only get one reaction per turn cycle.)
 
-  - Readied Actions: as a Standard Action, you may *ready* an action.
-    When you ready an action, you specify another Standard Action, and a
-    condition; if the condition occurs before your next turn, you may
-    choose to take the specified action.
-    
-      - Activating your a Readied Action is a Reaction.
+### Readied Actions
 
-  - Attacks of Opportunity: if a character who you threaten attempts to
-    move away from or past you, you may make an attack against them.
-    This uses all the normal rules for an attack.
-    
-      - Hitting an opponent with an attack of opportunity doesn’t hinder
-        their movement, unless you also incapacitate them with your
-        attack (by knocking them over for example).
-      - An Attack of Opportunity is a Reaction.
+If you'd like to prepare a response to something that might happen later, you can *ready an action*.
+When you **ready an action**, you should specify another *Standard Action* and a *condition* or *event*; if the *condition or event* occurs before your next turn, you may choose to take the action that you specified.
 
-  - Defending:
-      
-      - ~~Defending with Fray is not a reaction, but~~
-      - ~~defending by parrying *is*.~~
-      - Normally, defending is **not** a reaction; however, some powers that trigger on a successful defense are (like the links of a Chain, or the Quick Break power; see *Backgrounds, Traits, Classes and Powers*).
+Readying an action is a *Standard Action*; activating a *readied action* is a *Reaction*.
 
-  - Reacting to Events
-    
-      - Sometimes events may demand an immediate response: you might
-        want to grab hold of a rope if the floor breaks beneath you, or
-        you might want to catch something that someone has thrown you.
-      - Events like these also count as Reactions.
+### Attacks of Opportunity
+
+If a character who you *threaten* attempts to move *away from you* or *past you*, you may make an attack against them; this uses all the normal rules for an attack.
+
+Hitting an opponent with an attack of opportunity doesn’t necessarily hinder their movement, unless you also incapacitate them with your attack (by knocking them over for example).
+
+An Attack of Opportunity is a Reaction.
+
+### Reacting to Events
+
+Sometimes events may demand an immediate response: you might want to grab hold of a rope if the floor breaks beneath you, or you might want to catch something that someone has thrown to you.
+These are also *Reactions*.
+
+### Defensive Powers
+
+Normally, defending against an attack is *not* a reaction; however, some powers that trigger on a successful defense *are*.
+(For example, some of the links in a *Chain* are *Reactions*, and the Quick Break power is a *Reaction*; see the *Classes* and *Powers* chapters.)
 
 ## Unarmed Combat and Natural Weapons
 
@@ -558,6 +573,17 @@ A character with a natural weapon is generally treated like an armed character; 
 A character using a natural weapon takes only a -10 penalty when defending against an armed character.
 
 Attacks with natural weapons still use the Unarmed Combat skill; each natural weapon requires a specific proficiency (for example, Unarmed Combat (Claws), or Unarmed Combat (Fangs)).
+
+## Bracing
+
+  - Brace: Weapons with the Brace tag can be used to prepare to receive
+    a charge.
+    
+      - You need to have a weapon with the Brace tag.
+      - Bracing to receive a charge is a Standard Action.
+      - After bracing, until your next turn, if anyone *charges* you (see *Charge* above), they provoke an attack of opportunity from you (see *attacks of opportunity* in *Reactions*).
+      - If you take an attack-of-opportunity and hit the charging character, you deal +DB DV.
+      - You do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).
 
 ## Mounted Combat
 
@@ -653,19 +679,6 @@ Attacks with natural weapons still use the Unarmed Combat skill; each natural we
       - Greater bonuses and penalties may be used for larger size
         differences.
       - see *Sizes*
-
-  - Charge: when you use the Charge move action, you gain +DB DV on your attacks for the rest of your turn.
-
-      - You have to be able to *build up speed;* usually, this means that you need to have moved more than one meter.
-
-  - Brace: Weapons with the Brace tag can be used to prepare to receive
-    a charge.
-    
-      - You need to have a weapon with the Brace tag.
-      - Bracing to receive a charge is a Standard Action.
-      - After bracing, until your next turn, if anyone *charges* you (see *Charge* above), they provoke an attack of opportunity from you (see *attacks of opportunity* in *Reactions*).
-      - If you take an attack-of-opportunity and hit the charging character, you deal +DB DV.
-      - You do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).
 
   - Prone:
     
