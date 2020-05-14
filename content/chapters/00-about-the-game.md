@@ -106,6 +106,8 @@ We're working on it.
 - Added some variant armors, dicking around in the armor section.
 - Added rations.
 - Added some sample special arrows.
+- Moved the "crafting recipe" system into an alternate rule,
+  - changed that aside to make it clear that, yes, if you have a crafter character, then RAW you just get to have as much scour as you want.
 
 ## To-Do
 
@@ -134,6 +136,8 @@ We're working on it.
   - including renaming the file.
 - Right now, the *Basic Rules* chapter is... fucked up and mostly asides.
   - And right now the definition of "basic proficiency" appears to be in a side-bar, which isn't ideal.
+- Write the rules for *recovering raw materials*; I'm thinking scrounging, "gathering professions", and breaking things down.
+  - And fix the time-table for producing recipes; it's out of whack right now.
 
 ## Editing Notes
 

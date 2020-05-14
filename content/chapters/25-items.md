@@ -1235,6 +1235,7 @@ The following *special arrows* can be used with composite bows and longbows:
 - **Broadhead**: *broadhead* arrows have large heads that trail *edges* that can be sharpened.  Broadheads are particularly good at wounding flesh, and often cause bleeding.  Broadhead arrows do +1 DV, and cause *Bleeding 1* on an exceptional or critical success.  On the down-side, their large heads are somewhat more expensive.  Broadhead arrows are Cost: Minor for 4 arrows.
 - **Needle**: *needle* arrows have an extremely narrow circular cross-section, like a needle.  They are cheap to make, they are good at penetrating armor, and they fly further (owing to the lower drag).  On the down-side, though, they are easy to deflect if they do not strike head-on.  Needle arrows are AP 3, have the *Piercing* tag, and gain +25m to each range increment.  If the attacker only scores a normal success, their DV is halved.  Needle arrows are Cost: Minor for 8.
 - **Blunts**: *blunt* arrows are designed to *stun* a target, rather than kill it.  Rather than being sharpened to a point, blunt arrows are… blunted.  Some are even covered with hide, wadding, or another soft material.  (Of course, users should be aware that any time you're causing trauma to a target, serious injury and death are always possibilities.)  Blunt arrows halve the DV they do and are AP 0.  Blunt arrows are Cost: Minor for 6.
+- **Rush**: the heads of *rush* arrows are magical; they induce air to flow quickly over their thin blades or wings.  If an arrow where to be activated and held, this would produce a steady, strong breeze; when activated in flight, this propels the arrow powerfully forward.  (This effect only lasts for a few seconds—long enough to be useful when fired at a target)  This allows these arrows to travel great distances and strike with extreme force; the fragility of the magical arrowhead somewhat limits their damage and armor-penetration, but the great speed at impact largely makes up for this.  Rush arrows add +10m/+25m/+40m/+50m to each range bracket, +2 DV, but -1 AP (that is, they are worse at penetrating armor).  One Rush arrow is Cost: Minor.
 
 As always, this list is not exhaustive; players and GMs should feel free to add more as desired.
 
@@ -1682,64 +1683,37 @@ The design of the Flashback Anchor reflects the peculiar flair for danger and to
 
 ## Creating Items
 
-  - Characters can use their Craft skills to create items directly.
-    
-      - This requires an appropriate *skill kit* and raw materials to
-        work with.
-    
-      - ~~This requires the character succeed on an appropriate Craft check.~~
-        
-          - ~~Creating a *Significant Magic Item* also requires a Spellcraft check.~~
+Characters can use their Craft skills to create items directly.
+This requires an appropriate *skill kit* or *shop*, raw materials, and at least *basic proficiency* in the craft skill to be used.
 
-      - Normally, no check is required: a skilled blacksmith can make a spike, a plow's blade or a sword without having a large chance of failure.
-          
-          - However, quality can vary: if the quality of work is important, or if the exact time required is important, a Simple Success Check can be called for.
+Normally, no check is required: a skilled blacksmith can make a spike, a plow's blade or a sword without having a large chance of failure.
+However, quality can vary: if the quality of work is important, or if the exact time required matters, then a Simple Success Check can be called for.
+And, of course, a skill check can be called for under circumstances that make failure likely—such as using improvised tools or rushing the job.
 
-          - And, of course, a skill check can be called for under circumstances that make failure likely--such as using improvised tools or rushing the job.
+Normally, for Trivial, Minor, and Moderate items, we do not track raw materials; we assume that if you have a skill kit or shop, you have the resources that you need.
+At the GM's discretion, Major and Extreme items may have special resource requirements—in particular, securing the resources to craft an Extreme item might be an adventure unto itself.
 
-  - Time Frames at GM’s discretion, with the following guidelines:
-    
-      - Trivial Item: two hour Task Action *per batch*.
-      - Minor Item: two hour Task Action
-      - Moderate Item: 1 shift Job
-      - Major Item: 20 shift Job
-      - Extreme Item: 150 shift Job
+The time required to craft an item is at the GM's discretion, but we provide the following guidelines:
 
-  - Raw Materials
-    
-      - Characters need raw materials to make things—but how do you
-        determine if characters have raw materials? There isn’t a Raw
-        Materials item, and there aren’t rules for it.
-    
-      - Our answer is: assume they have raw materials, unless there’s a
-        very good reason that they don’t.
-        
-          - For example, if they’ve had to flee their homes at short
-            notice, if they’ve been traveling light for days, or if
-            they’ve been captured.
-    
-      - If GMs (or players) want a more definite system for tracking raw
-        materials, see Raw Materials in Optional Rules.
+- **Trivial Item**: two hour Task Action *per batch*
+- **Minor Item**: two hour Task Action
+- **Moderate Item**: 1 shift Job
+- **Major Item**: 20 shift Job
+- **Extreme Item**: 150 shift Job
 
 <aside class="clarification">
 
-Recipes
+Note that the crafting "system" as presented is somewhat minimal.
+How do you know if you have raw materials?
+Under reasonable circumstances, your character *just does*.
+What does your character know how to make?
+We haven't stated any limits to what your character knows, so they know how to make pretty much anything it's reasonable for them to make.
+(Of course, *Knowledge* or *Craft* checks may be required for a character to know how to produce an *unusual*, *exotic* or *novel* item.)
 
-How do you know *what* your character knows how to make?
-Do you need to purchase *recipes*, for example, for potions, or perhaps *blueprints* for weapons?
+This system is designed to be light-weight, and to allow *Crafter* characters to make a large impact on the game with minimal "drag"—if you've noticed that, taken together, this means that a party with a competent chemist can, for example, have basically as many jars of *Tar* as they want, then you're correct!
+That's the reward for having a character who invested in chemistry.
 
-We don't provide listings or prices for those, so the tacit de-facto answer is "no."
-If your character has 50 ranks in Craft: Alchemy, then they are by all rights a master Alchemist;
-and if they are a master alchemist, then they very likely know how to produce a wide variety of useful potions.
-
-This doesn't mean that a crafter's knowledge is necessarily *infinite*.
-a check using an appropriate Knowledge skill can be required for a character to know how to produce an *unusual* or *exotic* item;
-a blacksmith from the Commonwealth would likely know how to make an arming sword or a plow, but knowing how to properly construct a chakram might require a Profession: Blacksmith check, for example.
-Similarly, an appropriate Craft or Knowledge check might be required to design a *completely novel* item;
-an alchemist might be able to construct a completely novel magical potion, for example, but they might need to succeed on a Craft: Alchemy check to develop the recipe.
-
-GMs who wish to limit the resources that players have access to may wish to institute some kind of recipe system; should you decide to do so, you should tell characters about it during character creation (or before), so they can take it into account.
-We recomment that such a system should be simple, and that it should not be too stingy with recipes;
-a workable starting point is to allow players access to five "cost levels" of useful "recipes" per 10 ranks in a craft skill (so, for example, five trivial recipes, or one Extreme recipe, per 10 ranks).
+Of course, that's not appropriate for all groups; some players might want a little more guidance on what's possible, or prefer a deeper system—and, conversely, some GM's might want to put more limits on what their crafters are capable of.
+If you fall into either of those categories, consider the rules in *Advanced Crafting* in *Alternate Rules*.
 
 </aside>
