@@ -99,6 +99,13 @@ We're working on it.
 - Added a blank chapter where we're going to talk about what adventures look like.
 - Changed Ground-Explorer to Deep-Explorer.
 - Filled in the *Adventures* chapter a little bit.
+- More clean-up in the Combat section
+  - turned some bullet-lists into text.
+  - Moved the damage half of *charging* into the movement section.
+  - Bracing is still its own section.
+- Added some variant armors, dicking around in the armor section.
+- Added rations.
+- Added some sample special arrows.
 
 ## To-Do
 
@@ -147,6 +154,7 @@ We're working on it.
 - ... does anyone know of a gender-neutral replacement for words like "craftsman" and "Swordsman" that won't also result in tortured language?
 - I think I'm going to start using a "bold-at-definition, italics-at-reference" style for keywords.
   - I'll need to go back and reformat... a christing lot.
+- For now, we're using the term *Movement Mode*.  We might change it to *Movement* later.
 
 ## Contributors
 
