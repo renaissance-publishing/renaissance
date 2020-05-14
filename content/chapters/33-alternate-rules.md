@@ -345,11 +345,11 @@ They can then *spend* their recipe points to purchase *recipes* according to the
 | Major | 4 |
 | Extreme | 6 |
 
-Note that trivial items are not tracked; you don't need to enumerate how many nails, forks, candle-stick holders, and other small, utilitarian items your *Blacksmit* character knows how to make.
+Note that trivial items are not tracked; you don't need to enumerate how many nails, forks, candle-stick holders, and other small, utilitarian items your *Blacksmith* character knows how to make.
 
-Your can also purchase recipes during down-time with RP at the same rate.
+You can use *RP* to purchase "recipe points" (and then recipes) during *down-time* at the same rate.
 
-You can also *develop* a recipe.
+Your character can also *develop* recipes on their own.
 Developing a recipe is a time-consuming process, requiring research, planning, and experimentation.
 The table below lists the *time frame* required to develop a recipe (and any check involved) for each item level.
 
