@@ -18,6 +18,10 @@ install:
 script:
 - pipenv run build
 
+branches:
+  only:
+  - source
+
 deploy:
   provider: pages
   fqdn: renaissance.pub
@@ -28,5 +32,4 @@ deploy:
 
   target-branch: master
   on:
-    all_branches: true
-    condition: $TRAVIS_BRANCH =~ ^(source|v[0-9\.]+)$
+    branch: source
