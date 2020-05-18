@@ -1,17 +1,55 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Renaissance Games`,
+    description: `Renaissance is an open-source pen-and-paper RPG that aims to enable more diverse play-styles than traditional games.`,
+    author: `Alexis Williams (@typedrat)`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        typekit: {
+          id: `bqv1ebv`
+        }
+      }
+    },
+    `gatsby-plugin-emotion`,
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: `chapters`,
+        path: `${__dirname}/content/chapters`,
       },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-custom-blocks`,
+            options: {
+              blocks: {
+                example: {
+                  classes: `example`
+                },
+                designnote: {
+                  classes: `designnote`
+                },
+                gmguidance: {
+                  classes: `gmguidance`
+                },
+                playerguidance: {
+                  classes: `playerguidance`
+                },
+                clarification: {
+                  classes: `clarification`
+                }
+              }
+            }
+          }
+        ]
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
