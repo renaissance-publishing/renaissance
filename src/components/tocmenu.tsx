@@ -28,15 +28,14 @@ export default () => {
         }
     `);
 
+    const nodeTrees = data.allMarkdownRemark.edges.map(({ node }) => TOCTreeElem.fromResultNode(node));
+
     return (
         <List>
             {
-                data.allMarkdownRemark.edges.map(({ node }) => {
-                    const nodeTree = TOCTreeElem.fromResultNode(node);
-                    return (
-                        <TOCMenuItem tree={nodeTree} key={nodeTree.url}></TOCMenuItem>
-                    );
-                })
+                nodeTrees.map(nodeTree => (
+                    <TOCMenuItem tree={nodeTree} key={nodeTree.url} />
+                ))
             }
         </List>
     );
