@@ -5,7 +5,8 @@ import Header from "./header";
 import Footer from "./footer";
 import TOCMenu from "./tocmenu";
 import "./layout.css";
-import { Container, Drawer, CssBaseline, createMuiTheme, ThemeProvider } from "@material-ui/core";
+import { Container, Drawer, CssBaseline, createMuiTheme, ThemeProvider, Hidden, AppBar, Toolbar } from "@material-ui/core";
+import { Link } from "gatsby";
 import { makeStyles } from '@material-ui/core/styles';
 
 const theme = createMuiTheme({
@@ -21,6 +22,18 @@ const useStyles = makeStyles({
     root: {
         display: 'flex'
     },
+    mobileBranding: {
+        margin: 0,
+        fontFamily: 'voluta-script-pro, serif',
+        fontSize: '48pt',
+        fontWeight: 'normal',
+        textAlign: 'center',
+        lineHeight: 'normal',
+        color: 'white'
+    },
+    mobileBrandingLink: {
+        textDecoration: 'none'
+    },
     tocDrawer: {
         width: tocWidth
     },
@@ -35,19 +48,31 @@ const Layout = ({ children }) => {
     return (
     <ThemeProvider theme={theme}>
         <CssBaseline />
-
+        <Hidden mdUp>
+            <AppBar position="sticky">
+                <Toolbar>
+                    <Link to="/" className={ classes.mobileBrandingLink }>
+                        <h1 className={ classes.mobileBranding }>Renaissance Games</h1>
+                    </Link>
+                </Toolbar>
+            </AppBar>
+        </Hidden>
         <div className={ classes.root }>
-            <Drawer 
-                variant="permanent"
-                className={ classes.tocDrawer }
-                classes={{
-                    paper: classes.tocDrawerPaper
-                }}
-                >
-                <TOCMenu />
-            </Drawer>
+            <Hidden smDown>
+                <Drawer 
+                        variant="permanent"
+                        className={ classes.tocDrawer }
+                        classes={{
+                            paper: classes.tocDrawerPaper
+                        }}
+                        >
+                            <TOCMenu />
+                </Drawer>
+            </Hidden>
             <Container maxWidth='md'>
-                <Header />
+                <Hidden smDown>
+                    <Header />
+                </Hidden>
                 {children}
                 <Footer />
             </Container>
