@@ -1,12 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import Container from '@material-ui/core/Container';
 import Header from "./header";
 import Footer from "./footer";
 import TOCMenu from "./tocmenu";
 import "./layout.css";
-import { Drawer, CssBaseline, createMuiTheme, ThemeProvider } from "@material-ui/core";
+import { Container, Drawer, CssBaseline, createMuiTheme, ThemeProvider } from "@material-ui/core";
 import { makeStyles } from '@material-ui/core/styles';
 
 const theme = createMuiTheme({
@@ -16,7 +15,7 @@ const theme = createMuiTheme({
     }
 });
 
-const tocWidth = 240;
+const tocWidth = 320;
 
 const useStyles = makeStyles({
     tocDrawer: {
