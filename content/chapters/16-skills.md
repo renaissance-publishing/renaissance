@@ -126,11 +126,15 @@ And there's nothing wrong with asking a player which skill they think applies, o
     
       - Active, Movement, Physical
       - Represents your characters’ general athletic ability, and the specific list of athletic disciplines that you’re proficient with.
-      - Also used as the movement skill for humanoid creatures.
-      - Example Proficiencies: Acrobatics, Climbing, Parkour, Sprinting, Swimming, *specific sports*, *exotic movement modes*
-      - Aryn is **chasing a suspect** through the streets of Tern City; this requires opposed Athletics checks.  They both have the Sprinting proficiency, so they both roll their Athletics skill (assuming they're both running flat-out); if Aryn wins, she'll gain on him.
-      - The suspect decides to try to trip Aryn up, so he knocks over a table behind him; Aryn wants to **vault** it, and she has the Parkour proficiency, so she rolls her *Athletics*.
-      - The suspect wants to **climb the wooden facade of a building**, but he doesn't have the *Climbing* proficiency, so he rolls his *Athletics* with a penalty.
+      - Example Proficiencies:
+        - **Agility** is used for forms of athleticism that rely on dexterity, grace and precision.  For humanoids, this covers flips, rolls, dives, and the like.  *Agility* is used for most *stunt moves*.
+        - **Endurance** is used for forms of athleticism that rely on perseverance.  For humanoids, this covers jogging, distance running, swimming, and the like.
+        - **Might** is used when strength is the primary factor.  For humanoids, this covers throwing, pulling, lifting, long jumps, and the like.
+        - **Swiftness**, which is used for raw speed.  *Swiftness* is usually used in chases (whether you're tring to *catch* someone or *outrun* them).
+        - of by *Specific Sports*
+      - Aryn is **chasing a suspect** through the streets of Tern City; this requires opposed Athletics checks, both using the *Swiftness* proficiency.  They both have the *Swiftness* proficiency, so they both roll their Athletics skill (assuming they're both running flat-out); if Aryn wins, she'll gain on him, but if he wins, he'll open the distance.
+      - The suspect decides to try to trip Aryn up, so he knocks over a table behind him.  Aryn wants to **vault the table**, so the GM calls for an *Athletics* check using the *Agility* proficiency.  Aryn has the *Agility* proficiency, so she rolls her Athletics without penalty; if she makes it, she'll vault the table.
+      - The suspect wants to **climb the wooden facade of a building**.  The GM decides this requires the **Might** proficiency, but the suspect doesn't have it, so he rolls his *Athletics* with a -20 penalty.  If he fails, he will fall.
 
   - Control (WIL)
     
@@ -225,7 +229,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Note that unarmed combat and pole-arms are represented by separate skills (Unarmed Combat and Pole-Arms, respectively).
       - Note that *Shields* is offered as a proficiency.  This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons—such as spiked shields and dueling-shields.
       - *Double-weapons* refers to "D&D-style" double-weapons; the historicity of these weapons is dubious, but there's no reason your character can't have one!
-      - Sample Specializations: Axes, Clubs, Daggers, *Double-Weapons,* Hammers, Maces, *Shields,* Staffs, Swords, *by exotic weapon*
+      - Sample Specializations: Axes, Clubs, Daggers, *Double-Weapons*, Hammers, Maces, *Shields*, Staffs, Swords, *by exotic weapon*
 
   - Perception (INT)
     
@@ -358,7 +362,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Your skill with various techniques for unarmed combat.
       - The Unarmed Combat skill also covers the use of many worn weapons (like sapper’s gauntlets), and the use of most natural weapons (like claws and fangs).
       - However, unarmed combat does *not* cover the use of natural attacks like acid spit (which would use Ranged Weapons) or a natural magical ability (which would most likely be described by a power).
-      - Sample Proficiencies: Grappling, Locks, Strikes, Throws, *by natural weapon*
+      - Sample Proficiencies: Defense, Grappling, Locks, Strikes, Throws, *by natural weapon*
 
 Sidebar: Unusual Skills
 
