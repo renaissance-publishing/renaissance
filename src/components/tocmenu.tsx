@@ -16,12 +16,10 @@ type GraphQLQueryResultNode = {
     }
 }
 
-function nodeToListItem(node: GraphQLQueryResultNode): JSX.Element {
-    console.log(node);
-
+function nodeToListItem({ fields: { slug }, frontmatter: { title } }: GraphQLQueryResultNode): JSX.Element {
     return (
         <ListItem>
-            
+            <Link to={ slug }>{ title }</Link>        
         </ListItem>
     );
 }
@@ -29,7 +27,7 @@ function nodeToListItem(node: GraphQLQueryResultNode): JSX.Element {
 export default () => {
     const data = useStaticQuery(graphql`
         query {
-            allMarkdownRemark(sort: {fields: fields___chapter}) {
+            allMarkdownRemark(sort: {fields: fields___chapter}, filter: {fields: {chapter: {ne: 0}}}) {
                 edges {
                     node {
                         headings {
@@ -51,7 +49,7 @@ export default () => {
     return (
         <List>
             {
-                data.allMarkdownRemark.edges.forEach(nodeToListItem)
+                data.allMarkdownRemark.edges.map(({ node }) => nodeToListItem(node))
             }
         </List>
     );
