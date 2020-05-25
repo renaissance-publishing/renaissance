@@ -18,6 +18,9 @@ const theme = createMuiTheme({
 const tocWidth = 320;
 
 const useStyles = makeStyles({
+    root: {
+        display: 'flex'
+    },
     tocDrawer: {
         width: tocWidth
     },
@@ -30,24 +33,26 @@ const Layout = ({ children }) => {
     const classes = useStyles();
 
     return (
-        <Container maxWidth='md'>
-            <ThemeProvider theme={theme}>
-                <CssBaseline />
-                <Header />
-                <Drawer 
-                    variant="permanent"
-                    className={ classes.tocDrawer }
-                    classes={{
-                        paper: classes.tocDrawerPaper
-                    }}
-                    >
-                    <TOCMenu />
-                </Drawer>
+    <ThemeProvider theme={theme}>
+        <CssBaseline />
 
+        <div className={ classes.root }>
+            <Drawer 
+                variant="permanent"
+                className={ classes.tocDrawer }
+                classes={{
+                    paper: classes.tocDrawerPaper
+                }}
+                >
+                <TOCMenu />
+            </Drawer>
+            <Container maxWidth='md'>
+                <Header />
                 {children}
                 <Footer />
-            </ThemeProvider>
-        </Container>
+            </Container>
+        </div>
+    </ThemeProvider>
     );
 };
 
