@@ -31,20 +31,25 @@ module.exports = {
             options: {
               blocks: {
                 example: {
-                  classes: `example`
+                  classes: `example`,
+                  title: "optional",
                 },
                 designnote: {
-                  classes: `designnote`
+                  classes: `designnote`,
+                  title: "optional",
                 },
                 gmguidance: {
-                  classes: `gmguidance`
+                  classes: `gmguidance`,
+                  title: "optional",
                 },
                 playerguidance: {
-                  classes: `playerguidance`
+                  classes: `playerguidance`,
+                  title: "optional",
                 },
-                clarification: {
-                  classes: `clarification`
-                }
+                fiction: {
+                  classes: `fiction`,
+                  title: "optional",
+                },
               }
             }
           }
