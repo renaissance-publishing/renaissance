@@ -1,7 +1,7 @@
 import React from "react";
-import { List, ListItem, ListItemText, styled, ListItemSecondaryAction, IconButton } from "@material-ui/core";
-import { ExpandLess, ExpandMore } from "@material-ui/icons";
-import { Link, useStaticQuery, graphql } from "gatsby";
+import { List } from "@material-ui/core";
+import { useStaticQuery, graphql } from "gatsby";
+import TOCMenuItem from "./tocmenuitem";
 
 //
 
@@ -21,7 +21,7 @@ type GraphQLQueryResultNode = {
     }
 }
 
-class TOCTreeElem {
+export class TOCTreeElem {
     title: string;
     url: string;
     depth: number;
@@ -56,37 +56,6 @@ class TOCTreeElem {
 
 //
 
-const TOCLink = styled(Link)({
-    textDecoration: 'none'
-});
-
-function nodeToListItem(node: GraphQLQueryResultNode): JSX.Element {
-    const { fields: { slug }, frontmatter: { title }, headings } = node;
-    console.log(TOCTreeElem.fromResultNode(node));
-
-    let expander: JSX.Element;
-
-    if (headings.length > 0) {
-        expander = (
-            <ListItemSecondaryAction>
-                <IconButton edge="end" aria-label="expand">
-                    <ExpandMore />
-                </IconButton>
-            </ListItemSecondaryAction>
-        );
-    }
-    else {
-        expander = null;
-    }
-
-    return (
-        <ListItem button component={TOCLink} to={slug}>
-            <ListItemText primary={ title } />
-            { expander }
-        </ListItem>
-    );
-}
-
 export default () => {
     const data = useStaticQuery(graphql`
         query {
@@ -113,7 +82,12 @@ export default () => {
     return (
         <List>
             {
-                data.allMarkdownRemark.edges.map(({ node }) => nodeToListItem(node))
+                data.allMarkdownRemark.edges.map(({ node }) => {
+                    const nodeTree = TOCTreeElem.fromResultNode(node);
+                    return (
+                        <TOCMenuItem tree={nodeTree} key={nodeTree.url}></TOCMenuItem>
+                    );
+                })
             }
         </List>
     );
