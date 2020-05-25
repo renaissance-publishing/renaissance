@@ -14,7 +14,7 @@ module.exports = {
         }
       }
     },
-    `gatsby-plugin-emotion`,
+    `gatsby-plugin-material-ui`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
