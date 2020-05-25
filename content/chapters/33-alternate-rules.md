@@ -2,11 +2,9 @@
 title: "Alternate Rules"
 ---
 
-The following are alternate rules systems. Some of them might be ideas
-that I’m playing with for future inclusion, while others might just be
-common systems that most people would house-rule in if we didn’t cover
-them. Some are just good rules that we didn’t think fit in the core
-rules, for one reason or another.
+The following are alternate rules systems.
+Some of them might be ideas that I’m playing with for future inclusion, while others might just be common systems that most people would house-rule in if we didn’t cover them.
+Some are just good rules that we didn’t think fit in the core rules, for one reason or another.
 
 ## Buying Back Negative Traits
 
