@@ -3,18 +3,62 @@ import { AnchorLink } from "gatsby-plugin-anchor-links";
 import { List, ListItem, ListItemText, ListItemSecondaryAction, IconButton, Collapse } from "@material-ui/core";
 import { ExpandLess, ExpandMore } from "@material-ui/icons";
 
-import { TOCTreeElem } from "./tocmenu";
 
+type Heading = {
+    id: string,
+    depth: number,
+    value: string
+}
 
-class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { isExpanded: boolean }> {
+type GraphQLQueryResultNode = {
+    headings: Heading[],
+    fields: {
+        slug: string
+    },
+    frontmatter: {
+        title: string
+    }
+}
+
+export class TOCTreeElem {
+    title: string;
+    url: string;
+    depth: number;
+    children: TOCTreeElem[];
+
+    constructor(title: string, url: string, depth: number) {
+        this.title = title;
+        this.url = url;
+        this.depth = depth;
+        this.children = [];
+    }
+
+    static fromResultNode(node: GraphQLQueryResultNode): TOCTreeElem {
+        let parentNode = new TOCTreeElem(node.frontmatter.title, node.fields.slug, 1);
+
+        function addNodeToTree(tree: TOCTreeElem, child: Heading) {
+            if (tree.depth < child.depth - 1 && tree.children.length > 0) {
+                addNodeToTree(tree.children[tree.children.length - 1], child);
+                return;
+            }
+
+            tree.children.push(new TOCTreeElem(child.value, `${parentNode.url}#${child.id}`, child.depth));
+        }
+
+        for (const heading of node.headings) {
+            addNodeToTree(parentNode, heading);
+        }
+
+        return parentNode;
+    }
+}
+
+export class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { isExpanded: boolean }> {
     title: string;
     url: string;
     children: TOCTreeElem[];
     constructor(props) {
         super(props);
-        this.title = props.tree.title;
-        this.url = props.tree.url;
-        this.children = props.tree.children;
         this.state = { isExpanded: false };
     }
 
@@ -27,7 +71,7 @@ class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { 
         let expandableToggle: React.ReactNode = null;
         let expandableContent: React.ReactNode = null;
 
-        if (this.children.length > 0) {
+        if (this.props.tree.children.length > 0) {
             expandableToggle = (
                 <ListItemSecondaryAction>
                     <IconButton edge="end" aria-label="toggle-expand" onClick={this.handleToggleExpand.bind(this)}>
@@ -40,7 +84,7 @@ class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { 
                 <Collapse in={ this.state.isExpanded } style={{ paddingLeft: 20 }}>
                     <List component="ul" disablePadding>
                         {
-                            this.children.map( child => (
+                            this.props.tree.children.map( child => (
                                 <TOCMenuItem tree={ child } key={ child.url } />
                             ))
                         }
@@ -51,8 +95,8 @@ class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { 
 
         return (
             <>
-                <ListItem button component={ AnchorLink } to={ this.url }>
-                    <ListItemText primary={ this.title } />
+                <ListItem button component={ AnchorLink } to={ this.props.tree.url }>
+                    <ListItemText primary={ this.props.tree.title } />
                     { expandableToggle }
                 </ListItem>
                 { expandableContent }
@@ -61,4 +105,4 @@ class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: string }, { 
     }
 }
 
-export default TOCMenuItem;
+
