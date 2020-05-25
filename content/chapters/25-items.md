@@ -721,7 +721,7 @@ hatchet is poorly weighted for this), or as a close-range weapon to fend
 off an enemy. Hatchets are singularly simple to use, their handles and
 blades promoting good edge alignment by virtue of design.
 
-Tags: One-handed, Thrown, Bladed, Blunt, Simple, Utility
+Tags: One-handed, Thrown, Bladed, Blunt, Easy, Utility
 
 Damage: 1d10-1+DB (one-handed and thrown)
 
@@ -1686,9 +1686,8 @@ The design of the Flashback Anchor reflects the peculiar flair for danger and to
 Characters can use their Craft skills to create items directly.
 This requires an appropriate *skill kit* or *shop*, raw materials, and at least *basic proficiency* in the craft skill to be used.
 
-Normally, no check is required: a skilled blacksmith can make a spike, a plow's blade or a sword without having a large chance of failure.
-However, quality can vary: if the quality of work is important, or if the exact time required matters, then a Simple Success Check can be called for.
-And, of course, a skill check can be called for under circumstances that make failure likely—such as using improvised tools or rushing the job.
+Normally, only a Simple Check is called for; a skilled blacksmith can make a spike, plow, or batch of nails without much chance of failure—although the time required or quality of work might vary.
+Of course, a (normal) check can be called for under circumstances where failure is likely—such as when using improvised tools, or when rushing the job.
 
 Normally, for Trivial, Minor, and Moderate items, we do not track raw materials; we assume that if you have a skill kit or shop, you have the resources that you need.
 At the GM's discretion, Major and Extreme items may have special resource requirements—in particular, securing the resources to craft an Extreme item might be an adventure unto itself.
