@@ -76,8 +76,8 @@ title: "Quick Reference"
   - Touch Only Attacks: either COO+SOM+SOM or Unarmed Combat (no proficiency required)
   - Indicate-Only Attacks: either 3×COO ir Ranged Weapons (no proficiency required)
   - Multiple Weapons
-      - Multiple attacks with multiple weapons: -10 penalty ("flat" penalty, not per additoinal weapon)
-      - Multiple targets with multiple attacks: -10 penalty ("flat" penalty, not per additional target)
+      - Multiple attacks with multiple weapons: -10 penalty ("flat" penalty, *not* per additoinal weapon)
+      - Multiple targets with multiple attacks: -10 penalty ("flat" penalty, *not* per additional target)
       - Attack using off-hand: -10 penalty if weapon has *Off-Hand* tag, -20 penalty if it does not.
 
 ## Items, Crafting and Wealth
