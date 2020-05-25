@@ -1,7 +1,7 @@
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 
-import { List, ListItem, TextField, InputAdornment, Hidden } from "@material-ui/core";
+import { List, ListItem, TextField, InputAdornment } from "@material-ui/core";
 import { Search } from "@material-ui/icons";
 import { TOCMenuItem, TOCTreeElem } from "./tocmenuitem";
 
@@ -34,22 +34,20 @@ export default () => {
 
     return (
         <List>
-            <Hidden smDown>
-                <ListItem>
-                    <TextField 
-                        label="Search"
-                        variant="outlined"
-                        fullWidth
-                        InputProps={{
-                            startAdornment: (
-                                <InputAdornment position="start">
-                                    <Search />
-                                </InputAdornment>
-                            )
-                        }}
-                        />
-                </ListItem>
-            </Hidden>
+            <ListItem>
+                <TextField 
+                    label="Search"
+                    variant="outlined"
+                    fullWidth
+                    InputProps={{
+                        startAdornment: (
+                            <InputAdornment position="start">
+                                <Search />
+                            </InputAdornment>
+                        )
+                    }}
+                    />
+            </ListItem>
 
             {
                 nodeTrees.map(nodeTree => (
