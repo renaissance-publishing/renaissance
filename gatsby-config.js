@@ -57,6 +57,7 @@ module.exports = {
         ]
       }
     },
+    `gatsby-plugin-anchor-links`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
