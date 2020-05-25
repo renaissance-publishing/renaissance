@@ -1,0 +1,1394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.typekit.net/bqv1ebv.css">
+        <link rel="stylesheet" href="/static/css/layout.css">
+        <script type="application/javascript" src="/static/js/menus.js"></script>
+    <title>Building Characters — Renaissance Games</title>
+</head>
+<body>
+    <header>
+        <div class="branding"><a href="/">Renaissance Games</a></div>
+        <nav class="pure-menu pure-menu-horizontal main-nav">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="/book/about-the-game">Book</a>
+                        <ul class="pure-menu-children">
+                                <li class="pure-menu-item"><a class="pure-menu-link" href="/book/v6.0/about-the-game">Book v6.0</a></li>
+                        </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <nav class="toc-menu pure-menu">
+        <ul class="pure-menu-list">
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../about-the-game">About the Game</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../from-the-authors">From the Authors</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../from-the-authors#AbouttheSetting">About the Setting</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../from-the-authors#AbouttheGame">About the Game</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../background">Background</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../background#TheGreenCountry">The Green Country</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../background#History">History</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../the-commonwealth-today">The Commonwealth Today</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#Overview">Overview</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#CommonwealthTechnology">Commonwealth Technology</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#CommonwealthLifeSocietyandEconomy">Commonwealth Life, Society and Economy</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#CommonwealthGovernance">Commonwealth Governance</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#CommonwealthMagic">Commonwealth Magic</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#NotablePlaces">Notable Places</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-commonwealth-today#Organizations">Organizations</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../languages">Languages</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../languages#Languages">Languages</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../other-factions">Other Factions</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../other-factions#TheKingdomsofMen">The Kingdoms of Men</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#TheKingdomsEconomy">The Kingdoms&#39; Economy</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#OtherRaces">Other Races</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#TheMilitary">The Military</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#OtherNations">Other Nations</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#TheShadedSeaPeople">The Shaded Sea People</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#TheRaptorsAlliance">The Raptor’s Alliance</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../other-factions#TheGoblinKings">The Goblin Kings</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../the-supernatural">The Supernatural</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Magic">Magic</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Spirits">Spirits</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Propitiation">Propitiation</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Manifestations">Manifestations</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Saints">Saints</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Binds">Binds</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#SampleSpiritsandTemples">Sample Spirits and Temples</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-supernatural#Death">Death</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../the-unplacable-text-describing-what-adventures-look-like">The Unplacable Text Describing What Adventures Look Like</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-unplacable-text-describing-what-adventures-look-like#Whatyoudo">What you do</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../basic-rules">Basic Rules</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#TheRules0">The Rule(s) 0</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../basic-rules#Checks">Checks</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#PickingaCheck">Picking a Check</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#CommonChecks">Common Checks</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#Modifiers">Modifiers</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#Actions">Actions</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../basic-rules#ModesofPlay">Modes of Play</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../combat">Combat</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../combat#Overview">Overview</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#UsefulTerms">Useful Terms</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#TheCombatGridandMovement">The Combat Grid and Movement</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#Attacking">Attacking</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#ArmorandArmorPenetration">Armor and Armor Penetration</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#StrikesandManeuvers">Strikes and Maneuvers</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#MultipleWeaponsandMultipleAttacks">Multiple Weapons and Multiple Attacks</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#ResistanceandVulnerability">Resistance and Vulnerability</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#Reactions">Reactions</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#UnarmedCombatandNaturalWeapons">Unarmed Combat and Natural Weapons</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#MountedCombat">Mounted Combat</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../combat#AndUnsortedRules">And Unsorted Rules</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../injury-and-recovery">Injury and Recovery</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#PhysicalInjury">Physical Injury</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#MentalStress">Mental Stress</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#Healing">Healing</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../injury-and-recovery#ConditionsPotionsPoisonsandDiseases">Conditions, Potions, Poisons and Diseases</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#conditions">conditions</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#PotionsandPoisons">Potions and Poisons</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../injury-and-recovery#Diseases">Diseases</a>
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../cheating-reality-magic-powers-and-luck">Cheating Reality: Magic, Powers and Luck</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../cheating-reality-magic-powers-and-luck#UsingMagic">Using Magic</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../cheating-reality-magic-powers-and-luck#CreatingMagicalEffects">Creating Magical Effects</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../cheating-reality-magic-powers-and-luck#DesigningandUsingPowers">Designing and Using Powers</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../cheating-reality-magic-powers-and-luck#Luck">Luck</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../wealth-income-and-lifestyles">Wealth, Income and Lifestyles</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../wealth-income-and-lifestyles#WealthandBartering">Wealth and Bartering</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../wealth-income-and-lifestyles#ChangingyourWealthLevel">Changing your Wealth Level</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../wealth-income-and-lifestyles#IncomeInvestmentsandLifestyles">Income, Investments and Lifestyles</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones">Motivations and Milestones</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#Motivations">Motivations</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#RolePlayingRewards">Role-Playing Rewards</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#Milestones">Milestones</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#EarningMilestones">Earning Milestones</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#InvokingMilestones">Invoking Milestones</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#ChallengingMilestones">Challenging Milestones</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#SocialBonusesandPenalties">Social Bonuses and Penalties</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../what-makes-your-character-who-they-are-motivations-and-milestones#MilestonesinCharacterCreation">Milestones in Character Creation</a>
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../skills">Skills</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../skills#TypesofSkill">Types of Skill</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../skills#SkillList">Skill List</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../representing-a-character">Representing a Character</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../representing-a-character#Characters">Characters</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../character-creation-and-advancement">Character Creation and Advancement</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../character-creation-and-advancement#CharacterCreation">Character Creation</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../character-creation-and-advancement#CharacterAdvancement">Character Advancement</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../character-creation-and-advancement#RewardingPlayers">Rewarding Players</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../character-creation-and-advancement#NPCsandFollowers">NPCs and Followers</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../senses-movements-and-special-abilities">Senses, Movements and Special Abilities</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../senses-movements-and-special-abilities#Senses">Senses</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../senses-movements-and-special-abilities#MovementModes">Movement Modes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../senses-movements-and-special-abilities#Abilities">Abilities</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../senses-movements-and-special-abilities#Sizes">Sizes</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../races">Races</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../races#CommonRaces">Common Races</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Drakes">Drakes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Elves">Elves</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Gnolls">Gnolls</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Humans">Humans</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Kobolds">Kobolds</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Shifters">Shifters</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../races#Uncommonraces">Uncommon races</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#ClayMen">Clay Men</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Dwarves">Dwarves</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Gnomes">Gnomes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Halflings">Halflings</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Herders">Herders</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Orcs">Orcs</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Ratfolk">Ratfolk</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Shamblers">Shamblers</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Tempters">Tempters</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../races#NeighboringRaces">Neighboring Races</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#ElfHumanHybrid">Elf-Human Hybrid</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Goblins">Goblins</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Gremlins">Gremlins</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Raptors">Raptors</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#Washers">Washers</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../races#ExoticRaces">Exotic Races</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../races#BoneSpiders">Bone Spiders</a>
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../backgrounds-traits-classes-and-powers">Backgrounds, Traits, Classes and Powers</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../backgrounds-traits-classes-and-powers#Backgrounds">Backgrounds</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../backgrounds-traits-classes-and-powers#Traits">Traits</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../backgrounds-traits-classes-and-powers#Classes">Classes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../backgrounds-traits-classes-and-powers#Powers">Powers</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items">Items</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#ItemsbyCategory">Items by Category</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#Armors">Armors</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#QuiltedArmor">Quilted Armor</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LeatherArmor">Leather Armor</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#MailArmour">Mail Armour</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Brigandine">Brigandine</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#PartialPlateOriginal">Partial Plate (Original)</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#PartialPlateEdited1">Partial Plate (Edited 1)</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#PartialPlate">Partial Plate</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#FullPlate">Full Plate</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#HeavyCloak">Heavy Cloak</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#StealthSuit">Stealth Suit</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Weapons">Weapons</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#NoHandedWeapons">No-Handed Weapons</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#HandWraps">Hand Wraps</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#SapperGloves">Sapper Gloves</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#WarGloves">War Gloves</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#OneHandedWeapons">One-Handed Weapons</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Knife">Knife</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Dagger">Dagger</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#ShortSword">Short Sword</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LongSword">Long Sword</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Hatchet">Hatchet</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#WarAxe">War Axe</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Club">Club</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Mace">Mace</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#FlangedMace">Flanged Mace</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Warhammer">Warhammer</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#ShortSpear">Short Spear</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#TwoHandedWeapons">Two-Handed Weapons</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Greatsword">Greatsword</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#ReapingSword">Reaping Sword</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#BattleAxe">Battle Axe</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LumberjackAxe">Lumberjack Axe</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LongClub">Long Club</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Quarterstaff">Quarterstaff</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#GreatMace">Great Mace</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#PoleArms">Pole Arms</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LongSpear">Long Spear</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Halberd">Halberd</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Lance">Lance</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LochaberAxe">Lochaber Axe</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#RavensBeak">Raven’s Beak</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#RangedWeapons">Ranged Weapons</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LightBow">Light Bow</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Longbow">Longbow</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#LightCrossbow">Light Crossbow</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#HeavyCrossbow">Heavy Crossbow</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Sling">Sling</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../items#ExoticWeapon">Exotic Weapon</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#ShadeElfPunchDagger">Shade-Elf Punch Dagger</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Flail">Flail</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#WarFork">War-Fork</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#HandCannon">Hand Cannon</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#Whip">Whip</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#DragonsAxe">Dragon’s Axe</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#MagicItems">Magic Items</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#AlchemicalItemsChemicalsDrugsPoisonsPotionsandBombs">Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#SkillKitsandShops">Skill Kits and Shops</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../items#CreatingItems">Creating Items</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../the-five-roles">The Five Roles</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../building-characters">Building Characters</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../building-characters#GeneralTips">General Tips</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../building-characters#CharacterArchetypes">Character Archetypes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../building-characters#CommonScenes">Common Scenes</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../running-games">Running Games</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../running-games#DesigningAdventures">Designing Adventures</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs">Monsters, Animals and NPCs</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#SampleCreatures">Sample Creatures</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#BlackBear">Black Bear</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#ChassehForrestSpirit">Chasseh Forrest Spirit</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Chosen">Chosen</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#ClayPot">Clay Pot</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Cougar">Cougar</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#DancingHawk">Dancing Hawk</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#FrozenHorror">Frozen Horror</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Horse">Horse</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Kambi">Kambi</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#PackCat">Pack Cat</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Raccoon">Raccoon</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Raptor">Raptor</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#CommonwealthSoldier">Commonwealth Soldier</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Weasel">Weasel</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Wolf">Wolf</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#Wolverine">Wolverine</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../monsters-animals-and-npcs#BuildingCreatures">Building Creatures</a>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../alternate-rules">Alternate Rules</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#BuyingBackNegativeTraits">Buying Back Negative Traits</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#CreatingAdvantage">Creating Advantage</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#FatePoints">Fate Points</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#Guns">Guns</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#MomentumandThreat">Momentum and Threat</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#RawMaterials">Raw Materials</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#Reactions">Reactions</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#Reputation">Reputation</a>
+                </li>
+                <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a class="pure-menu-link" href="../alternate-rules#SpecialAttacks">Special Attacks</a>
+                        <ul class="pure-menu-children">
+                                            <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#Strikes">Strikes</a>
+                </li>
+                <li class="pure-menu-item ">
+                    <a class="pure-menu-link" href="../alternate-rules#Maneuvers">Maneuvers</a>
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+        </ul>
+    </nav>
+    <article class="main-content chapter-content">
+        <h1>Building Characters</h1>
+
+        <p>The rules for Renaissance are very free-form; some people really enjoy
+that, but some people can get lost with all the options they have. The
+following is intended as a guide, to give players looking for a
+foot-hold how to design, build and play their characters. These are not
+rules, but guidelines; your own judgement will apply, as will your
+desires for your character and the GM’s assessment of the situation.</p>
+<h2 id="GeneralTips"><a class="header-link" href="#GeneralTips">General Tips</a></h2>
+<ul>
+<li>
+<p>Renaissance is a diverse game</p>
+<ul>
+<li>D&amp;D focuses on combat; that’s where most of the rules and
+abilities go, and most of the game time is.</li>
+<li>Renaissance is more diverse.</li>
+<li>Combat, Social Scenes, Stealth, Crafting and Analysis are all
+balanced equally; so, for example, you’ll only spend 1/5 of your
+time in Combat.</li>
+<li>As a <em>very</em> general rule, characters should be <em>excellent</em> at
+one of those things, and *good *at two others.</li>
+</ul>
+</li>
+<li>
+<p>Characters should be Great in one area and Good in several.</p>
+<ul>
+<li>Not too focused! New players are often tempted to hyper-focus,
+getting 120 in like 3 related skills; this doesn’t work, because
+a) you can still roll a 21 and get beaten by a 34, and b) you’ll
+have nothing to do most of the time.</li>
+<li>Not too spread out! Getting 50-ish ratings in lots of skills
+can be unrewarding, because there’s nothing you’re really great
+at; when the pressure is on, the negative modifiers stack up and
+you can’t try again, you won’t be able to do anything with a
+base rating of 50.</li>
+<li>Usually 2 skills over 70, 4 skills over 60 and 4 more skills
+over 50 is a pretty good balance.</li>
+<li>Get skills from diverse areas.</li>
+</ul>
+</li>
+</ul>
+<h2 id="CharacterArchetypes"><a class="header-link" href="#CharacterArchetypes">Character Archetypes</a></h2>
+<ul>
+<li>
+<p>Archetypes are broad character concepts.</p>
+</li>
+<li>
+<p>They generally refer to packages of skills, powers, classes and
+items that fit together.</p>
+</li>
+<li>
+<p>Stealth:</p>
+<ul>
+<li>
+<p>Using powers like Sneak Attack, you can be effective at dealing
+damage, but Stealth characters often fare poorly in a stand-up
+fight.</p>
+</li>
+<li>
+<p>Plays:</p>
+<ul>
+<li>Sneaking into somewhere will likely be handled as an
+Infiltration vs. Perception test; be aware that some senses
+(like Scent) will make this much harder, or impossible.</li>
+<li>Tailing someone who isn’t looking out for you will likely
+require one check, your Infiltration vs. their (passive)
+Perception.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Combat</p>
+<ul>
+<li>
+<p>Combat is very deadly, by design! Damage is high and Wounds
+debilitate you quickly even if you don’t die.</p>
+</li>
+<li>
+<p>Healing is also hard, also by design—and “in combat” healing is
+a practical impossibility. One of the best healing abilities in
+the game, Heal, gives you Fast Healing 2; Binding a Wound is a
+10 Minute Task Action that only might work (and you only get to
+try once per wound).</p>
+</li>
+<li>
+<p>It’s supposed to be this way. The idea is that combat should be
+rough on both sides, and even the winners should spend time
+after patching themselves up.</p>
+</li>
+<li>
+<p>At least one high attack skill is obvious.</p>
+</li>
+<li>
+<p>High Fray and good armor are very wise investments if you want
+to win (or survive) combat.</p>
+</li>
+<li>
+<p>Also, having a plan for the after-combat “patching the team
+together” moment is a good idea.</p>
+<ul>
+<li>The various Heal related powers are good, as are ranks in
+Medicine.</li>
+<li>Potions are useful, but longer-term; healing happens slowly,
+and it can take days or even weeks to fully recover.</li>
+</ul>
+</li>
+<li>
+<p>To make combat fun, on the other hand, a good weapon (a
+Significant Magic Item, probably) and some fun powers are
+recommended.</p>
+<ul>
+<li>Who doesn’t enjoy a magical exploding hammer or a golem arm?</li>
+</ul>
+</li>
+<li>
+<p>It applies to everyone, but it applies especially to combat
+characters; remember that you’ll only be in combat 20% of the
+time or so, and it’s a very good idea to have other things you
+can do. Skills like Knowledge: History [Military History],
+Profession: Soldier, Craft: Smithing, Craft: Chemistry (soldiers
+use potions and poisons, after all), Intimidate, Athletics and
+Protocol are all character-appropriate investments.</p>
+</li>
+<li>
+<p>Aimed Shots can be very useful if you have a very high Attack
+skill. If your target number is over 90 after everything is
+added together, then you can easily absorb a -10 penalty in the
+name of having a chance to cut off a hand or gouge out an eye.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Magic-User</p>
+<ul>
+<li>Magic-heavy characters can be very powerful and very flexible.</li>
+<li>The abilities of Mages and Psions are easy to represent
+mechanically; simple take high ranks in Spellcraft or Control
+(or both), and take appropriate powers.</li>
+<li>Clerics are a little trickier: Boons can be represented as
+granted powers or magical items (presumably granted by a
+spirit), but in general, the abilities of Clerics will be
+represented more “narratively.” Which is to say, wheras Mages
+and Psions will primarily represent their magical abilities with
+powers, Clerics will have to actually haggle with spirits—a
+process that has no specific rules, and is accomplished by
+roll-playing through it. See “dealing with a spirit” in Common
+Scenes.</li>
+<li>While having a high Control or Spellcraft can be useful,
+remember that not every power requires a Control or Spellcraft
+check—or a check at all, for that matter. Fireball doesn’t
+require a check to manifest, and it requires a Thrown Weapons
+check to throw it!</li>
+</ul>
+</li>
+<li>
+<p>Social Butterfly</p>
+<ul>
+<li>
+<p>Remember that, in Renaissance, the player is expected to be
+proactive with checks. The GM will not always prompt you, “you
+can make a Read check now,” rather it is your responsibility to
+say, “I’d like to roll Read to see if I think he’s lying.” (If
+you don’t, then the GM may roll your Read for you, as a passive
+check—that is, with a penalty.)</p>
+</li>
+<li>
+<p>Protocol’s use might not be immediately obvious; it lets you
+handle the social norms and expectations of a situation.</p>
+<ul>
+<li>It can be useful while <em>preparing</em> for a social scene;
+Protocol can be used to determine what is expected of you.</li>
+<li>Protocol can also be useful for <em>recovering gracefully</em> from
+an error; if you make a mistake, one your character never
+would have, a Protocol roll can play it off as a joke, or
+simple error, or otherwise make it seem trivial.</li>
+</ul>
+</li>
+<li>
+<p>Barter is a little bit of an oddity; it’s a social skill that
+isn’t normally used in roll-playing. It’s used in very specific
+circumstances: specifically, when buying or selling goods.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Crafter</p>
+<ul>
+<li>Crafters can produce things that the party needs.</li>
+<li>Crafters have two major limits: they can only provide the party
+things that they know how to produce—that is, things they have
+the craft skills for—and crafting items can take time.</li>
+<li>If you have Spellcraft and Craft: Smithing, then, during
+down-time, you can just take a month and build a magical hammer.
+But that takes raw materials and a month: if you’re in the
+middle of exploring an abandoned monastery, you can’t just
+produce a hammer.</li>
+<li>Remember to buy a skill kit—you need to have tools to make
+things!</li>
+<li>The rules for crafting say that you need “raw materials,” but
+don’t provide a price for that; that’s because we don’t attempt
+to track how much raw materials cost or how much they weigh,
+across all the things that “raw materials” might mean. In
+general, if you are working in a well-stocked Shop, Raw
+Materials can be assumed; if you aren’t—for example, if you
+don’t own a shop, or are traveling lightly—you will need to
+purchase them. (Cost Minor is a good cost for raw materials,
+enough for several Minor items or one Moderate one. Major items,
+meanwhile, might require unique components, that must be tracked
+specifically.)</li>
+</ul>
+</li>
+<li>
+<p>Scholar</p>
+<ul>
+<li>Scholars are characters who <em>know things</em>. This can be very
+important in Renaissance, as an adventure might turn on being
+able to answer any of the following questions: what really
+happened 300 years ago (Knowledge: History), what might appease
+an angered spirit (Knowledge: Theology or Profession: Cleric),
+could the Commonwealth Army breach this fortification
+(Profession: Soldier), which noble line in the Eastern Kingdom
+was this knight loyal too (Knowledge: Noble Lineages).</li>
+<li>Many adventures have an <em>investigation phase—</em>the party starts
+not knowing what’s going on, but having clues, and are then
+required to gather more evidence and figure out what’s going on.
+Scholars are the characters who take those clues and <em>figure out
+what’s going on</em>.</li>
+<li>Scholars often also need Research. No one character knows
+everything, you’ll frequently have to <em>hit the books</em>.</li>
+<li>Profession is also a knowledge skill; it represents knowing how
+a given field works. Profession: Soldier [Command] can be used
+to for military knowledge, for example, while Profession:
+Smuggler can be used to know how to smuggle items into or out of
+a city, or how to make a criminal contact</li>
+<li>There are hopelessly many different areas of knowledge,
+especially considering all the different possible Interest and
+Profession skills that could exist. While the Scholar class can
+help with that, in general, the roll of “knowing things” needs
+to be spread across several different characters.</li>
+</ul>
+</li>
+<li>
+<p>Backer</p>
+<ul>
+<li>
+<p>in a broad sense, referring to the rich trader or noble who can
+bank-roll the party.</p>
+<ul>
+<li>One of the neat things about this game, IMO, is that this
+can be a player roll.</li>
+</ul>
+</li>
+<li>
+<p>Similar to a crafter, their job is to provide the party with the
+things that they need. However, they do this by simply <em>buying</em>
+it.</p>
+</li>
+<li>
+<p>On the up-side, buying something is fast; you can buy a sword
+much quicker than you can make it.</p>
+</li>
+<li>
+<p>On the down side, you can’t always buy things: if you find an
+abandoned alchemist’s lab, a chemist could make something, but
+you can’t buy potions from it.</p>
+</li>
+<li>
+<p>People with wealth and assets can also get noble audiences, hire
+help, or bribe guards, all of which can be very useful.</p>
+</li>
+<li>
+<p>It’s a good idea to get several Trade Goods; any given trade can
+deplete one of them, so having more than one handy is useful.</p>
+</li>
+<li>
+<p>Replenishing your Trade Goods is a good use of your Down Time.</p>
+</li>
+<li>
+<p>Backer-type characters can also make good use of classes like
+Noble or General; you can use your title to get access to people
+who might not be available to the Common Folk.</p>
+<ul>
+<li>Noble is a good choice for a Backer/Socialite, and General
+is a good choice for a Backer/Fighter.</li>
+</ul>
+</li>
+<li>
+<p>Playing a Backer who operates using criminal connections can be
+very interesting; such connections can be very powerful, as they
+can net you services (like assassins) and goods (like black-mail
+information) that can’t be acquired any other way.</p>
+<ul>
+<li>However, the consequences of being discovered could also be
+dire, and anything you acquire might come with strings
+attached—both situations good for roll-playing!</li>
+<li>Profession: Smuggler will be an important skill for such a
+character.</li>
+<li>This is a good choice for Backer/Stealth characters.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="CommonScenes"><a class="header-link" href="#CommonScenes">Common Scenes</a></h2>
+<ul>
+<li>
+<p>“Standard Operating Procedures” for several common scenes.</p>
+<ul>
+<li>These are especially not rules: the GM will adjust as
+appropriate.</li>
+</ul>
+</li>
+<li>
+<p>Making Camp</p>
+<ul>
+<li>
+<p>Consume rations; remember to mark them down.</p>
+</li>
+<li>
+<p>Heal up; declare who’s doing what to achieve that.</p>
+</li>
+<li>
+<p>Keep watch: usually use two 4-hour watches.</p>
+<ul>
+<li>Players who don’t get enough sleep will eventually begin to
+suffer penalties.</li>
+<li>Keep Senses and Perception skill in mind when selecting
+watch.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Summoning a Spirit</p>
+<ul>
+<li>
+<p>Remember that spirits are <em>wildly</em> diverse; each area has its
+own spirits, no two of which will operate by exactly the same
+rules.</p>
+</li>
+<li>
+<p>(Although there are also some very powerful spirits with very
+large basins; a Spirit associated with a mountain range might be
+known throughout, while each area of the range will have its own
+local, unique spirits.)</p>
+</li>
+<li>
+<p>Remember that Spirits won’t cooperate with you just because you
+summoned them: make sure there’s some reason that the Spirit in
+question will actually do anything for you. Think about some
+reason that your interests align with its, or make sure there’s
+some propetiation you can make that it will want, or make sure
+you can bind it.</p>
+</li>
+<li>
+<p>Remember also that Spirits are very powerful; they can offer
+powefull, game-changing boons, but an uncooperative spirit can
+also cause a <em>lot</em> of damage. Summoning a spirit is a good thing
+to do carefully, taking your time and spending Luck Points on.</p>
+<ul>
+<li>Screwing up a Bind can be <em>particularly</em> bad.</li>
+</ul>
+</li>
+<li>
+<p>Step 1: Research Local Spirits</p>
+<ul>
+<li>if you aren’t a priest in the area, you probably don’t know
+how the local spirits operate; even if you are, checking the
+library for any “gotchase” is wise.</li>
+<li>Probably an 8 hour Task Action, requiring a Research check,
+with Knowledge: Theology, Profession: Cleric, Profession:
+Shaman or similar as a related skill.</li>
+</ul>
+</li>
+<li>
+<p>Step 2: Design the Ritual</p>
+<ul>
+<li>a 4 hour Task Action, requiring a Profession: Cleric,
+Profession: Shaman or similar check.</li>
+<li>Knowledge: Theology is a related skill, and an Exceptional
+or Critical Success on your Research test may help.</li>
+</ul>
+</li>
+<li>
+<p>Step 3: Perform the Ritual</p>
+<ul>
+<li>a one hour Task Action, requiring a Profession: Cleric,
+Profession: Shaman or similar check.</li>
+</ul>
+</li>
+<li>
+<p>Step 4: Haggle!</p>
+<ul>
+<li>Once summoned—assuming it was summoned correctly—you can now
+bargain with the spirit. This is done in-character, using
+your social skills.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Researching a Clue</p>
+<ul>
+<li>
+<p>Many times, you’ll need access to information that you simply
+don’t have; you might need to know the history of one particular
+noble line, or the bind for one particular spirit.</p>
+</li>
+<li>
+<p>Libraries exist throughout the Commonwealth, both public and
+private; one simple recourse is to simply look the information
+up.</p>
+</li>
+<li>
+<p>With access to a library, you can research some particular topic
+with a 6 hour Task Action requiring a Research test; if you
+succeed, you gain useful information about the topic.</p>
+</li>
+<li>
+<p>The quality of the library can complicate things; large
+libraries whose collections span many topics might take longer
+to search, while small or disorganized collections might apply a
+penalty.</p>
+</li>
+<li>
+<p>And, of course, there’s a chance that the information you want
+simply won’t be written down—maybe not in the library you’re
+searching, maybe not anywhere.</p>
+<ul>
+<li>An appropriate Knowledge check can be used to guess where
+(or whether) you can find the information you’re after, as
+can an appropriate Profession check.</li>
+</ul>
+</li>
+<li>
+<p>After you’ve accumulated some useful information, you still need
+to <em>analyze</em> it; this is handled as a two-hour Task Action,
+requiring an appropriate Knowledge check.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Asking Around Town</p>
+<ul>
+<li>
+<p>Sometimes, you need information; you might need rumors, gossip,
+or just basic information about an unfamiliar town.</p>
+</li>
+<li>
+<p>You can “ask around town” as a four hour Task Action, requiring
+a Protocol check; if you succeed, you might be rewarded with
+some basic information, or you might meet some interesting NPC
+(who might be willing to answer questions, might exchange
+information for coin, or might turn out to be important to the
+quest).</p>
+</li>
+<li>
+<p>This procedure isn’t subtle; there’s a good chance people will
+remember “the one stranger snooping around”.</p>
+<ul>
+<li>You can take a -20 penalty on your Protocol check to be
+discreet.</li>
+<li>Of course, a good disguise might prevent this from being a
+problem all-together—unless you’re a member of a very rare
+race, or otherwise difficult to disguise.</li>
+</ul>
+</li>
+<li>
+<p>You can make a Read check to gauge the trustworthiness of the
+people you’ve gathered information from.</p>
+</li>
+<li>
+<p>You can make a Deception check to attempt to conceal your true
+motives and interests.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Getting an Audience</p>
+<ul>
+<li>
+<p>Those with connections can get the party in to see powerful and
+useful contacts—they can get audiences with nobles, generals or
+wealthy people of business.</p>
+</li>
+<li>
+<p>How you go about setting up a meeting depends on the particulars
+of who you want to meet with: a Protocol check can be used to
+make a guess about whether or not a given person will meet with
+you, how you can go about setting that up, and what kind of
+leverage with them you might have.</p>
+<ul>
+<li>Related skills like Interest: Noble Lines or Profession:
+City Administrator might help.</li>
+<li>If you’re new in town, you might not have enough information
+to make the check; you might need to *ask around town
+*first, as above.</li>
+</ul>
+</li>
+<li>
+<p>The procedure for setting up a meeting might vary: you might be
+able to walk into the contact’s estate and ask to be announced,
+you might have to arrange a clandestine meeting, or you might
+not be able to arrange an appointment at all.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Getting an Illegal Item</p>
+<ul>
+<li>Able smugglers can use Profession: Smuggler to acquire things
+the party wants—common items, illegal items, the “services” of
+an assassin, information...</li>
+<li>As a rough guide, you can work the docks and alleyways of a
+large town in search of someone with a valuable commodity as a 2
+Hour Task-Action requiring a Profession: Smuggler test (or
+similar).</li>
+<li>If you succeed, you locate someone who has the thing you’re
+after.</li>
+<li>You still have to pay for the item as normal (using Barter with
+either Trade Goods or money).</li>
+<li>This can be dangerous: on a critical failure, you might run
+afoul of local law enforcement—or some other powerful enemy.</li>
+</ul>
+</li>
+</ul>
+
+    </article>
+
+    <footer>
+        <p>
+            Renaissance is © David Bolding, and is available under the terms of the
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0
+            International (CC BY-NC 4.0)</a> license.
+        </p>
+
+        <p>
+            <a href="https://github.com/typedrat/renaissance">The Renaissance website</a> is © Alexis Williams and 
+            David Bolding, and is available under the terms of the
+            <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License, version 2.0</a>.
+        </p>
+    </footer>
+</body>
+</html>
