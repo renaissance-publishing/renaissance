@@ -3,12 +3,16 @@ import { List, ListItem, ListItemText, styled, ListItemSecondaryAction, IconButt
 import { ExpandLess, ExpandMore } from "@material-ui/icons";
 import { Link, useStaticQuery, graphql } from "gatsby";
 
+//
+
+type Heading = {
+    id: string,
+    depth: number,
+    value: string
+}
+
 type GraphQLQueryResultNode = {
-    headings: {
-        id: string,
-        depth: number,
-        value: string
-    }[],
+    headings: Heading[],
     fields: {
         slug: string
     },
@@ -17,11 +21,49 @@ type GraphQLQueryResultNode = {
     }
 }
 
+class TOCTreeElem {
+    title: string;
+    url: string;
+    depth: number;
+    children: TOCTreeElem[];
+
+    constructor(title: string, url: string, depth: number) {
+        this.title = title;
+        this.url = url;
+        this.depth = depth;
+        this.children = [];
+    }
+
+    static fromResultNode(node: GraphQLQueryResultNode): TOCTreeElem {
+        let parentNode = new TOCTreeElem(node.frontmatter.title, node.fields.slug, 1);
+
+        function addNodeToTree(tree: TOCTreeElem, child: Heading) {
+            if (tree.depth < child.depth - 1 && tree.children.length > 0) {
+                addNodeToTree(tree.children[tree.children.length - 1], child);
+                return;
+            }
+
+            tree.children.push(new TOCTreeElem(child.value, `${parentNode.url}#${child.id}`, child.depth));
+        }
+
+        for (const heading of node.headings) {
+            addNodeToTree(parentNode, heading);
+        }
+
+        return parentNode;
+    }
+}
+
+//
+
 const TOCLink = styled(Link)({
     textDecoration: 'none'
 });
 
-function nodeToListItem({ fields: { slug }, frontmatter: { title }, headings }: GraphQLQueryResultNode): JSX.Element {
+function nodeToListItem(node: GraphQLQueryResultNode): JSX.Element {
+    const { fields: { slug }, frontmatter: { title }, headings } = node;
+    console.log(TOCTreeElem.fromResultNode(node));
+
     let expander: JSX.Element;
 
     if (headings.length > 0) {
