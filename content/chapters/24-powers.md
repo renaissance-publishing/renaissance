@@ -158,24 +158,6 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
           - While sustaining this power, you receive a +20 bonus to checks to Endure Physical Hardship.
           - While sustaining this power, you gain +1 Armor.
 
-  - ~~Transcend~~
-    
-      - Requires: Master, 20 Control
-    
-      - Action: None
-    
-      - You have permanently integrated magical energies into your own
-        life processes.
-    
-      - Effect:
-        
-          - You gain the Empowered tag;
-          - you receive a +10 bonus to tests to Endure Physical Hardship;
-          - you only need to eat and sleep half as much, and
-          - you gain +1 Armor.
-
-      - Made a class, since it isn't an action.
-
   - Down-Time
     
       - Requires: Transcend, 20 Control
@@ -188,7 +170,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Effect:
         
           - After completing the use of this Sleight, you do not need to eat or sleep for 1 day.
-          - After completing the Sleight, you recover 1d10&div;3 Stress.
+          - After completing the Sleight, you recover 1d10÷3 Stress.
           - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you—if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
           - Special: if you have the Heal Sleight, you may also sustain it during Down Time.
 
