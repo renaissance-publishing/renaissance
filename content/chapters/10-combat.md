@@ -264,192 +264,152 @@ For example, a character could use a Quick Action to *run*, and then use another
 
 ## Armor and Armor Penetration
 
-  - Armor and Armor Penetration: if the defender has Armor, subtract
-    their (total) Armor Rating from the attack's DV. However, if the
-    attack has Armor Penetration (AP) – usually because the weapon in
-    use has armor penetration – subtract the Armor Penetration from the
-    Armor. Armor Penetration and Damage Values can't be negative.
-    
-      - Damage inflicted is then: DV – (Armor – Armor Penetration)
+Some characters have an **armor value** (*AV*); *Armor Values* usually come from either *worn armor*, *racial traits* (like Gnoll's *Thick Hide*), or *powers* (like *Master*).
+Conversely, some damage sources (like *weapon attacks*) have an **armor penetration** (*AP*).
 
-  - Armor Penalty: some armors have a listed Armor Penalty, which you
-    take while you are wearing that armor.
+When a character takes *attack damage*, first subtract the attacks' *armor penetration* from the defenders *armor value*, then subtract the *remaining armor value* from the attack's *damage value*; the defender takes the remaining DV.
+That is:
 
-## Strikes and Maneuvers
+Defender's Damage = attack's *Damage Value* - (defender's *Armor Value* - attack's *Armor Penetration*)
 
-The combat system in Renaissance is intended to be light-weight and
-flexible; characters should be able to attempt a variety of attacks,
-maneuvers and tricks, and GMs (ideally) should adjudicate these
-on-the-fly. *However,* players and Gms both can benefit greatly from
-some guidance on the kinds of things that are possible; we therefore
-refer you to the *Special Attacks* section in *Alternate Rules: *those
-rules are optional, but *useful* and *recommended*.
+See *Armors* in *Items* for further rules for worn armor.
 
-  - Any skilled melee combatant will have developed a repertoire of
-    useful tricks, more than simply *sticking pointy end in other
-    fighter.* We call these *strikes* and *maneuvers*.
-    
-      - A *strike* is a modification to a normal attack. To make a
-        strike, you take a penalty on your attack; if you score an
-        Exceptional Success, in addition to the normal affects of the
-        attack, you gain the listed Result.
-        
-          - You decide if your attack is going to be a strike before you
-            make it (since you have to take a penalty on the attack).
-          - An attack can only be one kind of Strike. (You can’t take a
-            -20 penalty to have an attack be both a Called Shot and a
-            Knock Down, for example.)
-    
-      - A *maneuver* is a separate action; it isn’t made as part of an
-        attack.
-        
-          - Each maneuver will list the type of action required, the
-            check, and the result if you succeed.
-    
-      - The following list is by no means exhaustive; players and GMs
-        should feel free to devise and attempt new during play.
+## Special Actions in Combat
 
-  - Strikes:
-    
-      - Called Shot
-        
-          - Penalty: -10
-          - Result: you strike the target in a specified location (you
-            pick the location before your attack).
-          - This one is a catch-all, with results up to the GM.
-          - Special: the attack gains the Precision tag
-    
-      - Knock Down
-        
-          - Penalty: -10
-          - Result: your opponent must attempt a SOM×2 check or be
-            knocked *prone*.
-          - Special: must be a melee attack.
-    
-      - Maim
-        
-          - Penalty: -20
-          - Result: You maim your opponent, removing a specific limb.
-            You can use this to lop off a hand, break a knee or gouge
-            out an eye.
-          - Special: the attack gains the Precision tag.
-    
-      - Mighty Blow
-        
-          - Penalty: -10
-          - Result: You strike your opponent with particular force; you
-            gain +DB to your DV.
-          - Special: must be a melee attack.
-    
-      - Strike an Armor Gap
-        
-          - Penalty: -10
-          - Result: You strike a weak spot in the opponent’s Armor; you
-            gain +DB to your AP.
-          - Special: the attack gains the Precision tag.
+### Drawing and Dropping Weapons
 
-  - Maneuvers:
-    
-      - Disarm
-        
-          - Action: Standard Action
-          - Test: Your melee attack skill vs. target’s melee attack
-            skill or Fray
-          - Result: If you succeed, then you disarm your opponent,
-            forcing them to drop one held item (like a weapon or
-            shield).
-    
-      - Feint
-        
-          - Action: Quick Action
-          - Test: Your Deception vs. target’s Resist Social Manipulation
-            or Read
-          - Result: until the beginning of their next turn, the target
-            takes a -20 penalty to their defense.
-    
-      - Grabbing
-        
-          - Action: Standard Action
-          - Test: your Unarmed Combat vs. target’s Fray or Unarmed
-            Combat.
-          - Result: you grab the opponent, impeding them. They cannot
-            easily act.
-          - The results are at the GM’s discretion, but normally grabbed
-            characters cannot take any other actions besides attempting
-            to escape the grab.
-          - A grabbed character can attempt to break a grapple, using
-            either their Unarmed Combat or their STR+SOM, versus the
-            Unarmed Combat of the character grabbing them. If they win,
-            they break free.
-    
-      - Trip
-        
-          - Action: Standard Action
-          - Test: your melee attack skill vs. target’s Fray
-          - Result: You trip your opponent, causing them to fall prone.
+Drawing or sheathing a weapon is *Quick Action*; dropping a weapon is a *Free Action*.
 
-  - Special:
-    
-      - Catch
-        
-          - Some weapons are designed to *catch* an opponent’s weapon;
-            these weapons have the *catch* tag.
-          - When you are attacked while wielding a weapon with the
-            *catch* tag, rather than defending as normal, you can decide
-            to attempt to *catch* your opponent’s weapon.
-          - This works much like defending as normal, except that you
-            take a -10 penalty, and if you win and score an exceptional
-            success, then you have *caught* your opponent’s weapon (in
-            addition to successfully defending against their attack).
-          - While you have caught an opponent’s weapon, neither you nor
-            they can attack with the involved weapons or move.
-          - During your turn, you may release your opponent’s weapon as
-            a Free Action. You may also attempt to *Disarm* the weapon
-            that you have caught; if you do, you gain a +10 bonus.
-          - Your opponent may let go of the caught weapon as a Free
-            Action; alternatively, they may attempt to break the weapon
-            free as a Quick Action with SOM+STR check.
-          - Attempting to catch is a *reaction*, see *Reactions* below.
-    
-      - Dismount
-        
-          - I’m honestly at a bit of a loss as to how to write this one.
-            Maybe we shouldn’t?
-          - Should we make it a modified version of bracing to receive a
-            charge? A special attack? An action you can attempt any time
-            you strike a mounted rider?
+### Aiming
 
-  - Examples
-    
-      - A goblin gang-member has figured out that she cannot get past
-        Chandra’s armor, so she decides to *strike an armor gap.* She
-        attacks Chandra, rolling her One-Handed Weapons (normally 60,
-        but 50 with the penalty for the trick) against Chandra’s Fray
-        (60). The goblin ganger rolls a 21, and Chandra rolls a 73; the
-        Goblin hits Chandra and deals damage like normal, but she
-        doesn’t get the bonus to AP she was hoping for, since she
-        didn’t score an Exceptional Success.
-      - Track is fighting a monster that attacked the party in a frozen
-        monastery. The fight isn’t going well, so he decides he needs to
-        knock it down and get away. He tries to Knock it Down, and rolls
-        his One-Handed Weapons (normally a 70, but a 60 with the penalty
-        for the trick) against it’s Fray (70). He scores a 41, and the
-        monster scores a 13; Track gets to deal his normal
-        damage—including the +5 bonus for scoring an exceptional
-        success—and then the monster has to roll its SOM×2 or be knocked
-        prone.
-      - Note: there’s no reason you can’t spend moxie on these checks.
-        As an example: Alexis has snuck up behind a watchman guarding a
-        slaver encampment; she wants to dispatch him quickly, so she
-        decides to throw a knife at his neck using Maim. She rolls her
-        Ranged Weapons (normally 60, but 40 with the penalty), and gets
-        a 21: she hit him, but she didn’t strike the mortal blow she
-        wanted. (He doesn’t get to defend, because he’s un-aware of her,
-        see Un-Aware Target below.) She decides she really needs to
-        dispatch him, so she spends a Luck to upgrade her attack to an
-        Exceptional Success; now, not only will she get the +5 DV for an
-        exceptional success, but she’s hit him in the neck—a fatal
-        blow\!
+A character can *aim* at a target (that they can see) as a *Quick Action*.
+After doing so, they gain a +10 bonus to attacks against the target that they aimed at until the end of their turn.
+
+(Note that the attack *does not* need to be a ranged attack; you can use the rules for *aiming* to carefully place a melee attack, for example.)
+
+### Full Defense
+
+During your turn, you may take a Standard Action to focus on defending yourself.
+If you do, until your next turn starts, you receive a +20 bonus when you Defend.
+
+### Bracing
+
+Weapons with the **Brace** tag can be used to prepare to receive a charge.
+
+*Bracing* such a weapon to receive a charge is a *Standard Action*.
+After bracing, until your next turn, if anyone *charges* you (see *Charging*), they provoke an *Attack of Opportunity* from you (see *Reactions*).
+If you hit a charging character with a braced weapon, you deal +DB DV; however, you do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).
+
+### Strikes
+
+A **strike** is a modification to a normal attack.
+To make a strike, you take a penalty on your attack; if you score an Exceptional Success, in addition to the normal affects of the attack, you gain the listed Result.
+
+You decide if your attack is going to be a strike before you make it (since you have to take a penalty on the attack).
+An attack can only be one kind of Strike.
+(You can’t take a -20 penalty to have an attack be both a Called Shot and a Knock Down, for example.)
+
+- Called Shot
+  - Penalty: -10
+  - Result: you strike the target in a specified location (you pick the location before your attack).
+  - This one is a catch-all, with results up to the GM.
+  - Special: the attack gains the Precision tag
+
+- Knock Down
+  - Penalty: -10
+  - Result: your opponent must attempt a SOM×2 check or be knocked *prone*.
+  - Special: must be a melee attack.
+
+- Maim
+  - Penalty: -20
+  - Result: You maim your opponent, removing a specific limb.
+    You can use this to lop off a hand, break a knee or gouge out an eye.
+  - Special: the attack gains the Precision tag.
+
+- Mighty Blow
+  - Penalty: -10
+  - Result: You strike your opponent with particular force; you gain +DB to your DV.
+  - Special: must be a melee attack.
+
+- Strike an Armor Gap
+  - Penalty: -10
+  - Result: You strike a weak spot in the opponent’s Armor; you gain +DB to your AP.
+  - Special: the attack gains the Precision tag.
+
+### Maneuvers
+
+A **maneuver** is like an attack, but it doesn't deal *damage*; instead, if the attacker succeeds, it has some other effect.
+Each maneuver will list the type of action required, the check, and the resuts.
+
+The following list is by no means exhaustive; players and GMs should feel free to devise and attempt new during play.
+
+- Disarm
+  - Action: Standard Action
+  - Test: Attacker's *Melee attack* vs. defender's *Melee Attack* or Fray
+  - Result: If the attacker wins, the defender is *disarmed*, forcing them to drop one held item (like a weapon or shield).
+  - Special: the attacker picks the items to be dropped before the check is rolled.
+
+- Feint
+  - Action: Quick Action
+  - Test: Attacker's *Deception* vs. defender’s *Resist Social Manipulation* or *Read*
+  - Result: if the attacker wins, until the beginning of their next turn, the defender takes a -20 penalty to their defense.
+
+- Grab
+  - Action: Standard Action
+  - Test: Attacker's *Unarmed Combat* vs. defender's *Fray* or *Unarmed Combat*.
+  - Result: if the attacker wins, they *grab* the opponent.  The opponent cannot easily move or act.
+    - The results are at the GM’s discretion, but normally grabbed characters cannot take any other actions besides attempting to escape the grab.
+  - A grabbed character can attempt to break a grapple; this is an opposed check, the grabbed character's *Unarmed Combat* or *STR+SOM* versus the grabbing character's *Unarmed Combat* or *STR+SOM*.
+    If the grabbed character wins, they break free.
+
+- Trip
+  - Action: Standard Action
+  - Test: Attacker's *Melee Attack* vs. defender's *Fray*
+  - Result: If the attacker wins, the defender falls *prone*.
+
+### Special:
+
+- Catch
+  - Some weapons are designed to *catch* an opponent’s weapon; these weapons have the *catch* tag.
+  - When you are attacked while wielding a weapon with the *catch* tag, rather than defending as normal, you can decide to attempt to *catch* your opponent’s weapon.
+  - This works much like defending as normal, except that you take a -10 penalty.
+    If you win and score an exceptional success, then you have *caught* your opponent’s weapon (in addition to successfully defending against their attack).
+  - While you have caught an opponent’s weapon, neither you nor they can attack with the involved weapons or move.
+  - During your turn, you may release your opponent’s weapon as a Free Action.
+    You may also attempt to *Disarm* the weapon that you have caught; if you do, you gain a +10 bonus.
+  - Your opponent may let go of the caught weapon as a Free Action; alternatively, they may attempt to break the weapon free as a Quick Action with SOM+STR check.
+  - Attempting to catch is a *reaction*, see *Reactions* in *Combat*.
+
+- Dismount
+  - I’m honestly at a bit of a loss as to how to write this one.
+    Maybe we shouldn’t?
+  - Should we make it a modified version of bracing to receive a charge?
+    A special attack?
+    An action you can attempt any time you strike a mounted rider?
+
+- Shield Bash
+  - A character can attempt to attac an opponent with their *shield*.
+  - This is resolved as an attack with a melee weapon (the character needs to have *basic proficiency* in *Melee*, but not specific *proficiency* is required).
+  - A *shield bash* does 1d10+1+DB DV, and has AP 0.
+  - Note that the construction or use of some shields might make a *shield bash* impossible.
+  - Shields are often held in the *off hand*, and so appropriate penalties would apply (see *Multiple Weapons and Multiple Attacks*).
+
+### Examples
+
+A goblin gang-member has figured out that she cannot get past Chandra’s armor, so she decides to *strike an armor gap*.
+She attacks Chandra, rolling her One-Handed Weapons (normally 60, but 50 with the penalty for the trick) against Chandra’s Fray (60).
+The goblin ganger rolls a 21, and Chandra rolls a 73; the Goblin hits Chandra and deals damage like normal, but she doesn’t get the bonus to AP she was hoping for, since she didn’t score an Exceptional Success.
+
+Track is fighting a monster that attacked the party in a frozen monastery.
+The fight isn’t going well, so he decides he needs to knock it down and get away.
+He tries to Knock it Down, and rolls his One-Handed Weapons (normally a 70, but a 60 with the penalty for the trick) against it’s Fray (70).
+He scores a 41, and the monster scores a 13; Track gets to deal his normal damage—including the +5 bonus for scoring an exceptional success—and then the monster has to roll its SOM×2 or be knocked prone.
+
+Note: there’s no reason you can’t spend moxie on these checks. 
+As an example: Lady Katarina has snuck up behind a watchman guarding a slaver encampment; she wants to dispatch him quickly, so she decides to throw a knife at his neck using Maim.
+She rolls her Ranged Weapons (normally 60, but 40 with the penalty), and gets a 21: she hit him, but she didn’t strike the mortal blow she wanted.
+(He doesn’t get to defend, because he’s un-aware of her, see *Un-Aware Targets* in *Combat*.)
+She decides she really needs to dispatch him, so she spends a Luck to upgrade her attack to an Exceptional Success; now, not only will she get the +5 DV for an exceptional success, but she’s hit him in the neck—a fatal blow\!
 
 ## Multiple Weapons and Multiple Attacks
 
@@ -574,17 +534,6 @@ A character using a natural weapon takes only a -10 penalty when defending again
 
 Attacks with natural weapons still use the Unarmed Combat skill; each natural weapon requires a specific proficiency (for example, Unarmed Combat (Claws), or Unarmed Combat (Fangs)).
 
-## Bracing
-
-  - Brace: Weapons with the Brace tag can be used to prepare to receive
-    a charge.
-    
-      - You need to have a weapon with the Brace tag.
-      - Bracing to receive a charge is a Standard Action.
-      - After bracing, until your next turn, if anyone *charges* you (see *Charge* above), they provoke an attack of opportunity from you (see *attacks of opportunity* in *Reactions*).
-      - If you take an attack-of-opportunity and hit the charging character, you deal +DB DV.
-      - You do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).
-
 ## Mounted Combat
 
   - Mounted warriors are highly effective combatants: they are highly
@@ -648,29 +597,23 @@ Attacks with natural weapons still use the Unarmed Combat skill; each natural we
     without the Cavalry tag take a -20 penalty when used while riding a
     mount.
 
-## And Unsorted Rules
+## Blast and Splash Attacks
 
-  - Full Defense: during your turn, you may take a Standard Action to
-    focus on defending yourself. If you do, until your next turn starts,
-    you receive a +20 bonus when you Defend.
+Some attacks cover an *area*, rather than affecting a single target; these usually have the *Blast* or *Splash* tags.
 
-  - Blast: a Blast Attack (an Attack with the Blast property) does its
-    listed damage at the center of the blast, and 2 DV less for every
-    meter away from the center. (In this way, the DV scored by the
-    attack determines the radius of the blast.)
-    
-      - People in area of affect of a Blast Attack usually will not be
-        able to Defend – you’re either in the explosion or you aren’t\!
+Attacks with the **Blast** tag do their listed damage where the attack *emanates from*, and 2 DV less for every meter away from that point.
+(Note that this means that the rolled DV *effectively* determines the size of the blast produced by the blast effect.)
+People in area of affect of a Blast Attack usually will not be able to *Defend* against it—you’re either in the explosion or you aren’t\!
 
-  - Splash: similar to Blast attacks, some attacks cover an area, but do
-    not directly cause damage (a thrown jar of Scour, for example; see
-    Items). Attacks with the Splash property cover a given area (like
-    1D10 meters).
-    
-      - Like Blast attacks, creatures in the area of a Splash Attack
-        cannot usually defend.
+Some attacks cover an area, but they don't (immediately) do *damage*; these attacks usually have the **Splash** tag.
+Instead, those within the area of the *splash attack* are affected by it.
+Since they don't deal DV, *splash* attacks usually list a *radius* (like 1d10÷3m for a thrown canister of *scour*, see *Scour* in *Items*).
+Like Blast attacks, creatures in the area of a Splash Attack cannot usually defend—they're either in the area or they aren't.
 
-  - Size and Combat
+These abilities are common with *projectile* and *thrown* weapons (or powers that work similarly).
+When this happens, the point that the attack "emanates form" is the point that the projectile landed—either where the player was aiming, or where the projectile *scattered to* (see Ranged Attacks above).
+
+## Size and Combat
     
       - Ranged attacks against *small* targets receive a -10 penalty;
         however, attempts to grapple small targets are made at +10.
@@ -680,24 +623,16 @@ Attacks with natural weapons still use the Unarmed Combat skill; each natural we
         differences.
       - see *Sizes*
 
-  - Prone:
+## Being Prone
+
+You may drop *prone* as a Quick Action.
+Some effects will force you to become prone (without requiring an action), like failing a SOM×3 check after being wounded, or being tripped.
+Getting up from a prone position is a Quick Action.
     
-      - You may drop prone as a Quick Action.
-    
-      - Some effects will force you to become prone (without requiring
-        an action).
-        
-          - Like failing a SOM×3 check after being wounded, or being
-            tripped.
-    
-      - Getting up from a prone position is a Quick Action.
-    
-      - While prone,
-        
-          - you may move up to half your base movement as a Standard
-            Action;
-          - melee attackers receive a +10 bonus against you, and
-          - ranged attackers take a -10 penalty against you; and
-          - most weapons are more difficult to use (-30 penalty to
-            attack).
+While **prone**,
+      
+- you may move up to half your base movement as a Standard Action;
+- melee attackers receive a +10 bonus against you, and
+- ranged attackers take a -10 penalty against you.
+- Most weapons are more difficult (imposing a -30 penalty attack); this does not apply to weapons with the *prone* tag.
 
