@@ -71,7 +71,7 @@ export class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: strin
         let expandableToggle: React.ReactNode = null;
         let expandableContent: React.ReactNode = null;
 
-        if (/* this.props.tree.children.length > 0 */ false) {
+        if (this.props.tree.children.length > 0) {
             expandableToggle = (
                 <ListItemSecondaryAction>
                     <IconButton edge="end" aria-label="toggle-expand" onClick={this.handleToggleExpand.bind(this)}>
@@ -81,7 +81,7 @@ export class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: strin
             );
 
             expandableContent = (
-                <Collapse in={ this.state.isExpanded } style={{ paddingLeft: 20 }}>
+                <Collapse in={ this.state.isExpanded } style={{ paddingLeft: 20 }} unmountOnExit>
                     <List component="ul" disablePadding>
                         {
                             this.props.tree.children.map( child => (
