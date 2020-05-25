@@ -1,13 +1,14 @@
 import React from "react";
-import { List, ListItem } from "@material-ui/core";
+import { List, ListItem, ListItemText, styled, ListItemSecondaryAction, IconButton } from "@material-ui/core";
+import { ExpandLess, ExpandMore } from "@material-ui/icons";
 import { Link, useStaticQuery, graphql } from "gatsby";
-
 
 type GraphQLQueryResultNode = {
     headings: {
+        id: string,
         depth: number,
         value: string
-    },
+    }[],
     fields: {
         slug: string
     },
@@ -16,10 +17,30 @@ type GraphQLQueryResultNode = {
     }
 }
 
-function nodeToListItem({ fields: { slug }, frontmatter: { title } }: GraphQLQueryResultNode): JSX.Element {
+const TOCLink = styled(Link)({
+    textDecoration: 'none'
+});
+
+function nodeToListItem({ fields: { slug }, frontmatter: { title }, headings }: GraphQLQueryResultNode): JSX.Element {
+    let expander: JSX.Element;
+
+    if (headings.length > 0) {
+        expander = (
+            <ListItemSecondaryAction>
+                <IconButton edge="end" aria-label="expand">
+                    <ExpandMore />
+                </IconButton>
+            </ListItemSecondaryAction>
+        );
+    }
+    else {
+        expander = null;
+    }
+
     return (
-        <ListItem>
-            <Link to={ slug }>{ title }</Link>        
+        <ListItem button component={TOCLink} to={slug}>
+            <ListItemText primary={ title } />
+            { expander }
         </ListItem>
     );
 }
@@ -31,6 +52,7 @@ export default () => {
                 edges {
                     node {
                         headings {
+                            id
                             depth
                             value
                         }

@@ -11,12 +11,12 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const theme = createMuiTheme({
     typography: {
-        fontFamily: 'english, sans-serif',
+        fontFamily: 'de-walpergens-pica, sans-serif',
         fontSize: 16
     }
 });
 
-const tocWidth = 240;
+const tocWidth = 360;
 
 const useStyles = makeStyles({
     tocDrawer: {
