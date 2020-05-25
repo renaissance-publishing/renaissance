@@ -448,7 +448,7 @@ Though few in numbers, the combination of these stealthy hunters scattered throu
 - Senses: Normal, Low-Light, Scent
 - Tags: Natural, Humanoid, Gnoll
 - Language Group: GR
-- *Hide*: Gnolls gain +1 Armor
+- *Hide*: Gnolls gain +1 Armor Value
 - *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
 - *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
 
