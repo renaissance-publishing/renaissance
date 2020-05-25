@@ -26,6 +26,7 @@
     "gatsby-source-filesystem": "^2.3.1",
     "gatsby-transformer-remark": "^2.8.8",
     "gatsby-transformer-sharp": "^2.5.2",
+    "immutable": "^4.0.0-rc.12",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",

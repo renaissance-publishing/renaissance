@@ -24,7 +24,7 @@ Here, we're going to break that down a little, talking about how to build a char
 
 ### Your Combatant's Concept
 
-### Build
+### Your Combatant's Build
 
 If your character is **great at Combat**:
 
@@ -34,7 +34,7 @@ If your character is **good at Combat**:
 
 - Gear
 
-### Combinations
+### Your Combatant's Combinations
 
 ### The Combatant Role
 
@@ -44,7 +44,7 @@ If your character is **good at Combat**:
 
 #### Recovering
 
-### Other Characters
+### Your Combatant and Other Characters
 
 > Chandra hauled himself up to the soldier standing watch at the fort's gate.
 > "I am General Chandra," he said—and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, and out of uniform.
@@ -81,7 +81,7 @@ Or perhaps just a well-read, well-travelled, and inquisitive soul, like Notebook
 
 Of course, Profession is also a knowledge skill; that means that a professional artisan like Veil can also be an Analyst.
 
-### Build
+### Your Analyst's Build
 
 If your character is **great at Analysis**:
 
@@ -121,7 +121,7 @@ If your character is **good at Analysis**:
 - 20 COG or more
 - 20 INT or more, if you're going to take *Jack of All Trades*
 
-### Combinations
+### Your Analyst's Combinations
 
 Characters with high COG might be likely to take *Craft* and *Profession* skills, and serve the party as *provisioners* as well as *Analysts*.
 It also makes sense that someone with Knowledge: Natural Philosophy might have a few ranks in Craft: Chemistry and Profession: Chemist, or that someone with lots of ranks in Knowledge: Military Tactics might have ranks in Profession: Soldier and Craft: Armorer.
@@ -180,7 +180,7 @@ Just because you need some piece of information, doesn't mean someone else has t
 
 Being an analyst is likely to involve time in libraries, labs, and workshops.
 
-### Other Characters
+### Your Analyst and Other Characters
 
 Analysts need someone to provide them with clues and information to *analyse*: they depend on *Infiltrators* to get into interesting places and get out with interesting things; on *Socialites* to use their social skills to get information out of people; and on *Provisioners* to buy, bribe, or extort secrets and treasures that can't be acquired any other way.
 

@@ -2,6 +2,7 @@ import React from "react";
 import { AnchorLink } from "gatsby-plugin-anchor-links";
 import { List, ListItem, ListItemText, ListItemSecondaryAction, IconButton, Collapse } from "@material-ui/core";
 import { ExpandLess, ExpandMore } from "@material-ui/icons";
+import { Map } from "immutable";
 
 
 type Heading = {
@@ -20,6 +21,20 @@ type GraphQLQueryResultNode = {
     }
 }
 
+export function checkHeadingListUnique({ fields: { slug }, headings }: GraphQLQueryResultNode): boolean {
+    const appearanceMap = headings.reduce((state: Map<string, number>, heading: Heading, _, __): Map<string, number> => 
+        state.update(heading.value, 0, x => x + 1)
+    , Map<string, number>());
+
+    const dupMap = appearanceMap.filter(v => v > 1);
+
+    if (!dupMap.isEmpty()) {
+        throw new Error(`Repeated headings in chapter '${slug}': ${dupMap}`);
+    }
+
+    return true;
+}
+
 export class TOCTreeElem {
     title: string;
     url: string;
@@ -34,6 +49,8 @@ export class TOCTreeElem {
     }
 
     static fromResultNode(node: GraphQLQueryResultNode): TOCTreeElem {
+        checkHeadingListUnique(node);
+
         let parentNode = new TOCTreeElem(node.frontmatter.title, node.fields.slug, 1);
 
         function addNodeToTree(tree: TOCTreeElem, child: Heading) {

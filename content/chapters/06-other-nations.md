@@ -145,7 +145,7 @@ Though not a fact that is often spoken aloud---especially in the Eastern Kingdom
 
 The Kingdoms, however, *are* a match for their neighbor to the south, the Goblin Empire, which led the Goblins in years past to sail south from the Emerald Plane and seek riches (and weaker opponents) on the Ruby Plane.  This influx of wealth (and new source of fighting experience for their infantry), however, has led to a significant improvement in the Goblin Empire's military; this in turn has not escaped the notice of the Kingdoms of Men.
 
-### Other Nations
+### The Kingdoms of Men and Other Nations
 
 At present, the Kingdoms of Men are at peace with the Commonwealth, and are not at war with the Goblin Empire.
 The High King has fostered good relations with the people of the Commonwealth, and the people of the Western Kingdom have prospered from it.
@@ -347,7 +347,7 @@ Originally, Brook was written pictographically; after the Ratfolk and Raptors be
 
 </aside>
 
-### History
+### History of the Raptor Empire
 
 #### The Raptor Empire
 
@@ -392,7 +392,7 @@ The Terrace-Maker Raptor's society was dramatically altered; trade with the Ratf
 While they still use a system of corvee labor, they pay their citizens a small wage collected from trade; they also allow their citizens to purchase their way out of corvee labor.
 In turn, a *merchant* class has developed, who trade profitably with other cultures and purchase their way out of corvee obligations.
 
-#### The Goblin Empire
+#### Contact with The Goblin Empire
 
 In CY 617, Goblins first established a settlement on the northeast Ruby Plane.
 In CY 703, the Goblin Empire was formed, and they began their sack and conquest of the Ruby Plane in earnest.
@@ -475,11 +475,11 @@ Their industry is one of the major drivers of the Protectorate economy; fish, cr
 They live throughout the northwest of the Ruby Plane, in large cities and small fishing villages.
 
 
-### Economy
+### Economy of the Raptor Protectorate
 
-### Military
+### Military of the Raptor Protectorate
 
-### Other Nations
+### The Raptor Protectorate and Other Nations
 
 The Raptor Protectorate has no shortage of enemies: the Goblin Empire presses on the east, and the Shaded-Sea constantly attack the west.
 
@@ -684,7 +684,7 @@ Even more rare are similar experiments on other races; these rarely end well for
 The Goblin navy is vital for connecting their territories on the Ruby Plane with their homeland.
 This navy is primarily a defensive and logistical force—protecting their landings, ferrying troops and equipment from the mainland and riches back home.
 
-### Other Nations
+### The Goblin Empire and Other Nations
 
 While the Goblin Empire has made no peace overture to the Kingdoms of Men or the Commonwealth as such, they have avoided any conflict with those powers.
 
@@ -732,7 +732,7 @@ The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven
 
 </aside>
 
-### History
+### History of the Drahrat
 
 Early in CY 509, a psychically-reactive fungus was discovered underneath an island in the Haven Isles; experiments with this organism eventually spawned the Mindsharing Dwarves, or the *Fahrat*.
 This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Deep-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
@@ -835,7 +835,7 @@ Commonwealth Standard and Vulgar Goblin are the two most common languages.
 
 </aside>
 
-### History
+### History of Foam-and-Cloud
 
 Nearly four centuries ago, between CY 534 and CY 561, the islands where settled by both Commonwealth and Goblinoid explorers; at the time, reaching these islands was difficult, and the colonies had little support from their parent cultures.
 Conflict could be fierce, but it was also limited; neither side had substantial military resources, and the Goblins where outnumbered.
