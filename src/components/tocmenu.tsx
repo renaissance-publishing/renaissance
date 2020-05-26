@@ -34,21 +34,6 @@ export default () => {
 
     return (
         <List>
-            <ListItem>
-                <TextField 
-                    label="Search"
-                    variant="outlined"
-                    fullWidth
-                    InputProps={{
-                        startAdornment: (
-                            <InputAdornment position="start">
-                                <Search />
-                            </InputAdornment>
-                        )
-                    }}
-                    />
-            </ListItem>
-
             {
                 nodeTrees.map(nodeTree => (
                     <TOCMenuItem tree={nodeTree} key={nodeTree.url} />
