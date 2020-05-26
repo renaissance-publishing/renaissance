@@ -367,7 +367,7 @@ The following list is by no means exhaustive; players and GMs should feel free t
   - Test: Attacker's *Melee Attack* vs. defender's *Fray*
   - Result: If the attacker wins, the defender falls *prone*.
 
-### Special:
+### Special
 
 - Catch
   - Some weapons are designed to *catch* an opponent’s weapon; these weapons have the *catch* tag.
