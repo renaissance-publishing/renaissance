@@ -2,7 +2,7 @@
 title: "About the Game"
 ---
 
-![Commonwealth Banner](../images/proto_banner_cw.png)
+![Commonwealth Banner](../images/proto_banner_cw_raaad.jpg)
 
 This is an early alpha of an open-source fantasy RPG.
 
@@ -149,6 +149,7 @@ We're working on it.
   - And right now the definition of "basic proficiency" appears to be in a side-bar, which isn't ideal.
 - Write the rules for *recovering raw materials*; I'm thinking scrounging, "gathering professions", and breaking things down.
   - And fix the time-table for producing recipes; it's out of whack right now.
+- Added CV's banners!
 
 ## Editing Notes
 
