@@ -215,12 +215,13 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Example Fields:
         
           - *by interest*: Criminal Gangs, Folklore, Local Religions, Military Tactics, Noble Lines
-          - *by academic study*: Astronomy, History, Literature, Magic, Mathematics, Natural Philosophy, Philosophy, Rhetoric, Theology
+          - *by academic study*: Anatomy, Astronomy, History, Literature, Magic, Mathematics, Natural Philosophy, Philosophy, Rhetoric, Theology
 
   - Medicine (COG)
     
       - Active, Knowledge, Physical, Technical
       - Can be used to diagnose and treat injuries, see *Injury and Healing*.
+      - Example Specializations: Binding, Long-Term Care, Surgery, *by disease*, *by area*
 
   - Melee Weapons (SOM, Proficiency Skill)
 
@@ -320,13 +321,14 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Active, Physical
       - Used for pick-pocketing, hiding (or retrieving) objects on your person, misdirection and simple tricks and illusions.
       - Can be opposed by the Perception of anyone watching you.
-      - Example Specializations: illusions, pick-pocketing.
+      - Example Specializations: illusions, pick-pocketing
 
   - Soothe (SAV)
 
       - Active, Social
       - Your ability to calm others, be a sympathetic presence, and help them work through stress and trouble.
       - Used to help other characters handle *stress*; see *Injury and Healing*.
+      - Example Specializations: Bed-Side Manner, Moment of Crisis, Long-Term Care, Negotiation
 
   - Spellcraft (COG)
     
