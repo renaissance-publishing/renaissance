@@ -614,7 +614,7 @@ These abilities are common with *projectile* and *thrown* weapons (or powers tha
 When this happens, the point that the attack "emanates form" is the point that the projectile landed—either where the player was aiming, or where the projectile *scattered to* (see Ranged Attacks above).
 
 ## Size and Combat
-    
+
       - Ranged attacks against *small* targets receive a -10 penalty;
         however, attempts to grapple small targets are made at +10.
       - Ranged attacks against *large* targets receive a +10 bonus;
@@ -628,11 +628,10 @@ When this happens, the point that the attack "emanates form" is the point that t
 You may drop *prone* as a Quick Action.
 Some effects will force you to become prone (without requiring an action), like failing a SOM×3 check after being wounded, or being tripped.
 Getting up from a prone position is a Quick Action.
-    
+
 While **prone**,
-      
+
 - you may move up to half your base movement as a Standard Action;
 - melee attackers receive a +10 bonus against you, and
 - ranged attackers take a -10 penalty against you.
 - Most weapons are more difficult (imposing a -30 penalty attack); this does not apply to weapons with the *prone* tag.
-
