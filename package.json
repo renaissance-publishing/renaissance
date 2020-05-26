@@ -5,8 +5,6 @@
   "version": "0.1.0",
   "author": "Alexis Williams <alexis@typedr.at>",
   "dependencies": {
-    "@emotion/core": "^10.0.28",
-    "@emotion/styled": "^10.0.27",
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/styles": "^4.10.0",
@@ -27,7 +25,6 @@
     "gatsby-transformer-remark": "^2.8.8",
     "gatsby-transformer-sharp": "^2.5.2",
     "immutable": "^4.0.0-rc.12",
-    "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
