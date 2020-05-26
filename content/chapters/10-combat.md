@@ -506,7 +506,7 @@ This proved confusing, as many players assumed (not unreasonably\!) that they co
 
 The rules given here are an attempt at a minimal viable treatment of Unarmed Combat, which will explicitly allow characters who invest ranks in *Unarmed Combat* to effectively fight against an armed and armored opponent.
 
-</asid>
+</aside>
 
 ### Unarmed Combat
 
