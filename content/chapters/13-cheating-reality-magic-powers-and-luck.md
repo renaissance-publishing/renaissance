@@ -125,6 +125,7 @@ Remember that you decide *how long* it takes to produce a magical effect—and m
 While it might be possible to unleash a plague on a city—an event that might have an effect as dramatic as ending a seige—it might also take *months* to do; in that time, a conventional army could win a conventional victory.
 
 Another hazard is Mage-Sight.
+(See *Mage Sight* in *Sense, Movement and Special Abilities*.)
 Some magic-users have developed the ability to see magic (i.e. have purchased it as a class or power), while some creatures naturally have the ability to see magic.
 In any case, powerful magical effects require *huge* amounts of magic, and thus they might be obvious to anyone (or anything) with Mage-Sight nearby.
 So, in the example of someone trying to end a seige with a plague, not only might such a spell take months to achieve, but the mage and their workshop might shine like a bonfire the entire time, making them an obvious target.
