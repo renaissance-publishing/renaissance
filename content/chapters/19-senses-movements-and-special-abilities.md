@@ -7,43 +7,49 @@ This list is by no means exhaustive.
 
 ## Senses
 
-  - Normal: the normal senses that humans have
+- Normal: the normal senses that humans have
 
-  - Blind-Sight: you have the ability to sense your surroundings, even
-    when you cannot see; this might be a result of the heightening of
-    your other sense, it might be a mechanism like a bat’s sonar, or it
-    might be a supernatural ability. Even in conditions of total
-    darkness, you can perceive your environment, including any object
-    larger than a human fist, out to a distance of 30m. You cannot
-    perceive color or fine detail. Perception tests made with
-    Blind-Sight suffer a -20 penalty.
+- Blind-Sight: you have the ability to sense your surroundings, even when you cannot see; this might be a result of the heightening of your other sense, it might be a mechanism like a bat’s sonar, or it might be a magical ability.
+  Even in conditions of total darkness, you can perceive your environment, including any object larger than a human fist, out to a distance of 30m.
+  You cannot perceive color or fine detail.
+  Perception tests made with Blind-Sight suffer a -20 penalty.
 
-  - Infra-red: you can see in infra-red.
-      - This has several advantages:
-          - you can see at night, 
-          - you can easily pick out objects at a very different temperature than their environment (like very hot objects in a cold room, or very cold objects in a hot room), and
-          - you can very clearly see changes in blood-flow and skin temperature, which makes it easy to pick up on emotional queues that are invisible to many other races (which is represented as a +20 to Read checks against warm-blooded races).
-      - However, this does have some drawbacks:
-          - The resolution of infrared vision is poor, making it impossible to pick out fine detail.
-      - Some materials (like glass) that are transparent in visible light are opaque in infrared, while some other materials that are opaque in visible light are transparent in infrared.
+- Infra-red: you can see in infra-red.
+  - This has several advantages:
+    - you have a limited ability to see at night,
+    - you can easily pick out objects at a very different temperature than their environment (like very hot objects in a cold room, or very cold objects in a hot room), and
+    - you can very clearly see changes in blood-flow and skin temperature, which makes it easy to pick up on emotional queues that are invisible to many other races (which is represented as a +20 to Read checks against warm-blooded races).
+  - However, this does have some drawbacks:
+    - The resolution of infrared vision is poor, making it impossible to pick out fine detail.
+    - Some materials (like glass) that are transparent in visible light are opaque in infrared, while some other materials that are opaque in visible light are transparent in infrared.
 
-  - Low-Light: creature can see clearly in low-light conditions (but not
-    total darkness).
+- Low-Light: creature can see clearly in low-light conditions (but not total darkness).
+  - Essentially, this negates penalties for low light levels (like late evening), and reduces for penalties for near-darkness (like a moon-lit night).
 
-  - Mage-Sight: you can perceive magical energy. You can see active
-    magical effects, and you can attempt to determine what a magical
-    effect is by studying it (a 10 minute task action, requiring an
-    appropriate Knowledge check).
+- Mage-Sight: you can perceive magical energy.
+  - This works much like normal vision, where magic appear much like a luminous substance.
+    - The more magic is being gathered, the more obvious it is; a *power* might be as visible to someone with mage-sight as a camp-fire is to everyone else, while larger, more powerful spells might be shine like brilliant signal-fires, or stir up currents of magic that reach of hundreds of paces (making them obvious even at great distance).
+    - But note that many *inert* substances are opaque to mage-sight, much like they are to visible light—that is, essentially, mage sight can't see through brick walls.
+  - This has many effects:
+    - A character with *Mage Sight* can clearly see powers, spells, and other magical effects.
+    - This allows them to *analyse* a magical effect simply by *examining* it; this is a 10 minutes *Task Action* and requires a successful *Spellcraft* or *Knowledge: Magic* check.
+    - Creatures with the *supernatural* have incorporated magical energy into their life-processes; this magical energy can be perceived with *Mage Sight*, making it obvious that those creatures are partly magical.
+    - Spirits (creatures with the *Spirit* tag) are beings of magic, and thus are plainly evident when viewed with Mage Sight.
+      However, their nature may appear strange, chaotic, or confusing—powerful spirits especially may be entirely overwhelming or incomprehensible.
+  - Some rare creatures and powers can partially mask their magical nature; in these cases, an *opposed test* is required to detect the creature or power's magical nature (the details of this test will be specified by the creature or power's description).
 
-      - As being of magic, Spirits are perceptible to those with mage sight.  However, their nature may appear strange or chaotic, and difficult to understand&mdash;powerful spirits especially may be entirely overwhelming, or impossible to understand.
-      - Some beings (and some powers) can partially mask their magical nature; in these cases, an opposed test is required (the power or creature will specify the test).
+- Motion: you have a particularly good sense for balance and motion.
+  - This provides you with a +10 bonus to many Athletics checks, and may be useful in other circumstances as well.
+  - This sense is very common in races with whiskers.
 
-  - Motion: you have a particularly good sense for balance and motion.  This provides you with a +10 bonus to many Athletics checks, and may be useful in other circumstances as well.
-      - This sense is very common in races with whiskers.
+- Scent: you have an extremely keen sense of smell.
+  - This allows you to reliably detect many creatures despite their best efforts at stealth, and to identify many substances by smell alone.
+  - However, it does have some drawbacks: scent is not precise as to location, and it would be difficult or (practically) impossible to place an attack (for example) at range by scent alone.
+  - Also, powerful odors may overwhelm a character with scent; in the most harmless case, this might make it difficult to detect other scents, but in the worst case, it might stun, disorient, or even incapacitate the character (like a blinding flash or deafening boom might incapacitate any other character).
+  - Finally, particularly clever hunters may deliberately mask their scent.
 
-  - Scent: you have an extremely keen sense of smell. This allows you to detect many sneaking creatures, and to identify things by smell.
-
-  - Tremor-sense: when in contact with a solid object, you can sense vibrations propagating through it. This allows you to sens approaching footfalls through the ground, for example.
+- Vibration: when in contact with a solid object, you can sense vibrations propagating through it.
+  - This allows you to sense approaching footfalls through the ground, for example.
 
 ## Movement Modes
 
@@ -111,20 +117,13 @@ Movement Modes:
 
 ## Abilities
 
-  - Fast Healing: when you have Fast Healing *k*, you reduce your Damage
-    by *k* each turn – normally healing by 20 \* *k* a minute. Every
-    day, you may recover from one wound (what it might look like
-    half-way through this process is best not thought about).
-  - Motion-Sensitive: your senses are particularly sensitive to motion.
-    You receive a +10 bonus to Perception checks made against moving
-    targets.
+- Fast Healing: when you have Fast Healing *k*, you reduce your Damage by *k* each turn—normally healing by 20×*k* a minute.
+  Every day, you may recover from one wound (what it might look like half-way through this process is best not thought about).
+- Motion-Sensitive: your senses are particularly sensitive to motion.
+  You receive a +10 bonus to Perception checks made against moving targets.
 
 ## Sizes
 
-  - The affects of being a different size are generally not represented
-    mechanically (i.e. there is no “size modifier table”).
-  - Being *small *or *large* might confer bonuses in some situations,
-    such as making it easier (if small) or harder (if large) to use
-    Stealth; these are at the GM’s discretion.
-  - See also *Sizes* in Combat.
-
+- The affects of being a different size are generally not represented mechanically (i.e. there is no “size modifier table”).
+- Being *small* or *large* might confer bonuses in some situations, such as making it easier (if small) or harder (if large) to use Stealth; these are at the GM’s discretion.
+- See also *Sizes* in *Combat*.
