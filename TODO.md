@@ -1,0 +1,17 @@
+# TODO:
+- [x] TOC:
+  - [x] Chapter-level TOC links
+  - [x] Heading-level TOC links
+- [x] Nice Markdown image support
+- [ ] Search
+  - [ ] Desktop UI
+    - [x] Search Bar
+    - [ ] Results UI
+  - [ ] Mobile UI
+  - [ ] Actual search
+- [ ] Aside support
+- [ ] Fix mobile layout
+  - [ ] Make drawer reactive
+- [x] ~~References~~
+  - An attempt was made, but unfortunately Gatsby can only do GraphQL queries in pages, and when providing the amount of information needed to make it work, just linking to the simple, pleasant URLs we have is nicer.
+  - Maybe come back to this.

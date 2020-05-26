@@ -164,7 +164,7 @@ Guns are difficult to produce, so they incur a -10 penalty; gunpowder, however, 
 Alternatively, when using these optional rules, *Gunsmithing* can be taken as a craft field; *gunsmithing* covers the production of guns, ammo, and gunpowder.
 When producing a gun with Craft: Gunsmithing, you do not take the -10 penalty given above.
 
-### Guns
+### New Weapons (Guns)
 
 #### Blunderbuss
 

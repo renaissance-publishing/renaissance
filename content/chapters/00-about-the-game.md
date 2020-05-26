@@ -2,6 +2,8 @@
 title: "About the Game"
 ---
 
+![Commonwealth Banner](../images/proto_banner_cw.png)
+
 This is an early alpha of an open-source fantasy RPG.
 
 We're working on it.
