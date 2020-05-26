@@ -204,8 +204,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Action: Sustained
     
       - Condition: To use this power, you must be touching one other
-        creature (which must have a DUR rating). ~~This creature is the
-        target.~~
+        creature (which must have a DUR rating).
     
       - Effects: You transfer wounds from a creature that you touch to
         yourself.
@@ -229,11 +228,10 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Requires: Transfer, 20 Control
       - Action: Task Action (1 minute)
       - Condition: To use this power, you must be sustaining Transfer
-      - Effect: You suffer one wound; if you do, the person you are
-        Transfer-ing wounds from is healed for one wound.
-      - Using sacrifice can be stressfull. A WIL&times;3 test can be called
-        for to use this power; if the power is used successfully, Stress
-        might be inflicted.
+      - Effect: You suffer one wound; if you do, the person you are transferring wounds from is healed for one wound.
+        (Note: the wound is not *bound*, it is entirely healed.)
+      - Using sacrifice can be stressful.
+        A WIL×3 test can be called for to use this power; if the power is used successfully, Stress might be inflicted.
 
   - Join
     
