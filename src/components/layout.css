@@ -2,3 +2,52 @@ a, a:hover, a:visited
 {
     color: black;
 }
+
+article aside
+{
+    margin: 2em;
+    padding: 1em;
+    border: 3px dotted #101020;
+}
+
+.example
+{
+    background-color: #f3d2f3;
+}
+
+.clarification
+{
+    background-color: #c6c6f5;
+}
+
+.gmguidance
+{
+    background-color: #ceecce;
+}
+
+.playerguidance
+{
+    background-color: #8a8aa1;
+}
+
+.designnote
+{
+    background-color: rgb(252, 216, 176);
+}
+
+.hook
+{
+    background-color: rgb(207, 204, 200);
+}
+
+/* Class for fiction blocks.
+ * The idea is that they're centered, less than page width, and have top and bottom borders.
+ */
+.fiction
+{
+    width: 90%;
+    margin: 20px auto;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid none;
+}
