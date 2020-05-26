@@ -18,14 +18,14 @@ If the amount of damage you take at one time exceeds your Wound Threshold, then 
 If you take damage that equals or exceeds twice your Wound Threshold, you take two wounds, and so on; so, if your DUR was 30 and your WT was 6, and you then took 15 damage, you would also take 2
 wounds.
 
-<aside class="clarification float">
+<aside class="clarification">
 
 Note the "at one time" in the above; you have to take WT DV or more *at once*.
 Suppose some source of damage is causing 1 DV to a character over and over again; this might cause a character to reach their DUR or DR without ever taking a single wound.
 
 </aside>
 
-<aside class="playerguidance float">
+<aside class="playerguidance">
 
 How severe is a *Wound*?
 It's an injury severe enough to impede a character, without completely debilitating or killing them.
@@ -46,7 +46,7 @@ If you fail, you are knocked down.
 For every wound that has been inflicted, you suffer a -10 penalty to all actions (note that this includes mental actions, since wounds are painful and distracting).
 At the GM's discretion, specific wounds might inflict other effects; a wound to the head might render a character unconscious, for example, while a wound to a character's legs might *break* one of them and reduce their movement.
 
-<aside class="gmguidance float">
+<aside class="gmguidance">
 
 Most of the time, you won't need to specify a specific Wound with a special effect; it's usually sufficient to tell a player that they suffer a Wound.
 

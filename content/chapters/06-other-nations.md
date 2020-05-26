@@ -159,7 +159,7 @@ If the Easterners can seize control of the Kingdoms, and if they strike an allia
 
 Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance between the Shaded Sea People, the Goblins and the Eastern Kingdoms seems unlikely; the Human and Goblin nations have a long history of conflict, and the Shaded Sea People have no significant contact with either; what's more, the Eastern Kingdom's obvious contempt for non-humans would make such an alliance difficult to strike (and impossible to sustain).
 
-<aside class="floating hook">
+<aside class="hook">
 
 The internal politics of the Kingdoms of Men are one of the major conflicts that drives the plot of Renaissance, and are a major source of plot hooks; the fate of the known world rests in the balance, and there's plenty of room for assassinations, blackmail, dirty tricks and secrets to make a difference!
 
@@ -193,7 +193,7 @@ The Certa are not a peaceful movement; not all of the nobles that they have disp
 Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances—and others have obviously been assassinated.
 Though the Certanis have not yet been proven responsible, they have also not been particularly subtle—particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Plot Hook: Certa
 
@@ -214,7 +214,7 @@ The Certanis consider themselves natural allies to the Commonwealth—their move
 Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certanis; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certanis and the Commonwealth somewhat fraught.
 What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility—even if they have largely surrendered power to representative governments.
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Plot Hook: Certa's Secret Loyalties
 
@@ -258,7 +258,7 @@ The Haffa are one of only two stable, healthy and fertile populations of Elf-Hum
 The Haffa maintain their health through selective breeding, special medicines, and magical intervention—the exact nature of which is not widely known outside of the Haffa royal line.
 (Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world—they are certainly among the best in the Kingdoms.)
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Plot Hook: The Secrets of the Haffa
 
@@ -770,7 +770,7 @@ The *Drahrat* have also mapped extensive networks of caves, and sometimes offer 
 They appear to have some mechanism that allows them to pass under the Worldspine mountains, and to reach the Haven Isles and Ruby Plane as well; whether they have dug their own underways (like those constructed by Kobolds) or have built something like the Commonwealth's Kairne Network—or perhaps a mix of both—is unknown.
 It is suspected that they have a larger population that they have revealed, that they have access to water and some kind of farming, and that they have larger cities that they have not revealed—although whether this is true and what form any of them may take is unknown.
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Plot Hook: Secrets of the Deep-Explorer Dwarves
 
@@ -870,7 +870,7 @@ They live deep within large, defended Goblin manors, jealously guarded against t
 
 They are guarded so jealously because the High Road operates almost freely on the islands; they enjoy wide support among both the Commonwealth-descended and Goblin communities, and the tacit approval of the current King of Bronze.
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Plot Hook: The High Road and the Turquoise Kings
 
@@ -892,7 +892,7 @@ Though they still trade with the Goblin mainland, many merchants will not sail t
 The culture there is neither purely Goblinoid nor Commonwealth; it is a hybrid that has been forged over more than 250 years.
 Commonwealth Standard, Vulgar Goblin, Speech-of-the-Lesser, Weal and Heartland Gnoll and more can all be heard in the kingdom's lively markets; Goblin scholars of the Code argue law with the elected leaders of Commonwealth communities; and Goblins, Gremlins, Humans and Gnolls dine together on feast-days.
 
-<aside class="floating hook">
+<aside class="hook">
 
 #### Guidance: 
 
@@ -908,7 +908,7 @@ He also embraces many of the Commonwealth's values, and openly pursues trade wit
 He is also no friend of slavery: it is widely believed that he will completely outlaw slavery before passing rule to his chosen heir, his second son.
 The High Road also operates freely in his Kingdom; though he does not patronize them directly, he makes no attempt whatever to restrain them, and provides no solace or comfort to slave-holders or slave-catchers.
 
-<aside class="floating gmguidance">
+<aside class="gmguidance">
 
 #### The Turquoise King
 

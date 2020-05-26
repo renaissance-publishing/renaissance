@@ -36,7 +36,7 @@ The *target number* is selected by the GM.
 Target numbers vary, but they are almost always either the *skill target* for a given *skill checks*, or some combination of your aptitudes; see the table below.
 (Additionally, any check's TN can include *modifiers*; see *Modifiers*, below.)
 
-<aside class="designnote float">
+<aside class="designnote">
 
 The authors could not resist using the phrase "linear combination of aptitudes"; the best we could do is wall it off in this little aside.
 
