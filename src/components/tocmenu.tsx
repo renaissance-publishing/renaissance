@@ -19,6 +19,7 @@ export default () => {
                         }
                         fields {
                             slug
+                            chapter
                         }
                         frontmatter {
                             title
