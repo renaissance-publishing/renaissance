@@ -158,24 +158,6 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
           - While sustaining this power, you receive a +20 bonus to checks to Endure Physical Hardship.
           - While sustaining this power, you gain +1 Armor.
 
-  - ~~Transcend~~
-    
-      - Requires: Master, 20 Control
-    
-      - Action: None
-    
-      - You have permanently integrated magical energies into your own
-        life processes.
-    
-      - Effect:
-        
-          - You gain the Empowered tag;
-          - you receive a +10 bonus to tests to Endure Physical Hardship;
-          - you only need to eat and sleep half as much, and
-          - you gain +1 Armor.
-
-      - Made a class, since it isn't an action.
-
   - Down-Time
     
       - Requires: Transcend, 20 Control
@@ -188,7 +170,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Effect:
         
           - After completing the use of this Sleight, you do not need to eat or sleep for 1 day.
-          - After completing the Sleight, you recover 1d10&div;3 Stress.
+          - After completing the Sleight, you recover 1d10÷3 Stress.
           - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you—if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
           - Special: if you have the Heal Sleight, you may also sustain it during Down Time.
 
@@ -222,8 +204,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Action: Sustained
     
       - Condition: To use this power, you must be touching one other
-        creature (which must have a DUR rating). ~~This creature is the
-        target.~~
+        creature (which must have a DUR rating).
     
       - Effects: You transfer wounds from a creature that you touch to
         yourself.
@@ -247,11 +228,10 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
       - Requires: Transfer, 20 Control
       - Action: Task Action (1 minute)
       - Condition: To use this power, you must be sustaining Transfer
-      - Effect: You suffer one wound; if you do, the person you are
-        Transfer-ing wounds from is healed for one wound.
-      - Using sacrifice can be stressfull. A WIL&times;3 test can be called
-        for to use this power; if the power is used successfully, Stress
-        might be inflicted.
+      - Effect: You suffer one wound; if you do, the person you are transferring wounds from is healed for one wound.
+        (Note: the wound is not *bound*, it is entirely healed.)
+      - Using sacrifice can be stressful.
+        A WIL×3 test can be called for to use this power; if the power is used successfully, Stress might be inflicted.
 
   - Join
     

@@ -219,3 +219,211 @@ And, of course, once an *Analyst* has a strong hypothesis or workable plan, they
 ## Survivalist: getting by in the wild
 
 ## Healer: putting the party back together
+
+> It was a blinding spark of pain that lit up Chandra's side.
+> The mighty drake lashed out with his greatsword, more instinct and rage than a controlled attack.
+> The human knight sneered slowly, adjusting his footing for a final blow.
+> And then Trac was there, his massive shield absorbing the blow, and hulking frame pushing back.
+> He wasn't there to finish the fight, though, a furred hand reaching down and grasping the collar of Chandra's armour.
+> Dragging the spent, wounded general out of danger.
+>
+> "You should learn to dodge" The Gnoll said, with a dry, familiar tone.
+
+### Your Healer's Concept
+
+Healing is difficult, and it takes many lifetimes to truly understand  the mysteries of one race's body, let alone the many races that call the Emerald Plane home.
+Healers are nonetheless prized participants in any adventure, and respected in their homes and businesses.
+Whether the lowly medic in the commonwealth army removing his fallen comrades from the fight, or the highly-skilled commonwealth alchemist-surgeons exploring and unlocking the mysteries of life, it falls to you to stitch up your comrades when they fall, to offer aid to your allies or to innocent victims of violence, and to calm and support those who troubles threaten to overwhelm them.
+
+There are several questions to answer when deciding on your healer's concept:
+
+- What kind of healer are they?
+  - A formally trained doctor, with a formal education and professional practice?
+  - Are they a *medic* in the Commonwealth military, who may be used to chaos and violence, and who may have combat skills and a military rank?
+  - A local healer—a village elder trusted to patch the wounded up, despite having little or no actual training or formal education?
+  - A worker of magic, who uses *sleights* or *powers* to heal the injured?
+  - A priest, cleric, or elder, someone who provides care and emotional support more than they perform surgeries?
+- What kind of *healing* do you provide?
+  - Characters can suffer both physical injury and emotional stress; which will you try to heal?
+    Or will you attempt to heal both?
+- How do you provide healing?
+  - Do you use skill, knowledge, and compassion (with *Medicine* and *Soothe*)?
+  - Or do you use magic, with powers like *Heal*, *Transfer*, *Regrowth*, and *Sacrifice*.
+
+### Build
+
+We'll break this down into three "builds":
+
+- Physical Healing with Medicine
+- Emotional Healing with Soothe
+- Physical Healing with Magic
+
+If your character is **great at Physical Healing with Medicine**:
+
+- Acerbic wit and sarcastic bedside manner are optional, but always entertaining.
+- COG at least 25
+- The *Medicine* skill at 70, with a *specialization*.
+  - The more ranks you have in *Medicine*, the happier the people you're trying to heal will be.
+- A relevant *Profession* (like Doctor, Healer, Medic, or Midwife) at 50
+  - The Profession is important for your character to know how to *be a doctor*.
+- *Soothe* at at least 50.
+  - This will help you calm panicking, frightened, or suffering patients—you can't operate on people who are panicked and fighting you.
+- Craft: Chemistry at at least 40
+  - useful for brewing medicines and potions; more is better.
+- At least two appropriate knowledge skills at 50
+  - *Anatomy* may help in understanding how bodies work
+  - *Diseases* will help in their treatment
+- At least a *Medicine* skill kit and *Craft: Chemistry* skill kit.
+  - *Shops* are better if you have the CP to spend.
+- Healing potions
+- Perception at 50 or higher, to assist in diagnosis.
+- Research at 50 or higher
+  - Different species may have different medical requirements, and no doctor can manage an encyclopedic knowledge of every disease at all times.
+- Search at 50 or higher, to find useful ingredients and resources (like finding medicinal herbs in the wild).
+- The *Bedside Manner* power,
+  - which allows you to use a *Social* skill (like Soothe!) as a *related skill* while binding wounds.
+
+If your character is **Great at Emotional Healing with Soothe**:
+
+- COG at least 20, Int at least 20, SAV at at least 25, WIL at least 20
+  - Since *Soothe* is SAV-linked, good SAV is obvious.
+  - WIL might be surprising, but providing emotional support to someone in crisis can itself be very stressful.
+  Your character will be brought in intimate contact with others' fears, pains, and shames, and you'll experience some measure of their emotional crisis with them.
+- The *Soothe* skill at at least 70.
+- A relevant *Profession* (like Doctor, Healer, or Priest) at 50
+- *Read* at at least 60.
+- *Persuasion* and *Protocol* at at least 50.
+- Other social skills if you have the points.
+  - Deception can be useful—the bold truth is not always the best medicine.
+  - Even *Intimidate* could be useful for some unusual personalities.
+- Craft: Chemistry at at least 40
+  - Brews, potions, and medicines (or just a cup of tea or shot of bourbon) have long been a part of emotional support.
+
+If your character if **Great at Physical Healing with Magic**:
+
+- *COG* or *WIL* at least 25, depending on whether you're using *spells* or *sleights*.
+- *Spellcraft* or *Control* at least 70, as appropriate to the powers you're using.
+  - The powers in the "*Heal* tree" are *sleights*, so you'll need *Control* for those.
+- The "*Heal tree*" powers:
+  - *Heal* allows you to fast-heal your own *DUR*.
+  - *Transfer* transfers other's *damage* to you, so you can then heal it.
+  - *Regrowth* heals your *wounds*.
+  - *Sacrifice* transfers a *wound* from someone else to you, so you can heal it.
+- *Jump* and *Group Jump* to remove fallen allies from a fight
+
+### Playing a Healer
+
+One thing to know for all three Healer builds: healing is *difficult* and *time-consuming*.
+In many cases, you won't even be able to completely heal someone: time and natural healing may be required.
+
+#### Using Medicine
+
+If you're using *Medicine*, you'll often be attempting to *bind wounds* after combat; see *Injury and Healing*.
+Binding a wound is time-consuming: it has a base time-frame of 10 minutes, and it requires you to have *supplies* like bandaging, or a needle and thread, all clean (i.e. at least a *Medicine* skill-kit).
+
+It's vitally important to note that you can *only attempt to bind a wound once*: if you fail, the player will simply have to suffer that wound until they heal *naturally*.
+For that reason, it's important to make your *best effort* to bind a wound: making a test at a 50 or 60 may not seem so bad at first, but the character you're healing may not appreciate being stuck with half their wounds.
+You should get the best target you can: *take your time*, get *assists*, use (for example) the Bedside Manner class to claim related skills, and scrounge around for any other boost you can find—because you won't get a second chance.
+
+After you've attempted to bind an injured character's wounds, there's not much more you can do, besides provide *long-term care* and keep a patient dosed with *healing potions*.
+(Note that healing potions merely speed natural healing; they are *not* a short-term healing mechanism.)
+
+#### Using Soothe
+
+
+
+#### Using Magic
+
+Using *magic* for physical healing might seem to be powerful by comparison, but it's not without cost.
+*Heal* and *Transfer* are powerful, since they don't require a test, and can heal a character of all DV in about a minute—*Heal* will heal you of about 20 DV in a minute, and *Transfer* will heal another character of about 40 DV in a minute (by transferring that DV to you).
+But note that *Heal* and *Transfer* don't heal *wounds*, only *damage*—and that they heal that damage by transferring it to you and allowing you to *fast heal* it away, a process which might be stressful for you!
+
+*Regrowth* and *Sacrifice* allow you to heal a wound of yours, and to transfer other's wounds to yourself.
+Transferring a wound with *sacrifice* may only take a minute, but healing your new wound with *Regrowth* requires an hour.
+And, even more than transferring damage, transferring *wounds* is likely to be *stressful*.
+
+Using these powers can require careful planning, and it can be more time-consuming than they might at first appear if you don't want to cripple, traumatize, or incapacitate yourself in the process.
+
+Don't we have better options for magical healing?
+Not really!
+Healing is meant to be difficult, and magic isn't intended to be a way for a character to step around that limitation.
+
+### Combinations
+
+The different healer builds combine fairly well with *each other*.
+Soothe can be useful to a doctor, and *Heal* can be valuable for a doctor to have so that the party's healer isn't themselves crippled or killed.
+
+Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both—and Doctors are likely to be beneficiaries of a formal education.
+This can work both ways, with Analysts making excellent healers, as well, if their interests run in the right direction.
+
+Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for passable healers; this makes particular sense for someone who's served as a *medic* in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
+Anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
+
+Infiltrators, with their reliance on perception, can easily spot signs of injury, and many cultures place well-intentioned taboo on harming physicians of any stripe.
+These can potentially work in such a combination's benefit.
+
+Socialites combine very effectively with *emotional* healers who use *Soothe*, for perhaps obvious reasons—their skills overlap heavily.
+But *medicine*-based physical healers can also combine well with socialites and provisioners.
+The importance of bedside manner, confidence and a winning charm in medicine cannot be overstated, and good doctors are often rich, as they have very valuable skills and no shortage of work.
+
+It's worth noting  that *healing* is a secondary role with a relatively low investment barrier, and it doesn't improve quite so spectacularly with increased CP and RP investment.
+
+### The Healer Roll
+
+As a healer, your job will be to support the more adventurous members of
+the party when they fall afoul of combat, or stressful situations.
+
+After a tense fight, wounds will need to be washed and sealed to keep
+infection at bay, and to bring combat-focused characters back to full
+strength. You can always heal an enemy who has yielded, or an
+incapacitated prisoner who has information that the party requires.
+Anyone afflicted with poison will need antidotes to be mixed and dosed,
+and some will need to be brought down from the adrenaline rush with
+care.
+
+Other, more sedate adventures might still involve mental stresses,
+psionic attacks and mind control, questionable actions the adventurers
+are forced to undertake, phobias and fears… all of these require a
+deft touch and a shoulder to rest on. Healing mental stress is
+difficult, but is just as important as keeping bodies knitted together
+in the right situation.
+
+Unlike a combatant, infiltrator, or analyst, you can make an
+assassination fail after the fact, saving life is itself a unique skill
+that is well-respected the world over.
+
+Should it come up, though, never forget that the power to mend and
+repair life, also gives intimate awareness on how to influence it. Your
+medical knowledge also gives you the tools needed to remove threats in
+unexpected, or ethically troubling manners.
+
+### OtherCharacters
+
+Playing the healer can be an amazingly selfless role, even if your
+medical knowledge is what the success or failure of the adventure hinges
+upon. Regardless of your other skills, many people will be programmed to
+believe that healing is simply 'your job'
+
+Combatants will rely on you as a crutch, more ablative styles of fighter
+needing stitching up after almost every fight. And occasionally in the
+middle of a fight, should they bite off more than they can chew.
+Similarly, if an Infiltration goes poorly, the infiltrator will likely
+need some medical attention, should they get away
+
+Being an 'academic' of sorts will help you provide some backup to the
+Analyst character, while knowledge of medicinal compounds and plants are
+sure to give you something in common with Survivalists.
+
+As much as Combatants rely on you, Survivalists and provisioners will be
+your own weakness. Providing you with the items you need to keep your
+medical kit stocked to the brim, and in turn keeping your allies wounds'
+mended and minds from being clouded with stress.
+
+> "Ah *ata-ata-ata-ata*" Aceh mused as she considered the limp form before her, the green-grey skin split by Goblin hand cannon in four places, blowing fist-sized holes through the strong-willed but foolish orc.
+>
+> "You go and you charge a ship full of goblins with hand cannons, and you get dragged back to me, leaving a lovely red streak up the beach…"
+> Her words teased the semi-conscious ears, the half-hearted admonishment encouraging Kiegar to slowly stir as Aceh's dextrous paws carefully extracted what was left of the bullets.
+> "You are lucky you have the best healer this side of foam-and-cloud."
+>
+> She rattled on, words almost too fast to decipher as Keigar registered the *ping… ping… ping* of bullet fragments dropped in a dish to Aceh's side.
+> "*Ata-ata-ata-ata…* You lie down, make full recovery." She smiled, baring Gremlin teeth.

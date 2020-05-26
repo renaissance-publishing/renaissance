@@ -4,8 +4,6 @@ title: "Running Games"
 
 ## Designing Adventures
 
-  - See the notes in the Common Scenes section.
-
   - Remember that Renaissance is supposed to be balanced between several
     different areas—acquiring resources, fighting, sneaking, social
     scenes and analysis. Don’t let any one of these become too large.

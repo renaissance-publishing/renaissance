@@ -2,11 +2,9 @@
 title: "Alternate Rules"
 ---
 
-The following are alternate rules systems. Some of them might be ideas
-that I’m playing with for future inclusion, while others might just be
-common systems that most people would house-rule in if we didn’t cover
-them. Some are just good rules that we didn’t think fit in the core
-rules, for one reason or another.
+The following are alternate rules systems.
+Some of them might be ideas that I’m playing with for future inclusion, while others might just be common systems that most people would house-rule in if we didn’t cover them.
+Some are just good rules that we didn’t think fit in the core rules, for one reason or another.
 
 ## Buying Back Negative Traits
 
@@ -268,82 +266,6 @@ It is sometimes derisively referred to as the "bomb that you don't throw," after
       - Tags: Loud, Prone, Two-Handed, Vulnerable
 -->
 
-<!-- the Star Trek RPG is not copylefted, and this isn't a great port of the momentum-and-threat rules anyway.
-## Momentum and Threat
-
-  - Sometimes you score a critical success on a boring and uninteresting
-    check; other times, your players score a critical failure on a
-    boring and trivial check; and sometimes nobody can think of a good
-    critical effect—what does critically succeeding on a test to make
-    three dozen spoons even look like?
-
-  - The Star Trek RPG has a great system for this, and we’re adding it
-    as an optional rule.
-
-  - This rule adds two new *pools*, *momentum* and *complications*.
-    
-      - These pools aren’t individual character stats; instead, they’re
-        shared by the party (in the case of *momentum*) and managed by
-        the GM (in the case of *complications*).
-      - So the party has one shared Momentum pool that everyone uses,
-        and the GM has one Threat pool that they will draw from.
-      - The GM may choose to let the party see the Threat pool, or to
-        keep it secret.
-
-  - Each pool starts at 0, and can be raised as high as the number of
-    players, including the GM(s) (so if there are 5 players and 1 GM,
-    then each pool can go up to 6).
-
-  - When the players score an exceptional or critical success, they can
-    choose to Downgrade. If they do, then they gain (or “bank”) one
-    Momentum.
-
-  - Likewise, if an (opponent) NPC scores a Critical or Exceptional
-    Success, the GM may choose to Downgrade in order to gain (or bank)
-    one Threat.
-
-  - If a player scores an Exceptional or Critical Failure, the GM may
-    offer to gain one Threat in exchange for allowing the player to
-    Upgrade.
-
-  - A player may spend Momentum to:
-    
-      - gain any benefit they could spend a Luck Point for, according to
-        the rules for spending Luck Points;
-      - gain any benefit they could spend a Fate Point for, according to
-        the rules for spending Fate Points (if using the Fate Points
-        alternate rules);
-      - re-roll a check (at the cost of 2 Momentum);
-      - Deal maximum damage with an attack (at the cost of 2 Momentum).
-
-  - A GM may spend Threat to:
-    
-      - force a player to re-roll a Test;
-      - introduce a new obstacle that hinders the players, such as a
-        guard showing up at the wrong time or a petty noble deciding
-        they’ll spend the rest of the day making the player’s lives Hard
-        (at the cost of 2 Threat, so make it a good one\!);
-      - have one NPC gain any benefit they could spend a Luck Point for,
-        according to the rules for spending Luck Points;
-      - halve the damage inflicted by an attack (at the cost of 2
-        Threat)
-
-  - Part of the intent of Momentum and Threat is to give them game a
-    more cinematic feel; both GMs and players should bear that in mind
-    when banking and spending.
-
-  - How momentum is spent is a party decision, which is to say, we
-    provide no guidance for what GMs should do if the party doesn’t
-    agree on how to spend a Momentum.
-    
-      - If you’d like to turn your gaming table into a Friendship
-        Destruction Simulator, you can try allowing any player to spend
-        Momentum unilaterally; be prepared for fratricide.
-
-  - If anyone has some other suggestions for ways to spend Momentum,
-    that’d be rad.
--->
-
 ## Advanced Firearms
 
 In the real world, there was an era when early firearms coexisted with (steel-prod) crossbows and plate armor, without being clearly superior to the one or completing negating the other; these early, muzzle-loading, smooth-bored, ball-firing black-powder weapons are not wildly disruptive if introduced to a world that already has crossbows and seige weapons.
@@ -370,80 +292,72 @@ Using these rules, a player can purchase a gun with one of these innovations as 
   - The weapon can only be used with balls, slugs and pointed bullets (e.g. you cannot use it with shot or canister rounds).
 - **Pointed Bullet:** The weapon gains +4 AP.  If taken with the Rifled Barrel, the weapon gains the Very Accurate tag, and you gain an additional +10 bonus to your attack checks with it.
 
-## Raw Materials
+## Advanced Crafting
 
-  - The rules for crafting tell you that you need “raw materials” to
-    craft, but they (implicitly) leave it up to the GM to determine if
-    that’s the case.
-    
-      - The following rules allow players to purchase and track their
-        use of raw materials, and are useful for GMs who want to make
-        resource management a part of their game.
+### Raw Materials
 
-  - You may purchase raw materials for a given Craft skill—for example,
-    “Craft: Alchemy Raw Materials”
-    
-      - Raw Materials are Moderate items, and have the Heavy tag.
+Normally, we don't track raw materials for crafting; if you have a Skill Kit or Shop, you're assumed to have the resources to craft items of up to Cost: Moderate.
+The following rules allow players to purchase and track their use of raw materials; they're useful for players that want a little more detail in their crafting system, and for GMs who want to make resource management a more important part of their game.
 
-  - When you purchase Raw Materials, they have 20 charges.
-    
-      - Crafting a Minor item consumes 1 charge.
-      - Crafting a Moderate item consumes 5 charges.
-      - Crafting a Major item consumes 10 charges.
-      - Your raw materials are consumed when they run out of charges.
+Characters may purchase raw materials for a given Craft skill—for example, “Craft: Alchemy Raw Materials”
+Raw Materials are Cost: Moderate, and they have the Heavy tag (though they are generally portable).
 
-  - We don’t provide rules for “recharging” Raw Materials: when you
-    deplete your Raw Materials, you should simply buy more.
+When you purchase Raw Materials, they have 20 *charges*.
+Crafting an item consumes charges; when there are no charges left, the Raw Materials are *consumed*.
+(That is, used up and gone.)
+Charges are consumed according to the following table:
 
-  - Note that raw materials, though heavy, are portable.
-    
-      - GMs may rule that some tasks require more resources than raw
-        materials provide; for example, Craft: Sculpture raw materials
-        might not have enough marble to carve a life-sized statue.
-      - GMs may also rule that Raw Materials just don’t make sense for
-        some skills; for example, enough marble to build a castle would
-        cost more than a Moderate item and be more than Heavy, so Craft:
-        Masonry Raw Materials might not be allowed.
+- Crafting a trivial item consumes no charges.
+- Crafting a Minor item consumes 1 charge.
+- Crafting a Moderate item consumes 5 charges.
+- Crafting a Major item consumes 10 charges.
+- Crafting an Extreme item consumes 20 charges.
 
-<!-- These rules where mainlined
-## Reactions
+Of course, like normal, a Major or (especially) Extreme item may have other, unique costs; acquiring the components for an Extreme item could be the hook for an entire adventure.
 
-  - Consider a caster-character standing behind and to the side of a
-    fighter-character; with the rules as they are, nothing stops an
-    enemy from simply *walking around* the fighter character and
-    attacking the caster character.
-    
-      - Reactions provide a framework for taking *reactions* outside of
-        your turn, which includes as a primary use-case allowing
-        fighter-type characters to attack people who try to move past
-        them.
-      - This allows fighter-types to better control an area, and to
-        better defend their team-mates.
+GMs may rule that some tasks require more resources than raw materials provide; for example, Craft: Sculpture raw materials might not have enough marble to carve a life-sized statue, and Craft: Carpentry raw materials wouldn't have enough wood to make a house.
+GMs may also rule that Raw Materials just don’t make sense for some skills; for example, enough marble to build a castle would cost more than a Moderate item and weigh more than the Heavy tag implies, so Craft: Masonry Raw Materials might not be allowed.
 
-  - Using these rules, you may sometimes take actions outside of your
-    turn.
-    
-      - An action taken outside of your turn is called a *reaction*.
-      - Once you take a reaction, you cannot take *another* reaction
-        until the end of your next turn. (Roughly, you only get one
-        reaction per turn.)
+Optionally, in some cases, it's possible to *recover* charges for Raw Materials.
 
-  - Readied Actions: as a Standard Action, you may *ready* an action.
-    When you ready an action, you specify another Standard Action, and a
-    condition; if the condition occurs before your next turn, you may
-    choose to take the specified action.
-    
-      - Activating your a Readied Action is a Reaction.
+### Recipes
 
-  - Attacks of Opportunity: if a character who you threaten attempts to
-    move away from or past you, you may make an attack against them.
-    This uses all the normal rules for an attack.
-    
-      - Hitting an opponent with an attack of opportunity doesn’t hinder
-        their movement, unless you also incapacitate them with your
-        attack (by knocking them over for example).
-      - An Attack of Opportunity is a Reaction.
--->
+How do you know *what* your character knows how to make?
+Do you need to purchase *recipes*, for example, for potions, or perhaps *blueprints* for weapons?
+
+We don't provide listings or prices for recipes, so the tacit de-facto answer is "no."
+If your character has 50 ranks in Craft: Alchemy, then they are by all rights a master Alchemist;
+and if they are a master alchemist, then they very likely know how to produce a wide variety of useful potions.
+(And if they *don't* know how to produce a given potion, they might able to work it out with experimentation.)
+
+Recipes allow players to track what their characters know how to make.
+
+During character creation, a character gains 5 "recipe points" per 10 ranks they purchase in a craft skill; they can also *buy* 5 recipe points for 5 CP.
+They can then *spend* their recipe points to purchase *recipes* according to their cost category, as given on the table below:
+
+| Item Level | Recipe Point Cost |
+| ---------- | ----------------- |
+| Trivial | *not tracked* |
+| Minor | 1 |
+| Moderate | 2 |
+| Major | 4 |
+| Extreme | 6 |
+
+Note that trivial items are not tracked; you don't need to enumerate how many nails, forks, candle-stick holders, and other small, utilitarian items your *Blacksmith* character knows how to make.
+
+You can use *RP* to purchase "recipe points" (and then recipes) during *down-time* at the same rate.
+
+Your character can also *develop* recipes on their own.
+Developing a recipe is a time-consuming process, requiring research, planning, and experimentation.
+The table below lists the *time frame* required to develop a recipe (and any check involved) for each item level.
+
+| Item Level | Time Frame | Check |
+| ---------- | ---------- | ----- |
+| Trivial | *not tracked* | None |
+| Minor | 2 hour *Task Action* | None |
+| Moderate | 1 Shift Job | Craft at +20 |
+| Major | 5 Shift Job | Craft |
+| Extreme | 20 Shift Job | Craft at -20; Research may be required |
 
 ## Reputation
 

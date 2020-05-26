@@ -108,6 +108,16 @@ We're working on it.
 - Added some variant armors, dicking around in the armor section.
 - Added rations.
 - Added some sample special arrows.
+- Moved the "crafting recipe" system into an alternate rule,
+  - changed that aside to make it clear that, yes, if you have a crafter character, then RAW you just get to have as much scour as you want.
+- Continuing reorganization in Combat
+  - Added a "Special Actions" sections and put a bunch of stuff there.
+  - "Strikes" is still a long bullet-list, but that's good enough for now.
+  - Added basic statements for drawing and sheathing weapons, aiming.
+  - Moved *Focusing on Defence* to this part.
+- Changed the proficiencies for Athletics.
+- Initial work merging in CV's "How to Play Healers" section.
+- Tweaking and updating to the Senses section of the racial abilities chapter.
 
 ## To-Do
 
@@ -136,6 +146,8 @@ We're working on it.
   - including renaming the file.
 - Right now, the *Basic Rules* chapter is... fucked up and mostly asides.
   - And right now the definition of "basic proficiency" appears to be in a side-bar, which isn't ideal.
+- Write the rules for *recovering raw materials*; I'm thinking scrounging, "gathering professions", and breaking things down.
+  - And fix the time-table for producing recipes; it's out of whack right now.
 
 ## Editing Notes
 
@@ -161,9 +173,9 @@ We're working on it.
 ## Contributors
 
 - Gleech: lead author
-- Sauce: a list of powers, GMing for a test, whisps
-- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.
-- King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.  The Knights of the White Tusk.
+- Sauce: a list of powers, GMing for a test, A sample module (incl. Wisps).
+- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.
+- King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.  The Knights of the White Tusk.  Proficiencies for *Athletics*.
 - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)  The Brightfeathers.
 - Misandry: helping to fill out the Shamblers.
 - Runic: clever uses for fireballs. Lobsters\!
