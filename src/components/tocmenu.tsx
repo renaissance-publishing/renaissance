@@ -1,8 +1,7 @@
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 
-import { List, ListItem, TextField, InputAdornment } from "@material-ui/core";
-import { Search } from "@material-ui/icons";
+import { List } from "@material-ui/core";
 import { TOCMenuItem, TOCTreeElem } from "./tocmenuitem";
 
 //
