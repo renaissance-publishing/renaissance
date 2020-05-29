@@ -14,7 +14,8 @@ type Heading = {
 type GraphQLQueryResultNode = {
     headings: Heading[],
     fields: {
-        slug: string
+        slug: string,
+        chapter: number
     },
     frontmatter: {
         title: string
@@ -51,7 +52,9 @@ export class TOCTreeElem {
     static fromResultNode(node: GraphQLQueryResultNode): TOCTreeElem {
         checkHeadingListUnique(node);
 
-        let parentNode = new TOCTreeElem(node.frontmatter.title, node.fields.slug, 1);
+        const url = node.fields.chapter == 0 ? '/' : node.fields.slug;
+
+        let parentNode = new TOCTreeElem(node.frontmatter.title, url, 1);
 
         function addNodeToTree(tree: TOCTreeElem, child: Heading) {
             if (tree.depth < child.depth - 1 && tree.children.length > 0) {
