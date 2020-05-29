@@ -4,6 +4,8 @@ title: "Other Nations"
 
 ## The Kingdoms of Men
 
+![Kingdoms Banner](../images/proto_banner_kingdoms.png)
+
 The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after it had collapsed.
 
 <aside class="floating">
@@ -281,6 +283,8 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
 
 ## The Shaded Sea People
 
+![Shade Sea Banner](../images/proto_banner_shaded_sea.png)
+
   - Alliance of Ratfolk and Shade Elves.
   - Shade elves originate in the Southwestern corner of the Emerald
     Plane, where they were a fearsome mounted raiding people.
@@ -304,6 +308,8 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
     and on Emerald Plane.
 
 ## The Raptors' Protectorate
+
+![Raptors Symbols](../images/proto_banner_raptors.png)
 
 - On the Raptor’s Plane, in the North-West and Central regions of the continent.
 - An alliance formed almost 400 years ago to resist piracy and raiding by Shaded Sea People.
@@ -483,8 +489,9 @@ They live throughout the northwest of the Ruby Plane, in large cities and small 
 
 The Raptor Protectorate has no shortage of enemies: the Goblin Empire presses on the east, and the Shaded-Sea constantly attack the west.
 
-
 ## The Goblin Empire
+
+![Goblin Banner](../images/proto_banner_g_empire.png)
 
 Goblins have long dwelled in the southeastern reaches of the Emerald Plane, their culture ruled by Kings and Warlords—and infamous for the sale and brutalization of intelligent beings as slaves.
 Since the rise of the Dragonshire—and especially since the Kingdoms of Men reformed from the remains of the Empire of Man—the Goblins have been the weakest major power in the East.
@@ -702,6 +709,8 @@ The Goblins have little contact with the Shaded Sea Peoples, as a continent sepa
 
 ## Deep-Explorer Dwarves
 
+![Drahrat Waystone](../images/proto_banner_drahrat.png)
+
 Deep-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
 "Deep-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves or Ground-Explorers, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
 
@@ -789,6 +798,8 @@ When the attack occurred, the *Drahrat* ruthlessly exploited these natural defen
 Invaders struck by these bolts fell rapidly even when their wounds where minor, which lead some of the witnesses to suspect that the *Drahrat* where using poison.
 
 ## Foam-and-Cloud
+
+![Kingdoms Banner](../images/proto_banner_foam_cloud.png)
 
 Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands—an island chain in the Great Gulf.
 The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two—and most of the rest of the chain—have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
