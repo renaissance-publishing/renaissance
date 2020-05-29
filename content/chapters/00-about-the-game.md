@@ -119,6 +119,7 @@ We're working on it.
 - Initial work merging in CV's "How to Play Healers" section.
 - Tweaking and updating to the Senses section of the racial abilities chapter.
 - Sinestro's new site is live, and much git fuckery has been navigated.
+- Added more of CV's prototype banners.
 
 ## To-Do
 

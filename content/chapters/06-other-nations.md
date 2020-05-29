@@ -283,7 +283,7 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
 
 ## The Shaded Sea People
 
-![Kingdoms Banner](../images/proto_banner_shaded_sea.png)
+![Shade Sea Banner](../images/proto_banner_shaded_sea.png)
 
   - Alliance of Ratfolk and Shade Elves.
   - Shade elves originate in the Southwestern corner of the Emerald
@@ -309,7 +309,7 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
 
 ## The Raptors' Protectorate
 
-![Kingdoms Banner](../images/proto_banner_raptors.png)
+![Raptors Symbols](../images/proto_banner_raptors.png)
 
 - On the Raptor’s Plane, in the North-West and Central regions of the continent.
 - An alliance formed almost 400 years ago to resist piracy and raiding by Shaded Sea People.
@@ -709,7 +709,7 @@ The Goblins have little contact with the Shaded Sea Peoples, as a continent sepa
 
 ## Deep-Explorer Dwarves
 
-![Drahrat Banner](../images/proto_banner_drahrat.png)
+![Drahrat Waystone](../images/proto_banner_drahrat.png)
 
 Deep-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
 "Deep-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves or Ground-Explorers, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
