@@ -9,7 +9,7 @@ import { TOCMenuItem, TOCTreeElem } from "./tocmenuitem";
 export default () => {
     const data = useStaticQuery(graphql`
         query {
-            allMarkdownRemark(sort: {fields: fields___chapter}, filter: {fields: {chapter: {ne: 0}}}) {
+            allMarkdownRemark(sort: {fields: fields___chapter}) {
                 edges {
                     node {
                         headings {
@@ -19,6 +19,7 @@ export default () => {
                         }
                         fields {
                             slug
+                            chapter
                         }
                         frontmatter {
                             title
