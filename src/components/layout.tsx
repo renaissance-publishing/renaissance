@@ -7,9 +7,9 @@ import Footer from "./footer";
 import TOCMenu from "./tocmenu";
 import "./layout.css";
 import "./tables.css";
-import { AppBar, Toolbar, Container, Drawer, Divider, CssBaseline, ThemeProvider, IconButton, Typography, useMediaQuery } from "@material-ui/core";
+import { AppBar, Toolbar, Container, Drawer, Divider, CssBaseline, ThemeProvider, IconButton, useMediaQuery } from "@material-ui/core";
 
-import { Menu, ChevronLeft, ChevronRight, MoveToInbox, Mail } from "@material-ui/icons";
+import { Menu, ChevronLeft, ChevronRight } from "@material-ui/icons";
 
 import { makeStyles, createMuiTheme } from '@material-ui/core/styles';
 
@@ -138,9 +138,11 @@ const Layout = ({ children }) => {
                 >
                     <div className={classes.drawerHeader} />
                     
-                    <Header />
-                    { children }
-                    <Footer />
+                    <Container maxWidth="md">
+                        <Header />
+                        { children }
+                        <Footer />
+                    </Container>
                 </main>
             </div>
         </ThemeProvider>
