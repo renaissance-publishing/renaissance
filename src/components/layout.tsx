@@ -23,7 +23,10 @@ const useStyles = makeStyles({
         display: 'flex'
     },
     tocDrawer: {
-        width: tocWidth
+        width: tocWidth,
+        '@media print': {
+            display: 'none',
+        }
     },
     tocDrawerPaper: {
         width: tocWidth
