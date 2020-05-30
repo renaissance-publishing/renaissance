@@ -7,7 +7,7 @@ import Footer from "./footer";
 import TOCMenu from "./tocmenu";
 import "./layout.css";
 import "./tables.css";
-import { AppBar, Toolbar, Container, Drawer, Divider, CssBaseline, ThemeProvider, IconButton, useMediaQuery } from "@material-ui/core";
+import { AppBar, Toolbar, Container, Drawer, Divider, CssBaseline, ThemeProvider, IconButton } from "@material-ui/core";
 
 import { Menu, ChevronLeft, ChevronRight } from "@material-ui/icons";
 
@@ -81,8 +81,7 @@ const useStyles = makeStyles(theme => ({
 
 const Layout = ({ children }) => {
     const classes = useStyles();
-    const smallScreen = useMediaQuery(theme.breakpoints.down("sm"));
-    const [open, setOpen] = React.useState(!smallScreen);
+    const [open, setOpen] = React.useState(false);
 
     const handleDrawerOpen = () => {
         setOpen(true);
