@@ -5,6 +5,7 @@ import Header from "./header";
 import Footer from "./footer";
 import TOCMenu from "./tocmenu";
 import "./layout.css";
+import "./tables.css";
 import { Container, Drawer, CssBaseline, createMuiTheme, ThemeProvider } from "@material-ui/core";
 import { makeStyles } from '@material-ui/core/styles';
 
