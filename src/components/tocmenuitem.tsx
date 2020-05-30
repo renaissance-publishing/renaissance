@@ -115,7 +115,7 @@ export class TOCMenuItem extends React.Component<{ tree: TOCTreeElem, key: strin
 
         return (
             <>
-                <ListItem button component={ AnchorLink } to={ this.props.tree.url }>
+                <ListItem button component={ AnchorLink } to={ this.props.tree.url } stripHash>
                     <ListItemText primary={ this.props.tree.title } />
                     { expandableToggle }
                 </ListItem>
