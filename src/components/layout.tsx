@@ -14,6 +14,11 @@ import { Menu, ChevronLeft, ChevronRight } from "@material-ui/icons";
 import { makeStyles, createMuiTheme } from '@material-ui/core/styles';
 
 const theme = createMuiTheme({
+    palette: {
+        primary: {
+            main: '#FFF3E0'
+        }
+    },
     typography: {
         fontFamily: 'english, sans-serif',
         fontSize: 16
