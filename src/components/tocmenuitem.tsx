@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { AnchorLink } from "gatsby-plugin-anchor-links";
 import { List, ListItem, ListItemText, ListItemSecondaryAction, IconButton, Collapse } from "@material-ui/core";
 import { ExpandLess, ExpandMore } from "@material-ui/icons";
@@ -23,7 +23,7 @@ type GraphQLQueryResultNode = {
 }
 
 export function checkHeadingListUnique({ fields: { slug }, headings }: GraphQLQueryResultNode): boolean {
-    const appearanceMap = headings.reduce((state, heading) => 
+    const appearanceMap = headings.reduce((state, heading) =>
         state.update(heading.value, 0, x => x + 1)
     , Map<string, number>());
 

@@ -1,6 +1,6 @@
-import React from "react";
+import * as React from "react";
 import clsx from "clsx";
-import PropTypes from "prop-types";
+import * as PropTypes from "prop-types";
 
 import Header from "./header";
 import Footer from "./footer";
@@ -141,7 +141,7 @@ const Layout = ({ children }) => {
                     })}
                 >
                     <div className={classes.drawerHeader} />
-                    
+
                     <Container maxWidth="md">
                         <Header />
                         { children }
