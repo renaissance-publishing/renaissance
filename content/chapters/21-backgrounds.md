@@ -29,76 +29,86 @@ Backgrounds *usually* shouldn't include things that it's impossible to acquire s
 
 </aside>
 
-  - Dragonshire
-    
-      - You were born in the former-Kingdom of the Dragonshire
-      - 10 ranks in Knowledge: History
-      - 10 ranks in Protocol
-      - 10 ranks in one Combat skill
-      - 10 ranks in one other Social skill (besides Protocol)
-      - Common Races: Humans, Drakes
-      - Common Languages: Rak, Weal, Royal
-      - This would be a good one to swap a Trait into.
+#### Dragonshire
 
-  - Haven Mountains
-    
-      - You were born in one of the subterranean communities that have
-        taken up residence in the Haven Isles
-      - 10 ranks in one Knowledge skill
-      - 10 ranks in one Profession skill
-      - 10 ranks in Control or Spellcraft
-      - a Sleight or Spell that you qualify for.
-      - Common Races: Ash Elves, Dwarves, Kobolds
-      - Common Languages: Islander
-      - Might want to just put a Trait in this one, and then just put
-        the free Sleight or Spell in an Islander Elf one.
+You were born in the former-Kingdom of the Dragonshire
 
-  - Manor Child
-    
-      - You were born in a manor in Heartland Province
-      - 10 ranks in two Trade skills of your choice
-      - one skill kit
-      - one weapon or armor of Moderate cost.
-      - the Tough trait
-      - Common Races: Gnolls, Humans, Halflings, Ratfolk
-      - Common Languages: Weal, regional languages
+- 10 ranks in Knowledge: History
+- 10 ranks in Protocol
+- 10 ranks in one *Combat* skill
+- 10 ranks in one other *Social* skill (besides Protocol)
 
-  - Professional
-    
-      - You are part of the nascent middle class of traders and professionals
-      - 10 ranks in Barter
-      - 10 ranks in two Technical skills
-      - either two Skill Kits or one Shop
-      - Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk
-      - Common Languages: Weal, Islander, Common
+- Common Races: Humans, Drakes
+- Common Languages: Rak, Weal, Royal
 
-  - Tribesman
-    
-      - You are from one of the tribal or traditional societies that live in the vast forrest between Westward and Northland provinces.
-      - 10 ranks in Handle Animal
-      - 10 ranks in Survival
-      - 10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter
-      - the Ready Trait
-      - Common Races: Shifters, Wood Elves, Herders, Gnolls
-      - Common Languages: tribal languages (many tribes speak their own unique languages)
+#### Haven Mountains
 
-  - Urbanite
-    
-      - You are from one of the Commonwealth’s large urban centers
-      - one dot in Language: Common
-      - one Skill Kit
-      - 10 ranks in Protocol
-      - 10 ranks each in two Social or Technical skills of your choice
-      - Common Races: Kobolds, Humans, Ratfolk
-      - Common Languages: Weal
+You were born in one of the subterranean communities that have taken up residence in the Haven Isles.
 
-  - Wayfarer
-    
-      - Wanderers, vagrants and transients by birth, choice or circumstance.
-      - 10 ranks in Survival
-      - 10 ranks in Medicine
-      - 1 dot in Common
-      - 1 Skill Kit.
-      - the Alert Trait
-      - Common Races: any
-      - Common Languages: any
+- 10 ranks in Knowledge (pick a field)
+- 10 ranks in Profession (pick a field)
+- 10 ranks in Control or Spellcraft (your choice)
+- a Sleight or Spell that you qualify for.
+
+- Common Races: Ash Elves, Dwarves, Kobolds
+- Common Languages: Islander
+
+#### Manor Child
+
+You were born in a manor in Heartland Province.
+
+- 10 ranks in two *Trade* skills of your choice
+- one skill kit
+- one weapon or armor of Moderate cost.
+- the Tough trait
+
+- Common Races: Gnolls, Humans, Halflings, Ratfolk
+- Common Languages: Heartland Gnoll, Weal, *regional languages*
+
+#### Professional
+
+You are part of the nascent middle class of traders and professionals.
+
+- 10 ranks in Protocol
+- 10 ranks in two *Technical* skills
+- either two Skill Kits or one Shop
+
+- Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk
+- Common Languages: Weal, Islander, Common
+
+#### Tribesman
+
+You are from one of the tribal or traditional societies that live in the vast forrest between Westward and Northland provinces.
+
+- 10 ranks in Handle Animal
+- 10 ranks in Survival
+- 10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter
+- the Ready Trait
+
+- Common Races: Shifters, (Wood) Elves, Herders, Gnolls, Humans, *others*
+- Common Languages: *tribal languages* (many tribes speak their own unique languages)
+
+#### Urbanite
+
+You are from one of the Commonwealth’s large urban centers.
+
+- one dot in Language: Common
+- one Skill Kit
+- 10 ranks in Protocol
+- 10 ranks each in two *Social* or *Technical* skills of your choice
+
+- Common Races: Kobolds, Humans, Ratfolk
+- Common Languages: Weal
+
+#### Wayfarer
+
+Wanderers, vagrants and transients by birth, choice or circumstance.
+
+- 10 ranks in Survival
+- 10 ranks in Medicine
+- 1 dot in Common
+- 1 Skill Kit
+- the Alert Trait
+
+- Common Races: any
+- Common Languages: any
