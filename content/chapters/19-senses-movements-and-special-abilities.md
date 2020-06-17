@@ -23,6 +23,9 @@ This list is by no means exhaustive.
     - The resolution of infrared vision is poor, making it impossible to pick out fine detail.
     - Some materials (like glass) that are transparent in visible light are opaque in infrared, while some other materials that are opaque in visible light are transparent in infrared.
 
+- Life-Sense: the creature can perceive the muscle impulses that cause living creatures to move.
+  - This sense has a short range—only a few *strides* (around 3m).
+
 - Low-Light: creature can see clearly in low-light conditions (but not total darkness).
   - Essentially, this negates penalties for low light levels (like late evening), and reduces for penalties for near-darkness (like a moon-lit night).
 
