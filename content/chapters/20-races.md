@@ -558,7 +558,7 @@ Clever, quick, industrious and sociable, Kobolds make up the majority of the und
 - *Scales*: Kobolds have +1 Armor
 - *Small*: Kobolds are small
 
-#### Optional Trait: Chroma
+#### Optional Trait: Kroma
 
 Though the blood of Dragons is thin in Kobolds, it does sometimes manifest itself.
 
