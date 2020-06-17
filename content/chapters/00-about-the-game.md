@@ -120,6 +120,11 @@ We're working on it.
 - Tweaking and updating to the Senses section of the racial abilities chapter.
 - Sinestro's new site is live, and much git fuckery has been navigated.
 - Added more of CV's prototype banners.
+- Added the *Mudskippers*.
+- Reformatting in *Backgrounds*.
+- Added the *Disease-Resistant* trait (because a Mudskipper background needed it).
+- Lots of reformatting in *races*
+- Tinkering and adjusting the Clay Men.
 
 ## To-Do
 

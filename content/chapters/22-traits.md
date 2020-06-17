@@ -91,6 +91,12 @@ You are defiant in the face of injury and agony.
 - **Requires:** 20 WIL
 - **Benefit:** When your damage exceeds your DUR, you have a chance to continue to act for a short time (instead of losing consciousness immediately, like you normally would).  When you damage exceeds your DUR, roll WIL×3; if you succeed, you may remain conscious for WIL÷5 rounds.
 
+#### Disease-Resistant
+
+You are particularly resistant to disease.
+
+- **Benefit:** You gain a +10 bonus on checks to resist *diseases* and *parasites*.
+
 ### Negative Traits
 
 Some traits are *negative traits*. A negative trait imposes a *penalty,* but taking it *gives* you more CP to spend during character creation.

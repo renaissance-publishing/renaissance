@@ -136,78 +136,77 @@ can just take the Trait if they want to).
     Dragons. {It may be better to say they look like Dragons, except for
     being roughly humanoid in shape and size.)
 
-  - Vitals:
+#### Drake Vitals
     
-      - Old Age: 100 Years
-      - Average Height: 2.4m
-      - Average Weight: 110kg
+- Old Age: 100 Years
+- Average Height: 2.4m
+- Average Weight: 110kg
 
-  - DUR 40, STR 40
-  - \+5 SAV, +5 SOM, +10 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Dragon-Kin, Drake
-  - Language Group: DDK, HHED
-  - Scales: +2 Armor
+- DUR 40, STR 40
+- \+5 SAV, +5 SOM, +10 WIL
+- Movement: Foot 4/12
+- Senses: Normal, Low-Light
+- Tags: Natural, Humanoid, Dragon-Kin, Drake
+- Language Group: DDK, HHED
+- Scales: +2 Armor
 
-  - Optional Trait: Chroma
-    
-      - Though Drakes come in vibrant colors and hues, most have no
-        inherited the particular magical natures of Dragons; you,
-        however, have.
-      - You gain resistance to one of the following: Chemical, Cold,
-        Disease, Electricity or Fire.
+#### Optional Trait: Chroma
 
-  - Optional Trait: Dragon’s Flight
-    
-      - Dragons have a wide variety of modes of motion, and you have
-        inherited one of them.
-      - You gain one of the following movement modes: Swim 3 / 15,
-        Burrow 2 / 6, Fly 3 / 15 / 45
+Though Drakes come in vibrant colors and hues, most have not inherited the particular magical natures of Dragons; you, however, have.
 
-  - Optional Power: Breath Weapon
-    
-      - You have inherited the ability to breathe fire—or some other
-        dangerous substance.
-    
-      - This power has a Type. If you took the Chroma trait, then its
-        type is the one you chose for your resistance; otherwise, the
-        type is Fire.
-    
-      - You gain one of the following effects, depending on the power’s
-        type:
-        
-          - Chemical: you can spit a toxic spray. You gain the following
-            attack: Indicate-Only Attack, Splash 1D10 ÷ 3 m. Range 10m
-            short / 20m long. Tags: Natural, Chemical. Covered opponents
-            suffer 1D10 ÷ 2 DV a turn; the chemical can be washed off
-            with water (a standard action requiring a source of water).
-          - Cold: you can hurl an icy spear. You gain the following
-            attack: Indicate-Only Attack, 1D10+2+DB DV, AP -4. Tags:
-            Natural, Cold, Ice
-          - Disease: You can launch a small bundle of bone-like spines
-            infected with a deadly plague. You gain the following
-            attack: Indicate-Only Attack, 1D10 ÷ 2 DV, AP -3; Tags:
-            Natural, Disease. If you deal DV, then your target is
-            exposed to the disease. Build disease rules and come back.
-          - Electricity: you can deliver powerful electric shocks. Your
-            unarmed attacks (and natural weapons, should you have any)
-            deal an additional 1D10 damage and gain the Electric tag.
-          - Fire: you can breath fire. You gain the following attack:
-            Indicate-Only Attack, 1D10+DB DV, AP -, Blast. Tags:
-            Natural, Fire.
+- **Effect**: the character gains *Resistance: \[Tag\] (DV÷2, +WIL to checks to resist)* for one of the following *tags*:
+  - Chemical
+  - Cold
+  - Disease
+  - Electricity
+  - Fire.
 
-  - Optional Background: Dragonshire Noble
+#### Optional Trait: Dragon’s Flight
     
-      - You hail from a noble bloodline in the Dragonshire. Though
-        actual rule now rests in the hands of the House of Commons,
-        having the right ancestors is still *useful*.
-      - 10 ranks in Protocol
-      - 10 ranks on one other Social skill
-      - 10 ranks in one Combat skill
-      - Either the Noble Class or the Officer Class. If you select the
-        Officer Class, you must later purchase the Soldier class during
-        character creation, to meet its prerequisites.
+Dragons have a wide variety of modes of motion, and you have inherited one of them.
+
+- **Effect**: The character gains one of the following movement modes:
+  - Swim 3/15
+  - Burrow 2/6
+  - Fly 3/15/45
+
+#### Optional Power: Breath Weapon
+    
+You have inherited the ability to breathe fire—or some other dangerous substance.
+
+- **Effect**:  You gain one of the following effects, depending on the power’s *type*:
+  - Chemical: you can spit a toxic spray.
+    You gain the following attack:
+    - Indicate-Only Attack, Splash 1D10 ÷ 3 m. Range 10m short / 20m long.
+    - Tags: Natural, Chemical
+    - Covered opponents suffer 1D10 ÷ 2 DV a turn; the chemical can be washed off with water (a standard action requiring a source of water).
+  - Cold: you can hurl an icy spear.
+    You gain the following attack:
+    - Indicate-Only Attack, 1D10+2+DB DV, AP -4.
+    - Tags: Natural, Cold, Ice
+  - Disease: You can launch a small bundle of bone-like spines infected with a deadly plague.
+    You gain the following attack:
+    - Indicate-Only Attack, 1D10 ÷ 2 DV, AP -3;
+    - Tags: Natural, Disease.
+    - If you deal DV, then your target is exposed to the disease.
+  - Electricity: you can deliver powerful electric shocks.
+    Your unarmed attacks (and natural weapons, should you have any) deal an additional 1D10 damage and gain the Electric tag.
+  - Fire: you can breath fire. You gain the following attack:
+    - Indicate-Only Attack, 1D10+DB DV, AP -, Blast.
+    - Tags: Natural, Fire.
+- **Special**: This power has a *Tag* to represent the type of breath-weapon you have.
+  If you took the *Chroma* trait, then the tag is the one you chose for your resistance; otherwise, the tag is *Fire*.
+
+#### Optional Background: Dragonshire Noble
+
+You hail from a noble bloodline in the Dragonshire.
+Though actual rule now rests in the hands of the House of Commons, having the right ancestors is still *useful*.
+
+- 10 ranks in Protocol
+- 10 ranks on one other *Social* skill
+- 10 ranks in one *Combat* skill
+- Either the *Noble* Class or the *Officer* Class.
+  If you select the *Officer* Class, you must later purchase the Soldier class during character creation, to meet its prerequisites.
 
 ### Elves
 
@@ -336,61 +335,52 @@ can just take the Trait if they want to).
         alternate between white and black. Their hair is often black,
         ash grey, pale white or ember orange.
 
-  - DUR 25, STR 25
+#### Elven Vitals
 
-  - \+5 COO +5 WIL +10 INT
+- DUR 25, STR 25
+- \+5 COO +5 WIL +10 INT
+- Movement: Foot 5 / 15
+- Senses: Normal, Low-Light
+- Tags: Natural, Humanoid, Elf
+- Language Group: HHED
+- *Keen Senses*: Elves receive +20 to visual Perception checks, and +10 to auditory perception checks.
+- Prehensile Feet: Elves have prehensile feet.
+  This allows them to grip and manipulate objects with their feet as adroitly as they do with their hands.
+  This is of particular use while climbing and grappling, applying a +20 bonus to those tests.
+  It's also partcularly useful when *riding*, and it makes them very difficult to *dismount*.
+  - Elves treat their feet as non-dominant limbs, so they need to purchase the Ambidextrous trait at least once to wield weapons with them without taking a penalty.
+- Natural Camouflage: Elves have complex skin patterns, which serve as camouflage.
+  These patterns provide a +10 benefit to Stealth checks; this benefit is lost if their skin is covered, and is not cumulative with worn camouflage.
 
-  - Movement: Foot 5 / 15
+#### Optional Background: Ash Elven Undercity
 
-  - Senses: Normal, Low-Light
+You hail from one of the Ash-Elven undercities beneath the low peaks of the Haven Isles.
 
-  - Tags: Natural, Humanoid, Elf
+- 10 ranks in Control
+- 10 ranks in one Art field skill
+- 10 ranks in one *Technical* skill
+- the Resilient trait
 
-  - Language Group: HHED
+#### Optional Background: Shade Elf Raider
 
-  - *Keen Senses*: Elves receive +20 to visual Perception checks, and
-    +10 to auditory perception checks.
+You grew up among the most feared mounted raiders that the Emerald Plains has ever seen.
 
-  - Prehensile Feet: Elves have prehensile feet; this allows them to
-    grip and manipulate objects with their feet as adroitly as they do
-    with their hands. This is of particular use while climbing and
-    grappling, applying a +20 bonus to those tests.
-    
-      - Elves treat their feet as non-dominant limbs, so they need to
-        purchase the Ambidextrous trait at least once to wield weapons
-        with them without taking a penalty.
+- 10 ranks in one Combat skill
+- 10 ranks in Ride
+- 10 ranks in Survival
+- one weapon (of Cost: Medium)
+- one Survival skill kit.
+- the Hardened (witnessing and performing cruelty) neutral trait.
+- Special: Shade Elves don't receive one dot in Common the way that most charactesr do.  Instead, they receive one dot in Shaded Sea Common.  They usually speak Keillou (Language Group HHED) natively.
 
-  - Natural Camouflage: Elves have complex skin patterns, which serve as
-    camouflage. These patterns provide a +10 benefit to Stealth checks;
-    this benefit is lost if their skin is covered, and is not cumulative
-    with worn camouflage.
+#### Optional Background: Wood Elf Tribal Commuity
 
-Optional Background: Ash Elven Undercity
+You are from one of the ancient, pre-urban Elven cultures living to the west of the Worldspine.
 
-  - You hail from one of the Ash-Elven undercities beneath the low peaks of the Haven Isles.
-  - 10 ranks in Control skill
-  - 10 ranks in one Art skill
-  - 10 ranks in one Technical skill
-  - the Resilient trait
-
-Optional Background: Shade Elf Raider
-
-  - You grew up among the most feared mounted raiders that the Emerald Plains has ever seen.
-  - 10 ranks in one Combat skill
-  - 10 ranks in Ride
-  - 10 ranks in Survival
-  - one weapon (of Cost: Medium)
-  - one Survival skill kit.
-  - the Hardened (witnessing and performing cruelty) neutral trait.
-  - Special: Shade Elves don't receive one dot in Common the way that most charactesr do.  Instead, they receive one dot in Shaded Sea Common.  They commonly speak Shade-Elven (Language Group HHED).
-
-Optional Background: Wood Elf Tribal Commuity
-
-  - You are from one of the ancient, pre-urban Elven cultures living to the west of the Worldspine.
-  - 10 ranks in Fray
-  - 10 ranks in Ranged Weapons
-  - 10 ranks in Stealth
-  - 10 ranks in Survival
+- 10 ranks in Fray
+- 10 ranks in Ranged Weapons
+- 10 ranks in Stealth
+- 10 ranks in Survival
 
 ### Gnolls
 
@@ -435,7 +425,7 @@ There is also a unique ethnic group of Gnolls hailing from stretch of snowy nort
 White-furred and adapted to the cold, these Gnolls have long lived on the snowy terrain above and around the subterranean holds of Dwarves, with whom they have long coexisted amicably; Snow Gnolls are expert hunters and herders, and they provide Dwarven holds with an invaluable source of meat.
 Though few in numbers, the combination of these stealthy hunters scattered throughout the northern forests with the extreme resilience of Dwarven holds handily prevented the conquest of the North by the Empire of Man, and later by the Kingdoms of Men.
 
-**Vitals**
+#### Gnollish Vitals
 
 - Old Age: 50 Years
 - Average Height: 2.2m
@@ -471,70 +461,38 @@ Continuing a way of life that stretches back more than 700 years, you travel wit
 
 #### Optional Neutral Trait: Cold-Adapted
 
-Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold&mdash;although you suffer somewhat in warmer lands.
+Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold—although you suffer somewhat in warmer lands.
 
 - You gain Resistance: Cold and Vulnerability: Heat.
 
-<!--
-- You gain a +20 bonus to Feats of Endurance related to extremely cold environments.
-- You suffer a -20 penalty to Feats of Endurance related to extremely hot environments.
--->
-
 ### Humans
 
-  - Social, dextrous and intelligent, Humans where the first race to
-    build cities, and the first to build great nations.
-    
-  - Humans are also known for the great endurance; while many other
-    races' energy ebbs and flows, humans can maintain a steady walking
-    pace over great distances.  They are also fare more resistant to
-    shock than many other races are.
+- Social, dextrous and intelligent, Humans where the first race to build cities, and the first to build great nations.
+- Humans are also known for the great endurance; while many other races' energy ebbs and flows, humans can maintain a steady walking pace over great distances.
+  They are also fare more resistant to shock than many other races are.
+- Even today, Humans are widely renowned for their manual dexterity, for their society-building social instincts and their problem-solving abilities.
+- One of the three founding races (besides Gnolls and Halflings), Humans are widely regarded as the “social problem-solvers” who helped bind together all the widely different communities that came together to form the early Commonwealth.
+- Humans are frequently academics, professionals, scholars, lawyers and politicians.
+- Humans are common in the small towns of Heartland and Dragonshire, and are common in cities everywhere.
+  And, of course, are the principle race of the Kingdoms of Man.
 
-  - Even today, Humans are widely renowned for their manual dexterity,
-    for their society-building social instincts and their
-    problem-solving abilities.
+#### Human Vitals
 
-  - One of the three founding races (besides Gnolls and Halflings),
-    Humans are widely regarded as the “social problem-solvers” who
-    helped bind together all the widely different communities that came
-    together to form the early Commonwealth.
+One of the Commonwealth's three Founding Races.
+Intelligent, dextrous and social, humans are the engineers of the Commonwealth–building everything from wagons to societies.
 
-  - Humans are frequently academics, professionals, scholars, lawyers
-    and politicians.
+- Old Age: 60 years
+- Average Height: 1.7m
+- Average Weight: 60kg
 
-  - Humans are common in the small towns of Heartland and Dragonshire,
-    and are common in cities everywhere. And, of course, are the
-    principle race of the Kingdoms of Man.
-
-  - Vitals
-    
-      - Old Age: 60 years
-      - Average Height: 1.7m
-      - Average Weight: 60kg
-
-  - One of the three Founding Races. Intelligent, dextrous and social,
-    humans are the engineers of the Commonwealth – building everything
-    from wagons to societies.
-
-  - DUR 30, STR 30
-
-  - \+5 COG, +5 COO, +10 SAV
-
-  - Movement: Foot 4 / 12
-
-  - Senses: Normal
-
-  - Tags: Natural, Humanoid, Human
-
-  - Language Group: HHED
-
-  - Social Animals:
-
-      - Humans gain the Social Animal trait.
-
-  - Inexhaustible:
-
-	  - Humans gain +WIL to checks for Feats of Endurance.
+- DUR 30, STR 30
+- \+5 COG, +5 COO, +10 SAV
+- Movement: Foot 4 / 12
+- Senses: Normal
+- Tags: Natural, Humanoid, Human
+- Language Group: HHED
+- Social Animals: Humans gain the Social Animal trait.
+- Inexhaustible: Humans gain +WIL to *Feat of Endurance* checks.
 
 ### Kobolds
 
@@ -583,62 +541,58 @@ Your ancestors have long dwelled in the snowy north, and you are well adapted to
         have internal genitalia. Because of this, Kobolds can have very
         different ideas about what constitutes “appropriate attire”.
 
-  - Vitals
-    
-      - Old Age: 40 Years
-      - Average Height: 1m
-      - Average Weight: 25kg
+#### Kobold Vitals
 
-  - Clever, quick, industrious and sociable, Kobolds make up the
-    majority of the underground cities.
-  - DUR 25, STR 20
-  - \+5 INT, +10 COO, +5 SAV
-  - Movement: Foot 5 / 15
-  - Senses: Normal, Infrared
-  - Tags: Natural, Humanoid, Dragon-Kin, Kobold
-  - Language Group: DDK
-  - *Scales*: Kobolds have +1 Armor
-  - *Small*: Kobolds are small
+Clever, quick, industrious and sociable, Kobolds make up the majority of the underground cities.
 
-  - Optional Trait: Chroma
-    
-      - Though the blood of Dragons is thin in Kobolds, it does
-        sometimes manifest itself.
-      - You gain resistance to one of the following: Chemical, Cold,
-        Disease, Electricity or Fire.
+- Old Age: 40 Years
+- Average Height: 1m
+- Average Weight: 25kg
 
-  - Optional Trait: Dragon’s Bite
-    
-      - Though you don’t possess a Dragon’s breath, you have inherited
-        (some of) their natural weapons, and they can be infused with a
-        Dragon’s fire—or some other elemental type.
-    
-      - Your Dragon’s Bite has a certain type. If you have the Chroma
-        trait, then your type is the type you chose for Chroma; if you
-        don’t, your type is Fire.
-    
-      - You gain the following attacks:
-        
-          - Bite: Unarmed Attack, 1D10+2+DB DV, AP -. Tags: Natural,
-            Your Type.
-          - Claws: Unarmed Attack, 1D10+DB DV, AP -2. Tags: Natural,
-            *Your Type.*
-    
-      - You gain an additional effect, based on your *Type*:
-        
-          - Chemical: Your claws and bite are toxic. Any creature you
-            hit with either attack is *covered*, and thereafter takes 2
-            DV a turn. Water can wash the corrosive off (requiring a
-            source of water and a Standard Action).
-          - Cold: your natural attack gains -2 AP, and you can drain
-            heat from anything you hold, bite into or breath on.
-          - Disease: your claws, bite and saliva carry the following
-            disease: Build disease rules and come back.
-          - Electricity: your claws and bite deliver powerful shocks:
-            anyone you strike or bite must make a DUR+WIL check or be
-            stunned for 5 turns.
-          - Fire: your claws or bite are incredibly hot: your attack
-            does +3 DB, and you can set flammable objects on fire.
+- DUR 25, STR 20
+- \+5 INT, +10 COO, +5 SAV
+- Movement: Foot 5 / 15
+- Senses: Normal, Infrared
+- Tags: Natural, Humanoid, Dragon-Kin, Kobold
+- Language Group: DDK
+- *Scales*: Kobolds have +1 Armor
+- *Small*: Kobolds are small
+
+#### Optional Trait: Kroma
+
+Though the blood of Dragons is thin in Kobolds, it does sometimes manifest itself.
+
+- **Effect**: the character gains *Resistance: \[Tag\] (DV÷2, +WIL to checks to resist)* to one of the following tags:
+  - Chemical
+  - Cold
+  - Disease
+  - Electricity
+  - Fire
+
+#### Optional Trait: Dragon’s Bite
+
+Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire—or some other elemental type.
+
+- **Effect**: You gain the following *natural weapons*:
+  - Bite:
+    - Unarmed Attack, 1D10+2+DB DV, AP -
+    - Tags: Natural, *your type*
+  - Claws:
+    - Unarmed Attack, 1D10+DB DV, AP -2
+    - Tags: Natural, *your yype*
+- **Special**: Your *natural weapons* have a type.
+  - If you have the *Chroma* trait, then your type is the type you chose for Chroma;
+  - if you don’t, your type is *Fire*.
+- You gain an additional effect, based on your *Type*:
+  - Chemical: your claws and bite are toxic.
+    Any creature you hit with either attack is *covered*, and thereafter takes 2 DV a turn.
+    Water can wash the corrosive off (requiring a source of water and a Standard Action).
+  - Cold: your natural attack gains -2 AP, and you can drain heat from anything you hold, bite into or breath on.
+  - Disease: your claws, bite and saliva carry the following disease:
+  - Electricity: your claws and bite deliver powerful shocks.
+    Anyone you strike or bite must make a DUR+WIL check or be stunned for 5 turns.
+  - Fire: your claws or bite are incredibly hot.
+    Your attack does +3 DB, and you can set flammable objects on fire.
 
 ### Shifters
 
@@ -682,169 +636,148 @@ Your ancestors have long dwelled in the snowy north, and you are well adapted to
     humans. An individual shifter will often display traits appropriate
     to their hybrid form.
 
-  - Vitals:
-    
-      - Old Age: 90 Years
-      - Average Height: 1.8m
-      - Average Weight: 50kg
+#### Shifter Vitals
 
-  - Half elf, half human, half wild. Lycanthropes that can shift between
-    humanoid and hybrid forms.
+Half elf, half human, half wild, Shifters can *shift* between humanoid and hybrid forms.
 
-  - DUR 30, STR 30
+- Old Age: 90 Years
+- Average Height: 1.8m
+- Average Weight: 50kg
 
-  - \+5 COO, +5 INT, +5 SOM
+- DUR 30, STR 30
+- \+5 COO, +5 INT, +5 SOM
+- Movement: Foot 4 / 12
+- Senses: Normal, Low-Light
+- Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
+- Language Group: HHED (humanoid form); GR (hybrid form)
+- *Hybrid*: You have two forms: Humanoid and Hybrid.
+  - The specific details of each form are fixed.
+    That is, your Humanoid form, for example, looks the same every time you *shift* to it; you can't determine what it looks like each time you shift.
+    You can shift between forms at will; changing forms is a *Standard Action*.
+    - In Humanoid form, you have a mixture of Human and (Wood) Elvish features.
+    - In Hybrid from, you are roughly humanoid, but with the features of an animal.
+  - When in *hybrid form*, you gain two of the following benefits (chosen when you create your character):
+    - Claws: you have claws that do 2d10 DV, at -2 AP.
+    - Teeth: You have a predator’s jaw, which allows you to bite foes.
+      The bite does 1d10+2 DV at -2 AP.
+      When you bite someone, if you score an Excellent Success, you may choose to *latch on*; this normally works like grappling the target.
+    - Hearing: You have superb hearing, gaining +20 on auditory Perception checks.
+    - Movement: you gain one of the following movement modes (in addition to your other movement modes):
+      - Burrow 1/3
+      - Climb 3/9
+      - Flight 3/9/36
+      - Glide 4/12/48
+      - Hop 4/12
+      - Swim 3/9
+    - Scent: you have a superb sense of smell; you gain the Scent sense.
+    - Environment Adaptation: choose a hostile environment; you gain an adaptation that allows you to survive this environment.
+      For example, you might choose to survive in extreme cold, and thus gain a blubber layer.
+    - Motion-Sensitivity: your vision becomes very sensitive to motion.
+      You gain +10 to Perception tests made against moving targets.
+    - Sprinter: choose one movement mode and increase it by +1/+3 (for example, Walking 4/12 would become Walking 5/15).
+    - Thick Hide: You gain +1 armor.
+- *Fast-Healing*: you have Fast Healing 1
 
-  - Movement: Foot 4 / 12
+#### Optional Trait: Animal Form.
 
-  - Senses: Normal, Low-Light
+Some shifters, in addition to their *hybrid* form, can entirely assume the form of an animal.
 
-  - Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
+- **Effect**: you can assume the form of an animal.
+  - Your animal form resembles a normal member of the animal that your hybrid form was based on.
+  - Your animal form can’t be too large (as large as an elephant, larger than size Large) or too small (as small as a cricket, smaller than size Small).
 
-  - Language Group: HHED (humanoid form); GR (hybrid form)
+#### Optional Trait: Enhanced Hybrid Form
 
-  - *Hybrid*: You have two forms: Humanoid and Hybrid. The specific
-    details of each form are fixed (that is, your Humanoid form (for
-    example) looks the same every time you shift to it; you can't
-    determine what your shape-shift forms look like each time you
-    shift). You can shift between forms at will; changing forms is a
-    Standard Action.
-    
-      - In Humanoid form, you have a mixture of Human and (Wood) Elvish
-        features.
-    
-      - In Hybrid from, you are roughly humanoid, but with the features
-        of an animal.
-    
-      - When you create your character, choose two of the following
-        benefits. You gain the chosen benefits while in Hybrid form.
-        
-          - Claws: you have claws that do 2d10 DV, at -2 AP.
-          - Teeth: You have a predator’s jaw, which allows you to bite
-            foes. The bite does 1d10+2 DV at -2 AP. When you bite
-            someone, if you score an Excellent Success, you may choose
-            to *latch on*; this normally works like grappling the
-            target.
-          - Hearing: You have superb hearing, gaining +20 on auditory
-            Perception checks.
-          - Movement: you gain one of the following movement modes (in
-            addition to your other movement modes): Burrow 1 / 3, Climb
-            3 / 9, Flight 3 / 9 / 36, Glide 4 / 12 / 48, Hop 4 / 12,
-            Swim 3 / 9
-          - Scent: you have a superb sense of smell; you gain the Scent
-            sense.
-          - Environment Adaptation: choose a hostile environment; you
-            gain an adaptation that allows you to survive this
-            environment. For example, you might choose to survive in
-            extreme cold, and thus gain a blubber layer.
-          - Motion-Sensitivity: your vision becomes very sensitive to
-            motion. You gain +10 to Perception tests made against moving
-            targets.
-          - Sprinter: choose one movement mode and increase it by +1/+3
-            (for example, Walking 4/12 would become Walking 5/15).
-          - Thick Hide: You gain +1 armor.
-
-  - *Fast-Healing*: you have Fast Healing 1
-
-  - Optional Trait: Animal Form.
-    
-      - If you purchase this trait, you gain an Animal form as well.
-        Your animal form resembles a normal member of your Animal type.
-        Your animal form can’t be too large (as large as an elephant,
-        larger than size Large) or too small (as small as a cricket,
-        smaller than size Small).
-
-  - Optional Trait: Enhanced Hybrid Form
-    
-      - You can choose two more benefits for your Hybrid Form.
+- **Effect**: you can choose two more benefits for your Hybrid Form.
 
 ## Uncommon races
 
 ### Clay Men
 
-  - ancient, amorphous race. No internal organs or specialized tissues.
-    Cannot make precise shapes. Have a texture and appearance somewhat
-    like a giant mass of clay. (Can produce a wide variety of sounds,
-    including speech, with surface vibrations.)
+Clay Men have long dwelled deep underground.
 
-  - DUR 35, STR 20
+#### Clay-Men Vitals
 
-  - \+5 SAV, +5 WIL
+An ancient, amorphous race.
 
-  - Movement: Burrow 3 / 9, Surface 3 / 9, Swim 4 / 12
+- DUR 35, STR 20
+- \+5 SAV, +5 WIL
+- Movement: Burrow 3/9, Pseudopods 3/9, Roll 4/12/24
+- Senses: Infra-Red, Mage Sight, Tremor Sense
+- Tags: Supernatural, Shape-Shifter, Amorphous, Clay Men
+- Language Groups: CM
+- *Amorphous*: Clay Men are amorphous, and can manipulate their shape
+at will; they can stretch, narrow, ball up, flatten out, and so on.
+  - This has many benefits: they can slip through very small openings, flatten themselves over surfaces, or roll into a ball to roll; they are also nearly impossible to tie down or grapple.
+  - They do not have enough control to *mimic* an object (or creature)—except possibly a giant mass of cookie dough.
+  - Notably, they cannot practically wear armor.
+  - *Cavities*: Clay Men can hollow out *cavities*, which allows them to store (and manipulate) objects within themselves.
+  - *Pseudopods*: Clay Men can extend *pseudopods*.
+    Most can extend up to four *pseudopods*, of about a meter length.
+  - *Ripples*: clay men can create creases, ripples, dimples, "cups", and other small features; this allows them to grip surfaces and manipulate small objects.
+- *No Organs*: Clay Men do not have vital organs (or, indeed, differentiated tissues), and thus they are not vulnerable to attacks or powers that rely on targeting weak points or vital organs.
+  - They have Resistance: Precision (Immunity), and critical hits against them are *downgraded*.
+- *No Facing*: Clay Men have no particular “front” or facing (and no discrete sensory organs).
+  They can perceive all around themselves, including directly above and below.
+- *No Bones*: Lacking a skeletal structure, Clay Men cannot take advantage of *leverage*; this severely reduces their ability to deploy their strength.
+  - Their DB is 0.
+  - They suffer a -30 penalty on checks where *leverage* would be required.
+- Envelop: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
+  - Enveloped targets are normally held immobile; but, if the enveloped creature succeeds on a STR+SOM check, they can deal damage to the Clay Man that has enveloped them with any weapon they are holding (or any natural weapon).
+  - A Clay Man can begin to *digest* a creature that it has enveloped; this deals 1d10÷2 DV per turn.
+- *Fast Healing*: Clay Men have Fast Healing 1
+- *Fueled by Magic*: Clay Men have internal magical process that help to keep them going.
+  They need to breath (by exchanging oxygen through their surface).
+  They need to eat to grow, but they need little food when not growing or repairing damage.
+  They do not need to sleep.
+  They can be effected by disease, but are resistant to most diseases that affect humanoids (they have Resistance: Disease (+30 to checks to resist)).
+  They do not age.
+- *Link*: Clay-Men can *link* with other Clay Men, joining their minds and bodies.
+  Though the *linked* Clay-Men retain their separate identities, they gain a profound level of access to each-other's minds.
+  They can communicate; exchange thoughts, ideas and information; and access one-another's skills and memories.
+  They can even exchange or copy elements of one-another's psychies.
 
-  - Senses: Infra-Red, Mage Sight, Tremor Sense
+#### Optional Trait: Aquatic
 
-  - Tags: Supernatural, Shape-Shifter, Amorphous, Clay Men
+Some Clay-Men have adapted themselves to aquatic environments.
 
-  - Language Groups: CM
+- **Effect**: the character can breath under water, and gains the *Swim 4/12* movement mode.
 
-  - *Amorphous*: Clay Men are amorphous, and can manipulate their shape
-    at will; they can stretch, narrow, ball up, flatten out, and so on.
-    They cannot produce fine features, or alter their texture or color
-    (other than to grip, as in *Pseudopods* below), and thus they cannot
-    mimic specific people or objects. However, they can slip through
-    small spaces, and they can be almost impossible to grapple or
-    restrain effectively.
+#### Optional Trait: Caustic
 
-  - *No Vital Organs*: Clay Men do not have vital organs, and thus they
-    are not vulnerable to attacks or powers that rely on targeting weak
-    points or vital organs.
-    
-      - They have Resistance to attacks with the Precision tag.
+Some Clay-Men have developed the ability to suffose all or part of themselves with caustic chemicals, which allows them to dissolve objects that they touch (or envelop).
 
-  - *No Face*: Clay Men have no particular “front” or facing, and they
-    have no discrete sensory organs – so they can perceive all around
-    themselves, including directly above and below themselves.
+- **Effect**: the character can make all or part of themselves *caustic*, which allows them to *dissolve* (and, optionally, *digest*) anything that they are in contact with (or have enveloped).
+  - Objects or creatures in contact with a *caustic* Clay Man take 1d10÷2 DV per turn.
+  - This increases the damage that they deal to an *enveloped* creature or object to 1d10 DV per turn.
+  - They can make all, part or none of themselves caustic; they can, for example, render only a small patch of their surface *caustic*.
+  - This makes it easier for them to burrow, which improves the rate of the *Burrow* movement to 4/12.
 
-  - *Pseudopods*: Clay Men can extend pseudopods. They can extend up to
-    four pseudopods, each up to a meter long. They can manifest one
-    fewer pseudopod to make on other pseudopod one meter longer (so they
-    could, for example, extrude one four-meter pseudopod, or two
-    two-meter pseudopods).
+#### Optional Trait: Color-Changing
 
-  - *No Bones*: Lacking a skeletal structure, Clay Men cannot take
-    advantage of leverage; this severely reduces their ability to deploy
-    their strength. Their damage bonus when using melee weapons is 0.
-    This ability may have other consequences as well.
+Some Clay-Men can alter their coloration.
 
-  - Envelop: Clay Men have a unique form of physical combat available to
-    them: simply enveloping (and then digesting) an enemy. Enveloping
-    works much like Grappling, except that a successfully enveloped
-    enemy takes 1d10÷2 DV per turn while enveloped (this damage has the
-    Chemical tag). Enveloped targets are normally held immobile, but, if
-    they succeed on a STR+SOM check, they can deal damage to the Clay
-    Man with any weapon they are holding (or any natural weapon).
+- **Effect**: the character can change their surface coloration.
+  This allows them to create *shapes* or *patterns* down to the scale of a few centimeters, which allows them to display text or rudimentary images; to decorate themselves; to make themselves easy to spot (+20 to Perception checks); or camouflage themselves (+20 to Stealth).
 
-  - *Fast Healing*: Clay Men have Fast Healing 1
+#### Optional Trait: Rigging
 
-  - *Powered*: Clay Men have internal supernatural process that help to
-    keep them going. They need to breath (by exchanging oxygen through
-    their surface), but they can extract oxygen from water as well as
-    breathing air. They need to eat to grow, but they need little food
-    when not growing or repairing damage. They do not need to sleep.
-    They can be effected by disease, but are resistant to most diseases
-    that affect humanoids (they have Resistance to diseases). They do
-    not age.
+Some Clay-Men can produce an internal *skeleton*, which allows them to use internal leverage to better deploy their strength.
 
-  - Optional Trait: Color-Changing.
-    
-      - You can change the color of your “skin”. You can create shapes
-        down to the scale of a few centimeters, which allows you to
-        create large letters, or to camouflage yourself (providing you a
-        +20 to Stealth).
+- **Effect**: the character can produce an internal support structure made of cartilage.
+  - They can produce and dissolve the “rigging” at will.
+  Creating the rigging is a Task Action with a six hour timeframe, and dissolving it is Task Action with a three-hour timeframe.
+  - The rigging allows the Clay Man to take advantage of internal leverage, and thus negates the *No Bones* trait; it also increases their STR by 5.
+  - However, the cartilage is fragile, and it exposes the character to bits of tiny broken cartilage tumbling through them when they are injured.  The cartilage reduces their DUR by 5.
 
-  - Optional Trait: Rigging.
-    
-      - You can produce an internal support structure made of cartilage.
-        You can produce and dissolve the “rigging” at will: creating it
-        is a Task Action with a six hour duration, and dissolving it is
-        Task Action with a three hour duration. The rigging allows you
-        to take advantage of internal leverage, and thus negates the No
-        Bones trait; it also increases your STR by 5. However, the
-        cartilage is fragile, and it exposes you to bits of tiny broken
-        cartilage tumbling through you when you are injured; it reduces
-        your DUR by 5.
+#### Optional Trait: Sticky
+
+Some Clay Men have adapted themselves to become *sticky*.
+
+- **Effect**: the character can make all or part of themselves *sticky*.
+  - This allows the character to easily grab onto surfaces and objects.
+  - This provides the character with a +20 bonus to checks made to *grapple* or *envelop* characters.
+  - The character gains the *Climbing 4/12* movement mode.
 
 ### Dwarves
 
@@ -931,7 +864,7 @@ Today, little is known about the Deep-Explorer Dwarves—called the *Drahrat* in
 
 See also *Deep-Explorer Dwarves* in *Other Factions*.
 
-**Vitals**
+#### Dwarven Vitals
 
 - Old Age: 110 Years
 - Average Height: 90cm
@@ -1129,41 +1062,42 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
   - Still, the Caravans remain numerous, and are a vital carrier of
     Commonwealth trade.
 
-  - Vitals:
-    
-      - Old Age: 80 Years
-      - Average Height: 1m
-      - Average Weight: 30kg
+#### Halfling Vitals
 
-  - One of the Founding Races. The merchants of the early Commonwealth.
-    Though they have fared well as the commonwealth has grown, their
-    numbers have never grown as rapidly as other races’ have.
-  - DUR 25, STR 20
-  - \+5 COO, +5 INT, +5 SAV, +5 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal
-  - Tags: Natural, Humanoid, Halfling
-  - Language Group: HHED
-  - Small: Halflings are Small
-  - Survivors: Halflings have a remarkable ability to endure
-    adversity.  They get +10 on Feat of Endurance checks,
-    and tests to resist Stress.
+One of the Founding Races, the merchants of the early Commonwealth.
+Though they have fared well as the commonwealth has grown, their numbers have never grown as rapidly as other races’ have.
 
-  - Optional Background: Caravaneer
-    
-      - 10 ranks in Barter
-      - 10 ranks in one Technical skill
-      - one Skill Kit
-      - one Halfling Wagon
-      - two horses
-      - *This one is weird and doesn't add up to exactly 40, but I thinkt hat's OK.  I'd rather it be interesting than exactly right.*
+- Old Age: 80 Years
+- Average Height: 1m
+- Average Weight: 30kg
 
-  - Cultural Item: Halfling Caravan Cart (Cost: High)
+- DUR 25, STR 20
+- \+5 COO, +5 INT, +5 SAV, +5 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal
+- Tags: Natural, Humanoid, Halfling
+- Language Group: HHED
+- Small: Halflings are Small
+- Survivors: Halflings have a remarkable ability to endure adversity.
+  They get a +10 bonus on *Feat of Endurance* checks and checks to resist *Stress*.
 
-      - Halfling Wagons are large horse-drawn carts that serve as both a mobile residence, work-space and shop for a Halfling businessperson (and possibly some business-partners or family).
-      - The carts varied; the humblest is essentially a discarded human wagon with bunks hung from boards running along the sides as walls, while the most expensive are large, wood-sided structures whose internal spaces are divided into floors and rooms (though small even by the standards of Halflings).  Some are even designed to be opened up, becoming small shops once set up.
-      - In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
-      - Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
+#### Optional Background: Caravaneer
+
+- 10 ranks in Barter
+- 10 ranks in one Technical skill
+- one Skill Kit
+- one Halfling Wagon
+- two horses
+
+#### Cultural Item: Halfling Caravan Cart (Cost: High)
+
+Halfling Wagons are large horse-drawn carts that serve as both a mobile residence, work-space and shop for a Halfling businessperson (and possibly some business-partners or family).
+
+The carts varied; the humblest is essentially a discarded human wagon with bunks hung from boards running along the sides as walls, while the most expensive are large, wood-sided structures whose internal spaces are divided into floors and rooms (though small even by the standards of Halflings).
+Some are even designed to be opened up, becoming small shops once set up.
+
+In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
+Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
 
 ### Herders
 
@@ -1632,13 +1566,14 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
   
   - They tend to live in urban centers among other races. Some Tempters live openly among the large cities of the Commonwealth; more almost certainly live in secret.
 
-**Vitals**
+#### Tempter Vitals
+
+Shape-shifting spirits; charming and suave, but also frail.
 
 - Old Age: None
 - Average Height: by shape
 - Average Weight: by shape
 
-- Shape-shifting spirits; charming and suave, but also frail.
 - DUR 25, STR 25
 - \+5 INT, +5 SAV, +5 WIL
 - Movement: Shape-Dependant (usually Foot 4/12)
@@ -1705,6 +1640,41 @@ You have extensively developed your race's empathic talents, giving you a limite
   - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
 ## Neighboring Races
+
+### Brightfeathers
+
+Brightfeathers are small, bird-like humanoids with a wide variety of richly colored plumages.
+Once the sole inhabitants of the western fringe of the Ruby Plane, they were formerly a relatively isolated culture until Ratfolk began fleeing the Warren Isles to avoid the brunt of Shade Elven raids and quickly began to establish themselves in their new home.
+The Ratfolk brought relatively advanced technology to the Brightfeathers, who gained the ability to sail along the coastal waters rather than attempting to traverse the dense jungles on foot or wing.
+While this helped open them to others on the Plane, this also made them natural allies for the Ratfolk as they established themselves.
+
+Initially, they were mistrusted along with the Ratfolk who had fled the Warren Isles due to their connection wth the brutal raids from the Shaded Sea Peoples, but in time the other major power in the northwestern Ruby Plane, the Raptors, came to view coexistance as essential to survival against the onslaught from the north, leading to the initial treaties which later lead to the official establishment of the Raptor Protectorate.
+
+The Brightfeathers themselves have a rich culture, with a native language which cannot be imitated by any other known race and a complex psuedo-pictographic writing system.
+Until meeting the Ratfolk, their existance had long been rather peaceful, which helps to explain their particular focus on art of almost any kind.
+Creative expression is very important to them, and those who create great works are highly respected.
+
+Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning.
+Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song.
+In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.
+
+**Vitals**
+
+- Old age: 90 years
+- Average height: 1.2 meters
+- Average weight: 25 kilograms
+
+- Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
+- DUR 20, STR 20
+- \+5 COO, +5 INT, +10 SAV
+- Movement: Foot 3/9, Fly 4/12/48
+- Senses: Normal, Infrared
+- Tags: Natural, Humanoid, Avian, Brightfeathers
+- Language Group: Any
+- **Small**: Brightfeathers are small
+- **Natural Linguist**: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
+- **Acute Eyesight**: Brightfeathers recieve a +20 bonus to visual perception checks.
+- **Talons**: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
 
 ### Elf-Human Hybrid
 
@@ -1812,33 +1782,273 @@ You have extensively developed your race's empathic talents, giving you a limite
 
   - Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
 
+### Mud-Skippers
+
+The Hasidisee were first encountered by commonwealth explorers some time after the discovery of other neighbouring races.
+But not on the commonwealth's terms.
+Rather, after normalised relationships between the Raptor Protectorate and the Commonwealth had resulted in trust, the first of the secretive, and shy Hasidisee finally allowed themselves to be known.
+A network of settlements were identified by their teardrop-shaped, subaquatic dwellings, and further meetings.
+
+The Hasidisee nation is highly fracturous, each tribe largely self-sufficient and able to make their own way.
+Though, several times a year, representatives of each tribe will return to the capitol to discuss the status of their communities, and to allow distant tribes to trade and interact.
+The tribes themselves identify by the river in which they make their homes, they largely avoid settling in lakes, due to a long-held cultural fear of stangnant or still waters, enough for the most traditional members of the race not to trust even the cleanest of lakes.
+
+Each tribe may decide it's own fate, and as such, while the tribes the commonwealth and protectorate have interactions with are friendly to explorers and visitors (Within reason), there are other tribes that will protect their isolation with force, and even rumors of members of the race seeking acceptance in the goblin empire, or Bone-spiders.
+Among Hasidisee, they prefer debate, conversation, and deliberation to handle conflicts between each other, as a result of their limited numbers and physical fragility.
+
+While not a hard rule, Hasidisee tend towards a matriarchal view of the world, and prize leadership qualities in their female young.
+They birth young in large clutches of eggs, but the eggs are very vulnerable to conditions of the water around them, and only a handful will hatch, let alone make it to adulthood.
+Hasidisee prefer to raise their young in communal creches, as members of the settlement or tribe.
+Teaching them all the ancient stories, and how to steward the river.
+
+Hasidisee are highly devout in their offerings and worship of the spirits of the world around them, especially the major spirits governing the rivers they live in.
+They are hesitant to actually propitiate spirits, or attempt to bind or bargain with them.
+They are also highly reluctant to discuss the reasons for this relationship.
+
+Between their efforts to please the nature spirits, and the vulnerability of their young to the conditions the eggs are laid in, the Hasidisee feel a strong sense of duty to the ecology around themselves.
+They dislike the construction of dams, or redirecting of excess water, and have skirmished with the cultures of the ruby Isle for overfishing, or dumping of waste into the waterways they inhabit.
+They don't cultivate much in the way of agricultural crops or food, aside from a few lakes given over to subaquatic medicine and plant matter for trade and traditional observances.
+
+As reluctant as the Hasidisee are to open up to outsiders, it's notable that they also make use of the Dwarven cave salamanders, and have for far longer than their exposure to the commonwealth.
+Using them as aquatic guard dogs and filial pets, rather than mounts.
+They speak of aquifers and vast underground lakes, and it's suggested that their number is higher than appears on the surface.
+
+#### Biology
+
+- Aquadynamic: Hasidisee bodies lack many of the sharper, more
+  protruding corners and edges of land-dwellers forms. Combined with
+    their webbed extremities, Hasidisee find it easy to redirect and
+    maneuver underwater, or move through difficult underwater spaces.
+    However, this same smoothness, and a limited amount of pigmentation,
+    make them difficult to tell apart from one another without long-term
+    exposure.
+-   Water-breather: Hasidisee are born underwater, and their gill
+    structures allow them to extract oxygen from water easily. They can
+    also breathe air, normally, but their mouths are small and
+    poorly-developed
+-   Aquatic Adaptation: Hasidisee eyes are well-equipped to cut through
+    glare and can see easily through water, but are less well-suited to
+    vision above the water level. Their hearing, sense of smell, and
+    ability to speak similarly suffer.
+-   Spear Fishers: Hasidisee are almost born with a fishing spear
+    in-hand. Especially underwater, they are capable of propelling
+    thrown objects with incredible accuracy.
+-   Language of Gestures: Hasidisee language makes extensive use of body
+    motions and gestures. Many of these fit well in the constructed
+    languages of Protectorate Standard, and Common.
+
+#### History
+
+The Hasidisee Federation is a loosely-aligned chain of tribes and
+families that spreads through the running water of the Ruby Isle. They
+spread slowly, but widely, populating wide, slow-running segments of
+rivers, or freshwater lakes that refuse to fall stagnant. Each river,
+and it's tributaries and what nearby lakes can be settled, is governed
+by a tribe. And each tribe is rife with sub-division, almost a nation
+unto itself.
+
+As an aquatic species, the Hasidisee are startlingly generous with their
+homes, only going to war against the surface races when they drink too
+deeply, or begin to overfish a tributary. Generally, the Hasidisee are
+more than happy to keep to themselves. They have limited agriculture,
+and prefer hunting and foraging throughout the watery networks of the
+ruby isle.
+
+The few tribes that openly deal with the Protectorate have developed
+their own gesture-based version of Protectorate standard for above water
+communication, since their throats are ill-suited to vocalisations in
+open air. They have dealt with the Commonwealth even less, only a dozen
+tribes making themselves known outside of their Federation. These
+tribes, however, view a whole continent of open freshwater bodies
+without threat of their historical myths and boogeymen makes the Emerald
+Plane seem like a 'promised land'
+
+With the goblin incursion into the Ruby Isle, they have been found
+largely wanting as slaves or servants, due to the expense of maintaining
+fresh water for their sleep, and their apparent clumsiness and
+inexperience with agriculture or industrial pursuits. Keeping to their
+waterways, however, keeps them out of the way of the Goblin Empire, and
+largely safe from their heel. For now, at least.
+
+Hasidisee towns are subaquatic, occasionally featuring some guest rooms
+that open above-water for adventurers, or people from the protectorate.
+They flow and twist with the river, built in a teardrop cross-section,
+with windows letting the river current flow through, impeded as little
+as possible. They avoid large structures, holding town halls and
+meetings in large, cleared spaces, and keeping their homes only for
+medicine, meals, meditation, and rest.
+
+When forced to fight, the Hasidisee make their enemies join them in the
+water, and use their natural advantages to their benefit. If the enemy
+attempts to dam or alter the river, then quick raids to the shore at the
+construction or excavation site attempt to stop any such actions. They
+lack the number, or physical prowess to engage in a stand-up fight
+without these advantages.
+
+While nominally a freshwater species, Hasidisee can 'breathe' saltwater
+for short periods of time, though it's like breathing smoke for an
+air-breathing race.
+
+Notable place: Hasidisee Capitol 'The River Wall'
+
+The River Wall is the name given to a mighty waterfall in the depths of
+the Ruby Isle, Two major rivers joining at the peak of a cliff
+descending deep into a sinkhole. At it's base is an aquifer-linked lake.
+The Hasidisee capitol is built stretching out from the very 'peak' of
+the waterfall, stone and rammed earth in sweeping circles to make a
+statement, the waterfall's water co-opted to fill the chambers suspended
+over the lake. The flow of water carefully controlled and managed
+through valves and resevoirs.
+
+Small residential spaces descend downwards from the artificial meeting
+spaces, markets and the senate chamber, where Hasidisee leaders meet to
+discuss the affairs of the Federation as a whole. While this is the
+closest analogue to a government, the Hasidisee Senate has minimal power
+to exhibit authority over the tribes in day-to-day matters, to the point
+where one tribe may be a Protectorate member, while their neighbours
+could be engaging a guerilla war to stop overfishing, and actively
+against Protectorate membership.
+
+Wise elders manage a library of carved tablets and carefully curated,
+waterproofed scrolls, and Shamans placate the major spirits of the River
+Wall and the watery networks that the Hasidisee call their home.
+Spreading the spiritually-hued stories of their distant past for
+teaching the next generation.
+
+Story hooks/secrets/other notes
+
+The Hasidisee are fracturous and intensely tribal, individual tribes may
+be members of the Protectorate, the Commonwealth, or Cloud-and-Foam.
+This can put certain tribes in interesting positions.
+
+The Hasidisee prefer flowing water, to avoid the stagnant pools of the
+Judges. The black slime colours many of their myths, and serves as a
+'satan' figure, but the Hasidisee themselves seem resistant to it's more
+insidious effects.
+
+Hasidisee will likely seek emigration to the Commonwealth and it's
+freshwater bodies. But doing so might anger the Goblin Empire, seeing it
+as the Commonwealth sticking their nose into Empire business.
+
+Hasidisee settlements may be linked to the Drahrat underground,
+connecting the two groups and allowing trade and cross-pollination of
+ideas. Or conflict and mistrust between the two.
+
+A change in a river's path can be a political upheaval for the
+Hasidisee, on par with a civil war elsewhere. Even moreso if the change
+is the result of a natural event, or a spirit's whim, instead of mortal
+intervention.
+
+Hasidisee/Bone Spider conflict when? How? Who'll rule the waves? Tonight
+on Pay-Per-View!
+
+#### Vitals
+
+- Old Age: 60 years
+- Average height: 160cm
+- Average weight: 50kg
+
+- Mud-Skippers are vibrant and energetic, but also traditional, isolationist and mysterious.
+- DUR 25, STR 20
+- +5 COG, +5 INT, +5 WIL
+- Movement: Swim 5/15, Foot 3/9, Slither 3/9
+- Senses: Normal, Life-Sense, Low-Light
+- Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
+- Language Groups: MS
+- *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
+  - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's wold be.
+    And, of course, they can breath underwater, thanks to their gills.
+  - However, they are somewhat awkard on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
+- *Fresh-Water*: Mud-Skippers are fresh-water creatures.
+  Salt water will damage their gills and skin, and will slowly poison and suffocate them.
+  They take 1 DV for each turn that they are submerged in salt-water.
+- *Fragile Gills*: Mud-Skipper gills are a particular weak spot.
+  They are large, fragile, vital structures located externally, at the tips of the frills on either side of a Mud-Skipper's head.
+  Attacks targetting a Mud-Skipper's gills with a *called shot* do not take the normal -10 penalty for the strike (see *Combat*).
+- *Riverside Slither*: Mud-Skippers are adapted to slither on muddy river-banks.
+  - When slithering in wet or muddy conditions, the character gains a +10 bonus to Athletics and Stealth checks.
+  - They treat hard, sharp or borken surfaces (like cobbling, sand or gravel) as *difficult terrain* when they slither.
+- *Psionic Null*: Mud-Skippers exhibit a natural resistance to psionic effects that influence their minds.
+  They gain a +10 bonus to checks to resist Sleights that influence or control the minds of others (including those with the *Mental Influence* tag).
+
+#### Optional Trait: Cave swimmer
+
+Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming—even when they can't see.
+
+- **Effect**:
+  - The character gains a +10 bonus to checks to navigate.
+  - The character reduces penalties to checks to navigate caused by visual impairment by up to 20.
+
+#### Optional Trait: Dam-Builder
+
+Some Mudskippers are particularly adept at working in flowing water.
+
+- **Effect**: the character reduces penalties caused by flowing water by up to 20.
+
+#### Optional Trait: Improved Null
+
+Some Mudskippers are remarkably resistant to outside mental influences.
+
+- **Effect**: The character gains an additional +10 bonus to checks to resist sleights that attempt to influence or control the minds of others (including those with the *Mental Influence* tag).
+
+#### Optional Trait: Mudslide
+
+Mudskippers hunting, foraging or working on the banks of rivers often need a rapid escape or a bit of camouflage.
+
+- **Effect**:
+  - The character's *Slither* movement rate improves to 4/12.
+  - They gain an addtional +10 bonus to Stealth and Athletics checks while slithering in wet or muddy conditions.
+
+#### Optional Background: Mudskipper Tribal
+
+You hail from one of the independant Mudskipper tribes.
+
+- 10 ranks in one *Knowledge* skill of the player's choice
+- 10 ranks in Survival
+- 10 ranks in Ranged Weapons
+- 10 ranks in Knowledge: Wildlife or Knowledge: Ecology
+- *The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard*
+- *Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign*
+
+#### Optional Background: Protectorate
+
+You hail from a Mudskipper tribe that has joined the Raptor Protectorate.
+
+- 10 ranks in one *Knowledge* skill of the player's choice
+- 10 ranks in Survival or Athletics
+- 10 ranks in Protocol
+- 10 ranks in Art (pick a field)
+- *The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard*
+- *Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign*
+
+#### Optional Background: Still-Water Skipper
+
+Most Mudskippers avoid *still* or *stagnant* water, which is rumored to erode the mind and sicken the body.
+You hail from an unusual Mudskipper sub-culture that prefers still water.
+
+- 10 ranks in one *Knowledge* skill of the player's choice
+- 10 ranks in Survival
+- 10 ranks in Control
+- the *Improved Null* and *Disease-Resistant* traits
+- the *Social Stigma (Still-Water)* trait
+- *The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard*
+- *Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign*
+
 ### Raptors
 
-  - These small creatures, as much like a reptile as a bird, are one of
-    the races originally inhabiting the Raptor’s Plane.
+  - These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.
 
-  - They walk upright, are covered in dark-green scales, and feature
-    vibrant feathers as plumage on their heads, arms, and on their short
-    tails.
+  - They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.
 
-  - Though they are warm-blooded, they don’t handle extremes of
-    temperature very well, and are most comfortable in the humid jungles
-    of Raptor’s Plane.
+  - Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.
 
-  - They have powerful legs and nasty claws, and are natural climbers
-    and leapers.
+  - They have powerful legs and nasty claws, and are natural climbers and leapers.
 
-  - Hundreds of years ago, they were a society of tribal hunters: the
-    young and old lived in settlements, while the healthy ranged and
-    hunted in the thick jungles.
+  - Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.
 
-  - Contact with the Ratfolk brought them access to worked iron and
-    bronze, and the two collaborated to adapt Ratfolk farming techniques
-    to the deep jungle; these have helped revolutionize Raptor culture.
+  - Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.
 
-  - Though many of them are still hunters, they have expanded the scale
-    of their agriculture significantly, and trade with Ratfolk burrows
-    for finished weapons and tools.
+  - Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.
 
   - Vitals:
     
@@ -1858,23 +2068,14 @@ You have extensively developed your race's empathic talents, giving you a limite
 
   - Language Group: DDK
 
-  - Scales: Raptors are covered in small scales; these provide them +1
-    Armor.
+  - Scales: Raptors are covered in small scales; these provide them +1 Armor.
 
-  - Claws: Raptors have vicious claws on their feat, designed to grapple
-    prey when pounced on from above. The have the following natural
-    weapon:
+  - Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above. The have the following natural weapon:
     
-      - Unarmed Attack, 1D10+2+DB DV, AP -2. Tags: Natural, Grab,
-        Awkward Placement: Legs
-      - Special: Your talons are difficult to use, being on your feet;
-        they require that you pounce on someone from above, leap on them
-        and pin them, or use some other similar tactic to bring them to
-        bear.
-      - Special: Your talons are very good at gripping those you attack,
-        digging in through flesh and bone as you do so. When attacking
-        with your talons, if you score an exceptional success, you
-        automatically grab your opponent.
+      - Unarmed Attack, 1D10+2+DB DV, AP 2. Tags: Natural, Grab, Awkward Placement: Legs
+      - Special: Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.
+      - Special: Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
+        When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.
 
 ### Washers
 
@@ -1904,34 +2105,6 @@ You have extensively developed your race's empathic talents, giving you a limite
 - Tags: Natural, Humanoid, Procyonid, Washers
 - Language Group: GR
 - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
-
-### Brightfeathers
-
-Brightfeathers are small, bird-like humanoids with a wide variety of richly colored plumages. Once the sole inhabitants of the western fringe of the Ruby Plane, they were formerly a relatively isolated culture until Ratfolk began fleeing the Warren Isles to avoid the brunt of Shade Elven raids and quickly began to establish themselves in their new home. The Ratfolk brought relatively advanced technology to the Brightfeathers, who gained the ability to sail along the coastal waters rather than attempting to traverse the dense jungles on foot or wing. While this helped open them to others on the Plane, this also made them natural allies for the Ratfolk as they established themselves.
-
-Initially, they were mistrusted along with the Ratfolk who had fled the Warren Isles due to their connection wth the brutal raids from the Shaded Sea Peoples, but in time the other major power in the northwestern Ruby Plane, the Raptors,came to view coexistance as essential to survival against the onslaught from the north, leading to the initial treaties which later lead to the official establishment of the Raptor Protectorate.
-
-The Brightfeathers themselves have a rich culture, with a native language which cannot be imitated by any other known race and a complex psuedo-pictographic writing system. Until meeting the Ratfolk, their existance had long been rather peaceful, which helps to explain their particular focus on art of almost any kind. Creative expression is very important to them, and those who create great works are highly respected.
-
-Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning. Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song. In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.
-
-**Vitals**
-
-- Old age: 90 years
-- Average height: 1.2 meters
-- Average weight: 25 kilograms
-
-- Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
-- DUR 20, STR 20
-- \+5 COO, +5 INT, +10 SAV
-- Movement: Foot 3/9, Fly 4/12/48
-- Senses: Normal, Infrared
-- Tags: Natural, Humanoid, Avian, Brightfeathers
-- Language Group: Any
-- **Small**: Brightfeathers are small
-- **Natural Linguist**: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
-- **Acute Eyesight**: Brightfeathers recieve a +20 bonus to visual perception checks.
-- **Talons**: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
 
 ## Exotic Races
 
