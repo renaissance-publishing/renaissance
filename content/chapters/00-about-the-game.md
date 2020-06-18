@@ -125,6 +125,11 @@ We're working on it.
 - Added the *Disease-Resistant* trait (because a Mudskipper background needed it).
 - Lots of reformatting in *races*
 - Tinkering and adjusting the Clay Men.
+- In Common Hazards, rules for *difficult terrain* and *terrain and environmental effects.
+- Text in several places, to the effect that armor only applies to attack damage.
+- A reference to the difficult terrain movement in *Moving Around* in *Combat*.
+- Started adding two example modules.
+- Added a blank for the *Tour of the Commonwealth* chapter.
 
 ## To-Do
 
