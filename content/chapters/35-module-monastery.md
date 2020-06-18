@@ -129,6 +129,24 @@ She's been trying to form a closer partnership with the human smiths of *Southla
 
 ## The Trip
 
+[[designnote]]
+| Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and *stride* (*sd*) is about 30 inches or 75 cm.
+
+Whitefox Monastery is only about 4dc away from Southlander's Market; where it not for the blizzard, it would not be a particularly difficult journey, even in winter.
+The blizzard, however, complicates things.
+
+The thick snow and near-whiteout conditions will dramatically slow the party's pace; the *base pace* in the blizzard will be only 2dc-per-day (see *Travel*).
+Additionally, navigation will be particularly difficult; the party will need to make a *Survival* check to navigate, and that check will have a -30 penalty.
+Foraging for food (see *Travel*) will be exceptinally difficult, and will also suffer a -30 penalty.
+
+Making camp will also be difficult; unlike normal, the party will need to make a *Survival* check to assemble a camp that will allow them to survive the extreme cold.
+(Characters can mitigate this by finding a cave or other natural feature to shelter in, but this will require a *Search* or *Survival* check at -20.)
+
+The cold will be a significant hazard; each member of the party will need to make a *Feat of Endurance* test at the end of every day they spend in the snow.
+(If they choose to keep traveling at night instead of making camp, have them make a second *Feat of Endurance* check for the night.)
+Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV (this damage has the *Cold* and *Environmental* tags; resistances and other features may apply).
+
+
 ### Location: The Valley
 
 ### Encounter: The Blizzard
