@@ -694,16 +694,69 @@ Some shifters, in addition to their *hybrid* form, can entirely assume the form 
 
 ### Clay Men
 
-Clay Men have long dwelled deep underground.
+The Clay Men have long dwelled deep underground; they are among the most unusual races of the Emerald Plane.
+Explorers from the Commonwealth first contacted them more than six hundred years ago; though they where open enough to trade and cooperation, their isolation deep underground limited how much traffic was possible.
+
+Despite being open and sociable, their extremely long lives and alien natures made them slow to seek closer alliance with others races and nations.
+They have long suffered from attacks from the *Leapers*, who seem to be attempting to exterminate them.
+When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy—although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
+More recently, as large number of Kobolds have settled in the Commonwealth, the Clay Men have also begun to contact and trade with these (relatively) shallow-dug creatures.
+
+As the Commonwealth prospered, as they expanded and explored further and further underground, and as they made major strides against the Leapers and their vassals, the Clay Men came to view them both more as an enlightened nation in which the Clay Men might be welcomed and respected despite their extreme differences, and as vital military allies against their mutual and deadly foes.
+When the Commonwealth Compact was signed in CY 750, the Clay Men where one of several long-time allies who became formal signatories and members.
+
+#### Alien Nature
+
+The Clay Men have a unique nature.
+They do not have organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
+Without bones or organs, they have a great ability to stretch, compress and reshape themselves; they can also extend *pseudopods* for grip and locomotion.
+They do not have eyes and are completely blind, but they have exceptional senses of hearing and vibration—which serve them better than eyes in the lightless depths where they live.
+
+Perhaps more remarkable—or more enviable—to surface dwellers, they are fueled at least in part by magic.
+They need very little food, they do not sleep, and they do not age.
+
+Even more amazing is their ability to literally *blend*.
+Two Clay Men can extend pseudopods and partly *blend together*.
+While blending, Clay Men can share, copy and exchange their minds, and can support one another if one is enjured or strained.
+
+#### Clay Culture
+
+Many of their communities center arund *reservoirs*—large masses of the living material that makes up Clay Men.
+Unlike individual Clay Men, reservoirs aren't sentient or active in themselves; instead, reservoirs act as repositories.
+Clay Men can *blend* with the reservoir, storing bits of themselves with in—or accessing the stored minds and experiences of others.
+Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge.
+
+Unsurprisingly, many "Clay" communities center around the care (and defence) of these reservoirs, and the cultivation of useful skills and knowledge within.
+
+This gives many Clay Men a unique outlook.
+The reservoir gives them a measure of immortality—beyond even that provided by the fact that they do not age.
+It also allows them to modify their minds in a way that few other races can; they can quite literally retrieve bits of knowledge or even personality from the reservoir, to suppliment or replace their own.
+For this reason, some Clay Men are disposed to think of themselves as much as realizations of some of the minds stored with their reservoir as individuals themselves.
+
+Notably, Clay Men seem to have extremely flexible and adaptive natures.
+Clay Men have experimented with using magical and chemical means to alter physical forms.
+Different communities sport different adaptations, which make their members suitable to different tasks; some can breath water and swim, for example, while others can exude caustic chemicals to tunnel through solid rock.
+Recently, some Clay Men have experimented with developing a bony "rigging" internally, the better to operate on the surface among the other races of the Commonwealth.
+
+Since they are not dependant on wide, cultivated fields, and since they do not age or die naturally, their communites tend to be small, and to grow very slowly if they grow at all.
+Their communities are also heavily fortified and defended, to resist the Leapers.
+
+#### Commonwealth Integration
+
+The Clay Men lagged behind the rest of the Commonewalth in architecture and mettallurgy, although they possess a sophisticated understandings of magic and medicine.
+More practically, they have proved a fruitful source of minerals, metals, and rare materials from deep underground.
+
+Notably, most of what the Commonwealth knows about the Leapers, they have learned from the Clay Men.
+(Whatever secrets the Deep-Divers know, they have largely chosen not to share.)
 
 #### Clay-Men Vitals
 
 An ancient, amorphous race.
 
 - DUR 35, STR 20
-- \+5 SAV, +5 WIL
+- \+5 INT, \+5 SAV, \+5 WIL
 - Movement: Burrow 3/9, Pseudopods 3/9, Roll 4/12/24
-- Senses: Infra-Red, Mage Sight, Tremor Sense
+- Senses: Echo-Sight, Mage Sight, Tremor Sense
 - Tags: Supernatural, Shape-Shifter, Amorphous, Clay Men
 - Language Groups: CM
 - *Amorphous*: Clay Men are amorphous, and can manipulate their shape
@@ -722,6 +775,7 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
 - *No Bones*: Lacking a skeletal structure, Clay Men cannot take advantage of *leverage*; this severely reduces their ability to deploy their strength.
   - Their DB is 0.
   - They suffer a -30 penalty on checks where *leverage* would be required.
+- *Blind*: Clay Men have most of the senses that other races do—taste, touch, smell and hearing—but they are *blind*.
 - Envelop: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
   - Enveloped targets are normally held immobile; but, if the enveloped creature succeeds on a STR+SOM check, they can deal damage to the Clay Man that has enveloped them with any weapon they are holding (or any natural weapon).
   - A Clay Man can begin to *digest* a creature that it has enveloped; this deals 1d10÷2 DV per turn.
@@ -752,6 +806,7 @@ Some Clay-Men have developed the ability to suffose all or part of themselves wi
   - This increases the damage that they deal to an *enveloped* creature or object to 1d10 DV per turn.
   - They can make all, part or none of themselves caustic; they can, for example, render only a small patch of their surface *caustic*.
   - This makes it easier for them to burrow, which improves the rate of the *Burrow* movement to 4/12.
+  - *Caustic* Clay Men can tunnel even through solid rock—although they are slowed to 2/6 when doing so.
 
 #### Optional Trait: Color-Changing
 
@@ -778,6 +833,16 @@ Some Clay Men have adapted themselves to become *sticky*.
   - This allows the character to easily grab onto surfaces and objects.
   - This provides the character with a +20 bonus to checks made to *grapple* or *envelop* characters.
   - The character gains the *Climbing 4/12* movement mode.
+
+#### Optional Trait: Eye-Spots
+
+Some Clay Men have developed *eye-spots* on their surface, which gives them the ability to see.
+The eye-spots don't have *lenses*, so each individual eye-spot has poor vision; information from all of them must be combined to build an image of the Clay Man's surroundings.
+
+- **Effect**: the character has developed eye-spots on their surface.
+  - The character gains the *Normal* and *Infrared* senses, and looses the *Blind* trait.
+  - Visual perception checks have a -20 penalty.
+  - Clay Men can percieve all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
 
 ### Dwarves
 
