@@ -806,10 +806,10 @@ The character hails from one of the Clay-Men's subterranean communities.
 - 10 ranks in Control
 - 10 ranks in Spellcraft
 - 10 ranks in any *Technical* skill
-- 10 ranks in any skill
-- The *Unique Outlook* Trait (usually resistant to stress related to death)
+- A racial optional trait
 
 Most members of Clay-Men Communities speak a local variant of *Clay* (CM).
+The *Unique Outlook* trait is common, usually for *resistance to stress related to personal death*.
 
 #### Optional Trait: Aquatic
 
