@@ -807,9 +807,9 @@ The character hails from one of the Clay-Men's subterranean communities.
 - 10 ranks in Spellcraft
 - 10 ranks in any *Technical* skill
 - 10 ranks in any skill
-- The *Unique Outlook* Trait
+- The *Unique Outlook* Trait (usually resistant to stress related to death)
 
-Most Clay Men communities speak a local variant of a common language.
+Most members of Clay-Men Communities speak a local variant of *Clay* (CM).
 
 #### Optional Trait: Aquatic
 
