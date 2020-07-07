@@ -741,6 +741,8 @@ Recently, some Clay Men have experimented with developing a bony "rigging" inter
 Since they are not dependant on wide, cultivated fields, and since they do not age or die naturally, their communites tend to be small, and to grow very slowly if they grow at all.
 Their communities are also heavily fortified and defended, to resist the Leapers.
 
+Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies—which most other races cannot hear or produce.
+
 #### Commonwealth Integration
 
 The Clay Men lagged behind the rest of the Commonewalth in architecture and mettallurgy, although they possess a sophisticated understandings of magic and medicine.
@@ -748,6 +750,10 @@ More practically, they have proved a fruitful source of minerals, metals, and ra
 
 Notably, most of what the Commonwealth knows about the Leapers, they have learned from the Clay Men.
 (Whatever secrets the Deep-Divers know, they have largely chosen not to share.)
+
+Clay Men have a very distinctive vocalization range; while they can produce both very low and very high-pitched sounds, they struggle to produce complex patterns.
+Most of them speak a local variant of the same root language, simply called "clay".
+They can learn to speak Commonwealth Standard (though members of some other races find it painful to listent to for long periods of time).
 
 #### Clay-Men Vitals
 
@@ -776,7 +782,9 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
   - Their DB is 0.
   - They suffer a -30 penalty on checks where *leverage* would be required.
 - *Blind*: Clay Men have most of the senses that other races do—taste, touch, smell and hearing—but they are *blind*.
-- Envelop: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
+- *Acute Hearing*: Clay men have an incredible sense of hearing, stemming from their abilit to use their entire surface to detect sound.
+  They gain a +20 bonus to auditory perception checks, and can hear both very low and very high pitches of sound.
+- *Envelop*: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
   - Enveloped targets are normally held immobile; but, if the enveloped creature succeeds on a STR+SOM check, they can deal damage to the Clay Man that has enveloped them with any weapon they are holding (or any natural weapon).
   - A Clay Man can begin to *digest* a creature that it has enveloped; this deals 1d10÷2 DV per turn.
 - *Fast Healing*: Clay Men have Fast Healing 1
@@ -786,10 +794,22 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
   They do not need to sleep.
   They can be effected by disease, but are resistant to most diseases that affect humanoids (they have Resistance: Disease (+30 to checks to resist)).
   They do not age.
-- *Link*: Clay-Men can *link* with other Clay Men, joining their minds and bodies.
-  Though the *linked* Clay-Men retain their separate identities, they gain a profound level of access to each-other's minds.
+- *Blend*: Clay-Men can *blend* with *reservoirs* and with other Clay Men, joining their minds and bodies.
+  Though the *blended* Clay-Men retain their separate identities, they gain a profound level of access to each-other's minds.
   They can communicate; exchange thoughts, ideas and information; and access one-another's skills and memories.
-  They can even exchange or copy elements of one-another's psychies.
+  They can even exchange or copy elements of one-another's minds.
+
+#### Optional Background: Clay-Man Community
+
+The character hails from one of the Clay-Men's subterranean communities.
+
+- 10 ranks in Control
+- 10 ranks in Spellcraft
+- 10 ranks in any *Technical* skill
+- 10 ranks in any skill
+- The *Unique Outlook* Trait
+
+Most Clay Men communities speak a local variant of a common language.
 
 #### Optional Trait: Aquatic
 
@@ -815,6 +835,16 @@ Some Clay-Men can alter their coloration.
 - **Effect**: the character can change their surface coloration.
   This allows them to create *shapes* or *patterns* down to the scale of a few centimeters, which allows them to display text or rudimentary images; to decorate themselves; to make themselves easy to spot (+20 to Perception checks); or camouflage themselves (+20 to Stealth).
 
+#### Optional Trait: Eye-Spots
+
+Some Clay Men have developed *eye-spots* on their surface, which gives them the ability to see.
+The eye-spots don't have *lenses*, so each individual eye-spot has poor vision; information from all of them must be combined to build an image of the Clay Man's surroundings.
+
+- **Effect**: the character has developed eye-spots on their surface.
+  - The character gains the *Normal* and *Infrared* senses, and looses the *Blind* trait.
+  - Visual perception checks have a -20 penalty.
+  - Clay Men can percieve all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
+
 #### Optional Trait: Rigging
 
 Some Clay-Men can produce an internal *skeleton*, which allows them to use internal leverage to better deploy their strength.
@@ -833,16 +863,6 @@ Some Clay Men have adapted themselves to become *sticky*.
   - This allows the character to easily grab onto surfaces and objects.
   - This provides the character with a +20 bonus to checks made to *grapple* or *envelop* characters.
   - The character gains the *Climbing 4/12* movement mode.
-
-#### Optional Trait: Eye-Spots
-
-Some Clay Men have developed *eye-spots* on their surface, which gives them the ability to see.
-The eye-spots don't have *lenses*, so each individual eye-spot has poor vision; information from all of them must be combined to build an image of the Clay Man's surroundings.
-
-- **Effect**: the character has developed eye-spots on their surface.
-  - The character gains the *Normal* and *Infrared* senses, and looses the *Blind* trait.
-  - Visual perception checks have a -20 penalty.
-  - Clay Men can percieve all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
 
 ### Dwarves
 
