@@ -7,12 +7,20 @@ This list is by no means exhaustive.
 
 ## Senses
 
-- Normal: the normal senses that humans have
+- Normal: the normal senses that humans have; vision, smell, taste, touch, and hearing.
 
 - Blind-Sight: you have the ability to sense your surroundings, even when you cannot see; this might be a result of the heightening of your other sense, it might be a mechanism like a bat’s sonar, or it might be a magical ability.
   Even in conditions of total darkness, you can perceive your environment, including any object larger than a human fist, out to a distance of 30m.
-  You cannot perceive color or fine detail.
+  You cannot see color, markings or fine detail (and so, for example, you could detect the presence of a page, but not perceive anything written on it in ink).
   Perception tests made with Blind-Sight suffer a -20 penalty.
+
+- Echo Sight: you can use a series of short high-pitched sounds to perceive your surroundings.
+  - Echo sight has a relatively short range; it only works out to a distance of 30m in air.
+    - It carries further through denser mediums, like water or solid objects.
+  - Echo sight can perceive any solid object down to the size of an insect.
+  - Some items are more difficult to detect with echo-sight; solid, hard objects are easy to detect, for example, but small, rounded, or "muffled" objects are harder to detect.
+  - Echo sight cannot be used to perceive markings, coloration or texture.
+  - Using echo-sight requires you to emit sounds, which anyone with acute hearing (or echo-sight) can detect; you can choose not to emit these sounds, in which case echo-site functions like blind-sight.
 
 - Infra-red: you can see in infra-red.
   - This has several advantages:
@@ -54,69 +62,40 @@ This list is by no means exhaustive.
 - Vibration: when in contact with a solid object, you can sense vibrations propagating through it.
   - This allows you to sense approaching footfalls through the ground, for example.
 
-## Movement Modes
+## Movement
 
-General Rules:
+Creatures can have several different movement modes.
+Most movement modes list a *base* and *full* movement rates; these correspond to how far a character can move during a turn, and are mainly used in *Combat* (see *Combat*).
+Some movement modes also list a *maximum speed*; this is the is the *maximum* speed (normally) possible using that movement mode.
+Reaching *maximum speed* usually requires more than one turn; characters attempting to reach their maximum speed can usually increase their current speed by their *Full* rate each turn.
+(Of course, favorable conditions—such as rolling down hill, being in a current or having a tailwind—can help.)
+So, for example, a character with *Walking 5/15/25* as their movement has a base rate of 5, a full rate of 15, and a maximum of 25; it'll take them two turns to reach their maximum
 
-  - Creatures have several different movement modes.
+Each *movement mode* has a linked *movement skill*; checks related to that movement are made using that *movement skill*.
+For the vast majority of movement modes, the linked movement skill is *Athletics*; some exotic movement modes use the *Exotic Movement* skill, while checks related to mounted movement use the *Ride* skill.
 
-  - Most movement modes list *walking* and *running* rates
-    
-      - see *Combat* for rules about movement rates in combat.
+Checks aren't required for most basic uses of a movement modes; a character that with a *Fly* movement mode can take off, fly around and land without requiring a check.
+Normally, checks are only called for when a character is
 
-  - Some movement modes also list a *maximum speed*, which is the
-    maximum speed allowed for that movement mode.
-    
-      - We don’t have detailed rules for acceleration; as a rough guide,
-        for movement modes with a maximum speed, you can add either your
-        Walking or Running rate to your current speed in any given turn.
+- attempting a difficult maneuvers (such as running across a slick surface), or
+- when one character is *chasing* another character.
 
-  - Most movement modes have a *linked skill*, which is used for tests
-    regarding that movement mode. Tests are usually called for when
-    difficult maneuvers are made (such as running across a slick
-    surface), when attempting to *sprint* (see *Combat*) or as opposed
-    tests during *chase scenes*.
-    
-      - Most movement modes, including Walking movement, use the
-        Athletics skill.
-      - Flying movement use the Flying skill.
-      - Mounted movement uses the Riding skill.
-      - Other movements mode, such as Burrowing movement, use the Exotic
-        Movement skill.
+### Movement Modes
 
-Movement Modes:
-
-  - Burrowing: you can burrow through the ground. You can choose to
-    leave a tunnel behind you or not. Some soil, such as hard or rocky
-    soil, cannot be burrowed through. If you have Burrowing as a
-    movement mode, you can be assumed to breath while burrowing.
-    
-      - Linked to Exotic Movement: Burrowing
-
-  - Climbing: you can climb as easily as humans can walk. Note that some
-    creatures can’t climb some surfaces (someone that climbs with claws,
-    like a cat, cannot climb on glass or metal, for example).
-    
-      - Linked to the Athletics skill.
-
-  - Flying: you can fly.
-    
-      - Linked to the Flying skill.
-
-  - Leaping: you move in a series of hops, like a kangaroo or frog.
-    
-      - Linked to the Athletics skill.
-      - Less hindered by broken group or small gaps
-
-  - Swimming: you can swim as easily as humans can walk. If you have a
-    Swim movement mode, you can be assumed to breath while underwater
-    (presuming you need to breathe).
-    
-      - Linked to the Athletics skill.
-
-  - Walking: bipedal movement.
-    
-      - Linked to the Athletics skill.
+- Burrowing: you can burrow through the ground.
+  You can choose whether or not to leave a tunnel behind you.
+  Some soil, such as hard or rocky soil, cannot be burrowed through.
+  If you have Burrowing as a movement mode, you can be assumed to breath while burrowing.
+- Foot: bipedal, walking movement.
+- Climbing: you can climb as easily as humans can walk.
+  Note that some creatures can’t climb some surfaces (a creature that climbs with claws, like a cat, cannot climb on glass or metal, for example).
+- Flying: you can fly.
+- Leaping: you move in a series of hops, like a kangaroo or frog.
+  Leaping movement is well suited to *pouncing* on opponents from a run, and is less hindered by broken or fractured ground; however, slow, precise or lateral movement is more difficult with leaping movement.
+- Slither: you can slither along the ground.
+  Slithering movement can be useful when one is attempting to keep low or move stealthily, and it can also be useful on slick or slippery surfaces (where the greater contact area improves grip).
+- Swimming: you can swim as easily as humans can walk.
+  If you have a Swim movement mode, you can be assumed to breath while underwater (if you need to breath).
 
 ## Abilities
 
