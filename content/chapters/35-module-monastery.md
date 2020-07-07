@@ -301,7 +301,7 @@ However, if it can spy on the party, it might be able to understand what they're
 
 Finally, it's a good idea to reveal to the players *fairly* quickly what they need to do; don't force them to assemble a lot of clues if the ultimate solution is going to be "kill it!"
 
-#### Details
+#### "Alien" Details
 
 - Make the monster *tough*
   - +10 DUR
@@ -338,7 +338,7 @@ Note that trying to trick or terrorize the party might be early signs that the m
 
 Don't be *too* heavy-handed, though; you can require COG×3 checks, protocol checks, or other appropriate checks for the characters to realize that the monster is intelligent.
 
-#### Details
+#### "Negotiation" Details
 
 - Much as the *"Aliens"* scenario.
 - Possibly add a hint in the **notes at the traitor's desk** that the monster could be reasoned with.
@@ -360,7 +360,7 @@ Another benefit is that you can use the monster differently.
 The *"Aliens"* scenario has the monster *buffed*, but also removes its ability to hop to new corpses; in this scenario, you can use a normal or weakened version of the monster, but you can also allow it to jump to new corpses.
 This also allows you to use many more monster attacks: rather than deploying it cautiously, you can simply throw it at the party as often as you like (since it can just jump to a new corpse when destroyed, and since it won't do quite as much damage to them in its "un-toughened" state).
 
-#### Details
+#### "Unsummoning" Details
 
 - Don't toughen the monster.
 - The monster can *reincarnate* with new corpses.
