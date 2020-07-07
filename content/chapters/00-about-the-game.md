@@ -132,6 +132,7 @@ We're working on it.
 - Added a blank for the *Tour of the Commonwealth* chapter.
 - Reworked some out-of-date text in *Movement Modes*
 - Updated the *skill kits* and *alchemical items* sections.
+- Further reworking of the Clay Men.
 
 ## To-Do
 
