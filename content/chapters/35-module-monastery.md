@@ -129,6 +129,12 @@ She's been trying to form a closer partnership with the human smiths of *Southla
 
 ## The Trip
 
+The trek through the blizzard to Whitefox Monastery is the real starting-point for the adventure: now the players have left the relative safety of Southlander's Market, and have gone to face the unknown.
+
+### Location: The Valley
+
+### Encounter: The Blizzard
+
 [[designnote]]
 | Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and *stride* (*sd*) is about 30 inches or 75 cm.
 
@@ -137,25 +143,104 @@ The blizzard, however, complicates things.
 
 The thick snow and near-whiteout conditions will dramatically slow the party's pace; the *base pace* in the blizzard will be only 2dc-per-day (see *Travel*).
 Additionally, navigation will be particularly difficult; the party will need to make a *Survival* check to navigate, and that check will have a -30 penalty.
-Foraging for food (see *Travel*) will be exceptinally difficult, and will also suffer a -30 penalty.
+(Some example check results are given below.)
+Foraging for food (see *Travel*) will be exceptionally difficult, and will also suffer a -30 penalty.
+
+| Navigation Check | Result |
+| ---------------- | ------ |
+| Basic Success | Normal Progress |
+| Exceptional Success | Sheltered Camp Site, Good Progress (improve progress by 1dc), Sheltered Route (+20 to Feat of Endurance check against cold) |
+| Critical Success | Excellent Progress (improve progress by 2dc), *Whitefox Bridge* |
+| Basic Failure | Lose Progress (reduce progress by 1dc) |
+| Exceptional Failure | Exposed Route (-20 to Feat of Endurance checks), Natural Hazard (hidden pit, fall down slope) |
+| Critical Failure | Party Becomes Lost (getting barrings is a one-hour Task Action requiring a Survival check at -20), Party Becomes Separate (searching is a one-hour Task Action requiring a Search check at -10; lost characters may panic; characters without Survival are at risk of freezing) |
 
 Making camp will also be difficult; unlike normal, the party will need to make a *Survival* check to assemble a camp that will allow them to survive the extreme cold.
-(Characters can mitigate this by finding a cave or other natural feature to shelter in, but this will require a *Search* or *Survival* check at -20.)
+(Characters can mitigate this by finding a cave or other natural feature to shelter in, but this will require a *Search* or *Survival* check at -20.
+Characters might also be rewarded with such a *sheltered camp-site* if they score an exceptional success while navigating.)
 
 The cold will be a significant hazard; each member of the party will need to make a *Feat of Endurance* test at the end of every day they spend in the snow.
 (If they choose to keep traveling at night instead of making camp, have them make a second *Feat of Endurance* check for the night.)
-Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV (this damage has the *Cold* and *Environmental* tags; resistances and other features may apply).
+Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV; this damage has the *Cold* and *Environmental* tags, and resistances, vulnerabilities and other features may apply.
 
+Note that the extreme cold is particularly deadly to cold-blooded characters; they'll need to bring along some source of warmth (like a Warmblood Suit, a Heater, or the Fireball power) or they'll almost certainly freeze to death.
+(Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.)
+Cold-blooded creatures with no other source of warmth can attempt to share body-heat with a warm-blooded creature—although doing this while actively travelling can be *difficult*, unless the cold-blooded character is particularly portable.
+Sharing warmth in this way imposes a -10 penalty on the warm-blooded character, but it allows the cold-blooded character to make a Feat of Endurance check against the cold at -20.
 
-### Location: The Valley
+[[designnote]]
+| The blizzard is a "soft barrier": it traps the party in the monastery and separates them from the city and help, so they have to face the Monster alone; but it's not impenetrable.
+| In some circumstances, the party *may* decide to try to trek back through the blizzard to reach the town; this might happen if they are badly injured, or determine that they don't have the skills and resources to solve the mystery.
+| (Notably, most of these are at least potentially failure states.)
 
-### Encounter: The Blizzard
+[[designnote]]
+| We've spent a fair amount of text describing how dangerous the blizzard is, because its intended to be a major hazard for the adventure.
+| Bute a character who takes most of the teleportation-related powers can easily bypass it—at least on the way back from the monastery, if not on the way to it (because they don't know where they're going and are at risk for teleporting into a wall, tree, mountain, etc.).
+|
+| This is actually perfectly acceptable; a character who takes most of the teleportation powers has invested a significant ammount of points!
+| To be really proficient, they will have had to buy several powers, and good ranks in both Spellcraft and Athletics (you need good Athletics to be good at teleporting, because teleporting counts as a movement mode; see the note on the power).
+| At that point, they've earned the right to use teleporting to solve a problem.
+| (If it helps, think of teleporting as another reasonable strategy for winning the "encounter" with the blizzard.)
+
+### Location: Hella River
+
+The Hella River runs northeast, flowing from higher up in the peaks of the Worldspine Mountain to Hellas Lake 5dc outside the valley.
+The Hella River is not a wide or swift river; for most of its length, it's about 25 *strides* across, and only 6sd deep.
+(During the spring thaw, it swells and flows more rapidly; that is not likely to be a concern for the party during this adventure.)
+
+Right now, of course, the river is frozen over, and represents a potential challenge.
+
+### Point-of-Interest: Whitefox Bridge
+
+Whitefox Bridge is an arching stone bridge more than three hundred years old.
+The residents of Hella Valley have kept the bridge in good repair, important as it is for reaching Whitefox Monastery.
+
+The major benefit it provides for this adventure is the ability to resolve the *River Crossing* encounter.
+
+### Encounter: River Crossing
 
 ## The Monastery
 
+The monastery is where the bulk of the adventure takes place.
+It's where all the clues to the mystery reside—as well as the monster!
+
 ### Location: The Monastery
 
+Whitefox Monastery is more than four-and-a-half centuries years old.
+Humans from the Empire first settled in the region more than a thousand years ago; the region was incorporated into the Commonwealth more than six hundred years ago.
+A manorial charter was granted to the Whitefox Monks in CY 298, more than five hundred years ago; the current Whitefox Monastery was built between CY 361 and CY 365, when the manor (which included what would become Southlander's Market) grew wealthy enough.
+(As a reminder, this adventure is set in the winter of CY 831.)
+
+The building is roughly square; it's build around an open *ritual space* on the inside, surrounded by various living and working spaces.
+It's two stories high; the first *stride* of the ground floor is construct of faced masonry, but the rest of the height of the building is constructed of large bricks.
+There are a few narrow windows on each floor.
+The corners are cylindrical, enclosing spiral staircases.
+There's a large *gate* on the southern face, which leads directly into a small *front room* and then the ritual space.
+
+As the party approaches the monastery, hope for an resolution should fade: the gate is open, and no light can be seen from the narrow windows.
+Characters with *Infra-Red Vision* can verify that the building is cold; characters with *Scent* may detect the smell of death.
+
+Notably, characters who walk around behind the monastery may notice a much larger window behind the ritual space.
+This window is intact, but characters who *really* want to avoid going through the front door (for whatever reason) could break it to gain access.
+
+### Point-of-Interest: Outside
+
+Characters who search outside the monastery—or score exceptional successes on Perception checks while approaching—may notice *bodies* frozen in the snow.
+
+### Point-of-Interest: The Ritual Space
+
+The ritual space dominates the interior of the monastery.
+It's a great, open, granite-floored room.
+Shrines to the various Great Spirits of the region line the walls, as well as small cabinets for ritual items.
+
+The *Altar* sits at the north end of the room on a raised platform.
+
 ### Point-of-Interest: The Altar
+
+The *Altar* sits at the north end of the ritual space on a raised wooden platform.
+The platform runs from (side-)wall to (side-)wall, underneath a great, open glass window.
+
+The remains of a *ritual* remain on the altar.
 
 ### Point-of-Interest: The Doors
 
@@ -175,4 +260,131 @@ Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV (thi
 
 ## Resolution
 
+## Failure
+
+## Secrets
+
+### Character: Bones of Deep Rock
+
+### Characters: The Flurry
+
 ## Customizing the Module
+
+Some parts of the module are fixed—like the town, the monastery, the blizzard and the monster.
+A traitor-priest (for one reason or another) negotiated between several spirits (including Bones-of-Deep-Rock) to release one of the spirits of the dead, and grant it great powers; this is the source of both the monster and the blizzard.
+
+Other parts, however, are designed to be variable: what was the plot, and how will the party defeat the monster and end the blizzard?
+
+In order to run the adventure, you'll need to pick one of the following "plots," and use it to finish out the module—or combine several of them, or come up with one of your own!
+
+### "Alien"
+
+In some ways, this is a very simple scenario: it's a fight for survival in an isolated, eery location against an implacable, ferocious foe.
+There's no particular secret to unlock or mystery to solve: the monster is at the center of it, and you have to kill it before it kills you.
+
+In this story, the *Traitor* still created the monster, for whatever reason—but that's of little consequence now.
+The monster is *unbound*; even if the party identify the traitor and fully understand the ritual he used, there's nothing that knowledge will allow them to do.
+All they can do is defeat it.
+
+In this scenario, designing and running the monster is particularly critical.
+It needs to be tough enough that defeating it can take up a good chunk of the adventure.
+It should be tough enough that it can strike, inflict some painful damage, and then survive to fade away.
+On the other hand, it also needs to be possible to defeat it; it probably *shouldn't* be able to simple hop into a new corpse when it dies, because that will potentially put the party in a place where they need to defeat it *70 times*—which shouldn't be practical.
+Essentially, this means that you should probably improve its DUR, STR and Armor—and possibly give it a regeneration mechanism—but that you *shouldn't* allow it to hop bodies.
+
+It's also important to wisely deploy the monster.
+Don't over-use it; it shouldn't be running about howling and attacking all the time, but instead should lunge out of the darkness to strike only at tense or vulnerable moments.
+Remember that it's the spirit of a dead mortal; that means that it has human(oid) intelligence.
+It's ferocious, but it's also *far* more intelligent than a lion or bear: it will avoid obvious traps, sneak around, attempt to trip or disarm opponents, and maybe even set traps of its own.
+It even has the capability of language—although it has about as much to say to the party as a lion does to a gazelle.
+However, if it can spy on the party, it might be able to understand what they're saying, which will give it a decided edge (if it shares a language with them—which depends on exactly whose spirit it is, which is a detail up to you as the GM).
+
+Finally, it's a good idea to reveal to the players *fairly* quickly what they need to do; don't force them to assemble a lot of clues if the ultimate solution is going to be "kill it!"
+
+#### Details
+
+- Make the monster *tough*
+  - +10 DUR
+  - +5 STR
+  - +2 Armor
+  - *can eat corpses to heal*
+- Make the monster *defeatable*
+  - it can't *jump bodies*
+- Limited, direct *clues*
+  - don't bother with the **traitor's alcove**.
+  - analysis of the **notes at the trator's desk** will reveal that defeating the monster will end the blizzard.
+  - the **ritual remains** on the **altar** don't reveal much.
+
+### Negotiation
+
+This scenario proceeds much like the previous one, with one difference: we assume that a lion might have a meaningful discussion with gazelles if it's *outnumbered* and *outgunned*.
+
+Essentially, in this scenario, we assume two things: that monster doesn't want to be defeated—perhaps destroying it will send it back into the realms of the dead, and it doesn't want that to happen—and that it can leave the monastery (and that the blizzard will follow it).
+(We also note that the analogy to lions and gazelles is imperfect, since the monster doesn't actually *need* to kill people; it's only doing that because it's already dead and beyond mortal concern, which means it has no particular reason to care about morality.)
+This opens up a kind of opportunity for the party: they can perhaps negotiate with it.
+
+There's a simple and compelling utilitarian case to make here: "if you keep trying to kill us, we'll have to kill you, and that's bad for you.
+Instead, if you simply left—and, hopefully, take the blizzard with you—we'll stop needing to kill you."
+
+While this saves the Hella Valley, it also creates a problem somewhere else.
+If the monster travels to the lonely peaks of the World-Spine (for example), then that's fine—it won't be bothering anyone up there.
+If, however, it simply descends on a neighboring town, then the party will be responsible for a major disaster.
+And, of course, this leaves the wanton slaughter of the monks unavenged.
+This creates excellent opportunity for moral haggling within the party!
+
+Of course, it probably won't be obvious to the players that they can talk to the monster; if you don't give them a hint, they might mistake it for a run-of-the-mill "game zombie."
+You might consider having the monster deliver a *line* at some point, to paint a message in blood, to build effigies, or to otherwise take steps that indicate that it's intelligent (and is aware that the party is intelligent).
+Note that trying to trick or terrorize the party might be early signs that the monster is intelligent and has a theory-of-mind.
+
+Don't be *too* heavy-handed, though; you can require COG×3 checks, protocol checks, or other appropriate checks for the characters to realize that the monster is intelligent.
+
+#### Details
+
+- Much as the *"Aliens"* scenario.
+- Possibly add a hint in the **notes at the traitor's desk** that the monster could be reasoned with.
+- Demonstrate intelligent behavior form the monster.
+
+### Unsummoning
+
+In this scenario, the particular ritual that the *traitor* used is *reversible*.
+The party can perform a ritual of their own, which will destroy the monster and end the blizzard.
+
+There are several benefits to this scenario:
+
+- one is that it puts the *Analysis* characters right at the center of the adventure;
+- another is that it sets up an excellent climactic encounter: the monster is intelligent, and will likely try to disrupt their ritual (even if it doesn't know for sure what they're doing, it can probably guess that another ritual, reusing the same elements, is probably bad for it)
+
+This also gives you a chance to use the **ritual remains** to great effect—which is good if you like creepy, dramatic set-pieces.
+
+Another benefit is that you can use the monster differently.
+The *"Aliens"* scenario has the monster *buffed*, but also removes its ability to hop to new corpses; in this scenario, you can use a normal or weakened version of the monster, but you can also allow it to jump to new corpses.
+This also allows you to use many more monster attacks: rather than deploying it cautiously, you can simply throw it at the party as often as you like (since it can just jump to a new corpse when destroyed, and since it won't do quite as much damage to them in its "un-toughened" state).
+
+#### Details
+
+- Don't toughen the monster.
+- The monster can *reincarnate* with new corpses.
+- The monster might *reincarnate* as ice if it runs out of corpses.
+- analysis of the **notes at the traitor's desk** reveals that ritual can be "reversed".
+
+#### Variant: Push it Through
+
+In this variant, the monster needs to be lured into position, pushed through a magical aperture, or otherwise maneuvered during the climactic ritual.
+
+Be careful with this one: the monster is both ferocious and intelligent, so it'll be tricky to pull off—especially if they don't have a *strong* combat character.
+
+#### Variant: You Need the Original Ritual
+
+In this variant, you can only reverse the ritual as long as you can use certain bits of the original ritual (like the diagram on the alter).
+
+This produces a dangerous situation: the monster can foil the party if it destroys the **ritual remains**.
+This introduces a *hard failure state*—unless you also arrange for a Plan B.
+
+### Kill the Traitor
+
+In this scenario, the monster is bound to the traitor; as long as the traitor is alive, the monster will jump from corpse to corpse, and the blizzard will remain.
+But, if traitor is killed, the monster will be rendered vulnerable.
+
+### Striving with God
+
+### Spirit-Politics
