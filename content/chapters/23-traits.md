@@ -135,6 +135,20 @@ Some traits are *negative traits*. A negative trait imposes a *penalty,* but tak
   - Weak: you are weaker than the norm for your race. You have -5 STR.
     You cannot take both this and the Strong trait.
 
+#### Anxious
+
+You have been constantly exposed to some source of stress, which has left you anxious.
+
+- **Effect**: You do not naturally heal your last TT points of stress, and you start the game with TT points of stress (although you do not start with a Trauma).
+  - That is, if your Trauma Threshold is 8, then you do not naturally heal your last 8 points of stress, and you start the game with 8 Stress.
+
+#### Sensitive
+
+You are particularly sensitive to a source of stress.
+
+- **Effect**: pick a source of stress; whenever you are exposed to that source of stress, you take +2 SV.
+- Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
+
 ### Neutral Traits
 
 Some traits are *neutral*, giving you both a benefit and a drawback; they do not cost or provide CP.
