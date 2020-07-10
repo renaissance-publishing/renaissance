@@ -1922,111 +1922,6 @@ They speak of aquifers and vast underground lakes, and it's suggested that their
     motions and gestures. Many of these fit well in the constructed
     languages of Protectorate Standard, and Common.
 
-#### History
-
-The Hasidisee Federation is a loosely-aligned chain of tribes and
-families that spreads through the running water of the Ruby Isle. They
-spread slowly, but widely, populating wide, slow-running segments of
-rivers, or freshwater lakes that refuse to fall stagnant. Each river,
-and it's tributaries and what nearby lakes can be settled, is governed
-by a tribe. And each tribe is rife with sub-division, almost a nation
-unto itself.
-
-As an aquatic species, the Hasidisee are startlingly generous with their
-homes, only going to war against the surface races when they drink too
-deeply, or begin to overfish a tributary. Generally, the Hasidisee are
-more than happy to keep to themselves. They have limited agriculture,
-and prefer hunting and foraging throughout the watery networks of the
-ruby isle.
-
-The few tribes that openly deal with the Protectorate have developed
-their own gesture-based version of Protectorate standard for above water
-communication, since their throats are ill-suited to vocalisations in
-open air. They have dealt with the Commonwealth even less, only a dozen
-tribes making themselves known outside of their Federation. These
-tribes, however, view a whole continent of open freshwater bodies
-without threat of their historical myths and boogeymen makes the Emerald
-Plane seem like a 'promised land'
-
-With the goblin incursion into the Ruby Isle, they have been found
-largely wanting as slaves or servants, due to the expense of maintaining
-fresh water for their sleep, and their apparent clumsiness and
-inexperience with agriculture or industrial pursuits. Keeping to their
-waterways, however, keeps them out of the way of the Goblin Empire, and
-largely safe from their heel. For now, at least.
-
-Hasidisee towns are subaquatic, occasionally featuring some guest rooms
-that open above-water for adventurers, or people from the protectorate.
-They flow and twist with the river, built in a teardrop cross-section,
-with windows letting the river current flow through, impeded as little
-as possible. They avoid large structures, holding town halls and
-meetings in large, cleared spaces, and keeping their homes only for
-medicine, meals, meditation, and rest.
-
-When forced to fight, the Hasidisee make their enemies join them in the
-water, and use their natural advantages to their benefit. If the enemy
-attempts to dam or alter the river, then quick raids to the shore at the
-construction or excavation site attempt to stop any such actions. They
-lack the number, or physical prowess to engage in a stand-up fight
-without these advantages.
-
-While nominally a freshwater species, Hasidisee can 'breathe' saltwater
-for short periods of time, though it's like breathing smoke for an
-air-breathing race.
-
-Notable place: Hasidisee Capitol 'The River Wall'
-
-The River Wall is the name given to a mighty waterfall in the depths of
-the Ruby Isle, Two major rivers joining at the peak of a cliff
-descending deep into a sinkhole. At it's base is an aquifer-linked lake.
-The Hasidisee capitol is built stretching out from the very 'peak' of
-the waterfall, stone and rammed earth in sweeping circles to make a
-statement, the waterfall's water co-opted to fill the chambers suspended
-over the lake. The flow of water carefully controlled and managed
-through valves and resevoirs.
-
-Small residential spaces descend downwards from the artificial meeting
-spaces, markets and the senate chamber, where Hasidisee leaders meet to
-discuss the affairs of the Federation as a whole. While this is the
-closest analogue to a government, the Hasidisee Senate has minimal power
-to exhibit authority over the tribes in day-to-day matters, to the point
-where one tribe may be a Protectorate member, while their neighbours
-could be engaging a guerilla war to stop overfishing, and actively
-against Protectorate membership.
-
-Wise elders manage a library of carved tablets and carefully curated,
-waterproofed scrolls, and Shamans placate the major spirits of the River
-Wall and the watery networks that the Hasidisee call their home.
-Spreading the spiritually-hued stories of their distant past for
-teaching the next generation.
-
-Story hooks/secrets/other notes
-
-The Hasidisee are fracturous and intensely tribal, individual tribes may
-be members of the Protectorate, the Commonwealth, or Cloud-and-Foam.
-This can put certain tribes in interesting positions.
-
-The Hasidisee prefer flowing water, to avoid the stagnant pools of the
-Judges. The black slime colours many of their myths, and serves as a
-'satan' figure, but the Hasidisee themselves seem resistant to it's more
-insidious effects.
-
-Hasidisee will likely seek emigration to the Commonwealth and it's
-freshwater bodies. But doing so might anger the Goblin Empire, seeing it
-as the Commonwealth sticking their nose into Empire business.
-
-Hasidisee settlements may be linked to the Drahrat underground,
-connecting the two groups and allowing trade and cross-pollination of
-ideas. Or conflict and mistrust between the two.
-
-A change in a river's path can be a political upheaval for the
-Hasidisee, on par with a civil war elsewhere. Even moreso if the change
-is the result of a natural event, or a spirit's whim, instead of mortal
-intervention.
-
-Hasidisee/Bone Spider conflict when? How? Who'll rule the waves? Tonight
-on Pay-Per-View!
-
 #### Vitals
 
 - Old Age: 60 years
@@ -2039,11 +1934,11 @@ on Pay-Per-View!
 - Movement: Swim 5/15, Foot 3/9, Slither 3/9
 - Senses: Normal, Life-Sense, Low-Light
 - Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
-- Language Groups: MS
+- Language Groups: MS, *Mute out of water*
 - *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
-  - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's wold be.
+  - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's would be.
     And, of course, they can breath underwater, thanks to their gills.
-  - However, they are somewhat awkard on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
+  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
 - *Fresh-Water*: Mud-Skippers are fresh-water creatures.
   Salt water will damage their gills and skin, and will slowly poison and suffocate them.
   They take 1 DV for each turn that they are submerged in salt-water.
@@ -2055,6 +1950,16 @@ on Pay-Per-View!
   - They treat hard, sharp or borken surfaces (like cobbling, sand or gravel) as *difficult terrain* when they slither.
 - *Psionic Null*: Mud-Skippers exhibit a natural resistance to psionic effects that influence their minds.
   They gain a +10 bonus to checks to resist Sleights that influence or control the minds of others (including those with the *Mental Influence* tag).
+
+#### Optional Trait: Lighted
+
+A rare few Mudskippers are born with mutation that causes their body to glow in darkness.
+In many tribes, the hatching of a "Lighted One" is taken as a portentious sign.
+
+- **Effect**: The character glows in the dark, becoming a light source about as bright as a dim oil lantern.
+  This light is usually not bright enough to be seen through clothing.
+  Obviously, *Lighted* Mudskippers are fairly distinctive, at least when seen in darkness; this imposes a -20 penalty on Stealth checks to *hide* or *blend in to a crowd*.
+- *Lighted* Mudskippers are often put under enormous (social) pressure; traits like *Anxious* and *Sensitive* are common.
 
 #### Optional Trait: Cave swimmer
 
