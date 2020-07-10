@@ -133,6 +133,9 @@ We're working on it.
 - Reworked some out-of-date text in *Movement Modes*
 - Updated the *skill kits* and *alchemical items* sections.
 - Further reworking of the Clay Men.
+- Added the Anxious and Sensitive traits.
+- Further work on CV's Mudskippers.
+  - Entered them as a minor faction in the Other Nations section.
 
 ## To-Do
 
