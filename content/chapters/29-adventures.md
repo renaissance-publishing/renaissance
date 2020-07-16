@@ -30,13 +30,12 @@ The Kingdom of Foam and Cloud has a traditionalist faction that is not above vio
 
 In an *Exploration* game, players will explore mysteries at the edges of the known world and beyond.
 
-Though most of the Emerald Plane has been explored, much of the world remains unknown to residents of the Commonwealth.
-The Ruby Plane extends well south of the Raptor Protectorate, and it's distant extents remain unexplored even to the Raptor Protectorate.
+Though most of the Emerald Plane has been explored, much of the world beyond remains unknown to residents of the Commonwealth.
+The Ruby Plane extends well south of the Raptor Protectorate, and it's distant extents remain unexplored even by the Raptors.
 There are also opponents here: conquerors from the Goblin Empire explore along the eastern coast, and raiders from the Shaded Sea land along the west.
-But the Ruby and Emerald Planes represent only a portion of the northern hemisphere of the world; who can say what strange and wonderful lands wait across the equator in the southern hemisphere, or on the other side of the world?
-And, of course, there are mysteries hidden *beneath* the surface of the world; who knows what mysteries the *Leapers* and *Deep-Explorers* have discovered, or what still remains undiscovered in the other deep places of the world?
 
-*Exploration* games can lend themselves particularly well to long-running group: a party of explorers can be presented with an endless string of adventures during their travels.
+But the Ruby and Emerald Planes represent only a portion of the northern hemisphere of the world; who can say what strange and wonderful lands wait for to the east, west or south?
+And, of course, there are mysteries hidden *beneath* the surface of the world; who knows what mysteries the *Leapers* and *Deep-Explorers* have discovered, or what still remains unknown in the other deep places of the world?
 
 ## Horror
 
