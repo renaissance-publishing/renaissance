@@ -136,6 +136,8 @@ We're working on it.
 - Added the Anxious and Sensitive traits.
 - Further work on CV's Mudskippers.
   - Entered them as a minor faction in the Other Nations section.
+- Added the Leverage trait,
+  - filled in the Old Wound and Congenital Defect traits.
 
 ## To-Do
 
