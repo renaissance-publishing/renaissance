@@ -694,16 +694,75 @@ Some shifters, in addition to their *hybrid* form, can entirely assume the form 
 
 ### Clay Men
 
-Clay Men have long dwelled deep underground.
+The Clay Men have long dwelled deep underground; they are among the most unusual races of the Emerald Plane.
+Explorers from the Commonwealth first contacted them more than six hundred years ago; though they where open enough to trade and cooperation, their isolation deep underground limited how much traffic was possible.
+
+Despite being open and sociable, their extremely long lives and alien natures made them slow to seek closer alliance with others races and nations.
+They have long suffered from attacks from the *Leapers*, who seem to be attempting to exterminate them.
+When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy—although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
+More recently, as large number of Kobolds have settled in the Commonwealth, the Clay Men have also begun to contact and trade with these (relatively) shallow-dug creatures.
+
+As the Commonwealth prospered, as they expanded and explored further and further underground, and as they made major strides against the Leapers and their vassals, the Clay Men came to view them both more as an enlightened nation in which the Clay Men might be welcomed and respected despite their extreme differences, and as vital military allies against their mutual and deadly foes.
+When the Commonwealth Compact was signed in CY 750, the Clay Men where one of several long-time allies who became formal signatories and members.
+
+#### Alien Nature
+
+The Clay Men have a unique nature.
+They do not have organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
+Without bones or organs, they have a great ability to stretch, compress and reshape themselves; they can also extend *pseudopods* for grip and locomotion.
+They do not have eyes and are completely blind, but they have exceptional senses of hearing and vibration—which serve them better than eyes in the lightless depths where they live.
+
+Perhaps more remarkable—or more enviable—to surface dwellers, they are fueled at least in part by magic.
+They need very little food, they do not sleep, and they do not age.
+
+Even more amazing is their ability to literally *blend*.
+Two Clay Men can extend pseudopods and partly *blend together*.
+While blending, Clay Men can share, copy and exchange their minds, and can support one another if one is enjured or strained.
+
+#### Clay Culture
+
+Many of their communities center arund *reservoirs*—large masses of the living material that makes up Clay Men.
+Unlike individual Clay Men, reservoirs aren't sentient or active in themselves; instead, reservoirs act as repositories.
+Clay Men can *blend* with the reservoir, storing bits of themselves with in—or accessing the stored minds and experiences of others.
+Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge.
+
+Unsurprisingly, many "Clay" communities center around the care (and defence) of these reservoirs, and the cultivation of useful skills and knowledge within.
+
+This gives many Clay Men a unique outlook.
+The reservoir gives them a measure of immortality—beyond even that provided by the fact that they do not age.
+It also allows them to modify their minds in a way that few other races can; they can quite literally retrieve bits of knowledge or even personality from the reservoir, to suppliment or replace their own.
+For this reason, some Clay Men are disposed to think of themselves as much as realizations of some of the minds stored with their reservoir as individuals themselves.
+
+Notably, Clay Men seem to have extremely flexible and adaptive natures.
+Clay Men have experimented with using magical and chemical means to alter physical forms.
+Different communities sport different adaptations, which make their members suitable to different tasks; some can breath water and swim, for example, while others can exude caustic chemicals to tunnel through solid rock.
+Recently, some Clay Men have experimented with developing a bony "rigging" internally, the better to operate on the surface among the other races of the Commonwealth.
+
+Since they are not dependant on wide, cultivated fields, and since they do not age or die naturally, their communites tend to be small, and to grow very slowly if they grow at all.
+Their communities are also heavily fortified and defended, to resist the Leapers.
+
+Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies—which most other races cannot hear or produce.
+
+#### Commonwealth Integration
+
+The Clay Men lagged behind the rest of the Commonewalth in architecture and mettallurgy, although they possess a sophisticated understandings of magic and medicine.
+More practically, they have proved a fruitful source of minerals, metals, and rare materials from deep underground.
+
+Notably, most of what the Commonwealth knows about the Leapers, they have learned from the Clay Men.
+(Whatever secrets the Deep-Divers know, they have largely chosen not to share.)
+
+Clay Men have a very distinctive vocalization range; while they can produce both very low and very high-pitched sounds, they struggle to produce complex patterns.
+Most of them speak a local variant of the same root language, simply called "clay".
+They can learn to speak Commonwealth Standard (though members of some other races find it painful to listent to for long periods of time).
 
 #### Clay-Men Vitals
 
 An ancient, amorphous race.
 
 - DUR 35, STR 20
-- \+5 SAV, +5 WIL
+- \+5 INT, \+5 SAV, \+5 WIL
 - Movement: Burrow 3/9, Pseudopods 3/9, Roll 4/12/24
-- Senses: Infra-Red, Mage Sight, Tremor Sense
+- Senses: Echo-Sight, Mage Sight, Tremor Sense
 - Tags: Supernatural, Shape-Shifter, Amorphous, Clay Men
 - Language Groups: CM
 - *Amorphous*: Clay Men are amorphous, and can manipulate their shape
@@ -722,7 +781,10 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
 - *No Bones*: Lacking a skeletal structure, Clay Men cannot take advantage of *leverage*; this severely reduces their ability to deploy their strength.
   - Their DB is 0.
   - They suffer a -30 penalty on checks where *leverage* would be required.
-- Envelop: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
+- *Blind*: Clay Men have most of the senses that other races do—taste, touch, smell and hearing—but they are *blind*.
+- *Acute Hearing*: Clay men have an incredible sense of hearing, stemming from their abilit to use their entire surface to detect sound.
+  They gain a +20 bonus to auditory perception checks, and can hear both very low and very high pitches of sound.
+- *Envelop*: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
   - Enveloped targets are normally held immobile; but, if the enveloped creature succeeds on a STR+SOM check, they can deal damage to the Clay Man that has enveloped them with any weapon they are holding (or any natural weapon).
   - A Clay Man can begin to *digest* a creature that it has enveloped; this deals 1d10÷2 DV per turn.
 - *Fast Healing*: Clay Men have Fast Healing 1
@@ -732,10 +794,22 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
   They do not need to sleep.
   They can be effected by disease, but are resistant to most diseases that affect humanoids (they have Resistance: Disease (+30 to checks to resist)).
   They do not age.
-- *Link*: Clay-Men can *link* with other Clay Men, joining their minds and bodies.
-  Though the *linked* Clay-Men retain their separate identities, they gain a profound level of access to each-other's minds.
+- *Blend*: Clay-Men can *blend* with *reservoirs* and with other Clay Men, joining their minds and bodies.
+  Though the *blended* Clay-Men retain their separate identities, they gain a profound level of access to each-other's minds.
   They can communicate; exchange thoughts, ideas and information; and access one-another's skills and memories.
-  They can even exchange or copy elements of one-another's psychies.
+  They can even exchange or copy elements of one-another's minds.
+
+#### Optional Background: Clay-Man Community
+
+The character hails from one of the Clay-Men's subterranean communities.
+
+- 10 ranks in Control
+- 10 ranks in Spellcraft
+- 10 ranks in any *Technical* skill
+- A racial optional trait
+
+Most members of Clay-Men Communities speak a local variant of *Clay* (CM).
+The *Unique Outlook* trait is common, usually for *resistance to stress related to personal death*.
 
 #### Optional Trait: Aquatic
 
@@ -752,6 +826,7 @@ Some Clay-Men have developed the ability to suffose all or part of themselves wi
   - This increases the damage that they deal to an *enveloped* creature or object to 1d10 DV per turn.
   - They can make all, part or none of themselves caustic; they can, for example, render only a small patch of their surface *caustic*.
   - This makes it easier for them to burrow, which improves the rate of the *Burrow* movement to 4/12.
+  - *Caustic* Clay Men can tunnel even through solid rock—although they are slowed to 2/6 when doing so.
 
 #### Optional Trait: Color-Changing
 
@@ -759,6 +834,16 @@ Some Clay-Men can alter their coloration.
 
 - **Effect**: the character can change their surface coloration.
   This allows them to create *shapes* or *patterns* down to the scale of a few centimeters, which allows them to display text or rudimentary images; to decorate themselves; to make themselves easy to spot (+20 to Perception checks); or camouflage themselves (+20 to Stealth).
+
+#### Optional Trait: Eye-Spots
+
+Some Clay Men have developed *eye-spots* on their surface, which gives them the ability to see.
+The eye-spots don't have *lenses*, so each individual eye-spot has poor vision; information from all of them must be combined to build an image of the Clay Man's surroundings.
+
+- **Effect**: the character has developed eye-spots on their surface.
+  - The character gains the *Normal* and *Infrared* senses, and looses the *Blind* trait.
+  - Visual perception checks have a -20 penalty.
+  - Clay Men can percieve all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
 
 #### Optional Trait: Rigging
 
@@ -1837,111 +1922,6 @@ They speak of aquifers and vast underground lakes, and it's suggested that their
     motions and gestures. Many of these fit well in the constructed
     languages of Protectorate Standard, and Common.
 
-#### History
-
-The Hasidisee Federation is a loosely-aligned chain of tribes and
-families that spreads through the running water of the Ruby Isle. They
-spread slowly, but widely, populating wide, slow-running segments of
-rivers, or freshwater lakes that refuse to fall stagnant. Each river,
-and it's tributaries and what nearby lakes can be settled, is governed
-by a tribe. And each tribe is rife with sub-division, almost a nation
-unto itself.
-
-As an aquatic species, the Hasidisee are startlingly generous with their
-homes, only going to war against the surface races when they drink too
-deeply, or begin to overfish a tributary. Generally, the Hasidisee are
-more than happy to keep to themselves. They have limited agriculture,
-and prefer hunting and foraging throughout the watery networks of the
-ruby isle.
-
-The few tribes that openly deal with the Protectorate have developed
-their own gesture-based version of Protectorate standard for above water
-communication, since their throats are ill-suited to vocalisations in
-open air. They have dealt with the Commonwealth even less, only a dozen
-tribes making themselves known outside of their Federation. These
-tribes, however, view a whole continent of open freshwater bodies
-without threat of their historical myths and boogeymen makes the Emerald
-Plane seem like a 'promised land'
-
-With the goblin incursion into the Ruby Isle, they have been found
-largely wanting as slaves or servants, due to the expense of maintaining
-fresh water for their sleep, and their apparent clumsiness and
-inexperience with agriculture or industrial pursuits. Keeping to their
-waterways, however, keeps them out of the way of the Goblin Empire, and
-largely safe from their heel. For now, at least.
-
-Hasidisee towns are subaquatic, occasionally featuring some guest rooms
-that open above-water for adventurers, or people from the protectorate.
-They flow and twist with the river, built in a teardrop cross-section,
-with windows letting the river current flow through, impeded as little
-as possible. They avoid large structures, holding town halls and
-meetings in large, cleared spaces, and keeping their homes only for
-medicine, meals, meditation, and rest.
-
-When forced to fight, the Hasidisee make their enemies join them in the
-water, and use their natural advantages to their benefit. If the enemy
-attempts to dam or alter the river, then quick raids to the shore at the
-construction or excavation site attempt to stop any such actions. They
-lack the number, or physical prowess to engage in a stand-up fight
-without these advantages.
-
-While nominally a freshwater species, Hasidisee can 'breathe' saltwater
-for short periods of time, though it's like breathing smoke for an
-air-breathing race.
-
-Notable place: Hasidisee Capitol 'The River Wall'
-
-The River Wall is the name given to a mighty waterfall in the depths of
-the Ruby Isle, Two major rivers joining at the peak of a cliff
-descending deep into a sinkhole. At it's base is an aquifer-linked lake.
-The Hasidisee capitol is built stretching out from the very 'peak' of
-the waterfall, stone and rammed earth in sweeping circles to make a
-statement, the waterfall's water co-opted to fill the chambers suspended
-over the lake. The flow of water carefully controlled and managed
-through valves and resevoirs.
-
-Small residential spaces descend downwards from the artificial meeting
-spaces, markets and the senate chamber, where Hasidisee leaders meet to
-discuss the affairs of the Federation as a whole. While this is the
-closest analogue to a government, the Hasidisee Senate has minimal power
-to exhibit authority over the tribes in day-to-day matters, to the point
-where one tribe may be a Protectorate member, while their neighbours
-could be engaging a guerilla war to stop overfishing, and actively
-against Protectorate membership.
-
-Wise elders manage a library of carved tablets and carefully curated,
-waterproofed scrolls, and Shamans placate the major spirits of the River
-Wall and the watery networks that the Hasidisee call their home.
-Spreading the spiritually-hued stories of their distant past for
-teaching the next generation.
-
-Story hooks/secrets/other notes
-
-The Hasidisee are fracturous and intensely tribal, individual tribes may
-be members of the Protectorate, the Commonwealth, or Cloud-and-Foam.
-This can put certain tribes in interesting positions.
-
-The Hasidisee prefer flowing water, to avoid the stagnant pools of the
-Judges. The black slime colours many of their myths, and serves as a
-'satan' figure, but the Hasidisee themselves seem resistant to it's more
-insidious effects.
-
-Hasidisee will likely seek emigration to the Commonwealth and it's
-freshwater bodies. But doing so might anger the Goblin Empire, seeing it
-as the Commonwealth sticking their nose into Empire business.
-
-Hasidisee settlements may be linked to the Drahrat underground,
-connecting the two groups and allowing trade and cross-pollination of
-ideas. Or conflict and mistrust between the two.
-
-A change in a river's path can be a political upheaval for the
-Hasidisee, on par with a civil war elsewhere. Even moreso if the change
-is the result of a natural event, or a spirit's whim, instead of mortal
-intervention.
-
-Hasidisee/Bone Spider conflict when? How? Who'll rule the waves? Tonight
-on Pay-Per-View!
-
 #### Vitals
 
 - Old Age: 60 years
@@ -1954,11 +1934,11 @@ on Pay-Per-View!
 - Movement: Swim 5/15, Foot 3/9, Slither 3/9
 - Senses: Normal, Life-Sense, Low-Light
 - Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
-- Language Groups: MS
+- Language Groups: MS, *Mute out of water*
 - *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
-  - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's wold be.
+  - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's would be.
     And, of course, they can breath underwater, thanks to their gills.
-  - However, they are somewhat awkard on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
+  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
 - *Fresh-Water*: Mud-Skippers are fresh-water creatures.
   Salt water will damage their gills and skin, and will slowly poison and suffocate them.
   They take 1 DV for each turn that they are submerged in salt-water.
@@ -1970,6 +1950,16 @@ on Pay-Per-View!
   - They treat hard, sharp or borken surfaces (like cobbling, sand or gravel) as *difficult terrain* when they slither.
 - *Psionic Null*: Mud-Skippers exhibit a natural resistance to psionic effects that influence their minds.
   They gain a +10 bonus to checks to resist Sleights that influence or control the minds of others (including those with the *Mental Influence* tag).
+
+#### Optional Trait: Lighted
+
+A rare few Mudskippers are born with mutation that causes their body to glow in darkness.
+In many tribes, the hatching of a "Lighted One" is taken as a portentious sign.
+
+- **Effect**: The character glows in the dark, becoming a light source about as bright as a dim oil lantern.
+  This light is usually not bright enough to be seen through clothing.
+  Obviously, *Lighted* Mudskippers are fairly distinctive, at least when seen in darkness; this imposes a -20 penalty on Stealth checks to *hide* or *blend in to a crowd*.
+- *Lighted* Mudskippers are often put under enormous (social) pressure; traits like *Anxious* and *Sensitive* are common.
 
 #### Optional Trait: Cave swimmer
 

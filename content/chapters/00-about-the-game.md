@@ -125,6 +125,19 @@ We're working on it.
 - Added the *Disease-Resistant* trait (because a Mudskipper background needed it).
 - Lots of reformatting in *races*
 - Tinkering and adjusting the Clay Men.
+- In Common Hazards, rules for *difficult terrain* and *terrain and environmental effects.
+- Text in several places, to the effect that armor only applies to attack damage.
+- A reference to the difficult terrain movement in *Moving Around* in *Combat*.
+- Started adding two example modules.
+- Added a blank for the *Tour of the Commonwealth* chapter.
+- Reworked some out-of-date text in *Movement Modes*
+- Updated the *skill kits* and *alchemical items* sections.
+- Further reworking of the Clay Men.
+- Added the Anxious and Sensitive traits.
+- Further work on CV's Mudskippers.
+  - Entered them as a minor faction in the Other Nations section.
+- Added the Leverage trait,
+  - filled in the Old Wound and Congenital Defect traits.
 
 ## To-Do
 
@@ -183,6 +196,7 @@ We're working on it.
 - Gleech: lead author
 - Sauce: a list of powers, GMing for a test, A sample module (incl. Wisps).
 - SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.
+  - Special credit to CV for the banners that have now (finally!) been posted!  They're amazing!
 - King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.  The Knights of the White Tusk.  Proficiencies for *Athletics*.
 - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)  The Brightfeathers.
 - Misandry: helping to fill out the Shamblers.

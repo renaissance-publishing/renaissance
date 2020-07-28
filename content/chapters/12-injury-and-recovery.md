@@ -4,9 +4,8 @@ title: "Injury and Recovery"
 
 ## Physical Injury
 
-We use the same rules for taking damage, regardless of if the damage is
-inflicted by a weapon attack, a disease, a magical ability, or something
-else.
+For the most part, we use the same rules for taking damage, regardless of if the damage is inflicted by a weapon attack, a disease, a magical ability, or something else.
+(Whether or not *Armor* applies is the major exception; see *Armor and Armor Penetration* in *Combat*.)
 
 Characters who are injured receive Damage, in an amount given by the source's Damage Value (DV).
 (If you are attacked by a weapon, this would be the weapon's DV, for example.)

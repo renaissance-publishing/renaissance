@@ -9,22 +9,22 @@ Here, we're going to break that down a little, talking about how to build a char
 
 ## Combatant: winning (or just surviving) combat encounters
 
-> Smoothly and quickly, the shifter changed: in a few seconds, the structure of her legs and skull changed, like blown-glass flowing, fur billowed out from her as smoke from fire, and large, sickle-like claws descended from her hands.
+> Smoothly and quickly, the shifter changed: in a few seconds, the structure of her legs and skull changed, like blown-glass flowing; fur billowed out from her as smoke from fire; and large, sickle-like claws descended from her hands.
 > She snarled at Chandra ferociously, giving challenge.
 >
 > Then the General's bronze fist slammed into her jaw with sharp, audible crack, like a blacksmith shattering a ceramic mold with a sledge; the general had begun his charge before he broke from the cover of the forrest, and had never broken stride.
-> She collapsed back like a statue shoved over from the top and lay still on the ground.
+> The slaver collapsed back like a statue shoved over from the top and lay still on the ground.
 >
 > The slaver-camps' other guards sprang into action, bringing spears to bear against him, but it was much too late.
 > Even as one guard drove a spear into the General, ripping flesh and scale from one of his ribs, Chandra's allies attacked.
-> Aryn fired an arrow from the treeline, striking one square in the chest; Venn charged in behind the general, skewering another guard with the tip of her halberd.
+> Aryn fired an arrow from the treeline, striking one square in the chest; Venn charged in behind the general, skewering another guard with her halberd.
 >
 > Chandra turned in fury on the guard that had wounded him; he struck a ferocious blow with the pommel of his sword, knocking loose a chunk of the bony plate that protected the guard's head and sprawling the stunned Goblin on the ground.
 
 
 ### Your Combatant's Concept
 
-### Your Combatant's Build
+### Building a Combatant
 
 If your character is **great at Combat**:
 
@@ -34,9 +34,9 @@ If your character is **good at Combat**:
 
 - Gear
 
-### Your Combatant's Combinations
+### Combining Combat with Other Roles
 
-### The Combatant Role
+### Playing a Combatant
 
 #### Crushing your Foes
 
@@ -44,11 +44,13 @@ If your character is **good at Combat**:
 
 #### Recovering
 
-### Your Combatant and Other Characters
+### Combatants and Other Characters
+
+### A Busy Weekend for General Chandra
 
 > Chandra hauled himself up to the soldier standing watch at the fort's gate.
-> "I am General Chandra," he said—and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, and out of uniform.
-> "I and my companions liberated a slave-camp three *demarc* over the border; they are encamped ten *demarc* southeast from here, on the other side of the river, waiting for help to ferry the slaves across.
+> "I am General Chandra," he said—and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, out of uniform, and far from his home.
+> "I and my companions liberated a slave-camp three *demarc* over the border; they are encamped five *demarc* southeast from here, on the other side of the river, waiting for help to ferry the slaves across.
 > You are to organize a patrol, secure boats, and see them safely here."
 >
 > The soldier considered him for a moment, unsure; then she saluted and hurried off into the fort.
@@ -66,22 +68,35 @@ If your character is **good at Combat**:
 >
 > "We're not idiots, Fire," Chandra said, although not angrily; Fire, silently contemplating the sealed jar, did not notice.
 
-*Renaissance* supports *intrigue*, *investigation* and *horror* as primary play modes, and characters who understand the subtle details of how their world works can be essential to succeeding (or just surviving) those kinds of adventures.
+*Renaissance* focuses on *intrigue*, *exploration*, and *horror* as primary play modes, and characters who understand the subtle details of how their world works are essential to succeeding (or just surviving) those kinds of adventures.
 Knowing which Kingdom-of-Men a certain pendant belongs to, whether a magical effect is the work of *mortals* or *spirits*, or what kinds of creatures lurk in the deep underground can all turn the course of an adventure.
 
 ### Your Analyst's Concept
 
 *Renaissance* has very diverse knowledge skills; from Art: Theater to Knowledge: Astronomy to Profession: Scholar, there's more out there than any one character could know.
 This means that your *Analyst* character will have to pick a specific set of Knowledge skills to focus on, and will wind up being fairly specialized.
-A first step is thinking about what you want your Analyst to know.
+(The ever-valuable *Scholar* and *Jack of All Trades* classes can help with this.)
+
+So, a good first step is thinking about what you want your analyst to be expert in.
 Are they a scholar of history and law, like River?
 A master of magic and natural philosophy, like Fire?
-A general well-versed in matters of war and politics, like General Chandra?
-Or perhaps just a well-read, well-travelled, and inquisitive soul, like Notebook?
+A high-ranking military officer, well-versed in matters of war and politics, like General Chandra?
+Or perhaps just a well-read, well-travelled, inquisitive soul, like Notebook?
 
-Of course, Profession is also a knowledge skill; that means that a professional artisan like Veil can also be an Analyst.
+Of course, Profession is also a knowledge skill; that means that a professionals, traders and artisans can also be Analysts.
 
-### Your Analyst's Build
+#### Matching an Analyst to a Game
+
+Some types of Analysts will be more useful to some types of games than others; while working on your concept, it's a good idea to make sure that your analyst has the skills that your game is actually likely to require.
+River (a lawyer, expert in law and history) might come to dominate an intrigue game set in the Kingdoms of Men, but he might also be of little or no use in an exploration game set on an island hundreds or thousands of *demarc* out to sea.
+
+If you're building a character for a one-off game, it's easy to match their expertise to the situation; if you're building a character for a persistent group, that's likely to go on different adventures in different places, it can be trickier.
+While the *Scholar* and *Jack of All Trades* classes can help, no one Analyst could ever possibly cover all—or even most—of the areas of knowledge that a group might require.
+
+Practically, its important to make sure that every character picks up at least a few ranks in the Knowledge skills that represent their ares of expertise.
+(Since you'll have supporting skills—like Research—that many of other characters won't, your skills as an Analyst will still be essential.)
+
+### Building an Analyst
 
 If your character is **great at Analysis**:
 
@@ -89,9 +104,9 @@ If your character is **great at Analysis**:
   - These represent your Analyst's particular *expertise*.
   - Remember Art, Knowledge, Profession, and Protocol are all Knowledge skills.
 - Research at at least 50.
-- Either the *Scholar* class or the *Jack of All Trades* class.
+- Either the *Scholar* class, or the *Jack of All Trades* class, or both.
   - The *Scholar* class is important so that your expert in military tactics can still be an *Analyst* during an adventure on an unexplored island 800 *demarc* from the coast.
-  - The *Jack of All Trades* is important for profession-based Analysts; it allows your master Chemist to be able to provide at least basic information about farming practices or soldiery.
+  - The *Jack of All Trades* class is important for profession-based Analysts; it allows your master Chemist to be able to provide at least basic information about farming practices or soldiery.
 - 25 COG or more
   - This is important to get the highest TN you can for your knowledge skills, and to get the most out of the Scholar class.
   - Even if your Analyst is art-based, you'll still want ot have good COG, because COG is used for the *Scholar* class, for the *Research* skill, and to *Solve Logical Puzzles*.
@@ -121,32 +136,7 @@ If your character is **good at Analysis**:
 - 20 COG or more
 - 20 INT or more, if you're going to take *Jack of All Trades*
 
-### Your Analyst's Combinations
-
-Characters with high COG might be likely to take *Craft* and *Profession* skills, and serve the party as *provisioners* as well as *Analysts*.
-It also makes sense that someone with Knowledge: Natural Philosophy might have a few ranks in Craft: Chemistry and Profession: Chemist, or that someone with lots of ranks in Knowledge: Military Tactics might have ranks in Profession: Soldier and Craft: Armorer.
-
-Characters who want to emphasize the social aspects of scholarship—who might be faculty at a university, for example, or famous authors of textbooks and tracts—could also purchase ranks in social skills and serve the party as a secondary social character.
-Protocol is an especially logical choice here.
-
-Characters who really want to lean into a *Provisioner* role might also purchase a high Wealth score; this makes some sense, as scholars can be well paid—and because it's often the wealthy who can afford to become a scholar in the first place.
-
-All of these ideas could be combined: an *Analyst* character with *Protocol* at 60, some social and craft skills in the 50's, and wealth at least 4 could be a powerful Provisioner as well as an analyst.
-
-Of course, characters with good COG might also take Medicine and serve the party as a healer.
-
-Or, going in a completely different direction, scholars of magic (or chemistry) can have access to the skills and resources to be quite deadly.
-
-From world-wise benedictine monks to fastidious Belgian detectives, investigators can make great characters.
-An Analyst character could also purchase ranks in *Search* and *Perception* to build an *investigator*.
-The concept could be taken further bu purchasing ranks in other Infiltration-related skills.
-
-There are two practical risks to this kind of detective character.
-One is that it might be *too* atomic and self-contained—one of the Analyst's major external dependencies is the Infiltrator, who they depend on to provide them with clues and information.
-If the Investigator and Analyst are the same person, they might vanish into a solipsistic adventure that barely involves the rest of the party.
-Another is that it presents a significant risk if an infiltration fails and the character is captured (or killed): the party's "knowledge assets" will have fallen into enemy hands.
-
-### The Analyst Role
+### Playing an Analyst
 
 As an analyst, your main job is to provide the party with information.
 
@@ -159,10 +149,11 @@ Over the course of an adventure, the party will have question.
 
 Your job, as an analyst, is to provide this kind of information, and your knowledge skills (and the *Scholar* and *Jack-of-all-Trades* classes) are the tools that you'll use to do this.
 
-Sometimes, the GM will tell you things that you just *know*, without requiring you to explicitly ask a question or roll a check; we encourage GM's to assume that, if you have *basic competence* in a skill—that is, 10 ranks—that you have access to *common knowledge* associated with a specific Knowledge skill.
+Sometimes, the GM will tell you things that you just *know*, without requiring you to explicitly ask a question or roll a check; after all, if a character has *basic competence* in a skill—that is, 10 ranks in a skill—then they have access to *common knowledge* associated with that skill.
 
 Other times, however, you'll need to *actively* ask the GM questions, and actively roll checks to find out what your character knows; always keep in mind that your character might know more about a given subject than the GM told you up-front.
 The GM might not even tell you that you *can* roll a check or *might* know more; this means that you need to be fairly active.
+
 Try to keep track of what bits of information the party has, and what other pieces of information that the party *needs*, and look for ways that you can answer those hanging questions.
 (In investigation-themed games, parties can hang because they either don't have an analyst, or the analyst isn't actively tackling open questions and turning them into answers.)
 
@@ -180,7 +171,7 @@ Just because you need some piece of information, doesn't mean someone else has t
 
 Being an analyst is likely to involve time in libraries, labs, and workshops.
 
-### Your Analyst and Other Characters
+### Analyst and Other Characters
 
 Analysts need someone to provide them with clues and information to *analyse*: they depend on *Infiltrators* to get into interesting places and get out with interesting things; on *Socialites* to use their social skills to get information out of people; and on *Provisioners* to buy, bribe, or extort secrets and treasures that can't be acquired any other way.
 
@@ -189,12 +180,39 @@ They might depend on a *Provisioner* to get them these resources.
 
 And, of course, once an *Analyst* has a strong hypothesis or workable plan, they might need a "doer" to carry it out; this might be an *Infiltrator* quietly stealing a hidden treasure or dispatching a troublesome noble, a *Socialite* running a smear campaign or blackmailing a noble, or—last, but by no means least—a *Combatant* sorting an enemy out.
 
-> Fire began to chip at the wall of ice with a small, sharp hammer he'd produced form his smith's tools; Notebook turned, stepped over to her rucksack, retrieved several glass vials, heaters and other apparatuses and began to set them up.
-> After a moment, she stopped, and listened closely; she could hear no sign of Fire.
+### Combining Analysts with Other Roles
+
+Characters with high COG might be likely to take *Craft* and *Profession* skills, and serve the party as *provisioners* as well as *Analysts*.
+It also makes sense that someone with Knowledge: Natural Philosophy might have a few ranks in Craft: Chemistry and Profession: Chemist, or that someone with lots of ranks in Knowledge: Military Tactics might have ranks in Profession: Soldier and Craft: Armorer.
+
+Characters who want to emphasize the social aspects of scholarship—who might be faculty at a university, for example, or famous authors of textbooks and tracts—could also purchase ranks in social skills and serve the party as a secondary social character.
+Protocol is an especially logical choice here.
+
+Characters who really want to lean into a *Provisioner* role might also purchase a high Wealth score; this makes some sense, as scholars can be well paid—and because it's often the wealthy who can afford to become a scholar in the first place.
+
+All of these ideas could be combined: an *Analyst* character with *Protocol* at 60, some social and craft skills in the 50's, and wealth at least 4 could be a powerful Provisioner as well as an analyst.
+
+Of course, characters with good COG might also take Medicine and serve the party as a healer.
+Or, going in a completely different direction, scholars of magic (or chemistry) can have access to the skills and resources to be quite deadly.
+
+From world-wise benedictine monks to fastidious Belgian detectives, investigators can make great characters.
+An Analyst character could also purchase ranks in *Search* and *Perception* to build an *investigator*.
+The concept could be taken further bu purchasing ranks in Infiltration-related skills, to create an Analyst that can secure their own clues.
+Some of fictions' famous detectives where notable as much for their ability to extract information from suspects as their esoteric knowledge or problem-solving skills; mixing knowledge and social skills is another way to create an Analyst character that can, in some situations, procure their own clues.
+
+There are two practical risks to this kind of detective character.
+One is that it might be *too* atomic and self-contained—one of the Analyst's major external dependencies is the Infiltrator, who they depend on to provide them with clues and information.
+If the Investigator and Analyst are the same person, they might vanish into a solipsistic adventure that barely involves the rest of the party.
+Another is that it presents a significant risk if an infiltration fails and the character is captured (or killed): the party's "knowledge assets" will have fallen into enemy hands (or been destroyed).
+
+### The Mystery Beneath the Ice
+
+> Fire began to chip at the wall of ice with a small, sharp hammer he'd produced form his smith's tools; Notebook turned, stepped over to her rucksack, fished out a growing arm-ful of chemical equipment, and began to set it up.
+> After a few minutes, she stopped and listened closely; she could hear no sign of Fire.
 > No chipping, no footsteps, no breathing in the echoing caverns.
 >
 > "Fire?" she asked; there was no response.
-> "*Fire*?" she asked again, fear creeping into her voice; again, there was no response from Fire, only the distant echo of her own voice and breathing.
+> "*Fire*?" she asked again, fear creeping into her voice; again, there was no response from the Shifter, only the distant echo of her own voice and breathing.
 >
 > She turned around; Fire was looking at her, confused.
 > "Yes?  Couldn't you hear me?" he asked.
@@ -202,7 +220,7 @@ And, of course, once an *Analyst* has a strong hypothesis or workable plan, they
 > "No," she said, still slightly rattled.
 > "…didn't you get a sample?" she asked after a moment.
 >
-> He looked down at his hands: he was holding the pick and an empty jar.
+> He looked down at his hands: he was holding the pick and the empty jar.
 > He then looked back at the wall: it was barely scratched.
 > He'd made no progress at all in the intervening minutes.
 >
@@ -213,6 +231,18 @@ And, of course, once an *Analyst* has a strong hypothesis or workable plan, they
 ## Socialite: bullying, bluffing, lying, flattering and persuading
 
 ## Infiltrator: getting into interesting places, getting out with interesting things
+
+### Concept
+
+### Build
+
+### Play
+
+### Other Characters
+
+### Combinations
+
+### Fictions
 
 ## Provisioner: getting the party what they need
 
@@ -250,7 +280,7 @@ There are several questions to answer when deciding on your healer's concept:
   - Do you use skill, knowledge, and compassion (with *Medicine* and *Soothe*)?
   - Or do you use magic, with powers like *Heal*, *Transfer*, *Regrowth*, and *Sacrifice*.
 
-### Build
+### Building a Healer
 
 We'll break this down into three "builds":
 
@@ -311,7 +341,36 @@ If your character if **Great at Physical Healing with Magic**:
   - *Sacrifice* transfers a *wound* from someone else to you, so you can heal it.
 - *Jump* and *Group Jump* to remove fallen allies from a fight
 
+
 ### Playing a Healer
+
+As a healer, your job will be to support the more adventurous members of the party when they fall afoul of combat, or stressful situations.
+
+After a tense fight, wounds will need to be washed and sealed to keep
+infection at bay, and to bring combat-focused characters back to full
+strength. You can always heal an enemy who has yielded, or an
+incapacitated prisoner who has information that the party requires.
+Anyone afflicted with poison will need antidotes to be mixed and dosed,
+and some will need to be brought down from the adrenaline rush with
+care.
+
+Other, more sedate adventures might still involve mental stresses,
+psionic attacks and mind control, questionable actions the adventurers
+are forced to undertake, phobias and fears… all of these require a
+deft touch and a shoulder to rest on. Healing mental stress is
+difficult, but is just as important as keeping bodies knitted together
+in the right situation.
+
+Unlike a combatant, infiltrator, or analyst, you can make an
+assassination fail after the fact, saving life is itself a unique skill
+that is well-respected the world over.
+
+Should it come up, though, never forget that the power to mend and
+repair life, also gives intimate awareness on how to influence it. Your
+medical knowledge also gives you the tools needed to remove threats in
+unexpected, or ethically troubling manners.
+
+### Types of Healer
 
 One thing to know for all three Healer builds: healing is *difficult* and *time-consuming*.
 In many cases, you won't even be able to completely heal someone: time and natural healing may be required.
@@ -348,56 +407,7 @@ Don't we have better options for magical healing?
 Not really!
 Healing is meant to be difficult, and magic isn't intended to be a way for a character to step around that limitation.
 
-### Combinations
-
-The different healer builds combine fairly well with *each other*.
-Soothe can be useful to a doctor, and *Heal* can be valuable for a doctor to have so that the party's healer isn't themselves crippled or killed.
-
-Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both—and Doctors are likely to be beneficiaries of a formal education.
-This can work both ways, with Analysts making excellent healers, as well, if their interests run in the right direction.
-
-Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for passable healers; this makes particular sense for someone who's served as a *medic* in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
-Anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
-
-Infiltrators, with their reliance on perception, can easily spot signs of injury, and many cultures place well-intentioned taboo on harming physicians of any stripe.
-These can potentially work in such a combination's benefit.
-
-Socialites combine very effectively with *emotional* healers who use *Soothe*, for perhaps obvious reasons—their skills overlap heavily.
-But *medicine*-based physical healers can also combine well with socialites and provisioners.
-The importance of bedside manner, confidence and a winning charm in medicine cannot be overstated, and good doctors are often rich, as they have very valuable skills and no shortage of work.
-
-It's worth noting  that *healing* is a secondary role with a relatively low investment barrier, and it doesn't improve quite so spectacularly with increased CP and RP investment.
-
-### The Healer Roll
-
-As a healer, your job will be to support the more adventurous members of
-the party when they fall afoul of combat, or stressful situations.
-
-After a tense fight, wounds will need to be washed and sealed to keep
-infection at bay, and to bring combat-focused characters back to full
-strength. You can always heal an enemy who has yielded, or an
-incapacitated prisoner who has information that the party requires.
-Anyone afflicted with poison will need antidotes to be mixed and dosed,
-and some will need to be brought down from the adrenaline rush with
-care.
-
-Other, more sedate adventures might still involve mental stresses,
-psionic attacks and mind control, questionable actions the adventurers
-are forced to undertake, phobias and fears… all of these require a
-deft touch and a shoulder to rest on. Healing mental stress is
-difficult, but is just as important as keeping bodies knitted together
-in the right situation.
-
-Unlike a combatant, infiltrator, or analyst, you can make an
-assassination fail after the fact, saving life is itself a unique skill
-that is well-respected the world over.
-
-Should it come up, though, never forget that the power to mend and
-repair life, also gives intimate awareness on how to influence it. Your
-medical knowledge also gives you the tools needed to remove threats in
-unexpected, or ethically troubling manners.
-
-### OtherCharacters
+### Healers and Other Characters
 
 Playing the healer can be an amazingly selfless role, even if your
 medical knowledge is what the success or failure of the adventure hinges
@@ -418,6 +428,28 @@ As much as Combatants rely on you, Survivalists and provisioners will be
 your own weakness. Providing you with the items you need to keep your
 medical kit stocked to the brim, and in turn keeping your allies wounds'
 mended and minds from being clouded with stress.
+
+### Combining Healing with Other Roles
+
+The different healer builds combine fairly well with *each other*.
+Soothe can be useful to a doctor, and *Heal* can be valuable for a doctor to have so that the party's healer isn't themselves crippled or killed.
+
+Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both—and Doctors are likely to be beneficiaries of a formal education.
+This can work both ways, with Analysts making excellent healers, as well, if their interests run in the right direction.
+
+Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for passable healers; this makes particular sense for someone who's served as a *medic* in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
+Anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
+However, one practical difficulty with combining combat and healing as roles is that you are likely to be the one who is wounded and requires healing (and thus, you will likely have to deal with wound penalties).
+
+Infiltrators, with their reliance on perception, can easily spot signs of injury, and many cultures place well-intentioned taboo on harming physicians of any stripe.
+These can potentially work in such a combination's benefit.
+
+Socialites combine very effectively with *emotional* healers who use *Soothe*, for perhaps obvious reasons—their skills overlap heavily.
+But *medicine*-based physical healers can also combine well with socialites and provisioners.
+The importance of bedside manner, confidence and a winning charm in medicine cannot be overstated.
+And good doctors are often rich, as they have very valuable skills and no shortage of work.
+
+### Aceh's Bedside Manner
 
 > "Ah *ata-ata-ata-ata*" Aceh mused as she considered the limp form before her, the green-grey skin split by Goblin hand cannon in four places, blowing fist-sized holes through the strong-willed but foolish orc.
 >

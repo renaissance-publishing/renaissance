@@ -90,6 +90,9 @@ Examples for a *Humanoid* character are given in the table below:
 | Swimming         | Base for Foot       | Exhausting |
 | Crawling         | (Base for Foot) ÷ 2 |            |
 
+[[clarification | Difficult Terrain]]
+| Difficult terrain can also be a facto when moving around in combat; We cover *difficult terrain* in *Common Hazards*
+
 ### Charging
 
 Sometimes you want to have some momentum behind a blow.
@@ -273,6 +276,11 @@ That is:
 Defender's Damage = attack's *Damage Value* - (defender's *Armor Value* - attack's *Armor Penetration*)
 
 See *Armors* in *Items* for further rules for worn armor.
+
+[[clarification | When Does Armor Apply?]]
+| Note that we specifically said *attack damage* above.
+| The general rule is that armor applies to *attack damage*, but not to other sources of damage; a quilted doublet and mail won't help you if you've fallen from the top of a parapet, you're drowning, you're starving, or you're freezing to death.
+| There are exceptions, of course, and your GM can always rule that armor applies (or doesn't) in a specific circumstance.
 
 ## Special Actions in Combat
 

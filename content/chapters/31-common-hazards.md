@@ -130,7 +130,59 @@ GMs may represent this situation by "spacing out" the above effects (i.e. by hav
 In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
 GMs should feel free to adapt (and simplify) these rules in such cases: rather than trying to track the effects of *exhaustion,* *partial starvation,* and *partial dehydration* separately using the full rules above, they may simply represent the inadequate food and water as penalties to the *Endure Physical Hardship* tests caused by the forced march.
 
-## Extreme Environments
+## Environment and Terrain
+
+### Difficult Terrain
+
+A wide variety of hazards—from hip-deep water to thick forrest—can be considered *difficult terrain*.
+In general, characters cannot safely move faster than their *base rate* for a given movement mode in *difficult terrain*; a character attempting to do so needs to make an *Athletics check*.
+On a basic failure, they simply cannot move faster than their base rate; if they've already moved further than their base rate before entering the difficult terrain, then their movement simply stops immediately inside the difficult terrain.
+On an *exceptional* failure, they suffer a minor error—tripping and falling prone being a particular common one.
+On a critical failure, they suffer a more substantial error, like running at speed into a tree or tripping and landing head-first; these commonly inflict 1d10÷2 DV, in addition to the player landing prone.
+
+Of course, specific types of *difficult terrain* may impose other penalties; some examples are given in the table below.
+
+| Difficult Terrain | Effects | Effects on Athletics Failure |
+| ----------------- | ------- | ---------------------------- |
+| Undergrowth | No Additional | No Additional |
+| Narrow Surface | No Additional | *Fall* on a Critical Failure, *React Quickly* to grab surface |
+| Slippery Surface | No Additional | *Slide* on Exceptional Failure |
+| Hazardous Surface | No Additional | No Additional |
+
+### Thick Forests
+
+Thick forests can be dangerous if a character is moving *at speed*, or not paying attention to their surrounds; players can slip on rocks, run into trees, or trip on roots.
+(Forests frequently aren't level terrain, and these hazards are enhanced by uneven terrain; if players trip and fall into a *gulley*, consider the rules for *Falling*, above.)
+Therefore, thick forests are usually treated as *difficult terrain*.
+
+The thick growth also imposes penalties on ranged attacks (-20) and (visual) Perception (-10); can make it difficult to find a lost or dropped object (-20 to related Search checks).
+Additionally, instead of scattering like normal, on an Exceptional or Critical failure, a thrown projectile might collide with a tree, rock, or unfortunate animal; this might cause a *grenade* to detonate much closer to the person who threw it than they intended.
+
+On the plus side, thick forests provide plenty of cover for stealth (providing a +20 bonus), and plenty of wildlife for skilled woodsmen to exploit (+10 bonus to Survival checks, except to navigate).
+
+Forests generally do not slow walking overland travel much—although it's difficult to get a *wagon* through thick forest.
+
+### Shallow Water
+
+Shallow water is considered *difficult terrain*; however, running through shallow water isn't particularly difficult, and so an *Athletics* check isn't normally required.
+But it is *exhausting*, and so someone who moves for more than a few turns through shallow water needs to make a *Feat of Endurance* check to avoid becoming *exhausted*.
+
+This assumes that the bottom isn't particularly treacherous; if the bottom has concealed hazards, then an Athletics check can still be called for.
+However, the consequences of failing such a check are usually mild, since water isn't particularly hard or sharp.
+
+One potentially amusing hazard for shallow water can be running into *aquatic wildlife*—tripping over a baby alligator can make for an amusing story.
+
+### Rapids
+
+Rapids, conversely, can be very dangerous.
+
+### Desert
+
+### Snow
+
+### Blizzard
+
+### Storm
 
 ## Traps, Defences and Hazards
 

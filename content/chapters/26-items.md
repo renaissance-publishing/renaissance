@@ -141,8 +141,8 @@ A player who has a magic item in mind describes it to the GM, and then the GM an
 There are a few examples throughout this section, but we will provide you with some guidelines below (these guidelines are most applicable to magical weapons).
 
 - **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
-- **Items shouldn't eclipse other options.**  An item you're playing 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
-  - This is why you shouldn't add a "hard invisibility" cloak.
+- **Items shouldn't eclipse other options.**  An item you're paying 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
+  - This is why you shouldn't add a "hard invisibility" cloak, for example.
 - **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game—even though people are going to ask.
   - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
   - Items that give you extra actions or turns in combat are a very bad idea.
@@ -150,30 +150,33 @@ There are a few examples throughout this section, but we will provide you with s
 
 </aside>
 
-<aside class="designnote">
+[[designnote | Mundane Items]]
+| We've got lists of weapons, armors, and drugs; why isn't there a list of mundane items, like tents and saddles?
+|
+| The short and direct answer is that most of those should be handled by purchasing an appropriate *skill kit* (see below).
+| If you're purchasing a lot of *saddles*, *ladders* and *tents*, then you should probably just purchase one or two skill kits to cover the job you're trying to gear up for.
 
-### Why isn't there a list
-
-So, why are we leaving all this design work up to players (and GMs)?
-
-One reason is just that *it's a lot of damned work!*
-We're a small team, and creating a large list of diverse, high-quality items would be quite an undertaking!
-
-But there are other reasons too—and our laziness isn't even the most important one!
-
-We also don't believe that it's possible to create a list of magical items that is *exhaustive* (in the sense that it covers most of the magical items that people would want) without being *unwieldy* (in the sense that it would be far to vast to be useful).
-Any *very large* list of magical items will encumber *all* players with a huge list of items that they have to navigate, hoping that the item they want is in there *somewhere*.
-If it is, then they're at least in luck; if it *isn't*, then they're tasked with designing their item anyway!
-(Albeit, we concede, with dozens of existing items in useful guidance.)
-
-There's the additional problem of *balancing* all those items.
-Most very large lists of magical items will frequently be narrowed down to a few very powerful items (that are considered *essential*) and a large number of weaker items (that are never used).
-Designing a list of dozens of magical items such that no one of them is notably stronger or weaker than any of the others is a practical impossibility.
-
-Both of these concerns apply even more to a system for *designing* magical weapons.
-Given such a system, anyone who wants a magical weapon now has to fight through all those rules;
-if those rules are flexible enough that they could produce any reasonable magical item, they'll almost certainly be so huge that trying to use them will be a major undertaking;
-and designing those rules such that every item it produces is balanced against all the others is a practical impossibility.
+[[designnote | Why isn't there an item list?]]
+| So, why are we leaving all this design work up to players (and GMs)?
+|
+| One reason is just that *it's a lot of damned work!*
+| We're a small team, and creating a large list of diverse, high-quality items would be quite an undertaking!
+|
+| But there are other reasons too—and our laziness isn't even the most important one!
+|
+| We also don't believe that it's possible to create a list of magical items that is *exhaustive* (in the sense that it covers most of the magical items that people would want) without being *unwieldy* (in the sense that it would be far to vast to be useful).
+| Any *very large* list of magical items will encumber *all* players with a huge list of items that they have to navigate, hoping that the item they want is in there *somewhere*.
+| If it is, then they're at least in luck; if it *isn't*, then they're tasked with designing their item anyway!
+| (Albeit, we concede, with dozens of existing items in useful guidance.)
+|
+| There's the additional problem of *balancing* all those items.
+| Most very large lists of magical items will frequently be narrowed down to a few very powerful items (that are considered *essential*) and a large number of weaker items (that are never used).
+| Designing a list of dozens of magical items such that no one of them is notably stronger or weaker than any of the others is a practical impossibility.
+|
+| Both of these concerns apply even more to a system for *designing* magical weapons.
+| Given such a system, anyone who wants a magical weapon now has to fight through all those rules;
+| if those rules are flexible enough that they could produce any reasonable magical item, they'll almost certainly be so huge that trying to use them will be a major undertaking;
+| and designing those rules such that every item it produces is balanced against all the others is a practical impossibility.
 
 </aside>
 
@@ -1554,132 +1557,214 @@ The design of the Flashback Anchor reflects the peculiar flair for danger and to
 
 ## Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)
 
-  - Minor
-    
-      - Stim (Drug): +2 INIT. Duration: one hour
-    
-      - Healing: regain 1 DUR / Day, +10 on checks made to resist
-        disease. Duration: 1 Day
-    
-      - Numbing: negate one wound, -2 Init
-    
-      - Shrooms\!: +5 INT, -5 COO. Duration: one hour.
-    
-      - Meth\!: +3 INIT, -5 INT, -5 WIL. +10 to task actions, but cannot
-        make passive checks. Duration: one hour.
-    
-      - Grenade (Bomb):
-        
-          - Attack: thrown, 2D10 DV
-          - Tags: Burst and Fire
-    
-      - Oil (Chemical, Bomb):
-        
-          - Oil burns when lit.
-            
-              - An object covered in burning oil takes 1D10÷2 DV per
-                turn, and will usually burn for about 5 minutes.
-              - Oil can be put out by washing it off, covering a burning
-                object in sand, or even by rolling on the ground.
-        
-          - Sometimes a glass or clay container is filled with oil,
-            stuffed with a burning wick or rag, and thrown; these are
-            called cocktails.
-            
-              - Attack: thrown weapon, 2m splash
-              - Objects and characters splashed are covered in burning
-                tar.
-              - The splashed area is covered in burning tar.
-              - Tags: Splash, Fire
-    
-      - Smoke (Bomb):
-        
-          - Attack: Thrown Weapon
-          - Tags: Burst and Smoke
-          - Produces a cloud of smoke, with a radius of 1D10+1m and
-            centered where the Smoke landed.
-          - Creatures in the cloud are obscured; they have Cover (see
-            Combat)
+### Chrystal (Drug, Minor)
 
-  - Medium
-    
-      - Healing (Potion): regain 1 DUR / Hour; regain 1 Wound / 12
-        Hours, after all DUR is healed. Duration: 12 hours.
-        
-          - Tags: Magical
-    
-      - Monster (Potion): Gain +10 DUR and +10 STR (this adjusts your
-        WT, DR and DB). However, you also take -5 SAV and -5 INT.
-        
-          - Tags: Magical
-    
-      - Scour (Chemical, Bomb):
-        
-          - Scour is highly caustic; it will dissolve most solid
-            objects, and will cause terrible chemical burns to flesh and
-            bone.
-            
-              - An object or character covered in Scout takes 1D10 DV
-                per turn.
-              - Scour is very difficult to stop; it is thick and sticky,
-                and difficult to remove.
-              - Fortunately, Scour dissolves in water, making it very
-                easy to wash off (if water is available).
-        
-          - If ingested, Scour is lethal; it deals 3D10 DV per turn
-            until the character dies; fortunately, it is visually
-            distinct (being a thick, pale, greenish paste), and the
-            taste is obvious (and *horrible*).
-        
-          - Scour doesn’t dissolve glass; therefore, a bottle of it can
-            be thrown.
-            
-              - Attack: Thrown Weapon, Splash 1D10÷2m
-              - Tags: Splash, Caustic
-              - Anything in the Splash is covered in Scour.
-    
-      - Tar (Chemical, Bomb):
-        
-          - This thick, black, viscous and sticky substance burns
-            intensely when lit; when burning, it is very difficult to
-            put out.
-            
-              - If an object is covered in burning tar, it takes 1D10÷2
-                DV per turn.
-              - Tar is very difficult to extinguish. Dropping and
-                rolling will not extinguish it, and neither will pouring
-                water on it.
-              - Submersing an object in water will put the fire out, but
-                the tar will remain hot for some time, and might
-                re-ignite when exposed to air again.
-        
-          - Tar is often prepared in a glass or clay container with a
-            lit wick, creating a device like a Cocktail:
-            
-              - Attack: Thrown Weapon, Splash, 1D10÷2m splash
-              - Tags: Splash, Fire
-              - Anything in the splash is covered in burning Tar.
+*Chrystal* is a fairly literal name; it has a complex chemical production process, and the substance that results is solid and clear, somewhat like glass or chrystal.
+Chrystal can be ingested in various ways; when taken, it makes the user far more energetic—perhaps dangerously so—an can cause them to fixate on certain tasks.
+
+Chrystal is illegal in much of the Commonwealth and most of the Kingdoms of Men—although it is still widely available in these areas.
+
+- +3 INIT
+- -5 INT
+- -5 WIL
+- +10 to checks related to Task Actions
+- cannot make passive Perception or Knowledge checks
+- **Duration**: one hour
+- **Tags**: Drug, Illegal
+- **Cost**: \[Minor\]
+
+### Grenade (Bomb, Minor)
+
+*Grenades* are a fairly recent innovation, arising from the experiments with explosive powders in the Commonwealth and the Goblin Empire.
+Grenades are powerful, but also dangerous: badly-made grenades may be more hazardous to their users than their intended targets, and even a well-made grenade can be mis-thrown, or placed to near to an ally.
+
+- Attack: Thrown Weapons, 2d10 DV, AP -2
+  - Attack Tags: Blast, Fire
+- **Item Tags**: Bomb
+- **Cost**: \[Minor\]
+
+### Healing Potion (Potion, Minor)
+
+Healing potions help characters heal faster.
+
+- Heal one additional DV per day
+- +10 on checks made to resist disease
+- **Duration**: 24 hours
+- **Tags**: Potion
+- **Cost**: \[Minor\]
+
+### Healing Potion, Magical (Potion, Moderate)
+
+These more powerful, magical healing potions cause those who drink them to heal much faster.
+
+- Heal 1 DV/hour; regain 1 Wound per 12 Hours, after all DUR is healed.
+- **Duration**: 12 hours.
+- **Tags**: Magical, Potion
+- **Cost**: \[Moderate\]
+
+### Monster (Potion, Moderate)
+
+These magical potions make the user significantly more physically powerful—although they also cause alarming personality changes, making the user more aggressive and prone to violence.
+
+- \+10 DUR, \+10 STR
+- \-5 SAV, \-5 INT
+- **Duration**: 1 hour
+- **Tags**: Magical, Potion
+- **Cost**: \[Moderate\]
+
+### Numbing (Drug, Minor)
+
+Some herbs can be steeped into a tea or solution; when ingested, they dull a character's perception of pain, but they also make a character less alert.
+
+- Negate one wound
+- -2 Init
+- **Duration**: one hour
+- **Tags**: Drug
+- **Cost** \[Minor\]
+
+### Oil (Chemical, Bomb, Minor)
+
+*Oil* is a thick, translucent, viscous, flammable chemical substance; it has myriad uses, from a fuel for lights to use as a weapon.
+
+- Objects coverd in oil take 1D10÷2 DV per turn, and will burn for about 5 minutes.
+- Oil can be put out by washing it off with water, covering a burning object in sand, or (in the case of a character) by rolling around on the ground.
+- **Tags**: Chemical, Flammable
+- **Cost**: \[Minor\]
+
+#### Oil Grenades
+
+Sometimes a wick or rag is stuffed into the neck of a container of oil and lit; it is then possible to use the container of oil as a *bomg* or *grenade*.
+(Of course, this requires that the container is fragile enough to shatter when thrown—which most ceramic or glass containers are.)
+
+- Attack: Thrown Weapon, 2m splash
+  - The splashed area (and any objects in it) is covered in burning *oil* (as above).
+  - Attack Tags: Splash, Fire
+
+[[DesignNote | Do I have to buy a separate oil "grenade"?]]
+| So, there's a description for an "oil grenade", but not rules for making or acquiring it.
+| How do you get an oil grenade?
+|
+| The idea is that turning a canister of oil into an "oil grenade" is a trivial process—if you have a dose of oil, you can just stuff a rag into it, light it and throw it.
+| The same logic applies to the *scour* and *tar* chemicals, below.
+
+### Scour (Chemical)
+
+*Scour* is a highly caustic chemical.
+It is commonly used in some very specific professions, because it can break down stone, grim and metal.
+However, scour is also very dangerous; it will cause terrible chemical burns, can dissolve flesh and bones, and is highly poisonous.
+For this very reason, it is sometimes used as a (particularly cruel and terrible) weapon or poison.
+
+- Scour can dissolve many substances, and causes terrible chemical burns.
+  - An object (or character) covered in *Scour* takes 1D10 DV per turn.
+- Scour is thick and sticky, which makes it difficult to remove.
+  - Fortunately, Scour dissolves in water, which makes it very easy to wash off (if water is available).
+- If ingested, Scour is lethal;
+  - it deals 3D10 DV per turn until the character dies.
+  - Fortunately, it is visually distinct (being a thick, pale, greenish paste), and the taste is obvious (and *horrible*).
+- There are a few substances that *Scour* won't dissolve—among them glass and pottery.
+- **Tags**: Chemical, Caustic, Poison
+- **Cost**: \[Moderate\]
+
+#### Scour Grenades
+
+A container of scour can be thrown as a weapon, covering the target in scour.
+
+- Attack: Thrown Weapon, Splash 1D10÷2m
+  - Anything in the *splashed area* is covered in Scour.
+- Tags: Splash, Caustic
+
+### 'Shrooms (Drug, Minor)
+
+Certain mushrooms have a powerful effect on a character's state of mind; some claim it makes them more intuitive or artistic, though people who have been *around* people using mushrooms can say that it definitely makes one less alert and coordinated.
+
+- +5 INT
+- -5 COO
+- **Duration**: one hour
+- **Tags**: Drug
+- **Cost**: \[Minor\]
+
+### Smoke (Bomb)
+
+*Smoke* canisters are small metallic or ceramic cylinders filled with various powders and substances.
+When lit, they smoke heavily, making them useful for obscuring an area.
+
+- Produces a cloud of *smoke* with a radius of 1d10+1m, centered on the canister of *smoke*.
+  - Can be thrown, as per the rules for *Thrown Weapons*.
+- Creatures in the cloud are *obscured* from visual perception; the strong smell of smoke also impedes *scent* (-20 to perception checks using scent).
+- **Tags**: Smoke
+- **Cost**: \[Minor\]
+
+### Stim (Drug, Minor)
+
+Stims are minor stimulants, which makes the character more alert.
+
+- +2 INIT
+- **Duration**: one hour
+- **Tags**: Drug
+- **Cost**: \[Minor\]
+
+### Tar (Chemical, Moderate)
+
+ his thick, black, viscous and sticky substance burns intensely when lit; once lit, it is very difficult to put out.
+
+- If an object is covered in burning tar, it takes 1D10÷2 DV per turn.
+  - Tar burns for a very long time; items covered in tar normally burn for up to thirty minutes.
+- Tar is very difficult to extinguish;
+  - dropping and rolling will not extinguish it, and neither will pouring water on it.
+  - Submerging an object in water will put the fire out, but the tar will remain hot for some time, and might re-ignite when exposed to air again.
+
+#### Tar Grenades
+
+Tar is often prepared in a glass or clay container with a lit wick, creating a dangerous weapon.
+
+- Attack: Thrown Weapons, Splash 1D10÷2m
+  - Anything in the splash is covered in burning tar.
+- Tags: Splash, Fire
 
 ## Skill Kits and Shops
 
-  - associated with a specific skill
-    
-      - some skills can't be practiced *without* a skill kit
+*Skill Kits* and *Shops* contain the tools and materials that characters use to practice a given trade, profession or skill; depending on the skill they're purchased for, they could include everything from a tent, a backpack, and flint to a legal books, paper, pen, and ink.
 
-  - have the tools useful to perform that skill
+Skill kits, as the name implies, are smaller *kits*; they usually contain just the essentials, and are small enough to be portable (without the *Heavy* tag).
+Shops are more extensive facilities—they represent officies, smithies, and libraries.
+They contain far more equipment and resources, but aren't portable—they're large enough to fill a large room at least.
+Shops provide a +10 bonus to checks made with the linked skill.
 
-  - Note: when you buy a skill kit, you may specify three Minor items
-    that the kit definitely contains.
-    
-      - You don't have to do this, but it can be useful for declaring
-        that you *definitely* have a specific item, without requiring
-        you to buy many Minor or Trivial items.
-      - for example, with a Craft: Blacksmithing kit, you might specify
-        that it *definitely* contains a blacksmithing hammer.
+Skill kits and shops are associated with a specific skill, like *Survival* or *Profession: Lawyer*; we call that the *linked skill*.
 
-  - Shops are more extensive facilities; they function like Skill Kits,
-    but they allow users to pursue larger or longer-term projects. Shops
-    provide a +10 bonus on tests using the linked skill.
+Some tasks can't be attempted *without* a skill kit or shop; this is at the GM's discression.
+Notably, most *Craft* skills can't be used without access to tools.
+
+Normally, we don't track what's inside a skill kit or shop; we simply assume that they have any tool that is common and useful in the practice of a trade.
+For example, we'd assume that a *Medicine* skill kit would have bandages, a needle and thread, and we'd assume that a Profession: Blacksmith shop would include an anvil and a forge.
+
+When a character buys a skill kit or shop, they they *may* specify three items that the 'kit or shop definitely, specifically contains; this is useful for establishing that your character definitely has a particular *favorite blacksmith's hammer* in their blacksmith's shop, for example, without buying it separately; or establishing that their survival kit includes cold-weather clothing *in particular*.
+When you buy a skill kit, you can name three \[Minor\] items that it definitely contains; when you purchase a shop, you can name up to six \[Minor\] and three \[Major\] items that it definitely contains.
+
+### Getting Items out of a 'Kit
+
+Sometimes characters will need a specific item, like a piece of rope, a piece or paper, a map of a region, or a tome on the laws of a specific culture.
+How do they determine if their 'kits or shops have those items?
+
+First, the GM decides if the item is a *common* tool, resource or supply for a given skill; a *possible* resource; or *impossible*.
+
+If the resource the player is after is *common*, then the 'kit or shop simply has that item; this is at the GM's discretion, but GMs are encouraged to be generous.
+For example, if a Character had a skill kit for their Profession: Lawyer, then, if they need paper, pen or ink, they could easily find those resources.
+If the character lives in the Dragonshire, then it would certainly also have books on the law of the Dragonshire; it would probably be reasonable to assume that the kit also has books that cover the basic laws and customs of the territories around the Dragonshire—like Northland and Heartland provinces, and the Kingdoms of Men.
+
+If the the character is after is *possible*, then they can roll a check using the linked skill; if they succeed, then the 'kit or shop had that item.
+
+If the item is impossible, then the 'kit or shop doesn't have that item.
+
+### Travelling and Shops
+
+Shops, in general, aren't portable; if a character has a shop but needs to travel, they can produce a *skill kit* from the resources in their *shop*.
+Ordinarily, this is a Task Action with a one hour time-frame, and requires a simple success check for the linked skill.
+The check determines how well-stocked the kit is; a failure implies a -10 penalty for checks to locate *possible* items.
+
+Shops are large enough that they can't be carried by a character, but that doesn't mean that they can't be moved *at all*.
+Some vehicles are large enough to contain shops; the wagons that make up Halfling trade-caravans, for example, are large enough to carry shops—if only just.
+Some large ships can also carry shops.
 
 ## Creating Items
 

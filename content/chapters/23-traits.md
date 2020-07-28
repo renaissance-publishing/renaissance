@@ -101,39 +101,61 @@ You are particularly resistant to disease.
 
 Some traits are *negative traits*. A negative trait imposes a *penalty,* but taking it *gives* you more CP to spend during character creation.
 
-  - Congenital Defect: you have some congenital defect; choose one from the list below:
-    - *TBD*
-  - Distinctive: you have some very distinctive characteristic, which
-    makes you very recognizable. You take a -20 penalty on Disguise
-    checks, and on Stealth checks to blend into a crowd.
-  - Enemy: some foe is determined to see you fall. They might be someone
-    who is actively hunting you, they might be someone in a position of
-    power who will make your life miserable at every opportunity, or
-    they might be something else. In any case, they are a frequent
-    source of frustration for you, showing up to foil your plans at the
-    worst possible times.
-  - Frail: you are not as hardy as other members of your race. This
-    decreases your DUR by 5; this alters your DR and WT as well. You
-    cannot take both this trait and the Tough trait.
-  - Illiterate: You cannot read or write.
-  - Impaired Sense: your character has poor vision, poor hearing, or one of their other senses is impaired.  You suffer a -10 penalty to one of your senses (choose one when you take this trait).
-  - Meek: No-one would describe you as “brave”: you have a -20 penalty
-    to tests to resist fear or intimidation. You cannot take both this
-    and the Brave trait.
-  - Old Injury: you have an old injury.  Choose one from the list below:
-    - *tbd*
-  - Sensory Loss: your character is blind, deaf, or otherwise lacks some sense (that they would normally have).  Choose one sense for which you have the Impaired Sense trait; you loose this sense.
-  - Social Stigma: you are part of a group, organization or movement
-    that people have a negative view of. You take penalties on Social
-    skills (these skills depend heavily on the situation, and are up to
-    GM discression). These penalties should apply at least some of the
-    time where you live.
-  - Wanted: you are wanted by some government, order or noble. You
-    occasionally have to hide from bounty-hunters, duck guards, or worry
-    about being turned in by any less-than-scrupulous people you
-    encounter.
-  - Weak: you are weaker than the norm for your race. You have -5 STR.
-    You cannot take both this and the Strong trait.
+- Congenital Defect: you have some congenital defect; choose one from the list below:
+  - You cannot use the Full rate for one of your movement modes.
+  - You suffer a -20 penalty to Feat of Strength checks.
+  - You suffer a -20 penalty to Feat of Endurance checks.
+- Distinctive: you have some very distinctive characteristic, which makes you very recognizable.
+  You take a -20 penalty on Disguise checks, and on Stealth checks to blend into a crowd.
+- Enemy: some foe is determined to see you fall.
+  They might be someone who is actively hunting you, they might be someone in a position of power who will make your life miserable at every opportunity, or they might be something else.
+  In any case, they are a frequent source of frustration for you, showing up to foil your plans at the worst possible times.
+- Frail: you are not as hardy as other members of your race.
+  This decreases your DUR by 5; this alters your DR and WT as well.
+  You cannot take both this trait and the Tough trait.
+- Illiterate: You cannot read or write.
+- Impaired Sense: your character has poor vision, poor hearing, or one of their other senses is impaired.
+  You suffer a -10 penalty to one of your senses (choose one when you take this trait).
+- Meek: No-one would describe you as “brave”: you have a -20 penalty to tests to resist fear or intimidation.
+  You cannot take both this and the Brave trait.
+- Old Injury: you have an old injury that has never completely healed and still troubles you from time to time.
+  Normally, your injury has little effect, but strain can agitate it.
+  Any time you score an Exceptional or Critical Failure on an Athletics check, a Feat of Strength check, a Feat of Endurance check, or similar, you suffer 1 wound.
+- Sensory Loss: your character is blind, deaf, or otherwise lacks some sense (that they would normally have).
+  Choose one sense for which you have the Impaired Sense trait; you loose this sense.
+- Social Stigma: you are part of a group, organization or movement that people have a negative view of.
+  You take penalties on Social skills (these skills depend heavily on the situation, and are up to GM discression).
+  These penalties should apply at least some of the time where you live.
+- Wanted: you are wanted by some government, order or noble.
+  You occasionally have to hide from bounty-hunters, duck guards, or worry about being turned in by any less-than-scrupulous people you encounter.
+- Weak: you are weaker than the norm for your race. You have -5 STR.
+  You cannot take both this and the Strong trait.
+
+#### Anxious
+
+You have been constantly exposed to some source of stress, which has left you anxious.
+
+- **Effect**: You do not naturally heal your last TT points of stress, and you start the game with TT points of stress (although you do not start with a Trauma).
+  - That is, if your Trauma Threshold is 8, then you do not naturally heal your last 8 points of stress, and you start the game with 8 Stress.
+
+#### Leverage
+
+Someone has "leverage" over your character.
+They may be a blackmailer, gang-member, assassin, or some other criminal; or they may simply be someone whose interests don't always align with yours, like a noble or political figure who sometimes finds having a patsy or stooge useful.
+
+- **Effect**: someone has "leverage" over you.
+  - The details are up to you, but must be approved by your GM.
+  - The leverage doesn't need to be so strong that it's *impossible* to refuse, but it should be *unpleasant* for you to do so.
+  - You might be required to expend resources, expose yourself to risk, humiliation or danger, or do things you find repulsive.
+  - Consequences for refusing a "request" might include having humiliating blackmail exposed (with effects similar to the *Social Stigma* trait), having a sizable debt called (which might require you to expend wealth dots), or having a powerful foe come after you (like the *Wanted* or *Enemy* traits).
+  - These effects are *usually* local or temporary; the intent is usually to "remind" the character of their obligations, rather than to sever a useful relationship.
+
+#### Sensitive
+
+You are particularly sensitive to a source of stress.
+
+- **Effect**: pick a source of stress; whenever you are exposed to that source of stress, you take +2 SV.
+- Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
 
 ### Neutral Traits
 
