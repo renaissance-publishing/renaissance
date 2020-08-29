@@ -20,6 +20,50 @@ Abilities here but not in Character Creation
   - Acute Hearing: +20 on Perception Tests to hear things
   - Poor Vision: -20 on Perception Tests to see things.
 
+### Bahla
+
+A *Bahla* is a small animal much like a rabbit — except that it's larger, about the size of a large cat; wooly like a sheep; and more social and docile.
+Bahla live in groups of 9 to 12; some kinds of bahla live in burrows, while others live in larger flocks.
+Washers often kept bahlas as pets, and herded them for wool and meat; after the loss of their homeland, some washers carried the creatures into exile in the Protectorate.
+
+| COG | COO | INT | SAV | SOM  | WIL |
+| --- | --- | --- | --- | ---- | --- |
+| 4   | 15  | 15  | 4   | 10   | 15  |
+
+| DUR (WT) | STR | INIT | DB   | LUC (TT) |
+| -------- | --- | ---- | ---- | -------- |
+| 15 (3)   | 15  | 6    | \+2  | 30 (6)   |
+
+**Vitals**
+
+- Movement: Burrow 2/4, Quadruped 5/15/25
+- Senses: Normal, *Acute Hearing* (+20), *Motion Sensitive* (+10)
+- Tags: Animal, Bahla, Domesticated, Familiar, Natural, Wild Companion
+- Size: Small
+- Diet: Herbivore
+
+**Features**
+
+- **Acute Hearing**: bahla have large ears and acute hearing; they gain +20 to auditory perception checks.
+- **Motion Sensitive**: bahla's vision is very sensitive to motion; they gain a +10 bonus to perception checks against moving creatures or objects.
+- **Wool**: most types of bahla have wooly coats, which help them endure cold environments.
+  Though individual bahla are small, they can still be a valuable secondary source of wool.
+
+**Skills**
+
+- *Flee* 50
+- Fray 60
+- *Natural Weapons* 40
+- Perception 50
+- Protocol 20
+- Read 40
+
+**Combat Stats**
+
+- Armor: -
+- Attack: **Bite**
+  - 40 (Natural Weapons), 1D10÷3, AP -
+
 ### Black Bear
 
 |          |     |      |     |      |          |
@@ -29,41 +73,37 @@ Abilities here but not in Character Creation
 | DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
 | 40 (8)   | 40  | 5    |     | \+6  | 40 (8)   |
 
+- Vitals:
   - Movement: Quadruped 4/12, Climb 3/9
-
   - Senses: Normal, Scent
-
   - Tags: Animal, Bear, Natural, Wild Companion
 
-  - Thick Hide: +2 Armor
+- Features:
+  - **Thick Hide**: +2 Armor
+  - **Pain Tolerance**: can Negate the effect of one Wound.
 
-  - Pain Tolerance: can Negate the effect of one Wound.
+- Skills:
+  - *Chase* 60
+  - Fray 40
+  - *Natural Weapons* 60
+  - Perception 60
 
-  - Skills:
-    
-      - *Chase* 60
-      - Fray 40
-      - Natural Weapons 60
-      - Perception 60
-
-  - Claws: 60 (Natural Weapons), 2D10+6 (2D10+DB), AP -1
-
-  - Bite: 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
+- Combat Stats:
+  - Armor: 2 AV
+  - Attack: **Claw**
+    - 60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1
+  - Attack: **Bite**
+    - 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
 
 ### Chasseh Forrest Spirit
 
-The spirits that dwell in the woods south of the human town of Chasseh
-have the ability to take control of the wildlife that is native to their
-forest; these spirits are mercurial, and not particularly friendly;
-though they can be bargained with, they are typically somewhere between
-unhelpful and dangerous.
+The spirits that dwell in the woods south of the human town of Chasseh have the ability to take control of the wildlife that is native to their forest.
+These spirits are mercurial, and not particularly friendly; though they can be bargained with, they are typically somewhere between unhelpful and dangerous.
 
-A possessed animal uses the animal’s stats, but gains the Aptitudes,
-Skill Ranks and Powers from the spirit. You may assign Aptitude Bonuses
-appropriate to the creature, +10 to one Aptitude and +5 to another.
+A possessed animal uses the animal’s stats, but gains the Aptitudes, Skill Ranks and Powers from the spirit.
+You may assign Aptitude Bonuses appropriate to the creature, +10 to one Aptitude and +5 to another.
 
-If the animal is killed, the spirit simply departs from it, flee into
-the forrests.
+If the animal is killed, the spirit simply departs from it, fleeing into the forests.
 
 |     |     |      |     |     |          |
 | --- | --- | ---- | --- | --- | -------- |
@@ -72,20 +112,18 @@ the forrests.
 |     |     | INIT |     |     | LUC (TT) |
 |     |     | 7    |     |     | 40 (8)   |
 
-  - Skills:
-    
-      - Athletics 40 Ranks
-      - Deception 40 Ranks
-      - Fray 50 Ranks
-      - Natural Weapons 50 Ranks
-      - Perception 60 Ranks
-      - Persuasion 30 Ranks
-      - Protocol 30 Ranks
+- Skills:
+  - Deception 40 Ranks
+  - Fray 50 Ranks
+  - *Hunt* 40 Ranks
+  - *Natural Weapons* 50 Ranks
+  - Perception 60 Ranks
+  - Persuasion 30 Ranks
+  - Protocol 30 Ranks
 
 ### Chosen
 
-A Champion of the One that Chose Us, who is worshiped by some in the
-Eastern portion of the Kingdoms of Man.
+A Champion of the One that Chose Us, who is worshiped by some in the Eastern portion of the Kingdoms of Man.
 
 |             |       |      |     |     |         |
 | ----------- | ----- | ---- | --- | --- | ------- |
@@ -94,59 +132,52 @@ Eastern portion of the Kingdoms of Man.
 | DUR (WT)    | STR   | INIT |     | DB  | LUC(TT) |
 | 30/35 (6/7) | 30/35 | 7    |     | \+5 | 40 (8)  |
 
+- Vitals:
   - Movement: Foot 4/12
-
   - Senses: Normal
-
   - Tags: Natural, Humanoid, Human
-
   - Language Group: HHED
 
-  - Class: Initiate of the One
-    
-      - Initiated into the worship of The One that Chose Us, and
-        recipient of its favor.
-      - You gain +5 STR and +5 DUR (included above)
+- Features:
+  - Class: **Initiate of the One**
+    - Initiated into the worship of The One that Chose Us, and recipient of its favor.
+    - You gain +5 STR and +5 DUR (included above)
+  - Class: **Crusader of the One**
+    - You gain +DB damage against enemies of the One (including those who oppose it, those who are aligned with opposing spirits, and members of peoples that don’t seek its favor.)
 
-  - Class: Crusader of the One
-    
-      - You gain +DB damage against enemies of the One (including those
-        who oppose it, those who are aligned with opposing spirits, and
-        members of peoples that don’t seek its favor.)
+- Skills:
+  - Knowledge: Theology 50
+  - Athletics 50
+  - Deception 40
+  - Fray 60
+  - Language: Common 25
+  - Language: Royal 75
+  - Perception 50
+  - Persuasion 50
+  - Pole-Arms 70
+  - Profession: Priest 40
+  - Profession: Crusader 60
+  - Thrown Weapons 60
+  - Protocol 50
+  - Stealth 40 (20 in armor)
 
-  - Skills:
-    
-      - Knowledge: Theology 50
-      - Athletics 50
-      - Deception 40
-      - Fray 60
-      - Language: Common 25
-      - Language: Royal 75
-      - Perception 50
-      - Persuasion 50
-      - Pole-Arms 70
-      - Profession: Priest 40
-      - Profession: Crusader 60
-      - Thrown Weapons 60
-      - Protocol 50
-      - Stealth 40 (20 in armor)
+- Armor Value: 7 armor
+- Drawbacks: -10 to checks that include your COO.
+- Tags: Composite, Cumbersome, Heavy
 
-  - Armor: 8 Armor
+- Items
+  - Brigandine Armor: 7 AV, -10 to checks that include your COO
+    - Tags: Composite, Cumbersome, Heavy
+  - Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2.
+    - Tags: Two-Handed, Reach
+    - Special: Creatures with the Natural tag and without the Human tag are *Vulnerable* to this weapon.
+  - Profession: Crusader *Skill Kit*
 
-  - Spear of the Chosen
-    
-      - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are
-        Vulnerable to this attack.
-      - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m.
-        Non-Humans are Vulnerable to this attack.
-
-  - Items
-    
-      - Brigandine Armor: 8 Armor, -10 to COO- and REF-linked skills.
-        Heavy.
-      - Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2. Tags:
-        Two-Handed, Reach. Creatures with the Natural tag and without
-        the Human tag are Vulnerable to this weapon.
+- Combat Stats:
+  - Armor Value: 8
+  - Attack: **Spear of the Chosen**
+    - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are *Vulnerable* to this attack.
+    - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m. Non-Humans are *Vulnerable* to this attack.
 
 ### Clay Pot
 
@@ -587,6 +618,59 @@ secure, and its enemies in check.
     
       - Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
       - Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
+
+### Stilt-Raccoon
+
+*Stilt-Raccoons* are raccoon-like creatures that live along the river-banks and in the marshy lowlands in the Kingdom of Tenna, in the Eastern Kingdoms.
+They have long, slender legs, with which they wade through the shallow waters of marshes, river-banks and lake shores.
+They are omnivorous, feeding on small fish, some insects,  muscles and clams, and a wide variety of plants and roots.
+Much like raccoons, they have an extremely acute sense of touch, which they use to forage for roots, muscles and clams in soft sands.
+They are also known as "spearfishers" in the Kingdoms of Men, after the quick striking motions they make when they plunge a forearm into shallow water to strike a fish or frog.
+
+Even though they aren't predators—and despite being more than a little cute—stilt-raccoons are difficult to keep as pets.
+They're fairly docile, and they aren't aggressive as long as they're treated well—but they need access to a large body of water, or their health will deteriorate.
+
+The Story of Reckless Prince Eta is popular children's story in the Kingdom of Tenna; it began more than five hundred years ago as a satire of an actual noble of the Tenna clan, but morphed into a parable for children.
+It tells the story of a reckless prince who thought himself infinitely wise and strong, and believed no harm could befall him; ultimately, he swam too near a stilt-raccoon, which speared into the water with its forearm and stuck him.
+Darker and more didactic versions of the story have the prince being struck in the back of the head, which stuns him and causes him to drown; bawdier and more comic versions of the story place the blow elsewhere.
+
+**Vitals**
+
+| COG | COO | INT | SAV | SOM  | WIL |
+| --- | --- | --- | --- | ---- | --- |
+| 4   | 15  | 15  | 3   | 15   | 15  |
+
+| DUR (WT) | STR | INIT | DB   | LUC (TT) |
+| -------- | --- | ---- | ---- | -------- |
+| 15 (3)   | 10  | 6    | \+2  | 30 (6)   |
+
+- Movement: Climb 2/6, Quadruped 3/9, Swim 2/6, *Wader*
+- Senses: Normal, Acute Touch, *Glare-Resistant*, Scent
+- Tags: Animal, Domesticated, Familiar, Natural, Stilt-Raccoon, Wild Companion
+- Size: Small
+- Diet: Marine Omnivore
+
+**Features**
+
+- **Glare-Resistant**: stilt-raccoons are resistant to the effects of glare, the better to hunt fish, frogs and other small animals beneath the surface of lakes and streams.
+- **Wader**: stilt-raccoons are well-adapted to wading, and are not slowed when moving through shallow water with quadruped movement.
+  They also make little sound while doing so, so they do not take penalties to Stealth checks related to being quiet the way most creatures would.
+- **Camouflage**: stilt-raccoons have a dark coat, which helps them to hide in darkness and shadow; this gives them a +10 bonus to Stealth checks in dark areas.
+
+**Skills**
+
+- Fray 50
+- *Natural Weapons* 50
+- Perception 50
+- *Stalk* 40
+
+**Combat Stats**
+
+- Armor: -
+- Attack: **Bite**
+  - 50 (Natural Weapons), 1D10÷3, AP -
+- Attack: **Jab**
+  - 50 (Natural Weapons), 1d10+3, AP -
 
 ### Weasel
 
