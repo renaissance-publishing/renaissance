@@ -604,3 +604,128 @@ The table below lists the *time frame* required to develop a recipe (and any che
     
       - You cannot call in favors from an organization that you are
         Wanted by (that is, that you purchased this trait for).
+
+## Stunts
+
+The following details some example *stunts*.
+
+Categories:
+
+- **Basic**: A basic move; unusual, but not difficult.
+- **Advanced**: A difficult move, but feasible.  -10 penalty.
+- **Fantastic**: A move that might not be strictly possible; some GMs may disallow these moves.  -20 penalty if allowed.
+
+Other Definitions:
+
+- **Linked Skill**: The skill used to make the *required check*.  If no check is required—or if more than one check is required—then the stunt will specify its *linked skill*.  If it doesn't, use Athletics and file a bug.
+  - Some races may use exotic or unusual skills for movement—for example, a Clay Man might use Exotic Skill: Amorphous Athletics.  In this case, GM's may treat those skills as the linked skill for a stunt.
+
+Other Tags:
+
+- **Evasive**: when you attempt this move and succeed, you gain a +10 bonus to your Defence until the start of your next turn.  You can use your *Athletics* skill to defend against any *attacks of opportunity* that this movement provokes.
+- **Follow-Through**: this stunt is subject to the *follow-through exception* (see the *Momentum Exception*, in the *Movement* section of *Combat*).
+- **Integral**: this stunt is *normally* performed as part of *some other movement*; it doesn't require a *separate* action.
+- **Reaction**: as a reaction, you can use this maneuver to defend against an attack, using your *Athletics* skill.
+- **Running Start**: you take a -10 penalty without a *running start*.
+
+### Dives
+
+Movement type: Bipedal
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Short Dive | Quick | Basic, Evasive, Reaction | *dive* up to 1m | - |
+| Long Dive | Quick | Advanced (-10), Evasive, Follow-Through, Running Start | *dive* up to 1m per 10 points MoS, up to 4m | -2m without *running start* |
+| Distance Dive | Standard | Fantastic (-20), Evasive, Follow-Through, Running Start | *lunge* and *dive* up to 1m per 10 points MoS | -2m without *running start* |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Success: prone at destination
+- Basic Failure: prone in current space
+- Exceptional Failure: check or drop item; **or** check or loose action
+- Critical Failure: drop item; **or** loose action
+
+### Flip
+
+Movement type: Bipedal, Hop
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Flip | Quick | Basic, Evasive, Follow-Through, Running Start | Clear low obstacle | - |
+| Handspring | Quick | Basic, Evasive, Follow-Through, Running Start | Clear low obstacle | - |
+| Cartwheel | Quick | Basic, Evasive, Follow-Through, Running Start | - | - |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Success
+- Failure
+
+### Roll
+
+Movement Mode: Bipedal
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Short Roll | Quick | Basic, Evasive, Reaction | Roll 1m | - |
+| Long Roll | Quick | Basic, Evasive, Follow-Through | Roll 2m | forward roll clears low obstacles |
+| Landing Roll | - | Advanced, Evasive, Integral (jump or dive) | land on your feet | For rolling out of a fall, see the rules for falling |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Basic Success: end crouching
+- Exceptional Success: keep stride; **or** defender suffers penalty
+- Critical Success: use critical success on defence; **or** land in opponent blind spot
+- Basic Failure: prone 1m (on back, head facing start location)
+- Exceptional Failure: check or drop held item; **or** check or loose next action
+- Critical Failure: drop held item; **or** loose next action; **or** prone in *poor condition* (penalty to defence); **or** fall into hazard
+
+### Wall-Work
+
+Movement Type: Bipedal, Hop
+
+- Kick Up: kick off a wall to gain extra height.
+- Kick Out: spring off a wall to change direction, surprising opponents.
+- Run Along: kick "along" a wall to clear a low obstruction.
+- Corner Turn: kick off the walls of a corner to turn quickly.
+- Up and Over: take a few steps up a wall and kick out, flipping over an object or person near you.
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Kick Up | - | Basic, Follow-Through, Integral (high jump) | gain 1m height | - |
+| Kick Out | - | Advanced, Follow-Through, Integral (movement towards wall) | land 1m from wall per 20 points MoS | - |
+| Run Along | - | Basic, Evasive, Follow-Through, Integral (ground movement along wall) | clear low obstruct while running | - |
+| Corner Turn | - | Advanced, Evasive, Follow-Through, Integral (ground movement towards corner) | change direction, keeping momentum | - |
+| Up and Over | Standard | Advanced, Evasive, Follow-Through, Running Start | land 1m from wall per 10 MoS, max 4; springing over similar-sized (or smaller) creature near wall | - |
+
+Linked skill is *Athletics (Might)*.
+Check results:
+
+- Basic Success: complete movement with specified bonus
+- Exceptional Success: additional bonus (f.ex. distance) to movement
+- Basic Failure: movement ends standing next to *contact spot*
+- Exceptional Failure: movement ends *prone* next to *contact spot*
+- Critical Failure: stunned (loose next action); **or** prone in *poor position* (penalty to defence)
+
+## Unusual Movement
+
+The following details some specific examples of *unusual movement*.
+
+### Bipedal
+
+| Mode | Action | Rate | Tags | Special |
+| ---- | ------ | ---- | ---- | ------- |
+| Climb | Standard | rate ÷ 3 | | requires something to *hold on to* |
+| Crawl | Standard | base | | |
+| Prone Crawl | Standard | base ÷ 2 | | |
+| High Jump | Quick | 1m per 10 points MoS *vertical*, max height is base rate | | |
+| Long Jump | Standard | Base plus 1m per 10 point MoS *horizontal* | | |
+| Swim | Standard | rate ÷ 2 | | |
+
+### Fly
+
+| Mode | Action | Rate | Tags | Special |
+| ---- | ------ | ---- | ---- | ------- |
+| Dive | Quick | full × 2 | - | - |
