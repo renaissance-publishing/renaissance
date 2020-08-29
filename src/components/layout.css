@@ -10,6 +10,19 @@ article aside
     border: 3px dotted #101020;
 }
 
+.standout
+{
+    margin: 2em;
+    padding: 1em;
+    border: 3px dotted #101020;
+}
+
+.floating
+{
+    width: 300px;
+    float: right;
+}
+
 .example
 {
     background-color: #f3d2f3;
@@ -35,9 +48,19 @@ article aside
     background-color: rgb(252, 216, 176);
 }
 
+.optional
+{
+    background-color: rgb(210, 210, 210);
+}
+
 .hook
 {
     background-color: rgb(207, 204, 200);
+}
+
+.short
+{
+    background-color: transparent;
 }
 
 /* Class for fiction blocks.
