@@ -77,7 +77,7 @@ module.exports = {
                   title: "optional",
                 },
                 abstract: {
-                  classes: `standout floating short`,
+                  classes: `standout short`,
                   title: "optional",
                 },
               }
