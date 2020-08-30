@@ -15,3 +15,8 @@
 - [x] ~~References~~
   - An attempt was made, but unfortunately Gatsby can only do GraphQL queries in pages, and when providing the amount of information needed to make it work, just linking to the simple, pleasant URLs we have is nicer.
   - Maybe come back to this.
+- [ ] stop checking for redundants in TOC
+  - Gatsby automatically appends a -1 -2 -3 suffixe to heading IDs when they're redundant, so we don't need to check for that ourselves anymore.
+  - (As long as we use the ID and not the Content, yes?)
+- [ ] Reduce the number of special element types that we have.
+  - Yes, I know that's my doing.
