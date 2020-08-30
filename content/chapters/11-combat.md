@@ -16,13 +16,6 @@ Combat is a special case of *Turn Order* play (see *Basic Rules*) using the foll
 Since *Task Actions* are not given in the action allotment, Task Actions are not tracked during Combat; see *Turn Order Play*.
 In combat, a turn is about 3 seconds; therefore, there are about 20 turns in a minute.
 
-## Useful Terms
-
-Let's define a few useful terms; these terms don't have fixed effects we're going to discuss now, although other powers or rules may refer to them.
-
-- **Threatened**: we say that you *threaten* an opponent if you could make a melee attack against them; you usually threaten opponents if they are next to you, although some weapons (like those with the *Reach* tag) may allow you to threaten a character further away.
-- **Bloodied**: we say that a character is *bloodied* if they have taken DV exceeding half their DUR.
-
 ## The Combat Grid
 
 We usually track positions and movement in combat using a *square grid*, with each square being 1m to a side.
@@ -33,12 +26,9 @@ Distances while moving are also directly measured, although they depend on the e
 
 Traditionally, the direction a character is *facing* is not tracked.
 
-<aside class="designnote">
-
-Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems—like hex-grids or miniatures—as long as the rules for measuring distance and determining movement are well-defined.
-Supporting these kinds of scenarios are why we've tried to give all distances in *meters* rather than *squares*.
-
-</aside>
+[[designnote]]
+|Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems—like hex-grids or miniatures—as long as the rules for measuring distance and determining movement are well-defined.
+|Supporting these kinds of scenarios are why we've tried to give all distances in *meters* rather than *squares*.
 
 ## Moving Around
 
@@ -102,27 +92,21 @@ Because a charging character is attempting to build up momentum, they will alway
 
 After declaring a charge, if the character then moves *far enough to build up speed* (usually 3m), they then deal +DB DV to all their (physical, melee) attacks for the remainder of their turn.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|There are some "they cans" and "if thens" above; let's walk through that.
+|A turn is a *Quick Action* and a *Standard Action*; that means that, in practice, a player declares a charge, moves up to their full movement (a Quick Action), and then makes an attack (a Standard Action).
+|That attack check has a -10 penalty (for the Full movement), but deals +DB DV.
+|
+|Note that they deal +DB DV to *all* their physical attacks.
+|If a character makes *more than one attack* (as they can if they have *more than one weapon*, see below), then each attack gets the +DB DV (and each attack check takes the -10 penalty for the movement, on top of any other penalties for wielding multiple weapons and making multiple attacks).
 
-There are some "they cans" and "if thens" above; let's walk through that.
-A turn is a *Quick Action* and a *Standard Action*; that means that, in practice, a player declares a charge, moves up to their full movement (a Quick Action), and then makes an attack (a Standard Action).
-That attack check has a -10 penalty (for the Full movement), but deals +DB DV.
-
-Note that they deal +DB DV to *all* their physical attacks.
-If a character makes *more than one attack* (as they can if they have *more than one weapon*, see below), then each attack gets the +DB DV (and each attack check takes the -10 penalty for the movement, on top of any other penalties for wielding multiple weapons and making multiple attacks).
-
-</aside>
-
-<aside class="designnote">
-
-This implementation of charging is a bit out of place.
-
-Most mechanisms we've been able to package into fairly atomic actions; charging is an exception.
-Charging isn't one action; instead, it's a thing you declare at the beginning of your turn, that then adjusts your damage at the end, *if* you meet some conditions.
-
-Charging is something of a least-bad design; we're working on it.
-
-</aside>
+[[designnote]]
+|This implementation of charging is a bit out of place.
+|
+|Most mechanisms we've been able to package into fairly atomic actions; charging is an exception.
+|Charging isn't one action; instead, it's a thing you declare at the beginning of your turn, that then adjusts your damage at the end, *if* you meet some conditions.
+|
+|Charging is something of a least-bad design; we're working on it.
 
 Characters can *brace* to receive a charge; see *Receiving a Charge*, below.
 
@@ -137,54 +121,44 @@ For example, a character could use a Quick Action to *run*, and then use another
 
 ## Attacking
 
-  - Attacking a target
-    
-      - a Standard Action (whether in melee or using a ranged weapon)
-    
-      - roll an Ordered Opposed Check, first the attacker and then the
-        defender
-        
-          - Attacker Wins: Defender takes attack damage (listed damage
-            for a weapon or power)
-          - Defender Wins: Defender takes no damage
-    
-      - Exceptional Results:
-        
-          - Attacker MoS \> 30: +5 DV
-          - Attacker MoS \> 60: +5 more DV (+10 DV total)
-          - Attacker critical success: roll damage dice twice, take best
-            result.
-    
-      - Attack Skills: use the attack skill appropriate to the weapon;
-        some attacks will specify an Attack Skill.
-        
-          - Note that it may be possible to wield some weapons using
-            more than one attack skill, depending on the skills and
-            proficiencies the user has.
-    
-      - Defense Skills: you can defend with many different skills
-        
-          - Fray is the most general defense skill. It can be used to
-            defend against most attacks. (Among it’s other uses, see
-            Skills).
-        
-          - You can use your own melee attack skills to defend against
-            melee attacks (assuming you have an appropriate weapon to
-            use, of course).  We refer to this as *parrying*.
-            
-              - For example, If you have a sword, you can use your
-                One-Handed Weapons to defend against someone attacking
-                you with a halberd. This represents you parrying or
-                deflecting their attacks.
-              - Since Unarmed is a melee attack skill, you can use it to
-                defend in this way, too; however, you will be at a
-                disadvantage against an armed opponent, see *Unarmed
-                Combat and Natural Weapons* below.
+### Attack Basics
 
-          - Defending with Fray is not a *reaction,* but parrying *is*.  See *Reactions,* below.
-        
-          - Sometimes you can defend with movement skills, like
-            Athletics; see *Full Defense* in *Unsorted Rules,* below.
+Attacking a target — whether in melee, with a ranged weapon, or some other way — is a Standard Action requiring an Ordered Opposed Check.
+First, the attacker rolls a check using their attack skill; then, if the attacker succeeded, the defender rolls a check using their defence skill.
+If the attacker wins, then the attack hits, and the defender takes the given *damage value* (DV) (most weapons, natural weapons, and powers will list their damage; it is usually partly random, requiring a die roll); if the defender wins, the attack missed, and the defender takes no damage.
+
+If the attacker has an MoS of 30 or more, they gain +5 DV.
+If their MoS was 60 or more, they gain an *additional* +5 DV (for a total of +10 DV).
+If the attacker scores a *critical success*, then the die-roll is *maximized* — for example, if the DV is 1d10+5, the defender would take 15 damage.
+
+- Attacker MoS \> 30: +5 DV
+- Attacker MoS \> 60: +5 more DV (+10 DV total)
+- Attacker critical success: *maximize* dice
+
+### Attack and Defence Skills
+
+Generally, when attacking, characters use the *attack skill* appropriate to the weapon.
+For most melee weapons, this will be either *Melee Weapons* or *Pole-Arms*.
+For unarmed attacks (like punches, kicks, grabs, or throws) or attacks with natural weapons (like bites or claws), this is usually Unarmed Combat.
+
+Defenders sometimes have a choice of skills.
+Fray is the most general defense skill; it can be used to defend against most attacks (and many other hazards).
+Defenders can also use their own melee attack skills to defend against melee attacks (assuming they have an appropriate weapon, of course); we refer to this as *parrying*.
+For example, a character with a sword could use their *Melee Weapons* to defend against someone attacking them with a halberd.
+Characters with *basic proficiency* in *Unarmed Combat* can also defend with that skill, although they will take a penalty when defending against an armed opponent (see *Unarmed Combat*, below).
+
+Sometimes — for example, when moving evasively — characters can defend with *movement skills* (like Athletics).
+
+Usually these methods of defense aren't *reactions*; see below.
+
+### Melee Attacks
+
+In order to make a melee attack against a character, you normally need to be *armed* with a melee weapon, and they need to be within reach (but see also *Unarmed Combat* below).
+Most melee weapons can be used against characters up to 1m away (in a combat grid with 1m squares, this means that you can attack characters in adjacent squares); some weapons have the *Reach* tag, and can be used against more distant targets (see the tag's description in *Items*).
+
+You **threaten** any character that you could make a melee attack against.
+
+### Ranged Attacks
 
   - Ranged Attacks: ranged attacks (projectile weapons, thrown weapons
     and some powers) use the rules for *attacking a target*, with the
@@ -242,28 +216,27 @@ For example, a character could use a Quick Action to *run*, and then use another
             reload the weapon (or that it cannot be reloaded, should
             that be the case).
 
-  - Touch-Only Attacks: sometimes, notably when using some powers, an
-    attacker only needs to touch their target.
-    
-      - Treat this as an attack, using the standard rules. The attacker
-        may use either COO+SOM+SOM or their Unarmed Combat skill (no
-        proficiency required); they receive a +20 bonus. The defender
-        takes a -20 penalty.
+### Touch-Only and Indicate-Only Attacks
 
-  - Indicate-Only Attacks: sometimes, notably when using some Powers, an
-    attacker only needs to direct an effect to a target – by pointing at
-    the target, for example, or fixing their gaze on the target.
-    
-      - Treat this as a ranged attack, using the standard rules. The
-        attacker may use either 3×COO or their Ranged Weapons skill (no
-        proficiency is required); they receive a +20 bonus. The defender
-        takes a -20 penalty.
+Sometimes, notably when using some powers, an attacker only needs to touch their target.
+These use all the normal rules for an attack, except that they are easier: the attacker may use either COO+SOM+SOM or their Unarmed Combat skill (no proficiency required), and they receive a +20 bonus.
+The defender takes a -20 penalty to their defence.
 
-  - Un-Aware Target: targets who are not aware that they are being
-    attacked cannot defend. (The attacker must still roll to hit their
-    target.) (PCs and major NPCs should usually be allowed a Perception
-    Check to notice a hidden attacker. Also, people usually take notice
-    after they have been attacked.)
+Similarly, sometimes, notably when using some Powers, an attacker only needs to direct an effect to a target – by pointing at their target, for example, or by fixing their gaze on the target.
+These attacks work like normal ranged attacks, except that the attacker may use either 3×COO or their Ranged Weapons skill (no proficiency is required), and they receive a +20 bonus.
+The defender takes a -20 penalty.
+
+### Un-Aware Targets
+
+Characters who are not aware that they are being attacked cannot defend 
+The attacker must still roll their attack check, but it is *unnoposed*, and the defender takes damage if the attacker succeeds.
+(PCs and major NPCs should usually be allowed a Perception Check to notice a hidden attacker.
+Also, people usually take notice after they have been attacked.)
+
+### Blind Attacks
+
+Normally, characters don't threaten targets that they can't see; any attempt to hit such a target will fare little better than chance.
+This means that an attack against a target that the attacker cannot see must either make a check for a *Stroke of Luck* or use a TN of 50, whichever is *worse*.
 
 ## Armor and Armor Penetration
 
@@ -298,7 +271,7 @@ After doing so, they gain a +10 bonus to attacks against the target that they ai
 ### Full Defense
 
 During your turn, you may take a Standard Action to focus on defending yourself.
-If you do, until your next turn starts, you receive a +20 bonus when you Defend.
+If you do, until your next turn starts, you receive a +20 bonus to checks to defend.
 
 ### Bracing
 
@@ -347,7 +320,7 @@ An attack can only be one kind of Strike.
 ### Maneuvers
 
 A **maneuver** is like an attack, but it doesn't deal *damage*; instead, if the attacker succeeds, it has some other effect.
-Each maneuver will list the type of action required, the check, and the resuts.
+Each maneuver will list the type of action required, the check, and the results.
 
 The following list is by no means exhaustive; players and GMs should feel free to devise and attempt new during play.
 
@@ -380,7 +353,7 @@ The following list is by no means exhaustive; players and GMs should feel free t
 - Catch
   - Some weapons are designed to *catch* an opponent’s weapon; these weapons have the *catch* tag.
   - When you are attacked while wielding a weapon with the *catch* tag, rather than defending as normal, you can decide to attempt to *catch* your opponent’s weapon.
-  - This works much like defending as normal, except that you take a -10 penalty.
+  - This works like normal defence, except that you take a -10 penalty.
     If you win and score an exceptional success, then you have *caught* your opponent’s weapon (in addition to successfully defending against their attack).
   - While you have caught an opponent’s weapon, neither you nor they can attack with the involved weapons or move.
   - During your turn, you may release your opponent’s weapon as a Free Action.
@@ -427,23 +400,20 @@ When making multiple attacks, only one Standard Action is required, but each att
 When making multiple attacks, each attack does not have to have the same target; instead, each attack can be directed at a specific target.
 When attacking multiple targets in this way, each attack suffers an additional -10 penalty.
 
-<div class="clarificiation">
-These rules only cover attacking multiple targets with multiple single-target attacks; they do not cover blast or splash weapons, for example.
-</div>
+[[clarification]]
+|These rules only cover attacking multiple targets with multiple single-target attacks; they do not cover blast or splash weapons, for example.
 
 Off-Hand Weapons: most characters (i.e. those without an appropriate Trait or Racial ability) have a dominant hand and an off-hand.
 Attacks made with the off-hand suffer a -10 penalty.
 If the weapon you are using in your off-hand does not have the *Off-Hand* tag, you suffer an additional -10 penalty.
 
-<div class="example">
-
-If you’re humanoid, you have the Ambidextrous trait and you are wielding two one-handed weapons, then you can make two separate attacks against the same target as a Standard Action.
-Each attack suffers -10 penalty (for making Multiple Attacks).
-
-If you don’t have the Ambidextrous trait, but the weapon in your off hand has the Off-Hand tag, then you can make one attack at -10 (with the weapon in your main hand, suffering the Multiple Attacks penalty) and one attack at -20 (with the weapon in your off-hand, suffering both the Off-Hand and Multiple Attacks penalties).
-
-If you don’t have the Ambidextrous trait, you're wielding two one-handed weapons, and the weapon in your off-hand doesn't have the *Off-Hand* tag, then you'll make your attacks at -10 (your main hand) and -30 (your off hand), respectively.
-</div>
+[[example]]
+|If you’re humanoid, you have the Ambidextrous trait and you are wielding two one-handed weapons, then you can make two separate attacks against the same target as a Standard Action.
+|Each attack suffers -10 penalty (for making Multiple Attacks).
+|
+|If you don’t have the Ambidextrous trait, but the weapon in your off hand has the Off-Hand tag, then you can make one attack at -10 (with the weapon in your main hand, suffering the Multiple Attacks penalty) and one attack at -20 (with the weapon in your off-hand, suffering both the Off-Hand and Multiple Attacks penalties).
+|
+|If you don’t have the Ambidextrous trait, you're wielding two one-handed weapons, and the weapon in your off-hand doesn't have the *Off-Hand* tag, then you'll make your attacks at -10 (your main hand) and -30 (your off hand), respectively.
 
 ## Resistance and Vulnerability
 
@@ -462,13 +432,10 @@ Normally, in this case, that part of the *Resistance* or *Vulnerability* simply 
 In special circumstances, a GM might decide that a resistance or vulnerability has some other effect.
 If a creature has "Resistance: Fire (Immune)", a GM might declare that a power that uses fire to *frighten* its target would not affect that creature.
 
-<aside class="designnote">
-
-We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results—not just changing damage.
-
-We're not there yet, but we're getting closer.
-
-</aside>
+[[designnote]]
+|We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results—not just changing damage.
+|
+|We're not there yet, but we're getting closer.
 
 ## Reactions
 
@@ -480,15 +447,15 @@ Once you take a *reaction*, you cannot take *another* reaction until the end of 
 ### Readied Actions
 
 If you'd like to prepare a response to something that might happen later, you can *ready an action*.
-When you **ready an action**, you should specify another *Standard Action* and a *condition* or *event*; if the *condition or event* occurs before your next turn, you may choose to take the action that you specified.
+When you **ready an action**, you must specify another *Standard Action* and a *condition* or *event*; if the *condition or event* occurs before your next turn, you may choose to take the action that you specified.
 
 Readying an action is a *Standard Action*; activating a *readied action* is a *Reaction*.
 
 ### Attacks of Opportunity
 
-If a character who you *threaten* attempts to move *away from you* or *past you*, you may make an attack against them; this uses all the normal rules for an attack.
+If a character who you *threaten* attempts to move *away from you* or *past you*, you may make an attack against them (using all the normal rules for an attack).
 
-Hitting an opponent with an attack of opportunity doesn’t necessarily hinder their movement, unless you also incapacitate them with your attack (by knocking them over for example).
+Hitting an opponent with an attack of opportunity doesn’t necessarily hinder their movement, unless you also incapacitate them with your attack (by knocking them down, for example).
 
 An Attack of Opportunity is a Reaction.
 
@@ -497,28 +464,27 @@ An Attack of Opportunity is a Reaction.
 Sometimes events may demand an immediate response: you might want to grab hold of a rope if the floor breaks beneath you, or you might want to catch something that someone has thrown to you.
 These are also *Reactions*.
 
-### Defensive Powers
+### Special Defence
 
-Normally, defending against an attack is *not* a reaction; however, some powers that trigger on a successful defense *are*.
+Normally, defending against an attack — with Fray, or by parrying — is *not* a reaction.
+However, most *special defenses* are reactions: defending with a *strike* or a *maneuver* usually requires a reaction, for example, and most *powers* that trigger on a successful defense require a reaction.
 (For example, some of the links in a *Chain* are *Reactions*, and the Quick Break power is a *Reaction*; see the *Classes* and *Powers* chapters.)
 
 ## Unarmed Combat and Natural Weapons
 
 Some characters have learned to fight without a weapon, by striking opponents with punches, kicks, and other unarmed attacks; other characters have *natural* weapons, like claws, fangs, or spiked tails.
 
-<aside class="designnote">
-
-The original intent was that Unarmed Combat would be treated no differently than any other style of combat, without any special rules (and without anything like a “mandatory feat chain” required to make it useful).
-
-This proved confusing, as many players assumed (not unreasonably\!) that they could not fight an armed character while unarmed, and often even wanted to take Powers to allow them to do so\!
-
-The rules given here are an attempt at a minimal viable treatment of Unarmed Combat, which will explicitly allow characters who invest ranks in *Unarmed Combat* to effectively fight against an armed and armored opponent.
-
-</aside>
+[[designnote]]
+|
+|The original intent was that Unarmed Combat would be treated no differently than any other style of combat, without any special rules (and without anything like a “mandatory feat chain” required to make it useful).
+|
+|This proved confusing, as many players assumed (not unreasonably\!) that they could not fight an armed character while unarmed, and even wanted to take Powers to allow them to do so\!
+|
+|The rules given here are an attempt at a minimal viable treatment of Unarmed Combat, which will explicitly allow characters who invest ranks in *Unarmed Combat* to effectively fight against an armed and armored opponent — without requiring any particular powers.
 
 ### Unarmed Combat
 
-Most *unarmed attacks*—punches, kicks, and other strikes—works work much like any other attack.
+Most *unarmed attacks* — punches, kicks, and other strikes — works work much like any other attack.
 Attacks with punches, kicks, and so on have the *Unarmed Attack* tag; note that some creatures and armors may have resistance to *unarmed* attacks.
 The base damage for an *unarmed attack* is 1d10+DB DV with no AP.
 
@@ -528,7 +494,8 @@ A character who *does* have basic proficiency in *Unarmed Combat* can use that s
 A character who attempts to strike an *armored* opponent while unarmed is at risk of injury (for obvious reasons); if they score an exceptional failure on their attack, they take 1d10÷2 DV.
 Note that this applies to *strikes*, but not to grapples, throws, sweeps, or similar maneuvers.
 
-Conversely, characters wearing armor will do additional damage with an unarmed attack. Characters gain AV÷3 bonus damage to unarmed attacks, for the highest AV among the armors that they’re wearing.
+Conversely, characters wearing armor will do additional damage with an unarmed attack.
+Characters gain AV÷3 bonus damage to unarmed attacks, for the highest AV among the armors that they’re wearing.
 
 ### Natural Weapons
 
@@ -623,13 +590,12 @@ When this happens, the point that the attack "emanates form" is the point that t
 
 ## Size and Combat
 
-      - Ranged attacks against *small* targets receive a -10 penalty;
-        however, attempts to grapple small targets are made at +10.
-      - Ranged attacks against *large* targets receive a +10 bonus;
-        however, attempts to grapple large targets are made at -10.
-      - Greater bonuses and penalties may be used for larger size
-        differences.
-      - see *Sizes*
+We do not have extensive rules for how sizes impact combat; some general guidelines are provided below.
+
+- Ranged attacks against *small* targets receive a -10 penalty; however, attempts to grapple small targets are made at +10.
+- Ranged attacks against *large* targets receive a +10 bonus; however, attempts to grapple large targets are made at -10.
+- Greater bonuses and penalties may be used for larger size differences.
+- see *Sizes* in *Senses, Movements and Special Abilities*.
 
 ## Being Prone
 
