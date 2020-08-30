@@ -60,6 +60,10 @@ module.exports = {
                   classes: `standout playerguidance`,
                   title: "optional",
                 },
+                clarification: {
+                  classes: `standout clarification`,
+                  title: "optional",
+                },
                 fiction: {
                   classes: `standout fiction`,
                   title: "optional",
@@ -72,14 +76,19 @@ module.exports = {
                   classes: `standout hook`,
                   title: "optional",
                 },
-                short: {
+                abstract: {
                   classes: `standout floating short`,
                   title: "optional",
                 },
               }
             }
           },
-          `gatsby-remark-autolink-headers`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              enableCustomId: true,
+            },
+          },
         ]
       }
     },
