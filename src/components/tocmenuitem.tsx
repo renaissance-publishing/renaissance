@@ -24,7 +24,7 @@ type GraphQLQueryResultNode = {
 
 export function checkHeadingListUnique({ fields: { slug }, headings }: GraphQLQueryResultNode): boolean {
     const appearanceMap = headings.reduce((state: Map<string, number>, heading: Heading, _, __): Map<string, number> => 
-        state.update(heading.value, 0, x => x + 1)
+        state.update(heading.id, 0, x => x + 1)
     , Map<string, number>());
 
     const dupMap = appearanceMap.filter(v => v > 1);
