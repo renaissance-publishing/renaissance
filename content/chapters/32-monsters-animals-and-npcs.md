@@ -34,7 +34,7 @@ Washers often kept bahlas as pets, and herded them for wool and meat; after the 
 | -------- | --- | ---- | ---- | -------- |
 | 15 (3)   | 15  | 6    | \+2  | 30 (6)   |
 
-**Vitals**
+#### Vitals
 
 - Movement: Burrow 2/4, Quadruped 5/15/25
 - Senses: Normal, *Acute Hearing* (+20), *Motion Sensitive* (+10)
@@ -42,14 +42,14 @@ Washers often kept bahlas as pets, and herded them for wool and meat; after the 
 - Size: Small
 - Diet: Herbivore
 
-**Features**
+#### Features
 
 - **Acute Hearing**: bahla have large ears and acute hearing; they gain +20 to auditory perception checks.
 - **Motion Sensitive**: bahla's vision is very sensitive to motion; they gain a +10 bonus to perception checks against moving creatures or objects.
 - **Wool**: most types of bahla have wooly coats, which help them endure cold environments.
   Though individual bahla are small, they can still be a valuable secondary source of wool.
 
-**Skills**
+#### Skills
 
 - *Flee* 50
 - Fray 60
@@ -58,7 +58,7 @@ Washers often kept bahlas as pets, and herded them for wool and meat; after the 
 - Protocol 20
 - Read 40
 
-**Combat Stats**
+#### Combat Stats
 
 - Armor: -
 - Attack: **Bite**
@@ -634,7 +634,7 @@ The Story of Reckless Prince Eta is popular children's story in the Kingdom of T
 It tells the story of a reckless prince who thought himself infinitely wise and strong, and believed no harm could befall him; ultimately, he swam too near a stilt-raccoon, which speared into the water with its forearm and stuck him.
 Darker and more didactic versions of the story have the prince being struck in the back of the head, which stuns him and causes him to drown; bawdier and more comic versions of the story place the blow elsewhere.
 
-**Vitals**
+#### Vitals
 
 | COG | COO | INT | SAV | SOM  | WIL |
 | --- | --- | --- | --- | ---- | --- |
@@ -650,21 +650,21 @@ Darker and more didactic versions of the story have the prince being struck in t
 - Size: Small
 - Diet: Marine Omnivore
 
-**Features**
+#### Features
 
 - **Glare-Resistant**: stilt-raccoons are resistant to the effects of glare, the better to hunt fish, frogs and other small animals beneath the surface of lakes and streams.
 - **Wader**: stilt-raccoons are well-adapted to wading, and are not slowed when moving through shallow water with quadruped movement.
   They also make little sound while doing so, so they do not take penalties to Stealth checks related to being quiet the way most creatures would.
 - **Camouflage**: stilt-raccoons have a dark coat, which helps them to hide in darkness and shadow; this gives them a +10 bonus to Stealth checks in dark areas.
 
-**Skills**
+#### Skills
 
 - Fray 50
 - *Natural Weapons* 50
 - Perception 50
 - *Stalk* 40
 
-**Combat Stats**
+#### Combat Stats
 
 - Armor: -
 - Attack: **Bite**
