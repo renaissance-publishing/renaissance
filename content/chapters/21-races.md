@@ -92,7 +92,7 @@ can just take the Trait if they want to).
       - The ritual to transform an egg required a price of each
         participant dragon; it was not undertaken lightly.
       - Though Drakes can nominally be broken into clans based on their
-        lineage, their familiy trees where often rendered *complex* by
+        lineage, their family trees where often rendered *complex* by
         feudal politics; for some, their clan and heritage are important
         parts of who they are; other drakes care little—or may not even
         know their ancestry at all.
@@ -133,22 +133,36 @@ can just take the Trait if they want to).
 
   - Appearance: Drakes are humanoid in gross layout, but they have the
     head, long tail, powerful limbs, tough scales and sharp claws of
-    Dragons. {It may be better to say they look like Dragons, except for
-    being roughly humanoid in shape and size.)
+    Dragons.
 
 #### Drake Vitals
     
 - Old Age: 100 Years
 - Average Height: 2.4m
 - Average Weight: 110kg
+- Diet: Omnivore (preferential carnivore)
 
 - DUR 40, STR 40
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Foot 4/12
 - Senses: Normal, Low-Light
+- Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Dragon-Kin, Drake
 - Language Group: DDK, HHED
 - Scales: +2 Armor
+
+#### Cultural Item: Dragonshire Wyrmblade
+
+A type of massive sword unique to the Dragonshire, Wyrmblades are designed to take advantage of the natural strength and reach of Drakes, and to be effective when used in combination with the pole-arms of smaller races.
+The name refers to a snake-like undulation incorporated into the blade.
+
+Tags: Two-handed, Heavy, Bladed, Difficult, Reach, Close, Defensive, Parry, Oversized
+
+Damage: 2d10+3+DB
+
+AP: 4
+
+Special: Oversized.  Users without the *Great Stature* tag take -10 to their attack check and deal -2 DB.
 
 #### Optional Trait: Chroma
 
@@ -337,10 +351,16 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
 
 #### Elven Vitals
 
+- Old Age: 160 Years
+- Average Height: 180cm
+- Average Weight: 50kg
+- Diet: Omnivore
+
 - DUR 25, STR 25
 - \+5 COO +5 WIL +10 INT
 - Movement: Foot 5 / 15
 - Senses: Normal, Low-Light
+- Size: Medium
 - Tags: Natural, Humanoid, Elf
 - Language Group: HHED
 - *Keen Senses*: Elves receive +20 to visual Perception checks, and +10 to auditory perception checks.
@@ -351,6 +371,19 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
   - Elves treat their feet as non-dominant limbs, so they need to purchase the Ambidextrous trait at least once to wield weapons with them without taking a penalty.
 - Natural Camouflage: Elves have complex skin patterns, which serve as camouflage.
   These patterns provide a +10 benefit to Stealth checks; this benefit is lost if their skin is covered, and is not cumulative with worn camouflage.
+
+#### Cultural Item: Clan Sword
+
+Clan Swords are wooden weapons used by many Wood Elves.
+They are carefully hewn from sturdy hardwood, and finished with designs unique to the tribe that produced them.
+Clan Swords arc like inverted sabres; have a narrow, diamond-like cross-section; and are weighted towards the very tip.
+They almost always feature leather or linen lanyards to secure the weapon to the wielder's hand.
+
+Tags: One-handed, Easy, Blunt, Secure, Well Suited: Maim, Well Suited: Mighty Blow
+
+Damage: 1d10+3+DB
+
+AP: 1
 
 #### Optional Background: Ash Elven Undercity
 
@@ -430,12 +463,14 @@ Though few in numbers, the combination of these stealthy hunters scattered throu
 - Old Age: 50 Years
 - Average Height: 2.2m
 - Average Weight: 80kg
+- Diet: Obligate Carnivore (scavenger)
 
 - Gnolls are one of the three founding races of the Commonwealth, and prosper anywhere great strength and endurance are valuable.
 - DUR 35, STR 35
 - \+5 INT, +5 SAV, +10 SOM
 - Movement: Foot 5 / 15
 - Senses: Normal, Low-Light, Scent
+- Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Gnoll
 - Language Group: GR
 - *Hide*: Gnolls gain +1 Armor Value
@@ -484,11 +519,13 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealth�
 - Old Age: 60 years
 - Average Height: 1.7m
 - Average Weight: 60kg
+- Diet: Omnivore
 
 - DUR 30, STR 30
 - \+5 COG, +5 COO, +10 SAV
 - Movement: Foot 4 / 12
 - Senses: Normal
+- Size: Medium
 - Tags: Natural, Humanoid, Human
 - Language Group: HHED
 - Social Animals: Humans gain the Social Animal trait.
@@ -548,15 +585,16 @@ Clever, quick, industrious and sociable, Kobolds make up the majority of the und
 - Old Age: 40 Years
 - Average Height: 1m
 - Average Weight: 25kg
+- Diet: Omnivore (preferential carnivore)
 
 - DUR 25, STR 20
 - \+5 INT, +10 COO, +5 SAV
 - Movement: Foot 5 / 15
 - Senses: Normal, Infrared
+- Size: Small
 - Tags: Natural, Humanoid, Dragon-Kin, Kobold
 - Language Group: DDK
 - *Scales*: Kobolds have +1 Armor
-- *Small*: Kobolds are small
 
 #### Optional Trait: Kroma
 
@@ -643,12 +681,14 @@ Half elf, half human, half wild, Shifters can *shift* between humanoid and hybri
 - Old Age: 90 Years
 - Average Height: 1.8m
 - Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 30, STR 30
 - \+5 COO, +5 INT, +5 SOM
 - Movement: Foot 4 / 12
 - Senses: Normal, Low-Light
-- Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
+- Size: Medium
+- Tags: Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
 - Language Group: HHED (humanoid form); GR (hybrid form)
 - *Hybrid*: You have two forms: Humanoid and Hybrid.
   - The specific details of each form are fixed.
@@ -758,6 +798,11 @@ They can learn to speak Commonwealth Standard (though members of some other race
 #### Clay-Men Vitals
 
 An ancient, amorphous race.
+
+- Old Age: -
+- Average Height: 1.8m
+- Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 35, STR 20
 - \+5 INT, \+5 SAV, \+5 WIL
@@ -954,14 +999,15 @@ See also *Deep-Explorer Dwarves* in *Other Factions*.
 - Old Age: 110 Years
 - Average Height: 90cm
 - Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 35, STR 30
 - \+10 SOM, +10 WIL
 - Movement: foot 3 / 9
 - Senses: Normal, Infrared
+- Size: Medium, *Squat*
 - Tags: Natural, Humanoid, Dwarf
 - Language Group: HHED
-- Size: Medium
 - *Squat*: Dwarves are treated as small targets when defending against ranged attacks (even though they are Medium-sized creatures).
 - *Hardy*: Dwarves are known for their hardy constitutions, being resistant to both disease and poison.  Dwarves gain Resistance: Disease and Resistance: Poison
 
@@ -1130,31 +1176,32 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
   - As a result, they may appear to be humble, simple and rustic—until
     evening descends, when the party drugs come out.
 
-  - Vitals:
-    
-      - Old Age: 130 Years
-      - Average Height: 80cm
-      - Average Weight: 18kg
+#### Vitals
 
-  - DUR 25, ST 20
-  - \+5 INT, +5 COO, +10 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Gnome
-  - Language Group: HHED
-  - Size: Gnomes are Small
-  - Alchemically Attuned: Gnomes double the duration of drugs, and
-    Gnomes receive a +10 bonus to checks to resist the effects of drugs.
+- Old Age: 130 Years
+- Average Height: 80cm
+- Average Weight: 18kg
+- Diet: Omnivore (preferential herbivore)
 
-  - Optional Background: Gnomish Burrow
-    
-      - 10 ranks in Craft: Alchemy
-      - 10 ranks in one other Technical skill
-      - 10 ranks in Stealth
-      - one skill kit
-      - one potion of Cost: Moderate, or 5 potions of Cost: Minor
-      - the Unique Outlook neutral trait
-      - Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
+- DUR 25, ST 20
+- \+5 INT, +5 COO, +10 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Low-Light
+- Sizes: Small
+- Tags: Natural, Humanoid, Gnome
+- Language Group: HHED
+- Alchemically Attuned: Gnomes double the duration of drugs, and
+  Gnomes receive a +10 bonus to checks to resist the effects of drugs.
+
+#### Optional Background: Gnomish Burrow
+
+- 10 ranks in Craft: Alchemy
+- 10 ranks in one other Technical skill
+- 10 ranks in Stealth
+- one skill kit
+- one potion of Cost: Moderate, or 5 potions of Cost: Minor
+- the Unique Outlook neutral trait
+- Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
 
 ### Halflings
 
@@ -1197,14 +1244,15 @@ Though they have fared well as the commonwealth has grown, their numbers have ne
 - Old Age: 80 Years
 - Average Height: 1m
 - Average Weight: 30kg
+- Diet: Omnivore
 
 - DUR 25, STR 20
 - \+5 COO, +5 INT, +5 SAV, +5 WIL
 - Movement: Foot 4 / 12
 - Senses: Normal
+- Size: Small
 - Tags: Natural, Humanoid, Halfling
 - Language Group: HHED
-- Small: Halflings are Small
 - Survivors: Halflings have a remarkable ability to endure adversity.
   They get a +10 bonus on *Feat of Endurance* checks and checks to resist *Stress*.
 
@@ -1278,28 +1326,31 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     and valuable allies for other nearby tribes (and partners for tribal
     gnolls specifically).
 
-  - Vitals:
-    
-      - Old Age: 45 years
-      - Average Height: 2.1m
-      - Average Weight: 75kg
+#### Vitals
 
-  - Quick, dextrous, sociable and peaceful – but also weak and frail,
-    and they tend to be wary of outsiders. Dangerous at range.
-  - DUR 25, STR 25
-  - \+10 COO, +5 INT +5 SAV
-  - Movement: Foot 6 / 18
-  - Senses: Normal, Motion-Sensitive
-  - Tags: Natural, Humanoid, Herder
-  - Language Group: GR
-  - Alert: Herders receive the Alert trait.
+Quick, dextrous, sociable and peaceful – but also weak and frail.
+They tend to be wary of outsiders, and are dangerous at range.
 
-  - Optional Background: Herder Tribal Community
-    
-      - 10 ranks in Fray
-      - 10 ranks in Ranged Weapons
-      - 10 ranks in one Social skill
-      - 10 ranks in Survival
+- Old Age: 45 years
+- Average Height: 2.1m
+- Average Weight: 75kg
+- Diet: Herbivore
+
+- DUR 25, STR 25
+- \+10 COO, +5 INT +5 SAV
+- Movement: Foot 6 / 18
+- Senses: Normal, Motion-Sensitive
+- Size: Medium
+- Tags: Natural, Humanoid, Herder
+- Language Group: GR
+- Alert: Herders receive the Alert trait.
+
+#### Optional Background: Herder Tribal Community
+
+- 10 ranks in Fray
+- 10 ranks in Ranged Weapons
+- 10 ranks in one Social skill
+- 10 ranks in Survival
 
 ### Orcs
 
@@ -1455,60 +1506,58 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     one skin tone that is more common among them. Orcs also have
     prominent tusks.
 
-  - Vitals:
-    
-      - Old Age: 60 years
-      - Average Height: 2.2m
-      - Average Weight: 90kg
+#### Vitals
 
-  - Physically large an opposing, orcs seek honor and accomplishment in
-    all things.
-  - DUR 35, STR 35
-  - \+5 COG, +10 SOM, +5 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Orc
-  - Language Groups: HHED
-  - Hunter’s Senses: Orcs have acute senses of smell and hearing. They
-    receive +10 to auditory and olfactory perception tests.
-  - Regeneration: orcs have Fast Healing 1.
+Physically large an opposing, orcs seek honor and accomplishment in all things.
 
-  - Optional Background: Traditional Orcish Community
-    
-      - 10 ranks in Intimidate
-      - 10 ranks in any two Combat skills
-      - 1 weapon and 1 shield
+- Old Age: 60 years
+- Average Height: 2.2m
+- Average Weight: 90kg
+- Diet: Omnivore
 
-  - Optional Background: Commonwealth Orcish Community
-    
-      - 10 ranks in Protocol
-      - 10 ranks in one Combat skill
-      - 10 ranks in one Technical skill
-      - 1 weapon and 1 skill kit
+- DUR 35, STR 35
+- \+5 COG, +10 SOM, +5 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Low-Light, *Hunter's Senses*
+- Size: Medium, *Great Stature*
+- Tags: Natural, Humanoid, Orc
+- Language Groups: HHED
+- Hunter’s Senses: Orcs have acute senses of smell and hearing.
+  They receive +10 to auditory and olfactory perception tests.
+- Regeneration: orcs have Fast Healing 1.
 
-  - Cultural Weapon: Orcish Sabre
-    
-      - Orcs traditionally use a sword and shield when fighting. They
-        commonly use a large back-sword—a sword with one edge, because
-        they are easier to produce in large numbers. The tips are
-        commonly sharpened to a point, so that they may be used for
-        thrusting.
-        
-          - 2d10+4+DB, AP -2
-          - One-Handed, Sword
+#### Optional Background: Traditional Orcish Community
 
-  - Cultural Weapon: Orcish Sword
-    
-      - When Orcs fight as a unit, they use an unusual pole-arm. It
-        consists of double-sided, sword-like blade, perhaps 45cm long,
-        at the end of a pole 200cm long or more.
-    
-      - The sword-end sometimes also sports guard-like blades at its
-        base.
-    
-      - Pole-Arms: 2d10+6+DB, AP -2
-        
-          - Tags: Two-Handed, Brace, Reach
+- 10 ranks in Intimidate
+- 10 ranks in any two Combat skills
+- 1 weapon and 1 shield
+
+#### Optional Background: Commonwealth Orcish Community
+
+- 10 ranks in Protocol
+- 10 ranks in one Combat skill
+- 10 ranks in one Technical skill
+- 1 weapon and 1 skill kit
+
+#### Cultural Item: Orcish Sabre
+
+Orcs traditionally use a sword and shield when fighting.
+They commonly use a large sword with a single edge (because they are easier to produce in large numbers).
+The tips are commonly sharpened to a point, so that they may be used for thrusting.
+
+Tags: One-handed, Bladed, Cavalry, Close, Defensive, Well Suited: Maim
+
+Damage: 1d10+3+DB, AP: 1
+
+#### Cultural Item: Orcish Sword
+
+When Orcs fight as a unit, they use an unusual pole-arm.
+It consists of double-sided, sword-like blade, perhaps 45cm long, at the end of a pole 200cm long or more.
+The sword-end sometimes also sports guard-like blades at its base.
+
+Tags: Two-handed, Reach, Bladed, Fend, Formation, Brace, Heavy
+
+Damage: 2d10+2+DB, AP 2
 
 ### Ratfolk
 
@@ -1566,64 +1615,65 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
 
   - They commonly speak Haven Isles Ratfolk (language group GR).
 
-  - Vitals:
-    
-      - Old Age: 55 Years
-      - Average Height: 1.25m
-      - Average Weight: 34kg
+#### Vitals
 
-  - Traders and merchants, they tend to get along well with Halflings
-    and Gnolls (they’re one of few species that can eat Gnollish food
-    and speak Gnollish languages). Taking very well to settled urban
-    life, and growing very quickly.
-  - DUR 25, STR 20
-  - \+5 COG, +5 COO, +5 INT, +5 SAV
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Infra-Red, Scent
-  - Tags: Natural, Humanoid, Ratfolk
-  - Language Group: GR
-  - *Small*: Ratfolk are small
-  - *Scavengers*: Rat-Folk are resistant to food-borne diseases. They
-    receive +20 on checks against food-borne diseases.
+Traders and merchants, they tend to get along well with Halflings and Gnolls (they’re one of few species that can eat Gnollish food and speak Gnollish languages).
+Taking very well to settled urban life, and growing very quickly.
 
-  - Optional Background: Warren Isles Sea-Rat
-    
-      - The more sophisticated of the Shaded Sea People, Ratfolk are the
-        shipwrights and sailors of the alliance.
-      - They are still divided into Clan-oriented settlements, where
-        each Clan consists of several family, each of which will
-        maintain a warren and holdings.
-      - They are loosely confederated, amongst themselves and with Shade
-        Elves.
-      - 10 ranks in Intimidate
-      - 10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher
-      - 10 ranks in one combat skill
-      - one weapon (of Cost: Moderate)
-      - one Skill Kit
-      - Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.  Instead, they receive one dot in Shaded Sea Common and one dot in Shaded . They commonly speak Warren Isles Ratfolk (language group GR) natively.
+- Old Age: 55 Years
+- Average Height: 1.25m
+- Average Weight: 34kg
+- Diet: Omnivore (scavenger)
 
-  - Optional Background: Raptor’s Plane Ratfolk
-    
-      - The descendants of Ratfolk who fled Southward from their
-        cousins, settled on the Raptor’s Plane and ultimately allied
-        with the Raptors.
-      - They settled on the coasts and inland jungles closest to their
-        cousins, and continue to suffer heavy raiding.
-      - Inland, they live in large, underground settlements, carved into
-        the sides of rocky foothills.
-      - On the shores, where burrowing is impractical, they live in a
-        walled cities of a few thousand.
-      - Still socially-inclined and natural traders, they have opened
-        trade with the Commonwealth (and have been surprised to
-        encounter their distant cousins in the Commonwealth’s fleets).
-      - They still fish and trade along rivers and shores, although
-        Shaded Sea piracy makes this dangerous.
-      - 10 Ranks in Protocol
-      - 10 Ranks in one Combat skill
-      - 10 Ranks in one Trade Skill
-      - one weapon of Cost: Moderate
-      - one Skill Kit
-      - Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Raptor's Common. They usually speak Jungle Ratfolk as a native language.
+- DUR 25, STR 20
+- \+5 COG, +5 COO, +5 INT, +5 SAV
+- Movement: Foot 4 / 12
+- Senses: Normal, Infra-Red, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Ratfolk
+- Language Group: GR
+- *Scavengers*: Rat-Folk are resistant to food-borne diseases.
+  Theyvreceive +20 on checks against food-borne diseases.
+
+#### Optional Background: Warren Isles Sea-Rat
+
+The more sophisticated of the Shaded Sea People, Ratfolk are the shipwrights and sailors of the alliance.
+They are still divided into Clan-oriented settlements, where each Clan consists of several family, each of which will maintain a warren and holdings.
+They are loosely confederated, amongst themselves and with Shade Elves.
+
+- 10 ranks in Intimidate
+- 10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher
+- 10 ranks in one combat skill
+- one weapon (of Cost: Moderate)
+- one Skill Kit
+- Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.
+  Instead, they receive one dot in Shaded Sea Common and one dot in Shaded.
+  They commonly speak Warren Isles Ratfolk (language group GR) natively.
+
+#### Optional Background: Raptor’s Plane Ratfolk
+
+- The descendants of Ratfolk who fled Southward from their
+  cousins, settled on the Raptor’s Plane and ultimately allied
+  with the Raptors.
+- They settled on the coasts and inland jungles closest to their
+  cousins, and continue to suffer heavy raiding.
+- Inland, they live in large, underground settlements, carved into
+  the sides of rocky foothills.
+- On the shores, where burrowing is impractical, they live in a
+  walled cities of a few thousand.
+- Still socially-inclined and natural traders, they have opened
+  trade with the Commonwealth (and have been surprised to
+  encounter their distant cousins in the Commonwealth’s fleets).
+- They still fish and trade along rivers and shores, although
+  Shaded Sea piracy makes this dangerous.
+
+- 10 Ranks in Protocol
+- 10 Ranks in one Combat skill
+- 10 Ranks in one Trade Skill
+- one weapon of Cost: Moderate
+- one Skill Kit
+- Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Protectorate Standard.
+  They usually speak Protectorate Ratfolk as a native language.
 
 ### Shamblers
 
@@ -1649,41 +1699,33 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     light travelers; they therefore spawn many adventurers, explorers
     and wanderers.
 
-  - Vitals:
-    
-      - Old Age: Unknown
-      - Average Height: 1.8m
-      - Average Weight: 60kg
+#### Vitals
 
-  - Spirits bound to plants.
+Spirits bound to plants.
 
-  - DUR 35, STR 30
+- Old Age: -
+- Average Height: 1.8m
+- Average Weight: 60kg
+- Diet: Omnivore (preferential herbivore), *Rooting*
 
-  - \+10 INT, +5 SOM, +5 WIL
+- DUR 35, STR 30
+- \+10 INT, +5 SOM, +5 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Mage-Sight
+- Size: Medium
+- Tags: Supernatural, Humanoid, Shambler
+- Language Groups: HHED
+- *Rooting*: shamblers can *root*: when rooted, shamblers look more like natural trees (they may attempt a Disguise check to pass as a natural tree).
+  While rooted, Shamblers have Fast Healing 2.
+  - It is a one minute Task Action to either root or unroot.
+  - If a shambler roots for 1 hour (in a location with access to sunlight, in good soil), then they will not need to otherwise eat, sleep or drink for 24 hours.
 
-  - Movement: Foot 4 / 12
+#### Optional Background: Shambler Community
 
-  - Senses: Normal, Mage-Sight
-
-  - Tags: Supernatural, Humanoid, Shambler
-
-  - Language Groups: HHED
-
-  - *Rooting*: shamblers can *root*: when rooted, shamblers look more
-    like natural trees (they may attempt a Disguise check to pass as a
-    natural tree). While rooted, Shamblers have Fast Healing 2.
-    
-      - It is a one minute Task Action to either root or unroot.
-      - If a shambler roots for 1 hour (in a location with access to
-        sunlight, in good soil), then they will not need to otherwise
-        eat, sleep or drink for 24 hours.
-
-  - Optional Background: Shambler Community
-    
-      - 10 ranks in two Technical skills
-      - 10 ranks in Survival
-      - one Skill Kit
-      - one weapon (of Cost: Moderate)
+- 10 ranks in two Technical skills
+- 10 ranks in Survival
+- one Skill Kit
+- one weapon (of Cost: Moderate)
 
 ### Tempters
 
@@ -1700,11 +1742,13 @@ Shape-shifting spirits; charming and suave, but also frail.
 - Old Age: None
 - Average Height: by shape
 - Average Weight: by shape
+- Diet: by shape
 
 - DUR 25, STR 25
 - \+5 INT, +5 SAV, +5 WIL
 - Movement: Shape-Dependant (usually Foot 4/12)
 - Senses: Normal, Mage-Sight
+- Size: Shape-Dependant (restricted to Medium without the Master Shifter class)
 - Tags: Spirit, Shape-Shifter, Tempter
 - Language Group: Any
 - *Appearance of Flesh*: Even though Tempters are spirits, they are bound to the nature of flesh;they have a physical form, they can be wounded and killed, they can sicken, and they need to eat, drink, breath and sleep just like mortal beings.
@@ -1790,15 +1834,16 @@ In the past, these songs were entirely of their own creation, but in the modern 
 - Old age: 90 years
 - Average height: 1.2 meters
 - Average weight: 25 kilograms
+- Diet: Omnivore (fruit, flowers, seeds, nuts, insects)
 
 - Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
 - DUR 20, STR 20
 - \+5 COO, +5 INT, +10 SAV
 - Movement: Foot 3/9, Fly 4/12/48
 - Senses: Normal, Infrared
+- Size: Small
 - Tags: Natural, Humanoid, Avian, Brightfeathers
 - Language Group: Any
-- **Small**: Brightfeathers are small
 - **Natural Linguist**: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
 - **Acute Eyesight**: Brightfeathers recieve a +20 bonus to visual perception checks.
 - **Talons**: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
@@ -1813,20 +1858,24 @@ In the past, these songs were entirely of their own creation, but in the modern 
   - “First generation” elf-human hybrids often have no culture of their own; they are often born into an elven or human culture somewhere in the Commonwealth.
       - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site—if not precisely common, since they usually cannot reproduce themselves.
   - One of the few populations of non-sterile elf-human hybrids exists in the Kingdoms of Men: the Haffa.
-  - Vitals:
-      - Old Age: 160 years
-      - Average Height: 1.8m
-      - Average Weight: 60kg
 
-  - DUR 30, STR 30
-  - \+5 COG +5 COO +5 INT +5 SAV
-  - Movement: Foot 4/12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Human, Elf
-  - Language Group: HHED
-  - Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.
-  - Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
-  - Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
+#### Vitals
+
+- Old Age: 160 years
+- Average Height: 1.8m
+- Average Weight: 60kg
+- Diet: Omnivore
+
+- DUR 30, STR 30
+- \+5 COG +5 COO +5 INT +5 SAV
+- Movement: Foot 4/12
+- Senses: Normal, Low-Light
+- Size: Medium
+- Tags: Natural, Humanoid, Human, Elf
+- Language Group: HHED
+- Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.
+- Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
+- Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
 
 ### Foxfire
 
@@ -1958,33 +2007,35 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 
 ### Goblins
 
-  - These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
-    
-  - Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.
+- These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
+- Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.
 
-  - DUR 30, STR 30
+#### Vitals
 
-  - \+5 INT, +5 SOM, +5 WIL
+- Old Age: 50
+- Average height: 120cm
+- Average weight: 30kg
+- Diet: Omnivore (insects, fruit, eggs preferred; scavenger)
 
-  - Movement: Foot 4/12, Burrow 2/6
+- DUR 30, STR 30
+- \+5 INT, +5 SOM, +5 WIL
+- Movement: Foot 4/12, Burrow 2/6
+- Senses: Normal, Infrared, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Goblin
+- Language Groups: HHED, GR
+- Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor
+- Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.
 
-  - Senses: Normal, Infrared, Scent
+#### Optional Trait: Claws
 
-  - Tags: Natural, Humanoid, Goblin
+While all Goblins have large claws that allow them to tunnel, they are usually to awkward to be used as weapons.
+Yours, however, are particularly dangerous.
 
-  - Language Groups: HHED, GR
+You have claws:
 
-  - Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor
-
-  - Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.
-
-  - Optional Trait: Claws
-    
-      - While all Goblins have large claws that allow them to tunnel,
-        they are usually to awkward to be used as weapons. Yours,
-        however, are particularly dangerous. You have claws:
-      - 1d10+3+DB, AP -2
-      - one-handed, natural
+- 1d10+3+DB, AP -2
+- one-handed, natural
 
 ### Gremlins
 
@@ -2010,32 +2061,24 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 
       - Gremlins that *were* favored servants are likely to receive a cold reception in the Commonwealth, especially among the small communities of Goblins and Gremlins that have settled in free lands, since other Goblin and Gremlin communities in the Commonwealth are likely to view them as traitors, collaborators and thugs.
   
-  - Vitals:
-      - Old Age: 50 years
-      - Average Height: 1.1m
-      - Average Weight: 25kg
+#### Vitals
 
-  - DUR 25, STR 25
+- Old Age: 50 years
+- Average Height: 1.1m
+- Average Weight: 25kg
+- Diet: Carnivore
 
-  - \+5 COO, +10 INT, +5 SAV
-
-  - Movement: Climb 2/6, Foot 3/9
-
-  - Senses: Normal, Low-Light, Motion, Scent
-
-  - Tags: Natural, Humanoid, Gremlin
-
-  - Language Groups: GR
-
-  - Size: Gremlins are Small
-
-  - Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.
-
-  - Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
-
-      - Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.
-
-  - Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
+- DUR 25, STR 25
+- \+5 COO, +10 INT, +5 SAV
+- Movement: Climb 2/6, Foot 3/9
+- Senses: Normal, Low-Light, Motion, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Gremlin
+- Language Groups: GR
+- Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.
+- Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
+  - Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.
+- Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
 
 ### Minotaur
 
@@ -2088,7 +2131,7 @@ The heavy burden also prevents the Minotaurs from properly manning or maintainin
 - \+5 INT, \+10 SOM, \+5 WIL
 - Movement: Walking 5/15/25
 - Senses: Normal
-- Size: Medium
+- Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Minotaur
 - Language Groups: GR
 - *Momentum*: A minotaur in motion can cause frightening damage.
@@ -2255,46 +2298,38 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
 
 ### Raptors
 
-  - These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.
+- These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.
+- They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.
+- Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.
+- They have powerful legs and nasty claws, and are natural climbers and leapers.
+- Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.
+- Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.
+- Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.
 
-  - They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.
+#### Vitals
 
-  - Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.
+- Old Age: 50 years
+- Average Height: 1.65m
+- Average Weight: 45kg
+- Diet: Omnivore (preferential carnivore)
 
-  - They have powerful legs and nasty claws, and are natural climbers and leapers.
-
-  - Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.
-
-  - Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.
-
-  - Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.
-
-  - Vitals:
-    
-      - Old Age: 50 years
-      - Average Height: 1.65m
-      - Average Weight: 45kg
-
-  - DUR 30, STR 35
-
-  - \+5 COO, +5 INT, +5 SAV, +5 SOM
-
-  - Movement: Foot 5 / 15, Leap 5 / 15
-
-  - Senses: Normal, Scent
-
-  - Tags: Natural, Humanoid, Saurian, Raptor
-
-  - Language Group: DDK
-
-  - Scales: Raptors are covered in small scales; these provide them +1 Armor.
-
-  - Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above. The have the following natural weapon:
-    
-      - Unarmed Attack, 1D10+2+DB DV, AP 2. Tags: Natural, Grab, Awkward Placement: Legs
-      - Special: Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.
-      - Special: Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
-        When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.
+- DUR 30, STR 35
+- \+5 COO, +5 INT, +5 SAV, +5 SOM
+- Movement: Foot 5 / 15, Leap 5 / 15
+- Senses: Normal, Scent
+- Size: Medium
+- Tags: Natural, Humanoid, Saurian, Raptor
+- Language Group: DDK
+- Scales: Raptors are covered in small scales; these provide them +1 Armor.
+- Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above.
+  They have the following natural weapon:
+  - Unarmed Attack, 1D10+2+DB DV, AP 2.
+    Tags: Natural, *Grab*, Well Suited: Pounce, *Awkward Placement*
+  - Special: **Awkward Placement**
+    Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.
+  - Special: **Grab**
+    Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
+    When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.
 
 ### Washers
 
@@ -2311,16 +2346,18 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
       - Today, the Washer’s territory defines the border between the Raptor’s Alliance and the Goblinoid territories.
   - Washers have an impish sense of humor.
 
-**Vitals**
+#### Vitals
 
 - Old Age: 50 years
 - Average Height: 0.8m
 - Average Weight: 21kg
+- Diet: Omnivore
 
 - DUR 20, STR 20
 - \+5 COG +10 COO +5 SAV
 - Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12
 - Senses: Normal, Acute Touch
+- Size: Small
 - Tags: Natural, Humanoid, Procyonid, Washers
 - Language Group: GR
 - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
@@ -2363,18 +2400,21 @@ Those traders who do encounter these rare creatures should be advised: Bone Spid
 Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
 Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
 
-**Vitals**
+#### Vitals
+
+Strange, spider-like creatures from a distant island.
 
 - Old Age: 125 years
 - Average Height: 0.5m
 - Average Length: 2.0m
 - Average Weight: 75kg
+- Diet: Omnivore (preferential carnivore)
 
-- Strange, spider-like creatures from a distant island.
 - DUR 35, STR 30
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
 - Senses: Normal
+- Size: Medium
 - Tags: Natural, Hexapod, Bone Spider
 - Language Group: HHED
 - Aquatic: Bone Spiders can breath underwater.
