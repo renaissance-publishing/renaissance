@@ -140,4 +140,4 @@ Some limits always apply. Characters may not have:
 - You can never have more than 70 ranks in a skill.
 - You can never have an aptitude higher than 40 (any excess is wasted).
 - You can never have more than 10 Luck.
-- You can never have mroe than 50 DUR or STR.
+- You can never have more than 50 DUR or STR.
