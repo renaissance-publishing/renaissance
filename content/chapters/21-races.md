@@ -1786,6 +1786,134 @@ In the past, these songs were entirely of their own creation, but in the modern 
   - Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
   - Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
 
+### Foxfire
+
+Foxfire are race of spirits native to a large stretch of forest in the southeast Emerald Plane; in particular, they are closely associated with a fruit-tree common in that forest, similar to a peach tree.
+Like Shamblers and Tempters, Foxfire are neither incomprehensible and powerful Great Spirits nor minor, flickering magical creatures; instead, they are, in some ways, rough peers to mortal races.
+Notably, they do not have a Great Spirit patron or powerful ally; because of this, they are as vulnerable to mortal conquest as any other small civiliation would be.
+Because of this, they have falled under the dominion of the Shaded Sea, and suffered greatly.
+
+Foxfire are striking — and, some would say, soothing — to behold.
+They are roughy bipedal in shape — they are laid out rougly like Humans and Gnolls are — but they are composed of a diffuse, softly-luminous green material, sometimes compared to an emerald fire or a swirl of luminous green smoke.
+They do not have a well-defined surface, like a creature of skin or scales; instead, they are composed of a slightly deiffuse, thick material.
+This material resists objects the further "in" they go; in order for them to grip or push something, the object must "submerge" slightly, to a depth about equal to the thickness of 6 sheets of paper.
+(The sensation of touching a Foxfire has been described as being "somewhat like animal down," like "thick cream covering batter or dough," like "touching the bottom of a bowl of porridge," or "like moss on a rock just barely submerged in a brook.")
+
+Unlike many flesh-and-blood races, they are also slightly "elastic": they can be slightly compressed or stretched, without doing them any harm or causing them any pain.
+This means that they may sometimes "deform" slightly from their neutral state; when carrying a heavy load, for example, they may slightly "squash", or their arms might be slightly "stretched".
+They are cooler to the touch than Humans and Gnolls are, although, like those races, they maintain their own "body-temperature" in different environments.
+In their neutral state, they are mostly dark green and dogwood-grey, and they glow with a soft, deep-green light.
+
+They are not restricted to their "neutral" state.
+Instead, each one possesses three "natures"; one follows from the forrest that is their Basin, and the other two appear to be inherited.
+A great many natures have been observed; even they likely do not know how many there are.
+A Foxfire can freely adopt either of its natures or return to its "neutral" state.
+
+The Foxfire's basin is the forest that they inhabit; they have particular influence over the fruit-trees common in those woods, and they have some influence in other forrests and on other fruit-trees.
+They are sometimes called "orchard-spirits," because, in centuries passed, the people who lived in the surrounding areas would pay them to bless their orchards.
+If separated from their forests, they become increasingly sick and weak; while this effect will not kill them directly, it will eventually render them too weak and delirious to function, in a state much like a deadly fever.
+
+It is their powers over orchards that the Shaded Sea values.
+The Foxfire's forest is near the north-center of the Shaded Sea — near the Shade Elves to the west, and the border with Weswtward Province to the north.
+The Shade Elves have made slaves of the Foxfire, demanding that the spirits travel throughout the Shaded Sea and bless their master's orchards — on pain of having their forest raized and salted.
+
+Their dependance on their forest makes them particularly difficult to liberate.
+Many other of the Shade Elves' "client peoples" can in principle be smuggled to freedom; if the High Road secrets a Minotaur across the border, they are then free in the Commonwealth.
+This is not true of the Foxfire; they might be brought to freedom, but they must eventually return to their forest in the Shaded Sea, and to subjugation.
+And where they to attempt a rebellion, their forest would be burned to the ground, and their basin destroyed.
+
+> Track: I saw one of these in Northland, and it was *adorable!*
+> 
+> Notebook: That is not a very dignified way to describe it.
+> 
+> Fire: What was it doing in Northland?
+>
+> Track: I assume it was there with the High Road.
+> I hope so, anyway.
+> The High Road are trying to figure out how to let the Foxfire leave their forests without slowly withering away.
+>
+> Venn: Father Cypress can help there.
+> He believes he can bind them to our lands, if they bring him a living cutting from one of their peach trees.
+>
+> Chandra: Operatives of the High Road have also pleaded their case to the Bullrush God; if it could create *us* \[the Drakes\], it might be able to help them.
+>
+> Fire: That's a little dangerous, though, isn't it?
+> If the Bullrush God orders the Drakes to liberate the Foxfire, that could get… ugly.
+>
+> Chandra: It could, but we've got at most a decade befre it "gets ugly" with the Shaded Sea, no matter what.
+> We're *going* to ally with the Raptor Protectorate, and when we do, we'll be at war with the Goblin Empire and the Shaded Sea.
+> And when that happens, we should have a plan for the Foxfire.
+>
+> Venn: Well, then *someone* needs to go get that clipping, hmm?
+
+#### Vitals
+
+- Old Age: -
+- Average height: 140cm
+- Average weight: 40kg
+- Basin: Foxfire Forest (esp. Peachtrees)
+
+- Foxfire are semi-material forest spirits that glow a deep green and can manifest various *natures*.
+- DUR 25, STR 25
+- \+ 5 COO, \+5 INT, +5 SAV
+- Movement: Walking 5/15
+- Senses: Normal, Mage-Sight
+- Size: Medium
+- Tags: Spirit, Humanoid, Foxfire
+- Language Groups: GH
+- Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly *deformable* — the can "stretch," "bend" and "squash" very slighty.
+  - This gives them a +10 bonus to checks when being highly flexible would be an advantage — such as Athletics checks to fit through cramped spaces or Stealth checks to hide.
+- Forest-Flow: Foxfire can move through forests (and orchards) with incredible grace.
+  They do not treat forests and orchards as difficult terrain.
+- Glow: Foxfire glow gently, producing light like a (green) torch.
+  This is can be useful at night, but also makes hiding *difficult* (-30 penalty) if not impossible.
+- Natures: Foxfire have three natures; one comes from the forest that is their basin, and normally inherit the other two, usually one from each parent.
+  - When you roll your Foxfire, select a *regional* nature two other natures from the list below.
+  - *Adopting* a nature (or returning to your standard form) is a Quick Action.
+    (Note: This not a *sustained* action.
+    Switching is a single Quick Action.)
+
+- **Catfish**
+  - *Catfish* Foxfire show a slightly blue, scale-less skin, and gain *barbells* around their mouths.
+    Conscripted *Catfish* Foxfire have been deployed on the Ruby Plane to hunt down Hasidisee and to infiltrate Protectorate Ratfolk villages.
+  - While using this nature, the Foxfire:
+    - Gain a swim speed equal to their Walk speed, and can breath underwater.
+    - While underwater, they gain the *Acute Hearing* (+20) and *Acute Smell* (+20) sensory modifiers.
+    - Gains +5 INT
+- **Coyote**
+- **Fire**
+- **Hare**
+  - *Hares* are alert and quick.
+  - While using this nature, the Foxfire:
+    - gets one size smaller (so a Medium Foxfire would become Small).
+    - gains +1/+3 to their Walking Movement.
+    - gains the *acute hearing* sensory modifier (+20 hearing).
+    - gains +5 COO and +5 INT
+- **Mountain Lion**
+  - Mountain Lion Foxfire are among the Foxfire's few natural warriors.
+    The Shaded Sea destroy have attempted to exterminate all the Mountain Lion Foxfire, but a few are still born.
+  - While using this nature:
+    - The Foxfire's surface becomes a dull ochre, and masks their glow (negating the *Glow* trait).
+    - The Foxfire gains +5 SOM and +5 COO.
+    - The Foxfire gains *claws* on their hands and feet that deal 1d10+2 DV and have AP -2.
+- **Pine**
+- **Squirrel**
+- **Stone**
+  - *Stone* Foxfire are exceptionally durable.
+  - While using this nature, the Foxfire:
+    - Gains +10 DUR, +5 STR, and 4 Armor.
+    - Gains +5 SOM
+    - Reduces their Walk speed by -1/-3
+- **Sunlight**
+- **Water**
+  - Water Foxfire become clear and liguid, like living water.
+  - While using this nature, the Foxfire:
+    - Gains a swim speed equal to their walking speed.
+    - Can breath underwater.
+    - Gains +5 COO
+    - Gains Resistance: Physical Damage (halved)
+- **Willow**
+
 ### Goblins
 
   - These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
@@ -1867,6 +1995,63 @@ In the past, these songs were entirely of their own creation, but in the modern 
 
   - Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
 
+### Minotaur
+
+Minotaurs are a large, durable race of cattle-like bipeds.
+They largely follow a typical bipedal layout, although with many cattle-like features: they are covered in short fur, with patterns like cattle; they have cloven hooves; their heads resemble those of cattle, including horns; and they have small tails.
+
+Minotaurs originate from the southeastern Emerald Plane, in territory that is now controlled by the Shaded Sea Peoples.
+They have been in conflict with the shade elves since at least the time of the First Charter, and have been tributaries and subjects of the Shade Elves since CY 491.
+As with most tributaries of the Shaded Sea, the Shade Elves do not occupy, fortify or directly control the Minotaurs; instead, they demand a heavy tribute, and force obedience under threat of brutal and devastating reprisal — pay the tribute in its entirity or have your villages and fields razed.
+
+Today, this tribute inclues a heavy levy, requiring that the Mintaurs surrender many of their fittest young adults for service in the Shade Elf military.
+This serves a double purpose, allowing the Shaded Sea access to a powerful race, and depriving the Minotaurs themselves of their best fighters; for this later reason, conscripted Minotaurs are almost never allowed to return home.
+Many die in combat; those that don't are put to use as laborers elsewhere in the Shaded Sea or sold into slavery elsewhere.
+
+Obviously, this arrangement has done significant damage to Minotaur society.
+Centuries ago, they where herders and farmers who showed a flair for masonry and stonework in their early urban construction; today, their masonry is poorly maintained and their villages small, overpopulated and poor — with a particular lack of able-bodied young males.
+They suffer from poverty, lack of food, and lack of labor; besides yielding a portion of their own grain harvest, they are forced to herd animals and tend orchards to produce food that they cannot eat for their Shaded Sea masters.
+The heavy burden also prevents the Minotaurs from properly manning or maintaining their defences — a situation encouraged by the Shade Elves, the better to keep the Minotaurs under control.
+
+> Aryn: I saw a Minotaur gladiator in the Eastern Kingdoms.
+> She was intimidating.
+> And terse.
+> I was a fan!
+>
+> River: Hah!
+> I knew you where involved in that business in Hate's Hold!
+> *Clever* owes me half a gold.
+>
+> Notebook: Interestingly, some percentage of Minotaur females are born "masculinized."
+> They are sterile, large, and aggressive.
+> I wonder if the Minotaur you saw was one of those?
+>
+> *Sulek:* No, she's just that determined.
+>
+> Aryn: Oh, hi Sulek.
+> How are things going with the Minotaurs?
+>
+> *Sulek:* Proceeding.
+> You know *Oi-Li* and me, we're patient.
+
+#### Vitals
+
+- Old Age: 55 years
+- Average height: 240cm
+- Average weight: 130kg
+- Diet: Herbivore (Grasses and Grains)
+
+- Minotaurs are massive, heavily-built and strong.
+- DUR 40, STR 40
+- \+5 INT, \+10 SOM, \+5 WIL
+- Movement: Walking 5/15/25
+- Senses: Normal
+- Size: Medium
+- Tags: Natural, Humanoid, Minotaur
+- Language Groups: GR
+- *Momentum*: A minotaur in motion can cause frightening damage.
+  If they reach their maximum speed, they deal \+DB DV when charging; GMs may also award appropriate bonuses on some strikes and maneuvers, like *Knockdown*.
+
 ### Mud-Skippers
 
 The Hasidisee were first encountered by commonwealth explorers some time after the discovery of other neighbouring races.
@@ -1927,12 +2112,14 @@ They speak of aquifers and vast underground lakes, and it's suggested that their
 - Old Age: 60 years
 - Average height: 160cm
 - Average weight: 50kg
+- Diet: Omnivore (fish, aquatic insects, aquatic plants)
 
 - Mud-Skippers are vibrant and energetic, but also traditional, isolationist and mysterious.
 - DUR 25, STR 20
 - +5 COG, +5 INT, +5 WIL
 - Movement: Swim 5/15, Foot 3/9, Slither 3/9
 - Senses: Normal, Life-Sense, Low-Light
+- Size: Medium
 - Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
 - Language Groups: MS, *Mute out of water*
 - *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
