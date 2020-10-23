@@ -1058,9 +1058,8 @@ AP: 4
 
 ### Raven’s Beak
 
-Similar to a warhammer, but with a much longer shaft, larger head and,
-customarily, a hook opposite the hammer-head, the Raven’s Beak is a
-devastating weapon when used against a heavily-armored opponent.
+Similar to a warhammer, but with a much longer shaft, larger head and, customarily, a hook opposite the hammer-head.
+The Raven’s Beak is a devastating weapon when used against a heavily-armored opponent.
 
 Tags: Blunt, Two-Handed, Reach, Heavy, Well Suited: Dismount
 
@@ -1068,16 +1067,29 @@ Damage: 1D10+4+DB
 
 AP: 6
 
+### Throatcatcher
+
+A polearm used extensively by slaveholding cultures to capture new "stock".
+The weapon consists of a horseshoe-shaped hoop at the end of a long shaft, and is designed to nonlethally restrain the target.
+In the Commonwealth, they are commonly used to move prisoners, and are designed to be non-lethal, and have blunted parrying surfaces.
+The Goblin Empire and Shaded Sea use more dangerous variants of the weapon, equipped with blunted spikes inside the hoop, and angular blades for parrying.
+They also use versions with different sized "heads" for use with different races.
+
+The weapon is viewed as something of a symbol for *Gremlins*.
+Because of their small size, they are swift riders; because of this, they are often dispatched mounted to run down the Goblin's retreating enemies, cutting them down or capturing them as slaves.
+Throatcatchers are commonly used during these pursuits.
+
+Tags: Two-Handed, Reach, Fend, Vulnerable, Well Suited: Subdue.
+
+Damage: 1d10+2+DB (Commonwealth variant); 1d10+3+DB, +1d10/2 per round subdued (Goblin and Shade Elf variants)
+
+AP: -
+
 ## Ranged Weapons
 
-Ever since the first fight, the peoples of the Emerald Plane have been
-coming up with better ways to end fights from further and further away.
-From primitive slings and throwing spears to modern crossbows and
-gunpowder weapons, ranged weapons are useful for killing opponents
-before they can kill you. Though many older ranged weapons require quite
-a lot of strength to use, some newer ranged weapons don't rely as much
-on the wielder's strength, instead using mechanical or chemical energy
-to drive a projectile.
+Ever since the first fight, the peoples of the Emerald Plane have been coming up with better ways to end fights from further and further away.
+From primitive slings and throwing spears to modern crossbows and gunpowder weapons, ranged weapons are useful for killing opponents before they can kill you.
+Though many older ranged weapons require quite a lot of strength to use, some newer ranged weapons don't rely as much on the wielder's strength, instead using mechanical or chemical energy to drive a projectile.
 
 ### Light Bow
 
