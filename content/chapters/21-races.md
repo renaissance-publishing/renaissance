@@ -1017,6 +1017,48 @@ Some day-wraps may be woven in complex patterns or richly died; many Clans and H
 - Day-wraps work by shading the eyes from the sun; they are ineffective against lights at eye-level.
 - Day-Wraps are Cost: Trivial
 
+#### Cultural Item: Deep-Explorer's Knife
+
+*This weapon is a variant weapon.  It is similar to the Longsword, but deals slightly more one-handed damage (and slightly less two-handed damage), and gains Well Suited: Mighty Blow (and soak) in echange for Poorly Suited: Strike Armor Gap.*
+
+Many Deep-Explorers weild a characteristic sword designed for use from salamander-back in close quarters.
+They are long, broad-bladed, have a single cutting edge and are weighted towards the far end.
+Although the grip is slightly small for it, the Deep-Explorer's Knife can also be wielded in two hands for better leverage.
+
+Tags: One-handed, Two-handed, Bladed, Close, Difficult, Heavy, Soak, Poorly Suited: Strike Armor Gap, Well Suited: Mighty Blow
+
+Damage: 1d10+5+DB (one-handed), 2d10-1+DB (two-handed)
+
+AP: 2
+
+#### Cultural Item: Repeating Crossbow
+
+Deep-Explorer Dwarves use a type of repeating crossbow designed to exploit their access to exotic venoms and perform well in the tight, narrow, curling tunnels of their homes.
+It fires rapidly by levering the firing mechanism back-and-forth under the stock; it stores bolts in a "hopper" on top of the weapon, and uses their own weight to feed them; and it re-stringing the bow on the backstroke.
+While this mechanism cannot draw the bow to any great weight, it can be used to rapidly fire a hail of bolts.
+
+These weapons are short-barreled and low-powered; instead of the high-damage and effective armor-penetration of other crossbows, they rely on volume of fire and poisoned bolts for effectiveness.
+
+Tags: Two-handed, Ranged, Prone, Reload, Rapid-Fire, Soak
+
+Damage 1D10+1
+
+AP: 2
+
+Reload: Quick Action per bolt
+
+Special: Magazine.  Repeating Crossbows have a fixed *hopper* or *magazine* on top of the weapon.
+Bolts are placed into the top of the box to load the weapon, and their own weight causes them to fall through the bottom into the weapon.  In effect, the crossbow reloads itself from the *hopper* as it fires, and the user need only reload the *hopper* after it is empty.  The magazines typically have a capacity of 10 bolts.
+
+Special: The weapon continues to fire as long as the catch is depressed.
+The bolt can be "tapped" to fire a single bolt, given a *short* squeeze to fire several bolts, or held down to fire all the bolts in the magazine.
+
+When firing the crossbow, choose wether to *tap* the trigger, give it a *short squeeze*, or *empty the magazine*, and use the following modifiers:
+
+- a *tap* first a single bolt and functions normally.
+- a *short* squeeze uses up to 3 bolts; if all three are fired, deals \+1d10 DV, and gains +10 to the attack check.
+- a *long* squeeze uses up to 10 bolts; if at least five are fired, deals \+3d10 DV, and gains +20 to the attack check.
+
 #### Optional Trait: Mind-Sharing
 
 You have a *Fahra* symbiote; this allows you to share parts of your mind with other Mind-Sharing Dwarves nearby, and for them to share their minds with you.
