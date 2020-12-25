@@ -69,24 +69,61 @@ Besides adding several new peoples as members, it divided the Commonwealth into 
 
 The influence of the culture of the Empire of Man can still be seen in Heartland Province.
 Especially in the east, ancient cities constructed by Human settles from the Empire still stand.
-The language, Weal, is derived from the ancient language of the Empire of Man — although it has changed greatly.
+The language, Weal, is derived from the ancient language of the Empire of Man — although it has changed significantly.
 However, this ancient culture has changed radically over the centuries — sometimes dramatically and quickly, as new races and cultures joined the Commonwealth.
 
 The large cities of Heartland Province can be almost dizzyingly diverse.
 In them, one can find representatives of nearly every race of the Emerald Plane.
-Humans are the majority, Halflings are common, and Ratfolk and Kobolds are growing in numbers; however, there are always representatives from countless stranger and rarer races.
+Humans are the majority there, Halflings are common, and Ratfolk and Kobolds populations are growing rapidly; however, there are always representatives from countless rarer races and cultures.
 
-The Empire of Man were known for a unique and sophisticated style of urban construction, featuring walled cities with regular streets, buildings of dressed stone, and sophisticated sewerage systems; over the centuries, with the aid of new races and members, the Commonwealth has only improved on these designs.
+> *River:* That's what I love about Heartland Province; you can find anyone and anything here.
+> In Saint-Silver City, where I'm from, there's a restaraunt run by a member of race like a giant mantis.
+> They'll pickle or ferment almost anything — they have the most delicious-
+>
+> *Track:* Thank you, River, we get the point.
+
+The Empire of Man were known for a unique and sophisticated style of urban construction, featuring sophisticated masonry, strong city-walls, regular streets laid out in a grid, buildings of dressed stone, and sophisticated sewerage systems.
+Early in its history, this kind of construction was common in Heartland, but, over the centuries, as new races and cultures have been incorporated and new technologies and designs have been developed, urban construction has become more varied and sophisticated.
+Cities in the interior of Heartland are unlikely to face invasion or threat, and are thus less likely to have prominant city walls.
+Urban construction has also become quite sophisticated, with free-standing supports and sophisticated arch designs making it possible to construct buildings with high ceilings, thin walls and wide windows.
+Mosaics have always been common in Heartland, with public spaces often feature tile mosaics on the floors and walls; as the region has grown rich and prosperous, and as other cultures have been incorporated, many other artforms have become common.
+Within the last two centuries, frescoes have become particularly common, and often adorn public buildings, temples, and the homes of the wealthy.
+Public performance is also extremely common in Heartland, with street-musicians, recitation, and theatre being common.
 
 ### Law and Government
 
-Though some other provinces have sophisticated governments or administrations, Heartland Province is still organized much as it always was — as a vast network of cities, manors, hamlets and freeholds
+Though some other provinces have sophisticated governments or administrations, Heartland Province is still organized much as it always has been — as a vast network of cities, manors, hamlets and freeholds
 Each must comply with the Commonwealth Compact; a number of other agreements are also commonly in effect, the better to govern and administer the territory; beyond these agreements, however, each manor is only ruled by the city-seat that granted its charter, and each city-seat is a peer and a law unto itself.
 
-The law in Heartland can be extremely complex.
+Law in Heartland can be extremely complex.
 Each city has its own unique blend of common law, civil law, contract and custom.
-Navigating this web of custom and treaty can be extremely complicated — although, since the wealth of the Commonwealth was built on trade, most cities and manors adapt laws and customs designed to smooth trade and accommodate travellers, traders and visitors.
+Navigating this web of custom and treaty can be extremely complicated — although, since the wealth of the Commonwealth was built on trade, most cities and manors adopt laws and customs designed to smooth trade and accommodate travellers, traders and visitors.
 (For example, since Commonwealth Charter, the maximum penalty for all but high crimes is expulsion from the city or manor.)
+
+Most manors have *law-boards* at prominant entrances, summarizing important (or surprising) elements of local law.
+Travellors are well-advised to consult these boards: the law in most manors is unsurprising, but some have can have unusual customs and obligations.
+
+### Major Spirit: Saint Silver
+
+**Basin:** Markets, Trade, Roads, Architecture, Crafts
+
+**Manifestation:** A young Halfling male with light sandy skin and short, dark hair.
+
+**Propitiation:** Coins are given at offering boxes at market entrances; coins left on window-cills, threshold or fence-posts, as cherity; small ammounts of valuable commodities are burned, including spices, wheat and flour.
+
+**Binds:** None known.
+
+**Symbols:** Coins, Wheat, Emerald Cloth, scales.  His colors are silver, emerald and gold.
+
+Saint Silver was a halfling merchant who lived in the early Commonwealth; he was born in Year-of-the-Old-Empire 283, and was was a young, independant trader in YOE 304, when the Old Charter (as it is now called) was signed.
+Saint Silver was an active supporter of the Old Charter, and embraced his new Gnollish neighbors.
+He traded actively among Human, Halfling, and the nascent Gnollish communities; he was an early supporter for unity, equality, cooperation and trade between the communities, and supported closer integration throughout his life.
+By the end of his life in YOE 407, he had earned close friends and great respect amongst all three communities, and could take pride in having been an integral part of the success of the early Charter; upon his death, he was Elevated by Sena, Mother-Market and Sellem, Witness to Contracts, and given as his basin the markets, fields and roads of the forming Commonwealth.
+
+Today, Saint Silver is associated with markets as a benevolant force, tying communities together in trade and seeing to the propserity of all.
+Icons of Saint Silver can be found in markets throughout the Commonwealth, but are especially common and prominent in Heartland Province.
+He is also associated with skilled work and crafts, and is often honored in guild-halls; he is also associated with charity, and many of his rituals and feasts involve the giving of alms for the poor.
+He is also commonly revered by many Halfling, for perhaps obvious reasons; his symbols have also become common among the mercantile Ratfolk of the Commonwealth, who picked up his rituals from the Halfling traders with whome they have frequent contact.
 
 ## Dragonshire Province
 
@@ -143,7 +180,7 @@ Through this time, the Commonwealth and Dragonshire remained powerful allies.
 
 Over time, power in the Dragonshire has tended away from the nobility, and towards the general populace.
 
-In CY 177, the elites of Forge-of-the-Mountaineers — its wealthy guildsmen, landlords and land-holders, and clergy — formed the Steel Council, to concentrate their political power when dealing with the Lord Steel; they where careful not to overstep their bounds too far, and the Lord Steel shrewdly considered their "council."
+In CY 177, the elites of Forge-of-the-Mountaineers — its wealthy guildsmen, landlords and land-holders, and clergy — formed the Steel Council, to concentrate their political power when dealing with the Lord Steel; they where careful not to overstep their bounds, and the Lord Steel shrewdly considered their "council."
 In the following years, more "Freeman's Councils" where formed — and met with greater and lesser degrees of acceptance, depending on how bold they where, and how accommodating the local Lords where.
 In CY 197, Karrach issued the Free-Council Decree, which formally granted the elite of his territories the right to form Freeman's Councils — and spelled out what conditions those councils had to meet, and what obligations the Lords did and did not have to them.
 
@@ -164,7 +201,25 @@ The Parliament consisted of three chambers: the Noble's Chamber, representing th
 
 ### Major City: Stormsword's Rest
 
-### Major Spirit: 
+### Major Spirit: The Bullrush God
+
+**Basin:** Unknown.  It was able to manipulate Dragon eggs to create the Drakes, and it apparently has use of land and a title.
+
+**Manifestation:** Unknown, as it almost never manifests.  It appeared to Karrach in the form of a Drake.
+
+**Propitiation:** Unknown, as it almost never seeks or accepts offerings.  The price it asked of Karrach was several *demarc* of marshland and a noble title.
+
+**Binds:** None known.
+
+The spirit responsible for the creation of the Drakes referred to itself with a number of names, among them *the Bulrush God*, *the Rainstorm Shepherd* and *the Osprey’s Father*.
+After Karrach began searching for a spirit that would aid him in the creation of a *people*, the Bulrush God approached him in the form of a Drake; it offered him a people in that image, in exchange only for a stretch of swampland and a noble title.
+Karrach met his price, and the Drakes were created.
+
+It is unknown why the Bulrush God wanted to own a marsh — or why it cared if Karrach recognized that ownership, if that area had already been its Basin, as some claim; nor is there any obvious reason why a Great Spirit should want to also be a Count.
+It is unknown if it has any wants, rituals, or binds; it is also unknown what its basin is, although it is clearly such that the Bullrush God could aid in the creation of the Drakes.
+Since being granted its title and domain, it has sought no further contact with mortals, and has made no further desires known.
+
+The Dragonshire zealously guards the territory granted to the Bulrush God, even though it did not specifically tell them to do so, out of concern for what it *might* do should its lands be invaded; when dealing with a spirit as powerful and mysterious as the Bulrush God, such precautions are wise.
 
 ## Northland Province
 
