@@ -25,6 +25,7 @@ Abilities here but not in Character Creation
 A *Bahla* is a small animal much like a rabbit — except that it's larger, about the size of a large cat; wooly like a sheep; and more social and docile.
 Bahla live in groups of 9 to 12; some kinds of bahla live in burrows, while others live in larger flocks.
 Washers often kept bahlas as pets, and herded them for wool and meat; after the loss of their homeland, some washers carried the creatures into exile in the Protectorate.
+Populations of wiled Bahla still roam in the hilly uplands of the western Ruby Plane.
 
 | COG | COO | INT | SAV | SOM  | WIL |
 | --- | --- | --- | --- | ---- | --- |
@@ -441,15 +442,16 @@ Background may need tweaking; I want this to be funny, not dark.
 
 ### Pack Cat
 
-These unusual creatures are distant relatives of other big cats.
-At first glance they look something like a white-furred mountain lion, though they are leaner, have a narrower stance and are long-legged--and their front legs are slightly higher than their back legs.
-Their muzzles are also slightly longer and narrower than other cats, giving them a look slightly more like a wolf.
+These unusual creatures are distant relatives of other big cats, particularly mountain lions.
+At first glance they look something like a white-furred mountain lion, although there are subtle differences; they are slightly smaller and leaner, they have a narrower stance, and their legs are slightly longer — with their front legs being slightly higher than their back legs.
+Their muzzles are also slightly longer and narrower than other cats, giving their heads a slightly different profile.
 
-Their greatest difference between the *pack-cat* and other cats is their social behaviors; they are social animals, living communally in large packs.
-They are hunters and scavengers, and will cooperate to bring down game or defend a claimed kill.
+Perhaps the most important difference between *pack-cats* and other cats, however, is their social nature; they live in large packs, ranging from 10 to 20, and demonstrate complex social heirarchies, and cooperate socially to accomplish most tasks.
+They are hunters and scavengers, and will work as a pack to brind down large pray, to defend kills, and to drive over large predators away from kills.
+They also participate in social rearing, cooperating to raise the pack's young.
 
-The cultures of the snowy north have long-since domesticated these creatures.
-They are kept as pets, work-animals, hunters and war-animals; they are kept by Orcs especially.
+The cultures of the snowy north have long-since domesticated these creatures; they are kept as pets, work-animals, hunters and war-animals.
+They are particularly common in Orcish communities, where some breeds have very long histories with certain communities or clans.
 
 |          |     |      |     |     |          |
 | -------- | --- | ---- | --- | --- | -------- |
