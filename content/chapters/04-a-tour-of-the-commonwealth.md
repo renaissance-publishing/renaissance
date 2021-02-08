@@ -18,10 +18,11 @@ It is the birthplace of the Commonwealth, and remains a center of its wealth and
 |
 |---
 |
-|#### Major City: Saint-Silver City
+|Population: 150M
 |
-|Saint-Silver City is a city of more than six-hundred thousand in the south-west of Heartland Province.
-|Saint-Silver is known for its bustling markets, its cosmopolitan people, and 
+|Common Languages: Weal, Heartland Gnoll, Autumn Caravaneer, *more*
+|
+|Common Races: Human (40%), Gnoll (45%), Halfling (10%), *more*
 
 ### A History
 
@@ -90,12 +91,13 @@ Humans are the majority there, Halflings are common, and Ratfolk and Kobolds pop
 
 The Empire of Man were known for a unique and sophisticated style of urban construction, featuring sophisticated masonry, strong city-walls, regular streets laid out in a grid, buildings of dressed stone, and sophisticated sewerage systems.
 Early in its history, this kind of construction was common in Heartland, but, over the centuries, as new races and cultures have been incorporated and new technologies and designs have been developed, urban construction has become more varied and sophisticated.
-Cities in the interior of Heartland are unlikely to face invasion or threat, and are thus less likely to have prominant city walls.
+Cities in the northeast, near the Dragonshire and Kings' Sea, are often constructed in an older style, and are more likely to have prominent walls; cities in the interior of the province, closer to the Worldspine, are often constructed in newer and more varied styles and, being less likely to suffer invasion or threat, are less likely to have prominant city walls.
 The use of free-standing supports and sophisticated arches have become common, making it possible to construct buildings with high ceilings, thin walls and wide windows.
 Some innovations have been aimed at making urban construction cheaper, as well; brick and timber-frame have become more common, for example, as they are cheaper than stone-masonry.
 
 The Commonwealth's large cities have also long been colorful and lavishly decorated.
 Mosaics have always been common in Heartland, with public spaces often feature tile mosaics on the floors and walls; as the region has grown rich and prosperous, and as other cultures have been incorporated, many other artforms have become common.
+Gnolls brought a tradition of ornate wood-carvings, often worked into the frames and timbers of houses, and a kind of intricate relief carving often worked into bone and stone.
 Within the last two centuries, frescoes have become particularly common, and often adorn public buildings, temples, and the homes of the wealthy.
 Public performance is also extremely common in Heartland, with street-musicians, recitation, and theatre being common.
 
@@ -130,8 +132,8 @@ Some may have a prominent manor-house or town hall, while in others, the holder 
 
 Hamlets and freeholds are often smaller, consisting of only a few families and their attendant fields.
 
-Gnolls make up half the populations of the manors and freeholds of rural Heartland Province, Humans claim roughly three-tenths, and, and Halflings one-tenth; the remaining one-tenth is composed of a diverse array of races, including a growing number of Ratfolk and Kobolds.
-Most manors will consist prominently of one orace or another — less because of any kind of tension, and more because it is easier to share a community with people who share a diet, can speak one-another's language, and can produce children.
+Gnolls make up half the populations of the manors and freeholds of rural Heartland Province, Humans claim roughly three-tenths, and Halflings one-tenth; the remaining one-tenth is composed of a diverse array of races, including a growing number of Ratfolk and Kobolds.
+Most manors will consist prominently of one orace or another — less because of any kind of tension or prejudice, and more because it's easier to share a community with people who share a diet, can speak one-another's language, and can produce children.
 (Notably, it's very common for nearby manors to have deep and long-enduring connections, often across racial lines; this is especially true of the symbiotic relationship between Gnoll and Halfling communities.)
 
 #### Gnollish Culture
@@ -139,6 +141,8 @@ Most manors will consist prominently of one orace or another — less because of
 The Gnolls who settled near Autumn's Hold largely assimilated into the human culture that sheltered them, and the culture that dominates in the Gnoll-held manors and freeholds today largely descends from those first refugees.
 Stories of their ancestor's flight from their cousins, of building a new home among Humans and Halflings, and of the new prosperity they helped to build, are prominent parts of their culture and folklore today.
 Many Gnolls take great pride in the roll their ancestors played in founding and securing the Commonwealth, and as one of its great pillars today.
+
+Most Gnollish manors herd sheep, goats, and cattle; they also raise a number of crops, including a wide variety that they cannot eat, which they grow for export.
 
 #### The Caravans
 
@@ -310,13 +314,12 @@ Drakes where smaller and less powerful than dragons, but far more fecund; they w
 Early on, Karrach pursued peace and good relations with the former Imperial territories to his west — what would become the Commonwealth.
 His enemy was the Empire of Man, who would attempt to bring his territory back under their control.
 This peaceful relationship continued as the Commonwealth formed and the Empire of Man weakened and collapsed; the Dragonshire was a useful barrier between the free lands to the west and the Empire, and trade between the Commonwealth and Dragonshire was highly profitable.
-In CY 17, a peace-treaty was signed, and in CY 41, the Commonwealth and Dragonshire became allies; this proved invaluable to both.
-Besides continuing prosperous trade, the two allies profited from being "brothers back-to-back" — the border between the Dragonshire and Commonwealth could be undefended, so that the Commonwealth could focus on fighting the Shaded Sea while the Dragonshire focused on resisting the Empire of Man (and, later, the Kingdoms of Men).
+In CY 17 a peace-treaty was signed, and in CY 41 the Commonwealth and Dragonshire became allies; this proved invaluable to both.
+Besides continuing prosperous trade, the two profited from being "brothers back-to-back" — the border between the Dragonshire and Commonwealth could be undefended, so that the Commonwealth could focus on fighting the Shaded Sea while the Dragonshire focused on resisting the Empire of Man (and, later, the Kingdoms of Men).
 
 The pair also had a mutual enemy in the Goblin Kingdoms.
 As early as Year-of-the-Old-Empire 231, almost two hundred years before the Commonwealth formed (CY -194), an alliance of powerful Goblin Kings on their northern shore rose to threaten both the Empire of Man and the Dragonshire — which forced the weakening Empire to abandon its attempts to reclaim the Dragonshire, but also furnished both the Empire and the Dragonshire with a new enemy.
-The Goblin Kingdoms would remain a vital enemy even after the Empire of Man collapsed in CY 87.
-The Goblin Kingdoms would remain a constant threat for almost four centuries, with the decay of their power coming with a disastrous failed invasion of the Dragonshire and Commonwealth in CY 148.
+The Goblin Kingdoms would remain a vital enemy after the Empire of Man collapsed in CY 87, continuing to threaten the Commonwealth and Dragonshire for almost four centuries; the power of the Goblin Kings finally broke with a disastrous failed invasion of the Dragonshire and Commonwealth in CY 148.
 
 The collapse of the Empire in CY 87 and the failure of the Goblin assault in CY 148 marked the ascendancy of the "brothers back-to-back" as the preeminent power on the Emerald Plane.
 
@@ -331,16 +334,17 @@ In CY 177, the elites of Forge-of-the-Mountaineers — its wealthy guildsmen, la
 In the following years, more "Freeman's Councils" where formed — and met with greater and lesser degrees of acceptance, depending on how bold they where, and how accommodating the local Lords where.
 In CY 197, Karrach issued the Free-Council Decree, which formally granted the elite of his territories the right to form Freeman's Councils — and spelled out what conditions those councils had to meet, and what obligations the Lords did and did not have to them.
 
-As the wealth of Karrach's domain grew, so to did the wealth, power, and size of the common population.
-Slavery as such had been abolished in CY 16; in CY 241, Karrach formally limited the conditions that could be placed on tenants and bondsmen — effectively increasing the basic right guaranteed to almost all.
-These changes where resisted by the Freeman's Councils, whose elite membership resented the reduction of their power, and the common populace whose political rights had just been greatly expanded.
+As Karrach's domain grew and prospered, so to did the wealth and power of its common population.
+Karrach had abolished Slavery as such in CY 16; in CY 241, he formally limited the conditions that could be placed on tenants and bondsmen — effectively increasing the basic right guaranteed to (almost) all in his domain.
+(These changes where resisted by the Freeman's Councils, whose elite membership resented the reduction of their power).
 In CY 244, Karrach issued the sweeping Citizen's Reform; this granted every resident on his domains the status of a Citizen, and spelled out the minimum rights and privileges guaranteed to each Citizen.
-It also create the Citizen's Councils — open to any who did not meet the property requirements for the Freeman's Councils — and the Guild's Councils, to which every guild in a manor could elect a representative.
+It also create the Citizen's Councils (which where open to any Citizen who did not meet the property requirements for the Freeman's Councils) and the Guild's Councils (to which every guild in a manor could elect a representative).
 
 Growing pressure from the Second High Kingship (starting in the Kingdoms of Men in CY 361) and the first King-by-the-Assembly (appointed by the Goblin's Noble Assembly in 378) began to lay bare the need for a more efficient, centralized bureaucracy.
-Rather than attempt to seize power himself — a move that, besides being less than moral, would have been resisted by the Freeman's and Citizen's Councils, at a time that the Dragonshire could ill afford internal conflict — Kerrach began to work on a centralized body drawn from his Nobles and their Councils.
-In CY 391, after much political negotiation, Karrach, with the support of his nobles and a large majority of their Freeman's and Citizen's Councils, created the Dragonshire Parliament, and reorganized much of the Dragonshire's government beneath it.
-The Parliament consisted of three chambers: the Noble's Chamber, representing those with titles; the Elite's Chamber, representing the Dragonshire's monied and propertied interests; and the People's Chamber, which represented the common citizenry.
+Rather than attempt to consolidate power under himself — a move that, besides being less than moral, would have been resisted by the Freeman's and Citizen's Councils, at a time that the Dragonshire could ill afford internal conflict — Karrach began to work on a centralized body drawn from his Nobles and their Councils, that could govern with the support of the all the Dragonshire's various classes and interests.
+In CY 391, after much political negotiation, Karrach, with the support of his nobles and a large majority of their Freeman's, Citizen's and Guild's councils, created the Dragonshire Parliament, and reorganized much of the Dragonshire's government beneath it.
+The Parliament consisted of three chambers: the Noble's Chamber, representing those with titles; the Elite's Chamber, representing the Dragonshire's monied and propertied interests; and the Citizen's Chamber, which represented the common citizenry.
+(Though he had abandoned direct control over the administration of the Dragonshire, Karrach remained its king, and became also the Lord of the Noble's Chamber.)
 
 ### The Culture of the Dragonshire
 
