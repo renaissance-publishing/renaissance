@@ -9,15 +9,15 @@ It is based on the very first game that was used to test *Rensaissance*, and it'
 
 ## Player Prompt
 
-A ferocious blizzard has descended on the *Hella Valley*; almost a white-out, it has trapped the people of valley in their homes and brought life in the valley to a standstill.
+A ferocious blizzard has descended on the *Hella Valley*; almost a white-out, it has trapped the people of the valley in their homes and brought life to a standstill.
 
 For whatever reason, you are in *Southlander's Market*, a small city inhabited mostly by Humans and Ratfolk in the south of valley.
 As the name implies, *Southlander's Market* is something of a trade-hub for the valley; it sits on Hella High-Road, a nominal highway that runs out of the valley to the east, leading to the Tol Confederacy more than fifteen *demarc* away, and eventually to the rest of the Commonwealth.
 
-The city shares the valley with the *Weaver's Hold*, a Dwarven hold known for their wools; *Forge-and-Hearth Burrow*, a Kobold burrow that hosts the valley's most skilled smiths; the centuries-old *Whitefox Monastery*; and a number of smaller Human and Gnollish hamlets.
+The city shares the valley with the *Weavers' Hold*, a Dwarven hold known for their wools; *Forge-and-Hearth Burrow*, a Kobold burrow that hosts the valley's most skilled smiths; the centuries-old *Whitefox Monastery*; and a number of smaller Human and Gnollish hamlets.
 
 The situation in *Southlander's Market* is slowly deteriorating.
-No contact has been had with Weaver's Hold, Forge-and-Hearth Burrow or—most alarmingly—Whitefox Monastery for days—much less anyone travelling up the highway from the wider Commonwealth.
+No contact has been had with Weaver's Hold, Forge-and-Hearth Burrow or — most alarmingly — Whitefox Monastery for days — much less anyone travelling up the highway from the wider Commonwealth.
 While the village is well-enough stocked for the week ahead at least, if the blizzard does not break, the city may begin to succumb to hunger and cold.
 
 Many in the town believe that someone should make the trek to the monastery to see if there's anything that they can do.
@@ -28,19 +28,19 @@ Landlord Ceder-Inn, the Ratfolk who runs the Ceder Inn in *Southlander's Market*
 ## Starting Out
 
 The adventure starts out in the Ceder Inn in *Southlander's Market*.
-Like many *intrigue* and *horror* games, the first part of the module will consist of *preparation* and *investigation*—that is, after character introductions have been made, and the player-characters have accepted the *quest*.
+Like many *intrigue* and *horror* games, the first part of the module will consist of *preparation* and *investigation* — that is, after character introductions have been made, and the player-characters have accepted the *quest*.
 
 They likely won't spend *much* time in *Southlander's Market*.
 There aren't any particular clues here; no-one in town knows what's happening and why (other than the *Traitor*), so asking about, though a wise precaution, won't be particularly fruitful.
 
-The major risk is that they'll find the *Traitor Monk* (see below)—that is, if you're using the *Traitor Monk* and you've put them in the town.
+The major risk is that they'll find the *Traitor Monk* (see below) — that is, if you're using the *Traitor Monk* and you've put them in the town.
 Obviously, you'll want to keep the party from discovering the traitor if encountering them early can end the adventure; successes on investigation might yield hints about *suspicious travelers*, but you should avoid clues that might lead the party directly to the traitor.
 
 ### Location: Hella Valley
 
 Hella Valley is named after the *Hella*, the name given to the Humans and Dwarves that live in the region, and their (partly) shared culture.
 
-The valley funs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks are far to the south, they are still a formidable natural barrier—expecially given the cold.
+The valley funs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks of the range are far to the south, the smaller mountains and rough foothills to the west are still a formidable natural barrier — especially given the cold.
 
 The valley is well forrested, and the Hella River runs through it.
 The valley is dotted with small farming towns, and it also sees logging, trapping and fishing.
@@ -49,21 +49,58 @@ The river usually swells during the spring thaw, but all the cities and towns ar
 ### Location: Southlander's Market
 
 *Southlander's Market* is a small town of little more than one-and-a-half thousand people, mostly Humans and Ratfolk.
-The town is built around the *Hella High-Road*, which runs to *Weaver's Hold* higher in the Worldspine Mountains to the southweast, and out of the valley to the east.
+The town is built around the *Hella High-Road*, which runs to *Weaver's Hold* higher in the Worldspine Mountains to the southwest, and out of the valley to the east.
 As the name implies, it's the region's major market; what travellers that come usually do so by taking the road into the valley, and folk from the 'Hold, the 'Burrow, and the various hamlets in the region come to the market in *Southerlander's Market* to sell their wares.
 
 The town combines Dwarven, Human and Ratolk influences in its design.
-The town is roughly rectangular in design, running from east to west with the road; it's 9 blocks *east to west*, and only five blocks *north to south*.
-It's surrounded by a wall, but it hasn't been well-maintained; it's been a long time since raiders came here.
+It is roughly rectangular in design, running from east to west with the road; it's 9 blocks *east to west*, and only five blocks *north to south*.
+It's surrounded by a wall, but that wall hasn't been well-maintained; it's been a long time since raiders came here.
 
-Most of the buildings are constructed of timber—corner-joined, with the logs cut square, some faced with planks or plaster, some not.
-A few of the nicer buildings are build of brick.
-Most have thick, thatched rooves.
+Most of the buildings are constructed of timber — corner-joined, with the logs cut square, some faced with planks or plaster, some not.
+A few of the nicer buildings are made of brick.
+Most have thick, thatched rooves, to keep out the cold and winter snow.
 
-The valley isn't far enough north that the ground is permafrost—it thaws in springs.
-A number of the buildings incorporate dug-out portions.
+The valley isn't far enough north that the ground is permafrost — it thaws in the spring.
+A number of the buildings incorporate dug-out portions and basements.
 
 The city isn't wealthy; many of the people there are farmers and trappers.
+
+The *Southlander's Temple* and the *Council House* sit at the center of the town, facing each-other across the street.
+The town's *market square* runs two blocks in either direction around the center, opening up around the road.
+
+### Location: The Market
+
+The eponymous market of *Southlander's Market* sits at the center of the town, surrounding the *Temple* and *Council House* and opening up along the road to either side.
+The surrounding buildings have shops and store-fronts that open up onto the market.
+In better weather, these shops open up, and they are also joined in the market by at least a few travelling merchants; in the bitter cold and snow of winter, many of the shops close, and visiting merchants are few.
+
+Realistically, the major thing that the party can do here is *stock up* for the adventure ahead.
+Rations are easy enough to acquire; even half-closed, they can likely find someone to sell them cereals, smoked-meats and other foods fit for travel.
+They can also find stores that will sell them the equipment appropriate to the trip ahead — tents, nap-sacks, warm clothing, rope, and so on; this is best handled by having characters purchase a *Survival* skill-kit, or optionally adapt an existing skill-kit for extreme cold.
+Magical items are few, but characters can likely find useful devices for the region — *Lights*, *Heaters*, *Torques of Speaking* and *Warmblood Suits* are all available, although not in great supply.
+
+The party will find weapons and armor difficult to come buy — especially weapons that require large amounts of high-quality material or workmanship.
+Axes and quilted armors are available, but plate armor and broadswords are right-out.
+
+### Location: The Ceder Inn
+
+The Ceder Inn is located thirty paces outside the city wall, situated on the road into town.
+It consists of several buildings, all of timber constructions and painted bright red.
+The largest buildings are the main building and the barn; there is also a separate house for the Ceder-Inn family, a stables, a shed and a pair of saunas.
+The stables and inn are next to the road, with the saunas, shed, family-house and barn being behind them.
+*Covered paths* connects all of the buildings; the paths are dug half a *stride* into the ground, and have log walls and a thatch roof.
+
+The *saunas* are small, circular buildings with brick walls.
+
+The main inn consists of a large, central common-room, with a large stone hearth in the center.
+Some people sleep in the common-room, but there are also private rooms along one wall.
+(Some guests even choose to sleep in the lofts above the barn and stables.)
+The kitchen is an open structure accessed through the back; three walls are timber, but one wall is open, to allow the kitchen to ventilate in the summer.
+In winter, the kitchen's fourth wall is blocked with a large, heavy wool cover.
+
+The Ceder Inn is where the "quest-giver", Landlord Ceder-Inn, lives, so it's where the adventure is likely to start.
+Any PCs that aren't from the area may also be staying at the Ceder Inn.
+The inn mostly sells food; if the PCs need anything more than rations — or if they need a *lot* of rations — they'll need to travel to the *market* to equip.
 
 ### Location: Forge-and-Hearth Burrow
 
@@ -73,29 +110,21 @@ It consists of a large, central burrow, surrounded by a number of smaller single
 
 Forge-and-Hearth is well-named; it's occupants are miners, fishers and trappers, and the burrow is known for its iron, fish and food.
 
-### Location: The Market
-
-### Location: The Ceder Inn
-
-The Ceder Inn is located thirty paces outside the city wall, situated on the road into town.
-It consists of several buildings, all of timber constructions and painted bright red.
-The largest buildings are the main building and the barn; there is also a separate house for the Ceder-Inn family, a stables, a shed and a sauna.
-The stables and inn are next to the road, with the sauna, shed, family-house and barn being behind them.
-A *covered path* connects all of them; it is dug half a *stride* into the ground, and has log walls and a thatch roof.
-
-The *sauna* is a small, circular building with brick walls.
-
-The main inn consists of a large, central common-room, with a large stone hearth in the center.
-Some people sleep in the common-room, but there are also private rooms along one wall.
-(Some guests even choose to sleep in the lofts above the barn and stables.)
-The kitchen is an open structure accessed through the back; three walls are timber, but one wall is open, to allow the kitchen to ventilate in the summer.
-In winter, the kitchen's fourth wall is blocked with a large wool cover.
-
-The Ceder Inn is where the "quest-giver", Landlord Ceder-Inn, lives, so it's where the adventure is likely to start.
-Any PCs that aren't from the area may also be staying at the Ceder Inn.
-The inn mostly sells food; if the PCs need anything more than rations, they'll need to travel to the *market* to equip.
+There isn't much for the party to do at Forge-and-Hearth.
+The burrow has good miners, but only a few smiths; they mostly sell iron to human smiths in Southlander's Market.
+(Ambition has designs on apprenticing the young of the burrow to the human smiths of nearby Southlander's Market and eventually turning Forge-and-Hearth into a regional center of steel-work, but her plans have not yet come to fruition.)
+They will also sell the party skins, jerkies, food or lodging, of course.
+If the party needs iron or jerky, they can get it here, but that's about it.
 
 ### Character: Landlord Ceder-Inn
+
+Landlord Ceder-Inn — as one could infer from his name — is the owner of the Ceder Inn.
+Outgoing, lively, sociable, and intelligent, Ceder-Inn is a natural businessperson well suited to running the inn.
+His inn has flourished under his management, and he's become a wealthy, prominent local citizen.
+He is middle-aged, with jet-black fur, and slightly portly, though not obese.
+He also leads a large household; besides himself, there is his wife, his cousin, and four children — the youngest of which was married in last spring, and may soon make him a grandfather.
+
+Landlord Ceder-Inn is effectively the *quest-giver* for the adventure; Ceder-Inn has recruited several of the town's prominent citizens and businesspeople — including South-Vintner — to offer a reward to any party that can venture out through the blizzard to Witefox Monastery, in the hopes that they can ply the local spirits and find some way to help with the blizzard.
 
 ### Minor Character: Rust-Fur
 
@@ -103,20 +132,22 @@ Rust-Fur is the Gnollish commander of the local Commonwealth guard; he's a male 
 He's respected by the locals as a leader and probably-solver.
 While he doesn't know anything about the magical blizzard, his knowledge of the area might be useful—although it will be difficult for the party to convince him to abandon his post to travel to the monastery.
 
-Rust-Furr might be useful if the party doesn't have anyone with good ranks in Survival; he can lead them to the monastery—or assign a Guard to the task.
+Rust-Furr might be useful if the party doesn't have anyone with good ranks in Survival; he can lead them to the monastery — or assign a Guard to the task, if matters elsewhere keep him busy, or he decides he doesn't like the party.
 
-Rust-Furr would also make a decent PC, if there's a player in the group struggling to come up with a good idea.
+Rust-Furr would also make a decent PC, if there's a player in the group struggling to come up with a good character-concept.
 
 ### Minor Character: "Prince" South-Vintner
 
-Named South-Vintner in Common but dubbed "the prince" by the city-folk, South-Vintner is the mayor of the Southlander's Market.
+Named South-Vintner in Common but dubbed "the prince" by the city-folk, South-Vintner is the mayor of Southlander's Market.
 The young scion of a wealthy family further south, it's widely (and correctly) held that it's more wealth than competence that got him his office.
-Even so, he isn't a bad person; he's honest, hard-working and insightful—even if isn't perhaps a natural leader.
+Even so, he isn't a bad person; he's honest, hard-working and insightful — even if isn't perhaps a natural leader.
 He's working hard to prove himself.
 
 South-Vintner can provide the party with resources and support.
 If the party needs resources they can't afford, they might be able to convince South-Vintner to bankroll them.
 South-Vintner can also secure the cooperation of professionals in the town, from blacksmiths to doctors.
+
+He lives in a well-appointed house near the center of town, about a block behind the Council House; he can typically be found either there, or at the Council House itself.
 
 ### Minor Character: Ambition
 
@@ -125,7 +156,23 @@ She's been trying to form a closer partnership with the human smiths of *Southla
 
 ### Encounter: Negotiating
 
+One of the first "Encounters" in the module is receiving the quest from Landlord Ceder-Inn.
+Ceder-Inn will briefly describe the problem, and explain the offer — a number of local prominent citizens have put up a purse for anyone who can venture out to the Whitefox Monastery, in the hope that the current savage blizzard has a supernatural cause that the monks can put right.
+The journey will be difficult, even for those used to roughing it in the woods in the winter; the party will be well-advised to prepare appropriately.
+
+The purse on offer is not extravagant — Southlander's Market is not a wealthy town.
+It consists of 95 gold pieces; valuable spices, skins, and metals equivalent to three Level 3 *trade goods*; the services of local artisans.
+If you'd like to set more adventures in the Hella Valley, you can include property in the valley, like fields or houses.
+
+The purse is to be given to the party on their return, although it may be possible to haggle Ceder-Inn into granting the party an advance — especially if they can't undertake the trip without it.
+
 ### Encounter: Equipping the Party
+
+If the party needs equipment, they can head to the market.
+As described above, the market is mostly closed — there isn't much business to do in the blizzard.
+However, some of the town's merchants and artisans may be willing to do business with the party, once they explain what the goods will be in service of.
+
+The town bosts several blacksmiths, two alchemists, and a mage; while they can be convinced to produce for the party something that they need, this will take time — time that will count against the week that the city has before it starts to get into trouble.
 
 ## The Trip
 
@@ -139,7 +186,7 @@ The trek through the blizzard to Whitefox Monastery is the real starting-point f
 | Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and *stride* (*sd*) is about 30 inches or 75 cm.
 
 Whitefox Monastery is only about 4dc away from Southlander's Market; where it not for the blizzard, it would not be a particularly difficult journey, even in winter.
-The blizzard, however, complicates things.
+The blizzard, however, does complicate things.
 
 The thick snow and near-whiteout conditions will dramatically slow the party's pace; the *base pace* in the blizzard will be only 2dc-per-day (see *Travel*).
 Additionally, navigation will be particularly difficult; the party will need to make a *Survival* check to navigate, and that check will have a -30 penalty.
@@ -153,20 +200,23 @@ Foraging for food (see *Travel*) will be exceptionally difficult, and will also 
 | Critical Success | Excellent Progress (improve progress by 2dc), *Whitefox Bridge* |
 | Basic Failure | Lose Progress (reduce progress by 1dc) |
 | Exceptional Failure | Exposed Route (-20 to Feat of Endurance checks), Natural Hazard (hidden pit, fall down slope) |
-| Critical Failure | Party Becomes Lost (getting barrings is a one-hour Task Action requiring a Survival check at -20), Party Becomes Separate (searching is a one-hour Task Action requiring a Search check at -10; lost characters may panic; characters without Survival are at risk of freezing) |
+| Critical Failure | Party Becomes Lost (getting barrings is a one-hour Task Action requiring a Survival check at -20), Party Becomes Separated (searching is a one-hour Task Action requiring a Search check at -10; lost characters may panic; characters without Survival are at risk of freezing) |
 
 Making camp will also be difficult; unlike normal, the party will need to make a *Survival* check to assemble a camp that will allow them to survive the extreme cold.
 (Characters can mitigate this by finding a cave or other natural feature to shelter in, but this will require a *Search* or *Survival* check at -20.
-Characters might also be rewarded with such a *sheltered camp-site* if they score an exceptional success while navigating.)
+Characters might also be rewarded with such a *sheltered camp-site* if they score an exceptional success while navigating, as described above.)
 
 The cold will be a significant hazard; each member of the party will need to make a *Feat of Endurance* test at the end of every day they spend in the snow.
 (If they choose to keep traveling at night instead of making camp, have them make a second *Feat of Endurance* check for the night.)
-Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV; this damage has the *Cold* and *Environmental* tags, and resistances, vulnerabilities and other features may apply.
+Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV, with the *Cold* and *Environmental* tags; resistances, vulnerabilities and other similar features apply, but armor does not.
 
 Note that the extreme cold is particularly deadly to cold-blooded characters; they'll need to bring along some source of warmth (like a Warmblood Suit, a Heater, or the Fireball power) or they'll almost certainly freeze to death.
-(Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.)
-Cold-blooded creatures with no other source of warmth can attempt to share body-heat with a warm-blooded creature—although doing this while actively travelling can be *difficult*, unless the cold-blooded character is particularly portable.
+Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.
+Cold-blooded creatures with no other source of warmth can attempt to share body-heat with a warm-blooded creature — although doing this while actively travelling can be *difficult*, unless the cold-blooded character is particularly portable.
 Sharing warmth in this way imposes a -10 penalty on the warm-blooded character, but it allows the cold-blooded character to make a Feat of Endurance check against the cold at -20.
+
+(If one of your players is playing a cold-blooded character, you can make both your life and theirs simpler if you suggest they purchase a Warmblood Suit in the market.
+Note also that creatures with the *Dragon-Kin* (like Drakes and Kobolds) and *Saurians* (like Raptors) are *not* cold-blooded.)
 
 [[designnote]]
 | The blizzard is a "soft barrier": it traps the party in the monastery and separates them from the city and help, so they have to face the Monster alone; but it's not impenetrable.
