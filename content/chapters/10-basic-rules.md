@@ -73,12 +73,11 @@ Not all characters are player characters, so we'll usually try to speak in terms
 ### Special Results
 
 If a character succeeds on a check and their MoS is 30 or more, then they have scored an **exceptional success**.
-If they succeed and their MoS is a “double”—that is, a multiple of 11, like 22 or 55—then they have scored a critical success.
-Conversely, if they fail and their MoF is 30 or more, then they have scored an exceptional failure; if they fail and they rolled a double, then they have scored a critical failure.
+If they succeed and their MoS is a “double” — that is, a multiple of 11, like 22 or 55—then they have scored a **critical success**.
+(For completeness sake, we also call an MoS of 29 or less — that isn't a crit — a **basic success**.)
+Conversely, if they fail and their MoF is 30 or more, then they have scored an exceptional failure; if they fail and they rolled a double, then they have scored a critical failure; and if they fail but their MoF is 29 or less, then they have scored a basic failure.
 
-Sometimes, for clarity, we’ll call a success that is neither an exceptional or critical success a “normal success,” and we’ll call a failure that is neither an exceptional nor a critical failure a “normal failure”.
-
-The effects of these *special results* vary: some rules will spell out exactly what happens, but more often, it will be up to the GM’s discretion.
+The effects of *exceptional* and *critical* results vary: some rules will spell out exactly what happens, but more often, it will be up to the GM’s discretion.
 Generally, exceptional successes should get a noticeable bonus, while exceptional failures should carry some extra consequence.
 Critical successes and failures should be particularly impactful.
 
@@ -112,7 +111,8 @@ When you **downgrade**, your results are degraded:
 - a critical or exceptional success becomes a normal success; and
 - a normal failure becomes an exceptional failure, and an exceptional failure becomes a critical failure.
 
-Note that, when upgrading, a normal failure does not become a normal success, and when downgrading, a normal success does not become a normal failure. That would be a little too powerful\!
+Note that, when upgrading, a normal failure does not become a normal success, and when downgrading, a normal success does not become a normal failure — that is, when upgrading and downgrading, you can't turn a failure into a success, or vise-versa.
+That would be a little too powerful\!
 Also, your MoS and MoF don’t actually change, so MoS- and MoF-dependent effects aren’t affected by upgrading and downgrading.
 
 Upgrading and Downgrading are an exception to the "everything stacks" general rule: you can’t upgrade or downgrade the result of any one check more than once.
@@ -123,6 +123,8 @@ Upgrading and Downgrading are an exception to the "everything stacks" general ru
 (See the *Skills* chapter for a list of skills).
 
 The *target number* for a *skill check* is the *Linked Aptitude* for the skill, plus the character's ranks in that skill (that is, Linked Apt + Ranks).
+
+We refer to the total of a character's *ranks in a skill* pluss that skill's *linked aptitude* — that is, their target number for that skill, before any modifiers are applied — as their **rating** in that skill.
 
 <aside class="example">
 
