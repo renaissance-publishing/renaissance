@@ -256,7 +256,7 @@ Another is that it presents a significant risk if an infiltration fails and the 
 >
 > "We do," Kuro said from behind her, deeper in the wagon.
 >
-> Katarina managed to intercept her first few responses before giving them voice.
+> Katarina managed to suppress the first few responses that came to mind.
 > Into the silence, Kuro continued: "I've made maybe a dozen.
 Healing potions and scour, too.
 I've had plenty of time, while we've been riding across the Kingdoms of Men."
