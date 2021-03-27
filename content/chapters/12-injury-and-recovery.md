@@ -114,7 +114,7 @@ The table below lists example *stress sources*, their *tags*, and their normal *
 Most characters heal naturally, albeit slowly, from both physical and psychological harm:
 
 - Characters heal 1 DV per day.  After all DV has been healed, they heal 1 Wound per *week*.
-- Characters heal 1 SV per day.  After all SV has been healed, they heal 1 Wound per *month*.
+- Characters heal 1 SV per day.  After all SV has been healed, they heal 1 Trauma per *month*.
 
 Of course, some characters can heal at very different rates; when this is the case, it will be indicated by some feature the character has.
 Notably, several races have *Fast Healing*, which allows them to heal *much* faster (*Fast Healing* is described in *Senses, Movements and Special Abilities*).
@@ -137,7 +137,7 @@ A surgical attempt is a 1 hour *Task Action* that requires a *Medicine check* wi
 
 ### Healing Stress with Soothe
 
-While a modern theory of psychology is centuries away, a patient and empathetic person can still help someone to handle a stressful situation or process a traumatic event.
+While the Emerald Plain is still centuries away from a modern theory of psychology, a patient and empathetic person can still help someone to handle a stressful situation or process a traumatic event.
 
 Characters can use the *Soothe* skill to reduce another character's SV.
 The participation of the person being "*soothed*" is a vital component of this process; it requires a degree of trust between the participants, and it requires the person being *soothed* to be willing to open up with someone and work through their problems.
