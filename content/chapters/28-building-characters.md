@@ -84,6 +84,7 @@ A high-ranking military officer, well-versed in matters of war and politics, lik
 Or perhaps just a well-read, well-travelled, inquisitive soul, like Notebook?
 
 Of course, Profession is also a knowledge skill; that means that a professionals, traders and artisans can also be Analysts.
+A master smith offers not just the ability to make useful items, but — through the Profession skill — a knowledge of business, and understanding of what is possible with blacksmithing, the ability to analyze the work of others, and a knowledge of the uses and purposes of weapons, armors and tools.
 
 #### Matching an Analyst to a Game
 
@@ -94,7 +95,7 @@ If you're building a character for a one-off game, it's easy to match their expe
 While the *Scholar* and *Jack of All Trades* classes can help, no one Analyst could ever possibly cover all—or even most—of the areas of knowledge that a group might require.
 
 Practically, its important to make sure that every character picks up at least a few ranks in the Knowledge skills that represent their ares of expertise.
-(Since you'll have supporting skills—like Research—that many of other characters won't, your skills as an Analyst will still be essential.)
+(Since you'll have supporting skills — like Research—that many of other characters won't, your skills as an Analyst will still be essential.)
 
 ### Building an Analyst
 
@@ -224,7 +225,7 @@ Another is that it presents a significant risk if an infiltration fails and the 
 > He then looked back at the wall: it was barely scratched.
 > He'd made no progress at all in the intervening minutes.
 >
-> "No," he said, more curious than frightened—if only slightly.
+> "No," he said, more curious than frightened — if only slightly.
 >
 > "Fascinating," said Notebook.
 
@@ -246,6 +247,36 @@ Another is that it presents a significant risk if an infiltration fails and the 
 
 ## Provisioner: getting the party what they need
 
+> From her position hidden in the wagon, Katarina could see that negotiations where not going well.
+> Fire had his hands up and, for the moment at least, seemed to be showing due respect to the spear pointed at his chest; the Shifter was not known for his patience, however, and Katarina was more than slightly concerned that he might decide to put his faith in his natural regenarative powers and take dramatic action.
+> She could also hear Aryn's voice, though that did little to ameliorate Katarina's growing concern — she would not have described the terse Haffan as being particularly gifted at diplomacy.
+>
+> "I think they're standing close," she whispered.
+> "I wish we had some *tar*."
+>
+> "We do," Kuro said from behind her, deeper in the wagon.
+>
+> Katarina managed to intercept her first few responses before giving them voice.
+> Into the silence, Kuro continued: "I've made maybe a dozen.
+Healing potions and scour, too.
+I've had plenty of time, while we've been riding across the Kingdoms of Men."
+>
+> "Well, Kuro, now would be the time," Katarina said, and she gestured for the shifter to pass a bottle forward.
+
+Provisioners provide the party with useful resources.
+In many games, this is a role mainly filled by NPCs; in *Renaissance*, it is intended to be a player role — and a potentially powerful one.
+Provisioners give players access to powerful resources, from arms and armor to stockpiles of alchemical potions to more abstract resources like blackmail material or political leverage.
+
+### Concept
+
+### Build
+
+### Play
+
+### Other Characters
+
+### Combinations
+
 ## Survivalist: getting by in the wild
 
 ## Healer: putting the party back together
@@ -259,9 +290,13 @@ Another is that it presents a significant risk if an infiltration fails and the 
 >
 > "You should learn to dodge" The Gnoll said, with a dry, familiar tone.
 
+It's very easy to die in *Renaissance*: damages are high, health-pools are small, and the *wound* system means that characters can be crippled into ineffectiveness long before they actually *die*.
+What's more, *Renaissance* also models character's mental health; as characters struggle though life-or-death situations, encounter ancient mysteries, confront alien forces, and loose long-time friends, they can suffer more than physical wounds.
+And healing is difficult by design; the party that wants to survive — physically and emotionally — needs to have a solid plan for *healing*.
+
 ### Your Healer's Concept
 
-Healing is difficult, and it takes many lifetimes to truly understand  the mysteries of one race's body, let alone the many races that call the Emerald Plane home.
+Healing is difficult, and it takes many lifetimes to truly understand the mysteries of one race's body, let alone the many races that call the Emerald Plane home.
 Healers are nonetheless prized participants in any adventure, and respected in their homes and businesses.
 Whether the lowly medic in the commonwealth army removing his fallen comrades from the fight, or the highly-skilled commonwealth alchemist-surgeons exploring and unlocking the mysteries of life, it falls to you to stitch up your comrades when they fall, to offer aid to your allies or to innocent victims of violence, and to calm and support those who troubles threaten to overwhelm them.
 
@@ -294,10 +329,12 @@ If your character is **great at Physical Healing with Medicine**:
 - COG at least 25
 - The *Medicine* skill at 70, with a *specialization*.
   - The more ranks you have in *Medicine*, the happier the people you're trying to heal will be.
+  - Remember that *you yourself* may be wounded, so the ability to still have a decent TN with a few -10 wound penalties may be vital!
 - A relevant *Profession* (like Doctor, Healer, Medic, or Midwife) at 50
   - The Profession is important for your character to know how to *be a doctor*.
+  - The Profession skill can also be useful for a quick hit of money or good will; the skills of doctors are always valuable.
 - *Soothe* at at least 50.
-  - This will help you calm panicking, frightened, or suffering patients—you can't operate on people who are panicked and fighting you.
+  - This will help you calm panicking, frightened, or suffering patients — you can't operate on people who are panicked and fighting you.
 - Craft: Chemistry at at least 40
   - useful for brewing medicines and potions; more is better.
 - At least two appropriate knowledge skills at 50
@@ -324,7 +361,7 @@ If your character is **Great at Emotional Healing with Soothe**:
 - *Read* at at least 60.
 - *Persuasion* and *Protocol* at at least 50.
 - Other social skills if you have the points.
-  - Deception can be useful—the bold truth is not always the best medicine.
+  - Deception can be useful — the bold truth is not always the best medicine.
   - Even *Intimidate* could be useful for some unusual personalities.
 - Craft: Chemistry at at least 40
   - Brews, potions, and medicines (or just a cup of tea or shot of bourbon) have long been a part of emotional support.
@@ -341,34 +378,79 @@ If your character if **Great at Physical Healing with Magic**:
   - *Sacrifice* transfers a *wound* from someone else to you, so you can heal it.
 - *Jump* and *Group Jump* to remove fallen allies from a fight
 
-
 ### Playing a Healer
 
-As a healer, your job will be to support the more adventurous members of the party when they fall afoul of combat, or stressful situations.
+As a healer, your job will be to support the more adventurous members of the party when they fall afoul of combat, succumb to disease, collapse in blistering heat, break in fear, or are tormented by their demons.
 
-After a tense fight, wounds will need to be washed and sealed to keep
-infection at bay, and to bring combat-focused characters back to full
-strength. You can always heal an enemy who has yielded, or an
-incapacitated prisoner who has information that the party requires.
-Anyone afflicted with poison will need antidotes to be mixed and dosed,
-and some will need to be brought down from the adrenaline rush with
-care.
+After a tense fight, wounds will need to be washed and sealed to keep infection at bay, and to bring combat-focused characters back to full strength.
+You might also want to heal an enemy who has yielded, or an incapacitated prisoner who has information that the party requires.
+Anyone afflicted with poison will need antidotes to be mixed and dosed, and some will need to be brought down from the adrenaline rush with care.
 
-Other, more sedate adventures might still involve mental stresses,
-psionic attacks and mind control, questionable actions the adventurers
-are forced to undertake, phobias and fears… all of these require a
-deft touch and a shoulder to rest on. Healing mental stress is
-difficult, but is just as important as keeping bodies knitted together
-in the right situation.
+Other, more sedate adventures might still involve mental stresses, psionic attacks and mind control, questionable actions the adventurers are forced to undertake, phobias and fears… all of these require a deft touch and a shoulder to rest on.
+Healing mental stress is difficult, but is just as important as keeping bodies knitted together in the right situation.
 
-Unlike a combatant, infiltrator, or analyst, you can make an
-assassination fail after the fact, saving life is itself a unique skill
-that is well-respected the world over.
+Unlike a combatant, infiltrator, or analyst, you can make an assassination fail after the fact, saving life is itself a unique skill that is well-respected the world over.
 
-Should it come up, though, never forget that the power to mend and
-repair life, also gives intimate awareness on how to influence it. Your
-medical knowledge also gives you the tools needed to remove threats in
-unexpected, or ethically troubling manners.
+Should it come up, though, never forget that the power to mend and repair life, also gives intimate awareness on how to influence it.
+Your medical knowledge also gives you the tools needed to remove threats in unexpected, or ethically troubling manners.
+
+#### Healing is Tough
+
+It's important to understand that healing in *Renaissance* is difficult, time-consuming, and imperfect.
+Without going over the rules for healing (see *Injury and Recover*), you should note that binding a wound is a 10-minute Task Action that requires a Medicine check — it's not something you can do *during* a fight.
+You also only get one attempt per wound, succeed or fail — this means that getting it right the first time is important!
+Your fellow players may not appreciate it if you're rolling against a 50 and only bind 2 of their 5 wounds.
+(You can attempt *surgery* on a wound that you failed to bind, but surgery is a *one hour* task action — it's not something you can easily attempt while the party is trying to chase a slave-trader through a hurricane in a coastal swamp.)
+
+You might wonder, "well, that's *wounds*; how do I heal DV?"
+There is no separate "heal DV" action: you get to heal some DV when you successfully bind a wound, and that's it.
+After that, it's natural healing.
+
+And bear in mind, DV and Wounds are both important.
+DV determines when a character is *disabled* or *dead*, but wounds can radically reduce a character's effectiveness even if they're at full DUR.
+(This is, in fact, fairly common for charactesr with Fast Healing.
+Even with Fast Healing, Wounds heal slowly, and they only heal after all DV has been healed; therefore, it's not uncommon for a Shifter or Clay Man to find themselves with 0 DV, but still crippled by their 5 wounds.
+For this reason, *binding wounds* can be important even for characters with Fast Healing.)
+
+If all else fails, your party may be forced to simply stop, rest and recover, using the rules for *long-term care*.
+This isn't always a bad idea; while some adventures are paced to take hours or days, others may be paced out over weeks or months.
+If the adventure already has time budgeted for over-land travel, crafting, or letting plots percolate, allowing the wounded several days to rest and recouperate may wise.
+(At times like this, healing potions can be very valuable.)
+
+#### Magic Only Helps a Little
+
+Can magic help?
+A little, certainly, but magic doesn't trivialize healing — by design.
+Magical healing takes two forms: the "Heal tree" powers and two healing potions.
+
+Healing potions mainly accelerate *natural* healing.
+the minor Healing Potion doubles your natural healing from 1 DV/day to 2 DV/day.
+While very useful for a character undergoing long-term care, this obviously will not return a wounded character to the fight in the short-term.
+The more expensive Moderate healing potion ups the rate to 1 DV/hour, and heals 1 wound in 12 hours.
+If the party has a day or two to recoup, this can be exceptionally useful — but it's *also* not going to get a character back in the fight quickly.
+
+The "Heal tree" powers can be, well, powerful, but they also have stark disadvantages.
+
+Perhaps the most obvious is that they involve *transferring* DV and wounds from the victim to the character using the powers; this can be a stressfull experience for the healer.
+It also involves the healer suffering wound penalties from transferred wounds until they're healed.
+(This does not necessarily prevent the Heal sleights from working, since they don't require checks to channel; however, it is something to be aware of, in case something interrupts the healing process before you're finished.)
+
+Also, remember that Fast Healing heals wounds slowly — and even the *Regrowth* power takes an hour per wound.
+
+This means that there's actually something of a trade-off between using the Heal slights and binding wounds.
+Binding only takes ten minutes per wound, but it may not completely heal all DV, and it can fail.
+Using all four of the Heal sleights will heal the target's DV fairly quickly, and there are no checks to fail — so, given time, if you aren't interrupted, it will guaranteeably succeed.
+And, usefully, the wounds aren't *bound*, but rather are *healed* completely.
+However, the Heal sleights take much longer to heal wounds, and they involve the *healer* being inflicted with greivous injury during the process.
+
+#### Emotional Healing is also important
+
+Besides physical wounds, characters can also succumb to *stress* and *trauma*.
+These are perhaps even more difficult to heal than DV and wounds; the Soothe skill can be used to provide emotional support, but this only heals either 3 or 1 SV per hour-long Task Action.
+(While this might seem slow, the *natural* rate of healing for Stress is 1 SV/day.)
+
+The *Down-time* sleight allows you to heal 1d10÷3 SV with a four-hour Task Action, and also provides you with several other useful benefits; however, there is no sleight analogous to "Transfer" that would allow you to absorb someone else stress.
+So, there isn't a magical alternative to the "Heal tree sleights" to allow you to heal SV.
 
 ### Types of Healer
 
@@ -409,10 +491,8 @@ Healing is meant to be difficult, and magic isn't intended to be a way for a cha
 
 ### Healers and Other Characters
 
-Playing the healer can be an amazingly selfless role, even if your
-medical knowledge is what the success or failure of the adventure hinges
-upon. Regardless of your other skills, many people will be programmed to
-believe that healing is simply 'your job'
+Playing the healer can be an amazingly selfless role, even if your medical knowledge is what the success or failure of the adventure hinges upon.
+Regardless of your other skills, many people will be programmed to believe that healing is simply 'your job'.
 
 Combatants will rely on you as a crutch, more ablative styles of fighter
 needing stitching up after almost every fight. And occasionally in the
@@ -432,22 +512,24 @@ mended and minds from being clouded with stress.
 ### Combining Healing with Other Roles
 
 The different healer builds combine fairly well with *each other*.
-Soothe can be useful to a doctor, and *Heal* can be valuable for a doctor to have so that the party's healer isn't themselves crippled or killed.
+Soothe can be useful to a doctor, and the *Heal* sleight can be valuable for a doctor to have so that the party's healer has some ability to quickly and effectively restore themselves.
 
-Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both—and Doctors are likely to be beneficiaries of a formal education.
+Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both — and Doctors are likely to be beneficiaries of a formal education, of course.
 This can work both ways, with Analysts making excellent healers, as well, if their interests run in the right direction.
 
-Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for passable healers; this makes particular sense for someone who's served as a *medic* in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
-Anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
+Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for effective healers; this makes particular sense for someone who's served as a *medic* in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
+(And, we should note, there is precident for the concept in fiction; a certain Welsh monk springs to mind.)
+Besides, anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
 However, one practical difficulty with combining combat and healing as roles is that you are likely to be the one who is wounded and requires healing (and thus, you will likely have to deal with wound penalties).
 
 Infiltrators, with their reliance on perception, can easily spot signs of injury, and many cultures place well-intentioned taboo on harming physicians of any stripe.
 These can potentially work in such a combination's benefit.
 
-Socialites combine very effectively with *emotional* healers who use *Soothe*, for perhaps obvious reasons—their skills overlap heavily.
+Socialites combine very effectively with *emotional* healers who use *Soothe*, for perhaps obvious reasons — their skills overlap heavily.
 But *medicine*-based physical healers can also combine well with socialites and provisioners.
 The importance of bedside manner, confidence and a winning charm in medicine cannot be overstated.
 And good doctors are often rich, as they have very valuable skills and no shortage of work.
+And Craft: Alchemy is a powerful skill both for a Healer and a crafting-based Provisioner.
 
 ### Aceh's Bedside Manner
 
