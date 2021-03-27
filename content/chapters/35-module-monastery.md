@@ -136,7 +136,7 @@ The trek through the blizzard to Whitefox Monastery is the real starting-point f
 ### Encounter: The Blizzard
 
 [[designnote]]
-| Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and *stride* (*sd*) is about 30 inches or 75 cm.
+| Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and a *stride* (*sd*) is about 30 inches or 75 cm.
 
 Whitefox Monastery is only about 4dc away from Southlander's Market; where it not for the blizzard, it would not be a particularly difficult journey, even in winter.
 The blizzard, however, complicates things.
