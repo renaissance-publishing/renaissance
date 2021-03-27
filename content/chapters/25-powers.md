@@ -459,8 +459,6 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
 
   - Eidolon:
     
-      - Don’t like the name
-    
       - Requires: Conjure, 10 Ranks in Control, 20 Ranks in Spellcraft
     
       - Action: Sustained
@@ -513,6 +511,15 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
         
           - Wings: the Eidolon has wings; it gains the following
             movement mode: Fly (5/15)
+      
+      - Unique Drawbacks:
+      
+          - Some races have unique drawbacks — for example, the fact that Clay Men are *blind*.
+            These drawbacks may be an important part of how the race is designed to function — and the Eidolon power may offer an easy way for clever players to bypass these limitations.
+            Because of this, GM's have the option of declaring a certain feature of a character to be a "major drawback"; they can then require that that character's Eidolon exibit that drawback.
+            For example, a GM could declare that a Clay Man's *blind* trait is a "major drawback," and thus their eidolon is *also* blind.
+          - We usually recommend that a player be allowed to use a bonus to negate a "major drawback."
+            Arguably, if a Clay Man can give their eidolon the ability to grow a carapace or regenerate, it makes some sense that they could build into it the ability to see.
 
   - Enhanced Eidolon
     
