@@ -539,7 +539,7 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealth�
 
   - Kobolds are sociable, creative, and very quick.
 
-  - Kobold culture is very family-oriented, and very community-oriented
+  - Kobold culture is very family- and community-oriented
 
   - Extended families tend to live together in large homes, and several
     families will cluster together to form a block.
@@ -611,7 +611,7 @@ Though the blood of Dragons is thin in Kobolds, it does sometimes manifest itsel
 
 Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire—or some other elemental type.
 
-- **Effect**: You gain the following *natural weapons*:
+- **Effect**: The character gain the following *natural weapons*:
   - Bite:
     - Unarmed Attack, 1D10+2+DB DV, AP -
     - Tags: Natural, *your type*
@@ -734,6 +734,11 @@ Some shifters, in addition to their *hybrid* form, can entirely assume the form 
 
 ### Clay Men
 
+[[designnote]]
+| Even more than the rest of the guide, Clay Men are still a work in progress.
+| While at least one of the authors thinks they're interesting enough to keep in, they've proven to be difficult to get *just right*.
+| Which may be obvious, given that several of the capabilities ascribed to them haven't made it into their rules-text yet.
+
 The Clay Men have long dwelled deep underground; they are among the most unusual races of the Emerald Plane.
 Explorers from the Commonwealth first contacted them more than six hundred years ago; though they where open enough to trade and cooperation, their isolation deep underground limited how much traffic was possible.
 
@@ -748,23 +753,44 @@ When the Commonwealth Compact was signed in CY 750, the Clay Men where one of se
 #### Alien Nature
 
 The Clay Men have a unique nature.
-They do not have organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
+They do not have distinct organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
 Without bones or organs, they have a great ability to stretch, compress and reshape themselves; they can also extend *pseudopods* for grip and locomotion.
-They do not have eyes and are completely blind, but they have exceptional senses of hearing and vibration—which serve them better than eyes in the lightless depths where they live.
+They do not have eyes and are completely blind, but they do have an exceptional sense of hearing, the ability to perceive vibrations through solid surfaces, and the remarkable ability to create "pinging" sounds and interpret the echos to "see" their surroundings; these abilities serve them better than eyes in the lightless depths where they live.
 
-Perhaps more remarkable—or more enviable—to surface dwellers, they are fueled at least in part by magic.
+Perhaps more remarkable — or more enviable — to surface dwellers, they are fueled at least in part by magic.
 They need very little food, they do not sleep, and they do not age.
 
 Even more amazing is their ability to literally *blend*.
 Two Clay Men can extend pseudopods and partly *blend together*.
 While blending, Clay Men can share, copy and exchange their minds, and can support one another if one is enjured or strained.
 
+Their reproduction is also unique.
+Individual Clay Men are sexless.
+New individuals can be created by existing individuals literally splitting.
+They have some control over this: it is possible for an individual to completely divide, creating two new individuals who bearing parts of the parent; but it is also possible for an individual to "bud," creating a new individual while remaining substantially themselves.
+Clay Men can also do this individually or cooperatively: several Clay Men can come together — on their own, or with the mediation of a *reservoir* — and create a new individual from parts of all the participating individuals.
+
+> *Clever* \[Clay-Man, Far Watch member\]: A common source of frustration members of other races encounter is how to address us.
+> Commonwealth Standard has two additional gender modes that most languages lack — one for "gender-absent," which we often use, and one for "gender-ambiguous," which Tempters often use.
+> Weal, for example, doesn't have these modes.
+>
+> River: … you're not going to juse tell us?
+> All right, then, I'll ask: what should we call you?
+>
+> Clever: Ha!
+> Fair point.
+> In Weal, I prefer \[it\]; I think that's closer to the mark than either the plural \[they\] or the singular \[he\] or \[she\].
+> But I don't speak for other Clay Men, only myself.
+
+For Clay Men, combining "traits" is a separate act.
+Whereas, for most races, the traits of a child are drawn from the traits of parents and grandparents, among Clay Men, traits can be *exchanged* between individuals (and reservoirs).
+
 #### Clay Culture
 
 Many of their communities center arund *reservoirs*—large masses of the living material that makes up Clay Men.
 Unlike individual Clay Men, reservoirs aren't sentient or active in themselves; instead, reservoirs act as repositories.
-Clay Men can *blend* with the reservoir, storing bits of themselves with in—or accessing the stored minds and experiences of others.
-Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge.
+Clay Men can *blend* with the reservoir, storing bits of themselves within — or accessing the stored minds and experiences of others.
+Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge — which other Clay Men can then access and draw from.
 
 Unsurprisingly, many "Clay" communities center around the care (and defence) of these reservoirs, and the cultivation of useful skills and knowledge within.
 
@@ -1923,17 +1949,16 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 > I hope so, anyway.
 > The High Road are trying to figure out how to let the Foxfire leave their forests without slowly withering away.
 >
-> Venn: Father Cypress can help there.
+> Venn \[Shambler\]: Father Cypress can help there.
 > He believes he can bind them to our lands, if they bring him a living cutting from one of their peach trees.
 >
-> Chandra: Operatives of the High Road have also pleaded their case to the Bullrush God; if it could create *us* \[the Drakes\], it might be able to help them.
+> Chandra \[Drake, totally not a High Road member\]: Operatives of the High Road have also pleaded their case to the Bullrush God; if it could create *us*, it might be able to help them.
 >
 > Fire: That's a little dangerous, though, isn't it?
-> If the Bullrush God orders the Drakes to liberate the Foxfire, that could get… ugly.
+> If the Bullrush God orders you to liberate the Foxfire, that could get… ugly.
 >
-> Chandra: It could, but we've got at most a decade befre it "gets ugly" with the Shaded Sea, no matter what.
-> We're *going* to ally with the Raptor Protectorate, and when we do, we'll be at war with the Goblin Empire and the Shaded Sea.
-> And when that happens, we should have a plan for the Foxfire.
+> Chandra: It could, but we've got about a decade before we finally ally with the Raptor Protectorate, and when that happens, we'll be at war with the Goblin Empire and the Shaded Sea anyway.
+> We should have a plan for the Foxfire before then.
 >
 > Venn: Well, then *someone* needs to go get that clipping, hmm?
 
@@ -1955,11 +1980,11 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 - Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly *deformable* — the can "stretch," "bend" and "squash" very slighty.
   - This gives them a +10 bonus to checks when being highly flexible would be an advantage — such as Athletics checks to fit through cramped spaces or Stealth checks to hide.
 - Forest-Flow: Foxfire can move through forests (and orchards) with incredible grace.
-  They do not treat forests and orchards as difficult terrain.
+  They do not treat forests or orchards as difficult terrain.
 - Glow: Foxfire glow gently, producing light like a (green) torch.
   This is can be useful at night, but also makes hiding *difficult* (-30 penalty) if not impossible.
 - Natures: Foxfire have three natures; one comes from the forest that is their basin, and normally inherit the other two, usually one from each parent.
-  - When you roll your Foxfire, select a *regional* nature two other natures from the list below.
+  - When you create your Foxfire character, select a *regional* nature two other natures from the list below.
   - *Adopting* a nature (or returning to your standard form) is a Quick Action.
     (Note: This not a *sustained* action.
     Switching is a single Quick Action.)
@@ -2029,7 +2054,7 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 
 #### Optional Trait: Claws
 
-While all Goblins have large claws that allow them to tunnel, they are usually to awkward to be used as weapons.
+While all Goblins have large claws that allow them to tunnel, they are usually too awkward to be used as weapons.
 Yours, however, are particularly dangerous.
 
 You have claws:
@@ -2107,17 +2132,18 @@ The heavy burden also prevents the Minotaurs from properly manning or maintainin
 > I knew you where involved in that business in Hate's Hold!
 > *Clever* owes me half a gold.
 >
-> Notebook: Interestingly, some percentage of Minotaur females are born "masculinized."
+> Notebook: Interestingly, a small percentage of Minotaur females are born "masculinized."
 > They are sterile, large, and aggressive.
 > I wonder if the Minotaur you saw was one of those?
 >
-> *Sulek:* No, she's just that determined.
+> *Sulek* (Shade-Elf, former gladiator): No, she's just that determined.
 >
 > Aryn: Oh, hi Sulek.
 > How are things going with the Minotaurs?
 >
-> *Sulek:* Proceeding.
+> Sulek: Proceeding.
 > You know *Oi-Li* and me, we're patient.
+> Well, she's determined, I follow her lead, it works out to "patient."
 
 #### Vitals
 
@@ -2203,14 +2229,14 @@ They speak of aquifers and vast underground lakes, and it's suggested that their
 - DUR 25, STR 20
 - +5 COG, +5 INT, +5 WIL
 - Movement: Swim 5/15, Foot 3/9, Slither 3/9
-- Senses: Normal, Life-Sense, Low-Light
+- Senses: Normal, Life-Sense, Low-Light, *Poort out of water*
 - Size: Medium
 - Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
 - Language Groups: MS, *Mute out of water*
 - *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
   - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's would be.
     And, of course, they can breath underwater, thanks to their gills.
-  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
+  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their senses are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
 - *Fresh-Water*: Mud-Skippers are fresh-water creatures.
   Salt water will damage their gills and skin, and will slowly poison and suffocate them.
   They take 1 DV for each turn that they are submerged in salt-water.
