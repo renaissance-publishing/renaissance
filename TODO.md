@@ -20,3 +20,5 @@
   - (As long as we use the ID and not the Content, yes?)
 - [ ] Reduce the number of special element types that we have.
   - Yes, I know that's my doing.
+- [ ] Get down to 0 explicit HTML markup
+  - [ ] replace the assides tags with \[\[custom elements]]
