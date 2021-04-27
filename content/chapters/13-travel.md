@@ -85,12 +85,9 @@ Ordinarily, this requires little more than a *Survival skill kit* (or similar), 
 If a character doesn't have a *Survival skill kit* or basic proficiency in *Survival*, a more experienced character can help them (negating any need for a check, for example).
 This ordinarily doesn't require a check; a character skilled in *Survival* can assist one *inexperienced character* for every 20 ranks in *Survival* they have past *10* (that is, 1 at 30, 2 at 50, and 3 at 70).
 
-<aside class="designnote">
-
-This number is slightly arbitrary.
-We like to keep to a minimum the number of "special numbers" that people have to remember, so we re-used the same math for when characters get proficiencies for proficiency skills during character creation.
-
-</aside>
+[[designnote]]
+| This number is slightly arbitrary.
+| We like to keep to a minimum the number of "special numbers" that people have to remember, so we re-used the same math for when characters get proficiencies for proficiency skills during character creation.
 
 ### Difficult Environs
 
