@@ -75,34 +75,16 @@ title: "Skills"
 
 ## Skill List
 
-<aside class="designnote">
-
-### Crunchy, But Not Mechanical
-
-A good description of Renaissance, provided by an early playtester, is that it is "crunchy but not mechanical"--meaning that it provides players with clear, mathematical rules for manipulating checks, but few descriptive rules for how those checks should be used (what might be called "mechanics" or "systems").
-
-The skill descriptions that follow are an example of this principle;
-We describe the kinds of things that are common areas of expertise; later, in *Character Creation*, we'll tell you how to purchase ranks in these skills--which will allow you great control over what exactly your target number will be when you are required to roll a skill check.
-But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
-that's largely up to the GM and the players.
-
-This is the reverse of some other RPGs, which might tell you specifically what each skill can be used to do, and what checks would be required;
-this difference might require some getting used to!
-
-<!--
-I'll comment this out for now.  While this text is good, I think it's already present somewhere else.
-
-While we like the flexibility that this gives the system, it does create a problem: some players greatly miss the kind of guidance that those "mechanics" and "systems" provide.
-If you have that problem, then, when designing your character, you may want to start by trying to think about the kinds of things you want your character to be able to do--which might mean imagining them in specific scenarios and then thinking about how they sovle the problems they encounter--and then pick skills that represent those tactics and abilities.
-When playing your character, you might want to first decide what you want your character to *d0*, and then allow the GM to decide which skill checks are required and what your modifiers are.
-(And not that there is not necessarily one correct answer to that question!)
-
-If you're the GM and you're having trouble picking skills, remember that the skill system is *intended* to be open-ended and flexible.
-You do want to be consistant and you don't want to be too lax, but you *don't* need to worry too much about picking exactly which skill and exactly which modifier is required in every given situation.
-And there's nothing wrong with asking a player which skill they think applies, or giving them a choice of skills--because its entirely possible that they might have more than one applicable skill!
--->
-
-</aside>
+[[designnote | Crunchy, But Not Mechanical]]
+| A good description of Renaissance, provided by an early playtester, is that it is "crunchy but not mechanical"--meaning that it provides players with clear, mathematical rules for manipulating checks, but few descriptive rules for how those checks should be used (what might be called "mechanics" or "systems").
+|
+| The skill descriptions that follow are an example of this principle;
+| We describe the kinds of things that are common areas of expertise; later, in *Character Creation*, we'll tell you how to purchase ranks in these skills--which will allow you great control over what exactly your target number will be when you are required to roll a skill check.
+| But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
+| that's largely up to the GM and the players.
+|
+| This is the reverse of some other RPGs, which might tell you specifically what each skill can be used to do, and what checks would be required;
+| this difference might require some getting used to!
 
   - Animal Handling (SAV)
     
