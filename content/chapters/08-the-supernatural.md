@@ -52,18 +52,13 @@ Spirit creatures frequently align themselves into clans and nations, much like n
 Some Spirits are mercurial, hiding behind religions and refusing to interact directly with flesh-and-blood beings; others, however, are very direct, presenting themselves directly to mortals and dealing plainly with them.
 (And, of course, a great many spirits have no concern for mortal affairs at all, dealing only with other spirits.)
 
-<aside class="gmguidance">
-
-#### Creating Spirits
-
-A theme we'll repeat is that *spirits don't follow any particular rules*.
-They can be propitiated or not; they can be bound, or not; they have extraordinary powers, or minor ones, or none to speak of; they may manifest in terrifying form, or humble form, or not.
-
-Practically, this means that spirits can have whatever powers, properties and limits that they need to have for the story that you want to tell; be creative!
-
-We intend for spirits to be *cinematic*—they're less about *mechanics and rules* and more about constructing a good *scene*.
-
-</aside>
+[[gmguidance | Creating Spirits]]
+| A theme we'll repeat is that *spirits don't follow any particular rules*.
+| They can be propitiated or not; they can be bound, or not; they have extraordinary powers, or minor ones, or none to speak of; they may manifest in terrifying form, or humble form, or not.
+|
+| Practically, this means that spirits can have whatever powers, properties and limits that they need to have for the story that you want to tell; be creative!
+|
+| We intend for spirits to be *cinematic*—they're less about *mechanics and rules* and more about constructing a good *scene*.
 
 ### Propitiation
 
@@ -90,18 +85,13 @@ For example, a spirit whose basin is a forest may only exist within it, existing
 
 Other spirits may exist in a particular form, and might be capable of moving about freely, like the *Tempters* or *Shamblers*.
 
-<aside class="gmguidance">
-
-#### Encounters with Spirits
-
-What's true of Spirits in general is true of manifestations in specific; they should be cinematic.
-
-The manifestation of a powerful spirit is an awesome thing; the players are encountering a mysterious being of extraordinary power, who may have the ability to derail their plans, bring them to ruin, or even sidestep at least some of the rules that reality normally operates by.
-A good manifestation should invoke awe and helplessness on the part of its mortal participants.
-
-Of course, not every manifestation can be awe-inspiring; not every spirit is a great spirit—and writing doesn't work that way.
-
-</aside>
+[[gmguidance | Encounters with Spirits]]
+| What's true of Spirits in general is true of manifestations in specific; they should be cinematic.
+|
+| The manifestation of a powerful spirit is an awesome thing; the players are encountering a mysterious being of extraordinary power, who may have the ability to derail their plans, bring them to ruin, or even sidestep at least some of the rules that reality normally operates by.
+| A good manifestation should invoke awe and helplessness on the part of its mortal participants.
+|
+| Of course, not every manifestation can be awe-inspiring; not every spirit is a great spirit—and writing doesn't work that way.
 
 ### Saints
 
