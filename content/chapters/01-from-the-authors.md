@@ -8,47 +8,58 @@ Welcome to *Renaissance*, an open-source D%-based fantasy role-playing game focu
 
 ## About the Setting
 
-The setting is an attempt to bring a little bit of Roddenberry-esque multi-cultural optimism to fantasy role-playing—a genre that very often centers around "good" races that look like humans fighting "evil" races that don't.
+The setting is an attempt to bring a little bit of Roddenberry-esque multi-cultural optimism to fantasy role-playing — a genre that very often centers around "good" races that look like humans fighting "evil" races that don't.
 There might be a good reason that most ancient myths cast strange and wonderful creatures as the *villains*, but modern story-tellers don't have to be constrained by those conventions.
 We'd rather tell stories about what can happen if a society learns to *embrace* all those different races and cultures in a way that promotes the dignity and prosperity of all of its members; thus, the setting focuses on the *Commonwealth*, a just, stable and prosperous society that has includes members of countless races and cultures.
+
+This desire for optimism also drives us to look onward to the horizon rather than backward to the past.
+*Renaissance* isn't the story of a world struggling to recover from a global cataclysm or picking through the ruins of a fallen empire;
+instead, it’s the story of a prosperous people at the beginning of a renaissance — or, as one contributor pointed out, a “Naissance,” since the present moment is the first time the Emerald Plane has seen such a civilization.
+Their major concerns aren't merely surviving a brutal world or looting ancient ruins; they're the unstable states and hostile empires on their borders, the machinations of powerful spirits with unknown (and possibly unknowable) agendas, and the strange, wondrous and dangerous things they might discover out beyond their frontiers.
+(If we were pulled into "fantasy-horror" as a consequence of the elements we borrowed from *Eclipse Phase*, it has turned out to be a rewarding genre to work in.)
 
 We also want the setting to feel like a plausible state for a plausible world.
 This means that it needs to be historically plausible, at least by comparison to some of the other highly eclectic RPG settings out there.
 At the same time, we don’t want to the various races and cultures in our game to line up too closely with any existing culture or region from the real world.
 We don't want to present players with a slightly-rebranded medieval Europe, placed incongruously next to a rebranded shogunate Japan and a rebranded New Kingdom Egypt; instead, we want to drop players into a living, plausible, consistent, alien world.
 
-Also, Instead of looking back, we want to look forward.
-*Renaissance* isn't the story of a world struggling to recover from a global cataclysm or picking through the ruins of a fallen empire;
-instead, it’s the story of a prosperous people on the cusp of a renaissance — or, as one contributor pointed out, a “Naissance,” since the present moment is the first time the Emerald Plane has seen such a civilization.
-Their major concerns aren't mere survival or looting ruins; it's the unstable states and hostile empires on their borders, the machinations of powerful spirits with unknown (and possibly unknowable) agendas, and the strange, wondrous and dangerous things they might discover on their frontiers.
-(If we were pulled into "fantasy-horror" as a consequence of the elements we borrowed from *Eclipse Phase*, it has turned out to be a rewarding genre to work in.)
-
 ## About the Rule-System
 
-Role-playing as a hobby combines story- and character-building creativity with rule-driven strategy — with some players leaning more towards one than the other.
-As a game system, Renaissance is intended to sit somewhere in the middle: our intent is to provide clear enough rules that players know what they can and cannot do, so that strategically-minded players can move five squares, attack with a +20 modifier and do 2d10DV — but that is also open-ended and flexible enough that creatively- or cinematically-minded players can climb the walls of a narrow alley, abseil down a well, kick off a wall to leap over an opponent, buy their way out of jail, use a their fireball power to keep themselves warm in the frozen north, shoot a fleeing target in the leg or break an opponent’s fingers so that they cannot wield a weapon, all achieved ad-hoc, without requiring complex rules or (god forbid!) *feat chains*.
+Role-playing as a hobby combines story- and character-building creativity with rule-driven strategy, with some players leaning more towards one than the other.
+As a game system, Renaissance is intended to sit somewhere in the middle: we want to provide clear enough rules that players know what they can and cannot do, so that strategically-minded players can move five squares, attack with a +20 modifier and do 2d10DV — but that is also open-ended and flexible enough that creatively- or cinematically-minded players can climb the walls of a narrow alley, abseil down a well, kick off a wall to leap over an opponent, buy their way out of jail, use a their fireball power to keep themselves warm in the frozen north, shoot a fleeing target in the leg or break an opponent’s fingers so that they cannot wield a weapon, all achieved ad-hoc, without requiring complex rules or (god forbid!) *feat chains*.
 
 In order to do this, we've tried to put *checks* at the center of the system, and we've used skill and attribute checks for as much as we possibly can.
 Skills and checks give GMs and players a clear picture for how to decide whether a character *succeeds* or *fails* at a given task, and how to resolve contests; but they do not enumerate exactly *what* characters can do, and that's by design.
-The intent is that a character can use their *Survival* skill to do *anything that a skilled survivalist could do* — a category that we have left open-ended by design (even if we do have some specific examples).
-(One early tester described the game as "crunchy, but not mechanical," and we agree!)
+The intent is that a character can use their *Survival* skill to do *anything that a skilled survivalist could do* — a category that we have deliberately left open to player creativity (even if we do have some specific examples).
+(One early tester described the game as "crunchy, but not mechanical," and that's exactly the goal!)
 
 We also want to leave room for GMs and players to add new content.
-In order to do this, we've tried to leave plenty of room in the setting for GMs and players to slip in their own cultures, locations, factions and items — once again, there are plenty of setting details that we've left under-specified, by design.
-We've also broken the rules and existing content up into well-separated components, each making minimal assumptions about what other components say and do; this is to enable GMs and players to introduce new weapons, items, classes and powers, without having to worry about how thair new contact interacts (or conflicts) with existing content.
-(Several of the authors are software developers, so we naturally think in terms of separation of responsibility, encapsulation, and dependancies.)
+In order to do this, we've tried to leave plenty of room in the setting for GMs and players to slip in their own cultures, locations, factions and items.
+Once again, there are plenty of setting details that we've left under-specified, by design.
+We've also broken the rules and existing content up into well-separated components, each making minimal assumptions about what other components say and do; this is to enable GMs and players to introduce new weapons, items, classes and powers, without having to worry (too much) about how thair new contact interacts (or conflicts) with existing content.
+(Several of the authors are software developers, so we naturally think in terms of separation of responsibility, encapsulation, and dependancy management.)
 
-One particular note is that, because the system is so under-specified — because GMs are the final arbiters for what is possible and how, mechanically, to do anything — players and GMs will need to cooperate heavily to play the game.
-To make a good GM for *Renaissance*, a GM needs to be the kind of person who can be fair with players — including working to *enable* them to do the kinds of things that their characters should be able to do, even when it purturbs the GM's carefully-laid plans.
-And good players need to trust GMs to be fair arbiters, and to work with them, proactively and early, so that GMs can run the game efficiently.
+While we leave GMing style up to you (of course!), we do feel that Renaissance works does not work well with an overly adversarial GMing style.
+Because the system is so under-specified, players will need to work with GMs in order to do pretty much anything.
+This means that GMs need to be able to fair with players, and to be willing to enable them when they want to do things that it is reasonable for their characters to do.
+A GM who doesn't work with their players to help them do what they want to do may leave them with the experience of fighting a bad text-adventure game, unsure of what they even could do, or what will be required, or how to announce it to the GM.
+(And good players need to trust GMs to be fair arbiters, and to work with them proactively and early so that GMs can run the game efficiently.)
+
+However, because *Renaissance* incorporates challenging mechanics like a stress system and progressive wound and trauma systems, it generally is not well suited to groups that like "power trip"-style gaming.
+This is especially true for horror games; horror thrives on limiting the agency of players, at least a little bit.
+(It's pretty much impossible for a power-trip game to be scary.)
 
 ## About Adventures
 
-The game is designed to focus on *intrigue*, *exploration* and *horror* (and less on dungeon-delving or hack-and-slash adventuring).
+The game is designed to focus on *intrigue*, *exploration* and *horror*.
 We'd like to support adventures that draw from inspirations like old-school *Star Trek*, *The X-Files* or the *Twilight Zone*; or from Thomas Ligotti short-stories or *Sherlock Holmes* mysteries; or that play like modern *Call of Cthulhu* games.
 Characters will spend time investigating mysteries, researching and analyzing clues, sneaking into strongholds, working social contacts, participating in palace intrigues, extorting or eliminating powerful rulers, and meddling in the affairs of powerful, strange, and mysterious forces.
 
 That's why we've surrounded the *Commonwealth* with unstable states, hostile powers, and complex politics; and it's why we've given players access to a newly-discovered continent whose southern reaches run off the edge of the map; and it's why we've included powerful Great Spirits whose goals, powers and natures are not entirely known — and may be unknowable.
+
+Optimism and horror can conflict a bit as themes, but the consequences of that conflict can be interesting.
+One way that it can play out, in the words of one tester, is as a "beatable Cthulhu."
+While players can encounter strange, terrible and vast forces, they can often confront them if they cooperate — or they can at least make a positive difference.
 
 ## About the Book
 
