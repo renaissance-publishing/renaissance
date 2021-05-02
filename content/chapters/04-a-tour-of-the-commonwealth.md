@@ -4,8 +4,7 @@ title: "A Tour of the Commonwealth"
 
 ## The Tour
 
-We will now examine each Province of the Commonwealth.
-We will proceed in roughly chronological order, so that a tour of the Provinces is roughly a review of their history.
+The Commonwealth is broken into six provinces and three city-states.
 
 ## Heartland Province
 
@@ -27,8 +26,8 @@ It is the birthplace of the Commonwealth, and remains a center of its wealth and
 ### A History
 
 Centuries before the Commonwealth Charter, the Empire of Man spread a sophisticated, urban culture Westward throughout the Emerald Plane (though often not to the benefit of those that they displaced).
-Roads where cut through the Emerald Plane, bridges where build, and walled cities of timber, plaster and stone where constructed throughout the eastern Emerald Plane — surrounded by small towns and hamlets, and criss-crossed with planted fields and orchards.
-Titles where given to the wealthy, connected and powerful in the Three Cities, along with lands in the frontiers; these Lords where permitted to organize their territories as they saw fit, subject to (and supported by) local governors and commanders in nearby cities.
+Roads where cut through trackless forests, bridges where build, and walled cities of timber, plaster and stone where constructed throughout the eastern Emerald Plane — surrounded by small towns and hamlets, and criss-crossed with planted fields and orchards.
+Titles where given to the wealthy, connected and powerful citizens of the Three Cities, along with lands in the frontiers; these Lords where permitted to organize their territories as they saw fit, subject to (and supported by) local governors and commanders in nearby cities.
 
 In the Year of the Old Empire 226 (CY -227), the Dragon Karrach lead a rebellion in the lands between the Golden Peninsula (and the original Three Cities of the Empire of Man) and the rest of the Emerald Plane; this cut the Imperial territory further inland to the west off from Imperial control.
 
@@ -284,7 +283,7 @@ The Dragonshire sits between Heartland Province to the west and south and the Ki
 
 #### Founding
 
-Centuries ago, before the first Charter, the land that would become Heartland Province was cut off from Empire of Man when the dragon named Karrach led a rebellion — supported by a faction of the local wealthy and Imperial administrators — that allowed him to claimed a swath of Imperial territory for his own.
+Centuries ago, before the first Charter, the land that would become Heartland Province was cut off from Empire of Man when the dragon named Karrach led a rebellion — supported by a faction of the local wealthy and Imperial administrators — that allowed him to claim a swath of Imperial territory for his own.
 (Karrach could speak Old Imperial, and gave "Karrach" as his name when addressing Humans in their own language; in Commonwealth Standard, he is called the Red-Scaled King.)
 The territory, once the frontier of the Empire, had grown wealthy and urban in its own right, and the elite of these new cities chaffed at their duties to the distant Three Cities; in Karrach and his kin, they had a chance at independence.
 
@@ -323,8 +322,8 @@ The Goblin Kingdoms would remain a vital enemy after the Empire of Man collapsed
 
 The collapse of the Empire in CY 87 and the failure of the Goblin assault in CY 148 marked the ascendancy of the "brothers back-to-back" as the preeminent power on the Emerald Plane.
 
-Ultimately, the Kingdoms of Men would rise from the ashes of the Empire of Man; successive errors of Goblin power would also come and go.
-Through this time, the Commonwealth and Dragonshire remained powerful allies.
+Ultimately, the Kingdoms of Men would rise from the ashes of the Empire of Man; successive eras of Goblin power would also come and go.
+Through the centuries, the Commonwealth and Dragonshire remained powerful allies; finally, in CY 744, the Dragonshire joined the Commonwealth as a province.
 
 #### Sharing Power
 
@@ -350,6 +349,26 @@ The Parliament consisted of three chambers: the Noble's Chamber, representing th
 
 ### The Dragonshire's Military
 
+### The Northland Corridor
+
+The Northland Corridor is a strip of land running north-to-south along the Worldspine Mountain.
+Historically, the area was settled by both the Commonwealth and Dragonshire — leaving control of the area disputed.
+The dispute was settled in CY 65, when an agreement seeded the territory to the Dragonshire, under the condition the Dragonshire had to allow the Commonwealth-aligned settlements to operate under certain terms of the Commonewalth Charter, and that the Dragonshire had to allow Commonwealth traders free travel through the area.
+
+The Northland Corridor became something of a vital trade route, connecting the Commonwealth to the south with the Dwarves and Orcs to the north — what would eventually become Northland Province.
+
+Even now that the Dragonshire is a province of the Commonwealth, the Northland Corridor remains an important trade route, connecting Heartland and Northland provinces.
+
+> Katarina: the complex web of legal statuses in the Corridor — combined with the fact that, historically, traders from Heartland could just wander through there half-outside the Dragonshire's jurisdiction — has meant that there's been a fair amount of smuggling going through Northland.
+>
+> Fire: Sort of makes you wonder why the Dragonshire doesn't shut it down, doesn't it?
+>
+> Chandra: I've heard that the High Road sometimes finds it useful to have a way to move people around off-the-books.
+>
+> Fire: You've heard.
+>
+> Chandra: I've heard.
+
 ### Major City: Stormsword's Rest
 
 ### Major Spirit: The Bullrush God
@@ -374,11 +393,75 @@ The Dragonshire zealously guards the territory granted to the Bulrush God, even 
 
 ## Northland Province
 
+Northland Province consists of territories in the far north, on both the east and west of the Worldspine — the peaks of the Worldspine are lower in the extreme north of its range, so it poses less of a barrior.
+It is the homeland of both the Orcs and Dwarves; notably, in both cases, some clans joined the Commonwealth, while others did not.
+
+[[abstract]]
+|
+|Dwarvem burrows, orc walled-cities and others, in the cold north.
+|
+|---
+|
+|Population: 25M
+|
+|Common Languages: Hel, Hud
+|
+|Common Races: Dwarves (35%), Orcs (20%), Gnolls (15%), Ratfolk (10), Humans (5%), Kobolds (5%), *more*
+
 ## Westward Province
+
+Westward Province is a narrow strip of heavily-fortified land running from the Worldspine to the east to the western coast.
+It was the Commonwealth's original path to the coast, and to the Haven Isles.
+It has seen constant raiding and incursion from the Shade Elves to the south, and has thus been heavily fortified — it is the most militarized and heavily-defended province of the Commonwealth, and includes some of its largest and most modern star-forts.
+
+[[abstract]]
+|
+|Small farms and massive fortifications, suffering constant Shade Elven raiding.
+|
+|---
+|
+|Population: 35M
+|
+|Common Languages: Weal, Heartland Gnoll
+|
+|Common Races: Gnolls (60%), Orcs (15%), Humans (10%), Drakes (5%), Kobolds (5%), *more*
 
 ## Herd-and-Pack Province
 
+Herd-and-Pack Province sits in a stretch of patchy forests and rising hills north of Westward Province; it consists of the territory of the former Herd-and-Pack Alliance
+The Herd-and-Pack Alliance had long allied with the Commonwealth against the Shade Elves; with the Compact, they joined the Commonwealth as a province.
+Though they meet all their obligations under the Compact, the Herd-and-Pack remain somewhat insular; they largely practice their own traditional ways of life, and have showe less interest than other provinces in trade and exchange with the larger Commonwealth.
+
+[[abstract]]
+|
+|Herder settlements, Gnollish tribes, and other tribal cultures; somewhat martial, having long cooperated with the Commonwealth to face their common enemies in the Shaded Sea.
+|
+|---
+|
+|Population: 45M
+|
+|Common Languages: Alliance Herder, Alliance Gnollish, Alliance Standard
+|
+|Common Races: Gnolls (60%), Orcs (15%), Humans (10%), Drakes (5%), Kobolds (5%), *more*
+
 ## Haven Province
+
+Haven Province consists of the Haven Isles, a large island chain off the western coast of the Emerald Plane.
+Besides the original Human and Gnollish settlers from the Commonwealth, the Haven Isles have absorbed a large number of other populations: ratfolk refugees from the Warren Isles, Shade Elves from the inland praire, Dwarves from Northland, and Kobolds from the Eastern Kingdoms.
+It is also the birthplace of the Ash Elves.
+The Haven Isles are generally urban and cosmopolitan, and are something of a hot-bed of cultural exchange and political thought; in particular, they are known for the sophisticated administration and complex, federalized system of government.
+
+[[abstract]]
+|
+|Pleasant climate, open vinyards, and political philosophy; large cities, including those constructed by races that live primarily underground.
+|
+|---
+|
+|Population: 85M
+|
+|Common Languages: Islander Skinned, Islander Furred, Ashen, Haven Weal, Haven Gnollish, Cqik, High Kobold
+|
+|Common Races: Kobolds (25%), Gnolls (20%), Ash Elves (20%), Dwarves (10%), Ratfolk (10%), Humans (5%), Shade Elves (5%), *more*
 
 ## Member Peoples
 
@@ -387,6 +470,23 @@ The Dragonshire zealously guards the territory granted to the Bulrush God, even 
 ### The Clay Men
 
 ## South-Harbor
+
+[[abstract]]
+|
+|A great port-city built in terraces set into the austere cliffs and slopes of the southern Worldspine, where it descends into the sea.
+|The current meeting-place for the Commonwealth Council; also the site of Commonwealth Fleetyard Southarbor, a major site for the Commonwealth Navy.
+|
+|---
+|
+|Population: 1,200,000
+|
+|Common Languages: Weal, Heartland Gnoll, Shipright Hud, High Kobold, Cqik
+|
+|Common Races: Humans, Gnolls, Dwarves (Shipright Dwarves), Halflings, Ratfolk
+|
+|Location: southern Worldspine
+|
+|Industries: ship-building, trade, artisenry
 
 ## Crossroads
 
@@ -496,8 +596,23 @@ Elections in Perseverance are complicated.
 Each seat corresponds to a certain portion of the city, but many also allow certain outsiders to vote in the district; for example, the Gnolls' District consists of several city-blocks on the eastern edge of the city with a large Gnollish population, and the district also allows any Gnoll living anywhere else in the city to vote for their council seat.
 This means that councilors may compete for votes throughout the city, rather than just in their district.
 
-
-
 ## Union City
 
 ## Prosperity
+
+[[abstract]]
+|
+|It would be the largest and wealthiest of Heartland's trade cities, if it weren't an independant city-state.
+|Also known for the quality of its universities, workshops, and guilds.
+|
+|---
+|
+|Population: 1,400,000
+|
+|Common Languages: Weal, Heartland Gnoll, Cqik, Caravaner, High Kobold
+|
+|Common Races: Humans, Gnolls, Ratfolk, Halflings, Kobolds
+|
+|Location: Southeast Heartland
+|
+|Industries: trade, artisenry, universities
