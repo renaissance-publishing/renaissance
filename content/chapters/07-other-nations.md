@@ -367,20 +367,21 @@ Rather than using money, they used a *corvee* system: individuals where required
 
 An alliance of two Raptor city-states—Giant's Stairs and River-Cutter's City—came to prominance and, over the following centuries, eventually built an empire.
 Their conquests where subtle, using a mix of diplomacy and military threat; often, rather than pursue the total conquest of an enemy, they chose to end conflicts once favorable terms had been secured.
-This put the Raptors in the position of managing a heterogeneous empire, whose subjects they had not entirely defeated and pacified; in order to control this empire, they had to manage a careful mix of diplomatic, military and economic pressure.
-They also had to play the different parts of their fracuous empire against each-other, using one faction as a counter-weight to another; they where masters at maintaining enough internal cohesion to preserve their prosperity and military strength, while keeping their clients at-odds enough to maintain control.
+This put the Raptors in the position of managing a heterogeneous empire, whose subjects they had not entirely defeated and pacified; in order to control this empire, they had to manage a careful mix of diplomatic, military and economic pressures.
+They also had to play the different parts of their fractuous empire against each-other, using one faction as a counter-weight to another; they where masters at maintaining enough internal cohesion to preserve their prosperity and military strength, while keeping their clients at-odds enough to maintain control.
 
 #### The Ratfolk Arrive
 
 The Ratfolk had long lived in the Warren Isles; they where a society fishers, farmers and traders.
-Between CY 331, several larger Ratfolk cities united, and began the conquest of their neighbors; this started an ocean-born exodus, with some of the refugees settling on the northwest shores of the Ruby Plane; this exodus only intensified when the Shade Elves began to raid the Warren Isles in CY 346.
+Between CY 331, several larger Ratfolk cities united, and began the conquest of their neighbors; this started an ocean-born exodus, with some of the refugees settling on the northwest shores of the Ruby Plane.
+This exodus only intensified when the Shade Elves began to raid the Warren Isles in CY 346.
 
 The Ratfolk that settled on the Ruby Plane where far from the center of power of the Raptor Empire—Giant's Stairs and River-Cutter's City where on the other side of a jungle-covered mountain range.
 The Ratfolk brought with them a mercantile culture, and relatively sophisticated technology—unlike much of the Ruby Plane, they had mastered the use of iron, for example, and where proficient sailors.
 They prospered on the Ruby Plane, and made allies—including the Brightfeathers, a parrot-like race that lived in the mountains of the northwest.
 
 Eventually, the Ratfolk began to trade with several of the tribes of Raptors that lived in the southwest flanks of the mountains; those tribes where tributaries of the Raptor's Empire just as much as any other race was.
-Though neither the Ratfolk nor the Brightfeathers where warlike, in the eyes of the Raptor Empire, they began to form a dangerous competitor.
+Though neither the Ratfolk nor the Brightfeathers where warlike, in the eyes of the Raptor Empire, they began to form a dangerous competitor—one that had the loyalty of some Raptor tribes, weakening the Raptor Empire's pretense of being able to call on the tribes for military levees.
 
 #### The Shaded Sea Attacks
 
@@ -408,7 +409,11 @@ Soon, the Raptor Protectorate began to swell with the refugees of the Goblin's c
 
 #### The Present
 
-Today, the Raptor Protectorate have face enemies on two fronts.
+Today, the Raptor Protectorate is a wealthy and powerful civilization, the preeminent native power on the Ruby Plane.
+They benefit from the military might (and deft politics) of the Terrace-Builder Raptors, and the mercantile skill, seafaring talent and relative sophistication of the Iron-Worker Ratfolk.
+The empire has also seen a massive influx of refugees from the Goblin Empire's conquest, which they strive to settle in the rlative safety that exists within the Protectorate's borders.
+
+The Protectorate faces powerful enemies on two fronts.
 So far, direct confrontation between the Raptor Protectorate and the Goblin Empire has been minimal; the Empire has, for the most part, avoided territories claimed or protected by the Protectorate.
 On the west, though the Shaded-Sea People claim no territory on the Ruby Plane, their raiding has been a constant threat.
 
@@ -420,7 +425,7 @@ The Raptor Protectorate integrates several different cultures from through the R
 
 The Terrace-Builder Raptors continue to use a distinctive system of terraces for agricultural production in the highlands of the Raptor's Peaks.
 They also continue to construct and occupy some of the largest urban centers on the Ruby Plane.
-Their systems of caste and corvee labor also survive—although perhaps somewhat changed.
+Their systems of caste and corvee labor also survive—although they have changed.
 Their leaders are still drawn from the *rulers* caste, and their administrators are still drawn from the *administrators* caste.
 Members of the *soldiers* caste still form the elite troops of their armies; they are trained in war from their youths, and serve their city-states as labourers when the army is not active.
 Farmers, in turn, work the terraced fields, and serve as craftsmen in rural settlements.
@@ -428,9 +433,9 @@ Farmers, in turn, work the terraced fields, and serve as craftsmen in rural sett
 The inclusion of the Iron-Worker Ratfolk in the Protectorate brought profitable trade, and with it chnage.
 The "tribute" that the Iron-Workers pay to the Terrace-Builders is minor, but profit from trade with them is significant; the Terrace-Builters also charge a tarrif on goods carried over the extensive network of roads that they maintain through the Raptor's Peaks at the center of the Ruby Plane.
 Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people—minus a portion claimed by the city-states themselves.
-This means, in practice, that those doing corvee labor now receive a modest wage.
+This means, in practice, that the city-states are well-funded, and that those doing corvee labor now receive a modest wage.
 
-To encourage profitable trade and useful craft, most Terrace-Builder Raptors allow members of the Soldier and Farmer castes to purchase an exemption from most corvee duties.
+To encourage profitable trade and useful craft, most Terrace-Builder city-states allow members of the Soldier and Farmer castes to purchase an exemption from certain corvee duties.
 This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
 This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
 
@@ -456,30 +461,42 @@ This, in turn, has allowed the Terrace-Builders to import a number of the innova
 
 </aside>
 
-Much ancient Terrace-Builder construction used fieldstones, though most most major construction in modern city-states is done using carefully dressed stone masonry—often limestone.
-The use of brick construction is also common, especially for minor buildings and in villages outside of their citystates; they are often face with mudbrick.
+Much ancient Terrace-Builder construction used fieldstones, though most major construction in modern city-states is done using carefully dressed stone masonry—often limestone.
+The use of brick construction is also common, especially for minor buildings and in villages outside of citystates; they are often face with mudbrick.
 Thatch is often used for roofing, and ornamentation is rare.
 
 Raptor buildings are often designed for communal use.
-Many buildings are large and open, without walls; sheets of thick fabric are used for doors and internal partitions.
+Many buildings are large and open, without internal walls; sheets of thick fabric are used for doors and internal partitions.
 
-In the mountains and foothills, the Terrace-Builders often lay their cities out in terraces; they often exploit natural defences, building walls only at the entrances to vallies.
+In the mountains and foothills, the Terrace-Builders often lay their cities out in terraces; they often exploit natural defences, building walls only at the entrances to valleys, for example.
 In the plains to the extreme east of the Empire, they sometimes use a more regular, level city-plan, with walls all-around.
 
-Raptors use a 6-day week, with the precise schedule varying by caste—the Farmer caste works three days in the field and two days for the city-state, and has one day off.
+Raptors use a 6-day week, with the precise schedule varying by caste; for example, the Farmer caste works three days in the field and two days for the city-state, and has one day off.
 The sixth day begins with a short ritual meal, but is otherwise left to the citizen.
 
 Terrace-Builder Raptors have spent centuries riding herd over an empire consisting of diverse peoples; they tend to be very open, and they are welcoming to members of strange new races and cultures.
 Members of countless different races can be found in the prosperous markets of the Terrace-Builders' city-states.
-However, it is not easy for an outsider to find a permanent place in their city-states: their caste system influences every part of their society, and it is not easy to operate within their society without a caste affiliation (and an outsider—especially a non-raptor—cannot easily claim a caste).
+However, it is not easy for an outsider to find a permanent place in their culture: their caste system influences every part of their society, and it is not easy to operate among them without a caste affiliation (and an outsider—especially a non-raptor—cannot easily claim a caste).
 
 #### Iron-Worker Ratfolk
 
-The Iron-Worker Ratfolk are culture of skilled traders, sailors, fishers and iron-workers.
+The Iron-Worker Ratfolk are a culture of skilled traders, sailors, fishers and metal-workers.
 Their industry is one of the major drivers of the Protectorate economy; fish, crab, iron, and steel from the Iron-Workers is traded in markets throughout the rest of the Ruby Plane, carried along the coast by ships and across the mountains by the Raptor's roads.
 
 They live throughout the northwest of the Ruby Plane, in large cities and small fishing villages.
+Iron-Worker Ratfolk commonly built homes and small buildings on stilts; this allows them to build in wet lowlands, sometimes even on the shore or in the water directly.
+Despite their expertise with iron, when they build near water, they frequently do not use metal nails; instead, they primarily use jointes and dowls, and replace parts of their homes as they weather.
+On drier ground, they build more traditional homes—timber-framed, well-braced, nailed together, and faced with stucco so that they can resist rain and weathering—although usually still constructed on stilts, in order to handle heavy rains and runoff.
+When they have enough dry ground to work with, Iron-Worker Ratfolk also build underground; at the extreme, they have been known to reclaim mine and quarry space for use as fortifications.
+When Iron-Workers build underground, they often face interior surfaces in brick and stucco to seal out moisture, and often build narrow drainage-paths into their rooves and walls; their underground structures are often reinforced, in order to handle the added weight of rain-soaked ground.
 
+Ironworkers have a great need for fortifications, as piracy and raiding from the Shaded Sea remains a constant problem.
+Most settlements of any size have some kind of fortification, whether small wood-stake fortifications constructed by small communities on the coast, or large-scale sub-surface constructions with fortified entrances in higher ground.
+
+Iron-Workers are experienced seafarers.
+They use a variety of boats to sail the coasts for trade, and to venture into the sea to fish.
+These include small canoes; to larger single-masted boats, like catamarans and outrigger-canoes; to larger, two-masted boats.
+Even their larger, dual-mast boats have flat bottoms and a shallow draft, the better to navigate shallow coastal waters and land on shores.
 
 ### Economy of the Raptor Protectorate
 
@@ -488,6 +505,7 @@ They live throughout the northwest of the Ruby Plane, in large cities and small 
 ### The Raptor Protectorate and Other Nations
 
 The Raptor Protectorate has no shortage of enemies: the Goblin Empire presses on the east, and the Shaded-Sea constantly attack the west.
+Pirates from the Shaded Sea directly attack the Protectorate on its western shores, raiding Ratfolk and Brightfeather villages built on or near the shore;
 
 ## The Goblin Empire
 
@@ -605,13 +623,13 @@ The Goblin Empire has seen a rapid rise in the Goblin's fortune.
 They have conquered a large swath of the northeast Ruby Plane, displacing, enslaving or exterminating many of the native races in the process.
 The territory on the Ruby Plane is now larger than their territory on the Emerald Plane—though they still rule this territory from the Emerald Plane.
 
-In characteristic style, modern Goblin society has at least three centers of power, all of them cooperating only slightly more than they compete: The Imperial administration rules their society, but only so long as it has the consent of the Kings—that is, only so long as it enriches the Kings with treasure plundered from the Ruby Plane.
+In characteristic style, modern Goblin society has at least three centers of power, all of them cooperating only slightly more than they compete: The Imperial administration rules their society, but only so long as it has the consent of the Kings — that is, only so long as it enriches the Kings with treasure plundered from the Ruby Plane.
 The Kings, in turn, try to keep the Empire on a short leash, giving it no more power than it needs to coordinate the conquest of the Ruby Plane.
 And through it all, the Judges remain, ruling on matters of law and custom.
 
 ### The Economy—and Slavery
 
-Slaves have long been one of the chief resources of the Goblin economy—the North Coast Code specifically granted Goblins the right to take any non-Goblin as a slave, and very few scholars of the Code have questioned this provision or called for change.
+Slaves have long been one of the chief resources of the Goblin economy — the North Coast Code specifically granted Goblins the right to take any non-Goblin as a slave, and very few scholars of the Code have questioned this provision or called for change.
 
 Acquiring slaves on their home plane grew more and more difficult as the other peoples and nations of the eastern Emerald Plane grew stronger; it effectively became impossible with the signing of the Commonwealth Compact, as they could no longer risk the wrath of the Commonwealth.
 
@@ -661,27 +679,27 @@ For centuries, with few exceptions, Goblins have lagged behind both the Commonwe
 In an effort to close this gap, the Empire has been using the Ruby Plane as a kind of military laboratory, testing out new technologies and tactics against inferior enemies.
 
 One such technology is the use of gunpowder weapons.
-The Goblin Empire is one of two major powers in the known world to experiment with guns and cannons—the other one being the Commonwealth.
-The Goblin Empire had hoped that these weapons would provide a powerful edge in their conquest of the Ruby Plane; while they have been a powerful advantage, they have not provided the edge that the Goblins hoped.
-Guns are powerful, but they are, in many ways, unnecessary: none of the races or cultures that they have conquered have made heavy use of heavy metal armours, so guns provide no great advantage over conventional bows and crossbows.
+The Goblin Empire is one of two major powers in the known world to experiment with guns and cannons — the other one being the Commonwealth.
+The Goblin Empire had hoped that these weapons would provide a powerful edge in their conquest of the Ruby Plane; while they have indeed been a powerful advantage, they have not provided the edge that the Goblins hoped.
+Guns are powerful, but they are, in many ways, unnecessary: none of the races or cultures that they have conquered have made heavy use of heavy metal armors, so guns provide no great advantage over conventional bows and crossbows.
 Similarly, though cannons *have* proved to be devastating seige weapons, the designs available to the Goblin Empire are not portable or wieldy enough to be effectively deployed against infantry; this limits the advantage that they provide in open warfare.
 Cannons are also expensive, and impose a significant baggage train.
 
-Hobgremlins are a more gruesome example.
-Hobgremlins represent an attempt to close the gap in physical power between Goblins and other, larger races, without relying on (untrusted) slaves in battle.
-Hobgremlins are alchemical creations, created by the magical, surgical and alchemical manipulation of Gremlins; the procedure is gruesome, and the results are horrifying.
+Hobgremlins are a more gruesome innovation.
+Hobgremlins represent an attempt to close the gap in physical power between Goblins and other, larger races, without relying on (sometimes unreliable) slaves in battle.
+Hobgremlins are alchemical creations, created by the magical, surgical and chemical manipulation of Gremlins; the procedure is gruesome, and the results are horrifying.
 
-Hobgremlins are indeed much more physically imposing than Gremlins or Goblins; they are often as large as Gnolls, and stronger and tougher.
-They often also possess other advantages, like potent natural weapons, venoms, thick hides or acute senses.
-Horrifyingly, they are mentally *reduced* as much as they are physically enhanced; the experiment is only useful if it produces warriors that the Goblins can trust and control more than a typical slave, and so Hobgremlins are mentally crippled, and conditioned to be loyal to their Gremlin tenders and Goblin masters.
-This crippling can sometimes involve physically lancing parts of the brain, a procedure that leaves the Hobgremlin an invalid—if they survive at all.
-The alchemical processes that create Hobgremlins can also be unstable; they may suffer deformity and illness—deadly allergies and strange addictions are common.
+Hobgremlins are indeed much more physically imposing than Gremlins or Goblins; they are often as large as Gnolls, and even stronger and tougher.
+They often possess other advantages as well, like potent natural weapons, venoms, thick hides or acute senses.
+Horrifyingly, they are often mentally *reduced* as much as they are physically enhanced; the procedure is only useful if it produces warriors that the Goblins can trust and control more than a typical slave, so Hobgremlins are often mentally crippled, and conditioned to be loyal to their Gremlin tenders and Goblin masters.
+This crippling can sometimes involve physically lancing parts of the brain, a procedure that leaves the Hobgremlin an invalid — if they survive at all.
+The alchemical processes that create Hobgremlins can also be unstable; they may suffer deformity and illness — deadly allergies and strange addictions are common.
 
-Though the process has not been completely abandoned, it was never widespread, and its use has declined.
-One reason is that the results where unreliable; it can be frustratingly difficult to keep Hobgremlins healthy, and the damage to their minds limits their use on the battlefield.
-Even more dangerous—though the Empire may never admit it—was the impact that it had on Gremlins int he Empire.
-Gremlins where horrified by the process, and deeply resented the degradation being visited upon themselves and their kin—so much so that at least one Gremlin doctor involved in the experiments defected to the Ruby Alliance.
-The Empire feared that, if the experiments continued, they might face a Gremlin uprising—a terrifying prospect, as the Empire is dependant on Gremlin slave-handlers to function.
+Though the process has not been completely abandoned, its use has declined — and it was never widespread.
+One reason is that the results are unreliable; it can be frustratingly difficult to keep Hobgremlins healthy, and the damage to their minds limits their use on the battlefield.
+Even more dangerous — though the Empire may never admit it — was the impact that it had on Gremlins in the Empire.
+Gremlins where horrified by the process, and deeply resented the degradation being visited upon themselves and their kin — so much so that at least one Gremlin doctor involved in the experiments defected to the Ruby Alliance.
+The Empire feared that, if the experiments continued, they might face a Gremlin uprising — a terrifying prospect, as the Empire is dependant on Gremlin slave-handlers to function.
 
 Now, Hobgremlins are rarities, produced only by the most secure or most foolish Goblins.
 Even more rare are similar experiments on other races; these rarely end well for the Goblins involved because, while the specimens created are powerful, they are also much less "sympathetic" to their Goblin masters than Trusted Gremlin slaves.
@@ -689,7 +707,7 @@ Even more rare are similar experiments on other races; these rarely end well for
 #### The Navy
 
 The Goblin navy is vital for connecting their territories on the Ruby Plane with their homeland.
-This navy is primarily a defensive and logistical force—protecting their landings, ferrying troops and equipment from the mainland and riches back home.
+This navy is primarily a defensive and logistical force — protecting their landings, ferrying troops and equipment from the mainland and riches back home.
 
 ### The Goblin Empire and Other Nations
 
@@ -697,15 +715,16 @@ While the Goblin Empire has made no peace overture to the Kingdoms of Men or the
 
 The Goblin Empire is, of course, an enemy of the Raptors' Protectorate, and the two are at war; indeed, the very mission of the Protectorate is to provide a safe refuge from the predations of the Shaded Sea Peoples and the Goblin Empire.
 So far, however, direct conflict has been minimal: the Protectorate lags behind the Empire in technological sophistication and military capability, and so they have focused on securing their borders and integrating and arming their refugee populations.
+(And there is still a substantial "buffer zone" of unfortunate civilizations between the Raptor's Protectorate and the Goblin Empire.)
 
-The Commonwealth has been slow to form an alliance with the Raptors' Protectorate—they are slow to start a war that may consume half a continent on another's behalf—but sympathy for the Protectorate has long been strong in the Commonwealth, and relations between the two have been strengthening.
+The Commonwealth has been slow to form an alliance with the Raptors' Protectorate — they are slow to start a war that may consume half a continent on another's behalf — but sympathy for the Protectorate is strong in the Commonwealth, and relations between the two have been strengthening.
 The Goblins know that such an alliance is coming, and that they may lack the diplomatic means to stop it; in recent years, they have begun to prepare to fight a war on two fronts.
 
-Even though the Commonwealth has not yet formally allied with the Protectorate, they have long meddled in the affairs of the Goblin Empire—through spies directly commissioned by the council, and through the tacit support of organizations like the High Road.
+Even though the Commonwealth has not yet formally allied with the Protectorate, they have long meddled in the affairs of the Goblin Empire — through spies directly commissioned by the Commonwealth Council, and through the tacit support of organizations like the High Road.
 
-While some kings have sought allies among the kings and nobles of the Eastern Kingdoms, such overtures have not yet been fruitful, and the Empire has not yet given them its official support; the southern Human Kingdoms have long been enemies of the Goblin Kings, and the Kings of the East are slow to forgive.
+While some of the Goblin's kings have sought allies among the kings and nobles of the Eastern Kingdoms, such overtures have not yet been fruitful, and the Empire has not yet given them its official support; the southern Human Kingdoms have long been enemies of the Goblin Kings, and the Kings of the East are slow to forgive.
 
-The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the sea south of their borders, cutting off an ocean route).
+The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the seas between South-Harbor and the Ruby Plane, cutting off an ocean route).
 
 ## Deep-Explorer Dwarves
 
@@ -799,7 +818,7 @@ Invaders struck by these bolts fell rapidly even when their wounds where minor, 
 
 ## Foam-and-Cloud
 
-![Kingdoms Banner](../images/proto_banner_foam_cloud.png)
+![Foam-and-Cloud Banner](../images/proto_banner_foam_cloud.png)
 
 Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands—an island chain in the Great Gulf.
 The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two—and most of the smaller islands of the chain—have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
@@ -898,7 +917,7 @@ The Kingdom of the Foam and Cloud is a Goblinoid Kingdom; the Turquoise Kings ha
 It is an unusual Kingdom.
 In CY 703, the first Turquoise King voted against the formation of the Empire, and—though they are still Goblin Kings, subjects of the Code—they have not contributed to the Empire or accepted its rule.
 Slavery has almost been extinguished there, with the full support of the islands' Judges.
-Though they still trade with the Goblin mainland, many merchants will not sail to the islands—out of fear that their slaves will be siesed and liberated.
+Though they still trade with the Goblin mainland, many merchants will not sail to the islands—out of fear that their slaves will be seized and liberated.
 
 The culture there is neither purely Goblinoid nor Commonwealth; it is a hybrid that has been forged over more than 250 years.
 Commonwealth Standard, Vulgar Goblin, Speech-of-the-Lesser, Weal and Heartland Gnoll and more can all be heard in the kingdom's lively markets; Goblin scholars of the Code argue law with the elected leaders of Commonwealth communities; and Goblins, Gremlins, Humans and Gnolls dine together on feast-days.
