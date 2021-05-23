@@ -213,7 +213,7 @@ Example Languages, Rare and Common:
         ancient).
       - Group HHED
 
-  - Islander Elvish: commonly spoken by the Ash Elves living on Haven
+  - Ashen ~~Islander Elvish~~: commonly spoken by the Ash Elves living on Haven
     Isle
     
       - Islander Elvish is a complex hybrid language, derived from the
@@ -223,12 +223,14 @@ Example Languages, Rare and Common:
         settlements in Islandholme).
       - Group HHED
 
-  - Islander: common language on the Haven Isles, influenced by Islander
-    Elvish and Weal.
+  - ~~Islander~~ Islander Skinned: common language on the Haven Isles, influenced by ~~Islander Elvish~~ Ashen and Weal.
     
-      - Islander is a language commonly spoken on the Haven Isles; it is
-        a derivative of Weal, though it has borrowed heavily from the
-        disordered synthesis of elven languages that is Islander Elven.
+      - ~~Islander~~ Islander Skinned is a language commonly spoken on the Haven Isles; it is a derivative of Weal, though it has borrowed heavily from the disordered synthesis of elven languages that is ~~Islander Elven~~ Ashen.
+      - Group HHED
+
+  - Islander Furred: language commonly spoken by the Halflings and Gnolls of the Haven Isles.
+    
+      - Islander Furred is synthesis of Haven Gnollish, Cqik and Commownealth Standard that is slowly replacing both Haven Gnollish and Cqik as a first-language among Haven Isles' Gnolls and Ratfolk.
       - Group HHED
 
   - Keillou: the language of the Shade Elves.
