@@ -3,6 +3,7 @@ Useful unicode characters:
 * — the em-dash
 * × the multipliction symbol
 * ÷ the division symbol
+* … the ellipsis
 
 Custom elements that we have.
 I *think* this are enumerated in gatsby-config.js\?
