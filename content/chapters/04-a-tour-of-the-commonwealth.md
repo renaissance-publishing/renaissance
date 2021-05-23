@@ -6,6 +6,8 @@ title: "A Tour of the Commonwealth"
 
 The Commonwealth is broken into six provinces and three city-states.
 
+# Provinces
+
 ## Heartland Province
 
 Heartland Province sits between the Dragonshire to the north-east, the Goblins to the south-east, and the Worldspine to the west.
@@ -275,9 +277,36 @@ However, many Commonwealth provincial officials actually live (and work) in *Car
 
 In Heartland fashion, rather than arrange for a tax to fund the city, or have the Commonwealth Council pay for it's operation Geoph's Legacy was granted the charter to several surrounding manors, under the auspices of *Carved-Balance City*; those manors currently support the campus with food and labor.
 
+### Common Language: Weal
+
+[[abstract]]
+|
+|A language commonly spoken by Humans in Heartland Province.
+|
+|Group: HHED
+|
+|Partially Intelligeble: Old Imperial, Royal, other derivatives of Old Imperial
+
+Weal — or some local variant of it — is spoken throughout Heartland and Westward, and is not-uncommon throughout the rest of the Commonwealth.
+It is derived from Old Imperial — the language of the Empire of Man — but has changed substantially.
+In turn, it was carried throughout the Emerald Plane by Commonwealth explorers and settlers, where it has influenced or blended with other languages.
+
 ## Dragonshire Province
 
 The Dragonshire sits between Heartland Province to the west and south and the Kingdom of Men to the north; it also borders on the Glass Sea, where, in other times, it might do brisk trade with the Human and Goblin nations.
+
+[[abstract]]
+|
+|A province long defined by the cooperative co-evolution of its Dragon and Drake nobility, its elites, its guilds, and its common folk.
+|A history of trade and conflict with the neighboring Kingdoms of Men have led to the development of both prosperous trade-routes and sophisticated military doctrines.
+|
+|---
+|
+|Population: 135M
+|
+|Common Languages: Rak, Noble Weal, High Kobold, Royal, *more*
+|
+|Common Races: Human (55%), Drakes (25%), Kobolds (10%), *more*
 
 ### History
 
@@ -371,6 +400,25 @@ Even now that the Dragonshire is a province of the Commonwealth, the Northland C
 
 ### Major City: Stormsword's Rest
 
+[[abstract]]
+|
+|Stormswor'd Rest is a walled city straddling a narrow pass that leads west across the Worldspine.
+|Well-fortified and highly-definsible, it guards the east against campaigns launched out of the independant territories of the northwest, or by unaligned Orcs and Dwarves; it also hosts some of the Dragonshire's premier war-colleges.
+|Controlling both one of the rare passes through the Worldspine and sitting in the Northland Corridor, it is also a major trade hub.
+|It is also a polyglot city, hosting populations from a dizzying array of races, many from outside the Commonwealth (possibly owing to being a major center of High Road activiy).
+|
+|---
+|
+|Population: varies; 90K permanent, plus stationed troops
+|
+|Common Languages: Weal, Hartland Gnoll, *more*
+|
+|Common Races: varies; Humans (20%), Gnolls (20%), Drakes (10%), Orcs(10%), Kobolds (5%), plus others and stationed troops
+|
+|Location: central Westward, in narrow band between Herd-and-Pack and Shaded Sea
+|
+|Industries: Soldiery, Command, Administration, Seigecraft, Masonry, Smithing, Farming
+
 ### Major Spirit: The Bullrush God
 
 **Basin:** Unknown.  It was able to manipulate Dragon eggs to create the Drakes, and it apparently has use of land and a title.
@@ -404,9 +452,9 @@ It is the homeland of both the Orcs and Dwarves; notably, in both cases, some cl
 |
 |Population: 25M
 |
-|Common Languages: Hel, Hud
+|Common Languages: Hel, Hud, Orcish, Snow-Paw, Cqik
 |
-|Common Races: Dwarves (35%), Orcs (20%), Gnolls (15%), Ratfolk (10), Humans (5%), Kobolds (5%), *more*
+|Common Races: Dwarves (35%), Orcs (20%), Gnolls (15%), Ratfolk (10%), Humans (5%), Kobolds (5%), *more*
 
 ## Westward Province
 
@@ -426,11 +474,55 @@ It has seen constant raiding and incursion from the Shade Elves to the south, an
 |
 |Common Races: Gnolls (60%), Orcs (15%), Humans (10%), Drakes (5%), Kobolds (5%), *more*
 
+### Major Location: Seven-Points
+
+[[abstract]]
+|
+|Seven-Points is a massive star-fort built in center of Westward Province, where the province is at its narrowest, sandwiched between the rolling hills of Herd-and-Pack to the north and the Shade-elf-dominated steppes to the south.
+|The massive star-fort is at the cutting edge of fortification design, designed to provide optimal fields-of-fire for modern cannons, and to resist the Shade Elves' most sophisticated and modern tactics and weapons, and provisioned for more than two years' of seige.
+|The fort is also massive, dwarfing a great many cities in scale; it hosts a permanent population and civilian support personnel, and has even granted charters to a handful of manors that have planted fields to the north.
+|It is not the capital of Westward only because it technically is not a city; it is the center of Commonwealth military operations in the West.
+|The site has not gone 5 full years without combat since construction of the modern fortress began sixty-five years ago.
+|
+|---
+|
+|Population: varies; 90K permanent, plus stationed troops
+|
+|Common Languages: Weal, Hartland Gnoll, *more*
+|
+|Common Races: varies; Humans (20%), Gnolls (20%), Drakes (10%), Orcs(10%), Kobolds (5%), plus others and stationed troops
+|
+|Location: central Westward, in narrow band between Herd-and-Pack and Shaded Sea
+|
+|Industries: Soldiery, Command, Administration, Seigecraft, Masonry, Smithing, Farming
+
+### Major Location: Sail-Forest
+
+[[abstract]]
+|
+|Sail-Forest is the Commonwealth's greatest port-city on the West coast.
+|Like Seven-Points (and much of Westward), it is as much a fortification as it is a city.
+|The site is several hundred years old, and has grown outward in stages: the oldest district at the center was constructed in CY 424, in an older, more Eastern style; it is surrounded by stages of expansion, ringed by newer and ever more formidable walls.
+|Besides being a busy port-city, it is connected to two major military installations: a formidable star-fort sits half a demarc to the north and inland, connected by a narrow, armored access-way, while Commonwealth Fleetyard Westward sits immediately to the south, within the outer-most ring of walls.
+|Commonwealth Fleetyard Westward is second only to Southarbor and the Fortress Island as a naval installation, and constructs, hosts and commands the fleets that patrol the gulf between Islandhome and Westward.
+|
+|---
+|
+|Population: 910K
+|
+|Common Languages: Weal, Hartland Gnoll, Orcish, Islander Skinned, Islander Furred
+|
+|Common Races: Humans (25%), Halflings (15%), Ratfolk (15%), Orcs (15%), Kobolds (10%), *more*
+|
+|Location: west coast
+|
+|Industries: trading, exploration, ship-building, soldiery, navy command, masonry, carpentry, smithing, military command, province administration
+
 ## Herd-and-Pack Province
 
-Herd-and-Pack Province sits in a stretch of patchy forests and rising hills north of Westward Province; it consists of the territory of the former Herd-and-Pack Alliance
-The Herd-and-Pack Alliance had long allied with the Commonwealth against the Shade Elves; with the Compact, they joined the Commonwealth as a province.
-Though they meet all their obligations under the Compact, the Herd-and-Pack remain somewhat insular; they largely practice their own traditional ways of life, and have showe less interest than other provinces in trade and exchange with the larger Commonwealth.
+Herd-and-Pack Province sits in a stretch of patchy forests and rising hills north of Westward Province; it consists of the territory of the former Herd-and-Pack Alliance, an alliance principally between several Herder and Gnoll tribes to resist the Shade Elves.
+Owing to a common enemy, the Herd-and-Pack Alliance had been allies of the Commonwealth since the latter first built settlements near the rolling steppe and praire of the west; with the Compact, the Alliance joined the Commonwealth as a province.
+Though they meet all their obligations under the Compact, Herd-and-Pack remains somewhat insular; they largely practice their own traditional ways of life, and have showe less interest in trade and exchange with the larger Commonwealth.
 
 [[abstract]]
 |
@@ -438,11 +530,32 @@ Though they meet all their obligations under the Compact, the Herd-and-Pack rema
 |
 |---
 |
-|Population: 45M
+|Population: 35M
 |
 |Common Languages: Alliance Herder, Alliance Gnollish, Alliance Standard
 |
-|Common Races: Gnolls (60%), Orcs (15%), Humans (10%), Drakes (5%), Kobolds (5%), *more*
+|Common Races: Herders (35%), Gnolls (35%), *others*
+
+### Major City: Five Rivers (Kauhnahei)
+
+[[abstract]]
+|
+|Five Rivers is situated on the top of a prominent hill 6 *demarc* west of the rough center of Herd-and-Pack province, in the rolling hills and small rivers of the center-west of the Emerald Plane.
+|It was the Herder's oldest and greatest city, its construction predating the founding of Herd-and-Pack by almost two hundred years.
+|Historically, it served as the de-facto capital of the Herd-and-Pack Alliance; today, it is the seat-of-administration for Herd-and-Pack Province.
+|It's Commonwealth name is derived from the surrounding network of rivers that it commands; a rough transliteration of the Herder name is "*Kauhnahei*," which is believed to derive from the (fairly literal) phrase "Great Hill City."
+|
+|---
+|
+|Population: 190K (varies)
+|
+|Common Languages: Alliance Herder, Alliance Standard
+|
+|Common Races: Herders (75%), Gnolls (20%), *more*
+|
+|Location: Near the center of Herd-and-Pack Province, north of Westward Province and the Shaded Sea.
+|
+|Industries: Farming, brick-making, masonry, trade
 
 ## Haven Province
 
@@ -459,15 +572,241 @@ The Haven Isles are generally urban and cosmopolitan, and are something of a hot
 |
 |Population: 85M
 |
-|Common Languages: Islander Skinned, Islander Furred, Ashen, Haven Weal, Haven Gnollish, Cqik, High Kobold
+|Common Languages: Islander Skinned, Islander Furred, Ashen, Haven Weal, Haven Gnollish, Cqik, High Kobold, Merchant Voyager, *more*
 |
 |Common Races: Kobolds (25%), Gnolls (20%), Ash Elves (20%), Dwarves (10%), Ratfolk (10%), Humans (5%), Shade Elves (5%), *more*
 
-## Member Peoples
+### Common Language: Ashen
 
-### Tribes
+[[abstract]]
+|
+|Ashen is a (highly complex) language spoken primarily by Ash Elves.
+|
+|Group: HHED
+|
+|Partially Intelligeble: Keillou (-10), Merchant Voyager (-10), Weal (-20), Shipwright Hud (-20)
+|
+|Special: Ashen is a difficult language to learn, imposing a -10 penalty on related checks.
 
-### The Clay Men
+Ashen is the highly complex language spoken by the Ash Elves of the Haven Isles.
+It is a complex synthesis of several languages: while its earliest roots lie in Keillou (the language of the Shade Elves), it has since been influenced heavily by the (unrelated) languages of various Wood Elf and Shifter tribes, by Haven Weal, by Shipwright Hud, and even by Autumn Caravaneer.
+
+On the one hand, Ashen is a very expressive language; it has access to a rich pallet of widely-varied elements.
+On the other hand, it is *very* difficult to learn, being composed as it is of a half-dozen different languages.
+
+### Common Language: Islander Skinned
+
+[[abstract]]
+|
+|Islander Skinned is a derivative of several languages, principally based on Weal; it is slowly replacing regional variants of other languages as the first language for the Skinned — that is, furless — Folk of the Haven Isles.
+|
+|Group: HHED
+|
+|Partially Intelligeble: Haven Weal (-10), other Weal derivatives (-20), Keillou (-20), Hel (-20), Shipwright Hud (-30)
+
+Islander Skinned is a language commonly spoken throughout the Haven Isles; it is distantly based on Haven Weal, but includes elements of many other languages.
+The language is artificial; it is a formalized variant of Haven Weal, but also draws on many of the other languages of the Haven Isles, with the deliberate intent of creating a language that can be shared by the many "skinned" — that is, furless — folk of the Haven Isles.
+
+As such, it is slowly displacing Shipwright Hud, Hel, Haven Weal, and several other languages as a frist language in the islands — although many of those peoples and cultures have hold-outs attempting to preserve their original languages.
+
+While the language is a complex blend of many unrelated languages like Ashen, it is much easier to learn; it was very deliberately designed to be "regular" in its forms and easy to master.
+
+### Common Language: Islander Furred
+
+[[abstract]]
+|
+|Islander Furred is principally derived from Haven Gnollish, though it has been influenced by Cqik.
+|Like Islander Skinned, it is designed to be shared by the "furred" racees of the Haven Isles, and is slowly replacing their other languages as the primary language of the "furred folk" of the Haven Isles.
+|
+|Group: GR
+|
+|Partially Intelligeble: Haven Gnollish, Cqik (-10), other derivatives of Gnollish and Cqik (-20)
+
+Much as Islander Skinned, Islander Furred is a formalized, artificial language designed to unite several distinct communities in the Haven Isles, each with their own language.
+Islander Furred is primarily based on Haven Gnollish, though it also borrows from Cqik; like Islander Skinned, it has also been simplified and made more regular, to make it easier to learn and master.
+
+It is slowly displacing Haven Gnollish and Cqik a sa first language among the Gnolls and Ratfolk (respectively) of the HAven Isles — although, again like Islander Skinned, each community has its traditionalists and hold-outs.
+
+### Major City: Union
+
+[[abstract]]
+|
+|In Haven Isles style, Union is technically an "administrative region" consisting of three conjoined subterranean cities sharing a common central cavern, built under the peaks of Islandhome (the largest of the Haven Isles).
+|One city is Ash-Elven, one is Shipwright Dwarven, and one — the newest — is Kobold; in the center, connecting the three, sits a bustling "public square" cavern that is istelf larger than some small cities.
+|Union is, in many ways, the cultural center of the Haven Isles, and the three cultures at its heart; it is, unsurprisingly, also the capital of Haven Isles.
+|
+|---
+|
+|Population: 1.3M
+|
+|Common Languages: Islander Skinned, Ashen, High Kobold, Islander Hel, *more*
+|
+|Common Races: Kobolds (35%), Ash Elves (25%), Dwarves (25%), *more*
+|
+|Location: Under the peaks of Islandhome
+|
+|Industries: Masonry, Other Artisenry, Universities, Writing, Printing, Trade, Theatre
+
+# Member Peoples
+
+## Caravans
+
+[[abstract]]
+|
+|Caravans helped bind the early Commonwealth together, and where the carriers of its trade.
+|Originally peopled by Halflings and Gnolls, other races and groups have taken to caravan culture.
+|And caravan culture has changed, in part by taking to the sea.
+|
+|---
+|
+|Population: 1.5M
+|
+|Common Languages: Autumn Caravneer, Heartland Gnoll, Weal, Royal, Cqik, *more*
+|
+|Common Races: Halfling (55%), Gnoll (30%), Ratfolk (10%), *more*
+
+### Common Language: Autumn Caravaneer
+
+[[abstract]]
+|
+|A language commonly spoken by Halfling caravaneers.
+|
+|Group: HHED
+|
+|Partially Intelligeble: some other Halfling languages
+
+Autumn Caravaneer is the language commonly used by Halfling caravaneers.
+It is derived from an older language commonly spoken by Halflings in the region, but it has been heavily influenced by the language spoken by the people of Automn's Hold — Weal.
+
+## Tribes
+
+[[abstract]]
+|
+|The Wester Traders are a 
+|
+|---
+|
+|Population: 30M
+|
+|Common Languages: local or traditional languages
+|
+|Common Races: highly diverse; Elves 12%, Gnolls 7%, Herders 5%, Shifters 5%, Humans 5%, *more*
+
+## Merchant Voyagers (Benath)
+
+[[designnote]]
+|
+|The Merchant Voyagers are an example member-tribe — or, more exactly, society of member-tribes.
+|Obviously, many other tribes have — and have not — signed the Charter and joined the Commonwealth.
+
+[[abstract]]
+|
+|The Merchant Voyagers are a group of Wood Elf, Human, and Shifter tribes who herd and hunt in a patch of the unclaimed land west of the Worldspine.
+|By CY 570, all of the Voyager-speaking tribes had signed the Charter, and where Commonwealth members; thoughout the last several centuries, the Voyagers, unlike many other tribes, have exchanged heavily with the wider Commonwealth.
+|
+|---
+|
+|Population: 2.5M
+|
+|Common Languages: Voyager (Benath)
+|
+|Common Races: Wood Elves, Humans, Shifters
+
+The Merchant Voyagers consist of a group of Elven, Human, and Shifter tribes who herd and hunt in a patch of the tribal lands west of the Worldspine — that is, west of the Worldspine and northeast of Herd-and-Pack province.
+Though several different races, these tribes share a language and culture — which they call Benath, which loosely means "traders."
+(The name "Traders," transliterated to Commonwealth Standard, would not name *one* culture very well; instead, they where given the Common Name "Merchant Voyagers.")
+
+[[designnote]]
+|
+| "Merchant Voyager" doesn't render very well in English.
+| In Common, it's a contraction of "Merchant" and a suffix that connotes travel, exploration, or adventure — somewhat like "Trade-onaut".
+
+The Merchant-Voyager tribes are semi-nomadic: they have constructed a number of small cities, where the young and old reside, surrounded by planted fields; however, most of the young and able-bodied travel as nomadic herders, hunters, and traders.
+Merchant-Voyager culture encourages trade, study, openness, and a kind of *pragmatism* — a Benath word that often gets rendered to "practicality" or "pragmatism," but describes a realist, almost-consequentialist streak in their law and philosophy.
+Being open, curious, and trade-minded, they welcomed early Commonwealth explorers and traders.
+Finding the Commonwealth to be a fair and beneficial trade-parters, they where quick to seek closer relations; the first Merchant-Voyager tribe signed the Charter less than a decade after they where first encountered.
+
+[[designnote]]
+|
+| How are Merchant Voyageres different from the Herd-and-Pack Province?
+| Herd-and-Pack is a *province*, because its people assembled an alliance that ruled a territory.
+| By contrast, the Merchant Voyagers are semi-nomadic, ranging over a territory that they shared with other tribal cultures.
+| They also didn't form an alliance; though they share a culture and language — and typically view themselves as members of a shared culture, and cooperate with one-another — they never formed a permanent alliance or shared government.
+
+While many Merchant Voyagers have remained in their traditional lands and continue to practice their traditional lifestyles, with each generation, some portion of them leave to travel the wider Commonwealth.
+Small Merchant Voyager enclaves can be found throughout Westward, Heartland, and Haven Provinces — in fact, much of the Wood Elf blood in Ash Elves comes from early Merchant Voyagers who settled on Islandhome (who also inherited a portion of the Merchant Voyagers' open and materialist outlook).
+
+> Fire: Fun fact, I'm a Merchant-Voyager.
+> My parents left my people's homeland when I was two, went through the northern pass through the Worldspine, and settled in Stormsword's Rest on the other side.
+>
+> Track: Yeah, that makes sense; of course you're from the materialist tribe.
+>
+> Chandra: That must have been tough, with a two-year-old.
+>
+> Fire: It was, but it helps that we're shifters; it's an easier trip if your two-year-old can turn into a snowshoe rabbit.
+>
+> Chandra: Unless he decides to run off, I suppose.
+>
+> Fire: Hah!  Well, I didn't, so here I am, a professor in your lovely city.
+
+### Major City: Shifter's Market
+
+[[abstract]]
+|
+|Shifter's Market is a typical Merchant Voyager city — if slightly larger than most.
+|It is well and literally named; it consists of a few artisan-districts and market sqaures, surrounded by campgrounds.
+|
+|---
+|
+|Population: 13K
+|
+|Common Languages: Merchant Voyager
+|
+|Common Races: Shifters (70%), Wood Elves (10), Humans (10%)
+|
+|Location: tribal lands west of the Worldspine, northeast of Herd-and-Pack
+|
+|Industries: Trade, Tanning, Carpentry, Brewing, Agriculture
+
+Shifter's Market is typical of Merchant-Voyager cities, if somewhat larger than most, constructed by a Shifter tribe of Merchant Voyagers.
+
+At the center of Shifter's Market, there are a number of irregular districts, each laid out in a rough grid, branching off of the city's two main streets — one running roughly north-south, and the other roughly east-west.
+Districts include homes for local farmers; market-squares surrounded by trader's homes; administrators; and artisens.
+These distracts are space-out, and the ground between them is open; they are surrounded by the low Inner Wall.
+
+The space between the inner and outer walls is open; it is used to house any of the tribe's nomadic herders, hunters, and traders who return home, as well as any visiting traders and caravans.
+Surrounding this large open space is the larger Outer Wall, a thick structure of hewn-stone some six strides high and an impressive twenty strides thick.
+(The outer walls where constructed in stages, as the existing walls where modernized and reinforced; it took generations to arrive at the current construction.)
+
+### Common Language: Voyager (Benath)
+
+[[abstract]]
+|
+|The language of the Merchant Voyagers.
+|
+|Group: HHED
+|
+|Partially Intelligeble: the native languages of other nearby tribes, Ashen (-20), Islander Skinned (-20)
+
+The Merchant Voyagers speak their own language.
+It's similar to the languages spoken by other nearby tribes, but dissimilar from any other language in the wider Commonwealth.
+It's had a particularly strong influence on Ashen and Islander Skinned, since a number of Merchant Voyagers have settled in the Haven Isles (and since many Ash Elves are, in part, descendants of Merchant Voyagers).
+
+## The Clay Men
+
+[[abstract]]
+|
+|The Clay Men are one of the most unusual races in the Commonwealth, with one of the most unusual cultures: |they are extremely long-lived and very few in number; live deep underground, in far-isolated and well-fortified caverns; they do not farm, as they require little food; much of their cities are lightless, as they are blind; and they know more of the Leapers and Deep Explorer than any other race. 
+|
+|---
+|
+|Population: 630,000M
+|
+|Common Languages: Clay
+|
+|Common Races: Clay Men
+
+# City-Provinces
 
 ## South-Harbor
 
@@ -492,7 +831,7 @@ The Haven Isles are generally urban and cosmopolitan, and are something of a hot
 
 [[abstract]]
 |
-|The joined cities of *Perseverance* (above ground) and *Triumph* below.
+|The joined cities of *Perseverance* (above ground) and *Triumph* (below).
 |Together they form the City-Province of Crossroads, the largest and wealthiest city in the known world.
 |
 |---
@@ -596,23 +935,48 @@ Elections in Perseverance are complicated.
 Each seat corresponds to a certain portion of the city, but many also allow certain outsiders to vote in the district; for example, the Gnolls' District consists of several city-blocks on the eastern edge of the city with a large Gnollish population, and the district also allows any Gnoll living anywhere else in the city to vote for their council seat.
 This means that councilors may compete for votes throughout the city, rather than just in their district.
 
-## Union City
-
 ## Prosperity
 
 [[abstract]]
 |
-|It would be the largest and wealthiest of Heartland's trade cities, if it weren't an independant city-state.
+|It would be the largest and wealthiest of Heartland's trade cities, if it weren't an independant city-province.
 |Also known for the quality of its universities, workshops, and guilds.
 |
 |---
 |
 |Population: 1,400,000
 |
-|Common Languages: Weal, Heartland Gnoll, Cqik, Caravaner, High Kobold
+|Common Languages: Weal, Heartland Gnoll, Cqik, Autumn Caravaner, High Kobold
 |
 |Common Races: Humans, Gnolls, Ratfolk, Halflings, Kobolds
 |
 |Location: Southeast Heartland
 |
 |Industries: trade, artisenry, universities
+
+> Track: It tells you a bit about the difference between Heartland and the Haven Isles that Union isn't a city-province but Prosperity is.
+>
+> Katarina: That Haven Provence never met a layer of bureaucracy it didn't like?
+>
+> Track: …sure, that.
+
+## Fortress Island
+
+[[abstract]]
+|
+|Fortress Island is the Commonwealth's promise to the Raptor Protectorate, and a threat to the Shaded Sea and the Goblin Empire.
+|It is built on one of the Trio Islands in the Jade sea (the other two being claimed by Foam-and-Cloud).
+|Originally planned to be a single star-fort on a large island in the Jade Sea, a series of smaller "flanking" fortifications, support installations, temporary outposts and civilian settlements have been built.
+|Today, it is a massive, sprawling web of fortifications, outposts, and walled manors built into the low coast of the island, hosting a large permanent population, a massive Commonwealth garrison, and a formidable fleet — and it is still far from finished.
+|
+|---
+|
+|Population: varies: 450K permanent, 550K construction, variable military (average 760K)
+|
+|Common Languages: *many*
+|
+|Common Races: *many*
+|
+|Location: One of Trio Islands in the Jade Sea.
+|
+|Industries: military construction, artisenry, soldiery, sailing, agriculture
