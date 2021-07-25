@@ -8,24 +8,24 @@ The Commonwealth and its neighbors are located on the Emerald and Ruby Planes.
 The Emerald Plane is a large island continent, about 860 *demarc* across \[about 2236 miles, or 3612km\].
 A great mountain range, the Worldspine Mountains, runs up the middle of it; this range is wide, but its peaks are low, and only its central peaks are above the snowline.
 In the east, there is a large inland sea, the glass sea; the Kingdoms of Men are on the northern peninsula, while the Goblin Empire is on the south.
-In the southwest, near the coast, there is a smaller range, the Seaward Peaks; running along the southern edge, stretching between the Seaward Peaks and the Worldspine Mountain, there is warm, high steppeland; the Ash Elves, members of the Shaded Sea People, hold (most of) these steppes.
+In the southwest, near the coast, there is a smaller range, the Seaward Peaks; running along the southern edge, stretching between the Seaward Peaks and the Worldspine Mountain, there is warm, high steppe-land; the Ash Elves, members of the Shaded Sea People, hold (most of) these steppes.
 
 Stretching from the western edge of the Glass Sea, over the Worldspine, running north along the Shade Elves territory, reaching all the way to the western edge, and jumping to the Haven Isles beyond, is the Commonwealth.
 
 The Ruby Plane lies to the south of the Emerald Plane, separated from it by the Sea of Strife (which is around 175*dc* across).
 A great mountain range runs through the center of the Ruby Plane; jungles cover the west, and much of the east, but there are deserts and a rocky, arid lowland in the northeast.
-The Raptor Protectorate controls much of the jungles and mountains, while the Goblin Empire has conquored much of the arid land in the northeast; scattered other cultures lay between the two.
+The Raptor Protectorate controls much of the jungles and mountains, while the Goblin Empire has conquered much of the arid land in the northeast; scattered other cultures lay between the two.
 Much of the Ruby Plane remains unexplored; it extends well south, past the Raptor's southern borders.
 
 [[designnote]]
 | We have generally assumed a fairly Earth-like world.
-| It is very slightly larger, is very slightly further fromm a very slightly larger star, and has a slightly longer orbital period of roughly 371 days — but has roughly the same surface gravity, axial tilt, and environment.
+| It is very slightly larger, is very slightly further from a very slightly larger star, and has a slightly longer orbital period of roughly 371 days — but has roughly the same surface gravity, axial tilt, and environment.
 | 
-| The world has 3 natural satelites — one is a large, dull, grey body similar to Luna (possibly carved from the primordial planet by an impact), while two are a much smaller, irregular, discolored objects (likely captured bodies).
+| The world has 3 natural satellites — one is a large, dull, white-grey body similar to Luna (possibly carved from the primordial planet by an impact), while two are smaller, irregular, darker objects (likely captured bodies).
 
 [[designnote]]
 | Dates will usually be given using the Commonwealth's calendar, which is based off of the solar year (like the Gregorian calendar in use on Earth).
-| It's based on the year that the Old Charter was signed, founding the civilization that would become the Commonwealth.
+| It starts in the year that the New Charter was signed, founding the civilization that would become the Commonwealth.
 | This occurred 830 years ago, so it's presently CY 830.
 |
 | Some cultures use a lunar calendar, typically based on the largest satellite.
@@ -36,7 +36,7 @@ Much of the Ruby Plane remains unexplored; it extends well south, past the Rapto
 | Another Empire-of-Man unit, the *stride* (sd), is used for smaller distances; it is, as the name implies, based on the average human stride.
 | A *stride* is about 30 inches, or about 75 centimeters; there are about 5600 *strides* to a *demarc*.
 |
-| Their day is slightly longer than ours, but they also divide it into 24 equal units; we pretty much just call those "hours."
+| Their day is slightly longer than ours, but the Commonwealth, at least, also divide it into 24 equal units; we pretty much just call those "hours."
 
 ## History in Brief
 
@@ -67,10 +67,11 @@ Karrach did not claim all of the lands that the Empire had conquered; former Imp
 These regions, equipped with their own nobility and institutions, continued to prosper and develop.
 
 In CY -148, more than 80*dc* southwest of Karrach's domain, a Gnollish tribe sought the aide of the human city of *Autumn's Folk* against a powerful confederation of their enemies.
-The humans agreed; their new Gnollish allies where granted a charter to found a manor in some nearby land, in exchange for their martial aid.
+The humans agreed; their new Gnollish allies where granted a charter to found a manor in some nearby land, in exchange for their martial aid; this charter would come to be called the Old Charter, and formed the template for a new and vital civilization.
 
 The people of *Autumn's Reach* prospered, along with their new Gnollish neighbors.
-The charter granted to the Gnolls provided a kind of template; more manors where founded, by Humans, Gnolls and Halflings; some became city-centers in their own right.
+The charter granted to the Gnolls provided a kind of template; more manors where founded, by Humans, Gnolls and Halflings.
+Some of these manors became city-centers in their own right.
 The Old Charter proved an inadequate framework for the growing civilization; 148 years after the signing of the Old Charter, the New Charter was promulgated and signed.
 The New Charter was designed to govern a civilization, the Commonwealth: it allowed for the collection of taxes, allowed for the funding of a militia and the construction of roads and bridges, and constructed the Commonwealth Council to administer those functions.
 
@@ -85,128 +86,40 @@ In CY 87, the Empire of Man, cut off from its distant holdings and riven power-s
 In CY 91, the Commonwealth founded the first manors west of the Worldspine.
 They continued to expand west, founding a narrow thread of mannors running between the territories of the Herders and Shade Elves — eventually allying themselvs with the former, to resist the devastating mounted raids of the latter.
 
-In CY 255, the first High Kingship was founded.
+In CY 255, in the Human-dominated Golden Peninsula, where the Empire of Man had been born, the first High Kingship was founded; this marked the ascendency of a new power on the Emerald Plane, the Kingdoms of Men.
+
+In the same year, the explorers and settlers from the Commonwealth first encountered the Herders, west of the Worldspine; shortly thereafter, they first encountered the Shade Elves, and began to conflict heavily with those horseback raiders.
+The Commonwealth allied with several of the peoples in the area — including the Herd-and-Pack alliance, an alliance of Herders and Gnolls — to resist the Shade elves; a formal treaty between the Commonwealth and Herd-and-Pack was signed in CY 349.
+
+During and after this time, the Shade Elves and the ratfolk of the Warren Isles conflicted heavily; although the nature of it is not widely known, some manner of truce was struck between the Elves and Ratfolk in CY 398, establishing the Shaded Sea Peoples, a dangerous nation of pirates and raiders.
 
 In CY 349, Islandhome was settled; it grew, becoming prosperous.
 In CY 447, the forces of the Shaded Sea laid seige to it, leading to a short but shockingly brutal occupation; the seige was broken in spring of 448.
 
+In CY 537, Commonwealth sailors first encountered the Raptors on the north-central Ruby Plane.
+Explorers hailing from a Goblin Kingdom would land on the Ruby Plane a year later, in CY 538, in the far northeast of the plane.
+The Goblin Kings would establish a permanent settlement in CY 617, and begin their conquest of the plane from there.
+
 In CY 611, a brutal genocide in the Eastern Kingdoms lead to an exodus of Kobolds from those lands; those settlers where welcomed in the Commonwealth, settling chiefly under the Worldspine and in the Haven Isles.
+
+In CY 703, the Goblin's Noble Assembly established the Goblin Empire; their hope was that a stronger, centralized beaurocracy would allow them to both shore up their wounded nation, which had long fallen behind both the Commonwealth and the Kingdom of Men, and to better exploit and conquor the Ruby Plane.
+The Empire rapidly set about the reorganization of the Goblin's soldiery, and rapidly accelerated their conquest of the Ruby Plane.
+
+### The Compact
 
 The Commonwealth now spread from the shores of the Glass Sea in the East to the Haven Isles in the West, and included countless, diverse peoples.
 The New Charter had not been designed to govern such a vast people; in CY 744, it was replaced with the Commonwealth Compact.
-The Compact divided the Commonwealth into *provinces*, allowing each a government that suited it; it allowed the Council 
+The Compact divided the Commonwealth into *provinces*, allowing each a government that suited it; it also allowed the Commonwealth Council greater authority to collect taxes and duties, and to spend those moneys on a wider arrange of projects within the Commonwealth, beyond road-building and military defence; and it also established an "enumeration of freedoms" owed to every citizen of the Commonwealth.
+Several former allies also signed onto the Compact, being incorporated as member-provinces; these included the Dragonshire, the Herd-and-Pack Alliance, and the subterranean Clay Men.
 
-Commonwealth History
-
-  - The charter that granted Gnolls a manor becomes an important
-    document governing trade
-
-  - Society benefits from strength of Gnolls
-
-  - Bolstered by Gnolls, patrols secure countryside; trade flourishes,
-    more manors founded.
-    
-      - “first charter” is used to administer relations between manors
-        and city
-      - it works but is unwieldy – it was never intended to build the
-        government for a nation.
-
-  - Eastern Empire collapses, an event nobody else cares about
-
-  - 75 years later, New Charter replaces Old Charter: formally builds
-    Charter Council.
-    
-      - New Charter is actually designed as a governing document
-      - Any manor that signs the Charter is a member of the Commonwealth
-      - “league of city-states” type arrangement: each Manor and City is
-        still a “law unto itself”
-      - The year the New Charter is signed is Charter Year 0 (CY 0)
-      - Commonwealth Council cannot make law: all they do is tax trade,
-        and use money to fund Army and maintain Roads
-      - over next \~700 years, powers and missions expand, but are
-        constrained by terms of charter. For example, some public
-        schools opened, but run under road-building power, officially
-        for the purpose of training engineers to build roads, bridges
-        and dams.
-
-  - Expand and flourish: cross World’s Spine mountains
-    
-      - other races (mostly) peacefully integrated: the manorial system
-        is flexible, they’re simple granted manors.
-      - Some Tribal Races refuse to integrate: the Commonwealth simply
-        flows around their territories.
-      - This does leave large swathes of unclaimed territories in the
-        middle of the continent (the “Tribal Lands”, where tribal
-        cultures still exist)
-
-  - Feudalism takes root in territories of the Old Empire, Kingdoms
-    built
-    
-      - This will give rise to the Kingdoms of Men, a messy web of small
-        Kingdoms.
-
-  - First manor on the Western side of the World Spine signs charter in
-    CY 91.
-
-  - Dwarves encountered in the North in CY 103.
-
-  - In CY 325, the Western coast is reached; in CY 350, the Haven Isles
-    are reached, and Islandholm is settled.
-
-  - CY 350, Karrach surrenders power of nobility, Dragonshire governed
-    by “house of commons”
-
-  - In CY 447, Shaded Sea People attack Islandholme and occupy it –
-    briefly. Commonwealth counter-attack is devastating, liberating
-    island twenty days later and shattering the forces of the houses
-    that mounted it.
-    
-      - Surviving Shade Elves are imprisoned in short term, slowly
-        integrated into Commonwealth society. Ash elves are their
-        descendants
-
-  - CY 611, Kobolds flee genocide in eastern portion of Human Kingdoms;
-    peacefully incorporated into Commonwealth
-    
-      - Many settle in World’s Spine mountains, many more continue to
-        the Haven Isles.
-      - Many probably settle in the Dragonshire, which sits between the
-        Commonwealth and Kingdoms and has a large population that can
-        speak their languages.
-
-  - CY 750, Commonwealth Compact replaces Commonwealth Charter
-    
-      - The Commonwealth no works like a league of nations.
-    
-      - Commonwealth territory split into Provinces and City-States:
-        
-          - each province organizes itself
-          - city-states are independent of provinces, have their own
-            top-level status.
-    
-      - The Commonwealth Council still can’t make law, but it has
-        broader funding powers – no longer just armies and civil
-        engineers, can now undertake civil projects (like schools)
-        directly
-    
-      - Dragonshire formally incorporated as a Province (it was an
-        independent allied nation)
-    
-      - Clay Men formally incorporated (where formerly and allied
-        people)
-    
-      - The Herders and their alliance are formally incorporated (they
-        where also an allied people).
-    
-      - Commonwealth Compact has an “enumeration of freedoms” that each
-        Province (and each Manor) must provide.
+### A Brief Timeline
 
 | CY -578 | Human city-state of *Hanman* founded |
 | CY -385 | Empire of Man founded |
 | CY -227 | Karrach leads local rebellion, claims land west of Drake's Peaks as his own domain. |
 | CY -221 | Former-Imperial Human settlers encounter Halflings. |
 | CY -163 | Former-Imperials encounter Gnolls. |
-| CY -148 | Gnollish tribe seeks aid of human city of *Autumn's Reach*, granted charter to manor near city |
+| CY -148 | Gnollish tribe seeks aid of human city of *Autumn's Reach*, granted charter to manor near city; later known as the Old Charter |
 | CY -121 | Drakes are created. |
 | CY 0    | New Charter replaces Old Charter, establishing Commonwealth Council (and the Commonwealth as such). |
 | CY 87   | Empire of Man collapses
@@ -215,8 +128,11 @@ Commonwealth History
 | CY 255  | First High Kingship unites human territories on the Golden Peninsula. | 
 | CY 349  | The Commonwealth signs a treaty with Herd-and-Pack. |
 | CY 350  | Commonwealth settles the Haven Isles. |
+| CY 398  | Treaty between the Ratfolk of the Warren Isles and the Shade Elves of the Shaded Steppes creates the Shaded Sea People. |
 | CY 447  | The forces of the Shaded Sea seige Islandhome. |
 | CY 537  | Commonwealth encounters Raptor Protectorate. |
 | CY 611  | Kobolds flee genocide in Eastern Kingdoms, settling in the Commonwealth. |
+| CY 703  | The Goblin's Noble Assembly establishes the Goblin Empire, the better to pillage the Ruby Plane. |
 | CY 744  | Commonwealth Compact replaces the New Charter, establishing broad funding power; Commonwealth creates more agencies. |
 |         | The Dragonshire, the Herd-and-Pack and the Clay Men all join the Commonwealth. |
+| CY 830  | The Present Day
