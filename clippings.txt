@@ -13,3 +13,193 @@ If you're the GM and you're having trouble picking skills, remember that the ski
 You do want to be consistant and you don't want to be too lax, but you *don't* need to worry too much about picking exactly which skill and exactly which modifier is required in every given situation.
 And there's nothing wrong with asking a player which skill they think applies, or giving them a choice of skills--because its entirely possible that they might have more than one applicable skill!
 -->
+
+
+
+Removed from the Tour section:
+
+### The Manors of Heartland
+
+Social organization in the older provinces of the Commonwealth — at least, in Heartland and Westward provinces — is based around a decentralized form of manorialism.
+
+Manors are, archetypically, small towns, with a number of homes and artisans clustered at the center, surrounded surrounded by fields and forests.
+The form and organization of these manors — how the fields are divided up, how they are worked, what dues are due to whom — can vary widely.
+
+Manors are, classically, overseen by a founding noble Lord or central organization, who holds their *charter*; though the Commonwealth has abolished serfdom, these charter-holders often remain powerful within their holdings.
+(It is entirely possible for the residents of a manor to hold its charter directly; though somewhat rare in centuries past, this has become more and more common.)
+
+Most manors — with the support of the surrounding hamlets — are self-sufficient, producing enough food to support their local populace, and often having a small number of local artisans to produce whatever else they may need.
+(In fact, the Commonwealth has command of a large array of sophisticated farming techniques and technologies, making the fields around their manors highly productive; this allows them to support their relatively large urban populations, as well as their full-time military.)
+Manors often specialize; some may have larger planted fields, allowing them to produce more food for export, possibly to support a nearby city; others may have a larger stock of artisans, producing worked goods for sale; still others may host some organization — a temple, a college, or a particular artisan's guild, for example.
+(In fact, manors are often founded by such organizations — temples, colleges, guilds, and so on — for the express purpose of providing support.)
+
+Heartland also hosts a large number of well-established cities — although "large" is a somewhat relative term.
+Most cities have a population between five and ten thousand, well short of Crossroad's staggering two million.
+Cities are almost never self-sufficient in terms of food, instead being dependent on the support of nearby manors; they do, however, host large communities of artisans and specialized workers, and are major producers of finished goods, from plows to magical mechanisms.
+They also often host communities of traders and vibrant markets; it is often the market-squares of cities where residents of manors bring their crops to be sold, and where those same manor-folk purchase goods from finished steel to silk.
+Cities also commonly host temples, to help ensure the good favor of the local spirits.
+
+It is also typically cities that grant, recognize, and — where necessary — defend the charters of manors.
+Perhaps confusingly, charter-granting cities are sometimes called "city-states" — not to be confused with city-*provinces*, a term reserved for the few truly massive cities that have top-level *provincial* status in the Commonwealth (Crossroads, for example).
+These arrangements are often spelled out in charters; they may obligate a manor to provide a certain yield of food, raw materials, or labor, while in turn obligating the city to arrange for the defense of the manor.
+
+#### Westward Province
+
+The culture in Westward is similar, as it was carried West from Heartland.
+It is, however, more militarized — and definitely more fortified.
+
+### 
+
+The Commonwealth contains a great many people, and its culture has changed drastically as the centuries have passed and the Commonwealth has spread.
+This description of hamlets, manors and cities may be how most outsiders think of the Commonwealth, but it is most true of Heartland Province.
+Other peoples in other places can vary significantly.
+The Dragonshire, for example, has a nominal King, and a nobility; historically, it has been from their authority that charters have been derived.
+Urban centers in the Dragonshire (and the lords who reside in them) have also done a better job at bringing far-flung manors and towns more directly under their control, building a more centralized administration and more directly integrating the culture of city and town.
+In the Haven Isles,
+
+
+      - Manors will be surrounded by fields, which are divided into
+        plots; though each plot will usually be “owned” by a specific
+        family, entire manors frequently cooperate to farm all of the
+        plots, and the yield of all of the fields is often shared.
+      - Manors often host local administrators and priests.
+      - Manors also often host populations of artisans, often small.
+      - Manors often host traders.
+      - Manors can specialize in what they produce; while almost all
+        manors are self-sufficient in terms of food production, some
+        produce food for trade, while others have larger populations of
+        artisans and produce goods for trade instead. Manors owned by
+        Colleges might produce education as a type of good, while manors
+        owned by monasteries or temples might prosper by trading with
+        spirits or training priests.
+      - Each manor is often associated with several surrounding
+        villages; those villages supplement the Manor’s food production.
+      - Typically have a population of two thousand or so, although this
+        can vary widely. Humans and Gnolls are common in manors; drakes
+        are also common in the Dragonshire.
+
+  - Cities as such are rare, but they are more common (and stable) in
+    the Commonwealth than elsewhere.
+    
+      - Though many cities may be surrounded by associated fields, they
+        will not be (even almost) self-sufficient in terms of food
+        production.
+      - Cities are major trade-hubs, and are often founded on major
+        trade routes—rivers or major overland routes.
+      - Cities are peopled by traders, nobles, bureaucrats, priests and
+        scholars—and the lower-class helpers they employ.
+      - Cities will be supported by nearby manors; trade goods and food
+        will flow from manors into cities, whose merchants will pass
+        them on.
+      - Common cities will have populations around fifteen thousand,
+        though this number also varies quite widely; cities at the
+        headlands of major rivers, surrounded by prosperous farm-land,
+        can be significantly larger.
+      - Though humans predominate in Commonwealth cities, they are
+        highly diverse, and populations of many other races are common.
+        Notably, Kobolds take well to urban living, and their numbers
+        have been soaring over the last 200 years.
+
+  - Major Cities
+    
+      - Province capitols, city-states and major port cities are *major
+        cities*.
+      - Major cities have populations over fifity-thousand—sometimes,
+        albeit rarely, over one hundred thousand.
+      - Major Cities have populations like those of cities, but are even
+        larger and more prosperous; they are often the seat of province
+        governments, and house the thrones of monarchs.
+
+  - The Commonwealth includes a number of tribal societies.
+    
+      - Though many of them have built settlements, these tribes and
+        peoples do not usually practice settled agriculture on a scale
+        sufficient to support their societies.
+      - Frequently, their able-bodied adult population ranges through
+        nearby lands, hunting and foraging.
+      - Some will practice shepherding; those wandering will herd
+        flocks.
+      - The very old, the very young, priests and artisans will live in
+        their settlements, supported by smaller-scale agriculture.
+      - Unlike cities, manors and villages, the borders of tribal
+        territories will frequently be poorly-defined; they will be
+        surrounded by great tracts of wilderness, left unspoiled by the
+        other Commonwealth societies.
+      - Though many tribal societies have signed the Commonwealth
+        charter, and thus their members are properly Commonwealth
+        citizens, they are frequently fairly isolated; they usually do
+        not produce excesses of food or goods for trade, and therefore
+        do not attract traders or travelers. Most simply continue to
+        live as they have always lived.
+      - Notably, not all tribal societies within the Commonwealth’s
+        borders are members of the Commonwealth; Orks, in particular,
+        have never been peacefully incorporated. These societies are
+        often isolated; Commonwealth forts will ring their territory,
+        Commonwealth soldiers will patrol their borders, and though they
+        are left free, they will be trapped within their territories.
+
+  - Trading Caravans
+    
+      - A way of life common to Halflings, Trade Caravans were vital to
+        tying the early Commonwealth together; as conduits of trade,
+        they were major vehicles of its prosperity.
+      - Somewhat similar to tribal communities, halfling commuities are
+        *dimorphic*: the able-bodied journey with the caravans, while
+        the young, old and infirm live in settlements similar to small
+        manors.
+      - Halfling communities typically rely on villages and manors of
+        other races to provide them with food; they are more likely to
+        profit from trade or artisanry.
+
+  - Underground Societies
+    
+      - Several commonwealth races—notably Kobolds and Ash Elves—prefer
+        to live underground.
+      - Subterranean cultures typically live in larger cities: tunneling
+        through rock is more labor-intensive than clearing open land,
+        and farming underground is impractical, so there is little
+        incentive to scatter into countless villages.
+      - Unsurprisingly, mining is often a primary economic activity for
+        subterranean cultures.
+      - They also often support large populations of artisans.
+      - They support themselves by trading ore and finished goods with
+        surface-dwelling peoples.
+
+  - I was fairly drunk towards the end of this, so I need to go back and
+    look this over.
+
+
+
+      - Kethanel is a city-state located on the island Kethel in the
+        gulf that separates the Orcs and Dwarves.
+      - Before either the Dwarves or Orcs joined the Commonwealth,
+        Kethel was settled equally by six Orcish and six Dwarven clans;
+        the two shared the resources of the island—such as they were—and
+        coexisted (mostly) peacefully.
+      - More than 600 years ago, the Clans of Kethel met in council;
+        they agreed, first, that their clan council could make decisions
+        for the island as a whole, and second, that Kethel should join
+        the Commonwealth, as many other Dwarven and Orcish territories
+        had done.
+      - Even though Kethel is more than 100 miles across, it is listed
+        as a city-state, and is represented by its one major city.
+        Kethanel is a city of more than thirty-five thousand situated in
+        a wide bay on the continent’s Southern edge.
+      - The architecture of Kethanel is striking; the city is built both
+        above and below ground, and is built of massive stones carved
+        and set by both Orcish and Dwarven hands. It is, not
+        coincidentally, a veritable fortress.
+      - Kethanel has long been a local trading and fishing hub, its role
+        in trade is growing; though it has long been a port for boats
+        crossing the gulf, as the Commonwealth’s sea-faring abilities
+        improve, boats sailing up and around the coast from the Haven
+        Isles have begun to make Kethanel a stopping-point. Some have
+        whispered that a Cairn may be built in Kethanel.
+      - Though Kethel is still predominantly settled by equal numbers of
+        Dwarves and Orcs, after the island joined the Commonwealth it
+        saw an influx of more than a thousand Gnolls, mostly of a
+        unique, arctic ethnic-group; they settled in the Southeastern
+        reaches of the island. More recently, Kethanel City has seen
+        substantial Kobold immigration, and a small population of Ash
+        Elven merchants have been carried to the city from the Haven
+        Isles by boat.
