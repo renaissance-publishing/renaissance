@@ -5,23 +5,23 @@ title: "The Commonwealth Today"
 ## Overview
 
 In Commonwealth Year 830, the Commonwealth is a sophisticated, peaceful, mercantile civilization.
-It is far-and-away the largest and wealthiest civilization in the known world; it stretches from the shores of the King's Sea in the east to the western coast of the Emerald Plabe, and to the Haven Isles beyond.
+It is far-and-away the largest and wealthiest civilization in the known world; it stretches from the shores of the King's Sea in the east to the western coast of the Emerald Plane, and to the Haven Isles beyond.
 All this territory is united in a prosperous web of trade, overseen by the Commonwealth Council.
 
 The Commonwealth is broken into six provinces:
 
-- **Dragonshire Province** lies in the northeast, to the west of the Kingdoms of Men.  It was an independant kingdom under the (nominal) rulership of the Dragon Karrach, until it was incorporated into the Commonwealth with the Compact.
-- **Heartland Province** is the territory to the southeast, south of the Dragonshire and west of the Gobline Empire.  This is the territory where the Commonwealth was born.  It is still governed as a network of manors, united by a web of charters and contracts.
+- **Dragonshire Province** lies in the northeast, to the west of the Kingdoms of Men.  It was an independent kingdom under the (nominal) rulership of the Dragon Karrach, until it was incorporated into the Commonwealth with the Compact.
+- **Heartland Province** is the territory to the southeast, south of the Dragonshire and west of the Goblin Empire.  This is the territory where the Commonwealth was born.  It is still governed as a network of manors, united by a web of charters and contracts.
 - **Haven Province** consists of the Haven Isles, and island chain off the west coast of the Emerald Plane; the largest island is Islandhome.  Haven Province has a sophisticated, tiered political structure, and is something of a hot-bed for political thought.  It's also known for its warm climate, its large urban centers, its olive fields, and its brisk ocean winds.
 - **Herd-and-Pack Province** consists of the territory of the former Herd-and-Pack Alliance, a group of Herder, Gnollish and other tribes that united to stand against the Shade Elves.  Long an ally of the Commonwealth, it was incorporated as a Province with the Compact.
 - **Northland Province** consists of the far north, both to the east and west of the Worldspine Mountains.  It largely consists of the Dwarven and Orcish holds that chose to join the Commonwealth; not all of them did.
-- **Westward Province** consists of a narrow strip of land claimed by the commonwealth, running from the Worldspine Mountain to the west coast of the Emerald Plane.  It runs along the northern broder of the open grasslands claimed by the Shade Elves of the Shaded sea; it sees constant raiding, and is heavily fortified.
+- **Westward Province** consists of a narrow strip of land claimed by the commonwealth, running from the Worldspine Mountain to the west coast of the Emerald Plane.  It runs along the northern border of the open grasslands claimed by the Shade Elves of the Shaded sea; it sees constant raiding, and is heavily fortified.
 
 The Commonwealth also contains several City-States — large cities that are treated as provinces unto themselves:
 
 - **South-Harbor** is a major port-city built into the steep, irregular cliffs of the southern Worldspine.  Besides its role as a major port, it also hosts a substantial fleet-yard for the Commonwealth Navy, and is the current seat of the Commonwealth Council.
 - **Crossroads** actually consists of two cities, one above-ground and one below, built in the middle of the Worldspine.  It is a major trade-hub, sitting at the nexus of both above- and below-ground trade routes.
-- **Prosperity** is the largest city in Heartland Province — or it would be, if it were part of Heartland Province instead of being an independant city-state.  Besides being a trade hub, Prosperity is known for its cosmopolitan population, the quality of its universities — and its unusually-elaborate government, compared to the rest of Heartland.
+- **Prosperity** is the largest city in Heartland Province — or it would be, if it were part of Heartland Province instead of being an independent city-state.  Besides being a trade hub, Prosperity is known for its cosmopolitan population, the quality of its universities — and its unusually-elaborate government, compared to the rest of Heartland.
 
 The Commonwealth is overseen by the Commonwealth Council.
 The council doesn't *govern* the Commonwealth — it does not make laws or prosecute criminals — but it does negotiate with other nations, make treaties, declare war, settle disputes between provinces, collect taxes and tariffs, and spend those monies on its various agencies.
@@ -47,14 +47,14 @@ Because of the work of these Council Agencies, the Commonwealth is secure, stabl
 | Please also note that we aren't historians; please forgive us any minor errors.
 | (We're always open to making our world more historically plausible, or being introduced to new, interesting ideas that we can incorporate.)
 
-The Commonwalth is arguably the most sophisticated nation in the known world.
+The Commonwealth is arguably the most sophisticated nation in the known world.
 
-They have developed a number of sophisticated farming techniques, suited to the wide variety of territories that they've integrated: in the interior, this including sophisticated field rotations, differing plow designs appropriate for a wide variety of terrain, water course \[i.e. aqueduct\] irrigation and the use of horses in agriculture; in the southern foothills and marshes, this includes sophisticated flood-plane agriculture and planted terraces to make efficient use of water; and in the Haven Isles, it means aqueduct irrigation and vinyards and orchards.
-These innovations allow them to produce a large surplus of food, which in turn allows them to support a large urban populations, to support their large, professional military, and to still have a surplus for trade.
+They have developed a number of sophisticated farming techniques, suited to the wide variety of territories that they've integrated: in the interior, this including sophisticated field rotations, differing plow designs appropriate for a wide variety of terrain, water course \[i.e. aqueduct\] irrigation and the use of horses in agriculture; in the southern foothills and marshes, this includes sophisticated flood-plane agriculture and planted terraces to make efficient use of water; and in the Haven Isles, it means aqueduct irrigation of vineyards and orchards.
+These innovations allow them to produce a large surplus of food, which in turn allows them to support a large urban populations; to support their large, professional military; and to still have a surplus for trade.
 (There is a very good reason that wheat is a symbol of the Commonwealth.)
 
-The Commonwealth also boasts sophisticated artisens, enabled by a network of powerful guilds.
-The Commonwealth's architects, masons and carpenters have mastered a number of construction techniques, adapted from the many cultures that they've incorporated and suited to the many different regions that the Commonwealth occupies: masons in the Heartland and Dragonshire have used sophisticated arches, columns, vaulted ceilings and flying buttresses to produce awe-inspiring buildings; Northland is dotted by tember-framed homes, Dwarven dugouts and Orcish holds; the shores of the Haven Isles feature stilted homes constructed by ratfolk; and the peaks of the Haven Isles include incredible underground cities constructed by Kobold and Shade Elven masons and excavators.
+The Commonwealth also boasts sophisticated artisans, enabled by a network of powerful guilds.
+The Commonwealth's architects, masons and carpenters have mastered a number of construction techniques, adapted from the many cultures that they've incorporated and suited to the many different regions that the Commonwealth occupies: masons in the Heartland and Dragonshire have used sophisticated arches, columns, vaulted ceilings and flying buttresses to produce awe-inspiring buildings; Northland is dotted by timber-framed homes, Dwarven dugouts and Orcish holds; the shores of the Haven Isles feature stilted homes constructed by Ratfolk; and the peaks of the Haven Isles include incredible underground cities constructed by Kobold and Shade Elven masons and excavators.
 The Commonwealth also boasts some of the finest steel produced in the known world, enabling them to produce everything from plows to armor at a scale and of a quality that cannot be rivaled.
 
 The Commonwealth also has access to a rich and diverse cultures, arts, and bodies of knowledge.
@@ -64,11 +64,11 @@ The Commonwealth's large and sophisticated universities are also centers of thou
 Philosophers, thinkers and academics are pushing the bounds of ethics, natural philosophy, political philosophy, medicine, and the arts.
 The Commonwealth's leading thinkers have begun to develop the fundamental ideas behind rationalism, to develop sophisticated political thought, and to explore the precursors of a theory of calculus.
 
-They have also been able to deduce that the world is round, and increasingly sophisticated and capable sailing vessals have enabled them to voyage out into the ocean to explore — and to build increasingly prosperous webs of trade along their coasts and seas.
-They have recently begun to construct large, multi-masted vessals, capable of sailing great distances on the open ocean.
+They have also been able to deduce that the world is round, and increasingly sophisticated and capable sailing vessels have enabled them to voyage out into the ocean to explore it — and to build increasingly prosperous webs of trade along their coasts.
+They have recently begun to construct large, two-masted vessels, capable of sailing great distances on the open ocean.
 
 The Commonwealth has also developed sophisticated techniques for capturing natural sources of energy.
-Windmills, water-wheels and aqueducts allow the citizens of the Commonwealth to use winds and streams in agriculture and artisenry.
+Windmills, water-wheels and aqueducts allow the citizens of the Commonwealth to use winds and streams in agriculture and artisanry.
 
 They are also making increasingly sophisticated use of gunpowder.
 Developed more than two hundred years ago, some of the earliest uses of gunpowder where awkward and dangerous; more modern uses, including fixed cannons and matchlock rifles, are far more effective, and are beginning to change the nature of warfare.
@@ -77,158 +77,88 @@ And, of course, the Commonwealth has a sophisticated understanding of magic — 
 
 ## Commonwealth Life, Society and Economy
 
-The vast majority of the population — more than 90% — are farmers, fishers and shephards, living in small communities throughout the countryside.
-The Commonwealth includes a wide variety of cultures, so the appearance of these farmers, fishers and shephards can vary widely.
-Though these people are often poor, it should be noted that they are not serfs or slaves — unlike in some of the Kingdoms of Men, for example, or in the Goblin Empire.
-They often own the fields they work; when they don't, they are at least not the posession of a lord, and are free to depart.
+The Commonwealth includes myriad different cultures, so lifestyles and societies can vary widely.
 
-Many of these people know little of the outside world, and may never venture more than half a day’s walk from the place they were born — although, since the signing of the Compact, the Commonwealth has increasingly funded various forms of public education, including traveling teachers and medics meant to provide at least some access to learning to the residents of these small communities.
+Throughout the Commonwealth (and in the rest of the known world), the vast majority of the population — more than 90% — labor to produce food.
+They are farmers, fishers and shepherds, living in small communities throughout the countryside or sitting on the shores of rivers and lakes.
+Though these people are often poor, it should be noted that they are not serfs or slaves — unlike in some of the Kingdoms of Men, for example, or in the Goblin Empire.
+They often own the fields they work; when they don't, they are at least not the possession of a lord, and are free to depart.
+
+Many of these people know little of the outside world, and may never venture more than a day’s walk from the place they were born.
+This situation is helped somewhat, though, because, since the signing of the Compact, the Commonwealth has increasingly funded a modest form of public education; teachers, medics, and mages travel a circuit through the scattered villages and hamlets.
 This means that most residents of the Commonwealth are at least literate and numerate.
 
-Many of these small hamlets of freeholds will be dependant on a nearby manor.
-Manors are, classically, overseen by a lord or central organization; though the Commonwealth has abolished formal serfdom, the organizations and lordly manors that founded manors often remain powerful and influential within their sphere.
+Many of the small hamlets and freeholds are often dependent on nearby manors and towns, which will hosts necessary markets and artisans.
 
-      - Manors will be surrounded by fields, which are divided into
-        plots; though each plot will usually be “owned” by a specific
-        family, entire manors frequently cooperate to farm all of the
-        plots, and the yield of all of the fields is often shared.
-      - Manors often host local administrators and priests.
-      - Manors also often host populations of artisans, often small.
-      - Manors often host traders.
-      - Manors can specialize in what they produce; while almost all
-        manors are self-sufficient in terms of food production, some
-        produce food for trade, while others have larger populations of
-        artisans and produce goods for trade instead. Manors owned by
-        Colleges might produce education as a type of good, while manors
-        owned by monasteries or temples might prosper by trading with
-        spirits or training priests.
-      - Each manor is often associated with several surrounding
-        villages; those villages supplement the Manor’s food production.
-      - Typically have a population of two thousand or so, although this
-        can vary widely. Humans and Gnolls are common in manors; drakes
-        are also common in the Dragonshire.
+Heartland Province, the oldest province, may represent the Commonwealth's "archetypical" culture.
+Heartland is a decentralized web of manors, of hamlets and freeholds, and of city-states.
+Manors are, very roughly, small towns, surrounded by fields and forests; they are typically established by a *charter*, which is often held by a Lord, or by some organization (like a temple, guild, or university).
+Manors are often self-sufficient in terms of food, and often host a few artisans as well.
+Nestled between manors are any number of small hamlets and freeholds, which are often interdependent with nearby manors, producing additional food but require the craft of their artisans.
+Manors, in turn, may have obligations to nearby city-states: city-states host large markets, where their food can be sold, and goods can be purchased; they are the homes of universities, guilds, and governments; and they are often walled, and strongholds of local defense.
 
-  - Cities as such are rare, but they are more common (and stable) in
-    the Commonwealth than elsewhere.
-    
-      - Though many cities may be surrounded by associated fields, they
-        will not be (even almost) self-sufficient in terms of food
-        production.
-      - Cities are major trade-hubs, and are often founded on major
-        trade routes—rivers or major overland routes.
-      - Cities are peopled by traders, nobles, bureaucrats, priests and
-        scholars—and the lower-class helpers they employ.
-      - Cities will be supported by nearby manors; trade goods and food
-        will flow from manors into cities, whose merchants will pass
-        them on.
-      - Common cities will have populations around fifteen thousand,
-        though this number also varies quite widely; cities at the
-        headlands of major rivers, surrounded by prosperous farm-land,
-        can be significantly larger.
-      - Though humans predominate in Commonwealth cities, they are
-        highly diverse, and populations of many other races are common.
-        Notably, Kobolds take well to urban living, and their numbers
-        have been soaring over the last 200 years.
+The cultures and traditions of these manors can vary incredibly widely — the flexibility of the system is one of its benefits.
+Heartland has also come to include pockets of many other races and cultures.
 
-  - Major Cities
-    
-      - Province capitols, city-states and major port cities are *major
-        cities*.
-      - Major cities have populations over fifity-thousand—sometimes,
-        albeit rarely, over one hundred thousand.
-      - Major Cities have populations like those of cities, but are even
-        larger and more prosperous; they are often the seat of province
-        governments, and house the thrones of monarchs.
-
-  - The Commonwealth includes a number of tribal societies.
-    
-      - Though many of them have built settlements, these tribes and
-        peoples do not usually practice settled agriculture on a scale
-        sufficient to support their societies.
-      - Frequently, their able-bodied adult population ranges through
-        nearby lands, hunting and foraging.
-      - Some will practice shepherding; those wandering will herd
-        flocks.
-      - The very old, the very young, priests and artisans will live in
-        their settlements, supported by smaller-scale agriculture.
-      - Unlike cities, manors and villages, the borders of tribal
-        territories will frequently be poorly-defined; they will be
-        surrounded by great tracts of wilderness, left unspoiled by the
-        other Commonwealth societies.
-      - Though many tribal societies have signed the Commonwealth
-        charter, and thus their members are properly Commonwealth
-        citizens, they are frequently fairly isolated; they usually do
-        not produce excesses of food or goods for trade, and therefore
-        do not attract traders or travelers. Most simply continue to
-        live as they have always lived.
-      - Notably, not all tribal societies within the Commonwealth’s
-        borders are members of the Commonwealth; Orks, in particular,
-        have never been peacefully incorporated. These societies are
-        often isolated; Commonwealth forts will ring their territory,
-        Commonwealth soldiers will patrol their borders, and though they
-        are left free, they will be trapped within their territories.
-
-  - Trading Caravans
-    
-      - A way of life common to Halflings, Trade Caravans were vital to
-        tying the early Commonwealth together; as conduits of trade,
-        they were major vehicles of its prosperity.
-      - Somewhat similar to tribal communities, halfling commuities are
-        *dimorphic*: the able-bodied journey with the caravans, while
-        the young, old and infirm live in settlements similar to small
-        manors.
-      - Halfling communities typically rely on villages and manors of
-        other races to provide them with food; they are more likely to
-        profit from trade or artisanry.
-
-  - Underground Societies
-    
-      - Several commonwealth races—notably Kobolds and Ash Elves—prefer
-        to live underground.
-      - Subterranean cultures typically live in larger cities: tunneling
-        through rock is more labor-intensive than clearing open land,
-        and farming underground is impractical, so there is little
-        incentive to scatter into countless villages.
-      - Unsurprisingly, mining is often a primary economic activity for
-        subterranean cultures.
-      - They also often support large populations of artisans.
-      - They support themselves by trading ore and finished goods with
-        surface-dwelling peoples.
-
-  - I was fairly drunk towards the end of this, so I need to go back and
-    look this over.
+Other provinces can vary widely.
+Westward, for example, is similar, since it was founded by settlers travelling from Heartland; however, it is significantly more militarized.
+Large fortifications have taken over some of the roles of city-states; in fact, the three largest population centers in Westward are giant, modern star-forts, established to resist the constant, ferocious raids coming out of the Shaded Sea.
+Dragonshire Province, having a centralized monarchy and sophisticated bureaucracy, is more vertically organized; Nobles, with their seats in cities, claimed the rule of the territories around them — often in turn headed by other, lesser nobles, and subject to the whims of the various guilds and councils.
+Northland, in turn, is more sparsely populated; it is a land of Orcish and Dwarven holds, clan politics, Gnollish herders, and snow.
+Herd-and-Pack, the domain of the Herders and their allies, is a land of herders and hunters, with few permanent settlements and even fewer large cities.
+Islandhome is perhaps the most modern province, and sports a sophisticated, tiered civil government.
 
 ## Commonwealth Governance
 
-  - Move/expand above information here.
+830 years ago, the New Charter formally create the Commonwealth Council, and established the Commonwealth Council to administer it.
+The Commonwealth Council was not granted the rule and command of the Commonwealth, like the Three Cities of the Empire of Man had hand; instead, the Commonwealth was something of a loose alliance.
+The Commonwealth Council had the right to collect certain taxes and levies, and the ability to spend those monies to maintain the army, construct roads, and mediate disputes between signatories — and little else; it also had the right to settle disputes between signatories, and to conduct external diplomacy.
 
-  - One feature of New Charter is that the Commonwealth can collect
-    taxes from its provinces, which the Commonwealth Council can use to
-    fund whatever operations they elect to (as opposed to specifically
-    funding the patrols and roads under the Compact).
-    
-      - This has lead to several new Commonwealth Council organizations.
+The Commonwealth Compact, signed in CY 744, was designed to govern a large and prosperous people, and reserved significantly more power to the Council; also, respecting the discrete regions that had sprung up, it broke the Commonwealth up into Provinces — this also allowed it to incorporate several long-time allies as proper members, since it allowed them to preserve a large measure of their autonomy.    
 
-  - One major such organization is the military.
-    
-      - The Commonwealth has the known world’s preeminent military.
-      - Their prosperity allows them to fund a permanent, professional
-        military.
-      - This military actively patrols their interior and guards their
-        frontiers.
-      - The security provided by their armed forces allows trade to
-        flourish, and the might of their military substantially prevents
-        attack by competing societies.
-      - Gnolls are a major race in the Commonwealth military, where
-        their physical strength and endurance provide a formidable
-        advantage over primarily Human, Shade Elf or Goblinoid armies.
-      - Kobolds have also found a place within the Commonwealth’s
-        armies, where their speed, tough hides and small size can make
-        them useful infiltrators, raiders, scouts and spies.
+### The Commonwealth Council
 
-  - Hmm. This section might be redundant to information in the
-    Commonwealth Today and Organizations sections; I might also not want
-    to go on at length about this. Possibly rework.
+The Commonwealth Council still does not *rule* the provinces, as such; it does not make or enforce law — except for the operation of the garrisons; rather, the Council collects taxes and levies, and spends them to provide serves and secure the common welfare.
+The Compact specifically grants the Council the right to establish taxes, specifically including taxes on land, trade, and import; it also allows it to levy the people, drafting them for combat, or even potentially for civil service — although in the modern era, such service is compelled exclusively in times of war or crisis.
+The Council also has the right to manage the Commonwealth's external affairs — to conduct foreign diplomacy, and to declare war and peace.
+
+The Compact also details procedures for resolving conflicts between the provinces; for establishing how one province must treat another's citizens; and for listing certain freedoms each citizen must have.
+
+Other than this, each province is free to govern itself — to make and enforce their own laws, by whatever method their residents see fit.
+
+#### The Council
+
+The Council consists of 50 seats, allocated to each Province by population, to a minimum of 2.
+(Seats are allocated by population, then any below 2 are "rounded up."  Although it's never happened, it is possible for this "rounding up" to add seats, so the Council might not have exactly 50 seats.)
+
+The council operates by simple majority votes for most things — although certain major actions, such as amending the Compact or declaring War outside a state of invasion, require a two-thirds vote.
+
+Provinces can elect their representatives however they see fit — although the use of the word "elect" in the Compact has largely been taken to require some kind of democratic process.
+In CY 819, this was slightly amended, so that, however a province selects its representatives, each citizen therein must be given an equal vote.
+
+The Commonwealth Council can make its own schedule, although it is required to convene for at least three months of every year, with at least one continuous one-month period; in practice, the Commonwealth Council typically meets for four months during the summer of every year.
+The Commonwealth doesn't have a capitol as such; instead, the meeting-place rotates between the prominent cities of the Commonwealth, with a new city being chosen every three years.
+The Council has been meeting in Southarbor since CY 829.
+
+While the Commonwealth does not have a capital as such, it does have several Council Campuses.
+These campuses include administrative offices, libraries, and archives.
+
+#### Council Agencies
+
+Almost certainly the greatest impact that the Commonwealth Council has on the day-to-day lives of its citizens is through the agencies that it funds.
+These include:
+
+- The **Council Architects**, who are responsible for maintaining roads, bridges, dams, and other large public works;
+- the **Council Colleges**, who directly run several large civil and military colleges, and who fund the Circuit Tutors;
+- the **Council Mediators**, who mediate disputes between the provinces — and who perform the functions of a high court in some of the provinces;
+- the **Council Guard**, who patrol and secure the vast territory — and, somewhat like the Mediators, serve the function of a security force in some of the provinces; and
+- the **Council Military**, the Commonwealth's formidable army and navy — the preeminent military in the world.
+
+All of these agencies are ultimately responsible to the Commonwealth Council.
+
+Notably, the Commonwealth *doesn't* include a single executive, like an Emperor or King; each Council Agency is responsible directly to the Commonwealth Council.
+In the drafting of the Compact, there was some concern about the ability of the Council to keep control of the agencies; in order to ensure that the Council could quickly deploy an agency — or bring it to heal — each Agency is especially responsible to a Committee in the Council.
+Each committee can, with a two-thirds vote, command a given agency.
 
 ## Commonwealth Magic
 
@@ -251,104 +181,7 @@ cover great distances in the blink of an eye. Presently, only a dozen
 Kairnes have been constructed, and the Kairne networks remain difficult
 to use—in particular, few mages can carry much with them.
 
-## Notable Places
-
-  - Decent names TBD
-
-  - New Kobold trade-town
-    
-      - One of the Twin Cities, paired with an older, above-ground
-        trading city.
-      - built under world-spine mountain
-      - founded \~200 years ago, growing over time
-      - giant, roughly-circular cavern
-      - about 9 miles across and 150 feet high
-      - population of 500,000 people
-      - mostly kobolds, also humans, some Dwarves and Ash Elves
-      - split into blocks, built around central support spires
-      - families and clans live together
-      - small private spaces, large civic spaces
-      - cosmopolitan trade town, sitting at intersection of major
-        above-ground and underworld trade routes
-
-  - Founding city
-    
-      - central fortification, surrounded by town and low-wall
-      - present population of 20,000 people, large development outside
-        of “old town” walls
-      - historical interest, but not a major town presently (not on a
-        major trade-route)
-      - population composed of human, gnoll and halflings
-
-  - Haven Isle capitol
-    
-      - cosmopolitan city of 300,000 people on shores of Haven Isle
-        (Eastern, gulf-side)
-      - heavy trade with mainland
-      - above-ground (as opposed to dwarf/kobold/ash-elf construction)
-      - humans, halflings, ash-elves and kobolds
-      - small population of citizen Tempters
-
-  - Three Cities
-    
-      - three cities under slopes of volcanic mountain on Haven Isle
-      - one Ash Elf, one Kobold, one Dwarven
-      - (not to be confused with the Three Cities that founded the human
-        empire more than a thousand years ago)
-      - total population of more than 215K
-      - though the Three Cities are independent, they do share a central
-        concourse and marketplace, with both surface and under-way
-        access. Lots of visitors and merchants come through here.
-
-  - Kethanel
-    
-      - Kethanel is a city-state located on the island Kethel in the
-        gulf that separates the Orcs and Dwarves.
-      - Before either the Dwarves or Orcs joined the Commonwealth,
-        Kethel was settled equally by six Orcish and six Dwarven clans;
-        the two shared the resources of the island—such as they were—and
-        coexisted (mostly) peacefully.
-      - More than 600 years ago, the Clans of Kethel met in council;
-        they agreed, first, that their clan council could make decisions
-        for the island as a whole, and second, that Kethel should join
-        the Commonwealth, as many other Dwarven and Orcish territories
-        had done.
-      - Even though Kethel is more than 100 miles across, it is listed
-        as a city-state, and is represented by its one major city.
-        Kethanel is a city of more than thirty-five thousand situated in
-        a wide bay on the continent’s Southern edge.
-      - The architecture of Kethanel is striking; the city is built both
-        above and below ground, and is built of massive stones carved
-        and set by both Orcish and Dwarven hands. It is, not
-        coincidentally, a veritable fortress.
-      - Kethanel has long been a local trading and fishing hub, its role
-        in trade is growing; though it has long been a port for boats
-        crossing the gulf, as the Commonwealth’s sea-faring abilities
-        improve, boats sailing up and around the coast from the Haven
-        Isles have begun to make Kethanel a stopping-point. Some have
-        whispered that a Cairn may be built in Kethanel.
-      - Though Kethel is still predominantly settled by equal numbers of
-        Dwarves and Orcs, after the island joined the Commonwealth it
-        saw an influx of more than a thousand Gnolls, mostly of a
-        unique, arctic ethnic-group; they settled in the Southeastern
-        reaches of the island. More recently, Kethanel City has seen
-        substantial Kobold immigration, and a small population of Ash
-        Elven merchants have been carried to the city from the Haven
-        Isles by boat.
-
 ## Organizations
-
-  - Commonwealth Council organizations
-    
-      - Council Army / Navy / patrols
-      - Council Architects: originally built and maintained roads and
-        bridges, now also responsible for many large public works (f.ex.
-        Dams)
-      - Council Colleges: directly fund and run several colleges in
-        larger towns, pay for traveling teachers to visit smaller
-        communities.
-      - Council Mediators: help to settle disputes between provinces;
-        disputes ultimately voted on by Commonwealth Council.
 
   - Professional guilds
     
