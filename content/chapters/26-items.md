@@ -178,8 +178,6 @@ There are a few examples throughout this section, but we will provide you with s
 | if those rules are flexible enough that they could produce any reasonable magical item, they'll almost certainly be so huge that trying to use them will be a major undertaking;
 | and designing those rules such that every item it produces is balanced against all the others is a practical impossibility.
 
-</aside>
-
 ## Armors
 
 The following listings are for common types of armor.
@@ -280,7 +278,7 @@ Tags: Cumbersome, Heavy, Vulnerable: Impact (-2 AV), Vulnerable: Piercing (-3 AV
 
 Brigandine armor is one among several varieties of armors that make use of *metal plates* to improve protection.
 Brigandine armor consists of small, oblong metal plates riveted to the outside of a leather garment.
-Brigandine armor provides improved protection over mail, while being cheap and easy to produce—although it still requires access to good-quality steel plates, and the highest-quality armors still require those plates to be fitted to the wearer.
+Brigandine armor provides improved protection over mail, while being cheap and easy to produce — although it still requires access to good-quality steel plates, and the highest-quality armors still require those plates to be fitted to the wearer.
 
 Brigandine armor is in wide use in the Commonwealth.
 It became the standard armor for the Commonwealth's armies more than 180 years ago; only within the last 30 years as the Commonwealth begun to replace brigandine armor with solid plate even for its common soldiery.
@@ -289,59 +287,27 @@ It became the standard armor for the Commonwealth's armies more than 180 years a
 - Drawbacks: -10 to checks that include your COO.
 - Tags: Composite, Cumbersome, Heavy
 
-<!--
-### Partial Plate (Original)
-
-Consisting of steel plates and leather straps, partial plate protects
-only parts of the wearer. The typical layout will cover the throat,
-shoulders, arms and shins in plate, though other arrangements exist,
-including single plates directly over the heart and kidneys, or
-gladiator sleeves.
-
-Armor Value: 5 AV
-
-Drawbacks: Cannot be worn with Full Plate.
-
-Tags: Exposed, Layerable, Proud
-
-Exposed makes sense but is (probably) awkward to manage at the table; 5
-AV is way too much to be Layerable without penalty.
-
-### Partial Plate (Edited 1)
-
-Consisting of steel plates and leather straps, partial plate protects
-only parts of the wearer. The typical layout will cover the throat,
-shoulders, arms and shins in plate, though other arrangements exist,
-including single plates directly over the heart and kidneys, or
-gladiator sleeves.
-
-Armor Value: 3 AV
-
-Drawbacks: -2 INIT if layered with armor with the Heavy tag. Cannot be
-worn with Full Plate.
-
-Tags: Layerable, Proud
--->
-
 ### Raider's Armor
 
-*Raider's armor is an example variant armor, based on Brigandine.*
+*Raider's armor is an example variant armor, based on Brigandine armor.*
 *It is similar to Brigandine, but is easier to manufacture—especially if you're scavenging components.*
 *It is commonly worn by Shade Elven raiders.*
 
 Raider's armor is a style of armor commonly worn by Shade Elves.
 It has replaced iron mail jackets and coats as the Shade Elves' enemies have begun to use more powerful and effective weapons.
 
+Raider's armor is, of course, designed for use by a mounted archer; it is built in the style of a heavy jacket, typically running down to the knee and covering the wearer's thighs, but split so that the wearer can ride a horse.
 Raider's armor is multi-layered; it consists of metal plates, riveted to an outer layer of leather and covered on the inside by a layer of fabric.
 (Silk is often used, as it's believed to better bind arrows as they strike, making them easier to remove.)
 This armor allows the Shade Elves to make use of metal plates for armor, while still remaining relatively light, flexible, and easy to manufacture and wear.
 
 The components can vary; the Shade Elves have poor access to steel, so the inner plates are often made of iron, cured leather, or even wood.
-Shade Elves also often scrap captured Commonwealth steel armors to make Raider's armor; Commonwealth plates are often fitted to Gnollish or Drake wearers, which Shade Elves cannot conceivably wear.
+Shade Elves also often scrap captured Commonwealth steel armors to make Raider's armor; Commonwealth plates are often fitted to Gnollish or Drake wearers, which Shade Elves cannot conceivably wear, so these larger plates are cut into smaller pieces for use in raider's armor.
 (One notable benefit of riveting the plates on the *inside* is that an attacker does not necessarily know how many plates are present, what their extent is, or what they are made of.)
 
 - Armor Value: 4 AV (Wood or Leather), 7 AV (Iron or Steel)
 - Drawbacks: -10 to checks that include your COO.
+- Special: Medicine checks made to treat arrow wounds inflicted through Raider's Armor receive a +20 bonus.
 - Tags: Composite, Cumbersome, Heavy
 
 ### Imperial Armor
@@ -384,22 +350,15 @@ The typical layout will cover the throat, shoulders, arms and shins in plate, th
 
 A full set of plate armor is among the best protection available.
 Coating the wearer's body in solid plates of refined steel, it is worn by the noble knights of the Dragonshire and Kingdoms of Men, and by the Commonwealth’s fearsome elite soldiers and shock troops.
-The weight of the metal armour makes some motions sluggish, but does not impair gross agility or strength.
+Full plate can vary somewhat in quality and fitting; while the plates can be heavy, well-fitted armors little impairs gross agility or strength.
 
 - Armor Value: 10 AV
 - Drawbacks: -10 to checks that include your COO, -2 INIT
 - Tags: Concealing, Cumbersome, Heavy, Proud
 
-### Full Plate Rev
-
-A full set of plate armor is among the best protection available.
-Coating the wearer's body in solid plates of refined steel, it is worn by the noble knights of the Dragonshire and Kingdoms of Men, and by the Commonwealth’s fearsome elite soldiers and shock troops.
-The weight of the metal armour makes some motions sluggish, but does not impair gross agility or strength.
-
-- Armor Value: 10 AV
-- Drawbacks: -5 to checks that include your COO
-- Special: suits of Full Plate are Cost: Major
-- Tags: Concealing, Cumbersome, Heavy, Proud
+Special: *Well-fitted* full plate is also available.
+This armor has only a -5 penalty to COO-linked checks, and no INIT penalty.
+It is, however, Cost: Major.
 
 ### Heavy Cloak
 
@@ -456,7 +415,7 @@ Tags: Off-hand, Parry, Cavalry
 
 ### Kite shield
 
-Kite shields are made entirely of metal, and are commonly wielded by elite fighters in cultures capable of producing high-quality steel at scale--and thus they are commonly seen wielded by knights.
+Kite shields are made entirely of metal, and are commonly wielded by elite fighters in cultures capable of producing high-quality steel at scale — and thus they are commonly seen wielded by knights.
 Kite shields cover a wielder from shoulder to thigh, and are usually about as wide as the wielder's chest.
 They are useful for the mix of mobility and cover that they provide; they are often used to block incoming arrows and crossbow bolts, allowing heavily-armored combatants to close effectively.
 
@@ -475,15 +434,34 @@ Tower shields are enormous, covering the user from head to knee.
 The largest shields in common use by single fighters, tower shields also provide cover for the ranks behind them, as well as an impassible wall to opponents in front.
 
 Some armies deploy these shields in formation, where they can be powerful defensive weapons;
-tower shields in the front ranks can cover pikeman in rear ranks, creating a powerful formation--if one that is vulnerable to being flanked.
-Many Dwarven holds use tower shields in the defence of their holds; there, they allow them to nearly completely block off the narrow hallways and irregular stone tunnels of their homes.
-Some Gnollish families in Northland Province have also developed a fighting style that centers on the use of a tower shield; the style is notably different from the one used by their Dwarven neighbors, and focuses on maximizing the defence provided by the shield in melee combat.
+tower shields in the front ranks can cover pikeman in rear ranks, creating a powerful formation — if one that is vulnerable to being flanked.
+Many Dwarven holds use tower shields in the defense of their holds; there, they allow them to nearly completely block off the narrow hallways and irregular stone tunnels of their homes.
+Some Gnollish families in Northland Province have also developed a fighting style that centers on the use of a tower shield; the style is notably different from the one used by their Dwarven neighbors, and focuses on maximizing the defense provided by the shield in melee combat.
 
 Armour: 4
 
 Drawback: -10 COO-linked skills
 
 Tags: Off-hand, Heavy
+
+### Archer's Shield
+
+The Archer's Shield is a massive shield designed for use by formations of archers, crossbows, or hand-cannons.
+These massive shields can completely cover the wielder, and are equipped with a spike that can be driven into the ground.
+While the offer impressive defenses, they are not particularly  mobile.
+
+- Armor: 5
+- Drawback: -15 COO-linked skills
+- Special: Cover
+  - Archer's shields provide *partial cover* to their users against most attacks.
+- Special: Planting
+  - Archers' shields can be *planted* in suitable ground — that is, ground that can be penetrated by the spike (so, for example, archer's shields cannot be planted on rocks).
+  - *Planting* or *uprooting* and archer's shield is a *quick action*.
+  - While planted, the shield is effectively immobile; if the user wishes to move, they must either *uproot* the shield or abandon it.
+  - While planted, the penalty to COO-linked skills is reduced to -5, and the *Cumbersome* tag is negated.
+- Special: Fire-Port
+  - Archer's shields intended for use with crossbows and hand-cannons are often fitted with braces and small openings, allowing a crossbow or hand-cannon to be braced against the shield (as described in *Cover* in *Combat*).
+- Tags: Off-hand, Heavy, Cumbersome, *Plantable*, *Cover*
 
 ## Weapons
 
