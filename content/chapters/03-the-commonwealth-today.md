@@ -42,7 +42,7 @@ Because of the work of these Council Agencies, the Commonwealth is secure, stabl
 | Innovations like the three-field rotation, the use of horses in agriculture, the development of gunpowder and the development of the printing press occurred decades or centuries ago, and have begun to transform society.
 | Just as importantly, they've also begun to develop very sophisticated philosophical thought — beginning to develop the ideas behind rationalism, and to contemplate the design of political systems to serve their peoples.
 |
-| However, you should not assume that the Commonwealth is precisely equivalent to Europe at the beginning of the Renaissance; we'd like to incorporate ideas from other great civilizations.
+| However, you should not assume that the Commonwealth is precisely equivalent to Europe at the beginning of the Renaissance; we'd like to incorporate ideas from other great civilizations as well!
 |
 | Please also note that we aren't historians; please forgive us any minor errors.
 | (We're always open to making our world more historically plausible, or being introduced to new, interesting ideas that we can incorporate.)
@@ -126,7 +126,7 @@ The Compact also details procedures for resolving conflicts between the province
 
 Other than this, each province is free to govern itself — to make and enforce their own laws, by whatever method their residents see fit.
 
-#### The Council
+### Council Operation
 
 The Council consists of 50 seats, allocated to each Province by population, to a minimum of 2.
 (Seats are allocated by population, then any below 2 are "rounded up."  Although it's never happened, it is possible for this "rounding up" to add seats, so the Council might not have exactly 50 seats.)
@@ -143,7 +143,7 @@ The Council has been meeting in Southarbor since CY 829.
 While the Commonwealth does not have a capital as such, it does have several Council Campuses.
 These campuses include administrative offices, libraries, and archives.
 
-#### Council Agencies
+### Council Agencies
 
 Almost certainly the greatest impact that the Commonwealth Council has on the day-to-day lives of its citizens is through the agencies that it funds.
 These include:
@@ -151,59 +151,161 @@ These include:
 - The **Council Architects**, who are responsible for maintaining roads, bridges, dams, and other large public works;
 - the **Council Colleges**, who directly run several large civil and military colleges, and who fund the Circuit Tutors;
 - the **Council Mediators**, who mediate disputes between the provinces — and who perform the functions of a high court in some of the provinces;
-- the **Council Guard**, who patrol and secure the vast territory — and, somewhat like the Mediators, serve the function of a security force in some of the provinces; and
-- the **Council Military**, the Commonwealth's formidable army and navy — the preeminent military in the world.
+- the **Council Administration**, responsible for collecting taxes, distributing notices, and the general operation of the bureaucracy;
+- the **Council Military**, the Commonwealth's formidable army, navy, and guard — the preeminent military in the world.
 
 All of these agencies are ultimately responsible to the Commonwealth Council.
 
 Notably, the Commonwealth *doesn't* include a single executive, like an Emperor or King; each Council Agency is responsible directly to the Commonwealth Council.
-In the drafting of the Compact, there was some concern about the ability of the Council to keep control of the agencies; in order to ensure that the Council could quickly deploy an agency — or bring it to heal — each Agency is especially responsible to a Committee in the Council.
+In the drafting of the Compact, there was some concern about the ability of the Council to keep control of the agencies; in order to ensure that the Council could quickly deploy an agency — or bring it to heel — each Agency is especially responsible to a Committee in the Council.
 Each committee can, with a two-thirds vote, command a given agency.
 
-## Commonwealth Magic
+## Council Agencies
 
-Though the spirits are often inscrutable and the potential applications
-for magic are vast, it is nevertheless true that the sages and scholars
-of the Commonwealth have amassed a vast amount of useful knowledge of
-magic, and that much of this knowledge has been deployed to the benefit
-of the Commonwealth. It is studied in their universities, deployed in
-their military, and sold in their cities by clerics and hedge-wizards.
-While powerful magic items (e.g. magical weapons and armor) are rare,
-simple magical tools and potions are common (see *Items* for a few
-examples, by no means complete\!).
+### The Council Architects
 
-Of special note is the recently-developed Kairne Network. Each Kairne is
-an unassuming stack of standing-stones, surrounded by an open space and
-paced out by smaller Kairnes arranged in a circle. These unassuming
-ritual-sights allow magic-users who know how to use them to rapidly
-transport themselves from any one Kairne to any other—allowing them to
-cover great distances in the blink of an eye. Presently, only a dozen
-Kairnes have been constructed, and the Kairne networks remain difficult
-to use—in particular, few mages can carry much with them.
+The Commonwealth can boast an incredible network of well-maintained roads and bridges; of dams and aqueducts; of strong city-walls and innumerable fortifications and outposts; and more.
+Many of these constructions are the responsibility of the Council Architects.
+Most of the roads and bridges that tie the Commonwealth together in a vast network of trade where constructed and are maintained by the Council Architects directly; on other projects, like the walls of cities, they merely assist, providing assistance with funding, design, and labor to local governments.
+
+### The Council Military
+
+For centuries, the Commonwealth was unique for its permanent professional military; even now, only the Goblin Empire can also boast of a full-time army.
+The Commonwealth's military is widely regarded as the premier military in the known world.
+
+The Council Military is divided into Guards, Armies, and Navies; the Guards are responsible for keeping the peace, the Armies are responsible for land warfare, and the Navies are responsible for ocean warfare.
+Each Guard, Army and Navy has its own commander; the Commonwealth Military has no single supreme commander, in part to prevent a military leader from gathering too much power.
+The Guard and Army are separated for the same reason.
+
+#### The Guards
+
+Centuries ago, the Council funded one large armed force, responsible for the security of the Commonwealth.
+They patrolled the roads, manned the forest and outposts, patrolled the frontier, and repelled invaders.
+Though sustaining a full-time standing army was expensive, it paid massive dividends; it secured the roads between manors and cities, and allowed trade to flourish in the early Commonwealth.
+Importantly, it also allowed the Commonwealth, while being a far more mercantile than martial culture, to cultivate a substantial amount of military skill and infrastructure among their people; this made them a remarkably formidable force.
+
+With the Compact, the Guards (responsible for patrolling the interior) and the Armies (responsible for warfare) where separated, but the role of the Guards remains much the same.
+The Guards man countless forts, watch-towers and outposts throughout the interior of the Commonwealth; they patrol the roads and forests, keeping the peace; and they serve as a way to build military experience, training, and discipline during peace-time.
+And, thanks to the continued service of the Guards, the Commonwealth is remarkably peaceful and secure; banditry is almost unheard of, and trade continues to flourish.
+
+The Guards are organized into *marches*, a term borrowed from the military terminology of the Dragonshire and Kingdoms of Men; most marches correspond to a particular region of a province, although some marches with special missions might overlap others or cross provincial borders.
+Each Guard is headed by a March Commander; each March Commander is served by Fortress Commanders, who typically oversee a primary fortification, several overland road routes, and minor outposts; and each Wall Commander is served by Patrol Commanders responsible for a particular patrol route and a corresponding unit of Guards.
+
+While the Guards are responsible 
+
+#### The Armies
+
+The Commonwealth has several permanent standing armies.
 
 ## Organizations
 
-  - Professional guilds
-    
-      - Professional guilds are a major part of the Commonwealth
-        economy\!
-      - Guilds provide support to tradesmen and professionals.
-      - Guilds require dues from members, and work to make sure that
-        members aren’t cheating the public.
-      - Guilds provide support to members, helping place apprentices
-        with them, and helping them make connections to other
-        professionals as they travel.
+Of course, the Commonwealth Council and its various Council Agencies aren't the only powerful groups operating in Commonwealth society.
+There are also powerful Guilds; countless temples, cults, and religious orders; schools; activist organizations, like the Far Watch and the High Road; the wealthy and their powerful families; and, of course, gangs, smugglers, and other criminals.
 
-  - Religious orders
-    
-      - usually polytheistic, help hook mortal supplicants up with any
-        spirit who will make a deal
-      - since spirits are usually regional, temples usually specialize
-        in spirits in the region
-      - some are devoted to pursuit of an idea, c.f. most orders that
-        produce “paladins” or something like them
+### Professional Guilds
 
-  - criminal organizations
-    
-      - corruption does exist, especially in big cities
-      - Smugglers, black-mails, thugs, thieves, and everything else.
+*Professional guilds* are a major force in Commonwealth society.
+Many are quite large and powerful, holding great influence in their particular domain; some are also quite old, going back centuries — the first guilds cropped up in the years before the New Charter, although none of those earliest guilds still operate today.
+
+Guilds are professional organizations, that the practitioners of certain crafts or trades can join.
+The guilds collect dues from their members; in turn, the guilds help support their members, help them to find work, help defend them against predation or exploitation, and help to arrange for training and apprenticeships.
+Notionally, at least, guilds also have an incentive to ensure that their members do good work, since, should a guild-member cheat their clients, do shoddy work, or otherwise earn the enmity of the public, that may reflect poorly on the guild as a whole.
+
+Most guilds are local or regional organizations — it would be a practical impossibility for one guild to organize and represent all the carpenters throughout the Commonwealth.
+But, at the same time, most guilds form larger organizations, peering with other guilds throughout the Commonwealth.
+These guild-alliances often have a federated structure: there may be a Union of Carpenter's Guilds that oversees provincial guild associations, and those provincial guild associations in turn might unite as many local guilds as possible.
+In this way, a member of a Carpenter's guild based in Autumn's Hold in Heartland Province might be able to travel to the Haven Isles and draw on the support of an allied Carpenter's Guild there.
+
+The potential advantages of such an organization to a tradesperson or artisan are obvious; whether merely travelling or completely relocation, an artisan in a distant province can draw on a web of support, finding work, drawing apprentices, and being supplied with tools.
+
+Perhaps unsurprisingly, guilds can vary widely in quality and temperament; while most guilds in the Commonwealth are reputable and beneficial, bad guilds do occasionally form.
+And depending on their character, bad guilds can have remarkable downsides.
+Not every guild is eager to support newcomers our outsiders; some become territorial and protectionist, making it difficult for foreigners or newcomers to gain purchase.
+Some may even operate to strangle and exploit the local artisans themselves — at their very worst, some guilds are little better than gangs or cartels, taking control of all exercise of a given craft in a region and extracting exorbitant fees and dues.
+
+Notably, sometimes guilds can overlap and compete — it is entirely possible for two separate Carpenters Guilds to operate in the same area.
+And of course, an tradesperson could simply choose not to join a guild — although some guilds may be more hostile than others to "independent" tradespersons.
+
+[[playerguidance|Using Guilds]]
+|Beyond worldbuilding, guilds are primarily intended to be useful tools for players, particularly players for whom their Craft and Profession skills are central to their character concept.
+|
+|Guilds provide at least some means for a *chemist*, say, to enter a strange town on the other side of the Commonwealth, and still have relatively easy access to the kinds of resources and connections they need to practice their craft — and perhaps also a source of local information.
+|
+|Mechanically, establishing that your character is a member of a guild is easy: simply take the *Guild Member* class.
+
+[[gmguidance|Bad Guilds]]
+|We generally recommend springing bad guilds on players who take the Guild Member class; if your players have paid for the class, they should usually be able to get use out of it.
+|Bad guilds are more intended as plot hooks.
+
+Guilds exist for most trades and crafts.
+For example, the **Emerald Masons' Federation** is a vast, tiered network of masonry and stonecutting guilds that operates throughout the Commonwealth and beyond.
+This guild is notable for being one of the more reputable, and ensuring the good character and beneficial operation of their member local guilds.
+It is also notable for extending beyond the Commonwealth: a number of masons' guilds in the western kingdoms of the Kingdom of Men have joined the Federation, and there are even a handful of members (though not an official chapter) in the western border-reaches of the Goblin Empire.
+
+Guilds also exist for more urban, sophisticated professions.
+There is, for example, the **Guild of Representatives and Mediators**, which represents lawyers and negotiators throughout Heartland and Dragonshire provinces.
+
+> River: Council Mediators can't join professional guilds, for the same reason that soldiers can't join mercenaries' guilds.
+> So there can be tension between the Council Mediators and members of the GRM.
+
+More recently, a number of **Explorers' Guilds** have formed.
+As sailing techniques have improved, more and more ships are venturing out onto the open ocean, or coursing down the coasts of the Ruby Plane.
+Explorers' guilds help to crew these missions.
+Explorers' guilds often include a particularly diverse memberships; besides sailors and soldiers, they can include doctors, geographers, scholars, translators, artisans, laborers and more.
+
+[[gmguidance|Explorer's Guilds]]
+|Explorers' Guilds serve as a simple way for a GM to arrange an exploration-themed campaign.
+|An explorers' guild is a simple way to connect individual characters with the group, and for the group to find campaigns.
+
+### Religious Orders
+
+The Commonwealth is home to countless temples, shrines, monasteries, and religious orders.
+Temples are often prominent, important places; complete with shrines, altars, and libraries, they are vital institutions for allowing the people of the region to placate, bribe, and barter with the local spirits.
+While there are Great Spirits that are commonly revered throughout the Commonwealth, most temples are often far more concerned with the vast profusions of more local spirits, who can have profound impacts on the lives and livelihoods of the local population.
+Other times, though, temples and monasteries can be devoted to particular Great Spirit, nation of spirits, or even to a particular philosophy.
+
+While many temples are independent, some are part of larger religious or philosophical orders.
+
+### Schools
+
+### Activists
+
+### The Elite
+
+### Criminal Organizations
+
+The Commonwealth Guard is a potent policing force; banditry has long been all but banished from the countryside, and thuggery is rare in its cities.
+Even so, crime still exists; smuggling, vice, and blackmail are still profitable, usually carried out by well-organized criminal gangs.
+Commonwealth gangs are often sophisticated and shrewd, the better to avoid detection and destruction by the Guard; the naked threat of the Goblin warlord is replaced by the silvered tongue and subtle knife of the Commonwealth enforcer.
+
+Many of these gangs survive by being at least as useful to the powerful as they are dangerous and damaging.
+Many smugglers in particular make their services available to the Commonwealth's spies and sappers, and to the operatives of the High Road and Far Watch.
+
+## Commonwealth Magic
+
+The sages and scholars of the Commonwealth have amassed a vast amount of useful knowledge of magic, and much of this knowledge has been deployed to the benefit of the Commonwealth.
+Magic is studied in their universities, deployed in their military, and sold in their cities by clerics and hedge-wizards.
+While powerful magic items (for example, large magical siege-engines) are rare, simple and utilitarian magical tools and potions are common.
+
+### The Kairne Network
+
+Of special note is the recently-developed **Kairne Network**.
+Each kairne is an unassuming stack of standing-stones, surrounded by an open space and paced out by smaller kairnes arranged in a circle.
+These unassuming ritual-sights allow specialized mages to rapidly transport themselves from any one kairne to any other — allowing them to cover great distances in the blink of an eye.
+
+Presently, only a dozen Kairnes have been constructed, all in major cities or massive central fortifications.
+Their small number, combined with the need of a master mage to operate one, means that kairne voyages are in short supply, and are expensive — and even then, only a limited amount of extra cargo can be carried along.
+For these reasons, they are rarely used for trade; instead, they are used to transport small, valuable, and very time-sensitive cargos — like diplomats, military commanders, or rare artefacts.
+
+Nevertheless, these kairnes are powerful and valuable installations; despite their limitations, they have begun a powerful transformation of trade and transport in the Commonwealth.
+
+[[hook|Secret Kairnes]]
+|Of course, there are rumors of secret kairnes — besides those in major cities like South-Harbor or Crossroads, or major fortifications like Seven-Points.
+|These can be highly useful tools during campaigns, and potentially even the hook for an entire adventure.
+|
+| * The Far-Watch catches word that there is, hidden somewhere in the world, a secret laboratory; its exact location is unknown, and its primary access is by kairne.
+|   Who runs this laboratory?
+|   Is it a great lord or noble, wishing to research dangerous magics or contact powerful spirits?
+|   Could it even be a Commonwealth Council operation, researching weapons to use agains the Shaded Sea or Goblin Empire?
+| * Kass Ahnaff, the current High King of the Kingdoms of Men, has long pursued closer ties with the Commonwealth; in particular, the merchant-king has made little secret of his desire that a kairne be constructed in his kingdom.
+|   Could there be a kairne under construction in Merchantmen City?
