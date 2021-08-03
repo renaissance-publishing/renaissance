@@ -2,35 +2,36 @@
 title: "Races"
 ---
 
-There are three separate keywords that have special significance in Race
-entries. All races will have one of the following keywords: Natural,
-Supernatural or Spirit. This tells you whether the race is
-flesh-and-blood (Natural), has some inborn supernatural quality
-(Supernatural), or is composed entirely of magical energy (Spirit).
+Here we will provide the information that players will need to build a character of a particular race.
+This includes a short description of their history, cultures, and ethnic groups; physical descriptions; vitals; and, importantly, their mechanical features.
 
-Some races have optional Traits, Classes, Powers or Backgrounds. You
-don’t acquire them for free; rather, they are added to your list of
-options at character creation, and you may *optionally* select them
-using all the normal rules for taking Traits, Classes, Powers or
-Backgrounds during character creation. (So, for example, Shifters don't
-*just have* the Animal Form trait, but they can purchase it during
-character creation for CP, just like any other trait they are eligible
-for.)
+We've divided this into several sections:
 
-Game Design Note: narrowing the stuff you get in Races down to *only*
-what every member of that species would have, regardless of background.
-Moving other features (c.f. skill bonuses) to backgrounds. Adding
-Optional Backgrounds to races that have unique sub-cultures (like Ash
-Elves, Herders or Dwarves).
+- the common races of the Commonwealth;
+- some of the more unusual races of the Commonwealth;
+- some of the races of the neighboring nations; and,
+- a few of the more exotic and unusual races of the world.
 
-Game Design Note: races selection should be interesting, and should
-affect how you play the character. However, you shouldn’t have to pick a
-specific race to get a specific feature or be good at a specific job.
-This is why many abilities were moved to Backgrounds, and why many
-abilities are being replaced by Traits-for-free (so that any other Race
-can just take the Trait if they want to).
+Note that every race will have on of three special tags: Natural, Supernatural or Spirit.
+This tells you whether the race is flesh-and-blood (Natural), has some inborn supernatural quality (Supernatural), or is composed (primarily or entirely) of magical energy (Spirit).
+
+Some races have optional Traits, Classes, Powers or Backgrounds.
+You don’t acquire them for free; rather, they are added to your list of options at character creation, and you may *optionally* select them using all the normal rules for taking Traits, Classes, Powers or Backgrounds during character creation.
+(So, for example, Shifters don't *just have* the Animal Form trait, but they can purchase it during character creation for CP, just like any other trait they are eligible for.)
+
+[[designnote]]
+| Because we'd like to emphasize that a member of any race can grow up in any culture, we've tried to limit the fixed features in each *races* block to only those biological characteristics that every member of a given race would have, regardless of background.
+
+[[designnote]]
+| We'd like race selection to be interesting and impactful, but we also want to avoid locking any race into (or out of) any particular role, or giving any race an edge in a role that a character from no other race could catch up to.
 
 ## Common Races
+
+The following races have large populations, and can be found throughout the Commonwealth.
+Most of these races take pride in belonging to one or both of the following groups:
+
+- The "founding races," the races that founded the Commonwealth: that is, Humans, Gnolls, and Halflings.
+- The "pillar races," the major racial and cultural groups that dominate the Commonwealth today: that is, Drakes, (Ash) Elves, Gnolls, Humans, and Kobolds.
 
 ### Drakes
 
@@ -145,7 +146,7 @@ can just take the Trait if they want to).
 - DUR 40, STR 40
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Foot 4/12
-- Senses: Normal, Low-Light
+- Senses: Normal, Infra-Red
 - Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Dragon-Kin, Drake
 - Language Group: DDK, HHED
@@ -367,7 +368,7 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
 - Prehensile Feet: Elves have prehensile feet.
   This allows them to grip and manipulate objects with their feet as adroitly as they do with their hands.
   This is of particular use while climbing and grappling, applying a +20 bonus to those tests.
-  It's also partcularly useful when *riding*, and it makes them very difficult to *dismount*.
+  It's also particularly useful when *riding*, and it makes them very difficult to *dismount*.
   - Elves treat their feet as non-dominant limbs, so they need to purchase the Ambidextrous trait at least once to wield weapons with them without taking a penalty.
 - Natural Camouflage: Elves have complex skin patterns, which serve as camouflage.
   These patterns provide a +10 benefit to Stealth checks; this benefit is lost if their skin is covered, and is not cumulative with worn camouflage.
@@ -467,15 +468,20 @@ Though few in numbers, the combination of these stealthy hunters scattered throu
 
 - Gnolls are one of the three founding races of the Commonwealth, and prosper anywhere great strength and endurance are valuable.
 - DUR 35, STR 35
-- \+5 INT, +5 SAV, +10 SOM
+- \+5 COG, +5 INT, +5 SAV, +5 SOM
 - Movement: Foot 5 / 15
 - Senses: Normal, Low-Light, Scent
 - Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Gnoll
 - Language Group: GR
-- *Hide*: Gnolls gain +1 Armor Value
-- *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
-- *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
+- *Sturdy*: Gnolls are highly resistant to pain and injury.
+  Gnolls can Negate one Wound.
+- *Powerful Jaws*: Gnolls have fierce teeth and powerful jaws.
+  They have the following natural weapon:
+  - Bite: Unarmed Attack, 1D10+4+DB DV, AP 1.
+  - Tags: Natural, *Bone-Crushing*, *Grab*
+- *Disease-Resistant*: Gnolls have an incredible resistance to many diseases.
+  They have Resistance: Disease (+30 to checks to resist)
 
 #### Optional Background: Military Family
 
@@ -731,6 +737,8 @@ Some shifters, in addition to their *hybrid* form, can entirely assume the form 
 - **Effect**: you can choose two more benefits for your Hybrid Form.
 
 ## Uncommon races
+
+The Commonwealth also includes countless other races and cultures, besides Gnolls, Humans, and the other pillar races; here are but a few.
 
 ### Clay Men
 
@@ -1837,6 +1845,8 @@ You have extensively developed your race's empathic talents, giving you a limite
   - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
 ## Neighboring Races
+
+Some races are relatively rare in the Commonwealth itself, but common in neighboring nations.
 
 ### Brightfeathers
 
