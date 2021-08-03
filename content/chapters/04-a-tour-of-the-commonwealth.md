@@ -79,7 +79,7 @@ However, this ancient culture has changed radically over the centuries — somet
 
 #### Cities
 
-Heartland Province is prosperous, established and secure; thus, it is home to a number of large cities — ranging from one-quarter to three-quarters of a *demarc* across, and with populations randing from the tens to hundreds of thousands.
+Heartland Province is prosperous, established and secure; thus, it is home to a number of large cities — ranging from one-quarter to three-quarters of a *demarc* across, and with populations ranging from the tens to hundreds of thousands.
 These large cities can be almost dizzyingly diverse.
 In them, one can find representatives of nearly every race and culture of the Emerald Plane.
 Humans are the majority there, Halflings are common, and Ratfolk and Kobolds populations are growing rapidly; however, there are always representatives from countless rarer races and cultures.
@@ -518,11 +518,8 @@ It has seen constant raiding and incursion from the Shade Elves to the south, an
 
 [[abstract]]
 |
-|Seven-Points is a massive star-fort built in center of Westward Province, where the province is at its narrowest, sandwiched between the rolling hills of Herd-and-Pack to the north and the Shade-elf-dominated steppes to the south.
-|The massive star-fort is at the cutting edge of fortification design, designed to provide optimal fields-of-fire for modern cannons, and to resist the Shade Elves' most sophisticated and modern tactics and weapons, and provisioned for more than two years' of seige.
-|The fort is also massive, dwarfing a great many cities in scale; it hosts a permanent population and civilian support personnel, and has even granted charters to a handful of manors that have planted fields to the north.
-|It is not the capital of Westward only because it technically is not a city; it is the center of Commonwealth military operations in the West.
-|The site has not gone 5 full years without combat since construction of the modern fortress began sixty-five years ago.
+|Seven-Points is a massive star-fort built in center of Westward Province.
+|It is the central point in Westward Province's defenses.
 |
 |---
 |
@@ -535,6 +532,19 @@ It has seen constant raiding and incursion from the Shade Elves to the south, an
 |Location: central Westward, in narrow band between Herd-and-Pack and Shaded Sea
 |
 |Industries: Soldiery, Command, Administration, Seigecraft, Masonry, Smithing, Farming
+
+Seven-Points is a massive star-fort built in the center of Westward Province, where the province is at its narrowest, sandwiched between the rolling hills of Herd-and-Pack to the north and the Shade-elf-dominated steppes to the south.
+
+The massive star-fort is at the cutting edge of fortification design, designed to provide optimal fields-of-fire for modern cannons, and to resist the Shade Elves' most sophisticated and modern tactics and weapons.
+The fort is also massive, dwarfing a great many cities in scale; it hosts a permanent population and civilian support personnel, and has even granted charters to a handful of manors that have planted fields to the north.
+In spite of its massive size and population, it is still provisioned for more than two years' of siege.
+
+It is not the capital of Westward only because it technically is not a city; it is the center of Commonwealth military operations in the West.
+
+
+Seven Points has a Kairne Circle.
+
+The site has not gone 5 full years without combat since construction of the modern fortress began sixty-five years ago.
 
 ### Major Location: Sail-Forest
 
