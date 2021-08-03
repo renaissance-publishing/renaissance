@@ -63,7 +63,7 @@ Examples for a *Humanoid* character are given in the table below:
 Sometimes, characters might attempt to move in a way that isn't directly covered by one of their *Movement Modes*; we call this **unusual movement**.
 If a Human climbs a tree, a Herder crawls along the ground, or a Clay Man attempts to support itself on two psuedopods and "walk" like a humanoid, then they are using *unusual movement*.
 
-Unlike a *stunt*, unusual movement isn't necessarily difficult, and so it usually *doesn't* require a check—although it might require *basic proficiency* in an appropriate skill (like *Athletics*) and it might require a specific *proficiency*.
+Unlike a *stunt*, unusual movement isn't necessarily difficult, and so it usually *doesn't* require a check — although it might require *basic proficiency* in an appropriate skill (like *Athletics*), and it might require a specific *proficiency*.
 
 Unusual Movement is usually less efficient than movement directly covered by a movement mode.
 Characters using unusual movement usually move at half the base rate for their *most applicable* movement.
@@ -81,7 +81,7 @@ Examples for a *Humanoid* character are given in the table below:
 | Crawling         | (Base for Foot) ÷ 2 |            |
 
 [[clarification | Difficult Terrain]]
-| Difficult terrain can also be a facto when moving around in combat; We cover *difficult terrain* in *Common Hazards*
+| Difficult terrain can also be a factor when moving around in combat; We cover *difficult terrain* in *Common Hazards*
 
 ### Charging
 
@@ -135,7 +135,7 @@ If the attacker scores a *critical success*, then the die-roll is *maximized* �
 - Attacker MoS \> 60: +5 more DV (+10 DV total)
 - Attacker critical success: *maximize* dice
 
-### Attack and Defence Skills
+### Attack and Defense Skills
 
 Generally, when attacking, characters use the *attack skill* appropriate to the weapon.
 For most melee weapons, this will be either *Melee Weapons* or *Pole-Arms*.
@@ -608,4 +608,25 @@ While **prone**,
 - you may move up to half your base movement as a Standard Action;
 - melee attackers receive a +10 bonus against you, and
 - ranged attackers take a -10 penalty against you.
-- Most weapons are more difficult (imposing a -30 penalty attack); this does not apply to weapons with the *prone* tag.
+- Most weapons are more difficult to use, imposing a -30 penalty attack; this does not apply to weapons with the *prone* tag.
+
+## Cover
+
+Characters can *take cover*, using solid obstructions to prevent and attacker from being able to reach them.
+We generally divide cover into three types: minimal, partial, and total; the effects of each are described below.
+
+- **Minimal cover** doesn't really conceal the defender from the attacker, but it does make the attack slightly more awkward.  A support-beam, banister, cattle-fence, or young tree might provide minimal cover.
+- **Partial cover** obscures about half of the defender, providing them substantial protection from attacks.  For example, a bench, a solid fence, shallow trench, or half-opened door might provide partial cover.
+- **Total cover** completely obscures the target from the attacker, preventing an attack.  Solid walls and deep trenches might provide total cover.
+
+| Cover   | Effect                              |
+| ------- | ----------------------------------- |
+| Minimal | -10 to the attack                   |
+| Partial | -30 to the attack                   |
+| Total   | Attacker does not threaten defender |
+
+Note that the benefits of cover can depend on several factors, including how the characters is positioned, whether the character is prone, crouching or standing, where the opponent is, and the kind of weapon that they are using.
+This is why we do not talk about a character being "in cover" absolutely, but instead talk about a character "having *partial cover* against a particular attack."
+
+Note that characters trying to move while crouching or prone behind cover are probably using *unusual movement*, as described above.
+Also, characters crouching behind many kinds of *partial cover* might be able to *brace* a weapon with the *Prone* tag, like a crossbow or hand-cannon; this would generally provide a +10 bonus to attacks.
