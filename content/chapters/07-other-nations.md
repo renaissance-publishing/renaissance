@@ -22,7 +22,7 @@ The Kingdoms of Men are a human nation that lies to the northeast of the Dragons
 |
 |Unsurprisingly, the Commonwealth Council would much rather see Kass Ahnaff on the Kingdoms' throne than any of his nearest competitors, and are investing heavily in making sure that he stays there.
 |
-|His throne is in Merchentmen City (below).
+|His throne is in Merchantmen City (below).
 |
 |#### Major Character: Mela, Tenna King
 |
@@ -39,12 +39,12 @@ The Kingdoms of Men are a human nation that lies to the northeast of the Dragons
 |
 |---
 |
-|#### Major City: Merchentmen City
+|#### Major City: Merchantmen City
 |
-|Known as Annhallan in Royal and Merchentmen City in Commonwealth Standard, this city of 900,000 sits in the northwest of the Kingdoms, about 140 *demarc* \[roughly 588 kilometers\] from the border with the Dragonshire, sitting scarcely a *demarc* from the coast of the Glass Sea.
+|Known as Annhallan in Royal and Merchantmen City in Commonwealth Standard, this city of 900,000 sits in the northwest of the Kingdoms, about 140 *demarc* \[roughly 588 kilometers\] from the border with the Dragonshire, sitting scarcely a *demarc* from the coast of the Glass Sea.
 |Annhallan is the capital city of the Kingdom of Anaff; since Kass Anaff is the current High King, the city is currently also the center of government for the Kingdoms of Men.
 |
-|As the name Merchentmen City implies, the Kingdom of Anaff has long prospered by trade, especially with the Commonwealth; traders from Heartland Province and the Dragonshire are common, and many of hte Commonwealth's languages are spoken in Merchentmen City.
+|As the name Merchantmen City implies, the Kingdom of Anaff has long prospered by trade, especially with the Commonwealth; traders from Heartland Province and the Dragonshire are common, and many of hte Commonwealth's languages are spoken in Merchantmen City.
 |
 |#### Major City: Hate's Hold
 |
@@ -109,8 +109,8 @@ The Kingdoms can be roughly divided between their western and eastern halves.  T
 
 The eastern Kingdoms are far more cruel; the Three Cities that built the Empire lie in the eastern portion, and to this day many of the residents there are quick to believe that humans should hold dominion over all other races (and that those whose ancestors built the Empire should hold dominion over all other humans).
 
-The current High King is one Kass Ahnaff, who is the king of the city-kingdom of Annhallan (styled as Wise Westking and Merchentmen City in Common).
-Merchentmen City is in the Western Kingdoms;.
+The current High King is one Kass Ahnaff, who is the king of the city-kingdom of Annhallan (styled as Wise Westking and Merchantmen City in Common).
+Merchantmen City is in the Western Kingdoms;.
 Kass has enthusiastically pursued better relations with the Commonwealth, and has made only the barest pretense to disguise his willingness to cooperate with the Commonwealth to combat the nobles of the East who would see him deposed.
 Many easterners view Kass as the worst human being alive.
 
