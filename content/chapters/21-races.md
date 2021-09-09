@@ -573,7 +573,7 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealthâ€
   - Kobold culture strongly encourages industry, so Kobold communities
     tend to be highly productive.
 
-  - They look like tiny, bipedal dragons. Somewhat like Drakes, their
+  - They look like tiny, slender, bipedal dragons. Somewhat like Drakes, their
     scales can take on a range of colors, and often metallic hues;
     however, unlike Drakes, this rarely has any effect on the Kobold in
     question.
