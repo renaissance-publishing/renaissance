@@ -414,6 +414,10 @@ The city has two major roads, one that runs roughly east-west and another that r
 
 The city includes a palace complex, where the current ruler of the Shade Elves and their Clan reside.
 
+#### Major City: Eastern Great Walled Camp
+
+A great walled camp in the East, where the *Kena* Confederation is based.
+
 ## The Raptors' Protectorate
 
 ![Raptors Symbols](../images/proto_banner_raptors.png)
