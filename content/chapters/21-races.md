@@ -1987,14 +1987,15 @@ And where they to attempt a rebellion, their forest would be burned to the groun
 - Size: Medium
 - Tags: Spirit, Humanoid, Foxfire
 - Language Groups: GH
-- Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly *deformable* — the can "stretch," "bend" and "squash" very slighty.
+- Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly *deformable* — the can "stretch," "bend" and "squash" very slightly.
   - This gives them a +10 bonus to checks when being highly flexible would be an advantage — such as Athletics checks to fit through cramped spaces or Stealth checks to hide.
 - Forest-Flow: Foxfire can move through forests (and orchards) with incredible grace.
   They do not treat forests or orchards as difficult terrain.
 - Glow: Foxfire glow gently, producing light like a (green) torch.
-  This is can be useful at night, but also makes hiding *difficult* (-30 penalty) if not impossible.
-- Natures: Foxfire have three natures; one comes from the forest that is their basin, and normally inherit the other two, usually one from each parent.
-  - When you create your Foxfire character, select a *regional* nature two other natures from the list below.
+  This is can be useful at night, but also makes hiding *difficult* (-30 penalty to Stealth) if not impossible.
+- Natures: Foxfire have three natures; one comes from the forest that is their basin, and they normally inherit the other two, usually one from each parent.
+  - When you create your Foxfire character, you gain the *Peach* nature, and two other natures from the list below.
+  - With your GM's permission, if your Foxfire has somehow been bound to a different forest, you may replace the Peach nature with a different nature that represents your new basin.
   - *Adopting* a nature (or returning to your standard form) is a Quick Action.
     (Note: This not a *sustained* action.
     Switching is a single Quick Action.)
@@ -2003,41 +2004,50 @@ And where they to attempt a rebellion, their forest would be burned to the groun
   - *Catfish* Foxfire show a slightly blue, scale-less skin, and gain *barbells* around their mouths.
     Conscripted *Catfish* Foxfire have been deployed on the Ruby Plane to hunt down Hasidisee and to infiltrate Protectorate Ratfolk villages.
   - While using this nature, the Foxfire:
-    - Gain a swim speed equal to their Walk speed, and can breath underwater.
-    - While underwater, they gain the *Acute Hearing* (+20) and *Acute Smell* (+20) sensory modifiers.
-    - Gains +5 INT
+    - gains a swim speed equal to their Walk speed, and can breath underwater;
+    - gains the *Acute Hearing* (+20) and *Acute Smell* (+20) sensory modifiers while underwater;
+    - gains +5 INT.
 - **Coyote**
 - **Fire**
 - **Hare**
-  - *Hares* are alert and quick.
+  - *Hare* Foxfire are small, alert, and quick.
+    Their surface coloration resembles that of a hare or rabbit, and they gain two long ears.
   - While using this nature, the Foxfire:
-    - gets one size smaller (so a Medium Foxfire would become Small).
-    - gains +1/+3 to their Walking Movement.
-    - gains the *acute hearing* sensory modifier (+20 hearing).
-    - gains +5 COO and +5 INT
+    - gets one size smaller (so a Medium Foxfire would become Small);
+    - gains +1/+3 to their Walking Movement;
+    - gains the *acute hearing* sensory modifier (+20 hearing);
+    - gains +5 COO.
 - **Mountain Lion**
   - Mountain Lion Foxfire are among the Foxfire's few natural warriors.
-    The Shaded Sea destroy have attempted to exterminate all the Mountain Lion Foxfire, but a few are still born.
+    The Shaded Sea have attempted to exterminate all the Mountain Lion Foxfire, but a few are still born.
   - While using this nature:
-    - The Foxfire's surface becomes a dull ochre, and masks their glow (negating the *Glow* trait).
-    - The Foxfire gains +5 SOM and +5 COO.
-    - The Foxfire gains *claws* on their hands and feet that deal 1d10+2 DV and have AP -2.
+    - the Foxfire's surface becomes a dull ochre, and masks their glow (negating the *Glow* trait);
+    - the Foxfire gains +5 SOM, +5 DUR, and +5 STR;
+    - the Foxfire gains *claws* on their hands and feet that deal 1d10+2 DV and have AP -2.
+- **Peach**
 - **Pine**
 - **Squirrel**
+  - *Squirrel* Foxfire are small, nimble, and proficient climbers.
+  - While using this nature, the Foxfire:
+    - gets one size smaller (so a Medium Foxfire would become Small);
+    - gains a *Climb* speed, with a rate equal to their Walking rate, -1/-3;
+    - gains +5 COO.
 - **Stone**
   - *Stone* Foxfire are exceptionally durable.
+    Their surface becomes dull and hard, as though they where made of stone.
   - While using this nature, the Foxfire:
-    - Gains +10 DUR, +5 STR, and 4 Armor.
-    - Gains +5 SOM
-    - Reduces their Walk speed by -1/-3
+    - gains +10 DUR, +5 STR, and 4 Armor;
+    - gains +5 SOM;
+    - reduces their Walk speed by -1/-3.d
 - **Sunlight**
 - **Water**
-  - Water Foxfire become clear and liguid, like living water.
+  - Water Foxfire become clear and liquid, like living water.
   - While using this nature, the Foxfire:
-    - Gains a swim speed equal to their walking speed.
-    - Can breath underwater.
-    - Gains +5 COO
-    - Gains Resistance: Physical Damage (halved)
+    - gains a swim speed equal to their walking speed;
+    - can breath underwater;
+    - gains +5 COO;
+    - gains Resistance: Physical Damage (halved);
+    - becomes extremely difficult to spot (+30 Stealth) when completely submerged in clear water.
 - **Willow**
 
 ### Goblins
