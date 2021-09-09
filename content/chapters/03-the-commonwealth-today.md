@@ -77,11 +77,11 @@ And, of course, the Commonwealth has a sophisticated understanding of magic — 
 
 ## Commonwealth Life, Society and Economy
 
-The Commonwealth includes myriad different cultures, so lifestyles and societies can vary widely.
+The Commonwealth includes myriad different races and cultures, so the details of daily life can vary widely.
 
-Throughout the Commonwealth (and in the rest of the known world), the vast majority of the population — more than 90% — labor to produce food.
+Throughout the Commonwealth (and in most of the rest of the known world), the vast majority of the population — more than 90% — are involved in producing food.
 They are farmers, fishers and shepherds, living in small communities throughout the countryside or sitting on the shores of rivers and lakes.
-Though these people are often poor, it should be noted that they are not serfs or slaves — unlike in some of the Kingdoms of Men, for example, or in the Goblin Empire.
+Though these people are often poor, it should be noted that they are not serfs or slaves, as slavery has been abolished in the Commonwealth — unlike in some of the Kingdoms of Men, for example, or in the Goblin Empire.
 They often own the fields they work; when they don't, they are at least not the possession of a lord, and are free to depart.
 
 Many of these people know little of the outside world, and may never venture more than a day’s walk from the place they were born.
@@ -91,22 +91,22 @@ This means that most residents of the Commonwealth are at least literate and num
 Many of the small hamlets and freeholds are often dependent on nearby manors and towns, which will hosts necessary markets and artisans.
 
 Heartland Province, the oldest province, may represent the Commonwealth's "archetypical" culture.
-Heartland is a decentralized web of manors, of hamlets and freeholds, and of city-states.
-Manors are, very roughly, small towns, surrounded by fields and forests; they are typically established by a *charter*, which is often held by a Lord, or by some organization (like a temple, guild, or university).
+Heartland is a decentralized web of city-states, manors, and hamlets and freeholds.
+Manors are, very roughly, small towns, surrounded by fields, orchards, and forests; they are typically established by a *charter*, which is often held by a Lord, or by some organization (like a temple, guild, or university).
 Manors are often self-sufficient in terms of food, and often host a few artisans as well.
-Nestled between manors are any number of small hamlets and freeholds, which are often interdependent with nearby manors, producing additional food but require the craft of their artisans.
+Nestled between manors are any number of small hamlets and freeholds, which are often interdependent with nearby manors.
 Manors, in turn, may have obligations to nearby city-states: city-states host large markets, where their food can be sold, and goods can be purchased; they are the homes of universities, guilds, and governments; and they are often walled, and strongholds of local defense.
 
-The cultures and traditions of these manors can vary incredibly widely — the flexibility of the system is one of its benefits.
-Heartland has also come to include pockets of many other races and cultures.
+The cultures and traditions of these city-states and manors can vary incredibly widely — the flexibility of the system is one of its benefits.
+While the most common culture is one that is distantly derived from that carried west by Humans from the Empire of Man — significantly changed by the intervening centuries and contact with other races and cultures — many other races and cultures are also represented by city-states and manors.
 
 Other provinces can vary widely.
 Westward, for example, is similar, since it was founded by settlers travelling from Heartland; however, it is significantly more militarized.
 Large fortifications have taken over some of the roles of city-states; in fact, the three largest population centers in Westward are giant, modern star-forts, established to resist the constant, ferocious raids coming out of the Shaded Sea.
 Dragonshire Province, having a centralized monarchy and sophisticated bureaucracy, is more vertically organized; Nobles, with their seats in cities, claimed the rule of the territories around them — often in turn headed by other, lesser nobles, and subject to the whims of the various guilds and councils.
 Northland, in turn, is more sparsely populated; it is a land of Orcish and Dwarven holds, clan politics, Gnollish herders, and snow.
-Herd-and-Pack, the domain of the Herders and their allies, is a land of herders and hunters, with few permanent settlements and even fewer large cities.
-Islandhome is perhaps the most modern province, and sports a sophisticated, tiered civil government.
+Herd-and-Pack, the domain of the Herders and their allies, is a land of herders and hunters, with few permanent settlements and fewer large cities.
+The Haven Isles are a hotbed of political theory and public discourse; it sports a sophisticated, tiered civil government.
 
 ## Commonwealth Governance
 
@@ -185,17 +185,24 @@ Though sustaining a full-time standing army was expensive, it paid massive divid
 Importantly, it also allowed the Commonwealth, while being a far more mercantile than martial culture, to cultivate a substantial amount of military skill and infrastructure among their people; this made them a remarkably formidable force.
 
 With the Compact, the Guards (responsible for patrolling the interior) and the Armies (responsible for warfare) where separated, but the role of the Guards remains much the same.
-The Guards man countless forts, watch-towers and outposts throughout the interior of the Commonwealth; they patrol the roads and forests, keeping the peace; and they serve as a way to build military experience, training, and discipline during peace-time.
+The Guards man countless forts, watch-towers, and outposts throughout the interior of the Commonwealth; they patrol the roads and forests, keeping the peace; and they serve as a way to build military experience, training, and discipline during peace-time.
 And, thanks to the continued service of the Guards, the Commonwealth is remarkably peaceful and secure; banditry is almost unheard of, and trade continues to flourish.
 
-The Guards are organized into *marches*, a term borrowed from the military terminology of the Dragonshire and Kingdoms of Men; most marches correspond to a particular region of a province, although some marches with special missions might overlap others or cross provincial borders.
-Each Guard is headed by a March Commander; each March Commander is served by Fortress Commanders, who typically oversee a primary fortification, several overland road routes, and minor outposts; and each Wall Commander is served by Patrol Commanders responsible for a particular patrol route and a corresponding unit of Guards.
+The precise mission and organization of the Guard varies by province: in Heartland, for example, the Guard are the primary means of law-enforcement outside of the city-states, and are responsible for 
 
-While the Guards are responsible 
+The Guards are organized into *marches*, a term borrowed from the military terminology of the Dragonshire and Kingdoms of Men; most marches correspond to a particular region of a province, although some marches with special missions might overlap others or cross provincial borders.
+Each Guard is headed by a March Commander; beneath each March Commander are several Fortress Commanders, who typically oversee a primary fortification, several overland road routes, and minor outposts; and each Fortress Commander is served by Patrol Commanders responsible for a particular patrol route or unit of Guards.
+
+March Commanders are typically responsible to the governments of the provinces in which they operate; because different provinces can have very different legal and governmental systems, the Guard can operate very differently in different provinces.
+Heartland Province, for example, has no significant provincial government; their Provincial Charter endows the Guard with the ability to prosecute various forms of violent crime, and specifies that they are responsible to the city-states within whose holdings they operate.
+The Haven Isles, however, have a sophisticated provincial administration, and their own law-enforcement authority; in that province, the Guard support the Haven Isles' own patrols.
 
 #### The Armies
 
-The Commonwealth has several permanent standing armies.
+The Commonwealth's military is perhaps the premier fighting force in the known world.
+At its core are full-time professional soldiers, drawn primarily from the ranks of Gnolls, Drakes, and Humans; these soldiers are well-trained, well-equipped, disciplined, and experienced, and are more than a match for the soldiery of any other nation.
+While this core of elite soldiers is smaller than the armed forces of other nations, they can be reinforced by the Guard; the Guard allows the Commonwealth to cultivate and preserve combat training and experience among the population, beyond their armies.
+(While the Commonwealth can draft their common citizens, this is rarely done, for many reasons; among them is that, unlike in the Kingdoms of Men or Shaded Sea, combat skills are not cultivated among the citizenry at large.)
 
 ## Organizations
 
