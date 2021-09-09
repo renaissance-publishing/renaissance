@@ -89,7 +89,7 @@ If that happens, the *actual rules text* applies.
 - Touch Only Attacks: either COO+SOM+SOM or Unarmed Combat (no proficiency required)
 - Indicate-Only Attacks: either 3×COO ir Ranged Weapons (no proficiency required)
 - Multiple Weapons
-  - Multiple attacks with multiple weapons: -10 penalty ("flat" penalty, *not* per additoinal weapon)
+  - Multiple attacks with multiple weapons: -10 penalty ("flat" penalty, *not* per additional weapon)
   - Multiple targets with multiple attacks: -10 penalty ("flat" penalty, *not* per additional target)
   - Attack using your *off-hand*: -10 penalty if weapon has *Off-Hand* tag, -20 penalty if it does not.
 - Unarmed Attacks:
@@ -103,7 +103,7 @@ If that happens, the *actual rules text* applies.
 
 ## Items, Crafting and Wealth
 
-Crafting time-frame: at the GM's discression, with the following guidelines:
+Crafting time-frame: at the GM's discretion, with the following guidelines:
 
 - **Trivial Item**: two hour Task Action *per batch*
 - **Minor Item**: two hour Task Action
@@ -122,7 +122,16 @@ When bartering:
 | Item cost is more than 1 greater than wealth | cannot purchase              |
 | You are wealth level 0                       | cannot purchase              |
 
-## Derived Stats
+## Stats
+
+| Aptitude | Description |
+| -------- | ----------- |
+| Cognition (COG) | Your character's ability to learn, reason, and plan. |
+| Coordination (COO) | Your character's balance, dexterity, pose, and reflexes. |
+| Intuition (INT) | Your character's instinct, facility with "unwritten rules", and ability to pick up on subconscious queues. |
+| Savvy (SAV) | Your character's social acumen; their ability to convince, deceive, cajole, and calm people. |
+| Somatics (SOM) | Your character's ability to manage their body; the mental half of strength. |
+| Willpower (WIL) | Your character's discipline, self-control, and mental durability. |
 
 | Derived Statistic  | Value |
 | ------------------ | ----- |
