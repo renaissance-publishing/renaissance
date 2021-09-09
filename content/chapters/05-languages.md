@@ -98,24 +98,17 @@ Example Languages, Rare and Common:
         understand Commonwealth Standard, since any given speaker might
         use different substitute sounds than any other.
     
-      - However, as a *written *language, Commonwealth Standard is a
+      - However, as a *written* language, Commonwealth Standard is a
         huge success.
     
-      - Commonwealth Standard is the almost-universal written language
-        for governing documents, contracts, trade and scholarship—even
-        in the Kingdoms of Man, most merchants, administrators and
-        elites can read and write Commonwealth Standard.
+      - Commonwealth Standard is the almost-universal written language for governing documents, contracts, trade and scholarship — even in the Kingdoms of Man, most merchants, administrators and elites can read and write Commonwealth Standard.
     
-      - Most formal education uses texts in Commonwealth Standard;
-        because of this, more people can read and write in Commonwealth
-        Standard than in their own language.
+      - Most formal education uses texts in Commonwealth Standard; because of this, more people can read and write in Commonwealth Standard than in their own language.
     
-      - Names in Commonwealth Standard tend to be combinations of words,
-        so that they can be translated.
-        
-          - A Human telling a Kobold that their name is “Anden” is
-            pointless if the Kobold cannot make any of those sounds.
-            “Quicksmith” is at least translatable.
+      - Names in Commonwealth Standard tend to be combinations of words, so that they can be translated.
+        - A Human telling a Kobold that their name is “Anden” is pointless if the Kobold cannot make any of those sounds.  “Quicksmith” is at least translatable.
+      - However — mainly because some languages include names that simply can't be translated — there are systems for transliterating from some other alphabets to Commonwealth Standard.
+        - These systems do not always result in pronounceable words.  The Ratfolk of the Warren Isles name their city-states after ruling families; one major city-state, when transliterated from Chatter to Commonwealth Standard to Wheal, results in the relatively pronounceable *Tetln*, while another becomes "Tqcl".
     
       - Commonwealth often forms new words by combining existing words
         together:
@@ -286,6 +279,9 @@ Example Languages, Rare and Common:
         differences between regional dialects, especially between the
         eastern and western Kingdoms.
       - Group HHED
+
+  - Shaded Speech: the common language of the Shaded Sea People.
+    - Group HHED
 
   - Songspeak: the imitation-based language spoken by the Brightfeathers.
 
