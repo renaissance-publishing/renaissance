@@ -285,112 +285,245 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations—as
 
 ![Shade Sea Banner](../images/proto_banner_shaded_sea.png)
 
-  - Alliance of Ratfolk and Shade Elves.
-  - Shade elves originate in the Southwestern corner of the Emerald
-    Plane, where they were a fearsome mounted raiding people.
-  - Ratfolk originate in an island chain 300km off the coast, where they
-    where skilled sailors.
-  - Complex history of raiding and violence.
-  - Both Shade Elves and then Ratfolk where forced to pay tribute by a
-    third, rarely-encountered people, the Leapers.
-  - They raided each-other to meet the tribute demands, until some 400
-    years ago, when they instead allied with each other and turned to
-    raiding the Commonwealth.
-  - Their siege of Islandholme in CY 447 is a major turning point; their
-    devastating defeat depletes the resources of the houses that mounted
-    the attack.
-  - They turned to raiding the Ratfolk who had settled on the Raptor’s
-    Plane, fleeing their cruel cousins; this ended when they allied with
-    the Raptors, and eventually ejected the Shaded Sea Peoples from
-    Raptor’s Plane.
-  - At present, they are still an active piratical and raiding culture,
-    and they still have several “client” populations in the Shaded Sea
-    and on Emerald Plane.
+The Shaded Sea People are deadly raiders operating out of the Shaded Sea — a stretch of sea between the southwest Emerald Plane and the Warren Isles.
+The Shaded Sea Peoples consist mainly of the Shade Elves of the Shaded Steppes and the Ratfolk of the Warren Isles, united as clients of the Leapers.
+
+[[abstract]]
+|
+|A warlike nation of raiders, consisting of a the Shade Elves of the Shaded Steppes and the Ratfolk of the Warren Isles, united under the mysterious Leapers.
+|
+|---
+|
+|Population: 95M
+|
+|Common Languages: Keillou, Chatter, Shaded Speech, *the Leaper's language*, *subject languages*
+|
+|Common Races: Shade Elves (55%), Ratfolk (20%), *subject races*, Leapers (unknown)
+
+### History of the Shaded Sea
+
+#### The Shaded Steppes
+
+Much of the ancient history of the Shaded Steppes is unknown.
+The Shade Elves of the Shaded Sea where already a dominant military power West of the Worldspine before settlers and explorers from the Commonwealth entered the region around CY 80.
+They where a nomadic, warlike race of horse-riders and herders; they where dominant throughout the Shaded Steppes, and constantly raided and warred with the cultures that bordered on it.
+They where fractious; an extended family formed a *clan*, clans formed *rides*, and rides joined in *confederations*.
+
+Those nomadic horse-people had great access to milk, meat, and hide, but where dependent on settled peoples near the Shaded Steppes for everything else.
+They where also warlike, and where devastating archers, riders, and raiders; they conquered several other cultures near the Shaded Steppes, forced others to pay tribute, and subject the remainder to nearly constant raiding.
+
+They where unafraid to use extermination and terror as tools of conquest.
+If a city or culture resisted, it might be razed and its population scattered or slaughtered.
+(This could very somewhat by tribe and confederation, with some being more bloodthirsty than others.)
+While this made their opponents more likely to surrender, it also bread intense resentment among their victims.
+
+They where also brutal masters.
+Their justice was harsh, with minor infractions frequently being met not only with the death of the perpetrator, but also a large enough collection of kin and neighbors to ensure that a message was sent.
+Their duties where also extreme, often leaving client cultures impoverished and starved.
+They frequently had no particular concern for clients' ability to survive, frequently treating them as possessions to be used.
+
+Unsurprisingly, the Shade elves where hated by the other cultures of the south-west Emerald Plane, and had no shortage of enemies.
+
+As the Commonwealth moved into the region, many saw a potential ally against a hated enemy.
+(The Commonwealth's willingness to ally with other westerners against the Shade Elves also made these people more willing to allow the newcomers to built permanent cities and fortifications in the region; in fact, many of them seem to have been happy to allow the Commonwealth settlers to bear the brunt of the Shade Elf assaults.)
+Slowly, a narrow strip of Commonwealth fortifications and walled cities began to stretch west, skirting the northern edge of the Shaded Steppes.
+
+Further west, the Herders, a culture of hunters and herders from the central regions of the west, began to seek allies against the Shaded Steppes.
+Though their territory did not border directly on the Shaded Steppes, the buffer between the two was thin; when the Shade Elves power waxed, their raids could reach well into Herder territories.
+The Herders began to seek allies to resist the Shade Elves, and found willing partners among other nearby cultures — primarily including a confederation of Gnollish tribes.
+This alliance became the aptly-named Herd-and-Pack Alliance.
+
+Finally, in the east, based in a strip of forest running between the Shaded Steppes and the Worldspine, there where the Sunrise Peoples, an alliance of frequent enemies (and sometimes conquests) of the Shaded Sea.
+Their fate was frequently the inverse of the Shade Elves: when the Shade Elves where united and their power was at its maximum, the Sunrise Peoples would suffer conquest and pillage; but when the Shade Elves leadership collapsed, the Sunrise Peoples broke free.
+(Owing to their long history of conflict with the Shaded Steppes, the Sunrise People have a particular hatred for the Shade Elves.)
+
+#### The Warren Isles
+
+The Ratfolk of the Warren Isles where a race of mariners, fishers, and traders.
+It is unknown if the Ratfolk originated in the Warren Isles, or came there from somewhere else; in either case, well before the signing of the New Charter in the eastern Emerald Plane, the Ratfolk had used a variety of single-masted outrigger canoes to spread throughout the Warren Isles.
+
+They established a number of distinct cultures.
+Cultural differences slowly developed between islands; on some of the mountainous islands, it was possible for different valleys to be cut off enough from one-another that they could diverge culturally.
+Though the Ratfolk practiced forms of agriculture and aquaculture, on many of the small islands, these where inadequate, and so the Ratfolk there relied heavily on fishing; many of these cultures built smaller settlements near the shores — sometimes even on stilts on the shore, or in the sea itself.
+On some larger islands, however, agriculture was more successful; there, more urban, settled cultures developed.
+Some of these urban settlements became city-states; some of the city-states became conquerors.
+
+Ratfolk city-states began to experiment with seaborne warfare.
+Large city-states began to conflict with one another, and to attempt to raid and subjugate the smaller cultures and islands nearby.
+This began an exodus from the Warren Isles.
+In CY 331, two smaller city-states on the island of *Katlkan* allied against the dominant city-state on the island, *Tetln*.
+In response, *Tetln* sought the aid of the city-state *Oyssa*, on its own island 45 *dc* away; the alliance was able to pacify the smaller city-states.
+Solidly in control of *Katlkan* and having the support of its closest rival, they then began the systematic conquest of the rest of the nearby Warren Isles.
+These conquests triggered an exodus; Rafolk fleeing the *Tetln* conquest landed in the Haven Isles, on the shores of the southern Worldspine (and just south of the Shaded Steppes), and on the northwest Ruby Plane.
+
+#### The Leapers
+
+By CY 200, the Commonwealth had established a number of forts and settlements in the region, and been integrated into its politics.
+In CY 255, the Commonwealth encountered the Herders, and the Herd-and-Pack Alliance; the two cultures where natural allies, and not least because of their shared enemy in the Shade Elves.
+Over the next century, conflict with the Shade Elves steadily increased; around CY 287, two of the largest Shade Elf confederations merged, forming the *Alenaya Confederation*; this combined entity unleashed a massive army on the region.
+In CY 341, the *Alenaya* set their sights on Five Rivers, the largest city of the Herd-and-Pack Alliance (which the Herders called *Kauhnahei*); the Herd-and-Pack Alliance sought the aid of the Commonwealth, who deployed the Bonfire Legion — one of the Commonwealth's armies in Westward — to reinforce Five Rivers.
+Between 341 and 344, Herd-and-Pack and their Commonwealth allies repulse several Shade Elf sieges; suffering heavy losses, and without pillage or tribute, the *Alenaya* Confederation began to crumble; as their power waned, the people on the east of the Shaded Steppes, the Sunrise People, began to rebel.
+
+As Shade Elf power crumbled, the *Leapers* struck.
+Little is known outside of the Shaded Sea about their methods; as far as is known, the Leapers never raised an army and marched on the Shade Elves.
+It is theorized that they systematically harried the crumbling *Alenaya*, attacking their people as they spread out through the steppes to graze; they may also have found eager allies (or pawns) among the confederation's many enemies.
+By CY 346, the *Alenaya* had lost the allegiance of all but their original two confederations — and these where in a weakened state, having lost many of their constituent clans to defection and combat; they became tributaries of the Leapers.
+
+In CY 349, the Herd-and-Pack Alliance signed a treaty, and by CY 350 the Commonwealth had begun to settle the Haven Isles.
+During this time, from CY 346 to CY 351, the Leapers continued their subtle campaign, bringing most of the other Shade Elf rides under their control.
+Though weakened, the Shade Elves where finally (mostly) unified; in CY 357, they set out to reconquer the east of the Steppes, and by CY 361, they set out to bring the Warren Isles under their control.
+
+The Ratfolk that had landed on the shores of the Shaded Steppes in CY 331 where not unknown to the Shade Elves.
+Skilled in seaborn combat, they became tributaries and allies of the Shade Elves, and feared raiders along the southern coast of the Emerald Plane.
+As the Shade Elves weakened, they became as much allies as tributaries to the Shade Elves, equal to some of the rides in power; at some point before CY 361, as Shade Elven power began to recover, they proposed to ferry members of an allied Shade Elf ride to their former homes in the Warren Isles.
+
+The scale of these raids where limited by the Shaded Steppes rafolks' numbers; they began almost thirty years of conflict between the Shaded Steppes and Warren Isles.
+Between CY 363 and 366, the Shaded Steppes had subjugated a nine smaller islands in the northeast of the chain; between CY 374 and 376, a concerted counter-attack by the Warren Isles ratfolk displaced the invaders.
+In CY 377, a larger invasion secured more than a dozen islands; by CY 379, the invaders had once again been displaced.
+Over the next decade, the Shade Elves and Ratfolk of the Shaded Steppes assembled a much larger force; in CY 389, they once again landed in the Warren Isles, this time with much greater numbers — and possibly with Leaper aide.
+After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below, and conquered them.
+The Ratfolk of the Warren Isles became tributaries of the Leapers.
+
+In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, the Leapers did not establish any kind of administrative structure.
+No one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
+
+#### The Siege of Islandhome
+
+### The Nations of the Shaded Sea
+
+#### The Shade Elves of the Shaded Sea
+
+The Shade Elves of the Shaded Sea are a culture of nomadic herders and raiders.
+
+#### The Ratfolk of the Warren Isles
+
+The Ratfolk of the Warren Isles are a culture of fishers, raiders and pirates.
+
+#### The Leapers
+
+#### Minotaurs
+
+### People and Places
+
+#### Major City: Western Great Walled Camp
+
+*Western Great Walled Camp* is a literal translation for the city that serves as the informal capital of the Shaded Steppes; it is one of the few permanent settlements constructed by the Shade Elves.
+The name is literal: the city is located in the west of the Shaded Steppes, and is constructed as a great walled camp; whereas other cities have permanent buildings and districts, much of Western Great Walled Camp is simply an open field, where the members of the dominant Confederation can encamp.
+The city is enclosed by four strong walls, joined at irregular angles; the north and west walls are shorter, and surround the palace complex and the city's four permanent districts, while the south and east walls are longer, and surround the open encampment.
+The city has two major roads, one that runs roughly east-west and another that runs roughly north-south; it has six gates, four situated where one of the roads meets, and two more on the south and east walls leading into the encampment.
+
+The city includes a palace complex, where the current ruler of the Shade Elves and their Clan reside.
 
 ## The Raptors' Protectorate
 
 ![Raptors Symbols](../images/proto_banner_raptors.png)
 
-- On the Raptor’s Plane, in the North-West and Central regions of the continent.
-- An alliance formed almost 400 years ago to resist piracy and raiding by Shaded Sea People.
-- United the Raptors with Ratfolk who had settled on the North-West shore, fleeing the cruelty of their cousins.
-- First contacted 300 years ago, with heavy travel beginning 200 years ago.
-- Friendly with the Commonwealth, though independent.
-- May be forced into closer alliance, as they are pressured by Goblins on the Eastern shore and Shaded Sea peoples on the West.
-
 The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
-Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
+Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People, and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
 
-<aside class="floating">
-
-An alliance formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples and Goblin Empire.
-
----
-
-#### Major Character: 
-
----
-
-#### Major City:
-
----
-
-#### Language: Protectorate Standard
-
-The common language of the Protectorate, Protectorate Standard derives from a pigin that Ratfolk refugees used to communicate with the Raptors that leaved near the coasts.
-As other races sought to trade with the Protectorate, they developed their own variants of the pigin; today, in effect, there is an abstract 'core' language, which all the pigins share, and which each race uses a unique set of sounds to pronounce.
-
-The language is the primary written language of exchange and scholarship in the Protectorate; it uses a variant of the Ratfolk's alphabet.
-
-*Group: Any*
-
-#### Language: Brook
-
-The language spoken by the Raptors, named for the way it sounds—like a burbling brook, or small rockslide.
-Originally, Brook was written pictographically; after the Ratfolk and Raptors began to trade heavily, a phonetic encoding was developed using the Ratfolk's alphabet.
-
-*Group: DDK*
-
-</aside>
+[[abstract]]
+|
+|An alliance formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples; more recently, they've absorbed waves of refugees from the Goblin Empire's conquests.
+|
+|---
+|
+|Population: 135M
+|
+|Common Languages: Protectorate Standard, Brook, Ember, Songspeak, *refugee languages*
+|
+|Common Races: Raptors (63%), Ratfolk (13%), Brightfeathers (6%), *refugee populations*
 
 ### History of the Raptor Empire
 
 #### The Raptor Empire
 
 The Raptors have long been the dominant race throughout the mountainous jungles of the central Ruby Plane, divided into diverse tribes and cultures.
-Around CY 40, the *Terrace-Builder* Raptors built their first large cities in the northeast corner of the mountains.
-They developed a style of terrace-building, and used it extensively both for urban design and agriculture.
+Around CY 40, the *Terrace-Builder* Raptors built their first large cities in the northeast regions of the Raptor's Peaks, the mountain-range at the center of the Ruby Plane.
+They mastered the construction of terraces, and use them extensively both for urban construction and agriculture.
 
-The early settlements developed into city-states.
+The early settlements developed into city-states, supporting a highly-structured society.
 They were broken into *castes*: roughly, *rulers*, *administrators*, *soldiers*, and *farmers*.
-Rather than using money, they used a *corvee* system: individuals where required to contribute labor to the city-state's projects—which included farming (which was done collectively), the construction of roads, terraces and buildings, and serving as a soldier.
+Their society was controlled by *rulers* and coordinated by the *administrators*.
+All land was held by the *rulers*, and granted to villages and their *farmers* for use; food was collected by the *administrators*, stored in a vast network of storehouses, and distributed to the populace as needed.
+The *soldier* caste served a role much like the Guards do in the Commonwealth: a small cadre of full-time warriors, who patrol and secure the Terrace-Builder's territory during peace-time and serve as the disciplined elites at the core of their army during war-time.
 
-An alliance of two Raptor city-states—Giant's Stairs and River-Cutter's City—came to prominance and, over the following centuries, eventually built an empire.
-Their conquests where subtle, using a mix of diplomacy and military threat; often, rather than pursue the total conquest of an enemy, they chose to end conflicts once favorable terms had been secured.
-This put the Raptors in the position of managing a heterogeneous empire, whose subjects they had not entirely defeated and pacified; in order to control this empire, they had to manage a careful mix of diplomatic, military and economic pressures.
-They also had to play the different parts of their fractuous empire against each-other, using one faction as a counter-weight to another; they where masters at maintaining enough internal cohesion to preserve their prosperity and military strength, while keeping their clients at-odds enough to maintain control.
+> **Eager**: Because we have a ruling caste, you might think that our city-states work like throne-cities in the Kingdoms of Men; actually, they work a little more like the city-states of Heartland Province.
+> Although they often have one main ruler, like a queen, that ruler typically shares power with the rest of the *golden caste*, and relies on them to administer the city.
+> My people tend to be very good at making sure that everyone is "bought in," and so the kinds of palace intrigues that you see in the Human and Goblin Kingdoms are rarer among the Terrace-Builder Raptors.
+>
+> **Aryn**: "Golden caste"?
+> The rulers, I guess?
+>
+> **Eager**: Yes, I'm sorry.
+> "Ruler," "administrator," "soldier," and "farmer" are what the castes are called in Commonwealth Standard; we call them *golden*, *clay*, *bronze*, and *stone*.
+>
+> **Chandra**: Also, you said "queens."
+> I guess your people are more matriarchal, like mine \[Drakes\] are?
+>
+> **Eager**: Yes.
+> Like you, females tend to be dominant in our society.
+>
+> **Notebook**: I'm curious, why are farmers the "stone caste"?
+>
+> **Eager**: Because of the stone terraces we use.
+
+The Terrace-Builders used a system of *corvee labor*: individuals where required to spend one out of every eight days contributing labor to one of the city-state's projects, which could include constructing or maintaining roads and irrigation channels, or serving as a soldier.
+(The Terrace-Builders use an 8-day week, with 7 days for labor and one day for rest.
+A Raptor might be called for corvee labor on any given labor day; typically, the administrator-caste will schedule the local farmer-caste according to the needs of local projects.)
+This allowed the Terrace-Builder city-states to build a vast network of roads, storage-houses and planted terraces,  spreading out from their city-states and tying them together.
+
+Eventually, an alliance of two Raptor city-states — Giant's Stairs and River-Cutter's City — came to prominence and, over the following centuries, slowly built an empire.
+Their conquests where subtle, using a mix of careful diplomacy, military threat, and small-scale skirmish.
+The Terrace-Builders rarely sought the total destruction, ruin, or conquest of their opponents, nor did they carry away slaves or loot cities; instead, they used military action as a tool for extracting tribute, trade, and other concessions, gradually bringing others under their influence.
+
+(Notably, the Terrace-Builders often presented themselves as the lords of the Raptors, claiming that they could call up the Raptor tribes in the south and west.
+In fact, those tribes had their own distinct cultures, and in many cases where just as much a conquered people as anyone else.)
+
+Becoming a subject of the Terrace-Builders was not without benefits: it provided access to their extensive network of roads, and to the trade that they carried; it provided access to the protection of the Terrace-Builder Empire and the soldier caste; and it meant that Terrace-Builder storehouses would be built throughout the subject people's territory.
+For these reasons, some nations became subjects of the Terrace-Builders voluntarily.
+Even those peoples and territories who where conquered, however, where granted access to the benefits of being a subject of the Terrace-Builders; this was done in order to better integrate all the subjects of the Empire.
+
+By approximately CY 390, the Terrace-Builder had assembled a substantial empire, centered on their city-states in the mountainous north of the Ruby Plane, and running north to the coast, east into the lowland jungles and deserts, and further south into the Raptor's peaks.
+This empire consisted of many different subject peoples, some of which had been incorporated voluntarily, while others had not; this put the *rulers* caste in the position of managing a large, heterogeneous empire, whose subjects may not have been entirely subjugated, pacified, or assimilated.
+In order to maintain control, they had to manage a careful mix of diplomatic, military, and economic pressures.
+They also had to play the different parts of their empire against each-other, using one faction as a counter-weight to another — an art which the *rulers* caste mastered.
+
+Unlike the Shaded Sea Peoples or Goblin Empire, the Terrace-Builders relied as much on the good will of their subjects as on military force to ensure the stability of their empire.
+Because the Terrace-Builders never carried away slaves or looted cities, and because membership in their empire carried significant benefits, they where not hated by their subject peoples the way the Shaded Sea or Goblin Empire are.
+(Of course, this is not to say that every subject people became a willing participant in the empire, nor where the Terrace-Builders where above deposing a troublesome monarch.)
+
 
 #### The Ratfolk Arrive
 
-The Ratfolk had long lived in the Warren Isles; they where a society fishers, farmers and traders.
-Between CY 331, several larger Ratfolk cities united, and began the conquest of their neighbors; this started an ocean-born exodus, with some of the refugees settling on the northwest shores of the Ruby Plane.
-This exodus only intensified when the Shade Elves began to raid the Warren Isles in CY 346.
+The Ratfolk had long lived in the Warren Isles.
+They where excellent mariners; centuries before their exodus to the Ruby Plane, they had used a variety of small, single-masted outrigger canoes to expand throughout the Warren Isles.
+They where a society fishers, farmers and traders.
+Many of these cultures where small, and they where often quite distinct from one-another; in some cases, different valleys on the same island could have highly distinct cultures.
 
-The Ratfolk that settled on the Ruby Plane where far from the center of power of the Raptor Empire—Giant's Stairs and River-Cutter's City where on the other side of a jungle-covered mountain range.
-The Ratfolk brought with them a mercantile culture, and relatively sophisticated technology—unlike much of the Ruby Plane, they had mastered the use of iron, for example, and where proficient sailors.
-They prospered on the Ruby Plane, and made allies—including the Brightfeathers, a parrot-like race that lived in the mountains of the northwest.
+Beginning in CY 331, several larger Ratfolk cities united, and began the conquest of their neighbors; this started an ocean-born exodus, with many Ratfolk fleeing the Warren Isles.
+Some of these exiles reached the southern Haven Isles, while others landed on the southern Emerald Plane, and still others landed on the northwest coast of the Ruby Plane.
+Ironically, some of the Ratfolk who landed in the southern Emerald Plane became allies and tributaries of the Shade Elves; in CY 346, they ferried those devastating raiders back to the Warren Isles.
+Shade-Elven raiding of the Warren Isles only intensified the Ratfolk exodus.
 
-Eventually, the Ratfolk began to trade with several of the tribes of Raptors that lived in the southwest flanks of the mountains; those tribes where tributaries of the Raptor's Empire just as much as any other race was.
-Though neither the Ratfolk nor the Brightfeathers where warlike, in the eyes of the Raptor Empire, they began to form a dangerous competitor—one that had the loyalty of some Raptor tribes, weakening the Raptor Empire's pretense of being able to call on the tribes for military levees.
+A large Ratfolk population came to settle on the northwest corner of the Ruby Plane.
+These refugees brought with them a variety of distinctive but related cultures; they also brought relatively sophisticated technology — unlike much of the Ruby Plane, they had mastered the use of iron, for example.
+Many of these cultures where mercantile; settled on the Ruby Plane, they began to heavily exchange, and to further develop.
+
+This area was far from the borders of the Raptors' Empire, and was only sparsely populated — they where separated from Giant's Stairs and River-Cutter's City by a thick jungle, and then by rugged Raptor's Peaks.
+Over time, a unique Ratfolk culture developed, with their own cities — notably, this culture was more urban and agrarian than their island-bound kin.
+This culture made allies among the locals — including the Brightfeathers, a parrot-like race that lived in the lower, jungle-covered reaches of the northwest Raptors' Peaks.
+
+Eventually, the Ratfolk began to trade with several of the Raptor tribes that lived in the southwest flanks of the Raptor's Peaks — tribes that where tributaries of the Terrace-Builders' Empire.
+This brought them into (indirect) competition with the Terrace-Builders, as they where weakening the Terrace-Builder's hold over the Raptor tribes, and thus reducing the Empire's potential military might.
 
 #### The Shaded Sea Attacks
 
-Then, in CY 454, the Warren-Isles Ratfolk and the Shade Elves of the Emerald Plane, united under the Leapers, began to attack the northwest Ruby Plane—most heavily falling on the Ratfolk there.
+In CY 454, the Shaded-Sea People — the Ratfolk of the Warren Isles and the Shade Elves of the Shaded Steppes, united under the Leapers — began to attack the northwest Ruby Plane, falling most heavily on the Ratfolk there.
 The Ruby-Isles Ratfolk sought out the aid of the militarily powerful Raptor Empire, offering to become tributaries if the Empire would protect them.
 The Raptor Empire, long used to juggling a vast empire of only weakly-bonded peoples, offered the Ratfolk favorable terms: military aid, in exchange for the Ratfolk's nominal submission, and access to their prosperous markets.
 
 The Raptor Empire marched west, and helped the Ratfolk resist the Shaded Sea raiding.
-In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely—though their seaborn raiding would never completely cease.
+In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely — though their seaborn raiding would never completely cease.
 
 #### Prosperity
 
@@ -410,22 +543,22 @@ Soon, the Raptor Protectorate began to swell with the refugees of the Goblin's c
 #### The Present
 
 Today, the Raptor Protectorate is a wealthy and powerful civilization, the preeminent native power on the Ruby Plane.
-They benefit from the military might (and deft politics) of the Terrace-Builder Raptors, and the mercantile skill, seafaring talent and relative sophistication of the Iron-Worker Ratfolk.
-The empire has also seen a massive influx of refugees from the Goblin Empire's conquest, which they strive to settle in the rlative safety that exists within the Protectorate's borders.
+They benefit from the military might (and deft politics) of the Terrace-Builder Raptors, and the mercantile skill, seafaring talent, and relative sophistication of the Iron-Worker Ratfolk.
+The empire has also seen a massive influx of refugees from the Goblin Empire's conquest, which they strive to settle in the relative safety that exists within the Protectorate's borders.
 
 The Protectorate faces powerful enemies on two fronts.
-So far, direct confrontation between the Raptor Protectorate and the Goblin Empire has been minimal; the Empire has, for the most part, avoided territories claimed or protected by the Protectorate.
-On the west, though the Shaded-Sea People claim no territory on the Ruby Plane, their raiding has been a constant threat.
+In the east, a devastating war with the Goblin Empire draws ever closer; so far, at least, the Goblin Empire has avoided direct conflict with the Protectorate, but their armies draw ever closer to the Protectorates' borders.
+In the west, the Iron-Worker Ratfolk are subject to constant, devastating raids by the Shaded Sea Peoples.
 
 ### Culture
 
-The Raptor Protectorate integrates several different cultures from through the Ruby Plane—though its two dominant cultures remain the Terrace-Builder Raptors, who lead the Protectorate and provide most of its military might, and the Iron-Worker Ratfolk, who remain drivers of their trade-network and economy.
+The Raptor Protectorate is composed of wide variety of cultures from throughout the northern and central Ruby Plane — though its two dominant cultures remain the Terrace-Builder Raptors, who lead the Protectorate and provide most of its military might, and the Iron-Worker Ratfolk, who remain the drivers of their economy.
 
 #### The Terrace-Builder Raptors
 
 The Terrace-Builder Raptors continue to use a distinctive system of terraces for agricultural production in the highlands of the Raptor's Peaks.
 They also continue to construct and occupy some of the largest urban centers on the Ruby Plane.
-Their systems of caste and corvee labor also survive—although they have changed.
+Their systems of caste and corvee labor also survive — although they have changed.
 Their leaders are still drawn from the *rulers* caste, and their administrators are still drawn from the *administrators* caste.
 Members of the *soldiers* caste still form the elite troops of their armies; they are trained in war from their youths, and serve their city-states as labourers when the army is not active.
 Farmers, in turn, work the terraced fields, and serve as craftsmen in rural settlements.
@@ -439,27 +572,22 @@ To encourage profitable trade and useful craft, most Terrace-Builder city-states
 This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
 This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
 
-<aside class="fiction">
-
-> "Corvee labor!"
-> The Terrace-Builders are the bullwark that protects the Ruby Plane from the Goblins and Shade Elves—and our likely allies!—so we'd like to think the best of them.
-> We've inveted a nice word for it, "corvee labor."
->
-> But it's slavery.
-> A guy from the Administrator caste shows up, has a few Soldiers haul you out of your house at dawn, and forces you to build a road through the steaming jungle.
-
-*Fire-Watcher, a Scholar from the Dragonshire in the Commonwealth*
-
-</aside>
-<aside class="fiction">
-
-> I can say I never thought of myself as a slave.
-> I think we thought of ourselves as citizens doing our duty, to maintain the roads that we travelled and the fields that fed us.
-> And I can point out at least on important difference between what I was, and what the slaves of the Goblins are: I was allowed to leave.
-
-*Eager, a Raptor who emigrated to the Commonwealth.*
-
-</aside>
+[[fiction | Debate]]
+|
+|> "Corvee labor!"
+|> The Terrace-Builders are the bulwark that protects the Ruby Plane from the Goblin Empire and Shaded Sea — and our likely allies! — so we'd like to think the best of them.
+|> So we use a nice, technical term for it: "corvee labor."
+|>
+|> But it's slavery.
+|> Someone from the Administrator caste shows up, backed up by some soldiers, and forces you to build a road through the steaming jungle.
+|
+|*Fire-Watcher, a scholar from the Dragonshire in the Commonwealth*
+|
+|> I can say I never thought of myself as a slave.
+|> I think we thought of ourselves as citizens doing our duty, to maintain the roads that we travelled and the fields that fed us.
+|> And I can point out at least one important difference between what I was, and what the slaves of the Goblins are: I was allowed to leave.
+|
+|*Eager, a Raptor who emigrated to the Commonwealth.*
 
 Much ancient Terrace-Builder construction used fieldstones, though most major construction in modern city-states is done using carefully dressed stone masonry—often limestone.
 The use of brick construction is also common, especially for minor buildings and in villages outside of citystates; they are often face with mudbrick.
@@ -468,7 +596,7 @@ Thatch is often used for roofing, and ornamentation is rare.
 Raptor buildings are often designed for communal use.
 Many buildings are large and open, without internal walls; sheets of thick fabric are used for doors and internal partitions.
 
-In the mountains and foothills, the Terrace-Builders often lay their cities out in terraces; they often exploit natural defences, building walls only at the entrances to valleys, for example.
+In the mountains and foothills, the Terrace-Builders often lay their cities out in terraces; they often exploit natural defenses, building walls only at the entrances to valleys, for example.
 In the plains to the extreme east of the Empire, they sometimes use a more regular, level city-plan, with walls all-around.
 
 Raptors use a 6-day week, with the precise schedule varying by caste; for example, the Farmer caste works three days in the field and two days for the city-state, and has one day off.
@@ -484,7 +612,7 @@ The Iron-Worker Ratfolk are a culture of skilled traders, sailors, fishers and m
 Their industry is one of the major drivers of the Protectorate economy; fish, crab, iron, and steel from the Iron-Workers is traded in markets throughout the rest of the Ruby Plane, carried along the coast by ships and across the mountains by the Raptor's roads.
 
 They live throughout the northwest of the Ruby Plane, in large cities and small fishing villages.
-Iron-Worker Ratfolk commonly built homes and small buildings on stilts; this allows them to build in wet lowlands, sometimes even on the shore or in the water directly.
+Iron-Worker Ratfolk commonly build homes and small buildings on stilts; this allows them to build in wet lowlands, sometimes even on the shore or in the water directly.
 Despite their expertise with iron, when they build near water, they frequently do not use metal nails; instead, they primarily use jointes and dowls, and replace parts of their homes as they weather.
 On drier ground, they build more traditional homes—timber-framed, well-braced, nailed together, and faced with stucco so that they can resist rain and weathering—although usually still constructed on stilts, in order to handle heavy rains and runoff.
 When they have enough dry ground to work with, Iron-Worker Ratfolk also build underground; at the extreme, they have been known to reclaim mine and quarry space for use as fortifications.
@@ -506,6 +634,87 @@ Even their larger, dual-mast boats have flat bottoms and a shallow draft, the be
 
 The Raptor Protectorate has no shortage of enemies: the Goblin Empire presses on the east, and the Shaded-Sea constantly attack the west.
 Pirates from the Shaded Sea directly attack the Protectorate on its western shores, raiding Ratfolk and Brightfeather villages built on or near the shore;
+
+### Languages
+
+#### Language: Protectorate Standard
+
+[[abstract]]
+|
+|The common language of the Protectorate, derived from a Ratfolk pigin.
+|
+|Group: Any
+|
+|Partially Intelligible: None
+
+The common language of the Protectorate, Protectorate Standard derives from a pigin that Ratfolk refugees used to communicate with the Raptors that lived near the coasts.
+As other races sought to trade with the Protectorate, they developed their own variants of the pigin; today, in effect, there is an abstract 'core' language, which all the pigins share, and which each race uses a unique set of sounds to pronounce.
+
+The language is the primary written language of exchange and scholarship in the Protectorate; it uses a variant of the Ratfolk's alphabet.
+
+#### Language: Brook
+
+[[abstract]]
+|
+|The language of the Terrace-Builder Raptors.
+|
+|Group: DDK
+|
+|Partially Intelligible: None
+
+The language spoken by the Terrace-Builder Raptors, named for the way it sounds — like a burbling brook, or small rockslide.
+Originally, Brook was written pictographically; after the Ratfolk and Raptors began to trade heavily, a phonetic encoding was developed using the Ratfolk's alphabet.
+
+While not a difficult language to learn to speak, it is difficult to learn to read the pictographic form of the script, because fluency requires the reader to memorize more than a thousand pictographs.
+Unsurprisingly, the use of the alphabetic script has become more common, and fluency in the old pictographic script has declined.
+
+Mastery of the logographic form has become something of a status symbol, since most old and important documents are written with the logographic script.
+
+#### Language: Ember
+
+[[abstract]]
+|
+|The primary language of the Iron-Worker Ratfolk.
+|
+|Group: GR
+|
+|Partially Intelligible: Chatter (-20), Cqik (-30)
+
+Ember is the common language of the Iron-Worker Ratfolk; according to legend, it got its name because it reminded a Terrace-Builder ruler-caste of the sound of a crackling fire.
+It does make use of a sound not present in either Chatter or Cqik, a "pop" or "snap" sound produced with the tongue.
+
+While spoken Ember is similar to several other languages spoken in the Warren Isles before their exodus, its written form is unique.
+It uses an alphabetis derived from an alphabet used in the eastern Warren Isles, that all but vanished from the Warren Isles after that Ratfolk culture was subjugated and extinguished by their kin.
+Notably, several other cultures on the Warren Isles have adopted a variant of this script for their own use.
+
+#### Language: Songspeak
+
+[[abstract]]
+|
+|Songspeak is mimicry-based language of the Brightfeathers.
+|
+|Group: *Mimics*
+|
+|Partially Intelligible: None
+
+Songspeak is the language of the Brightfeathers.
+It makes heavy use of the Brightfeather's uncanny mimicry; many words are represented by directly mimicking a sound associated with the things being referenced — "fire," for example, is represented by the sound of cackling embers.
+While some other words are formed by combining basic syllables — after all, what sound does a star make? — there is no standard list of syllables for their spoken language; while there are roughly thirty common phonemes, there are at least as many more that appear in at least one common word.
+
+Their written language is almost as difficult to learn.
+Before the Iron-Workers came, the Brightfeathers used about a hundred pictographs; after the ratfolk came, they adapted a variant of the Ratfolk's script to encode the common syllables of their spoken language.
+Today, Songspeak "script" consists of about a hundred pictographic "glyphs" for common words, plus 28 characters (mostly adapted from the Iron-Worker Ratfolk's script) used for their common syllables, plus 36 "strokes" that are based on a part of a common pictograph; the letters and strokes are combined in a flowing calligraphy, interspersed with pictographic glyphs for common words.
+Making things even more complicated, the pictographs are often used *representationally* — that is, to illustrate a concept, not according to the rules of a language.
+
+> **Fire**: "Used representationally?"
+> What does that mean?
+>
+> **Eager**: It means that they use them like parts of an illustration, not according to the rules of a language.
+> For example, I once saw a Brightfeather draw the glyph for a tree, leave a space, then draw "tree" again, to represent a clearing.
+>
+> **Fire**: Seems like that'd be hard to interpret.
+>
+> **Eager**: It can be, but I think it suits the literal Brightfeather mind.
 
 ## The Goblin Empire
 
