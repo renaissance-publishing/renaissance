@@ -248,3 +248,13 @@ Tags: Layerable, Proud
 - *Hide*: Gnolls gain +1 Armor Value
 - *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
 - *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
+
+
+
+
+The Guards are organized into *marches*, a term borrowed from the military terminology of the Dragonshire and Kingdoms of Men; most marches correspond to a particular region of a province, although some marches with special missions might overlap others or cross provincial borders.
+Each Guard is headed by a March Commander; beneath each March Commander are several Fortress Commanders, who typically oversee a primary fortification, several overland road routes, and minor outposts; and each Fortress Commander is served by Patrol Commanders responsible for a particular patrol route or unit of Guards.
+
+March Commanders are typically responsible to the governments of the provinces in which they operate; because different provinces can have very different legal and governmental systems, the Guard can operate very differently in different provinces.
+Heartland Province, for example, has no significant provincial government; their Provincial Charter endows the Guard with the ability to prosecute various forms of violent crime, and specifies that they are responsible to the city-states within whose holdings they operate.
+The Dragonshire, however, has an existing civil structure, headed by Drake nobles and citizen's councils; in the Dragonshire Province, Guard units largely supplement these forces.
