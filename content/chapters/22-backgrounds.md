@@ -4,7 +4,7 @@ title: "Backgrounds"
 
 ## Backgrounds
 
-Your *Background* represents what you have gained from your early life experiences--from the influences your culture had on you, from growing up wherever you grew up.
+Your *Background* represents what you have gained from your early life experiences — from the influences your culture had on you, from growing up wherever you grew up.
 
 Note that the list of backgrounds presented here is far from exhaustive: these are merely the most common and general backgrounds, capable of representing most common cultures and backgrounds in the Commonwealth.
 Players and GMs should feel free to modify these backgrounds to represent a character's unique origins (players require their GM's approval, of course).

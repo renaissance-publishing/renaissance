@@ -24,7 +24,7 @@ title: "Languages"
       - For example, Gnolls and Humans cannot physically make the same
         sounds, and so they cannot speak one-another’s languages.
       - It is common for people in mixed communities to have some
-        fluency in their neighbor’s languages—even if they cannot
+        fluency in their neighbor’s languages — even if they cannot
         actually *speak* that language.
 
 Language Rules
@@ -128,20 +128,20 @@ Example Languages, Rare and Common:
       - Chatter is not commonly spoken in the Commonwealth; most of the
         Commonwealth’s Ratfolk now speak Cqik.
       - This in turn has meant that Chatter has become one of the common
-        languages of crime in the Haven Isles—as the language is only
+        languages of crime in the Haven Isles — as the language is only
         commonly spoken by the Ratfolk of the Shaded Sea Peoples and
         their criminal and piratical allies.
 
   - Cqik: the language of the Commonwealth’s Ratfolk
     
-      - The name “Cqik” is derived from a somewhat famous—or
-        infamous—letter that was written by a Kingdoms-of-Men diplomat
+      - The name “Cqik” is derived from a somewhat famous — or
+        infamous — letter that was written by a Kingdoms-of-Men diplomat
         visiting the Haven Isles; she attempted to describe what she
         thought a Ratfolk merchant sounded like, and “Cqik” is a
         transliteration from her Royal to Islander. The name is widely
         pronounced “kweek” (although some Ratfolk put visitors through
         something of an initiation by writing out “Cqik” in the Islander
-        alphabet—which is almost the same as Weal’s—and cajoling them
+        alphabet — which is almost the same as Weal’s — and cajoling them
         into trying to pronounce it).
       - Though Cqik is commonly spoken by Ratfolk living among the
         Commonwealth, it actually inherits more from Heartland Gnoll
@@ -182,7 +182,7 @@ Example Languages, Rare and Common:
       - High Kobold is derived from Old Kobold, but has become far more
         complex. It has imported many words directly from Rak, and has
         borrowed idioms from Weal and, more recently, Islander Elvish.
-      - High Kobold has grown to include countless neologisms—new words
+      - High Kobold has grown to include countless neologisms — new words
         for things that Kobolds never encountered as an oppressed and
         impoverished population in the Kingdoms of Men.
       - Many kobolds find it somewhat amusing that some of the
@@ -231,8 +231,8 @@ Example Languages, Rare and Common:
       - Keillou is a common language spoken throughout Shade Elven
         territory. It is primarily the language of the Shade Elves, but
         it has also been adopted by many of their tributaries.
-      - The Shaded Sea Peoples—the Shade Elves, the Ratfolk of the
-        Warren Isles and the Leapers—cannot share a language with
+      - The Shaded Sea Peoples — the Shade Elves, the Ratfolk of the
+        Warren Isles and the Leapers — cannot share a language with
         one-another, and the shade elves are not inclined to learn the
         languages of their tributaries, so Keillou has had few foreign
         influences.
@@ -244,7 +244,7 @@ Example Languages, Rare and Common:
   - Rak: a language spoken by Dragons and Drakes in the Dragonshire
     
       - Dragons have never had a large population, and they can speak
-        with few other languages—kobolds were the only race commonly
+        with few other languages — kobolds were the only race commonly
         found on the Emerald Plane that could make the same sounds that
         they could. Rak was long an ancient, unique language that
         Dragons used only to communicate among themselves.
@@ -256,10 +256,10 @@ Example Languages, Rare and Common:
       - All of this changed with the founding of the Dragonshire, with
         Karrach’s call for other dragons to settle in the Dragonshire
         and especially with the creation of the Drakes.
-      - Rak became the common language of the Dragonshire’s nobility—of
+      - Rak became the common language of the Dragonshire’s nobility — of
         the dragons that led the nation as monarchs and the Drakes who
         served as their nobles and administrators.
-      - Over years in common usage, it has become more regular—and, as
+      - Over years in common usage, it has become more regular — and, as
         it was used as a written language of formal contract by the
         merchants of the Dragonshire, it has become somewhat more
         formal.
@@ -306,7 +306,7 @@ Example Languages, Rare and Common:
         Goblinoid language, used by the lower ranks of the Goblin
         Kingdom.
       - It has been influenced by the languages of the peoples that
-        goblins took as slaves—by the languages of humans, elves and
+        goblins took as slaves — by the languages of humans, elves and
         gnolls, among others.
       - It is distinct from Royal Goblin, the language of the Goblin
         kings; this language has resisted influences from those taken as
@@ -321,7 +321,7 @@ Example Languages, Rare and Common:
         it has since been heavily influenced by the many languages that
         the Commonwealth has encountered and peacefully absorbed as it
         spread across the Emerald Plane.
-      - Weal—or some regional dialect thereof—is commonly spoken
+      - Weal — or some regional dialect thereof — is commonly spoken
         throughout Heartland and Westward Provinces.
       - Notably, Weal was carried throughout the Emerald Plane by early
         Commonwealth settlers, and has itself become the root from which
@@ -338,7 +338,7 @@ Example Languages, Rare and Common:
         while some scholars of the ancient past can still understand it,
         it is all but gone as a living language.
       - Both Weal and Royal are descended from it, although they are
-        very different languages from it and from one another—Weal in
+        very different languages from it and from one another — Weal in
         particular is greatly changed from Old Imperial.
       - Old Imperial is notable for its aspirated H’s and hard
         consonants.

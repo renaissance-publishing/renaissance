@@ -10,7 +10,7 @@ There are many organizations active in the Commonwealth, the wider Emerald Plane
 
 Organizations can be useful, for both players and GMs.
 For a player, membership in an organization can explain why a character is undertaking a particular adventure, and can give that character access to the kind of resources and support that they might find useful.
-For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats—like the Far Watch—is a good place to start the adventure.
+For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats — like the Far Watch — is a good place to start the adventure.
 
 Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not requried.
 
@@ -54,7 +54,7 @@ The organization is still recruiting, attempting to bring more of the disparate 
 
 The Far-Watch is organized into *Watches*, which in turn are either *Vigils* and *Guards*.
 A *Vigil* is devoted to a specific threat or task; they often correspond to one of the organizations that combined to form the Far-Watch.
-A *Guard* is a specific holding of the Far-Watch—an office, outpost, fortress, manor or monastery.
+A *Guard* is a specific holding of the Far-Watch — an office, outpost, fortress, manor or monastery.
 At present, there are few Guards, and they are relatively new; when an organization joins the Far-Watch, they are expected to surrender some of their holdings to form (or contribute to) an independent Guard.
 (Unsurprisingly, this has sometimes been a sticking-point in recruiting.)
 
@@ -62,10 +62,10 @@ The Far-Watch has little central command or governance; it has a Council, which 
 There is no capitol for the Far-Watch; the Council's meeting-place will rotate, and is to be selected at the close of each Council meeting (the second meeting of the Council has not yet occurred, since the Far-Watch is less than three years old).
 Each Watch sends one representative to this Council, and each representative is allowed one vote.
 
-Mostly, the Council is expected to oversee the disbursement of resources and manage disputes; for the most part, each Watch is allowed to pursue their own ends—subject to the requirement that they share resources and support one-another, according to the charter of the Far-Watch.
+Mostly, the Council is expected to oversee the disbursement of resources and manage disputes; for the most part, each Watch is allowed to pursue their own ends — subject to the requirement that they share resources and support one-another, according to the charter of the Far-Watch.
 
 Some are concerned that the Far-Watch may be hobbled by internal politics as the different Watches battle for resources.
-The hope is that the Guards will counter this, since the Guards, in theory, should represent the interests of the whole of the Far-Watch within a region—as opposed to the narrow interests of one particular Vigil.
+The hope is that the Guards will counter this, since the Guards, in theory, should represent the interests of the whole of the Far-Watch within a region — as opposed to the narrow interests of one particular Vigil.
 The hope is that, as the Far-Watch grows and expands, new Guards will be formed much more frequently than new Vigils, and that patronages will shift from  the Vigils individually to the Far-Watch as a whole.
 
 ### Watches
@@ -90,7 +90,7 @@ Unsurprisingly, they have no shortage of powerful enemies.
 Redstone Hold is the largest Guard, and it was the first one to be established entirely from new resources (rather than being built from the holdings of a previous organization).
 It was founded when the charter to a manor two *demarc* from Stormsword's Rest was granted to the Far-Watch by the Lord Durandel.
 
-Redstone Hold itself is still under construction, but it already represents an important cite for the Far Watch; though meager, the taxes collected by the Hold from the residents of the manor represent a vital, independEnt source of resources for the Far-Watch—one that is under the control of the Far-Watch itself, that they do not have to wrest from the control of a Vigil.
+Redstone Hold itself is still under construction, but it already represents an important cite for the Far Watch; though meager, the taxes collected by the Hold from the residents of the manor represent a vital, independEnt source of resources for the Far-Watch — one that is under the control of the Far-Watch itself, that they do not have to wrest from the control of a Vigil.
 
 The Far-Watch has put considerable effort into building up the library at the hold, and to ensuring that the site has the resources that scholars of spirits, magic and alchemy will need; they have also used endowments to lure scholars, artisans and scribes to the hold, and to manor-town nearby.
 
@@ -121,12 +121,12 @@ if you'd like your players to confront cosmic forces and out-of-context problems
 
 #### Far-Watch Adventure: A Bad Deal
 
-A small monastery in Heartland Province holds the title to a nearby manor; the residents there are worried that the monks may be striking a disastrous deal with unreliable spirits—a deal that might claim them as well.
+A small monastery in Heartland Province holds the title to a nearby manor; the residents there are worried that the monks may be striking a disastrous deal with unreliable spirits — a deal that might claim them as well.
 
 Are the monks striking such a deal, or do the townsfolk suspect them for nothing?
 How dangerous is the deal?
 What kind of spirit are they dealing with?
-How can the party stop them—or is it already too late?
+How can the party stop them — or is it already too late?
 
 #### Far-Watch Adventure: An Empty Town
 
@@ -136,13 +136,13 @@ The party must determine what happened, whether the residents of the burrow can 
 Where did they go?
 Where they claimed by a spirit?
 Abducted by Leapers?
-Did they do it to themselves—where they experimenting with psionic or sorcerous power, and did the experiments backfire or work precisely as intended?
+Did they do it to themselves — where they experimenting with psionic or sorcerous power, and did the experiments backfire or work precisely as intended?
 
 #### Far-Watch Adventure: A Strange Island
 
 An explorer sailing west from the Haven Isles has found a deserted island with a long-abandoned village, built by a culture unknown.
-At first, the village appeared almost normal, but, upon closer investigation, it was found to contain wondrous objects—like bronze plates that hovered away from each-other, rigidly fixed and immovable as though they where connected, or an iron trellise that, if touched, would cause any metal object to sprout tiny, branching tendrils of metal, eventually vanishing into a haze or iron filaments—where scattered among deadly hazards—like strange, shimmering patches of ground that would violently wrench the limbs of any who stepped on them, shattering bones and destroying limbs.
-The explorers sold their discovery to the Far-Watch, who are the most qualified to plumb the secrets of the island, to determine if it could ever possibly be safely exploited—and whether or not it represents a glimpse of some greater threat that might some day come for the Commonwealth.
+At first, the village appeared almost normal, but, upon closer investigation, it was found to contain wondrous objects — like bronze plates that hovered away from each-other, rigidly fixed and immovable as though they where connected, or an iron trellise that, if touched, would cause any metal object to sprout tiny, branching tendrils of metal, eventually vanishing into a haze or iron filaments — where scattered among deadly hazards — like strange, shimmering patches of ground that would violently wrench the limbs of any who stepped on them, shattering bones and destroying limbs.
+The explorers sold their discovery to the Far-Watch, who are the most qualified to plumb the secrets of the island, to determine if it could ever possibly be safely exploited — and whether or not it represents a glimpse of some greater threat that might some day come for the Commonwealth.
 
 What happened to the island?
 Did the residents of the city do this to themselves?
@@ -157,11 +157,11 @@ What treasures may lie deeper into the unexplored city?
 The High Road is an anti-slavery organization that smuggles slaves to freedom.
 The High Road is active throughout the known world; they smuggle slaves out of the Goblin Empire, the Shaded Sea and the Kingdoms of Men, to freedom in the Commonwealth and Raptor's Protectorate.
 
-In the Commonwealth, the 'Road operates relatively openly—especially in provinces far from the borders.
+In the Commonwealth, the 'Road operates relatively openly — especially in provinces far from the borders.
 While they still keep their contacts and routes secret, and disguise who is and is not a slave being smuggled to freedom (and most certainly keep secret those slaves' real identities), members of the High Road in the Commonwealth may make their loyalty to the 'Road known.
 
 Agents of the High Road operating inside the Shaded Sea or the Goblin Empire are in a far more dangerous position.
-Often, these are not Commonwealth citizens, but natives to the Shaded Sea or Goblin Empire—Shade Elves, Ratfolk, Goblins and Gremlins who collaborate to smuggle their kin's slaves to freedom—those who too quickly believe that all Shade Elves or Goblins are evil should consider that most of the members of the High Road are Shade Elves and Goblins.
+Often, these are not Commonwealth citizens, but natives to the Shaded Sea or Goblin Empire — Shade Elves, Ratfolk, Goblins and Gremlins who collaborate to smuggle their kin's slaves to freedom — those who too quickly believe that all Shade Elves or Goblins are evil should consider that most of the members of the High Road are Shade Elves and Goblins.
 
 ### Overview
 
@@ -172,15 +172,15 @@ They still have to keep their operations secret; even in the Commonwealth, opera
 (Or, worse, to slay its members and foil their operations.)
 
 Operatives in slave-holding nations must be far more secretive.
-They are extremely careful to protect their operations, both for their own sake, and because there are precious few reliable paths to smuggle slaves to safety from deep within the Shaded Sea, the Goblin Empire's holdings on the Ruby Plane, or the Eastern Kingdoms—if an operative is discovered, there may be no-one else to take their place.
+They are extremely careful to protect their operations, both for their own sake, and because there are precious few reliable paths to smuggle slaves to safety from deep within the Shaded Sea, the Goblin Empire's holdings on the Ruby Plane, or the Eastern Kingdoms — if an operative is discovered, there may be no-one else to take their place.
 They are often organized into cells, knowing only the previous links in the chain, or the few that follow them.
 
 <aside class="playerguidance">
 
 ### High-Road Characters
 
-The High-Road can be a very morally satisfying faction to join—who doesn't love underdog heroes smuggling slaves to freedom?
-They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth—even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
+The High-Road can be a very morally satisfying faction to join — who doesn't love underdog heroes smuggling slaves to freedom?
+They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth — even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
 
 Consider joining the High Road if you:
 
@@ -208,7 +208,7 @@ The Lord of Redstone Arch offers a prize to anyone who can put an end to the vio
 
 - Who's winning, the High Road or the slavers?
 - Who's running the slaver gang?
-- Does the party find out about the High Road—or does the High Road approach the party?
+- Does the party find out about the High Road — or does the High Road approach the party?
 - Do the people of Red-Weir support the slavers, or do they perhaps want them gone almost as much as the people of Redstone?
 
 </aside>
@@ -224,10 +224,10 @@ They were called in to assist the Commonwealth in negotiations and campaigns inv
 Today the Knights operate as mediators and diplomats, handling conflicts ranging from arguments between neighbors to conflicts between nations.
 Although they are strongly aligned with the Commonwealth and its philosophies, they have outputs scattered throughout the Emerald and Ruby Planes, and serve many different communities and nations.
 
-Although they are *Knights* in more than name alone—they are trained to be formidable warriors—they use violence only as a last resort.
+Although they are *Knights* in more than name alone — they are trained to be formidable warriors — they use violence only as a last resort.
 Their founders believed that Orcs have been granted great strength and spirit not to conquer, but to protect those weaker than themselves; the idea that strength must be wisely and constructively deployed remains an animating principle.
 
-While most of the founding members of the Knights were from Orcish communities—and most of their members are Orcs today—they accept applicants from any species or background provided that they ascribe to values of peace, unity and diplomacy.
+While most of the founding members of the Knights were from Orcish communities — and most of their members are Orcs today — they accept applicants from any species or background provided that they ascribe to values of peace, unity and diplomacy.
 Membership is similarly open to all genders, but the organization's roots in Orcish culture has led to traditionally higher representation of women among their ranks
 
 One of the original aims of the Knights was to provide education and support to young Orcs so that they could better acclimate to the future The Commonwealth promised.
@@ -299,7 +299,7 @@ Consider joining the Knights of the White Tusk if you:
 - want to play a character that mixes knowledge, social and combat skills.
 - don't want to have to choose between being a humble, wise and benevolent monk or a powerful warrior.
 - want to be a member of an organization that pursues peace and seeks nonviolent solutions to problems.
-- want to be a member of an organization doing good work in the world—especially for the poor and desperate.
+- want to be a member of an organization doing good work in the world — especially for the poor and desperate.
 
 </aside>
 
@@ -307,16 +307,16 @@ Consider joining the Knights of the White Tusk if you:
 
 ### White Tusk Campaigns
 
-The Knights of the White Tusk are active wherever there is conflict and desperation—which the Emerald and Ruby Plane have no shortage of.
+The Knights of the White Tusk are active wherever there is conflict and desperation — which the Emerald and Ruby Plane have no shortage of.
 The Knights might be called on to broker the end of a seige, negotiate for the interests of peasants who cannot pay their cruel lord's dues, or settle a dispute between warring tribes.
 
 #### White Tusk Adventure: Bad Neighbors
 
 Conflict has been building between a city in the Dragonshire and another city over a river in the Kingdoms of Men.
-What started as a series of minor trade disputes has recently caused actual violence—a merchant in the Kingdoms city was found dead, and the ship-captain who most quarrelled with him has vanished.
-The White Tusk has volunteered to help resolve the situation before it gets any worse—but they'll need help.
+What started as a series of minor trade disputes has recently caused actual violence — a merchant in the Kingdoms city was found dead, and the ship-captain who most quarrelled with him has vanished.
+The White Tusk has volunteered to help resolve the situation before it gets any worse — but they'll need help.
 
-What's actually causing the tension—is it really a simple trade dispute, or is there more going on?
-Is a negotiated solution possible, or is a fight inevitable—if there is a fight, is there a right side that the players need to be on, or should they step out of it?
+What's actually causing the tension — is it really a simple trade dispute, or is there more going on?
+Is a negotiated solution possible, or is a fight inevitable — if there is a fight, is there a right side that the players need to be on, or should they step out of it?
 
 </aside>

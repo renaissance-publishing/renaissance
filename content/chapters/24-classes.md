@@ -7,13 +7,13 @@ title: "Classes"
 Classes are somewhat variable; in principle, they represent either some association or experience that your character has (or had).
 As such, they usually grant you either access to some group's resources, or to some unique talent or training.
 
-In practice, though, classes can become something of a catch-all—a very diverse type of feature that represents things that are not innate properties (like traits) or discrete actions (like powers).
+In practice, though, classes can become something of a catch-all — a very diverse type of feature that represents things that are not innate properties (like traits) or discrete actions (like powers).
 
 <aside class="gmguidance">
 
 ### What Makes a Good Class
 
-Much as with traits, what makes a good class is highly subjective--and classes are even more tricky, since they are so variable.
+Much as with traits, what makes a good class is highly subjective — and classes are even more tricky, since they are so variable.
 As with traits, it's a good idea to understand what the difference between a trait, a class and a power is, and to understand the general guidelines for creating new content.
 Notably, a class *shouldn't* give a character an action that they can perform or an innate property that they have: those should be separate powers or traits, respectively, although that separate power or trait can list the class as a requirement.
 
@@ -79,7 +79,7 @@ Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a
       - Requirement: 20 Ranks in Spellcraft, 10 ranks in Knowledge:
         Theology
       - You can create a powerful companion from the remains of the
-        dead—and you can heal and modify your companion with more
+        dead — and you can heal and modify your companion with more
         remains.
       - You can create a companion as a one-hour Task Action requiring a
         Spellcraft check; you need access to at least one corpse (of
@@ -130,7 +130,7 @@ Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a
       - You have crafted (or attracted) a *familiar.*
       - Familiars are small magical assistants, bound to the mage that they serve.
       - Familiars vary widely; some are small animals to which a magical intelligence has been added; others are small golems, sophisticated clockwork creations that function as living things; still others might be small spirits in their own right, conjured and bound to the mage.
-      - Nearly all are small, intelligent creatures; though they are of little use in combat, they can be a great help in a laboratory or shop--and some can have other skills.
+      - Nearly all are small, intelligent creatures; though they are of little use in combat, they can be a great help in a laboratory or shop — and some can have other skills.
       - You may choose one creature that has the Familiar tag; you gain this creature as a familiar.
       - Alternatively, you may design your own familiar, but your GM must approve of your selection.
       - Your familiar gains a COG of 10 (unless its COG is already higher).
@@ -300,7 +300,7 @@ Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a
 
 You have drilled some set of combat maneuvers to the point that they have become wrote.
 On the plus side, this allows you to perform complex *chains* efficiently and powerfully;
-on the down side, however, this means that someone who is familiar with these chains--possibly because they've fought you before, or because they're familiar with the school or unit you learned them from--can reliably predict what you're going to do.
+on the down side, however, this means that someone who is familiar with these chains — possibly because they've fought you before, or because they're familiar with the school or unit you learned them from — can reliably predict what you're going to do.
 
 - **Requires:** 20 ranks in two *Combat* skills.
 - **Effect:** You can learn a number of *chains*; each chain provides bonuses that build with each successful step.
@@ -320,7 +320,7 @@ on the down side, however, this means that someone who is familiar with these ch
 - *Clarification:* chains take several actions and will usually span several turns; a chain doesn't allow you to shoot through all the links in one turn.
 - **Special:** Players may propose their own links and bonuses, although these require the GM's approval.
 - **Flourishes:** You don't pick a bonus for the last link, since there's no following link for it to apply to; you can, however, pick a *flourish* for it.
-A *flourish* is represents some minor movement that completes the chain--a return-to-ready motion, a specific stance, a weapon twirl, or some other minor touch.
+A *flourish* is represents some minor movement that completes the chain — a return-to-ready motion, a specific stance, a weapon twirl, or some other minor touch.
 Mechanically, flourishes provide a minor benefit for completing the chain.
 Sample flourishes are given in the table below.
 
@@ -342,7 +342,7 @@ Sample flourishes are given in the table below.
 
 | Flourish | Effect |
 | -------- | ------ |
-| Display | You adopt a visually striking stance, twirl a weapon, or otherwise demonstrate your prowess--which is all the more effective because you've just run through a chain.  You can roll your *Intimidate* against your opponent's Resist Social Manipulation; if you win, they suffer a -10 penalty to their attacks against you. |
+| Display | You adopt a visually striking stance, twirl a weapon, or otherwise demonstrate your prowess — which is all the more effective because you've just run through a chain.  You can roll your *Intimidate* against your opponent's Resist Social Manipulation; if you win, they suffer a -10 penalty to their attacks against you. |
 | Ready | Your chain ends with you in an advantageous, ready position; you gain a +10 bonus to your *Combat* skills until the end of your next turn. |
 | Initiative | You've put your opponent in a difficult position, put them off-balance, or otherwise stumbled them.  Your opponent reduces their INIT by 3. |
 
@@ -353,12 +353,12 @@ Through long practice and physical conditioning, you have developed an excellent
 - **Requires:** 20 ranks in Ranged Weapons, with the Thrown Weapons proficiency
 - **Effect:** Range and damage when throwing projectiles is improved.
   - Your range is improved:
-    - When throwing a small object—about the size and weight of a brick, or smaller—you add 20m to each range increment.
+    - When throwing a small object — about the size and weight of a brick, or smaller — you add 20m to each range increment.
     - When throwing a larger object, you add 10m to each range increment.
   - Your damage is improved:
     - When attacking a target in your short range, you gain +DB DV and +2 AP.
     - When attacking a target in your medium range, gain +1 DV and +1 AP.
-    - This does not apply to weapons that don't do damage through impact—like fireballs or scour canisters.
+    - This does not apply to weapons that don't do damage through impact — like fireballs or scour canisters.
 
 These effects are summarized in the table below.
 These are only the "base" ranges; they may still be adjusted by the nature of the object and the situation, as normal.
@@ -383,8 +383,8 @@ This gives you access to the organization's resources, but also imposes obligati
 
 - **Effect:** You are a member of an *organization*, gaining access to the organization's resources, but also accepting an obligation to the organization.
   - Players and GMs should work together to detail the player's organization; the GM's final approval is required.
-  - Organizations generally shouldn't be so powerful that they trivialize the game or make it impossible to threaten the characer—that's too powerful.  However, the player should also gain some benefit from being in the organization—they're paying CP for the class, after all.
-  - Membership in an organization should also impose some obligations on the character—for example, a commercial guild might require its members to pay dues, and to maintain a good reputation (so as to not tarnish the reputation of other members of the guild).
+  - Organizations generally shouldn't be so powerful that they trivialize the game or make it impossible to threaten the characer — that's too powerful.  However, the player should also gain some benefit from being in the organization — they're paying CP for the class, after all.
+  - Membership in an organization should also impose some obligations on the character — for example, a commercial guild might require its members to pay dues, and to maintain a good reputation (so as to not tarnish the reputation of other members of the guild).
 
 
 

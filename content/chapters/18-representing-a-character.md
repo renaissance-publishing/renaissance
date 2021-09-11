@@ -8,7 +8,7 @@ Characters have the following:
 
   - Aptitudes
     
-      - represents a character’s fundamental mental abilities—how
+      - represents a character’s fundamental mental abilities — how
         intelligent they are, how intuitive they are, etc.
     
       - Each Aptitude has a *rating* between 5 and 40, representing your
@@ -39,7 +39,7 @@ Characters have the following:
 Somatics (SOM) sounds like some kind of “mental strength score.”
 How does that make sense?
 
-Partly, that’s just to make the skill system work: some physical skills (like Unarmed Combat) need an attribute to be linked to—or else we’d need to build special cases for them into the rules.
+Partly, that’s just to make the skill system work: some physical skills (like Unarmed Combat) need an attribute to be linked to — or else we’d need to build special cases for them into the rules.
 
 However, that’s also how the body *actually works*.
 The central nervous system has to learn to recruit and manage the muscles of the body, and some people really do learn to do this better than others\!
@@ -50,7 +50,7 @@ The central nervous system has to learn to recruit and manage the muscles of the
 
 ### Does WIL matter
 
-Players who read the skill section might notice that some aptitudes are linked to many more skills than others; notably, WIL is linked to only one skill—Control\!
+Players who read the skill section might notice that some aptitudes are linked to many more skills than others; notably, WIL is linked to only one skill — Control\!
 Does that mean that WIL doesn’t matter?
 
 Absolutely not\!
@@ -81,7 +81,7 @@ Also, WIL×3 checks are commonly used to resist fear and stress.
       - special characteristics,
         
           - which represent unique quirks or abilities that the race
-            has—like a Gnoll’s thick hide, or a Shifter’s ability to
+            has — like a Gnoll’s thick hide, or a Shifter’s ability to
             change shape.
 
   - Ranks in skills

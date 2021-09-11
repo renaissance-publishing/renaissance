@@ -66,13 +66,13 @@ While players can encounter strange, terrible and vast forces, they can often co
 Loosely, the "book" — this website — is broken into three parts.
 
 The first part consists of an "in-world" description of the setting; more than the other chapters, this one is written from the perspective of someone "inside" the world.
-That means that we've tried to avoid referencing things that someone on the *Emerald Plane* wouldn't know—for example, we haven't talked about the planet's *orbit*, even though that's something we thought at least a little about when designing its seasons.
+That means that we've tried to avoid referencing things that someone on the *Emerald Plane* wouldn't know — for example, we haven't talked about the planet's *orbit*, even though that's something we thought at least a little about when designing its seasons.
 
 The second part — starting with *Basic Rules* — contains the mechanical rules of the game.
 This describes the basics of a *check* — *Renaissance* is a skill-check-based game — then it describes the rules for *combat*, and several of the game's other "systems".
 Finally, it describes how a character is represented, how characters are built, and lists the various "character options"—the races, backgrounds and features players can pick from when building their character.
 
-The third part—starting with *The Five Roles* — contains *guides*, *examples* and *optional rules*.
+The third part — starting with *The Five Roles* — contains *guides*, *examples* and *optional rules*.
 The rules from the second part may completely describe how the game is supposed to work *mechanically*, but they don't really explain how they're all supposed to fit together — they don't explain what a good character is like, what a campaign is like, what kinds of challenges you're supposed to face, and so on.
 In this section, we fill in some of those details.
 This chapter is written far more informally than the other two; here, we the developers are talking to you the readers about how we designed the game to work, so that you can make intelligent decisions about how to build characters, write adventures, and run your game.

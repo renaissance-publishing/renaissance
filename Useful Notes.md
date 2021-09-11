@@ -34,3 +34,7 @@ It looks like the process to set up a dev environment is:
 - and then `yarn run develop` to start up the dev server.
 
 Also, it looks like the custom blocks are defined in 'gatsby-config.js'.
+
+Used dehyphenizer.sed to replace all the --s and get the spacing consistent.
+Hopefully.
+RegExes are always fun.

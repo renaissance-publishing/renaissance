@@ -79,7 +79,7 @@ Unlike *physical damage*, what is *stressful* can depend strongly on a character
 For the most part, we recommend that you rely on *explicit, mechanical* systems for deciding what is stressful; these include a character's *motivations*, as well as the *Unique Outlook* and *Hardened* traits.
 (If it helps you to be a stickler, we did just advise your players to buy the *Unique Outlook* and *Hardened* traits!)
 
-However, dramatically-minded GMs certainly can take into account a character's history, personality and outlook—and they should also consider input from dramatically-minded players.
+However, dramatically-minded GMs certainly can take into account a character's history, personality and outlook — and they should also consider input from dramatically-minded players.
 
 </aside>
 
@@ -94,7 +94,7 @@ If a character receive stress at one time that exceeds their Trauma Threshold (T
 The character suffers a -10 penalty to all actions for each Trauma that they have.
 When a character receives a Trauma, they must roll a WIL×3 check; if they fail, they are stunned for one round (penalties from their wounds and traumas apply, including the Trauma that caused the test).
 
-The GM may sometimes decide that a Trauma has a specific effect on a character—such as the overpowering urge to avoid the source of Stress that caused the Trauma.
+The GM may sometimes decide that a Trauma has a specific effect on a character — such as the overpowering urge to avoid the source of Stress that caused the Trauma.
 These effects are generally meant to be roll-played, and they usually last until the Trauma itself has been healed.
 
 Sometimes Traumas can be *negated*.
@@ -168,7 +168,7 @@ As so many other things, whether the GM proceeds through this process mechanical
 
 Characters can *convalesce*, spending time resting and relaxing (possibly with the support of doctors, priests or other healers) to recover from their physical and mental wounds.
 
-Long-Term Care can provide physical care, psychological care, or both—a character convalescing at a peaceful temple could receive both physical and mental care at the same time, for example.
+Long-Term Care can provide physical care, psychological care, or both — a character convalescing at a peaceful temple could receive both physical and mental care at the same time, for example.
 A character who rests and receives medical care heals more quickly: instead of their natural healing, for each day a character spends resting and recovering, they recover 3 DV; they heal one wound every 4 days, after all damage has been healed.
 Likewise, a character who spends time resting and processing their traumas recovers more quickly: instead of their natural healing, they heal 3 SV per day, and they heal one Trauma per week after all stress has been healed.
 
@@ -232,7 +232,7 @@ Likewise, a character who spends time resting and processing their traumas recov
     effects* and possibly *treatment*.
 
   - Some diseases may have effects based on how long the character has
-    been infected—that is, the effects may proceed through *stages*.
+    been infected — that is, the effects may proceed through *stages*.
 
   - When a character is first exposed to a disease, they make their
     *resistance check*; if they succeed, then they have not been

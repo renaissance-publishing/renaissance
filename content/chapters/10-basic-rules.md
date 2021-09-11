@@ -19,7 +19,7 @@ Check (and skills) are central to *Renaissance*; while other games may use a wid
 
 To make a **check**, roll a D% and compare the result to the *target number* (TN): you succeed if your result was less than or equal to the target, and you fail otherwise.
 By "D%", we mean a randomly-generated number between 0 and 99 inclusive, as you would get with a *hundred-sided die* whose faces are numbered from 0 to 99.
-Such dice exist, but you can use anything that generates a number from 0 to 99 in an unbiased way—like two ten-sided dice, one for the one's-place and one for the ten's-place, or a computer.
+Such dice exist, but you can use anything that generates a number from 0 to 99 in an unbiased way — like two ten-sided dice, one for the one's-place and one for the ten's-place, or a computer.
 
 <aside class="clarification">
 
@@ -73,7 +73,7 @@ Not all characters are player characters, so we'll usually try to speak in terms
 ### Special Results
 
 If a character succeeds on a check and their MoS is 30 or more, then they have scored an **exceptional success**.
-If they succeed and their MoS is a “double” — that is, a multiple of 11, like 22 or 55—then they have scored a **critical success**.
+If they succeed and their MoS is a “double” — that is, a multiple of 11, like 22 or 55 — then they have scored a **critical success**.
 (For completeness sake, we also call an MoS of 29 or less — that isn't a crit — a **basic success**.)
 Conversely, if they fail and their MoF is 30 or more, then they have scored an exceptional failure; if they fail and they rolled a double, then they have scored a critical failure; and if they fail but their MoF is 29 or less, then they have scored a basic failure.
 
@@ -133,7 +133,7 @@ To track it, the GM calls for a *Search* check from Aryn.
 Aryn is *very good* at tracking, so she has 50 ranks in *Search*; *Search* is linked to the INT aptitude, and Aryn's INT is 25.
 Her player asks the GM if any particular modifiers apply; the GM says that none do.
 
-The TN for this check is 75—her 50 ranks in *Search* plus her linked aptitude of 25.
+The TN for this check is 75 — her 50 ranks in *Search* plus her linked aptitude of 25.
 
 Aryn's player rolls a 26, so Aryn gets a *basic success*; the GM decides that she does track the bear down, but it takes her most of the day.
 
@@ -151,7 +151,7 @@ If they character rolls more than their target, then they *stumble*—they've st
 
 ### Opposed Checks
 
-**Opposed checks** are used—as the name implies—when two characters are competing against each other; one character will *win*, and the other will *loose*.
+**Opposed checks** are used — as the name implies — when two characters are competing against each other; one character will *win*, and the other will *loose*.
 
 To make an *opposed check*, each character makes a (separate) check:
 
@@ -182,7 +182,7 @@ Sometimes, when both characters are competing, it’s possible for both characte
 Aryn the aforementioned *Haffan* monster-hunter is now trying to sneak up on the bear she was hunting; the GM calls for a *variable check*, her *Stealth* versus the bear's *Perception*.
 The TN for Aryn's Stealth check is 65, and the TN for the bear's Perception is 55.
 Aryn's player rolls 51, while the GM rolls a 42 for the bear, so both Aryn and the bear partially succeed.
-The GM decides that Aryn makes a little too much noise, which spooks the bear—it hasn't spotted her *yet*, but it's aware that something is off and will begin looking around to see what's wrong.
+The GM decides that Aryn makes a little too much noise, which spooks the bear — it hasn't spotted her *yet*, but it's aware that something is off and will begin looking around to see what's wrong.
 
 </aside>
 
@@ -194,14 +194,14 @@ When making an ordered check, one character rolls their check first, and the oth
 
 ### Defaulting
 
-Sometimes a character doesn’t have the specific skill that they’d need to make a check—for example, a character might be trying to argue a legal case without having ranks in *Protocol*, *Knowledge: Law* or *Profession: Lawyer*; or a character might be trying to sneak past a guard without having ranks in *Stealth*.
+Sometimes a character doesn’t have the specific skill that they’d need to make a check — for example, a character might be trying to argue a legal case without having ranks in *Protocol*, *Knowledge: Law* or *Profession: Lawyer*; or a character might be trying to sneak past a guard without having ranks in *Stealth*.
 In these cases, the character might be allowed to use a *related* skill at a penalty, or they might be allowed to use the *linked aptitude* for the skill that they don’t have; we call this **defaulting**.
 
 The GM decides whether or not a character can default, and what they will default to.
 
 In the first case, the GM might decide that the character can default to their *Persuasion*, with a -30 penalty (large penalties are normal when defaulting, as the character is being allowed to cheat the skill system a bit).
 In the second case, the GM might allow the character to roll a check against their COO (that is, COO×1), since anybody can *try* to move stealthily, trained sneak-thief or no.
-(When a character defaults to an *aptitude*, a smaller penalty is usually used, or the penalty might be waived entirely—if the character has no ranks in the skill, they're already in enough trouble\!)
+(When a character defaults to an *aptitude*, a smaller penalty is usually used, or the penalty might be waived entirely — if the character has no ranks in the skill, they're already in enough trouble\!)
 
 <aside class="gmguidance">
 
@@ -216,7 +216,7 @@ However, if the odds of failure are low, or the consequences of failure aren’t
 Most mundane actions don’t require checks.
 A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
 
-Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check—we say that a character has *basic proficiency* in a skill if they have 10 ranks in that skill.
+Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check — we say that a character has *basic proficiency* in a skill if they have 10 ranks in that skill.
 Someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.
 
 The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
@@ -229,8 +229,8 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 
   - Sometimes, if a player fails a check, they will simply be able
     to try again rather than having the player roll the same check
-    repeatedly—or *allowing* the same player to simply make repeated
-    attempts until they succeed—it is often a good idea to use a
+    repeatedly — or *allowing* the same player to simply make repeated
+    attempts until they succeed — it is often a good idea to use a
     *simple success check*.
   - As an example, if a character wants to make several Healing
     Potions, while one might have them make several individual
@@ -266,8 +266,8 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
     the next person will just try if the current person fails; and
     it can slow the game down dramatically.
   - Instead, we recommend the GM require one character make one test
-    on behalf of the party; that character—usually the one with the
-    highest rating in the skill in question—should “take the lead,”
+    on behalf of the party; that character — usually the one with the
+    highest rating in the skill in question — should “take the lead,”
     and the other party-members should assist (if they can, see
     *Skill Modifiers*).
 </aside>
@@ -276,19 +276,19 @@ The rules for Initiative Order (and Combat) and Down Time are more specific; see
 
 ### Picking a Check
 
-So, you’ve decided that a check is called for—but what check should you
+So, you’ve decided that a check is called for — but what check should you
 use? Sometimes it can be tricky to decide.
 
 One question to ask yourself is, “is the thing my character is doing the
 kind of thing that someone could have *learned* how to do, coming from
 their background?” Plenty of things are, like riding a horse, bartering
 with a bar-keep, sneaking through a dark alley, or negotiating a
-treaty—but, some things *aren’t*, like fighting off a disease (which
-people don’t learn to do—or do consciously at all\!) or solving a
+treaty — but, some things *aren’t*, like fighting off a disease (which
+people don’t learn to do — or do consciously at all\!) or solving a
 mystery (“detective” is certainly a job a person could learn to have,
 for example, but it is not a common one in the world of *Renaissance*).
 
-In the first case—for something that someone could have learned to do—a
+In the first case — for something that someone could have learned to do — a
 skill check is appropriate. Note that you don’t necessarily have to pick
 one single, correct skill; the skill system has a degree of overlap, so
 your players might have more than one skill they could choose from. It’s
@@ -299,8 +299,8 @@ Philosophy and Spellcraft, she could use either to attempt to analyze a
 note with strange, technical writing on it, and she might glean
 different insights from it based on which she decides to use.
 
-In the second case—the player is trying to do something that most people
-don’t need to learn to do, or do consciously at all—a check against some
+In the second case — the player is trying to do something that most people
+don’t need to learn to do, or do consciously at all — a check against some
 combination of aptitudes is usually the right idea. You can pick from
 the *sample checks* above, or make up your own. To pick the combination
 of aptitudes you want to use, think about the mental faculties (or
@@ -320,15 +320,15 @@ is worth noting that very powerful beings like spirits might produce
 magical effects that cannot be resisted at all; not every effect has to
 allow a player to check to resist.
 
-You also *can* have players mix aptitudes in more complex ways—having
-people use four aptitudes and divide by two, for example—but this is
+You also *can* have players mix aptitudes in more complex ways — having
+people use four aptitudes and divide by two, for example — but this is
 almost always a bad idea, since the increase in complexity is pretty
 much never worth the increase in fidelity (that is, in better
 representing just exactly what is being tested).
 
-In the last case—a player is trying to do something that isn’t covered
+In the last case — a player is trying to do something that isn’t covered
 by a skill that they have, possibly a skill that it would be unusual for
-anyone to have—you can allow a player to *default* (see above), either
+anyone to have — you can allow a player to *default* (see above), either
 to a related skill that they do have, or to the aptitude that would be
 linked to the skill they don’t have. Don’t rush *too* quickly to the
 decision that a character needs an exotic skill; if the player is trying
@@ -340,7 +340,7 @@ is trying to have is bizarre, unusual and difficult-to-explain for
 someone from the Commonwealth, then it probably should have been an
 exotic skill. Somewhere, someone in the Commonwealth *could possibly* be
 working on a Babbage Engine, and so a player character *could possibly*
-take ranks in Exotic Skill: Programming—but programming a Babbage Engine
+take ranks in Exotic Skill: Programming — but programming a Babbage Engine
 certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
 This is why players should discuss their characters with their GMs
 before starting play.
@@ -379,8 +379,8 @@ Of course, this list is not exhaustive; GMs can call for other types of checks.
 *Resist Intimidation* is used when one character wants to resist another character's attempt to *intimidate* them, with the *Intimidate* skill.
 *Overcome Fear* is normally called for when a character encounters something particularly terrifying (which includes some *Spirits* and *Powers*, see *The Supernatural*, *Cheating Reality*, *Classes*, and *Powers*.)
 
-*Difficult Recall* is called for when a character attempting to recall something that would be difficult to remember—like a minor detail they may not have noticed, something that occurred when they where distracted, or something that happened long ago.
-(Normally, the character can be assumed to remember anything that the *player* remembers—or wrote down in their notes; this test is appropriate if some detail is so minor or arbitrary that it is unlikely that a character would have remembered it, or if the player has forgotten something that they should have remembered and needs the GM to remind them.)
+*Difficult Recall* is called for when a character attempting to recall something that would be difficult to remember — like a minor detail they may not have noticed, something that occurred when they where distracted, or something that happened long ago.
+(Normally, the character can be assumed to remember anything that the *player* remembers — or wrote down in their notes; this test is appropriate if some detail is so minor or arbitrary that it is unlikely that a character would have remembered it, or if the player has forgotten something that they should have remembered and needs the GM to remind them.)
 
 Is that dropped crossbow loaded?
 Does that guard speak Commonwealth Standard?
@@ -395,7 +395,7 @@ Whether it's a simple *number-puzzle* or a complex *cypher*, sometimes a charact
 Sometimes, characters need to perform some heroic *feat of strength*; they might need to break down a door, bend the bars of a jail window, or rip the stake they're tied to out of the wall.
 Other times, they might need to perform some *feat of endurance* to endure a great hardship (see *Common Hazards*).
 
-Sometimes characters just need to *react quickly* to their environment—maybe to dive out of the way of some falling debris or catch the ledge on the way to a fall.
+Sometimes characters just need to *react quickly* to their environment — maybe to dive out of the way of some falling debris or catch the ledge on the way to a fall.
 Or they may just need to catch something.
 
 *Difficult uses of Language* include trying to recognize a language that the character doesn't know (but might have seen), trying to get the gist of a text written in a language that is *related to* one that the characters speak (as Weal is related to Old Imperial, see *Languages*), or trying to speak or write in a particular accent or style.
@@ -471,7 +471,7 @@ Other modifiers might represent a particular task being *more* or *less* difficu
         modifiers from situation as appropriate.
 
   - Passive Tests: Usually, characters will use their skills actively.
-    Sometimes, the GM will roll a test on behalf of the player—for
+    Sometimes, the GM will roll a test on behalf of the player — for
     example, to see if they have noticed something (a Perception test),
     realized something (a COG\*3 test), or has some piece of knowledge
     (a Profession, Craft or Knowledge check). These are *Passive Tests*,
@@ -557,10 +557,10 @@ Types of actions
 *Renaissance* has three main modes of play: *Unstructured*, *Turn Order* and *Down-Time*.
 
 **Unstructured** play is the "normal" mode; it works a little like a conversation between the GM and the players.
-In Unstructured Play, the GM describes the scene and situation—possibly with the aid of a map, drawing, or other visual aide.
+In Unstructured Play, the GM describes the scene and situation — possibly with the aid of a map, drawing, or other visual aide.
 The players then ask questions and declare actions.
 The GM then answers those questions and "resolves" those actions (by telling player what effects their actions have).
-Of course, players don't always succeed; if success is uncertain—or if two characters are competing—the GM can call for a *check* (see above).
+Of course, players don't always succeed; if success is uncertain — or if two characters are competing — the GM can call for a *check* (see above).
 
 As the name implies, in unstructured play, there are no particular rules about action allotment  or turn order (as opposed to Turn Order and Down-Time).
 However, the GM may limit the actions allowed in a given situation (for example, a character can’t try to build a tool as a one-hour Task Action if they’re in a building that’s burning down.)
@@ -585,13 +585,13 @@ Down-Time is measured in *shifts*: on any day, a character can spend 8 hours wor
 Your GM might allow you to work more or less time, and to earn shifts more slowly or quickly; this is entirely at the GM's discretion.
 In particular, races that don’t need to sleep have an obvious opportunity to earn more than one Shift in a day.
 
-As an alternative to working on a Job, a player can spend a shift to complete one or more task actions—recall that Task Actions should take less than 8 hours, so you should always be able to finish at least one Task Action per day.
+As an alternative to working on a Job, a player can spend a shift to complete one or more task actions — recall that Task Actions should take less than 8 hours, so you should always be able to finish at least one Task Action per day.
 
 <aside class="clarification">
 
 ### Sidebar: Interrupting Actions
 
-Sometimes it’s possible to interrupt an action—if one character breaks into the workshop where another character is working, for example.
+Sometimes it’s possible to interrupt an action — if one character breaks into the workshop where another character is working, for example.
 We don’t provide fixed rules for this, because no fixed set of rules could be comprehensive without being unwieldy.
 GMs are encouraged to adjudicate such situations as they arise.
 
@@ -601,9 +601,9 @@ GMs are encouraged to adjudicate such situations as they arise.
 
 We usually break games up into *adventures*, *sessions* and *scenes*.
 An adventure consists of one "story ark"—for example, the party's attempt to determine why a *forrest of rapidly-growing trees consumed a town*, or *to defeat a supernatural, ichor-spreading monster*.
-A *session* is one continuous play-session—from the time that the players meet to when they go home.
-A *scene* is one specific scenario in an adventure—one large fight, one social encounter, or one infiltration attempt.
-(Note that we mean "scene" in an informal sense—you aren't expected to divide your scenarios into explicit scenes, and you don't need to tell your players when a scene begins or ends).
+A *session* is one continuous play-session — from the time that the players meet to when they go home.
+A *scene* is one specific scenario in an adventure — one large fight, one social encounter, or one infiltration attempt.
+(Note that we mean "scene" in an informal sense — you aren't expected to divide your scenarios into explicit scenes, and you don't need to tell your players when a scene begins or ends).
 
 The "archetypical" Renaissance adventure is assumed to consist of between 5 and 9 sessions, with each session taking about 4 hours and having between three and six scenes in each session.
 Of course, not every group will break their adventures up the way the authors normally do; some may prefer, for example, much longer sessions.

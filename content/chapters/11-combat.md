@@ -27,7 +27,7 @@ Distances while moving are also directly measured, although they depend on the e
 Traditionally, the direction a character is *facing* is not tracked.
 
 [[designnote]]
-|Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems—like hex-grids or miniatures—as long as the rules for measuring distance and determining movement are well-defined.
+|Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems — like hex-grids or miniatures — as long as the rules for measuring distance and determining movement are well-defined.
 |Supporting these kinds of scenarios are why we've tried to give all distances in *meters* rather than *squares*.
 
 ## Moving Around
@@ -41,7 +41,7 @@ Movement modes have a *base* and *full* rate; they can move up to their *full ra
 ### Stunts
 
 Characters can also perform *stunts*.
-**Stunts** are used when your character attempts unusual, difficult maneuvers—when they jump, tumble, flip, climb (if they don’t have Climb as a movement mode), swing and so on.
+**Stunts** are used when your character attempts unusual, difficult maneuvers — when they jump, tumble, flip, climb (if they don’t have Climb as a movement mode), swing and so on.
 
 The details of stunts are largely left open to the imagination of players and the discretion of GMs.
 The type of action varies: rolling under a hazard might be a quick action, but climbing a trellis might be a standard action (again, for a character without Climb as a movement mode).
@@ -208,9 +208,9 @@ You **threaten** any character that you could make a melee attack against.
             that they will not run out under normal circumstances (which
             is to say, we do not track in detail how much ammo a
             character is carrying or has used).
-          - Uncommon ammunition—ammunition that is made of special
+          - Uncommon ammunition — ammunition that is made of special
             materials, that is expensive, that is magical, or that is
-            otherwise special—is purchased separately and tracked.
+            otherwise special — is purchased separately and tracked.
           - Most projectile weapons can be reloaded; the weapon’s
             description will specify what kind of action is required to
             reload the weapon (or that it cannot be reloaded, should
@@ -384,13 +384,13 @@ The goblin ganger rolls a 21, and Chandra rolls a 73; the Goblin hits Chandra an
 Track is fighting a monster that attacked the party in a frozen monastery.
 The fight isn’t going well, so he decides he needs to knock it down and get away.
 He tries to Knock it Down, and rolls his One-Handed Weapons (normally a 70, but a 60 with the penalty for the trick) against it’s Fray (70).
-He scores a 41, and the monster scores a 13; Track gets to deal his normal damage—including the +5 bonus for scoring an exceptional success—and then the monster has to roll its SOM×2 or be knocked prone.
+He scores a 41, and the monster scores a 13; Track gets to deal his normal damage — including the +5 bonus for scoring an exceptional success — and then the monster has to roll its SOM×2 or be knocked prone.
 
 Note: there’s no reason you can’t spend moxie on these checks. 
 As an example: Lady Katarina has snuck up behind a watchman guarding a slaver encampment; she wants to dispatch him quickly, so she decides to throw a knife at his neck using Maim.
 She rolls her Ranged Weapons (normally 60, but 40 with the penalty), and gets a 21: she hit him, but she didn’t strike the mortal blow she wanted.
 (He doesn’t get to defend, because he’s un-aware of her, see *Un-Aware Targets* in *Combat*.)
-She decides she really needs to dispatch him, so she spends a Luck to upgrade her attack to an Exceptional Success; now, not only will she get the +5 DV for an exceptional success, but she’s hit him in the neck—a fatal blow\!
+She decides she really needs to dispatch him, so she spends a Luck to upgrade her attack to an Exceptional Success; now, not only will she get the +5 DV for an exceptional success, but she’s hit him in the neck — a fatal blow\!
 
 ## Multiple Weapons and Multiple Attacks
 
@@ -433,7 +433,7 @@ In special circumstances, a GM might decide that a resistance or vulnerability h
 If a creature has "Resistance: Fire (Immune)", a GM might declare that a power that uses fire to *frighten* its target would not affect that creature.
 
 [[designnote]]
-|We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results—not just changing damage.
+|We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results — not just changing damage.
 |
 |We're not there yet, but we're getting closer.
 
@@ -526,7 +526,7 @@ Attacks with natural weapons still use the Unarmed Combat skill; each natural we
     see *Movement Skills*.
     
       - However, in order to be ridden in combat, the mount has to have
-        been trained for war—or has to be from a species that is not
+        been trained for war — or has to be from a species that is not
         frightened by battle.
 
   - The mount and rider can be attacked separately, and mounts can be
@@ -538,11 +538,11 @@ Attacks with natural weapons still use the Unarmed Combat skill; each natural we
       - A mount’s wounds apply penalties to its actions, including its
         attacks and any checks caused by its movement, but not to the
         rider’s attacks.
-      - If a mount falls—either because it is wounded and fails its
-        check to remain standing, or for some other reason—then the
+      - If a mount falls — either because it is wounded and fails its
+        check to remain standing, or for some other reason — then the
         rider may be thrown off, or even pinned under it. The rider
         should make a COO+COO+SOM test; if they succeed, they are thrown
-        clear; if they fail, they may be trapped in their saddle—or even
+        clear; if they fail, they may be trapped in their saddle — or even
         pinned under the mount.
 
   - Mounted charges are particularly vicious.
@@ -578,15 +578,15 @@ Some attacks cover an *area*, rather than affecting a single target; these usual
 
 Attacks with the **Blast** tag do their listed damage where the attack *emanates from*, and 2 DV less for every meter away from that point.
 (Note that this means that the rolled DV *effectively* determines the size of the blast produced by the blast effect.)
-People in area of affect of a Blast Attack usually will not be able to *Defend* against it—you’re either in the explosion or you aren’t\!
+People in area of affect of a Blast Attack usually will not be able to *Defend* against it — you’re either in the explosion or you aren’t\!
 
 Some attacks cover an area, but they don't (immediately) do *damage*; these attacks usually have the **Splash** tag.
 Instead, those within the area of the *splash attack* are affected by it.
 Since they don't deal DV, *splash* attacks usually list a *radius* (like 1d10÷3m for a thrown canister of *scour*, see *Scour* in *Items*).
-Like Blast attacks, creatures in the area of a Splash Attack cannot usually defend—they're either in the area or they aren't.
+Like Blast attacks, creatures in the area of a Splash Attack cannot usually defend — they're either in the area or they aren't.
 
 These abilities are common with *projectile* and *thrown* weapons (or powers that work similarly).
-When this happens, the point that the attack "emanates form" is the point that the projectile landed—either where the player was aiming, or where the projectile *scattered to* (see Ranged Attacks above).
+When this happens, the point that the attack "emanates form" is the point that the projectile landed — either where the player was aiming, or where the projectile *scattered to* (see Ranged Attacks above).
 
 ## Size and Combat
 

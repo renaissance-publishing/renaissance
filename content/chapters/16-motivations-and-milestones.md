@@ -12,7 +12,7 @@ concerned with their *motivations* and their *milestones.*
 ## Motivations
 
 A character’s *motivations* describe the goals that drive them.
-Motivations have very little mechanical role—that is, very few rules
+Motivations have very little mechanical role — that is, very few rules
 refer to them. Instead, they are role-playing guides; they help players
 qualify who their characters are, and why (and they help GMs decide if a
 player is representing their character well).
@@ -54,9 +54,9 @@ determine (some) situations when a Stress Test may be called for (see
 
 ## Milestones
 
-During play, characters will perform great deeds—heroic or infamous,
+During play, characters will perform great deeds — heroic or infamous,
 earning renown or infamy (players, of course, may also throw themselves
-into a role, creating a moving moment—or just ham it up, getting a laugh
+into a role, creating a moving moment — or just ham it up, getting a laugh
 out of the table). Whenever a scene becomes legendary, a character might
 earn a *milestone*.
 
@@ -64,7 +64,7 @@ Milestones are short phrases that describe a significant moment in a
 character’s history; they might take the form of a title (like “Scarred
 Warrior”) or a description of the event (like “The Great Dive”), but any
 short, memorable phrase will do. Characters can have any number of
-milestones—they can start without a single one, and they can have as
+milestones — they can start without a single one, and they can have as
 many as they can earn.
 
 Milestones serve several purposes; one of the simplest and most
@@ -89,8 +89,8 @@ on a character’s part, or to reward a character for good role-playing.
 
 <aside class="example">
 Example: Chandra the Drake has ventured into the neighboring Kingdoms of
-Men to defeat a slave ring. When he encounters one of their champions—a
-Wolverine shifter—rather than frighten, he decides to charge her, using
+Men to defeat a slave ring. When he encounters one of their champions — a
+Wolverine shifter — rather than frighten, he decides to charge her, using
 his *Dragonshire Style* power to grip his sword by the blade and strike
 her with the pommel. He rolls a critical success, and inflicts so much
 damage that he downs the slaver in that single blow. The (frustrated) GM
@@ -114,7 +114,7 @@ milestone.
 Milestones should not be given too often; they are used to highlight
 truly memorable moments in a character’s history, which don’t happen all
 the time. We find that most players will earn a milestone *roughly* once
-every six games—although this will vary widely. Circumstances that
+every six games — although this will vary widely. Circumstances that
 result in a character earning a milestone often also result in earning
 one (or more) additional Rez point(s) as well, and possibly traits (see
 *Advancing Characters*).
@@ -154,9 +154,9 @@ Sometimes, instead of adding a new milestone, you’d like to upgrade,
 change or remove an existing one.
 
 Remember that a character’s milestones are a simplified representation
-of their history—of the memorable events that have made them who they
+of their history — of the memorable events that have made them who they
 are. If you alter those milestones, you are to some extent altering that
-character’s history—something their player may not much appreciate. We
+character’s history — something their player may not much appreciate. We
 recommend that you *always* ask a player’s permission before upgrading,
 changing or removing one of their milestones.
 
@@ -212,7 +212,7 @@ her past to catch up to her. He offers her a challenge: there happens to
 be in that city on that day a noble from the Kingdoms of Men who is a
 devotee of the One who Chose Us, and who knows of her history. If Aryn
 accepts, that noble will notice her, and she will have him to deal with
-as a potential enemy—a powerful one, with wealth and a noble title. In
+as a potential enemy — a powerful one, with wealth and a noble title. In
 exchange, Aryn will gain a +10 bonus to social skills tests with the
 people of the city, owing to her history as a champion of the
 Commonwealth and its values.
@@ -246,15 +246,15 @@ character creation; see *Character Creation.*
 
 As a special rule, if you are introducing an existing character into a
 new game, you may ask the GM to keep some of that character’s existing
-milestones. How many milestones the GM allows you to keep—and whether
-they require you to pay an CP cost for them—is entirely at their
+milestones. How many milestones the GM allows you to keep — and whether
+they require you to pay an CP cost for them — is entirely at their
 discretion. (Your willingness to regale the group with the heroic tale
 of how you earned those milestones may factor into the GM’s decision, as
 might your willingness to buy the group a pizza.)
 
 <aside class="example">
 Example: a player joining a new group decides to base her character on
-the one she player in her previous game—Venn the Shambler Halberdier.
+the one she player in her previous game — Venn the Shambler Halberdier.
 Even though she builds Ven from scratch using the character creation
 rules, she still wants to “keep” some of her favorite moments from Ven’s
 previous adventures in her prior game. She asks the GM if she can have
@@ -264,12 +264,12 @@ represent Venn’s previous exploits.
 
 Note that we interpret the idea of an “existing character” somewhat
 loosely; your current character need only be inspired by or based on a
-previous character—possibly even one from an entirely different game
-system—to gain milestones from their history.
+previous character — possibly even one from an entirely different game
+system — to gain milestones from their history.
 
 <aside class="example">
 Example: a player joining a new group decides to base his *Renaissance*
-character on his own character from a previous Eclipse Phase game—thus,
+character on his own character from a previous Eclipse Phase game — thus,
 Dayton Lex, the lightning-wielding psion. He tells his new group of
 Dayton’s exploits vaporizing Ultimates with plasma fire, and of the
 hilarious compulsions his old group picked for his async character when

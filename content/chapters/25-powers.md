@@ -7,7 +7,7 @@ title: "Powers"
 Powers represent unique abilities that your character has learned to deploy; mechanically, they are extraordinary actions that you have mastered.
 
 Note that powers do not represent the extent of your magical, psionic or martial skill: your skills represent your ability to manipulate magic, handle weapons and so on.
-Instead, think of powers more like specific "tricks" that you've drilled to wrote--some difficult or unusual use of your skills that you've practiced to the point that you can do them quickly and reliably.
+Instead, think of powers more like specific "tricks" that you've drilled to wrote — some difficult or unusual use of your skills that you've practiced to the point that you can do them quickly and reliably.
 
 Powers have requirements, like classes and some traits do.
 Since powers are actions, they will also list the *type* of action that they require.
@@ -24,10 +24,10 @@ While all the rules for designing content apply, there are two that are particul
 - powers should not be *mandatory* for any given character concept.
 
 The first rule is why Vanish still requires a Stealth check, why Fireball still requires a touch-only or Ranged Weapon attack to be used as a weapon (to touch someone with it or throw it at them, respectively), why Push still requires a Persuasion check (and is so limited), and why Join doesn't give you uncontested control of the "gestalt".
-This is also why several "damaging" powers do fairly modest damage--certainly compared to the amounts of damage one may see in some other games.
+This is also why several "damaging" powers do fairly modest damage — certainly compared to the amounts of damage one may see in some other games.
 
 The second rule covers both skills that anyone with a given level of skill would have (so they're "mandatory" to unlock abilities that by rights you've already paid for by purchasing skills), and any power that's too, well, powerful, and so in practice everyone building a certain type of character would always choose to take (so they're "mandatory" if you want to keep up).
-This is why we don't have a "feint" power, for example, since any competent fighter--anyone with more than, say, 30 ranks in a combat skill--would know how to feint.
+This is why we don't have a "feint" power, for example, since any competent fighter — anyone with more than, say, 30 ranks in a combat skill — would know how to feint.
 This is also why we don't have a "power attack" power, since almost ever melee fighter would end up taking it.
 (You might note that both Feint and Mighty Blow are among the strikes listed in the *Combat* section; this is not accidental.)
 
@@ -49,16 +49,16 @@ This includes:
 Many of the above rules come from an attempt to "balance" Powers, especially supernatural powers, against the capabilities of other characters, on an action-by-action basis.
 Essentially, these powers can't be too extraordinary, in part because there's no limit to how many times you can use them.
 
-Some other game systems use "Vancian casting:" they feature much stronger powers--usually strictly magical powers--with the limit that they can only be used a certain, limited number of times per day.
+Some other game systems use "Vancian casting:" they feature much stronger powers — usually strictly magical powers — with the limit that they can only be used a certain, limited number of times per day.
 The rough idea is that, in the long term, this all balances out: "martial" characters can maintain a given level of power consistently, while "vancian magical" characters can perform a smaller number of far more impressive deeds.
 
-So, if one of your players wants to take a "Vancian" power--a far more powerful power than would normally be allowed, with the caveat that it can only be used a few times per day--is that a good idea?
+So, if one of your players wants to take a "Vancian" power — a far more powerful power than would normally be allowed, with the caveat that it can only be used a few times per day — is that a good idea?
 
 Obviously, we can't control what you do at your gaming table, but our recommended answer is "no."
 One very good reason is that "Vancian" powers constrain the design of the adventure, and badly perturb the balance of power between the characters if that design constraint is not satisfied.
 In order for the "vancian-magic-versus-steady-martial" balance to work out, a certain average number of "encounters per day" must be maintained:
 if there are too few encounters, then the Vancian characters just get to be strictly more powerful than everyone else, because they never get run out of uses of their amazing superpowers; if there are too many, then the Vancian characters get hosed.
-(In practice, the first problem is far more common than the second--especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
+(In practice, the first problem is far more common than the second — especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
 
 </aside>
 
@@ -71,7 +71,7 @@ For example, characters might be required to take 1d10 DV to activate a power, o
 
 Any time you give one class of character access to more powerful abilities than others, you run the risk of upturning the balance of power between characters and letting some players dominate the game; this risk still applies to sacrificial magic schemes.
 
-However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game—and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
+However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game — and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
 
 So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
 
@@ -86,7 +86,7 @@ Much as you and your players should feel free to create entirely new powers, you
 As an example, a player could easily swap fire out for some other "element" to turn the Fireball power into an *iceball* or *ball lightening* power.
 Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
 
-Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power—or whatever else they want.
+Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power — or whatever else they want.
 
 </aside>
 
@@ -171,7 +171,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
         
           - After completing the use of this Sleight, you do not need to eat or sleep for 1 day.
           - After completing the Sleight, you recover 1d10÷3 Stress.
-          - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you—if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
+          - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you — if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
           - Special: if you have the Heal Sleight, you may also sustain it during Down Time.
 
   - Fortify
@@ -421,7 +421,7 @@ Of course, a player who wants an *ice attack* power doesn't *have to* create it 
           - While sustaining this power, Read checks made against you
             suffer a -30 penalty.
           - However, because your neutral expression makes it hard to
-            convey your emotional state—and might be a little unnerving.
+            convey your emotional state — and might be a little unnerving.
             You suffer a -10 penalty to Persuasion checks.
           - Having no penalty to Barter is deliberate, the theory being
             that this kind of behavior is expected while haggling;
@@ -597,7 +597,7 @@ You can inspire others to bravery and heroism even in the direst of circumstance
 - **Action:** Quick Action
 - **Effect:** Roll one of your Social Skills (the GM must approve of your choice).  If you succeed, you *inspire* those nearby (they gain the Brave trait) for 1 turn per 10 points of MoS.
   - Normally, you would inspire every ally who can see and hear you, although this might not be the case under unusual circumstances (your GM will decide this).
-  - Normally, in order for a character to be inspired, they would need to understand what you are doing--an inspiring speech is useless to someone who doesn't speak your language.  However, some methods of inspiring bravery are universal: delivering a defiant roar can be inspiring without any language or culture in common at all.
+  - Normally, in order for a character to be inspired, they would need to understand what you are doing — an inspiring speech is useless to someone who doesn't speak your language.  However, some methods of inspiring bravery are universal: delivering a defiant roar can be inspiring without any language or culture in common at all.
 - **Special:** The GM may allow you to inspire those around you if you do something particularly heroic: it might be inspiring just to see you burst out of bonds or rise again in spite of grievous wounds.
 
 #### Diving Strike
@@ -677,14 +677,14 @@ You are expert in the use of large shields, and your defence with them is extrao
 
 #### Brawler's Instinct
 
-Through years of experience with front-line combat, tavern brawls, law enforcement--or only Great Spirits know what else--you've gained a good instinct for when someone is about to start a fight.
+Through years of experience with front-line combat, tavern brawls, law enforcement — or only Great Spirits know what else — you've gained a good instinct for when someone is about to start a fight.
 
 - **Requirement:** 10 ranks in Perception, 10 ranks in two *combat* skills.
 - **Effect:** You do not take the Passive Test penalty to passive Perception and Read tests made against those who are planning to attack you.
 
 #### Brawler's Sense
 
-Your fighter's instinct has been honed to the point that it's almost a sixth sense--or seventh or fifth, it depends on how many sense your race normally has...
+Your fighter's instinct has been honed to the point that it's almost a sixth sense — or seventh or fifth, it depends on how many sense your race normally has...
 
 - **Requirements:** 20 ranks in Perception, 20 ranks in Unarmed Combat
 - **Action:** Sustained
@@ -700,7 +700,7 @@ Maybe you've been thrown in jail more than once, maybe this isn't the first meet
 - **Requirements:** 20 ranks in Unarmed Combat
 - **Action:** Standard Action
 - **Effect:** When you are *bound*, you can still make an unarmed attack against someone who comes within reach, using all the normal rules for an unarmed attack.
-- **Special:** You can't use this power if you are *completely* bound--such as if you are enclosed in something like an iron maiden.
+- **Special:** You can't use this power if you are *completely* bound — such as if you are enclosed in something like an iron maiden.
 - **Special:** Critical hits with this attack may weaken or break weaker bindings, like ropes.
 
 #### Burried Alive

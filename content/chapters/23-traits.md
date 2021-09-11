@@ -10,17 +10,17 @@ In general:
 - A **trait** represents an *innate* property that your character has, like being particularly brave or having unusually fast reflexes. Importantly, traits aren't actions (like powers), and traits usually aren't acquired through experience (like classes).
 - A **power** represents a unique ability that your character can perform.  Powers usually *are* discrete actions (even a sustained action is still an action that you're consciously performing at some times and not others).  Also, powers often *are* learned: they often represent a "trick" that your character has drilled to perfection, possibly with the aid of magical preparation or mundane set-up.
 - **Classes** are a little more variable.  Classes often represent an *experience* that you have had.
-  - Very often, they represent a membership you have (or have had) in some organization—which might have given you some special training, or might give you access to their resources.  These Classes commonly take two forms: they either let you "break the rules" in some interesting way (like the *Channeler*) or they give you access to an organization's resources (like *Guild Member*).
-  - More rarely, Classes can give a character a "feature".  *Corpse-Herder* and *Familiar-Bound Mage* are examples.  Both conceptually and mechanically, these are a little awkward: they're classes essentially because they're not *traits* (since they're not innate), and they're not *powers* (because they aren't discrete actions—"having a magical pet" isn't really an action that you perform).  They're closest to an experience that you've had—the experience of "having made a magical companion."
+  - Very often, they represent a membership you have (or have had) in some organization — which might have given you some special training, or might give you access to their resources.  These Classes commonly take two forms: they either let you "break the rules" in some interesting way (like the *Channeler*) or they give you access to an organization's resources (like *Guild Member*).
+  - More rarely, Classes can give a character a "feature".  *Corpse-Herder* and *Familiar-Bound Mage* are examples.  Both conceptually and mechanically, these are a little awkward: they're classes essentially because they're not *traits* (since they're not innate), and they're not *powers* (because they aren't discrete actions—"having a magical pet" isn't really an action that you perform).  They're closest to an experience that you've had — the experience of "having made a magical companion."
 
-A final note on classes: we've tried to avoid adding things that *should be* traits or *should be* powers as part of what you get from a class; we much prefer that the trait or class be a separate thing—one that has the given class as a prerequisite.
+A final note on classes: we've tried to avoid adding things that *should be* traits or *should be* powers as part of what you get from a class; we much prefer that the trait or class be a separate thing — one that has the given class as a prerequisite.
 (Every attendant at a given shrine might have a certain power, for example, but it's preferable to list the power separately from the shrine-attendant class.)
 
 </aside>
 
 ## Traits
 
-Traits represent special properties about your character—good, neutral and bad.
+Traits represent special properties about your character — good, neutral and bad.
 Maybe they're ambidextrous, maybe they have a reputation, or maybe they're blind?
 All these things are Traits.
 
@@ -165,7 +165,7 @@ Some traits are *neutral*, giving you both a benefit and a drawback; they do not
   - Choose one particular source of stress: you gain +WIL to checks made to resist it, but your Luck stat is reduced by 1.
   - Example sources of stress include *being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture* and *displays of extreme supernatural power.*
 
-- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful—but on the down side, your unusual outlook makes it harder for others to relate to you.
+- Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful — but on the down side, your unusual outlook makes it harder for others to relate to you.
   - Choose one particular source of Stress: you gain +WIL to checks made to resist it, but you suffer a -10 penalty to Persuasion and Protocol tests.
 
 #### Smaller
@@ -174,7 +174,7 @@ You are much smaller than average for your race; reduce your size category by on
 
 This affects your movement(s).
 Most of your movements are reduced: reduce your base rate(s) by 1m and your full rate(s) by 3m.
-Some movements—like flight—might benefit from you being smaller, however: with your GM's approval, you may increase these movements by 1m/3m.
+Some movements — like flight — might benefit from you being smaller, however: with your GM's approval, you may increase these movements by 1m/3m.
 
 Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.
 
@@ -184,6 +184,6 @@ You are much larger than average for your race; increase your size category by o
 
 This affects your movement(s).
 Most of your movements are increased: increase your base rate(s) by 1m and your full rate(s) by 3m.
-Some movements—like flight—might be hindered by you being larger, however: at your GM's discretion, some of your movements will instead be reduced by 1m/3m.
+Some movements — like flight — might be hindered by you being larger, however: at your GM's discretion, some of your movements will instead be reduced by 1m/3m.
 
 Though we do not have extensive rules for size, this may have other effects: see *Size* in *Senses, Movements and Special Abilities*.

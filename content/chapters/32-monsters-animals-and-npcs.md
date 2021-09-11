@@ -252,7 +252,7 @@ by other large predators.
 Dancing Hawks are creatures native to the Dragons' Mountains, the low range that takes up the southeastern half of the Dragonshire; these massive creatures are sometimes used as mounts by Drakes.
 They are named for the unique "stomp" that they use to attack prey.
 
-Like a number of species native the the Dragons' Mountains--including dragons themselves--the Dancing Hawk is something between a bird and a reptile.
+Like a number of species native the the Dragons' Mountains — including dragons themselves — the Dancing Hawk is something between a bird and a reptile.
 They are shaped somewhat like a large bird, save that they have jaws (with teeth) rather than a beak; a long, strong, flexible tail that they use for balance and control while running; and their wings are tiny and folded before and under them, like small, awkward arms.
 They cannot fly, instead using their tiny wings for display, and for some other social behavior.
 They are, however, adept runners, and they run powerfully and surely through the hills and low peaks of the Drake's Mountains; their legs are massively muscled, able to carry their own weight comfortably, and a Drake rider beside.
@@ -261,12 +261,12 @@ Dancing Hawks are huge, often the height of a drake at their hip, three times as
 
 Dancing Hawks are omnivorous; they prefer the fruits and leaves of several trees native to the Dragons' Mountains, as well as some of the hardier shrubs and grasses that grow further up the slope.
 They also hunt, though they only hunt animals much smaller than themselves; unfortunately for the shepherds of the hills below the Dragons' Mountains, a sheep is "much smaller than" these massive creatures.
-Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled--and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
+Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled — and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
 Instead, they "stomp" on their pray, raising their legs and striking down with immense force; given the size and strength of the creature, these stomps are devastating.
 
 Dancing Hawks are social creatures, travelling in small packs in the Dragons' Mountains.
 A typical pack consists of about 6 adults and their young.
-They are also intelligent animals--smart enough to share kills and to cooperate to raise their pack's young.
+They are also intelligent animals — smart enough to share kills and to cooperate to raise their pack's young.
 
 Dancing Hawks run with their spines parallel to the ground; this, taken together with their social and intelligent nature, makes it possible for them to bear a rider.
 Though most of them still run wild in the hills and mountains of the Dragons' Mountains, there are several domesticated breeds; they have the size and strength to bear a Drake rider, and the intelligence to be trained for war.
@@ -306,12 +306,12 @@ Yes, it's like a <a href="https://en.wikipedia.org/wiki/Utahraptor">Utahraptor</
 
   - Stomp: 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
 
-  - Special: Dancing Falcons can be acquired from Dragonshire breeders--or the bold and fortunate might raise them from hatchlings.  They are cost-category \[Extreme\].
+  - Special: Dancing Falcons can be acquired from Dragonshire breeders — or the bold and fortunate might raise them from hatchlings.  They are cost-category \[Extreme\].
 
 ### Frozen Horror
 
 Created when several powerful spirits colluded with a mortal to release
-one of the Dead, without binding it—and with some other string attached.
+one of the Dead, without binding it — and with some other string attached.
 
 |          |     |      |     |     |          |
 | -------- | --- | ---- | --- | --- | -------- |
@@ -353,7 +353,7 @@ one of the Dead, without binding it—and with some other string attached.
 ### Horse
 
 These quadrupedal creatures are native to the southwest of the Emerald Plane.
-They have long been ridden as mounts--and bred for the purpose--by the cultures there, and have since spread east throughout the Emerald Plane.
+They have long been ridden as mounts — and bred for the purpose — by the cultures there, and have since spread east throughout the Emerald Plane.
 
 |          |     |      |     |      |          |
 | -------- | --- | ---- | --- | ---- | -------- |
@@ -629,8 +629,8 @@ They are omnivorous, feeding on small fish, some insects,  muscles and clams, an
 Much like raccoons, they have an extremely acute sense of touch, which they use to forage for roots, muscles and clams in soft sands.
 They are also known as "spearfishers" in the Kingdoms of Men, after the quick striking motions they make when they plunge a forearm into shallow water to strike a fish or frog.
 
-Even though they aren't predators—and despite being more than a little cute—stilt-raccoons are difficult to keep as pets.
-They're fairly docile, and they aren't aggressive as long as they're treated well—but they need access to a large body of water, or their health will deteriorate.
+Even though they aren't predators — and despite being more than a little cute — stilt-raccoons are difficult to keep as pets.
+They're fairly docile, and they aren't aggressive as long as they're treated well — but they need access to a large body of water, or their health will deteriorate.
 
 The Story of Reckless Prince Eta is popular children's story in the Kingdom of Tenna; it began more than five hundred years ago as a satire of an actual noble of the Tenna clan, but morphed into a parable for children.
 It tells the story of a reckless prince who thought himself infinitely wise and strong, and believed no harm could befall him; ultimately, he swam too near a stilt-raccoon, which speared into the water with its forearm and stuck him.

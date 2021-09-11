@@ -117,7 +117,7 @@ Example *major* items include:
 
 ### Extreme Items
 
-*Extreme* items are of extraordinary worth—only available to the most wealthy, they represent fortunes, treasures and power-bases.
+*Extreme* items are of extraordinary worth — only available to the most wealthy, they represent fortunes, treasures and power-bases.
 
 Most *extreme* items are intended to play a major role in how you define your character, possibly opening whole new options up to them; a caravel is among the newest, largest and most capable types of ocean-going vessels, for example, and having one might open up whole new avenues to a player.
 
@@ -143,7 +143,7 @@ There are a few examples throughout this section, but we will provide you with s
 - **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
 - **Items shouldn't eclipse other options.**  An item you're paying 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
   - This is why you shouldn't add a "hard invisibility" cloak, for example.
-- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game—even though people are going to ask.
+- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game — even though people are going to ask.
   - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
   - Items that give you extra actions or turns in combat are a very bad idea.
   - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits some deliberate game-design choices.  (If you find yourself in frequent need of an impulse-healing item, consider running your game in a system that's designed to focus on combat-heavy adventures.)
@@ -162,7 +162,7 @@ There are a few examples throughout this section, but we will provide you with s
 | One reason is just that *it's a lot of damned work!*
 | We're a small team, and creating a large list of diverse, high-quality items would be quite an undertaking!
 |
-| But there are other reasons too—and our laziness isn't even the most important one!
+| But there are other reasons too — and our laziness isn't even the most important one!
 |
 | We also don't believe that it's possible to create a list of magical items that is *exhaustive* (in the sense that it covers most of the magical items that people would want) without being *unwieldy* (in the sense that it would be far to vast to be useful).
 | Any *very large* list of magical items will encumber *all* players with a huge list of items that they have to navigate, hoping that the item they want is in there *somewhere*.
@@ -195,7 +195,7 @@ Most people only wear armor if they are either going into battle or are performi
 Some armors provide protection at the cost of impairing movement, whether by virtue of being heavy, or rigid, or awkwardly placed; these armors have the **Cumbersome** tag.
 (The exact penalty or penalties will be listed separately.)
 
-Most armors are assumed to represent a complete suit of armor of a consistent construction—for example, a whole suit of plate, including helmets, gauntlets and grieves, or an entire coat of mail, covering a user to the thigh and including sleeves.
+Most armors are assumed to represent a complete suit of armor of a consistent construction — for example, a whole suit of plate, including helmets, gauntlets and grieves, or an entire coat of mail, covering a user to the thigh and including sleeves.
 Some armor, however, consist of different components, such as pairing plate at the arms and legs with a brigandine chest-piece.
 These armors have the **Composite** tag.
 
@@ -209,8 +209,8 @@ Armor with the **Stealthy** tag provides the wearer with a +10 bonus to Stealth 
 Similarly, some armors (and other garments) obscure the wearer, making it difficult to identify them.
 Armor with the **Concealing** tag provides the wearer with a +10 bonus when attempting to blend into a crowd.
 They also make it impossible to detect items concealed with Slight of Hand, and impose a -30 penalty on Read checks made against the wearer.
-(These bonuses only apply to casual inspection—such as passing a character in a crowd.
-They do not apply to detailed inspection—such as if a character is being searched.)
+(These bonuses only apply to casual inspection — such as passing a character in a crowd.
+They do not apply to detailed inspection — such as if a character is being searched.)
 
 Some armor is especially visible, ostentatious, or prominent; this is often true of armors that have a ritual or ceremonial role, armors that prominently bear the insignia of some clan or organization, or armors that are commonly worn during competition.
 These armors have the **Proud** tag.
@@ -290,7 +290,7 @@ It became the standard armor for the Commonwealth's armies more than 180 years a
 ### Raider's Armor
 
 *Raider's armor is an example variant armor, based on Brigandine armor.*
-*It is similar to Brigandine, but is easier to manufacture—especially if you're scavenging components.*
+*It is similar to Brigandine, but is easier to manufacture — especially if you're scavenging components.*
 *It is commonly worn by Shade Elven raiders.*
 
 Raider's armor is a style of armor commonly worn by Shade Elves.
@@ -320,7 +320,7 @@ Imperial Armor is a distinctive style of armor worn by the soldiers of the Gobli
 As much as an improvement in technology, it represents the rapid increase in wealth in the Goblin Empire and the strides the Empire has made in consolidating power under their banner.
 
 The Second High Kingship of the Kingdom of Men took a toll on the Goblins; for centuries after, high-quality metal armors became a scarcity, as the relatively poor and unorganized Goblin Kingdoms outfitted their various troops with a range of armors, often of hide or light mail.
-As the Goblin Empire has grown wealthy from the conquest of the Ruby Plane, metal armors have become more common—and as the Empire has slowly shifted power from the Goblin Kings and Warlords to its own bureaucracy, it has increasingly standardized the equipment and training of its troops.
+As the Goblin Empire has grown wealthy from the conquest of the Ruby Plane, metal armors have become more common — and as the Empire has slowly shifted power from the Goblin Kings and Warlords to its own bureaucracy, it has increasingly standardized the equipment and training of its troops.
 
 Imperial armor is made out of a series of horizontal steel bands, overlapping at the bottom; these are attached to vertical strips of leather.
 (These strap are thick, which lifts the steel plates slightly off the chest and back of the wearer; this is important to keep the plates from catching on the plates of the goblin's own bony segmented plates.)
@@ -328,7 +328,7 @@ The shoulders feature their own, larger plates, "sleeves" of smaller plates prot
 
 The design of this armor allows the Empire to field steel plate armors, without requiring that a single solid plate be individually fitted to its wearer.
 The armor also travels well, because it can be "collapsed"—where the plates stack over the top of each other.
-The rows of plates typically do not meet along the sides under the arms, so it is also light and breaths relatively well—especially since Imperial troops usually do not wear layers of leather or cloth beneath it as the soldiers of the Kingdoms or Commonwealth do.
+The rows of plates typically do not meet along the sides under the arms, so it is also light and breaths relatively well — especially since Imperial troops usually do not wear layers of leather or cloth beneath it as the soldiers of the Kingdoms or Commonwealth do.
 
 On the down-side, this armor also doesn't completely cover the wearer: it doesn't cover the legs or under-arms, and leaves plenty of prominent gaps.
 This problem is mitigated in practice, because Imperial troops are normally issued large, curved shields, and they rely on these shields (and close formation) to provide primary defense.
@@ -340,7 +340,7 @@ This problem is mitigated in practice, because Imperial troops are normally issu
 ### Partial Plate
 
 Consisting of steel plates and leather straps, partial plate protects only parts of the wearer.
-The typical layout will cover the throat, shoulders, arms and shins in plate, though other arrangements exist—including single plates directly over the heart and kidneys, or gladiator sleeves.
+The typical layout will cover the throat, shoulders, arms and shins in plate, though other arrangements exist — including single plates directly over the heart and kidneys, or gladiator sleeves.
 
 - Armor Value: 6 AV
 - Drawbacks: This armor’s AV is reduced by 3 if the attacker scores an Exceptional or Critical Success.
@@ -477,8 +477,8 @@ have the **No-Handed** tag).
 Some weapons are particularly good at parrying, guarding or deflecting
 attacks; these weapons have the **Defensive** tag. When you use such a
 weapon to defend yourself, you gain a +10 bonus. Conversely, some
-weapons may be awkward, clumsy or fragile—or, in the case of ranged
-weapons, may not be designed to *strike* an opponent at all—and thus it
+weapons may be awkward, clumsy or fragile — or, in the case of ranged
+weapons, may not be designed to *strike* an opponent at all — and thus it
 is very awkward to defend yourself while carrying them; these weapons
 have the **Vulnerable** tag. You take a -10 penalty to your defense when
 wielding such a weapon.
@@ -561,7 +561,7 @@ Combat. This includes at least Reach and Brace.
 No-handed weapons are typically *worn*, like clawed or spiked gauntlets.
 Though they put a wielder at a disadvantage against someone with a
 longer weapon (which will give their opponent and advantage in reach and
-leverage), they do have the certain advantages—including that some of
+leverage), they do have the certain advantages — including that some of
 them are not obvious as weapons.
 
 ### Hand Wraps
@@ -717,7 +717,7 @@ the end. They are common because they are easy and cheap to make,
 because they are effective even when made with poor metal, and because
 they require little training for a user to be minimally effective.
 Because much of their length is wooden, axes are lighter and faster than
-swords—though they also offer more force behind a blow, because they are
+swords — though they also offer more force behind a blow, because they are
 heavily weighted towards the head. For the same reason, they are
 slightly more capable of defeating armor, thanks to focusing a greater
 force on a smaller point of impact.
@@ -735,7 +735,7 @@ AP: 3
 
 ### Club
 
-A club is any arm’s-length blunt instrument used in combat—anything from
+A club is any arm’s-length blunt instrument used in combat — anything from
 a discarded tree branch, to a rod of steel with all the trappings of a
 sword, to an intricately-decorated ceremonial weapon. Perhaps
 unsurprisingly, many of these weapons are particularly ineffective
@@ -752,7 +752,7 @@ AP: 0
 Maces combine the weighted head of an axe with the ease-of-use of a
 club. Modern maces are designed to be simple to use and cheap to
 manufacture, while being more capable of defeating armor than
-clubs—though as heavy armor become more sophisticated (and better
+clubs — though as heavy armor become more sophisticated (and better
 padded\!), simple maces are once again becoming ineffective. Maces are
 also commonly used by those opposed to cutting or cleaving an opponent.
 
@@ -816,7 +816,7 @@ AP: 2
 
 ### Improvised Spear
 
-Similar to a short-spear, but improvised—made quickly, possibly without being treated, probably without a metal tip.
+Similar to a short-spear, but improvised — made quickly, possibly without being treated, probably without a metal tip.
 
 Tags: One-Handed, Two-Handed, Thrown, Easy, Fend, Fragile
 
@@ -853,7 +853,7 @@ AP: 3
 
 ### Reaping Sword
 
-*The reaping sword is an example variant weapon. It is somewhat similar to a greatsword, but it is designed to be used by cavalry, primarily with the described “reaping attack”. It trades the flexibility of the sword—represented by the Close and Defensive tags—for usability on horseback or with mighty overhead slashes.*
+*The reaping sword is an example variant weapon. It is somewhat similar to a greatsword, but it is designed to be used by cavalry, primarily with the described “reaping attack”. It trades the flexibility of the sword — represented by the Close and Defensive tags — for usability on horseback or with mighty overhead slashes.*
 
 This Shade-Elven weapon pairs a very long handle designed for a two
 handed grip with a thin, single-edged blade with a slight curve. The
@@ -888,7 +888,7 @@ A lumberjack’s axe is a two-handed utility axe used to fell trees
 (rather than people). As with any heavy, bladed object that can easily
 be swung, though, they make serviceable weapons in a pinch. Since they
 are common tools, they are more readily available than martial
-weapons—although they are also less-suited to combat, and less
+weapons — although they are also less-suited to combat, and less
 effective at dealing with armor in particular.
 
 Tags: Two-handed, Heavy, Bladed, Blunt, Utility, Easy, Heavy
@@ -913,11 +913,11 @@ AP: 1
 
 ### Quarterstaff
 
-*The quarterstaff is an example variant weapon. It is similar to a Long Club, except it trades slightly lower damage and AP for a variety of tags—including the One-Handed tag, with associated one-handed damage.*
+*The quarterstaff is an example variant weapon. It is similar to a Long Club, except it trades slightly lower damage and AP for a variety of tags — including the One-Handed tag, with associated one-handed damage.*
 
 A quarterstaff is a long staff made of sturdy wood. Though they are not
-as deadly as metal weapons—and are ineffective at defeating armor in
-particular—they are nevertheless versatile and effective weapons. They
+as deadly as metal weapons — and are ineffective at defeating armor in
+particular — they are nevertheless versatile and effective weapons. They
 can be wielded in a variety of different ways; notably, several of their
 basic strikes are the same as those used with swords.
 
@@ -950,7 +950,7 @@ relatively simple to manufacture and are highly effective when used by
 infantry formations. They are among the most common weapons used by
 militaries throughout the Emerald Plane. Formations of infantry with
 pole-arms can be an incredibly deadly force when wisely
-deployed—although they can also be vulnerable if they are flanked or
+deployed — although they can also be vulnerable if they are flanked or
 forced into close combat.
 
 ### Long Spear
@@ -989,7 +989,7 @@ spears, they still benefit from the range and reach of their design.
 
 Though halberds are used to some extent by all the peoples of the
 eastern Emerald Planes, they are particularly common in the
-Commonwealth’s military—so much so that they are often used as a
+Commonwealth’s military — so much so that they are often used as a
 symbol for the Commonwealth’s military.
 
 Tags: Two-handed, Reach, Bladed, Fend, Easy, Formation, Brace, Heavy,
@@ -1074,7 +1074,7 @@ Though many older ranged weapons require quite a lot of strength to use, some ne
 Light bows are small bows suitable for a wide variety of uses; the class includes modern composite bows, recurve bows, traditional short cavalry bows, and many others.
 The tactical flexibility of light bows is only amplified by the use of specialized arrows.
 
-Both Wood and Shade elves commonly use light bows—wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous cavalry.
+Both Wood and Shade elves commonly use light bows — wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous cavalry.
 Shade Elf mounted archers remain terrifying soldiers in service of the Shaded Sea Peoples.
 
 Tags: Two-Handed, Ranged, Special Ammunition, Cavalry
@@ -1090,10 +1090,10 @@ attack)
 
 ### Composite Bow Rev
 
-Composite bows are made of several materials in layers—often bone on the back and sinew on the front—which allows the bow to store more energy in a smaller package with a shorter draw.
+Composite bows are made of several materials in layers — often bone on the back and sinew on the front — which allows the bow to store more energy in a smaller package with a shorter draw.
 This makes these bows particularly small, and thus well-suited for use by cavalry (and others who value the small size of the weapon).
 
-Both Wood and Shade elves commonly use light bows—wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous and devastating cavalry.
+Both Wood and Shade elves commonly use light bows — wood elves for their lightness and flexibility while hunting, and shade elves as mounted weapons for their infamous and devastating cavalry.
 
 - Tags: Two-Handed, Ranged, Special Ammunition, Cavalry
 - Damage: 2d10-1+DB
@@ -1113,7 +1113,7 @@ the bow” can boast many longbowmen.
 
 The Herders have such a “culture of the bow,” and Herder longbowmen have
 long provided the Commonwealth with a powerful advantage in their
-conflict with the Shaded Sea Peoples—despite the Herder’s relative lack
+conflict with the Shaded Sea Peoples — despite the Herder’s relative lack
 of brute strength. This era may be coming to a close, however, as
 crossbows replace longbows even in Herders’ hands.
 
@@ -1228,7 +1228,7 @@ The following *special arrows* can be used with composite bows and longbows:
 - **Broadhead**: *broadhead* arrows have large heads that trail *edges* that can be sharpened.  Broadheads are particularly good at wounding flesh, and often cause bleeding.  Broadhead arrows do +1 DV, and cause *Bleeding 1* on an exceptional or critical success.  On the down-side, their large heads are somewhat more expensive.  Broadhead arrows are Cost: Minor for 4 arrows.
 - **Needle**: *needle* arrows have an extremely narrow circular cross-section, like a needle.  They are cheap to make, they are good at penetrating armor, and they fly further (owing to the lower drag).  On the down-side, though, they are easy to deflect if they do not strike head-on.  Needle arrows are AP 3, have the *Piercing* tag, and gain +25m to each range increment.  If the attacker only scores a normal success, their DV is halved.  Needle arrows are Cost: Minor for 8.
 - **Blunts**: *blunt* arrows are designed to *stun* a target, rather than kill it.  Rather than being sharpened to a point, blunt arrows are… blunted.  Some are even covered with hide, wadding, or another soft material.  (Of course, users should be aware that any time you're causing trauma to a target, serious injury and death are always possibilities.)  Blunt arrows halve the DV they do and are AP 0.  Blunt arrows are Cost: Minor for 6.
-- **Rush**: the heads of *rush* arrows are magical; they induce air to flow quickly over their thin blades or wings.  If an arrow where to be activated and held, this would produce a steady, strong breeze; when activated in flight, this propels the arrow powerfully forward.  (This effect only lasts for a few seconds—long enough to be useful when fired at a target)  This allows these arrows to travel great distances and strike with extreme force; the fragility of the magical arrowhead somewhat limits their damage and armor-penetration, but the great speed at impact largely makes up for this.  Rush arrows add +10m/+25m/+40m/+50m to each range bracket, +2 DV, but -1 AP (that is, they are worse at penetrating armor).  One Rush arrow is Cost: Minor.
+- **Rush**: the heads of *rush* arrows are magical; they induce air to flow quickly over their thin blades or wings.  If an arrow where to be activated and held, this would produce a steady, strong breeze; when activated in flight, this propels the arrow powerfully forward.  (This effect only lasts for a few seconds — long enough to be useful when fired at a target)  This allows these arrows to travel great distances and strike with extreme force; the fragility of the magical arrowhead somewhat limits their damage and armor-penetration, but the great speed at impact largely makes up for this.  Rush arrows add +10m/+25m/+40m/+50m to each range bracket, +2 DV, but -1 AP (that is, they are worse at penetrating armor).  One Rush arrow is Cost: Minor.
 
 As always, this list is not exhaustive; players and GMs should feel free to add more as desired.
 
@@ -1243,7 +1243,7 @@ As always, this list is not exhaustive; players and GMs should feel free to add 
 As-written, these arrows can't be used with crossbows, because we assume that that crossbow bolts have very different *terminal ballistics* that impose tighter constraints on how their bolt-heads can be designed and how differently they can perform.
 Basically, they travel faster and strike harder, so the heads probably have to be designed more similarly to punch through armor.
 
-Of course, "we" (meaning the lead author) could *very easily* be wrong about this—or ths might just be boring—so GMs and players should feel free to disregard this restriction.
+Of course, "we" (meaning the lead author) could *very easily* be wrong about this — or ths might just be boring — so GMs and players should feel free to disregard this restriction.
 
 </aside>
 
@@ -1319,7 +1319,7 @@ chamber with a hole tapped into it, and a socket to which a longer
 wooden grip is attached. The cannon is loaded by packing powder and a
 projectile down the barrel, and fired by holding a lit object up to the
 touch hole. Though a wide variety of projectiles can be used with
-hand-cannons—among them arrows and rocks—metal balls manufactured
+hand-cannons — among them arrows and rocks — metal balls manufactured
 specifically for the purpose have become common.
 
 Hand-cannons are heavy and awkward; while it is possible to hold it with
@@ -1392,7 +1392,7 @@ they are listed separately because they require more of a description than ladde
 
 This small glass vile contains a clear liquid.
 When shaken, it produces a bright light: it shines brightly enough that a character holding it can see clearly for 20m around them.
-Once it is lit, it will continue to shine brightly for 20 minutes, and then dimly for 20 minutes thereafter—although shaking it again will cause it to begin shining brightly once more.
+Once it is lit, it will continue to shine brightly for 20 minutes, and then dimly for 20 minutes thereafter — although shaking it again will cause it to begin shining brightly once more.
 
 ### Moderate
 
@@ -1476,10 +1476,10 @@ Chandra can attack with it using either the One-Handed Weapons or Unarmed skills
 
 The Bronze Arm is an excellent item; it makes Chandra much better at his chosen role (an extreme-durability melee powerhouse) while it also helps underscores many of Chandra's themes (his wealth and nobility, his long experience on the battlefield, and his incredible durability).
 
-Chandra's player specifically wanted the arm to be useful as a weapon in combat—he very specifically wanted to be able to parry with it; though it may seem like an afterthought, the fact that *Chandra is always considered armed, and can even parry with it* is perhaps the most important line of the description.
+Chandra's player specifically wanted the arm to be useful as a weapon in combat — he very specifically wanted to be able to parry with it; though it may seem like an afterthought, the fact that *Chandra is always considered armed, and can even parry with it* is perhaps the most important line of the description.
 
 Chandra's player wanted to be able to shock people with the arm.
-His GM was concerned that adding a shock effect to any melee damage Chandra did was too powerful—and besides, as an action, it should be a power.
+His GM was concerned that adding a shock effect to any melee damage Chandra did was too powerful — and besides, as an action, it should be a power.
 
 Perhaps surprisingly, the bonus DUR, STR and AV was the GM's idea, offered as a compromise after moving the shock effect to a separate power.
 
@@ -1511,35 +1511,35 @@ Being struck with a tracker bolt (or a light bolt, for that matter) feels somewh
 
 The initial idea for Aryn's magical bow was that she would have unlimited ammo; as significant as this would be *in the world,* it is not mechanically useful, since we ordinarily do not track ammo anyway.
 
-The *light* and *track* bolt-modes where added to underscore Aryn's role as a hunter—and in particular to be useful while delving into deep caves to fight the Leapers.
+The *light* and *track* bolt-modes where added to underscore Aryn's role as a hunter — and in particular to be useful while delving into deep caves to fight the Leapers.
 
 Aryn's player often requests a multi-shot power for the bow; some approve it, and some don't.
-(Neither answer is correct—it's up to each GM.)
+(Neither answer is correct — it's up to each GM.)
 
 </aside>
 
 #### Flashback Anchor
 
-A magical device integrated into a vest Notebook wears, the Flashback Anchor allows her a chance to "flashback" from a jump—which allows her to attempt much more risky jumps than she otherwise could.
-To be most effective, the device must be activated *before* a jump finishes to be effective—which is something of a problem.
-When Notebook jumps, she experiences a blur of motion scarcely longer than a blink before appearing at her destination—she has that much time (and that much information about her destination) to decide if she needs to revert a jump.
+A magical device integrated into a vest Notebook wears, the Flashback Anchor allows her a chance to "flashback" from a jump — which allows her to attempt much more risky jumps than she otherwise could.
+To be most effective, the device must be activated *before* a jump finishes to be effective — which is something of a problem.
+When Notebook jumps, she experiences a blur of motion scarcely longer than a blink before appearing at her destination — she has that much time (and that much information about her destination) to decide if she needs to revert a jump.
 Still, much like tripping off a bridge, a second to react and a chance to save herself is much better than nothing at all.
 
 If the result of teleporting would injure or kill Notebook (or if she otherwise decides to revert a jump), she can roll COO+COO+INT; this represents both her ability to quickly perceive how her jump is going to end and to activate the Anchor.
 If she succeeds, she successfully activates the Anchor, and reappears where her jump began, as though nothing had happened.
-(If she is in initiative order, an appropriate action is still used—it still requires a Standard Action to use her Long Jump power, even if she decided to revert it.)
+(If she is in initiative order, an appropriate action is still used — it still requires a Standard Action to use her Long Jump power, even if she decided to revert it.)
 
-Even if she fails to activate the device, it still provides *some* protection: if Notebook arrives only partly in a solid object—or in some similar condition—the device will attempt to "eject" her from the obstruction, causing her to arrive next to it (if there is room).
-This process is jarring—Notebook experiences a violent impact, like falling off roof: she takes 1d10 DV, and her armor does not apply.
+Even if she fails to activate the device, it still provides *some* protection: if Notebook arrives only partly in a solid object — or in some similar condition — the device will attempt to "eject" her from the obstruction, causing her to arrive next to it (if there is room).
+This process is jarring — Notebook experiences a violent impact, like falling off roof: she takes 1d10 DV, and her armor does not apply.
 
 <aside class="gmguidance">
 
 #### Designing the Flashback Anchor
 
-The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often—but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.
+The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often — but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.
 
 The Flashback Anchor gives Notebook an extra layer of protection when teleporting.
-It doesn't guarantee her safety—since then she could "brute force" any building within range by teleporting at it over and over again—but it does give her a fighting chance if a jump goes wrong.
+It doesn't guarantee her safety — since then she could "brute force" any building within range by teleporting at it over and over again — but it does give her a fighting chance if a jump goes wrong.
 
 The design of the Flashback Anchor reflects the peculiar flair for danger and tough consequences of the GM that first approved it; other GM's might allow a similar device to completely and automatically save Notebook, but place some other limit on it (like a number of charges, for example, or a "cooldown time" after a failed jump).
 
@@ -1550,9 +1550,9 @@ The design of the Flashback Anchor reflects the peculiar flair for danger and to
 ### Chrystal (Drug, Minor)
 
 *Chrystal* is a fairly literal name; it has a complex chemical production process, and the substance that results is solid and clear, somewhat like glass or chrystal.
-Chrystal can be ingested in various ways; when taken, it makes the user far more energetic—perhaps dangerously so—an can cause them to fixate on certain tasks.
+Chrystal can be ingested in various ways; when taken, it makes the user far more energetic — perhaps dangerously so — an can cause them to fixate on certain tasks.
 
-Chrystal is illegal in much of the Commonwealth and most of the Kingdoms of Men—although it is still widely available in these areas.
+Chrystal is illegal in much of the Commonwealth and most of the Kingdoms of Men — although it is still widely available in these areas.
 
 - +3 INIT
 - -5 INT
@@ -1594,7 +1594,7 @@ These more powerful, magical healing potions cause those who drink them to heal 
 
 ### Monster (Potion, Moderate)
 
-These magical potions make the user significantly more physically powerful—although they also cause alarming personality changes, making the user more aggressive and prone to violence.
+These magical potions make the user significantly more physically powerful — although they also cause alarming personality changes, making the user more aggressive and prone to violence.
 
 - \+10 DUR, \+10 STR
 - \-5 SAV, \-5 INT
@@ -1624,7 +1624,7 @@ Some herbs can be steeped into a tea or solution; when ingested, they dull a cha
 #### Oil Grenades
 
 Sometimes a wick or rag is stuffed into the neck of a container of oil and lit; it is then possible to use the container of oil as a *bomg* or *grenade*.
-(Of course, this requires that the container is fragile enough to shatter when thrown—which most ceramic or glass containers are.)
+(Of course, this requires that the container is fragile enough to shatter when thrown — which most ceramic or glass containers are.)
 
 - Attack: Thrown Weapon, 2m splash
   - The splashed area (and any objects in it) is covered in burning *oil* (as above).
@@ -1634,7 +1634,7 @@ Sometimes a wick or rag is stuffed into the neck of a container of oil and lit; 
 | So, there's a description for an "oil grenade", but not rules for making or acquiring it.
 | How do you get an oil grenade?
 |
-| The idea is that turning a canister of oil into an "oil grenade" is a trivial process—if you have a dose of oil, you can just stuff a rag into it, light it and throw it.
+| The idea is that turning a canister of oil into an "oil grenade" is a trivial process — if you have a dose of oil, you can just stuff a rag into it, light it and throw it.
 | The same logic applies to the *scour* and *tar* chemicals, below.
 
 ### Scour (Chemical)
@@ -1651,7 +1651,7 @@ For this very reason, it is sometimes used as a (particularly cruel and terrible
 - If ingested, Scour is lethal;
   - it deals 3D10 DV per turn until the character dies.
   - Fortunately, it is visually distinct (being a thick, pale, greenish paste), and the taste is obvious (and *horrible*).
-- There are a few substances that *Scour* won't dissolve—among them glass and pottery.
+- There are a few substances that *Scour* won't dissolve — among them glass and pottery.
 - **Tags**: Chemical, Caustic, Poison
 - **Cost**: \[Moderate\]
 
@@ -1716,8 +1716,8 @@ Tar is often prepared in a glass or clay container with a lit wick, creating a d
 *Skill Kits* and *Shops* contain the tools and materials that characters use to practice a given trade, profession or skill; depending on the skill they're purchased for, they could include everything from a tent, a backpack, and flint to a legal books, paper, pen, and ink.
 
 Skill kits, as the name implies, are smaller *kits*; they usually contain just the essentials, and are small enough to be portable (without the *Heavy* tag).
-Shops are more extensive facilities—they represent officies, smithies, and libraries.
-They contain far more equipment and resources, but aren't portable—they're large enough to fill a large room at least.
+Shops are more extensive facilities — they represent officies, smithies, and libraries.
+They contain far more equipment and resources, but aren't portable — they're large enough to fill a large room at least.
 Shops provide a +10 bonus to checks made with the linked skill.
 
 Skill kits and shops are associated with a specific skill, like *Survival* or *Profession: Lawyer*; we call that the *linked skill*.
@@ -1740,7 +1740,7 @@ First, the GM decides if the item is a *common* tool, resource or supply for a g
 
 If the resource the player is after is *common*, then the 'kit or shop simply has that item; this is at the GM's discretion, but GMs are encouraged to be generous.
 For example, if a Character had a skill kit for their Profession: Lawyer, then, if they need paper, pen or ink, they could easily find those resources.
-If the character lives in the Dragonshire, then it would certainly also have books on the law of the Dragonshire; it would probably be reasonable to assume that the kit also has books that cover the basic laws and customs of the territories around the Dragonshire—like Northland and Heartland provinces, and the Kingdoms of Men.
+If the character lives in the Dragonshire, then it would certainly also have books on the law of the Dragonshire; it would probably be reasonable to assume that the kit also has books that cover the basic laws and customs of the territories around the Dragonshire — like Northland and Heartland provinces, and the Kingdoms of Men.
 
 If the the character is after is *possible*, then they can roll a check using the linked skill; if they succeed, then the 'kit or shop had that item.
 
@@ -1753,7 +1753,7 @@ Ordinarily, this is a Task Action with a one hour time-frame, and requires a sim
 The check determines how well-stocked the kit is; a failure implies a -10 penalty for checks to locate *possible* items.
 
 Shops are large enough that they can't be carried by a character, but that doesn't mean that they can't be moved *at all*.
-Some vehicles are large enough to contain shops; the wagons that make up Halfling trade-caravans, for example, are large enough to carry shops—if only just.
+Some vehicles are large enough to contain shops; the wagons that make up Halfling trade-caravans, for example, are large enough to carry shops — if only just.
 Some large ships can also carry shops.
 
 ## Creating Items
@@ -1761,11 +1761,11 @@ Some large ships can also carry shops.
 Characters can use their Craft skills to create items directly.
 This requires an appropriate *skill kit* or *shop*, raw materials, and at least *basic proficiency* in the craft skill to be used.
 
-Normally, only a Simple Check is called for; a skilled blacksmith can make a spike, plow, or batch of nails without much chance of failure—although the time required or quality of work might vary.
-Of course, a (normal) check can be called for under circumstances where failure is likely—such as when using improvised tools, or when rushing the job.
+Normally, only a Simple Check is called for; a skilled blacksmith can make a spike, plow, or batch of nails without much chance of failure — although the time required or quality of work might vary.
+Of course, a (normal) check can be called for under circumstances where failure is likely — such as when using improvised tools, or when rushing the job.
 
 Normally, for Trivial, Minor, and Moderate items, we do not track raw materials; we assume that if you have a skill kit or shop, you have the resources that you need.
-At the GM's discretion, Major and Extreme items may have special resource requirements—in particular, securing the resources to craft an Extreme item might be an adventure unto itself.
+At the GM's discretion, Major and Extreme items may have special resource requirements — in particular, securing the resources to craft an Extreme item might be an adventure unto itself.
 
 The time required to craft an item is at the GM's discretion, but we provide the following guidelines:
 
@@ -1787,7 +1787,7 @@ We haven't stated any limits to what your character knows, so they know how to m
 This system is designed to be light-weight, and to allow *Crafter* characters to make a large impact on the game with minimal "drag"—if you've noticed that, taken together, this means that a party with a competent chemist can, for example, have basically as many jars of *Tar* as they want, then you're correct!
 That's the reward for having a character who invested in chemistry.
 
-Of course, that's not appropriate for all groups; some players might want a little more guidance on what's possible, or prefer a deeper system—and, conversely, some GM's might want to put more limits on what their crafters are capable of.
+Of course, that's not appropriate for all groups; some players might want a little more guidance on what's possible, or prefer a deeper system — and, conversely, some GM's might want to put more limits on what their crafters are capable of.
 If you fall into either of those categories, consider the rules in *Advanced Crafting* in *Alternate Rules*.
 
 </aside>

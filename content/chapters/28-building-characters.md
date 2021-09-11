@@ -49,7 +49,7 @@ If your character is **good at Combat**:
 ### A Busy Weekend for General Chandra
 
 > Chandra hauled himself up to the soldier standing watch at the fort's gate.
-> "I am General Chandra," he said—and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, out of uniform, and far from his home.
+> "I am General Chandra," he said — and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, out of uniform, and far from his home.
 > "I and my companions liberated a slave-camp three *demarc* over the border; they are encamped five *demarc* southeast from here, on the other side of the river, waiting for help to ferry the slaves across.
 > You are to organize a patrol, secure boats, and see them safely here."
 >
@@ -92,10 +92,10 @@ Some types of Analysts will be more useful to some types of games than others; w
 River (a lawyer, expert in law and history) might come to dominate an intrigue game set in the Kingdoms of Men, but he might also be of little or no use in an exploration game set on an island hundreds or thousands of *demarc* out to sea.
 
 If you're building a character for a one-off game, it's easy to match their expertise to the situation; if you're building a character for a persistent group, that's likely to go on different adventures in different places, it can be trickier.
-While the *Scholar* and *Jack of All Trades* classes can help, no one Analyst could ever possibly cover all—or even most—of the areas of knowledge that a group might require.
+While the *Scholar* and *Jack of All Trades* classes can help, no one Analyst could ever possibly cover all — or even most — of the areas of knowledge that a group might require.
 
 Practically, its important to make sure that every character picks up at least a few ranks in the Knowledge skills that represent their ares of expertise.
-(Since you'll have supporting skills — like Research—that many of other characters won't, your skills as an Analyst will still be essential.)
+(Since you'll have supporting skills — like Research — that many of other characters won't, your skills as an Analyst will still be essential.)
 
 ### Building an Analyst
 
@@ -120,11 +120,11 @@ If your character is **great at Analysis**:
 - Optionally: a *skill kit* or *shop*.
   - A *skill kit* might contain the tools specific to your area of expertise, while a *shop* might include a library, an office, quills, paper, or a space for tutoriing.
   - A Profession: Scholar skill kit is a workable way to "cheat" and get a flexible kit that includes "you know, probably papers, pens, and some reference books."
-  - You should definitely take a *Skill Kit* or *Shop* if you don't take the *Member* class—because your character has to have their papers and notes *somewhere*, and if they're not a *Member* of a of some organization, they have to provide it themselves.
-  - You might want to take a *Skill Kit* or *Shop* even if you *are* a *Member* of an organization, so that you aren't *dependant* on that organization for support—which is especially important if you're a *travelling* scholar who might find themselves far away from the college that they're a member of.
+  - You should definitely take a *Skill Kit* or *Shop* if you don't take the *Member* class — because your character has to have their papers and notes *somewhere*, and if they're not a *Member* of a of some organization, they have to provide it themselves.
+  - You might want to take a *Skill Kit* or *Shop* even if you *are* a *Member* of an organization, so that you aren't *dependant* on that organization for support — which is especially important if you're a *travelling* scholar who might find themselves far away from the college that they're a member of.
 - Optionally: Profession: Scholar at 50 or more.
   - This is *in addition* to your two-or-more *other* knowledge skills at 70 or more.
-  - Profession: Scholar is useful if your character makes their living as a scholar—by tutoring students, lecturing, conducting research, and corresponding with other scholars.
+  - Profession: Scholar is useful if your character makes their living as a scholar — by tutoring students, lecturing, conducting research, and corresponding with other scholars.
 
 If your character is **good at Analysis**:
 
@@ -150,7 +150,7 @@ Over the course of an adventure, the party will have question.
 
 Your job, as an analyst, is to provide this kind of information, and your knowledge skills (and the *Scholar* and *Jack-of-all-Trades* classes) are the tools that you'll use to do this.
 
-Sometimes, the GM will tell you things that you just *know*, without requiring you to explicitly ask a question or roll a check; after all, if a character has *basic competence* in a skill—that is, 10 ranks in a skill—then they have access to *common knowledge* associated with that skill.
+Sometimes, the GM will tell you things that you just *know*, without requiring you to explicitly ask a question or roll a check; after all, if a character has *basic competence* in a skill — that is, 10 ranks in a skill — then they have access to *common knowledge* associated with that skill.
 
 Other times, however, you'll need to *actively* ask the GM questions, and actively roll checks to find out what your character knows; always keep in mind that your character might know more about a given subject than the GM told you up-front.
 The GM might not even tell you that you *can* roll a check or *might* know more; this means that you need to be fairly active.
@@ -176,20 +176,20 @@ Being an analyst is likely to involve time in libraries, labs, and workshops.
 
 Analysts need someone to provide them with clues and information to *analyse*: they depend on *Infiltrators* to get into interesting places and get out with interesting things; on *Socialites* to use their social skills to get information out of people; and on *Provisioners* to buy, bribe, or extort secrets and treasures that can't be acquired any other way.
 
-Analysts also often need resources—access to libraries, workshops and laboratories.
+Analysts also often need resources — access to libraries, workshops and laboratories.
 They might depend on a *Provisioner* to get them these resources.
 
-And, of course, once an *Analyst* has a strong hypothesis or workable plan, they might need a "doer" to carry it out; this might be an *Infiltrator* quietly stealing a hidden treasure or dispatching a troublesome noble, a *Socialite* running a smear campaign or blackmailing a noble, or—last, but by no means least—a *Combatant* sorting an enemy out.
+And, of course, once an *Analyst* has a strong hypothesis or workable plan, they might need a "doer" to carry it out; this might be an *Infiltrator* quietly stealing a hidden treasure or dispatching a troublesome noble, a *Socialite* running a smear campaign or blackmailing a noble, or — last, but by no means least — a *Combatant* sorting an enemy out.
 
 ### Combining Analysts with Other Roles
 
 Characters with high COG might be likely to take *Craft* and *Profession* skills, and serve the party as *provisioners* as well as *Analysts*.
 It also makes sense that someone with Knowledge: Natural Philosophy might have a few ranks in Craft: Chemistry and Profession: Chemist, or that someone with lots of ranks in Knowledge: Military Tactics might have ranks in Profession: Soldier and Craft: Armorer.
 
-Characters who want to emphasize the social aspects of scholarship—who might be faculty at a university, for example, or famous authors of textbooks and tracts—could also purchase ranks in social skills and serve the party as a secondary social character.
+Characters who want to emphasize the social aspects of scholarship — who might be faculty at a university, for example, or famous authors of textbooks and tracts — could also purchase ranks in social skills and serve the party as a secondary social character.
 Protocol is an especially logical choice here.
 
-Characters who really want to lean into a *Provisioner* role might also purchase a high Wealth score; this makes some sense, as scholars can be well paid—and because it's often the wealthy who can afford to become a scholar in the first place.
+Characters who really want to lean into a *Provisioner* role might also purchase a high Wealth score; this makes some sense, as scholars can be well paid — and because it's often the wealthy who can afford to become a scholar in the first place.
 
 All of these ideas could be combined: an *Analyst* character with *Protocol* at 60, some social and craft skills in the 50's, and wealth at least 4 could be a powerful Provisioner as well as an analyst.
 
@@ -202,7 +202,7 @@ The concept could be taken further bu purchasing ranks in Infiltration-related s
 Some of fictions' famous detectives where notable as much for their ability to extract information from suspects as their esoteric knowledge or problem-solving skills; mixing knowledge and social skills is another way to create an Analyst character that can, in some situations, procure their own clues.
 
 There are two practical risks to this kind of detective character.
-One is that it might be *too* atomic and self-contained—one of the Analyst's major external dependencies is the Infiltrator, who they depend on to provide them with clues and information.
+One is that it might be *too* atomic and self-contained — one of the Analyst's major external dependencies is the Infiltrator, who they depend on to provide them with clues and information.
 If the Investigator and Analyst are the same person, they might vanish into a solipsistic adventure that barely involves the rest of the party.
 Another is that it presents a significant risk if an infiltration fails and the character is captured (or killed): the party's "knowledge assets" will have fallen into enemy hands (or been destroyed).
 
@@ -305,7 +305,7 @@ There are several questions to answer when deciding on your healer's concept:
 - What kind of healer are they?
   - A formally trained doctor, with a formal education and professional practice?
   - Are they a *medic* in the Commonwealth military, who may be used to chaos and violence, and who may have combat skills and a military rank?
-  - A local healer—a village elder trusted to patch the wounded up, despite having little or no actual training or formal education?
+  - A local healer — a village elder trusted to patch the wounded up, despite having little or no actual training or formal education?
   - A worker of magic, who uses *sleights* or *powers* to heal the injured?
   - A priest, cleric, or elder, someone who provides care and emotional support more than they perform surgeries?
 - What kind of *healing* do you provide?
@@ -464,7 +464,7 @@ Binding a wound is time-consuming: it has a base time-frame of 10 minutes, and i
 
 It's vitally important to note that you can *only attempt to bind a wound once*: if you fail, the player will simply have to suffer that wound until they heal *naturally*.
 For that reason, it's important to make your *best effort* to bind a wound: making a test at a 50 or 60 may not seem so bad at first, but the character you're healing may not appreciate being stuck with half their wounds.
-You should get the best target you can: *take your time*, get *assists*, use (for example) the Bedside Manner class to claim related skills, and scrounge around for any other boost you can find—because you won't get a second chance.
+You should get the best target you can: *take your time*, get *assists*, use (for example) the Bedside Manner class to claim related skills, and scrounge around for any other boost you can find — because you won't get a second chance.
 
 After you've attempted to bind an injured character's wounds, there's not much more you can do, besides provide *long-term care* and keep a patient dosed with *healing potions*.
 (Note that healing potions merely speed natural healing; they are *not* a short-term healing mechanism.)

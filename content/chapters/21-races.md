@@ -50,16 +50,16 @@ Most of these races take pride in belonging to one or both of the following grou
         history before his kingdom. Karrach need a *people*.
 
   - Karrach, aided by the dragons who answered his call, began a search
-    for a powerful spirit willing to provide him a great boon—for a
+    for a powerful spirit willing to provide him a great boon — for a
     great price.
     
       - Ultimately, a spirit contacted him; it variably identified itself as *the Bulrush God*, *the Rainstorm Shepherd* and *the Osprey’s Father*, and it dwelt within the southern reaches of the Dragonshire.
       - The spirit’s actual basin remains unknown, as does the extent of
         its powers; they are certainly great, given what it did.
       - It gave Karrach and his followers instructions for creating holy
-        sites—only the precious first few of which it has actually
-        blessed—and a ritual they could perform there. The ritual would
-        convert a dragon’s egg into a drake’s egg—drakes being creatures
+        sites — only the precious first few of which it has actually
+        blessed — and a ritual they could perform there. The ritual would
+        convert a dragon’s egg into a drake’s egg — drakes being creatures
         of dragon’s blood and kind, but smaller, less mighty and far
         more fertile.
       - The price the Bulrush God demanded was perhaps surprisingly
@@ -76,7 +76,7 @@ Most of these races take pride in belonging to one or both of the following grou
         neither its actual basin nor the true extent of its powers nor
         its ultimate goals.
       - The Bulrush God answers very few supplicants; it is not known
-        what draws it. No bind for it is known—unsurprisingly, for a
+        what draws it. No bind for it is known — unsurprisingly, for a
         spirit of its power.
       - Conversely, the Bulrush God interferes little in the affairs of
         mortals and lesser spirits. Particularly, it has never used its
@@ -95,10 +95,10 @@ Most of these races take pride in belonging to one or both of the following grou
       - Though Drakes can nominally be broken into clans based on their
         lineage, their family trees where often rendered *complex* by
         feudal politics; for some, their clan and heritage are important
-        parts of who they are; other drakes care little—or may not even
+        parts of who they are; other drakes care little — or may not even
         know their ancestry at all.
       - Many Drake clans (or smaller noble families) claim noble titles
-        and land-holdings—at least in principle.
+        and land-holdings — at least in principle.
 
   - In the early days of the Dragonshire, when they were a feudal
     territory (and most of the feudal lords were dragons), Drakes tended
@@ -187,7 +187,7 @@ Dragons have a wide variety of modes of motion, and you have inherited one of th
 
 #### Optional Power: Breath Weapon
     
-You have inherited the ability to breathe fire—or some other dangerous substance.
+You have inherited the ability to breathe fire — or some other dangerous substance.
 
 - **Effect**:  You gain one of the following effects, depending on the power’s *type*:
   - Chemical: you can spit a toxic spray.
@@ -338,7 +338,7 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
         constructed by Dwarves and Kobolds.
       - Ash Elven culture is open, egalitarian and libertine; guests are
         welcome and well-treated, and they tend to get along well with
-        their neighbors—especially dwarves and kobolds.
+        their neighbors — especially dwarves and kobolds.
       - They are particularly known for the joyous celebrations that
         mark their holidays, in which their cities are brightly
         decorated and travelers and neighbors are welcome.
@@ -425,7 +425,7 @@ Gnolls are roughly humanoid in gross layout, but they have hyena-like features:
 their head and feet are much like a hyena's;
 they are covered in short, ochre fur much like a hyena's;
 and they have a hyena's short tail.
-Gnolls are also much larger and stronger than most other races—Drakes are perhaps the only common race that can exceed them.
+Gnolls are also much larger and stronger than most other races — Drakes are perhaps the only common race that can exceed them.
 Notably, Gnolls display less sex dimorphism than most other races do; as a result, Gnollish cultures tend to place less importance on an individual's sex.
 
 Gnolls where one of the three races that cooperated under the auspices of the Old Charter to create the growing, prosperous culture of towns, manors and cities that would eventually become the Commonwealth.
@@ -502,7 +502,7 @@ Continuing a way of life that stretches back more than 700 years, you travel wit
 
 #### Optional Neutral Trait: Cold-Adapted
 
-Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold—although you suffer somewhat in warmer lands.
+Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold — although you suffer somewhat in warmer lands.
 
 - You gain Resistance: Cold and Vulnerability: Heat.
 
@@ -615,7 +615,7 @@ Though the blood of Dragons is thin in Kobolds, it does sometimes manifest itsel
 
 #### Optional Trait: Dragon’s Bite
 
-Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire—or some other elemental type.
+Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire — or some other elemental type.
 
 - **Effect**: The character gain the following *natural weapons*:
   - Bite:
@@ -752,7 +752,7 @@ Explorers from the Commonwealth first contacted them more than six hundred years
 
 Despite being open and sociable, their extremely long lives and alien natures made them slow to seek closer alliance with others races and nations.
 They have long suffered from attacks from the *Leapers*, who seem to be attempting to exterminate them.
-When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy—although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
+When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy — although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
 More recently, as large number of Kobolds have settled in the Commonwealth, the Clay Men have also begun to contact and trade with these (relatively) shallow-dug creatures.
 
 As the Commonwealth prospered, as they expanded and explored further and further underground, and as they made major strides against the Leapers and their vassals, the Clay Men came to view them both more as an enlightened nation in which the Clay Men might be welcomed and respected despite their extreme differences, and as vital military allies against their mutual and deadly foes.
@@ -803,7 +803,7 @@ Clay Men cannot copy their entire, living minds into a reservoir, but they can p
 Unsurprisingly, many "Clay" communities center around the care (and defence) of these reservoirs, and the cultivation of useful skills and knowledge within.
 
 This gives many Clay Men a unique outlook.
-The reservoir gives them a measure of immortality—beyond even that provided by the fact that they do not age.
+The reservoir gives them a measure of immortality — beyond even that provided by the fact that they do not age.
 It also allows them to modify their minds in a way that few other races can; they can quite literally retrieve bits of knowledge or even personality from the reservoir, to suppliment or replace their own.
 For this reason, some Clay Men are disposed to think of themselves as much as realizations of some of the minds stored with their reservoir as individuals themselves.
 
@@ -815,7 +815,7 @@ Recently, some Clay Men have experimented with developing a bony "rigging" inter
 Since they are not dependant on wide, cultivated fields, and since they do not age or die naturally, their communites tend to be small, and to grow very slowly if they grow at all.
 Their communities are also heavily fortified and defended, to resist the Leapers.
 
-Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies—which most other races cannot hear or produce.
+Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies — which most other races cannot hear or produce.
 
 #### Commonwealth Integration
 
@@ -860,7 +860,7 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
 - *No Bones*: Lacking a skeletal structure, Clay Men cannot take advantage of *leverage*; this severely reduces their ability to deploy their strength.
   - Their DB is 0.
   - They suffer a -30 penalty on checks where *leverage* would be required.
-- *Blind*: Clay Men have most of the senses that other races do—taste, touch, smell and hearing—but they are *blind*.
+- *Blind*: Clay Men have most of the senses that other races do — taste, touch, smell and hearing — but they are *blind*.
 - *Acute Hearing*: Clay men have an incredible sense of hearing, stemming from their abilit to use their entire surface to detect sound.
   They gain a +20 bonus to auditory perception checks, and can hear both very low and very high pitches of sound.
 - *Envelop*: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
@@ -905,7 +905,7 @@ Some Clay-Men have developed the ability to suffose all or part of themselves wi
   - This increases the damage that they deal to an *enveloped* creature or object to 1d10 DV per turn.
   - They can make all, part or none of themselves caustic; they can, for example, render only a small patch of their surface *caustic*.
   - This makes it easier for them to burrow, which improves the rate of the *Burrow* movement to 4/12.
-  - *Caustic* Clay Men can tunnel even through solid rock—although they are slowed to 2/6 when doing so.
+  - *Caustic* Clay Men can tunnel even through solid rock — although they are slowed to 2/6 when doing so.
 
 #### Optional Trait: Color-Changing
 
@@ -952,7 +952,7 @@ A few adventurous Commonwealth dwarves travelled west with the Commonwealth, whe
 #### Traditional Dwarven Culture
 
 Dwarves originate in the frozen north, where the low peaks and rolling foothills of the Worldspine Mountains give way to the coast, the ocean, and the forested plains to their east and west.
-Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine—many small Dwarven communities built on the surface still consist largely of bermed buildings.
+Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine — many small Dwarven communities built on the surface still consist largely of bermed buildings.
 As Dwarves began to urbanize, their earthen construction became larger and deeper; the development of sophisticated mining and masonry techniques allowed them to incorporate stone into their construction and to build underground, eventually producing the Dwarven clan-holds that were common when the Empire of Man first contacted them.
 
 Most modern Dwarven holds are large, wide, sturdy structures built of stone and earthwork; they are often dug shallowly, with substantial extent on the surface (as opposed to deeper-digging races like Kobolds, who often build entirely subterranean structures deep underground).
@@ -960,7 +960,7 @@ Dwarven Holds are often built in a ring around the base of a hill; more rarely, 
 They often feature large open spaces on the interior, which provide ventilation, and serve as public spaces or gardens.
 
 The old Dwarven culture of the North is centered around kin and custom.
-Most Dwarven holds will be controlled by a Clan, consisting of several families—though some large holds may be governed by several Clans, and some large and wealth Clans control multiple holds.
+Most Dwarven holds will be controlled by a Clan, consisting of several families — though some large holds may be governed by several Clans, and some large and wealth Clans control multiple holds.
 Rather than law and governance as such, holds tend to be run by custom and consensus; authority is typically held by the heads of families.
 Similarly, exchange is more often mediated by custom than currency, and there is a strong emphasis on caring for kin.
 
@@ -992,23 +992,23 @@ The fungus proved to have remarkable capabilities, and an entirely new Dwarven c
 This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
 The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
 
-Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures—what is commonly called psionic energy.
-What's more, the fungus can actually colonize the bodies of some other creatures—including Dwarves, whose physiology is highly compatible with it.
+Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures — what is commonly called psionic energy.
+What's more, the fungus can actually colonize the bodies of some other creatures — including Dwarves, whose physiology is highly compatible with it.
 Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
 The Mindsharing Fungus can "bridge" the minds of its hosts; this allows those hosts to exchange thoughts, experiences, knowledge, and even skills.
-These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in—although they cannot completely shut out the connection.
+These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in — although they cannot completely shut out the connection.
 
-Normally, this effect only works over short distances—hosts need to be within a few *strides* of each-other to bridge their minds.
-However, the effect can be "conducted" over greater distance by Mindsharing Fungus "plants" themselves—and these "plants" can be quite large, with many different surface growths connected by a vast rootwork.
-Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users—ranging from simple messages or discrete memories to fragments of personalities.
+Normally, this effect only works over short distances — hosts need to be within a few *strides* of each-other to bridge their minds.
+However, the effect can be "conducted" over greater distance by Mindsharing Fungus "plants" themselves — and these "plants" can be quite large, with many different surface growths connected by a vast rootwork.
+Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users — ranging from simple messages or discrete memories to fragments of personalities.
 
 A unique, highly communal culture has sprung up around the *Fahra*.
 The Mindsharing Dwarves tend to be radically open, honest and egalitarian.
-Even more than traditional Dwarves, they run their societies by consensus and memory—thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
-Members of Mindsharing communities will often share some personality traits—an individual's personality is never forcefully changed, as even Mindsharing Dwarves value their individuality, but rather occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
+Even more than traditional Dwarves, they run their societies by consensus and memory — thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
+Members of Mindsharing communities will often share some personality traits — an individual's personality is never forcefully changed, as even Mindsharing Dwarves value their individuality, but rather occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
 Some communities remain highly individualistic in their own way, where each member lives their own lives and pursues their own goals, merely using the *Fahra* to best live at peace with their neighbors; in other communities, however, members can begin to "vanish" into the collective.
 
-No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link—no matter how much they might try to stop it—and would "poison" all the other members.
+No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link — no matter how much they might try to stop it — and would "poison" all the other members.
 Still, there are those that fear them.
 
 Most Mindsharing Dwarves live in the Haven Isles.
@@ -1022,9 +1022,9 @@ Independent and individualistic, they where not among the holds that joined the 
 In CY 514, a community of Dwarves from the Haven Isles settled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to culture and experiment with the symbiotic organism.
 
 The fiercely individualistic *Lun* where horrified; they feared what their new neighbors might become, and were particularly alarmed that their hold was in a position to close off the *Lun*'s path out of the Worldspine Mountains.
-The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
+The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface — their former settlements where now little more than heavily-fortified trading-posts.
 
-Today, little is known about the Deep-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
+Today, little is known about the Deep-Explorer Dwarves — called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
 
 See also *Deep-Explorer Dwarves* in *Other Factions*.
 
@@ -1088,12 +1088,12 @@ Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rap
 
 #### Cultural Item: Day-Wrap
 
-Dwarves who cannot afford a Day-Mask—or who must do without one for some other reason—often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
+Dwarves who cannot afford a Day-Mask — or who must do without one for some other reason — often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
 \[Dwarven day-wraps are much like *shemaghs*.\]
 
 Some day-wraps may be woven in complex patterns or richly died; many Clans and Holds have specific patterns and colors.
 
-- When wearing a day-wrap—or improvising a similar covering—the penalty for exposure to bright light is reduced to -20.
+- When wearing a day-wrap — or improvising a similar covering — the penalty for exposure to bright light is reduced to -20.
 - Day-wraps work by shading the eyes from the sun; they are ineffective against lights at eye-level.
 - Day-Wraps are Cost: Trivial
 
@@ -1207,7 +1207,7 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
     libertine and indulgent in the pursuit of mortal pleasure (when they
     have the opportunity).
 
-  - As a result, they may appear to be humble, simple and rustic—until
+  - As a result, they may appear to be humble, simple and rustic — until
     evening descends, when the party drugs come out.
 
 #### Vitals
@@ -1253,17 +1253,17 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
     Halfling caravans to sell their produce.
 
   - In particular, Gnolls commonly travel with Halfling caravans,
-    providing security—and services like smithing, for which Halflings
+    providing security — and services like smithing, for which Halflings
     are poorly suited.
 
   - Caravans of Halfling traders and Gnollish guards knitted together
-    the early Commonwealth, and remain on of its most iconic elements—if
+    the early Commonwealth, and remain on of its most iconic elements — if
     distant kindgoms know nothing else about the Commonwealth, they know
     about the trade caravans, and might have been visited by one.
 
   - Halflings have not grown at the rate that the other races have
-    grown, and other forms of trade—notably mediated by ships sailing
-    along major rivers, and along the coasts—have eclipsed the Caravans
+    grown, and other forms of trade — notably mediated by ships sailing
+    along major rivers, and along the coasts — have eclipsed the Caravans
     in the ability to move goods. Because of this, the fortunes of
     Halflings have fallen somewhat.
 
@@ -1310,7 +1310,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
 
 ### Herders
 
-  - Herders are tall, thin and *roughly* humanoid—besides the layer of
+  - Herders are tall, thin and *roughly* humanoid — besides the layer of
     short fur, the large, deer-like eyes, the antlers and the hooves.
 
   - They are also *extremely* fast, and more than a little skittish.
@@ -1341,7 +1341,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     Emerald Plane.
     
       - Though they are a primitive tribal society, they cannot digest
-        meat efficiently, and so they practice agriculture—using inlets
+        meat efficiently, and so they practice agriculture — using inlets
         cut from rivers to irrigate grain fields and orchards. Check
         that this makes some sense.
       - They often hunt and trap, as much for the sake of pelt,
@@ -1349,7 +1349,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
       - Their settlements are often situated near rivers, and they farm
         and fish.
       - Many of their settlements are still walled, owing to the
-        continued risk of Shade Elf raids, even to the present day—and
+        continued risk of Shade Elf raids, even to the present day — and
         despite the heavy presence in the region of Commonwealth guards.
 
   - They are a traditional and somewhat insular people, and show little
@@ -1414,7 +1414,7 @@ They tend to be wary of outsiders, and are dangerous at range.
       - For conflicts within their society, they used a system of
         ritualized combat.
       - The period before contact with the Commonwealth represents a
-        golden age for the orcs, a period of wealth and power—and a time
+        golden age for the orcs, a period of wealth and power — and a time
         of misery for their neighbors.
 
   - Humans of the Old Empire avoided Orcish lands, using their
@@ -1476,7 +1476,7 @@ They tend to be wary of outsiders, and are dangerous at range.
       - Their views on the Commonwealth and their place within it are
         complex. Though they take pride in being members of an ascendant
         and prosperous people, they also remember how they came to be
-        members in it—the most traditional among their numbers claim
+        members in it — the most traditional among their numbers claim
         that they were conquered, and that they still bear the shame of
         it.
       - Honor continues to be highly valued in Orcish society. Though
@@ -1490,16 +1490,16 @@ They tend to be wary of outsiders, and are dangerous at range.
         farming).
       - Unsurprisingly, many Orcs seek honor and recognition in the
         Commonwealth military. Orcs are very strong, and so many seek
-        work as laborers and artisans—notably, Orcish cities boast
+        work as laborers and artisans — notably, Orcish cities boast
         impressive architecture. Orcs are also very clever, and some
         seek honor and achievement in the Commonwealth’s universities
         (Orcish scholars are generally not known for being nurturing and
         understanding mentors).
       - Notably, many Elvish communities exist near Orcish ones. Most
         orcs and elves have good relations, as they are both tribal
-        cultures and have long lived near each other—for most, their
+        cultures and have long lived near each other — for most, their
         time of conflict is centuries past and forgotten. Still, a few
-        of the most traditional—in both communities—continue to nurse
+        of the most traditional — in both communities — continue to nurse
         ancient grudges.
 
   - The Orcish people can claim 6 major cities: five are their
@@ -1722,7 +1722,7 @@ They are loosely confederated, amongst themselves and with Shade Elves.
     himself Spirits who could dwell within them.
 
   - Owing to their ability to root, Shambler communities lack cleared
-    fields and grazing-lands—they also tend to have an active night
+    fields and grazing-lands — they also tend to have an active night
     life.
 
   - Despite being the children of a Great Spirit associated with
@@ -1794,7 +1794,7 @@ Shape-shifting spirits; charming and suave, but also frail.
     - Assuming the form of a *specific* individual requires a Disguise check at +10.
     - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
     - Obviously, they can only mimic the features of a person that they know about.  If someone has a birthmark on their lower back, but the Shifter character has never seen that person naked, then they won't know to mimic that birthmark.  And, of course, if they've never seen a person, they cannot effectively mimic them.
-  - Normally, changing shape does not affect their statistics—but see the powers listed below.
+  - Normally, changing shape does not affect their statistics — but see the powers listed below.
 - *Mimics*: Tempters can also mimic the *speech* of any race whose shape they can take, and can mimic the voice of specific individuals.
   - Much like mimicing an individual's appearance, they still need to know what that person sounds like, and they will still need to use Disguise and Deception checks to actually impersonate someone.
 - *Basin*: Like other Spirits, Tempters have a Basin (see *The Supernatural*): the mental energies of other intelligent beings.
@@ -1805,7 +1805,7 @@ Like some Spirits, you have a *bind* (see *The Supernatural*).
 
 - **Effect:** You have a *Bind*.
   - You should work out the details of your bind with your GM; your GM has final approval.
-  - The bind should pose a real danger to you.  It must be known to at least one clerical organization in the area where you live—although it does not need to be *widely* known.
+  - The bind should pose a real danger to you.  It must be known to at least one clerical organization in the area where you live — although it does not need to be *widely* known.
 
 #### Optional Power: More than Form Alone
 
@@ -1840,7 +1840,7 @@ You have mastered your ability to change your shape, allowing you to push the li
 You have extensively developed your race's empathic talents, giving you a limited ability to sense and manipulate the emotions of others.
 
 - **Effect:** You gain the *Empath* sense.
-  - This sense has a limited range—roughly 10 meters, although you may be able to read intense emotion from further away.
+  - This sense has a limited range — roughly 10 meters, although you may be able to read intense emotion from further away.
   - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
   - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
@@ -1892,7 +1892,7 @@ In the past, these songs were entirely of their own creation, but in the modern 
       - The Haffa are the product of great fortune, magical intervention and selective breeding.
       - The origins of the Shifters are lost to history; perhaps obviously, they have been influenced by far more exotic forces than merely having a mix of elven and human blood.  (As such, Shifters are usually regarded as a separate race, and have their own entry.)
   - “First generation” elf-human hybrids often have no culture of their own; they are often born into an elven or human culture somewhere in the Commonwealth.
-      - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site—if not precisely common, since they usually cannot reproduce themselves.
+      - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site — if not precisely common, since they usually cannot reproduce themselves.
   - One of the few populations of non-sterile elf-human hybrids exists in the Kingdoms of Men: the Haffa.
 
 #### Vitals
@@ -2281,7 +2281,7 @@ In many tribes, the hatching of a "Lighted One" is taken as a portentious sign.
 
 #### Optional Trait: Cave swimmer
 
-Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming—even when they can't see.
+Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming — even when they can't see.
 
 - **Effect**:
   - The character gains a +10 bonus to checks to navigate.
@@ -2384,7 +2384,7 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
       - They are covered in dull, grey-brown fur, with a distinctive black “eye-mask” pattern on their faces and black rings around their bushy tails.
       - Washers move more naturally on all fours than they do upright; their arms and legs are unusually short and oddly-proportioned by humanoid standards.
       - Washers have extremely dexterous hands and feet, and they are very strong climbers.
-      - Washers have an extraordinary sense of touch in their hands—so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them—and more than a little unnerving when they manipulate fine objects without looking at them.
+      - Washers have an extraordinary sense of touch in their hands — so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them — and more than a little unnerving when they manipulate fine objects without looking at them.
   - Washers lived in a region in the east of the Raptor’s Plane, in the forests that bordered on the sandy, arid northeastern peninsula.
       - Tragically, that sandy, arid northeastern peninsula was the region first conquered by the Goblinoid Kings (and now ruled by the Goblin Empire).
       - Not long after discovering them, the Goblins attempted to make slaves of the Washers, highly valuing their tiny, dexterous hands; they quickly decided that the Washers’ temperament made them unsuitable for enslavement, and moved instead to eradicate them.
@@ -2417,7 +2417,7 @@ Bone Spiders are among the more unique races to set foot on the Emerald Plane.
 Bone Spiders are arranged somewhat like crabs or spiders, but much larger; they have a large central section about a meter across, from which six meter-long legs extend.
 They have a head section at one end; it is not articulated with a neck, but continuous with the body.
 Two arms extend from the front, from slightly below the head, one on either side of it.
-They have multiple eyes—two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
+They have multiple eyes — two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
 Bone Spiders have large bone plates covering their backs, underbellies and limbs.
 There are a half-dozen diamond-shaped plates on their back, which overlap at their edges a little like scale mail; the plates on their underbellies are segmented, arranged in strips.
 Bone Spiders are semi-aquatic; they have gills on their underbellies, and can breathe underwater, though they are not particularly good swimmers.

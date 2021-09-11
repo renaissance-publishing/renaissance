@@ -29,7 +29,7 @@ The Kingdoms of Men are a human nation that lies to the northeast of the Dragons
 |Mela Tenna is the current king of the Kingdom of Tennec; his throne is in Hate's Hold (below).
 |He is the most powerful Eastern King, and the de facto head of their movement.
 |
-|He has openly declared his hatred of all non-Humans—including the Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
+|He has openly declared his hatred of all non-Humans — including the Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
 |(He utterly loathes Kass Ahnaff, who he views as the greatest race-traitor in the Kingdoms.)
 |He has led a series of bloody purges of any remaining non-Humans in the Kingdom of Tenna; he promises similar purges in the entire Kingdoms of Men should he attain the Throne, to be followed by a war of annihilation on the Commonwealth.
 |
@@ -61,7 +61,7 @@ The Kingdoms of Men are a human nation that lies to the northeast of the Dragons
 |#### Major City: The First Throne
 |
 |Called Hanman in Royal (and Old Imperial), First Throne is one of the Three Cities that came together to found the Old Empire.
-|Though it is still a large and prosperous city—situated on the large River Hanem, it has always been a center of trade—it is no longer a center of power within the Kingdoms.
+|Though it is still a large and prosperous city — situated on the large River Hanem, it has always been a center of trade — it is no longer a center of power within the Kingdoms.
 |It has a population of 350,000.
 |
 |The name First Throne is not figurative: the first and oldest-known cities where founded by Humans; though Hanman is not one of these oldest cities, it is believed to be the first city to hold a *throne*—to develop a regional government.
@@ -74,7 +74,7 @@ The Kingdoms of Men are a human nation that lies to the northeast of the Dragons
 |#### Major City: Certa
 |
 |Certa is a city of 650,000; located roughly in the middle of the Kingdoms of Men, it is the center of the Certan Movement, an anti-monarchist movement.
-|Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 38 years later—62 years ago.
+|Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 38 years later — 62 years ago.
 |
 |The city is roughly circular; it is divided into pie-slice-shaped districts by prominent roads that run from the central administrative district to the outer wall.
 |The city is built with a distinctive, modern architectural style; the buildings are built high, supported by free-standing buttresses, and are decorated with wide windows and prominent artwork.
@@ -170,7 +170,7 @@ Players can
 * investigate assassinations,
 * blackmail nobles into supporting an alliance with the Commonwealth,
 * assassinate Eastern Kingdoms nobles themselves,
-* discover ancient family secrets—secret shames, ancient contracts, deals with powerful spirits, family curses,
+* discover ancient family secrets — secret shames, ancient contracts, deals with powerful spirits, family curses,
 * discredit hostile noble lines,
 * break up powerful alliances,
 
@@ -186,14 +186,14 @@ Though centered in the city of the same name, they have risen in power and prest
 
 The city of Certa was built on the site of a much older city, which was destroyed almost a century ago.
 The remains of that city where claimed by the nascent Certan movement, and its reconstruction began 62 years ago.
-Sitting at the center of the Kingdoms of Men, Certa is a crossroads; it has become a center of overland trade and travel in the Kingdoms, and has risen rapidly in wealth and prestige—though it does suffer somewhat from being several hundred *demarc* from the coast of the Glass Sea.
+Sitting at the center of the Kingdoms of Men, Certa is a crossroads; it has become a center of overland trade and travel in the Kingdoms, and has risen rapidly in wealth and prestige — though it does suffer somewhat from being several hundred *demarc* from the coast of the Glass Sea.
 
-Besides the city of Certa itself, they also control the surrounding territory—and they are expanding.
+Besides the city of Certa itself, they also control the surrounding territory — and they are expanding.
 So far, they have advanced to the south (toward the coast) and west (into the territory of the Western Kings), displacing local nobles as they go.
 
 The Certa are not a peaceful movement; not all of the nobles that they have displaced have survived.
-Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances—and others have obviously been assassinated.
-Though the Certanis have not yet been proven responsible, they have also not been particularly subtle—particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
+Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances — and others have obviously been assassinated.
+Though the Certanis have not yet been proven responsible, they have also not been particularly subtle — particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
 
 <aside class="hook">
 
@@ -201,20 +201,20 @@ Though the Certanis have not yet been proven responsible, they have also not bee
 
 The Certanis are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
 
-* The Certanis may began an open insurrection; this might provide the Goblin Kingdoms with an opportunity for attack, pull the Commonwealth into a war to defend their Western allies, or—if the Certanis and the West wound each other too badly—place the Eastern Kings in command of the Empire.
+* The Certanis may began an open insurrection; this might provide the Goblin Kingdoms with an opportunity for attack, pull the Commonwealth into a war to defend their Western allies, or — if the Certanis and the West wound each other too badly — place the Eastern Kings in command of the Empire.
 * A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
-* The Certans are a recent movement; the party may simply be dispatched to investigate them—to decide if they're a potential ally or a potential threat.
+* The Certans are a recent movement; the party may simply be dispatched to investigate them — to decide if they're a potential ally or a potential threat.
 * The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
 
 </aside>
 
 Though the Certanis are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
-Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners—can actually vote in elections for the *Chamber of Law*, or hold seats in it.
+Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners — can actually vote in elections for the *Chamber of Law*, or hold seats in it.
 (The *Chamber of Law* is the only house in the Republic that can actually make law; the *Chamber of the People* serves a purely advisory role.)
 
-The Certanis consider themselves natural allies to the Commonwealth—their movement was inspired by their powerful, peaceful and mercantile neighbor.
+The Certanis consider themselves natural allies to the Commonwealth — their movement was inspired by their powerful, peaceful and mercantile neighbor.
 Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certanis; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certanis and the Commonwealth somewhat fraught.
-What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility—even if they have largely surrendered power to representative governments.
+What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility — even if they have largely surrendered power to representative governments.
 
 <aside class="hook">
 
@@ -222,15 +222,15 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 
 Why *have* the Kings of the West been the Certani's main victims?
 Certainly one possibility is that they're weaker.
-Though the Kings of the West are often wealthier than those of the East, they are also often less militaristic and more mercantile—thus they're more vulnerable to insurrection.
+Though the Kings of the West are often wealthier than those of the East, they are also often less militaristic and more mercantile — thus they're more vulnerable to insurrection.
 
 Another possibility is that the Certanis are a cat's-paw; if so, who's agenda are they really serving?
 
 It might be the Kings of the East; they may using the Certanis to weaken and slay the Kings of the West, in a way that the Commonwealth will not rapidly intervene to stop.
-It might be the Goblin Kings, for much the same reason—this may be more likely, given that the Certanis are expanding rapidly towards the coast of the Glass Sea.
+It might be the Goblin Kings, for much the same reason — this may be more likely, given that the Certanis are expanding rapidly towards the coast of the Glass Sea.
 Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
 It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
-It might even be a Tempter—or a spirit like them—seeking power for themselves.
+It might even be a Tempter — or a spirit like them — seeking power for themselves.
 
 </aside>
 
@@ -240,8 +240,8 @@ It might even be a Tempter—or a spirit like them—seeking power for themselve
 
 GMs have a fair amount of leeway in how they depict Certa.
 
-They might be a cynical movement no better than the kings they're replacing—an *effectively* hereditary ruling class replacing a *directly* hereditary one.
-Or they might be a major positive step for the Empire, despite their flaws—a sincere republican movement that heralds the breaking up of royal power.
+They might be a cynical movement no better than the kings they're replacing — an *effectively* hereditary ruling class replacing a *directly* hereditary one.
+Or they might be a major positive step for the Empire, despite their flaws — a sincere republican movement that heralds the breaking up of royal power.
 
 Pick a Certa that fits the game you want to run!
 
@@ -253,12 +253,12 @@ The Kingdom of Haffa lies in the extreme northwest of the Kingdoms of Men; it sh
 Its current capital is called Ehnef in Royal, although it is sometimes referred to as nal'Haffa (literally "Haffa Capital"); it's called Grey-Blood's Weir in Common, named for a spill-over dam on a river immediately to the east that feeds the water-channels that supply the city with water.
 
 The Haffa are remarkable because they are one of the only large populations of half-breeds in the known world.
-Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor—they are often taller, heavier and stronger than either elves or humans—but they can also suffer from strange, sometimes terrible diseases—ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects.
+Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor — they are often taller, heavier and stronger than either elves or humans — but they can also suffer from strange, sometimes terrible diseases — ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects.
 They are also almost always sterile.
 
 The Haffa are one of only two stable, healthy and fertile populations of Elf-Human hybrids (the other being the Shifters).
-The Haffa maintain their health through selective breeding, special medicines, and magical intervention—the exact nature of which is not widely known outside of the Haffa royal line.
-(Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world—they are certainly among the best in the Kingdoms.)
+The Haffa maintain their health through selective breeding, special medicines, and magical intervention — the exact nature of which is not widely known outside of the Haffa royal line.
+(Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world — they are certainly among the best in the Kingdoms.)
 
 <aside class="hook">
 
@@ -268,7 +268,7 @@ The (secret) magical intervention that the Haffa use to ensure their health is a
 What is it?
 Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
 What spirit was it struck with, and what cost was demanded?
-Or is it on-going, some magical process that requires constant tending—and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
+Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
 
 </aside>
 
@@ -278,8 +278,8 @@ Conversely, they are despised by the Eastern Kings, who loathe them for their no
 Most recently, between CY 789 and CY 797, the Eastern Kingdoms deployed all their wealth and power to target Lords on the eastern border of the Haffa; after their finances crumbled, the Easterners purchased the Haffans' lands and holdings.
 What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally abused by their new, distant Eastern Lords
 As their circumstances became dire, the Haffan peasantry began to revolt; between CY 811 and 814, the Eastern Kings attempted to muster an army to suppress the revolts, but Ayl Ahnaff, Kass Ahnaff's granfather and the High King at the time, refused to raise the Kingdom's army or allow the Easterners to quarter in his territory.
-This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl—the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
-The incident secured the Haffa's loyalty to the Ahnaff line for generations—as well as their deep hatred of the Eastern Kings.
+This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl — the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
+The incident secured the Haffa's loyalty to the Ahnaff line for generations — as well as their deep hatred of the Eastern Kings.
 
 ## The Shaded Sea People
 
@@ -569,7 +569,7 @@ Farmers, in turn, work the terraced fields, and serve as craftsmen in rural sett
 
 The inclusion of the Iron-Worker Ratfolk in the Protectorate brought profitable trade, and with it chnage.
 The "tribute" that the Iron-Workers pay to the Terrace-Builders is minor, but profit from trade with them is significant; the Terrace-Builters also charge a tarrif on goods carried over the extensive network of roads that they maintain through the Raptor's Peaks at the center of the Ruby Plane.
-Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people—minus a portion claimed by the city-states themselves.
+Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people — minus a portion claimed by the city-states themselves.
 This means, in practice, that the city-states are well-funded, and that those doing corvee labor now receive a modest wage.
 
 To encourage profitable trade and useful craft, most Terrace-Builder city-states allow members of the Soldier and Farmer castes to purchase an exemption from certain corvee duties.
@@ -593,7 +593,7 @@ This, in turn, has allowed the Terrace-Builders to import a number of the innova
 |
 |*Eager, a Raptor who emigrated to the Commonwealth.*
 
-Much ancient Terrace-Builder construction used fieldstones, though most major construction in modern city-states is done using carefully dressed stone masonry—often limestone.
+Much ancient Terrace-Builder construction used fieldstones, though most major construction in modern city-states is done using carefully dressed stone masonry — often limestone.
 The use of brick construction is also common, especially for minor buildings and in villages outside of citystates; they are often face with mudbrick.
 Thatch is often used for roofing, and ornamentation is rare.
 
@@ -608,7 +608,7 @@ The sixth day begins with a short ritual meal, but is otherwise left to the citi
 
 Terrace-Builder Raptors have spent centuries riding herd over an empire consisting of diverse peoples; they tend to be very open, and they are welcoming to members of strange new races and cultures.
 Members of countless different races can be found in the prosperous markets of the Terrace-Builders' city-states.
-However, it is not easy for an outsider to find a permanent place in their culture: their caste system influences every part of their society, and it is not easy to operate among them without a caste affiliation (and an outsider—especially a non-raptor—cannot easily claim a caste).
+However, it is not easy for an outsider to find a permanent place in their culture: their caste system influences every part of their society, and it is not easy to operate among them without a caste affiliation (and an outsider — especially a non-raptor — cannot easily claim a caste).
 
 #### Iron-Worker Ratfolk
 
@@ -618,7 +618,7 @@ Their industry is one of the major drivers of the Protectorate economy; fish, cr
 They live throughout the northwest of the Ruby Plane, in large cities and small fishing villages.
 Iron-Worker Ratfolk commonly build homes and small buildings on stilts; this allows them to build in wet lowlands, sometimes even on the shore or in the water directly.
 Despite their expertise with iron, when they build near water, they frequently do not use metal nails; instead, they primarily use jointes and dowls, and replace parts of their homes as they weather.
-On drier ground, they build more traditional homes—timber-framed, well-braced, nailed together, and faced with stucco so that they can resist rain and weathering—although usually still constructed on stilts, in order to handle heavy rains and runoff.
+On drier ground, they build more traditional homes — timber-framed, well-braced, nailed together, and faced with stucco so that they can resist rain and weathering — although usually still constructed on stilts, in order to handle heavy rains and runoff.
 When they have enough dry ground to work with, Iron-Worker Ratfolk also build underground; at the extreme, they have been known to reclaim mine and quarry space for use as fortifications.
 When Iron-Workers build underground, they often face interior surfaces in brick and stucco to seal out moisture, and often build narrow drainage-paths into their rooves and walls; their underground structures are often reinforced, in order to handle the added weight of rain-soaked ground.
 
@@ -724,8 +724,8 @@ Making things even more complicated, the pictographs are often used *representat
 
 ![Goblin Banner](../images/proto_banner_g_empire.png)
 
-Goblins have long dwelled in the southeastern reaches of the Emerald Plane, their culture ruled by Kings and Warlords—and infamous for the sale and brutalization of intelligent beings as slaves.
-Since the rise of the Dragonshire—and especially since the Kingdoms of Men reformed from the remains of the Empire of Man—the Goblins have been the weakest major power in the East.
+Goblins have long dwelled in the southeastern reaches of the Emerald Plane, their culture ruled by Kings and Warlords — and infamous for the sale and brutalization of intelligent beings as slaves.
+Since the rise of the Dragonshire — and especially since the Kingdoms of Men reformed from the remains of the Empire of Man — the Goblins have been the weakest major power in the East.
 
 Their fortunes have changed dramatically since the creation of the Goblin Empire and their conquest of the Ruby Plane.
 
@@ -761,7 +761,7 @@ Perhaps as few as 300,000 of the city's occupants are resident citizens; they ar
 Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
 
 Goblins have an unusually wide vocalization range, and their language spans all of it.
-Few other races can speak it—which suits Goblin cultural values.
+Few other races can speak it — which suits Goblin cultural values.
 
 *Group GR+DDK*
 
@@ -779,8 +779,8 @@ Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new wor
 Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
 It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
 
-Notably, Many Goblins do not speak Speech-of-the-Lesser—in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
-This task often falls to slave-tenders—often Gremlins or low-born Goblins—who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
+Notably, Many Goblins do not speak Speech-of-the-Lesser — in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
+This task often falls to slave-tenders — often Gremlins or low-born Goblins — who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
 
 *Any Group*
 
@@ -789,9 +789,9 @@ This task often falls to slave-tenders—often Gremlins or low-born Goblins—wh
 ### Kings, Warlords, Emperors and the Code
 
 Goblin society is ruled by Kings and Warlords.
-Kings control cities, towns and territories—the means for food, industry and trade.
+Kings control cities, towns and territories — the means for food, industry and trade.
 Warlords, in turn, control bands of Goblin fighters.
-Kings jostle amongst themselves, forming alliances and competing for power, but they also compete for the services of warlords; kings' arrangements with warlords are openly mercenary—there is little pretense of honor, loyalty or higher causes—and they can be extremely fragile.
+Kings jostle amongst themselves, forming alliances and competing for power, but they also compete for the services of warlords; kings' arrangements with warlords are openly mercenary — there is little pretense of honor, loyalty or higher causes — and they can be extremely fragile.
 
 Unsurprisingly, rule in Goblin society can be extremely unstable.
 
@@ -799,15 +799,15 @@ This does not have as great an impact on Goblin society as it could, however, be
 
 #### The Code
 
-Originally called the *North Coast Code,* the Code was a formalization of the customs used to govern trade between several cities on the southern coast of the Glass Sea—the sea between the Kingdoms of Men and the Goblins.
+Originally called the *North Coast Code,* the Code was a formalization of the customs used to govern trade between several cities on the southern coast of the Glass Sea — the sea between the Kingdoms of Men and the Goblins.
 Though it was only originally intended as a trading agreement between a handful of cities, it began to spread; though it doesn't claim to be ordained great spirits, destiny or fate, it has nevertheless come to occupy a central place in Goblin society.
 
-The Code has evolved over the centuries; eight major schools of legal scholarship have developed, and each has accepted modifications to the Code itself—the Code never claimed to be unmodifiable, although no procedure for amending it was specified.
+The Code has evolved over the centuries; eight major schools of legal scholarship have developed, and each has accepted modifications to the Code itself — the Code never claimed to be unmodifiable, although no procedure for amending it was specified.
 In general, there is little competition between Schools; Goblins tend to view each of the schools as being equally valid, thinking of them much like the way that members of the Commonwealth think of different provinces.
 
 Judges as such are few: there may be only three or four in a city of five thousand.
-They have the support of clerks, scholars, and Enforcers—though the ranks of the Enforcers will be fewer than the forces of local Kings and Warlords, they are numerous enough to enforce the Judge's judgments on the populace.
-Those who appear before Judges can hire Advocates—scholars of the law who specialize in pleading before Judges.
+They have the support of clerks, scholars, and Enforcers — though the ranks of the Enforcers will be fewer than the forces of local Kings and Warlords, they are numerous enough to enforce the Judge's judgments on the populace.
+Those who appear before Judges can hire Advocates — scholars of the law who specialize in pleading before Judges.
 Advocates' skills are highly valuable, and they are often important, powerful and wealthy members of their communities.
 
 #### Kings-by-the-Assembly
@@ -816,7 +816,7 @@ The Second High Kingship of the Kingdoms of Men (CY 361-435) was particularly wa
 In CY 377, an unprecedented step was taken: several desperate northern Kings called their peers to an assembly, with the purpose of selecting one among their number to lead their combined forces, the better to resist the Kingdoms of Men.
 In early CY 378, the First king-by-the-Assembly was appointed.
 
-The First King-by-the-Assembly had the loyalty of most Kings—and could exploit the internal peace to buy most Warlords—and was able to rally stronger resistance to the Kingdoms; however, they where still overmatched.
+The First King-by-the-Assembly had the loyalty of most Kings — and could exploit the internal peace to buy most Warlords — and was able to rally stronger resistance to the Kingdoms; however, they where still overmatched.
 The first King-by-the-Assembly served until CY 417.
 
 The only other King-by-the-Assembly ruled from 541 to 563; the line ended when the king's daughter was assassinated less than 6 months after taking the throne.
@@ -825,22 +825,22 @@ The Third High Kingship of the Kingdoms of Men (CY 695), the peace between the K
 
 #### The Empire
 
-Goblins hailing from southern kingdoms first sailed far enough south to reach the Ruby Plane in CY 538; they found in the northeastern Ruby Plane an arid land, populated by relatively primitive people—a land the could plunder, full of people who would be their slaves.
+Goblins hailing from southern kingdoms first sailed far enough south to reach the Ruby Plane in CY 538; they found in the northeastern Ruby Plane an arid land, populated by relatively primitive people — a land the could plunder, full of people who would be their slaves.
 Goblin sailing techniques rapidly improved, and by CY 617 they had established a permanent outpost on the northern shore of the Ruby Plane.
 
-In CY 703, the Noble Assembly once again appointed a ruler—this time an Empress.
-She was given the power to assembly an Empire—to raise taxes, to build an Imperial administration, and to levy the forces of the kings and warlords and place them under her command.
+In CY 703, the Noble Assembly once again appointed a ruler — this time an Empress.
+She was given the power to assembly an Empire — to raise taxes, to build an Imperial administration, and to levy the forces of the kings and warlords and place them under her command.
 She was given this power for the express purpose of efficiently conquering and plundering the Ruby Plane.
 
 The Goblin Empire has seen a rapid rise in the Goblin's fortune.
 They have conquered a large swath of the northeast Ruby Plane, displacing, enslaving or exterminating many of the native races in the process.
-The territory on the Ruby Plane is now larger than their territory on the Emerald Plane—though they still rule this territory from the Emerald Plane.
+The territory on the Ruby Plane is now larger than their territory on the Emerald Plane — though they still rule this territory from the Emerald Plane.
 
 In characteristic style, modern Goblin society has at least three centers of power, all of them cooperating only slightly more than they compete: The Imperial administration rules their society, but only so long as it has the consent of the Kings — that is, only so long as it enriches the Kings with treasure plundered from the Ruby Plane.
 The Kings, in turn, try to keep the Empire on a short leash, giving it no more power than it needs to coordinate the conquest of the Ruby Plane.
 And through it all, the Judges remain, ruling on matters of law and custom.
 
-### The Economy—and Slavery
+### The Economy — and Slavery
 
 Slaves have long been one of the chief resources of the Goblin economy — the North Coast Code specifically granted Goblins the right to take any non-Goblin as a slave, and very few scholars of the Code have questioned this provision or called for change.
 
@@ -850,7 +850,7 @@ The Ruby Plane has become the chief source of slaves and plunder, and the econom
 
 ### The Imperial Military
 
-Goblin metal-working has long lagged behind that of the Kingdoms of Men and the Dragonshire; owing to their long talons, awkward hands, and stiff bone-plated backs, they have never been able to ride horses well; and the forces of Kings and Warlords are often highly heterogeneous—and almost always reinforced with slaves.
+Goblin metal-working has long lagged behind that of the Kingdoms of Men and the Dragonshire; owing to their long talons, awkward hands, and stiff bone-plated backs, they have never been able to ride horses well; and the forces of Kings and Warlords are often highly heterogeneous — and almost always reinforced with slaves.
 All of these factors have meant that the Goblin Kings have long lagged behind the other militaries of the Emerald Plane.
 
 Still, they are not without advantages.
@@ -858,23 +858,23 @@ Several Goblin Kingdoms have cultivated expertise in chemistry, alchemy and medi
 
 They have also used their time on the Ruby Plane wisely.
 Though the troops levied from Kings and Warlords may vary widely in tactics, composition and quality, the Empire has reorganized them into regular units, drilled them, and deployed them together; this has led to rapid improvements in their coordination.
-The Empire has also experimented with new technologies—they are the only power besides the Commonwealth to experiment with guns and cannons.
+The Empire has also experimented with new technologies — they are the only power besides the Commonwealth to experiment with guns and cannons.
 
 #### The Infantry
 
 Goblins commonly use large formations of infantry equipped with long spears or pikes.
-The first two ranks carry shields: the first rank will fight kneeling, with their spears braced at their feet and their shields readied, while the second rank fights standing and holding their shield up—though also with their spears braced.
+The first two ranks carry shields: the first rank will fight kneeling, with their spears braced at their feet and their shields readied, while the second rank fights standing and holding their shield up — though also with their spears braced.
 The ranks behind them fight with their spears or pikes held overhead, attacking by thrusting.
 
 These pike-wielding formations can be extraordinarily deadly, but they are also very vulnerable if they are flanked; for this reason, support is essential.
-The flanks of these formations are often guarded by ranks equipped with crossbows or hand-cannons—Goblins are not well designed for the use of bows, but they can use guns and crossbows effectively.
+The flanks of these formations are often guarded by ranks equipped with crossbows or hand-cannons — Goblins are not well designed for the use of bows, but they can use guns and crossbows effectively.
 
-Goblins do not field heavy cavalry the way the Kingdoms of Men do—although they do field deadly light cavalry.
-Gremlins do not have long talons interfering with their ability to grip, they do not have bony plates impeding their flexibility, they are light enough to ride two-to-a-horse, and—vitally—they can be trusted enough to play a vital role in a fighting force, unlike other slaves.
+Goblins do not field heavy cavalry the way the Kingdoms of Men do — although they do field deadly light cavalry.
+Gremlins do not have long talons interfering with their ability to grip, they do not have bony plates impeding their flexibility, they are light enough to ride two-to-a-horse, and — vitally — they can be trusted enough to play a vital role in a fighting force, unlike other slaves.
 Gremlins ride two-to-a-horse, typically in light armor, carrying guns or crossbows; though they are almost incapable of mounting a charge like mounted human Knights can, they make deadly skirmishers and archers.
-Because there is a separate jockey and crossbow-wielder or cannoneer, they can fire effectively while moving at speed; because they are so fast and mobile, they can close to a much shorter range without feer of being effectively engaged—even by enemy archers.
+Because there is a separate jockey and crossbow-wielder or cannoneer, they can fire effectively while moving at speed; because they are so fast and mobile, they can close to a much shorter range without feer of being effectively engaged — even by enemy archers.
 And because they are so lite and quickly, they are particularly effective at running down an enemy who breaks; this capability is very important, as it has allowed the Goblin Empire to turn many partial victories into devastating routes.
-Sometimes, these light cavalry will carry man-catchers, nets, bolos and other weapons designed to debilitate and capture fleeing enemies; a future of misery and slavery awaits those so captured—and wealth and reward awaits the Gremlin who captures many future slaves.
+Sometimes, these light cavalry will carry man-catchers, nets, bolos and other weapons designed to debilitate and capture fleeing enemies; a future of misery and slavery awaits those so captured — and wealth and reward awaits the Gremlin who captures many future slaves.
 
 When operating in smaller units, Goblins often field a single formation, of mixed pike-wielders and crossbow-wielders.
 Each rank will be a mix of pikes and crossbows; in the first two ranks, the pike-wielders will also carry shields.
@@ -884,7 +884,7 @@ This requires careful coordination; if order collapses, the results are likely t
 The Goblin Empire drills these formation often, and is careful to arrange troop rotations so that all of their infantry have experience deploying these tactics in combat.
 
 Though Goblin Kings have long made use of slave rabble in their military tactics, the Goblin Empire is less willing to do so; the loyalty and reliability of slaves recently acquired from the cultures of the Ruby Plane remain a serious concern.
-Still, some generals do press slaves into service—especially members of larger and more battle-capable races; these slaves are often paid a wage and afforded better treatment, the better to secure their loyalty.
+Still, some generals do press slaves into service — especially members of larger and more battle-capable races; these slaves are often paid a wage and afforded better treatment, the better to secure their loyalty.
 
 #### Cannons, Hobgremlins and Other Experiments
 
@@ -976,7 +976,7 @@ The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven
 ### History of the Drahrat
 
 Early in CY 509, a psychically-reactive fungus was discovered underneath an island in the Haven Isles; experiments with this organism eventually spawned the Mindsharing Dwarves, or the *Fahrat*.
-This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Deep-Explorer Dwarves—or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
+This new Dwarven sub-culture was greeted with extreme skepticism by some; among the most extreme were the movement that would become the Deep-Explorer Dwarves — or *Drahrat*—who vanished into the depths to flee their Mindsharing cousins.
 
 The Deep-Explorer Dwarves originated in the *Lun*, a federation of several Dwarven holds dug into the low peaks at the northern end of the Worldspine Mountains.
 They where (and still are) relatively insular, and where not among the Dwarven clans that joined the Commonwealth.
@@ -999,8 +999,8 @@ It is unknown where or how the *Drahrat* produce or acquire food; how they trave
 The Drahrat have breached the surface at several other far-flung points; like their former homeland, these constructions are heavily fortified and lightly populated, serving as little more than trade-posts for surface dwellers.
 The Drahrat have also constructed outposts near the settlements of other subterranean races, notably near several Clay Men holds and Kobold cities; trade with these outposts provide other races' only insight into the Drahrat society.
 All known Drahrat settlements are built in natural caverns, with little artificial excavation.
-They also make heavy use of natural materials—and, conversely, little use of worked materials.
-Drahrat settlements are constructed out of wood, plant matter, hide, bone and scale—and with little use of metal, glass or carved stone.
+They also make heavy use of natural materials — and, conversely, little use of worked materials.
+Drahrat settlements are constructed out of wood, plant matter, hide, bone and scale — and with little use of metal, glass or carved stone.
 One notable partial exception is a type of brick that they make by preparing and baking a fungus-root; it is believed that this is intended as a deliberate insult to the *Fahrat*.
 
 Though the *Drahrat* are willing enough to trade with other races, outsiders are not allowed outside of their market-squares.
@@ -1008,8 +1008,8 @@ They often offer exotic natural materials for trade, like those they use in thei
 They also offer goods acquired from far-flung cultures, although how they move goods from the Ruby Plane to the Emerald Plane (for example) is unknown.
 The *Drahrat* have also mapped extensive networks of caves, and sometimes offer the use of these caves in trade.
 
-They appear to have some mechanism that allows them to pass under the Worldspine mountains, and to reach the Haven Isles and Ruby Plane as well; whether they have dug their own underways (like those constructed by Kobolds) or have built something like the Commonwealth's Kairne Network—or perhaps a mix of both—is unknown.
-It is suspected that they have a larger population that they have revealed, that they have access to water and some kind of farming, and that they have larger cities that they have not revealed—although whether this is true and what form any of them may take is unknown.
+They appear to have some mechanism that allows them to pass under the Worldspine mountains, and to reach the Haven Isles and Ruby Plane as well; whether they have dug their own underways (like those constructed by Kobolds) or have built something like the Commonwealth's Kairne Network — or perhaps a mix of both — is unknown.
+It is suspected that they have a larger population that they have revealed, that they have access to water and some kind of farming, and that they have larger cities that they have not revealed — although whether this is true and what form any of them may take is unknown.
 
 <aside class="hook">
 
@@ -1017,9 +1017,9 @@ It is suspected that they have a larger population that they have revealed, that
 
 Obviously, the secrets of the Deep-Explorer Dwarves are rife with plot-hooks.
 
-* If the Leapers find a way to breach the Deep-Explorer Dwarves unknown transit method—be it a tunnel like the Kobold's Underway or a Kairne-like network—then every *Drahrat* settlement might suddnely become a Shaded Sea People invasion-corridor.
+* If the Leapers find a way to breach the Deep-Explorer Dwarves unknown transit method — be it a tunnel like the Kobold's Underway or a Kairne-like network — then every *Drahrat* settlement might suddnely become a Shaded Sea People invasion-corridor.
 * Less dramatically, if the Leapers take a *Drahrat* settlement, then they might have access to the *Drahrat*'s unknown transit-path; the *Drahrat* may turn to the Commonwealth for aid in fighting off this common enemy.
-* A hook that goes back before role-playing games existed, the *Drahrat* may find something deep underground—something dangerous, something they can't control.  This might be as simple as a giant flaming monster, as insidious as a mysterious organism taking them over (ironically enough), or as strange as an ancient carved totem of inscrutible power and origin (or some other out-of-context problem).
+* A hook that goes back before role-playing games existed, the *Drahrat* may find something deep underground — something dangerous, something they can't control.  This might be as simple as a giant flaming monster, as insidious as a mysterious organism taking them over (ironically enough), or as strange as an ancient carved totem of inscrutible power and origin (or some other out-of-context problem).
 
 </aside>
 
@@ -1033,8 +1033,8 @@ Invaders struck by these bolts fell rapidly even when their wounds where minor, 
 
 ![Foam-and-Cloud Banner](../images/proto_banner_foam_cloud.png)
 
-Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands—an island chain in the Great Gulf.
-The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two—and most of the smaller islands of the chain—have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
+Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands — an island chain in the Great Gulf.
+The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two — and most of the smaller islands of the chain — have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
 
 <aside class="floating">
 
@@ -1084,31 +1084,31 @@ Nearly four centuries ago, between CY 534 and CY 561, the islands where settled 
 Conflict could be fierce, but it was also limited; neither side had substantial military resources, and the Goblins where outnumbered.
 In fall of CY 559, the Goblin politics shifted violently against the King of Bronze, who collected what remained of his holdings (and the handful of fighters he could convince to defect from their various Warlords), and departed the Emerald Plane entirely; he arrived in the Horizon Islands scarcely ahead of winter.
 Over the course of winter, he quickly assumed control of the Goblinoid settlements in the Horizon Islands; when Spring came, he launched a campaign against the Commonwealth settlements.
-Through a series of sieges and campaigns, he was able to subdue all of the Commonwealth settlements by CY 568—some he took out-right, though others he forced into tribute.
+Through a series of sieges and campaigns, he was able to subdue all of the Commonwealth settlements by CY 568 — some he took out-right, though others he forced into tribute.
 
 The King of Bronze did not loot or despoil those cities.
-He could not count on the mainland for supplies, and he did not have complete control of many of those cities—and, perhaps wisely, he knew that the Commonwealth cities had more vibrant economies than the Goblin ones, and he wished to keep those economies intact.
-Instead, he allowed those cities to continue much as they always had—notably, exempting them from slavery under the code—so long as they accepted his rule, and payed his tribute.
+He could not count on the mainland for supplies, and he did not have complete control of many of those cities — and, perhaps wisely, he knew that the Commonwealth cities had more vibrant economies than the Goblin ones, and he wished to keep those economies intact.
+Instead, he allowed those cities to continue much as they always had — notably, exempting them from slavery under the code — so long as they accepted his rule, and payed his tribute.
 
 This arrangement has evolved over the centuries.
-The Standard-speaking and Goblin-speaking societies have cross-pollinated extensively; notably, the Commonwealth-descended population proved to have notably better education and administration systems, and so the Bronze Kings came to rely almost exclusively on Standard-speaking administrators and scribes—with the notable exception of the Code, which is still solely the province of Goblins.
+The Standard-speaking and Goblin-speaking societies have cross-pollinated extensively; notably, the Commonwealth-descended population proved to have notably better education and administration systems, and so the Bronze Kings came to rely almost exclusively on Standard-speaking administrators and scribes — with the notable exception of the Code, which is still solely the province of Goblins.
 
 The Standard-speaking, Commonwealth-descended communities grew more rapidly than their Goblinoid counterparts; over the next 20 to 30 years, they became the major source of local production, wealth and food for the Bronze Kings.
 The Goblinoid communities, in turn, became more divided: some Goblins adopted some of their Standard-speaking neighbors' customs and values, and began to prosper with them; other, more conservative Goblins saw their power erode.
 
-As ocean-going technology became more sophisticated, trade with the Emerald Plane increased—with both the Commonwealth and the Goblin Kings.
+As ocean-going technology became more sophisticated, trade with the Emerald Plane increased — with both the Commonwealth and the Goblin Kings.
 The Islands' Goblin King and Code-mediated trade system made trade with the Goblin Kings on the Emerald Plane more favorable, and provided a mechanism for conservative Goblins to retain wealth and power.
 
-As the Goblin Empire's pillaging of the Ruby Plane has accelerated, one might expect the Goblin Kingdom of the Foam and Cloud to become an important and prosperous cross-roads of the Empire—but that has not happened.
+As the Goblin Empire's pillaging of the Ruby Plane has accelerated, one might expect the Goblin Kingdom of the Foam and Cloud to become an important and prosperous cross-roads of the Empire — but that has not happened.
 
 ### Slavery under the Turquoise Kings
 
 Part of the arrangement between the King of Bronze and the Commonwealth communities who surrendered to him was that their citizens would not be taken as slaves; the King of Bronze honored this agreement, and, under his descendants' rule, the fate of slavery in the Horizon Islands has waned.
-As some Goblin communities where influenced by Commonwealth customs—and as the Commonwealth-descended communities have grown wealthy and productive, and have become vital to the fortunes of the Kings of Bronze—opposition to slavery has grown stronger and stronger, and the institutions of slavery have eroded.
+As some Goblin communities where influenced by Commonwealth customs — and as the Commonwealth-descended communities have grown wealthy and productive, and have become vital to the fortunes of the Kings of Bronze — opposition to slavery has grown stronger and stronger, and the institutions of slavery have eroded.
 
-In CY 577, the King of Bronze formally restricted the taking of slaves from any of the islands' Commonwealth communities; in CY 586, he passed laws restricting the abuse of slaves; through CY 591 to CY 617, his daughter passed further reforms governing the treatment of slaves; and in CY 651, the Bronze King's great-grandson restricted slavery on the island only to those whose parents where already slaves, or who came from the Goblinoid Kingdoms with their owners—a condition that applied to fewer than a 800 people on the island.
+In CY 577, the King of Bronze formally restricted the taking of slaves from any of the islands' Commonwealth communities; in CY 586, he passed laws restricting the abuse of slaves; through CY 591 to CY 617, his daughter passed further reforms governing the treatment of slaves; and in CY 651, the Bronze King's great-grandson restricted slavery on the island only to those whose parents where already slaves, or who came from the Goblinoid Kingdoms with their owners — a condition that applied to fewer than a 800 people on the island.
 
-Under these rules, the only remaining slaves on the islands are those who come from the Goblinoid Kingdoms on ships, and a small population of Halflings living in a traditionalist enclave on the Island of Cloud—the southernmost of the two large islands in the chain; they are effectively forced into servitude because they are the only Halflings in the island—they must either marry into slavery or die out.
+Under these rules, the only remaining slaves on the islands are those who come from the Goblinoid Kingdoms on ships, and a small population of Halflings living in a traditionalist enclave on the Island of Cloud — the southernmost of the two large islands in the chain; they are effectively forced into servitude because they are the only Halflings in the island — they must either marry into slavery or die out.
 They live deep within large, defended Goblin manors, jealously guarded against the outside; so isolated, they serve an almost symbolic role.
 
 They are guarded so jealously because the High Road operates almost freely on the islands; they enjoy wide support among both the Commonwealth-descended and Goblin communities, and the tacit approval of the current King of Bronze.
@@ -1116,16 +1116,16 @@ They are guarded so jealously because the High Road operates almost freely on th
 [[hook | Plot Hook: The High Road and the Turquoise Kings]]
 |The Kingdom of the Foam a Cloud is a battleground in the High Road's fight against slavery, and this provides countless opportunities for adventure.  Players can liberate slaves, slay slaveholders, steal into the Goblin Empire, pick up valuable intelligence, and more.
 |
-|Though the number of Goblin families left that still hold slaves is few, they are wealthy and powerful—making them excellent villains.
+|Though the number of Goblin families left that still hold slaves is few, they are wealthy and powerful — making them excellent villains.
 
 ### The Kingdom of Foam and Cloud
 
-The Kingdom of the Foam and Cloud is a Goblinoid Kingdom; the Turquoise Kings have a seat in the Noble Assembly, and their Goblin communities are ruled by the Code—the title *Turquoise Kings* itself is derived from a series of carved turquoise chips commissioned in CY 694 and given to the School of the Code on the Island of Cloud.
+The Kingdom of the Foam and Cloud is a Goblinoid Kingdom; the Turquoise Kings have a seat in the Noble Assembly, and their Goblin communities are ruled by the Code — the title *Turquoise Kings* itself is derived from a series of carved turquoise chips commissioned in CY 694 and given to the School of the Code on the Island of Cloud.
 
 It is an unusual Kingdom.
-In CY 703, the first Turquoise King voted against the formation of the Empire, and—though they are still Goblin Kings, subjects of the Code—they have not contributed to the Empire or accepted its rule.
+In CY 703, the first Turquoise King voted against the formation of the Empire, and — though they are still Goblin Kings, subjects of the Code — they have not contributed to the Empire or accepted its rule.
 Slavery has almost been extinguished there, with the full support of the islands' Judges.
-Though they still trade with the Goblin mainland, many merchants will not sail to the islands—out of fear that their slaves will be seized and liberated.
+Though they still trade with the Goblin mainland, many merchants will not sail to the islands — out of fear that their slaves will be seized and liberated.
 
 The culture there is neither purely Goblinoid nor Commonwealth; it is a hybrid that has been forged over more than 250 years.
 Commonwealth Standard, Vulgar Goblin, Speech-of-the-Lesser, Weal and Heartland Gnoll and more can all be heard in the kingdom's lively markets; Goblin scholars of the Code argue law with the elected leaders of Commonwealth communities; and Goblins, Gremlins, Humans and Gnolls dine together on feast-days.
@@ -1143,7 +1143,7 @@ The High Road also operates freely in his Kingdom; though he does not patronize 
 [[gmguidance | Using the Turquoise King ]]
 |The Turquoise King is likely to be highly sympathetic to a player party operating in his Kingdom, providing them with a powerful advantage.
 |He is not a supporter of the Empire and he detests the practice of slavery;
-|while he likely cannot openly support the player party—he is constrained by the conservative flank of his court, who are still wealthy and powerful—he will also make little or no effort to restrain them on their likely missions.
+|while he likely cannot openly support the player party — he is constrained by the conservative flank of his court, who are still wealthy and powerful — he will also make little or no effort to restrain them on their likely missions.
 
 ### Major Character: the Sand-Shelled King
 
@@ -1171,7 +1171,7 @@ The city sits on the south shore of Foam Island and has a population of 550,000.
 
 The Mudskipper Federation is a loosely-aligned chain of tribes and families that spreads through the running water of the Ruby Isle.
 Though they spread slowly, they are far-flung, and can be found in wide, slow-running rivers and freshwater lakes (so long as they refuse to fall stagnant) throughout the Ruby Plane.
-Each river—and what tributaries and nearby lakes that can be settled—is governed by a tribe.
+Each river — and what tributaries and nearby lakes that can be settled — is governed by a tribe.
 Tribes, in turn, are often rife with sub-divisions, almost like a nation in miniature.
 
 <aside class="floating">
@@ -1184,10 +1184,10 @@ A fractuous society of amphibious beings that dwells within the lakes and rivers
 
 River-Wall is the name given to a mighty waterfall in the depths of the Ruby Isle, two major rivers joining at the peak of a cliff, descending deep into a sinkhole.
 At it's base is an aquifer-linked lake.
-A grand Mudskipper city—their capital city, by virtue of hosting the Confederation's meeting-place—is built into the waterfall and lake.
+A grand Mudskipper city — their capital city, by virtue of hosting the Confederation's meeting-place — is built into the waterfall and lake.
 Stone and rammed-earth structures stretch out from the very peak of the waterfall, hung in sweeping cricles.
 The waterfall's water is co-opted to fill them, with the flow carefully controlled and managed through valves and reservoirs.
-The uppermost structures are for public use—they are markets, meeting-spaces, and the Federation Chamber; smaller residential spaces descend from the hanging public spaces.
+The uppermost structures are for public use — they are markets, meeting-spaces, and the Federation Chamber; smaller residential spaces descend from the hanging public spaces.
 
 The Federation Chamber are where the leaders of the various Mudskipper tribes meet to discuss the affairs of the Confederation as a whole.
 
@@ -1218,7 +1218,7 @@ They strongly prefer flowing water, and are well adapted to function in a curren
 <aside class="hook">
 
 The Mud-Skipper prefer flowing water, to avoid the stagnant pools of the Judges.
-The black slime colours many of their myths and serves as a 'satan' figure—even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
+The black slime colours many of their myths and serves as a 'satan' figure — even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
 
 </aside>
 
@@ -1231,13 +1231,13 @@ Or even a mixture of both, varying from tribe to tribe.
 
 </aside>
 
-Mudskipper towns are built underwater in the rivers and lakes in which they live—though they occasionally feature some guest rooms that open above-water for visitors.
+Mudskipper towns are built underwater in the rivers and lakes in which they live — though they occasionally feature some guest rooms that open above-water for visitors.
 The layouts of their villages follow the flow and twist of the river; their buildings are built in a teardrop cross-section, with windows letting the river current flow through, impeded as little as possible.
 They avoid large structures, holding town halls and meetings in large, cleared spaces, and keeping their homes only for medicine, meals, meditation, and rest.
 
 Though not a universal trait, Mudskippers tend to be matriarchal, and prize leadership qualities in their female young.
 
-Mudskippers are highly devout in their offerings and worship of the spirits of the world around them, especially the major spirits governing the rivers they live in—though they are hesitant to attempt to bind or bargain with them.
+Mudskippers are highly devout in their offerings and worship of the spirits of the world around them, especially the major spirits governing the rivers they live in — though they are hesitant to attempt to bind or bargain with them.
 They are also highly reluctant to discuss the reasons for this relationship.
 
 <aside class="hook">
@@ -1254,7 +1254,7 @@ These mysteries are left to the GM to supply!
 
 Most of the Mudskipper tribes have joined a loose union, the Mudskipper Federation; this is led by a council of the leaders of the various tribes, the Mudskipper Council.
 The Federation provides a forum for the various tribes to cooperate on large projects, or to make decisions that affect them all.
-The Federation does not, however, unite the tribes, rule them, or claim to speak for them—to the point that one tribe may be a Protectorate member, while a neighbouring tribe engages in a guerilla war against the Protectorate to stop overfishing.
+The Federation does not, however, unite the tribes, rule them, or claim to speak for them — to the point that one tribe may be a Protectorate member, while a neighbouring tribe engages in a guerilla war against the Protectorate to stop overfishing.
 
 <aside class="hook">
 
@@ -1274,7 +1274,7 @@ Even moreso if the change is the result of a natural event, or a spirit's whim, 
 
 Generally, Mudskippers are more than happy to keep to themselves.
 They have limited agriculture and aquaculture, and prefer hunting and foraging throughout the watery networks of the ruby isle.
-Mudskippers are surprisingly willing to share the waterways that they call home; most tribes only conflict with their land-dwelling neighbors when those races threaten to spoil a river—by overfishing, for example.
+Mudskippers are surprisingly willing to share the waterways that they call home; most tribes only conflict with their land-dwelling neighbors when those races threaten to spoil a river — by overfishing, for example.
 
 A few tribes have joined the Raptor Protectorate, and a few more trade with them.
 The Protectorate tribes provide an alternative trade network, which serve to move goods throughout the waterways of the interior and eastern coast of the Ruby Plane, and to connect the Protectorate with distant markets.
@@ -1282,8 +1282,8 @@ And, of course, they benefit both from the protection of the Raptors and access 
 These tribes have developed their own gesture-based version of Protectorate Standard for above water communication, since their throats are ill-suited to vocalisations in open air.
 
 Mudskippers have dealt with the Commonwealth even less, with only a dozen tribes making themselves known to explorers and traders from the Commonwealth.
-Many among these tribes, however, have come to view the Emerald Plane as an almost mystical paradise—a whole continent of open freshwater bodies, with neither hostile goblin armies nor the mythical threat with which they endow the standing waters of the Ruby Plane.
-Some tribes have begung to negotiate for transport to the Emerald Plane—even go so far as to consider joining the Commonwealth.
+Many among these tribes, however, have come to view the Emerald Plane as an almost mystical paradise — a whole continent of open freshwater bodies, with neither hostile goblin armies nor the mythical threat with which they endow the standing waters of the Ruby Plane.
+Some tribes have begung to negotiate for transport to the Emerald Plane — even go so far as to consider joining the Commonwealth.
 So far, though, no easy way has presented itself to transport the freshwater-aquatic Mudskippers across the saltwater ocean that seperates the Emerald and Ruby Planes.
 
 <aside class="hook">
@@ -1293,7 +1293,7 @@ Though a small group, the Mudskippers seeking membership in the Commonwealth pos
 </aside>
 
 With the goblin incursion into the Ruby Isle, they have been found largely wanting as slaves or servants, due to the expense of maintaining fresh water for their sleep, and their apparent clumsiness and inexperience with agriculture or industrial pursuits (especially on land).
-Keeping to their waterways, however, keeps them out of the way of the Goblin Empire, which has largely spared them from the predation and cruelty of the invading Goblins—for now, at least.
+Keeping to their waterways, however, keeps them out of the way of the Goblin Empire, which has largely spared them from the predation and cruelty of the invading Goblins — for now, at least.
 
 ### Mudskipper Conflicts
 
