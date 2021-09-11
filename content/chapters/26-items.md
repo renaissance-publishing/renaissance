@@ -13,9 +13,7 @@ Items are broken into five categories: *trivial, minor, moderate, major,* and *e
 This determines their cost both at character creation (see *Character Creation*) and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
 These categories represent each item's cost, but they also correspond loosely with how *important* we expect each item to be in defining a given character; "how important is this purchase" is a useful guideline for GMs assigning costs to items that are not listed.
 
-[[designnote]]
-|
-|### Why Not Specific Prices
+[[designnote | Why Not Specific Prices]]
 |
 |Why do we use cost-categories instead of specific prices?
 |
@@ -23,28 +21,27 @@ These categories represent each item's cost, but they also correspond loosely wi
 |
 |- one, because it actually is *realistic*: before central banks and stable currencies, bartering (without fixed prices) was common;
 |- two, because it saves people having to do "cash-register math," which is never an exciting step in an adventure; and
-|- three, because it allows us to skip boring and tedious details&mdash;because, for characters with very high levels of wealth, the *exact* cost of a night at an inn is an unimportant detail (see also the rules for bartering in *Wealth, Income and Lifestyles*).
+|- three, because it allows us to skip boring and tedious details — because, for characters with very high levels of wealth, the *exact* cost of a night at an inn is an unimportant detail (see also the rules for bartering in *Wealth, Income and Lifestyles*).
 |
 |We recommend that you don't worry about the difference between the price of a *tent* and the price of a *meal*.
-|In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game&mdash;and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
+|In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game — and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
 |(See also *Wealth, Income and Lifestyles*.)
-|
 
 
-The mages and artisans of the Commonwealth have a servicable command of
+The mages and artisans of the Commonwealth have a serviceable command of
 magic; while magical items tend to be rarer and more expensive than
 non-magical ones, a number of common magical items (and potions) are
 widely available throughout the Commonwealth.
 
 Some items have *tags*.
-Many of these tags do not have "mechanical" affects themselves&mdash;although traits, classes, powers, and other rules may refer to them.
+Many of these tags do not have "mechanical" affects themselves — although traits, classes, powers, and other rules may refer to them.
 (The special abilities of weapons are something of an exception: combat in general has more specific rules than the rest of the game, and so the items commonly used in combat have more specific rules as well.)
 
 Several of these items are heavy or cumbersome.
 Rather than attempting to track item weight in detail, items that are particularly heavy are given the *Heavy* tag.
 To determine how many *Heavy* items a character can carry without penalty, divide their STR by 5.
 For every additional *Heavy* item beyond this number, the character suffers a -10 penalty to all physical actions.
-(Of course, GMs can apply other appropriate penalties as well; a character cannot choose to carry 500 suits of plate armor in exchange for a -495 penalty to physical checks&mdash;which would then be limited to the maximum penalty of -60.)
+(Of course, GMs can apply other appropriate penalties as well; a character cannot choose to carry 500 suits of plate armor in exchange for a -495 penalty to physical checks — which would then be limited to the maximum penalty of -60.)
 
 ## Common Items by Category
 
@@ -65,9 +62,9 @@ The following are examples of *Trivial* items:
 
 ### Minor Items
 
-A *minor* item is an item of little cost&mdash;worth tracking, but only if you have limited funds.
+A *minor* item is an item of little cost — worth tracking, but only if you have limited funds.
 
-Most minor items are intended to be *single, useful items*&mdash;things that are worth keeping track of, but that aren't very important to how your character is defined.
+Most minor items are intended to be *single, useful items* — things that are worth keeping track of, but that aren't very important to how your character is defined.
 
 Like trivial items, it is often a better idea to purchase a skill kit than to purchase a minor item separately: a tent, knapsack and bedroll could be presumed to be included in a *Survival* Skill Kit, for example.
 
@@ -97,7 +94,7 @@ The following are examples of *moderate* items:
 - a suit of armor
 - a shield
 - a skill kit
-- a work animal (a horse, a guard dog)
+- a work animal (like a guard dog or ox), farm animal (sheep or cattle), or mount (a horse or cave salamander)
 - three day’s convalescence
 - (the services of) a priest
 
@@ -105,7 +102,7 @@ The following are examples of *moderate* items:
 
 A *major* item is expensive; entirely beyond the reach of the poor, and of notable expense even to the wealthy.
 
-Most *major* items play a major roll in defining a character&mdash;maybe as important as a power, since they have the same price (see *Character Creation*.
+Most *major* items play a major roll in defining a character — maybe as important as a power, since they have the same price (see *Character Creation*.
 They might include a distinctive heirloom weapon, a unique magical item, the shop where they run their business, or their estate.
 
 Example *major* items include:
