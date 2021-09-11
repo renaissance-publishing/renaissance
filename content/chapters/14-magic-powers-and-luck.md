@@ -134,36 +134,36 @@ Finally, some of the ideas behind the design of *classes* and *powers* can serve
 Apparently, mages and psions in the Commonwealth have developed (or can develop) the ability to throw fireballs, animate corpses, and partly transcend their mortality; mages and psions can reasonably achieve effects *like* these with time and preparation, even if they don't have those powers.
 However, there isn't a *remote viewing* or *mind control* power, and for good reason.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### To the Sun
+|
+|The GM has prepared an intrigue campaign: there's a wealthy, powerful Certan who's pulling the Certan Movement closer to the Eastern Kingdoms.
+|If he where "removed," the Certans might be induced to shift their focus from the Western Kings (who are Commonwealth Allies) to the Eastern Kings (who decidedly are not).
+|The High Road has put up a bounty to do just that; to collect, the party will need to cross the border, steal into Certa and quietly, deniably "dispose of" the noble.
+|
+|Fire is in the party, and his player asks the GM if he can simply develop a magical spell to teleport the troublesome noble straight into the sun from here.
+|
+|The GM has a number of options, probably the best of which is to say "no."
+|While there are teleporting spells, all of them have the *caster* teleport to a destination, and optionally bring something with them; *none* of them allow you to teleport something to you, and *certainly* none of them allow you to teleport an object at Remote Location A to Remote Location B.
+|So, it's reasonable to assume that no-one knows how to do that.
+|
+|(Equally, the distance from the campaign's starting-point in the Dragonshire to the target in Certa is much further than any teleporting magic besides the Kairnes has ever gone — never mind the distance to the *sun*.)
+|
+|If she wants to be a little more subtle, she might simply tell him that, yes, he can do that, but it's going to take *six months*, and the spellcraft check will be made at a -30 penalty — essentially, "sure, but the rest of the party can probably just complete the quest before you're done."
+|But, if Fire is determined to be a jerk, he can get around this by spending a Luck Point to remove the negative modifier.
+|At that point, he may as well rush the job down to six weeks — about a 75% reduction — since he's removing all his penalties anyway.
+|
+|If the GM wants to provide a little extra discouragement, she might declare that a "numinous thread of magic" will arc from where Fire is to the Noble he's targeting, which will make it immediately obvious to Certan mages who is responsible for banishing their noble into the sky.
+|Or, if she wants to go the other way, she might declare that there's no way for Fire to prove that *he* killed the noble, and so the party won't be able to claim the purse.
+|
+|A third option is to place some restrictions on what his spell can do.
+|Sure, he can teleport the noble to his death, but not *from here*; it'll need to be applied to the target directly.
+|Essentially, Fire will have to create the spell, and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll need to sneak up to his target and physically touch them to trigger it.
+|This way, Fire still gets his spell, but the structure of the campaign remains intact.
+|The GM can also make this trickier by declaring that the spell is visible in Mage-Sight while it's bound to Fire, which will make sneaking harder for him; she might also declare that he can't use his normal teleporting powers while carrying the spell — he'll risk destabilizing it and teleporting *himself* to his death if he does.
+|
 
-### To the Sun
-
-The GM has prepared an intrigue campaign: there's a wealthy, powerful Certan who's pulling the Certan Movement closer to the Eastern Kingdoms.
-If he where "removed," the Certans might be induced to shift their focus from the Western Kings (who are Commonwealth Allies) to the Eastern Kings (who decidedly are not).
-The High Road has put up a bounty to do just that; to collect, the party will need to cross the border, steal into Certa and quietly, deniably "dispose of" the noble.
-
-Fire is in the party, and his player asks the GM if he can simply develop a magical spell to teleport the troublesome noble straight into the sun from here.
-
-The GM has a number of options, probably the best of which is to say "no."
-While there are teleporting spells, all of them have the *caster* teleport to a destination, and optionally bring something with them; *none* of them allow you to teleport something to you, and *certainly* none of them allow you to teleport an object at Remote Location A to Remote Location B.
-So, it's reasonable to assume that no-one knows how to do that.
-
-(Equally, the distance from the campaign's starting-point in the Dragonshire to the target in Certa is much further than any teleporting magic besides the Kairnes has ever gone — never mind the distance to the *sun*.)
-
-If she wants to be a little more subtle, she might simply tell him that, yes, he can do that, but it's going to take *six months*, and the spellcraft check will be made at a -30 penalty — essentially, "sure, but the rest of the party can probably just complete the quest before you're done."
-But, if Fire is determined to be a jerk, he can get around this by spending a Luck Point to remove the negative modifier.
-At that point, he may as well rush the job down to six weeks — about a 75% reduction — since he's removing all his penalties anyway.
-
-If the GM wants to provide a little extra discouragement, she might declare that a "numinous thread of magic" will arc from where Fire is to the Noble he's targeting, which will make it immediately obvious to Certan mages who is responsible for banishing their noble into the sky.
-Or, if she wants to go the other way, she might declare that there's no way for Fire to prove that *he* killed the noble, and so the party won't be able to claim the purse.
-
-A third option is to place some restrictions on what his spell can do.
-Sure, he can teleport the noble to his death, but not *from here*; it'll need to be applied to the target directly.
-Essentially, Fire will have to create the spell, and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll need to sneak up to his target and physically touch them to trigger it.
-This way, Fire still gets his spell, but the structure of the campaign remains intact.
-The GM can also make this trickier by declaring that the spell is visible in Mage-Sight while it's bound to Fire, which will make sneaking harder for him; she might also declare that he can't use his normal teleporting powers while carrying the spell — he'll risk destabilizing it and teleporting *himself* to his death if he does.
-
-</aside>
 
 ## Designing and Using Powers
 
@@ -311,13 +311,13 @@ Finally, players may loose luck points for:
   - A major failure at role-playing, such as acting against a
     character’s motivations
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### How many Luck Points can you spend on a check
+|
+|As far as the rules go, there is no set limit: a player could spend a point of luck to remove all penalties, then spend a luck point to flip a test from an 81 to a 18 to pass the test, and then spend a luck point again to upgrade that to an exceptional success.
+|
+|GMs who want a tougher game for their players — or who don’t want their players to dump Luck Points at the end of each session — may limit their use of luck, allowing only one point to be spent on a test (for example).
+|If you decide to do this, you should make this decision before an adventure starts and inform your players about it, so that they can take this into account during character creation — players may very reasonably decide to buy less Luck.
+|
 
-### How many Luck Points can you spend on a check
-
-As far as the rules go, there is no set limit: a player could spend a point of luck to remove all penalties, then spend a luck point to flip a test from an 81 to a 18 to pass the test, and then spend a luck point again to upgrade that to an exceptional success.
-
-GMs who want a tougher game for their players — or who don’t want their players to dump Luck Points at the end of each session — may limit their use of luck, allowing only one point to be spent on a test (for example).
-If you decide to do this, you should make this decision before an adventure starts and inform your players about it, so that they can take this into account during character creation — players may very reasonably decide to buy less Luck.
-
-</aside>

@@ -32,32 +32,32 @@ Characters have the following:
     
       - Willpower (WIL): your character’s self-discipline.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|### Somatics is a mental aptitude
+|
+|Somatics (SOM) sounds like some kind of “mental strength score.”
+|How does that make sense?
+|
+|Partly, that’s just to make the skill system work: some physical skills (like Unarmed Combat) need an attribute to be linked to — or else we’d need to build special cases for them into the rules.
+|
+|However, that’s also how the body *actually works*.
+|The central nervous system has to learn to recruit and manage the muscles of the body, and some people really do learn to do this better than others\!
+|
 
-### Somatics is a mental aptitude
 
-Somatics (SOM) sounds like some kind of “mental strength score.”
-How does that make sense?
+[[playerguidance]]
+|
+|### Does WIL matter
+|
+|Players who read the skill section might notice that some aptitudes are linked to many more skills than others; notably, WIL is linked to only one skill — Control\!
+|Does that mean that WIL doesn’t matter?
+|
+|Absolutely not\!
+|WIL is used to determine your Lucidity (LUC) (and with it, your Trauma Threshold and Insanity Rating (your TT and IR).
+|Also, WIL×3 checks are commonly used to resist fear and stress.
+|
 
-Partly, that’s just to make the skill system work: some physical skills (like Unarmed Combat) need an attribute to be linked to — or else we’d need to build special cases for them into the rules.
-
-However, that’s also how the body *actually works*.
-The central nervous system has to learn to recruit and manage the muscles of the body, and some people really do learn to do this better than others\!
-
-</aside>
-
-<aside class="playerguidance">
-
-### Does WIL matter
-
-Players who read the skill section might notice that some aptitudes are linked to many more skills than others; notably, WIL is linked to only one skill — Control\!
-Does that mean that WIL doesn’t matter?
-
-Absolutely not\!
-WIL is used to determine your Lucidity (LUC) (and with it, your Trauma Threshold and Insanity Rating (your TT and IR).
-Also, WIL×3 checks are commonly used to resist fear and stress.
-
-</aside>
 
   - A race, which gives you
     
@@ -113,11 +113,11 @@ Also, WIL×3 checks are commonly used to resist fear and stress.
       - I’m worried point A could be done with traits, and point B could
         be done with powers
 
-<aside class="clarification">
+[[clarification]]
+|
+|We sometimes refer to a character's racial abilities, traits, classes and powers collectively as their "features".
+|
 
-We sometimes refer to a character's racial abilities, traits, classes and powers collectively as their "features".
-
-</aside>
 
   - Vital Statistics (which are derived from your other choices)
     

@@ -21,13 +21,13 @@ To make a **check**, roll a D% and compare the result to the *target number* (TN
 By "D%", we mean a randomly-generated number between 0 and 99 inclusive, as you would get with a *hundred-sided die* whose faces are numbered from 0 to 99.
 Such dice exist, but you can use anything that generates a number from 0 to 99 in an unbiased way — like two ten-sided dice, one for the one's-place and one for the ten's-place, or a computer.
 
-<aside class="clarification">
+[[clarification]]
+|
+|Be careful\! D% runs from 0 to 99, *not* 1 to 100\!
+|
+|Some random number generators give you a number between 1 and 100; you'll need to remember to interpret that 100 as "actually" being a 00.
+|
 
-Be careful\! D% runs from 0 to 99, *not* 1 to 100\!
-
-Some random number generators give you a number between 1 and 100; you'll need to remember to interpret that 100 as "actually" being a 00.
-
-</aside>
 
 The **Margin of Success** (MoS) for a check is the *value you rolled* if you succeeded.
 The **Margin of Failure** (MoF) is the *die roll* minus the *target* (D%−TN)) if you failed.
@@ -36,39 +36,39 @@ The *target number* is selected by the GM.
 Target numbers vary, but they are almost always either the *skill target* for a given *skill checks*, or some combination of your aptitudes; see the table below.
 (Additionally, any check's TN can include *modifiers*; see *Modifiers*, below.)
 
-<aside class="designnote">
+[[designnote]]
+|
+|The authors could not resist using the phrase "linear combination of aptitudes"; the best we could do is wall it off in this little aside.
+|
 
-The authors could not resist using the phrase "linear combination of aptitudes"; the best we could do is wall it off in this little aside.
 
-</aside>
+[[example]]
+|
+|For example, the GM tells Fire (a Shifter mage) to roll (against) his WIL×3.
+|Fire's WIL stat is 25, so his *target number* (TN) for the check is 75.
+|His player roles a D%, and gets 65; Fire has succeeded, and his *margin of success* (MoS) is 65.
+|If his player had rolled an 89, Fire would have failed, and his *margin of failure* (MoF) would have been 14.
+|
 
-<aside class="example">
-
-For example, the GM tells Fire (a Shifter mage) to roll (against) his WIL×3.
-Fire's WIL stat is 25, so his *target number* (TN) for the check is 75.
-His player roles a D%, and gets 65; Fire has succeeded, and his *margin of success* (MoS) is 65.
-If his player had rolled an 89, Fire would have failed, and his *margin of failure* (MoF) would have been 14.
-
-</aside>
 
 There are limits to what a *target number* can be.
 A TN can never be greater than 98; a 99 always fails (and is always a critical failure at that; see below).
 Similarly, a TN can never be less than 1; a 0 always succeeds (and is a critical success).
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|You don't always have to roll a check!
+|If success is either guaranteed or impossible−and if the character isn't competing with another character−you can just waive the check.
+|
+|Further guidance is given in the sidebar *When Should We Use Checks* and *Picking Checks*.
+|
 
-You don't always have to roll a check!
-If success is either guaranteed or impossible−and if the character isn't competing with another character−you can just waive the check.
 
-Further guidance is given in the sidebar *When Should We Use Checks* and *Picking Checks*.
+[[clarification]]
+|
+|Not all characters are player characters, so we'll usually try to speak in terms of "a character" rather than "you" as a player or GM.
+|
 
-</aside>
-
-<aside class="clarification">
-
-Not all characters are player characters, so we'll usually try to speak in terms of "a character" rather than "you" as a player or GM.
-
-</aside>
 
 ### Special Results
 
@@ -81,19 +81,19 @@ The effects of *exceptional* and *critical* results vary: some rules will spell 
 Generally, exceptional successes should get a noticeable bonus, while exceptional failures should carry some extra consequence.
 Critical successes and failures should be particularly impactful.
 
-<aside class="example">
+[[example]]
+|
+|Lady Katarina the wealthy Ratfolk socialite (and smuggler) is trying to sneak in to a guarded palace, and she's stumbled into the same room as a guard.
+|Fortunately for her, he's distracted and bored; if she can dive behind cover quick enough, the guard might not notice her.
+|The GM tells her player to roll a COO×3 check to *react quickly* and dive behind cover.
+|
+|Her COO is 30, so her TN is a respectable 90.
+|She rolls a 33, scoring a *critical success*; Katarina darts behind a well-upholstered couch, and the guard is never the wiser.
+|Furthermore, the couch is long, and the back is much taller than a Ratfolk; because of her critical success, it is positioned such that it will hide Katarina from the guard for almost the whole way to a side door that leads out of the room.
+|
+|Had she rolled a 99, she would have scored a *critical failure*; in this case, she might have dove *into* the arm of the couch, which would make a nice, loud, guard-alerting *whack* and knock her to the floor.
+|
 
-Lady Katarina the wealthy Ratfolk socialite (and smuggler) is trying to sneak in to a guarded palace, and she's stumbled into the same room as a guard.
-Fortunately for her, he's distracted and bored; if she can dive behind cover quick enough, the guard might not notice her.
-The GM tells her player to roll a COO×3 check to *react quickly* and dive behind cover.
-
-Her COO is 30, so her TN is a respectable 90.
-She rolls a 33, scoring a *critical success*; Katarina darts behind a well-upholstered couch, and the guard is never the wiser.
-Furthermore, the couch is long, and the back is much taller than a Ratfolk; because of her critical success, it is positioned such that it will hide Katarina from the guard for almost the whole way to a side door that leads out of the room.
-
-Had she rolled a 99, she would have scored a *critical failure*; in this case, she might have dove *into* the arm of the couch, which would make a nice, loud, guard-alerting *whack* and knock her to the floor.
-
-</aside>
 
 ### Upgrading and Downgrading
 
@@ -126,18 +126,18 @@ The *target number* for a *skill check* is the *Linked Aptitude* for the skill, 
 
 We refer to the total of a character's *ranks in a skill* pluss that skill's *linked aptitude* — that is, their target number for that skill, before any modifiers are applied — as their **rating** in that skill.
 
-<aside class="example">
+[[example]]
+|
+|In order to pay for a few nights at an inn, Aryn the *Haffan* monster-hunter has volunteered her services to a town; she's trying to track down a *bear* that's been picking off the locals' sheep.
+|To track it, the GM calls for a *Search* check from Aryn.
+|Aryn is *very good* at tracking, so she has 50 ranks in *Search*; *Search* is linked to the INT aptitude, and Aryn's INT is 25.
+|Her player asks the GM if any particular modifiers apply; the GM says that none do.
+|
+|The TN for this check is 75 — her 50 ranks in *Search* plus her linked aptitude of 25.
+|
+|Aryn's player rolls a 26, so Aryn gets a *basic success*; the GM decides that she does track the bear down, but it takes her most of the day.
+|
 
-In order to pay for a few nights at an inn, Aryn the *Haffan* monster-hunter has volunteered her services to a town; she's trying to track down a *bear* that's been picking off the locals' sheep.
-To track it, the GM calls for a *Search* check from Aryn.
-Aryn is *very good* at tracking, so she has 50 ranks in *Search*; *Search* is linked to the INT aptitude, and Aryn's INT is 25.
-Her player asks the GM if any particular modifiers apply; the GM says that none do.
-
-The TN for this check is 75 — her 50 ranks in *Search* plus her linked aptitude of 25.
-
-Aryn's player rolls a 26, so Aryn gets a *basic success*; the GM decides that she does track the bear down, but it takes her most of the day.
-
-</aside>
 
 ### Simple Checks
 
@@ -161,30 +161,30 @@ To make an *opposed check*, each character makes a (separate) check:
 
 Note that the two characters don’t have to use the *same* skill–in fact, very often they won’t\!
 
-<aside class="example">
+[[example]]
+|
+|Chandra the bronze-armed Drake *Lord-General* is trying to punch a goblin slaver.
+|To resolve the *attack* (see the *Combat* chapter), the GM asks Chandra to roll his *Unarmed Combat* against the Goblin's Fray.
+|Chandra's *Unarmed Combat* is 80, and his player rolls a 63.
+|The Goblin's Fray is 65, and the GM rolls a 21 for him (ordinarily, the GM wouldn't reveal to the players what the Goblin's TN was, what his stats where, or what he rolled).
+|
+|They both succeeded, so the GM compares Chandra's 63 to the Goblin's 21; Chandra has clearly won the opposed check.
+|
 
-Chandra the bronze-armed Drake *Lord-General* is trying to punch a goblin slaver.
-To resolve the *attack* (see the *Combat* chapter), the GM asks Chandra to roll his *Unarmed Combat* against the Goblin's Fray.
-Chandra's *Unarmed Combat* is 80, and his player rolls a 63.
-The Goblin's Fray is 65, and the GM rolls a 21 for him (ordinarily, the GM wouldn't reveal to the players what the Goblin's TN was, what his stats where, or what he rolled).
-
-They both succeeded, so the GM compares Chandra's 63 to the Goblin's 21; Chandra has clearly won the opposed check.
-
-</aside>
 
 #### Variable Checks
 
 Sometimes, when both characters are competing, it’s possible for both characters to partly succeed; we call these *Variable Checks*.
 **Variable checks** work just like other opposed checks, with one exception: if both characters succeed on their checks, instead of declaring the highest MoS to be the winner, both characters are awarded a partial success.
 
-<aside class="example">
+[[example]]
+|
+|Aryn the aforementioned *Haffan* monster-hunter is now trying to sneak up on the bear she was hunting; the GM calls for a *variable check*, her *Stealth* versus the bear's *Perception*.
+|The TN for Aryn's Stealth check is 65, and the TN for the bear's Perception is 55.
+|Aryn's player rolls 51, while the GM rolls a 42 for the bear, so both Aryn and the bear partially succeed.
+|The GM decides that Aryn makes a little too much noise, which spooks the bear — it hasn't spotted her *yet*, but it's aware that something is off and will begin looking around to see what's wrong.
+|
 
-Aryn the aforementioned *Haffan* monster-hunter is now trying to sneak up on the bear she was hunting; the GM calls for a *variable check*, her *Stealth* versus the bear's *Perception*.
-The TN for Aryn's Stealth check is 65, and the TN for the bear's Perception is 55.
-Aryn's player rolls 51, while the GM rolls a 42 for the bear, so both Aryn and the bear partially succeed.
-The GM decides that Aryn makes a little too much noise, which spooks the bear — it hasn't spotted her *yet*, but it's aware that something is off and will begin looking around to see what's wrong.
-
-</aside>
 
 #### Ordered Checks
 
@@ -203,148 +203,148 @@ In the first case, the GM might decide that the character can default to their *
 In the second case, the GM might allow the character to roll a check against their COO (that is, COO×1), since anybody can *try* to move stealthily, trained sneak-thief or no.
 (When a character defaults to an *aptitude*, a smaller penalty is usually used, or the penalty might be waived entirely — if the character has no ranks in the skill, they're already in enough trouble\!)
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### Sidebar: When should we use checks
+|
+|When is a check called for, and what type? This depends on the situation.
+|
+|In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use.
+|If a failure could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), or two characters are *competing*, then a check is definitely called for.
+|However, if the odds of failure are low, or the consequences of failure aren’t interesting, or the character can simply try again and again until they succeed (see *Trying Again*, below), then Simple Checks might be used, or the check might be waived all-together.
+|
+|Most mundane actions don’t require checks.
+|A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
+|
+|Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check — we say that a character has *basic proficiency* in a skill if they have 10 ranks in that skill.
+|Someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.
+|
+|The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
+|
 
-### Sidebar: When should we use checks
 
-When is a check called for, and what type? This depends on the situation.
+[[gmguidance]]
+|
+|### Sidebar: Trying Again
+|
+|  - Sometimes, if a player fails a check, they will simply be able
+|    to try again rather than having the player roll the same check
+|    repeatedly — or *allowing* the same player to simply make repeated
+|    attempts until they succeed — it is often a good idea to use a
+|    *simple success check*.
+|  - As an example, if a character wants to make several Healing
+|    Potions, while one might have them make several individual
+|    Craft: Alchemy checks, it would likely be a better idea to have
+|    them make one Craft: Alchemy simple success check representing
+|    several hours work, and use the result to determine how many
+|    potions they were able to make.
+|  - Similarly, if the players are trying to solve a riddle that will
+|    open a magic door, but there is nothing that would stop them
+|    from simply trying again and again, it might be a better idea to
+|    use one simple success check to find out how long it takes them
+|    to solve the riddle.
+|  - As an optional rule, in a situation where individual checks are
+|    called for, in order to prevent abuses, GMs may apply a
+|    cumulative -10 penalty for each time a player *tries again*.
+|    This makes some sense, as a character that failed a check
+|    presumably failed for a reason, and that reason likely still
+|    applies if circumstances have not changed.
+|
 
-In unstructured play, the type of *consequences* that the GM expects often determine the kind of check to use.
-If a failure could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), or two characters are *competing*, then a check is definitely called for.
-However, if the odds of failure are low, or the consequences of failure aren’t interesting, or the character can simply try again and again until they succeed (see *Trying Again*, below), then Simple Checks might be used, or the check might be waived all-together.
 
-Most mundane actions don’t require checks.
-A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.
+[[gmguidance]]
+|
+|### Sidebar: Repeated Individual Skill Checks
+|
+|  - Sometimes, there are situations where several members of the
+|    party could attempt the same task in sequence; for example, if
+|    the players are trying to search a room, then each person could
+|    make their own Search test, one after the other.
+|  - This is usually not a good idea; this makes it very difficult
+|    for the party to fail, since they’ll have several separate
+|    attempts; it makes each individual test less interesting, since
+|    the next person will just try if the current person fails; and
+|    it can slow the game down dramatically.
+|  - Instead, we recommend the GM require one character make one test
+|    on behalf of the party; that character — usually the one with the
+|    highest rating in the skill in question — should “take the lead,”
+|    and the other party-members should assist (if they can, see
+|    *Skill Modifiers*).
 
-Characters can also perform simple tasks using skills that they have *basic proficiency* in without requiring a check — we say that a character has *basic proficiency* in a skill if they have 10 ranks in that skill.
-Someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.
 
-The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the *Combat* chapter for more information.
+[[gmguidance]]
+|
+|### Picking a Check
+|
+|So, you’ve decided that a check is called for — but what check should you
+|use? Sometimes it can be tricky to decide.
+|
+|One question to ask yourself is, “is the thing my character is doing the
+|kind of thing that someone could have *learned* how to do, coming from
+|their background?” Plenty of things are, like riding a horse, bartering
+|with a bar-keep, sneaking through a dark alley, or negotiating a
+|treaty — but, some things *aren’t*, like fighting off a disease (which
+|people don’t learn to do — or do consciously at all\!) or solving a
+|mystery (“detective” is certainly a job a person could learn to have,
+|for example, but it is not a common one in the world of *Renaissance*).
+|
+|In the first case — for something that someone could have learned to do — a
+|skill check is appropriate. Note that you don’t necessarily have to pick
+|one single, correct skill; the skill system has a degree of overlap, so
+|your players might have more than one skill they could choose from. It’s
+|also perfectly acceptable to ask them what skills they have that they
+|think might apply, and to vary the results they get based on which skill
+|they ultimately. For example, if Ven has both Knowledge: Natural
+|Philosophy and Spellcraft, she could use either to attempt to analyze a
+|note with strange, technical writing on it, and she might glean
+|different insights from it based on which she decides to use.
+|
+|In the second case — the player is trying to do something that most people
+|don’t need to learn to do, or do consciously at all — a check against some
+|combination of aptitudes is usually the right idea. You can pick from
+|the *sample checks* above, or make up your own. To pick the combination
+|of aptitudes you want to use, think about the mental faculties (or
+|physical properties) that they’re going to need to succeed. If
+|self-control is important, WIL should be included; if quick reflexes
+|help, COO should be a factor; if their physical resiliency is being
+|tested, then DUR can be used; and so on. Most of the time, it’s a good
+|idea to mix 2 or 3 aptitudes.
+|
+|Note that some rules reference types of sample checks specifically. For
+|example, some traits give you bonuses to *resist fear* or *feats of strength* checks. It’s a good idea to let players keep the benefits of those traits (for example) on checks that could reasonably be called a *feat of strength*, even if you don’t use the *feat of strength* check as it’s listed. (A player might ask, “is this a feat of strength?”, or you could tell them to “roll SOM×2, as a feat of strength” or “feat-of-strength effects apply”.)
+|
+|In unusual cases, you can have players make a check against a single
+|aptitude (as in, a WIL×1 check). Such a check is very difficult to pass,
+|and thus should represent a powerful force (like a spirit). However, it
+|is worth noting that very powerful beings like spirits might produce
+|magical effects that cannot be resisted at all; not every effect has to
+|allow a player to check to resist.
+|
+|You also *can* have players mix aptitudes in more complex ways — having
+|people use four aptitudes and divide by two, for example — but this is
+|almost always a bad idea, since the increase in complexity is pretty
+|much never worth the increase in fidelity (that is, in better
+|representing just exactly what is being tested).
+|
+|In the last case — a player is trying to do something that isn’t covered
+|by a skill that they have, possibly a skill that it would be unusual for
+|anyone to have — you can allow a player to *default* (see above), either
+|to a related skill that they do have, or to the aptitude that would be
+|linked to the skill they don’t have. Don’t rush *too* quickly to the
+|decision that a character needs an exotic skill; if the player is trying
+|to do something that someone in the Commonwealth could reasonably have
+|learned to do, then they shouldn’t need an exotic skill.
+|
+|The reverse, of course, can also be true; if the skill-set the character
+|is trying to have is bizarre, unusual and difficult-to-explain for
+|someone from the Commonwealth, then it probably should have been an
+|exotic skill. Somewhere, someone in the Commonwealth *could possibly* be
+|working on a Babbage Engine, and so a player character *could possibly*
+|take ranks in Exotic Skill: Programming — but programming a Babbage Engine
+|certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
+|This is why players should discuss their characters with their GMs
+|before starting play.
 
-</aside>
-
-<aside class="gmguidance">
-
-### Sidebar: Trying Again
-
-  - Sometimes, if a player fails a check, they will simply be able
-    to try again rather than having the player roll the same check
-    repeatedly — or *allowing* the same player to simply make repeated
-    attempts until they succeed — it is often a good idea to use a
-    *simple success check*.
-  - As an example, if a character wants to make several Healing
-    Potions, while one might have them make several individual
-    Craft: Alchemy checks, it would likely be a better idea to have
-    them make one Craft: Alchemy simple success check representing
-    several hours work, and use the result to determine how many
-    potions they were able to make.
-  - Similarly, if the players are trying to solve a riddle that will
-    open a magic door, but there is nothing that would stop them
-    from simply trying again and again, it might be a better idea to
-    use one simple success check to find out how long it takes them
-    to solve the riddle.
-  - As an optional rule, in a situation where individual checks are
-    called for, in order to prevent abuses, GMs may apply a
-    cumulative -10 penalty for each time a player *tries again*.
-    This makes some sense, as a character that failed a check
-    presumably failed for a reason, and that reason likely still
-    applies if circumstances have not changed.
-
-</aside>
-
-<aside class="gmguidance">
-
-### Sidebar: Repeated Individual Skill Checks
-
-  - Sometimes, there are situations where several members of the
-    party could attempt the same task in sequence; for example, if
-    the players are trying to search a room, then each person could
-    make their own Search test, one after the other.
-  - This is usually not a good idea; this makes it very difficult
-    for the party to fail, since they’ll have several separate
-    attempts; it makes each individual test less interesting, since
-    the next person will just try if the current person fails; and
-    it can slow the game down dramatically.
-  - Instead, we recommend the GM require one character make one test
-    on behalf of the party; that character — usually the one with the
-    highest rating in the skill in question — should “take the lead,”
-    and the other party-members should assist (if they can, see
-    *Skill Modifiers*).
-</aside>
-
-<aside class="gmguidance">
-
-### Picking a Check
-
-So, you’ve decided that a check is called for — but what check should you
-use? Sometimes it can be tricky to decide.
-
-One question to ask yourself is, “is the thing my character is doing the
-kind of thing that someone could have *learned* how to do, coming from
-their background?” Plenty of things are, like riding a horse, bartering
-with a bar-keep, sneaking through a dark alley, or negotiating a
-treaty — but, some things *aren’t*, like fighting off a disease (which
-people don’t learn to do — or do consciously at all\!) or solving a
-mystery (“detective” is certainly a job a person could learn to have,
-for example, but it is not a common one in the world of *Renaissance*).
-
-In the first case — for something that someone could have learned to do — a
-skill check is appropriate. Note that you don’t necessarily have to pick
-one single, correct skill; the skill system has a degree of overlap, so
-your players might have more than one skill they could choose from. It’s
-also perfectly acceptable to ask them what skills they have that they
-think might apply, and to vary the results they get based on which skill
-they ultimately. For example, if Ven has both Knowledge: Natural
-Philosophy and Spellcraft, she could use either to attempt to analyze a
-note with strange, technical writing on it, and she might glean
-different insights from it based on which she decides to use.
-
-In the second case — the player is trying to do something that most people
-don’t need to learn to do, or do consciously at all — a check against some
-combination of aptitudes is usually the right idea. You can pick from
-the *sample checks* above, or make up your own. To pick the combination
-of aptitudes you want to use, think about the mental faculties (or
-physical properties) that they’re going to need to succeed. If
-self-control is important, WIL should be included; if quick reflexes
-help, COO should be a factor; if their physical resiliency is being
-tested, then DUR can be used; and so on. Most of the time, it’s a good
-idea to mix 2 or 3 aptitudes.
-
-Note that some rules reference types of sample checks specifically. For
-example, some traits give you bonuses to *resist fear* or *feats of strength* checks. It’s a good idea to let players keep the benefits of those traits (for example) on checks that could reasonably be called a *feat of strength*, even if you don’t use the *feat of strength* check as it’s listed. (A player might ask, “is this a feat of strength?”, or you could tell them to “roll SOM×2, as a feat of strength” or “feat-of-strength effects apply”.)
-
-In unusual cases, you can have players make a check against a single
-aptitude (as in, a WIL×1 check). Such a check is very difficult to pass,
-and thus should represent a powerful force (like a spirit). However, it
-is worth noting that very powerful beings like spirits might produce
-magical effects that cannot be resisted at all; not every effect has to
-allow a player to check to resist.
-
-You also *can* have players mix aptitudes in more complex ways — having
-people use four aptitudes and divide by two, for example — but this is
-almost always a bad idea, since the increase in complexity is pretty
-much never worth the increase in fidelity (that is, in better
-representing just exactly what is being tested).
-
-In the last case — a player is trying to do something that isn’t covered
-by a skill that they have, possibly a skill that it would be unusual for
-anyone to have — you can allow a player to *default* (see above), either
-to a related skill that they do have, or to the aptitude that would be
-linked to the skill they don’t have. Don’t rush *too* quickly to the
-decision that a character needs an exotic skill; if the player is trying
-to do something that someone in the Commonwealth could reasonably have
-learned to do, then they shouldn’t need an exotic skill.
-
-The reverse, of course, can also be true; if the skill-set the character
-is trying to have is bizarre, unusual and difficult-to-explain for
-someone from the Commonwealth, then it probably should have been an
-exotic skill. Somewhere, someone in the Commonwealth *could possibly* be
-working on a Babbage Engine, and so a player character *could possibly*
-take ranks in Exotic Skill: Programming — but programming a Babbage Engine
-certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
-This is why players should discuss their characters with their GMs
-before starting play.
-</aside>
 
 ### Common Checks
 
@@ -587,15 +587,15 @@ In particular, races that don’t need to sleep have an obvious opportunity to e
 
 As an alternative to working on a Job, a player can spend a shift to complete one or more task actions — recall that Task Actions should take less than 8 hours, so you should always be able to finish at least one Task Action per day.
 
-<aside class="clarification">
+[[clarification]]
+|
+|### Sidebar: Interrupting Actions
+|
+|Sometimes it’s possible to interrupt an action — if one character breaks into the workshop where another character is working, for example.
+|We don’t provide fixed rules for this, because no fixed set of rules could be comprehensive without being unwieldy.
+|GMs are encouraged to adjudicate such situations as they arise.
+|
 
-### Sidebar: Interrupting Actions
-
-Sometimes it’s possible to interrupt an action — if one character breaks into the workshop where another character is working, for example.
-We don’t provide fixed rules for this, because no fixed set of rules could be comprehensive without being unwieldy.
-GMs are encouraged to adjudicate such situations as they arise.
-
-</aside>
 
 ## Duration of Play
 
@@ -612,8 +612,8 @@ Some game mechanisms depend on *adventures*, *sessions* and *scenes*—for examp
 If your group plays very long (or very short) sessions, your GM may need to adjust how often session-dependent events occur.
 The GM can declare a *session break* (or "long rest," if you prefer); this is treated like a normal break between sessions, during which, for example, characters will gain a *Luck Point*.
 
-<aside class="clarification">
+[[clarification]]
+|
+|Here, "session break" is a special keyword that is important to the rules; we're not saying that the GM has to give you a Luck Point every time the group takes a five-minute bathroom break.
+|
 
-Here, "session break" is a special keyword that is important to the rules; we're not saying that the GM has to give you a Luck Point every time the group takes a five-minute bathroom break.
-
-</aside>

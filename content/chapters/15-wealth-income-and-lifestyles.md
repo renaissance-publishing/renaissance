@@ -56,30 +56,30 @@ These rules are summarized in the table below:
 | Item cost is more than 1 greater than wealth | cannot purchase              |
 | You are wealth level 0                       | cannot purchase              |
 
-<aside class="designnote">
+[[designnote]]
+|
+|### Character Wealth
+|
+|The wealth-and-trade system may seem a little odd to someone coming from a game that measures wealth in gold, silver and copper;
+|why is it put together this way?
+|
+|One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
+|But that's far from the entire motivation!
+|
+|Much like *Eclipse Phase*, we want players to be able to *choose* how important wealth is to their character-concept, and to be able to play characters with vastly different levels of wealth;
+|players should be able to start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, both of whom are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
+|In particular, much like *Eclipse Phase*, we want "the character who provides the party with things that they need" to be a *player* role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
+|This means that our wealth system needs to *scale elegantly*, supporting everything from destitute drifters to propertied nobles.
+|
+|At the same time, as a design principle, we try to avoid making characters keep track of *tedious and unimportant details*.
+|This means that we want our wealth system to allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down with "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
+|
+|That's why we've designed our wealth system the way we have; we've broken wealth levels and item costs down using a roughly *logarithmic* scale, and we've designed our bartering system so that you only need to keep track of *what level of item you start to have trouble paying for*, and *how many of those items you can probably buy*.
+|
+|Another consequence of this design is that we *don't* measure character power or advancement in magical items and wealth.
+|That might be less evident here — that's why we've made minimal provision for *changing* your wealth level — but it has more profound impact elsewhere.
+|
 
-### Character Wealth
-
-The wealth-and-trade system may seem a little odd to someone coming from a game that measures wealth in gold, silver and copper;
-why is it put together this way?
-
-One simple reason is that this game is based partly on *Eclipse Phase*, and *Eclipse Phase* uses a similar cost-level system.
-But that's far from the entire motivation!
-
-Much like *Eclipse Phase*, we want players to be able to *choose* how important wealth is to their character-concept, and to be able to play characters with vastly different levels of wealth;
-players should be able to start out wealthy (like Lady Katrine, the noble-born merchant) or stay poor (like Aryn the hunter or Lohrs the folk-hero, both of whom are as like as not to refuse a reward) without breaking a "treasure-by-level" table.
-In particular, much like *Eclipse Phase*, we want "the character who provides the party with things that they need" to be a *player* role, and "being incredibly rich and just buying things" is a valid strategy for succeeding in that role.
-This means that our wealth system needs to *scale elegantly*, supporting everything from destitute drifters to propertied nobles.
-
-At the same time, as a design principle, we try to avoid making characters keep track of *tedious and unimportant details*.
-This means that we want our wealth system to allow a wealthy character (like Lady Katrine or General Chandra) to purchase a wide variety of useful things for the party, without bogging the game down with "cash-register math" and *especially* without wasting time trying to figure out how Lady Katrine "makes change" out of her immense estate to buy a meal.
-
-That's why we've designed our wealth system the way we have; we've broken wealth levels and item costs down using a roughly *logarithmic* scale, and we've designed our bartering system so that you only need to keep track of *what level of item you start to have trouble paying for*, and *how many of those items you can probably buy*.
-
-Another consequence of this design is that we *don't* measure character power or advancement in magical items and wealth.
-That might be less evident here — that's why we've made minimal provision for *changing* your wealth level — but it has more profound impact elsewhere.
-
-</aside>
 
 ## Bartering
 
@@ -159,17 +159,17 @@ After completing all 20 shifts of work, you are credited with your income; you m
 Note that we don't have any particular rules for how large a wealth dot you can fill — we haven't assigned wealth levels to different skills, and we don't require certain numbers of ranks to refill dots of a certain level.
 This doesn't mean that you can use 20 ranks in Profession: Farmer to refill a Level 5 wealth dot; the GM has the prerogative to limit the highest level of wealth dot that you can fill with a certain skill.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|If you want to be able to use your skills to *work for income*, it's a good idea to talk about that with your GM *during character creation*, so that you'll know if your skill selection is going to work for that.
+|
 
-If you want to be able to use your skills to *work for income*, it's a good idea to talk about that with your GM *during character creation*, so that you'll know if your skill selection is going to work for that.
 
-</aside>
+[[gmguidance]]
+|
+|While you *can* restrict a player from using an inappropriate skill to work for income, we encourage you to be lenient; we intend for players to be able to recharge their wealth dots during down-time, and we chose not to build "hard" requirements into the system.
+|
 
-<aside class="gmguidance">
-
-While you *can* restrict a player from using an inappropriate skill to work for income, we encourage you to be lenient; we intend for players to be able to recharge their wealth dots during down-time, and we chose not to build "hard" requirements into the system.
-
-</aside>
 
 ### Investments
 

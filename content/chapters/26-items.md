@@ -13,23 +13,23 @@ Items are broken into five categories: *trivial, minor, moderate, major,* and *e
 This determines their cost both at character creation (see *Character Creation*) and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
 These categories represent each item's cost, but they also correspond loosely with how *important* we expect each item to be in defining a given character; "how important is this purchase" is a useful guideline for GMs assigning costs to items that are not listed.
 
-<aside class="designnote">
+[[designnote]]
+|
+|### Why Not Specific Prices
+|
+|Why do we use cost-categories instead of specific prices?
+|
+|For three reasons:
+|
+|- one, because it actually is *realistic*: before central banks and stable currencies, bartering (without fixed prices) was common;
+|- two, because it saves people having to do "cash-register math," which is never an exciting step in an adventure; and
+|- three, because it allows us to skip boring and tedious details&mdash;because, for characters with very high levels of wealth, the *exact* cost of a night at an inn is an unimportant detail (see also the rules for bartering in *Wealth, Income and Lifestyles*).
+|
+|We recommend that you don't worry about the difference between the price of a *tent* and the price of a *meal*.
+|In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game&mdash;and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
+|(See also *Wealth, Income and Lifestyles*.)
+|
 
-### Why Not Specific Prices
-
-Why do we use cost-categories instead of specific prices?
-
-For three reasons:
-
-- one, because it actually is *realistic*: before central banks and stable currencies, bartering (without fixed prices) was common;
-- two, because it saves people having to do "cash-register math," which is never an exciting step in an adventure; and
-- three, because it allows us to skip boring and tedious details&mdash;because, for characters with very high levels of wealth, the *exact* cost of a night at an inn is an unimportant detail (see also the rules for bartering in *Wealth, Income and Lifestyles*).
-
-We recommend that you don't worry about the difference between the price of a *tent* and the price of a *meal*.
-In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game&mdash;and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
-(See also *Wealth, Income and Lifestyles*.)
-
-</aside>
 
 The mages and artisans of the Commonwealth have a servicable command of
 magic; while magical items tend to be rarer and more expensive than
@@ -126,29 +126,29 @@ Most *extreme* items are intended to play a major role in how you define your ch
 - land-holdings
 - a prosperous trading business
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### Designing Major and Extreme Items
+|
+|We claim that you can purchase unique magical items and priceless, character-shaping treasures, but we don't give you an actual *list*, and we don't give you rules for making them.
+|So, where are these alleged treasures supposed to come from?
+|
+|Simply put, players and characters make them themselves.
+|
+|Designing *major* and *extreme* items is a collaborative process between players and GMs.
+|A player who has a magic item in mind describes it to the GM, and then the GM and player work collaboratively to build a description and rules for it.
+|
+|There are a few examples throughout this section, but we will provide you with some guidelines below (these guidelines are most applicable to magical weapons).
+|
+|- **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
+|- **Items shouldn't eclipse other options.**  An item you're paying 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
+|  - This is why you shouldn't add a "hard invisibility" cloak, for example.
+|- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game — even though people are going to ask.
+|  - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
+|  - Items that give you extra actions or turns in combat are a very bad idea.
+|  - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits some deliberate game-design choices.  (If you find yourself in frequent need of an impulse-healing item, consider running your game in a system that's designed to focus on combat-heavy adventures.)
+|
 
-### Designing Major and Extreme Items
-
-We claim that you can purchase unique magical items and priceless, character-shaping treasures, but we don't give you an actual *list*, and we don't give you rules for making them.
-So, where are these alleged treasures supposed to come from?
-
-Simply put, players and characters make them themselves.
-
-Designing *major* and *extreme* items is a collaborative process between players and GMs.
-A player who has a magic item in mind describes it to the GM, and then the GM and player work collaboratively to build a description and rules for it.
-
-There are a few examples throughout this section, but we will provide you with some guidelines below (these guidelines are most applicable to magical weapons).
-
-- **Items should have clear rules.**  You don't have to specify everything exhaustively, but you should make sure that the GM understands what the player *definitely can do* (and *wants to do*) with their item, and you should make sure that the player understands what they *definitely can't do* (and what the GM considers out-of-bounds).  You should also look out for any "special cases" and what-ifs that you'll need to cover.
-- **Items shouldn't eclipse other options.**  An item you're paying 10 CP for should probably be better than an item you're playing 5 CP for, but an item should generally never completely outstrip some other character design.  Major things to look out for are that an item should never completely remove the need for a specific character archetype, should never grant the same ability as a power-but-better, and should never replace the need for a skill.
-  - This is why you shouldn't add a "hard invisibility" cloak, for example.
-- **Items shouldn't open certain Pandora's Boxes.**  There are some items you just shouldn't introduce into the game — even though people are going to ask.
-  - Items that add "flat" aptitude bonuses or "flat" damage boosts are a bad idea.  The former is at once too powerful (because it effects too many skills too cheaply) and not as useful as it seems (because of how the D100 system works), and the latter is unbalancable unless you start giving enemies ever-increasing DUR (which forces every other character to play the same damage-stacking game).
-  - Items that give you extra actions or turns in combat are a very bad idea.
-  - "Impulse" healing potions are a bad idea too.  Healing is supposed to be difficult, and making it too easy short-circuits some deliberate game-design choices.  (If you find yourself in frequent need of an impulse-healing item, consider running your game in a system that's designed to focus on combat-heavy adventures.)
-
-</aside>
 
 [[designnote | Mundane Items]]
 | We've got lists of weapons, armors, and drugs; why isn't there a list of mundane items, like tents and saddles?
@@ -970,16 +970,16 @@ Damage: 1d10+5+DB
 
 AP: 2
 
-<aside class="designnote">
+[[designnote]]
+|
+|The combination of Vulnerable and Fend may seem a little odd.
+|Vulnerable means that the weapon is not very useful when defending
+|against an attack, while fend means that the weapon is good at keeping
+|an opponent at range. This makes some sense, as long spears can be used
+|to threaten an opponent into keeping their distance, but are not very
+|good at parrying or defending should an opponent manage to get close.
+|
 
-The combination of Vulnerable and Fend may seem a little odd.
-Vulnerable means that the weapon is not very useful when defending
-against an attack, while fend means that the weapon is good at keeping
-an opponent at range. This makes some sense, as long spears can be used
-to threaten an opponent into keeping their distance, but are not very
-good at parrying or defending should an opponent manage to get close.
-
-</aside>
 
 ### Halberd
 
@@ -1232,20 +1232,20 @@ The following *special arrows* can be used with composite bows and longbows:
 
 As always, this list is not exhaustive; players and GMs should feel free to add more as desired.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|*Improvised arrows* are listed even though we don't track "normal" ammo consumption, because you never know when you'll have your arrows stolen, or when the GM will declare that, over the course of the last month of travel, you've definitely run out of arrows.
+|
 
-*Improvised arrows* are listed even though we don't track "normal" ammo consumption, because you never know when you'll have your arrows stolen, or when the GM will declare that, over the course of the last month of travel, you've definitely run out of arrows.
 
-</aside>
+[[designnote]]
+|
+|As-written, these arrows can't be used with crossbows, because we assume that that crossbow bolts have very different *terminal ballistics* that impose tighter constraints on how their bolt-heads can be designed and how differently they can perform.
+|Basically, they travel faster and strike harder, so the heads probably have to be designed more similarly to punch through armor.
+|
+|Of course, "we" (meaning the lead author) could *very easily* be wrong about this — or ths might just be boring — so GMs and players should feel free to disregard this restriction.
+|
 
-<aside class="designnote">
-
-As-written, these arrows can't be used with crossbows, because we assume that that crossbow bolts have very different *terminal ballistics* that impose tighter constraints on how their bolt-heads can be designed and how differently they can perform.
-Basically, they travel faster and strike harder, so the heads probably have to be designed more similarly to punch through armor.
-
-Of course, "we" (meaning the lead author) could *very easily* be wrong about this — or ths might just be boring — so GMs and players should feel free to disregard this restriction.
-
-</aside>
 
 ## Exotic Weapon
 
@@ -1470,20 +1470,20 @@ The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
 Even though it is functionally a part of Chandra’s body, and he wields it as his own arm, it is still so powerful and durable that it counts as a weapon.
 Chandra can attack with it using either the One-Handed Weapons or Unarmed skills, he is always considered armed, and he can even parry with it.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|#### Designing the Bronze Arm
+|
+|The Bronze Arm is an excellent item; it makes Chandra much better at his chosen role (an extreme-durability melee powerhouse) while it also helps underscores many of Chandra's themes (his wealth and nobility, his long experience on the battlefield, and his incredible durability).
+|
+|Chandra's player specifically wanted the arm to be useful as a weapon in combat — he very specifically wanted to be able to parry with it; though it may seem like an afterthought, the fact that *Chandra is always considered armed, and can even parry with it* is perhaps the most important line of the description.
+|
+|Chandra's player wanted to be able to shock people with the arm.
+|His GM was concerned that adding a shock effect to any melee damage Chandra did was too powerful — and besides, as an action, it should be a power.
+|
+|Perhaps surprisingly, the bonus DUR, STR and AV was the GM's idea, offered as a compromise after moving the shock effect to a separate power.
+|
 
-#### Designing the Bronze Arm
-
-The Bronze Arm is an excellent item; it makes Chandra much better at his chosen role (an extreme-durability melee powerhouse) while it also helps underscores many of Chandra's themes (his wealth and nobility, his long experience on the battlefield, and his incredible durability).
-
-Chandra's player specifically wanted the arm to be useful as a weapon in combat — he very specifically wanted to be able to parry with it; though it may seem like an afterthought, the fact that *Chandra is always considered armed, and can even parry with it* is perhaps the most important line of the description.
-
-Chandra's player wanted to be able to shock people with the arm.
-His GM was concerned that adding a shock effect to any melee damage Chandra did was too powerful — and besides, as an action, it should be a power.
-
-Perhaps surprisingly, the bonus DUR, STR and AV was the GM's idea, offered as a compromise after moving the shock effect to a separate power.
-
-</aside>
 
 #### The Hunter’s Bow
 
@@ -1505,18 +1505,18 @@ The bow pulses gently based on the whether the bow is facing towards the target,
 
 Being struck with a tracker bolt (or a light bolt, for that matter) feels somewhat like being pinched, but is otherwise harmless.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|#### Designing the Hunter's Bow
+|
+|The initial idea for Aryn's magical bow was that she would have unlimited ammo; as significant as this would be *in the world,* it is not mechanically useful, since we ordinarily do not track ammo anyway.
+|
+|The *light* and *track* bolt-modes where added to underscore Aryn's role as a hunter — and in particular to be useful while delving into deep caves to fight the Leapers.
+|
+|Aryn's player often requests a multi-shot power for the bow; some approve it, and some don't.
+|(Neither answer is correct — it's up to each GM.)
+|
 
-#### Designing the Hunter's Bow
-
-The initial idea for Aryn's magical bow was that she would have unlimited ammo; as significant as this would be *in the world,* it is not mechanically useful, since we ordinarily do not track ammo anyway.
-
-The *light* and *track* bolt-modes where added to underscore Aryn's role as a hunter — and in particular to be useful while delving into deep caves to fight the Leapers.
-
-Aryn's player often requests a multi-shot power for the bow; some approve it, and some don't.
-(Neither answer is correct — it's up to each GM.)
-
-</aside>
 
 #### Flashback Anchor
 
@@ -1532,18 +1532,18 @@ If she succeeds, she successfully activates the Anchor, and reappears where her 
 Even if she fails to activate the device, it still provides *some* protection: if Notebook arrives only partly in a solid object — or in some similar condition — the device will attempt to "eject" her from the obstruction, causing her to arrive next to it (if there is room).
 This process is jarring — Notebook experiences a violent impact, like falling off roof: she takes 1d10 DV, and her armor does not apply.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|#### Designing the Flashback Anchor
+|
+|The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often — but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.
+|
+|The Flashback Anchor gives Notebook an extra layer of protection when teleporting.
+|It doesn't guarantee her safety — since then she could "brute force" any building within range by teleporting at it over and over again — but it does give her a fighting chance if a jump goes wrong.
+|
+|The design of the Flashback Anchor reflects the peculiar flair for danger and tough consequences of the GM that first approved it; other GM's might allow a similar device to completely and automatically save Notebook, but place some other limit on it (like a number of charges, for example, or a "cooldown time" after a failed jump).
+|
 
-#### Designing the Flashback Anchor
-
-The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often — but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.
-
-The Flashback Anchor gives Notebook an extra layer of protection when teleporting.
-It doesn't guarantee her safety — since then she could "brute force" any building within range by teleporting at it over and over again — but it does give her a fighting chance if a jump goes wrong.
-
-The design of the Flashback Anchor reflects the peculiar flair for danger and tough consequences of the GM that first approved it; other GM's might allow a similar device to completely and automatically save Notebook, but place some other limit on it (like a number of charges, for example, or a "cooldown time" after a failed jump).
-
-</aside>
 
 ## Alchemical Items (Chemicals, Drugs, Poisons, Potions and Bombs)
 
@@ -1775,19 +1775,19 @@ The time required to craft an item is at the GM's discretion, but we provide the
 - **Major Item**: 20 shift Job
 - **Extreme Item**: 150 shift Job
 
-<aside class="clarification">
+[[clarification]]
+|
+|Note that the crafting "system" as presented is somewhat minimal.
+|How do you know if you have raw materials?
+|Under reasonable circumstances, your character *just does*.
+|What does your character know how to make?
+|We haven't stated any limits to what your character knows, so they know how to make pretty much anything it's reasonable for them to make.
+|(Of course, *Knowledge* or *Craft* checks may be required for a character to know how to produce an *unusual*, *exotic* or *novel* item.)
+|
+|This system is designed to be light-weight, and to allow *Crafter* characters to make a large impact on the game with minimal "drag"—if you've noticed that, taken together, this means that a party with a competent chemist can, for example, have basically as many jars of *Tar* as they want, then you're correct!
+|That's the reward for having a character who invested in chemistry.
+|
+|Of course, that's not appropriate for all groups; some players might want a little more guidance on what's possible, or prefer a deeper system — and, conversely, some GM's might want to put more limits on what their crafters are capable of.
+|If you fall into either of those categories, consider the rules in *Advanced Crafting* in *Alternate Rules*.
+|
 
-Note that the crafting "system" as presented is somewhat minimal.
-How do you know if you have raw materials?
-Under reasonable circumstances, your character *just does*.
-What does your character know how to make?
-We haven't stated any limits to what your character knows, so they know how to make pretty much anything it's reasonable for them to make.
-(Of course, *Knowledge* or *Craft* checks may be required for a character to know how to produce an *unusual*, *exotic* or *novel* item.)
-
-This system is designed to be light-weight, and to allow *Crafter* characters to make a large impact on the game with minimal "drag"—if you've noticed that, taken together, this means that a party with a competent chemist can, for example, have basically as many jars of *Tar* as they want, then you're correct!
-That's the reward for having a character who invested in chemistry.
-
-Of course, that's not appropriate for all groups; some players might want a little more guidance on what's possible, or prefer a deeper system — and, conversely, some GM's might want to put more limits on what their crafters are capable of.
-If you fall into either of those categories, consider the rules in *Advanced Crafting* in *Alternate Rules*.
-
-</aside>

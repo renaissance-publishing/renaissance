@@ -161,22 +161,22 @@ If the Easterners can seize control of the Kingdoms, and if they strike an allia
 
 Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance between the Shaded Sea People, the Goblins and the Eastern Kingdoms seems unlikely; the Human and Goblin nations have a long history of conflict, and the Shaded Sea People have no significant contact with either; what's more, the Eastern Kingdom's obvious contempt for non-humans would make such an alliance difficult to strike (and impossible to sustain).
 
-<aside class="hook">
+[[hook]]
+|
+|The internal politics of the Kingdoms of Men are one of the major conflicts that drives the plot of Renaissance, and are a major source of plot hooks; the fate of the known world rests in the balance, and there's plenty of room for assassinations, blackmail, dirty tricks and secrets to make a difference!
+|
+|Players can
+|
+|* investigate assassinations,
+|* blackmail nobles into supporting an alliance with the Commonwealth,
+|* assassinate Eastern Kingdoms nobles themselves,
+|* discover ancient family secrets — secret shames, ancient contracts, deals with powerful spirits, family curses,
+|* discredit hostile noble lines,
+|* break up powerful alliances,
+|
+|and on and on!
+|
 
-The internal politics of the Kingdoms of Men are one of the major conflicts that drives the plot of Renaissance, and are a major source of plot hooks; the fate of the known world rests in the balance, and there's plenty of room for assassinations, blackmail, dirty tricks and secrets to make a difference!
-
-Players can
-
-* investigate assassinations,
-* blackmail nobles into supporting an alliance with the Commonwealth,
-* assassinate Eastern Kingdoms nobles themselves,
-* discover ancient family secrets — secret shames, ancient contracts, deals with powerful spirits, family curses,
-* discredit hostile noble lines,
-* break up powerful alliances,
-
-and on and on!
-
-</aside>
 
 ### The Certan Movement
 
@@ -195,18 +195,18 @@ The Certa are not a peaceful movement; not all of the nobles that they have disp
 Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances — and others have obviously been assassinated.
 Though the Certanis have not yet been proven responsible, they have also not been particularly subtle — particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
 
-<aside class="hook">
+[[hook]]
+|
+|#### Plot Hook: Certa
+|
+|The Certanis are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
+|
+|* The Certanis may began an open insurrection; this might provide the Goblin Kingdoms with an opportunity for attack, pull the Commonwealth into a war to defend their Western allies, or — if the Certanis and the West wound each other too badly — place the Eastern Kings in command of the Empire.
+|* A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
+|* The Certans are a recent movement; the party may simply be dispatched to investigate them — to decide if they're a potential ally or a potential threat.
+|* The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
+|
 
-#### Plot Hook: Certa
-
-The Certanis are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
-
-* The Certanis may began an open insurrection; this might provide the Goblin Kingdoms with an opportunity for attack, pull the Commonwealth into a war to defend their Western allies, or — if the Certanis and the West wound each other too badly — place the Eastern Kings in command of the Empire.
-* A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
-* The Certans are a recent movement; the party may simply be dispatched to investigate them — to decide if they're a potential ally or a potential threat.
-* The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
-
-</aside>
 
 Though the Certanis are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
 Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners — can actually vote in elections for the *Chamber of Law*, or hold seats in it.
@@ -216,36 +216,36 @@ The Certanis consider themselves natural allies to the Commonwealth — their mo
 Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certanis; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certanis and the Commonwealth somewhat fraught.
 What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility — even if they have largely surrendered power to representative governments.
 
-<aside class="hook">
+[[hook]]
+|
+|#### Plot Hook: Certa's Secret Loyalties
+|
+|Why *have* the Kings of the West been the Certani's main victims?
+|Certainly one possibility is that they're weaker.
+|Though the Kings of the West are often wealthier than those of the East, they are also often less militaristic and more mercantile — thus they're more vulnerable to insurrection.
+|
+|Another possibility is that the Certanis are a cat's-paw; if so, who's agenda are they really serving?
+|
+|It might be the Kings of the East; they may using the Certanis to weaken and slay the Kings of the West, in a way that the Commonwealth will not rapidly intervene to stop.
+|It might be the Goblin Kings, for much the same reason — this may be more likely, given that the Certanis are expanding rapidly towards the coast of the Glass Sea.
+|Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
+|It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
+|It might even be a Tempter — or a spirit like them — seeking power for themselves.
+|
 
-#### Plot Hook: Certa's Secret Loyalties
 
-Why *have* the Kings of the West been the Certani's main victims?
-Certainly one possibility is that they're weaker.
-Though the Kings of the West are often wealthier than those of the East, they are also often less militaristic and more mercantile — thus they're more vulnerable to insurrection.
+[[gmguidance]]
+|
+|#### Defining Certa
+|
+|GMs have a fair amount of leeway in how they depict Certa.
+|
+|They might be a cynical movement no better than the kings they're replacing — an *effectively* hereditary ruling class replacing a *directly* hereditary one.
+|Or they might be a major positive step for the Empire, despite their flaws — a sincere republican movement that heralds the breaking up of royal power.
+|
+|Pick a Certa that fits the game you want to run!
+|
 
-Another possibility is that the Certanis are a cat's-paw; if so, who's agenda are they really serving?
-
-It might be the Kings of the East; they may using the Certanis to weaken and slay the Kings of the West, in a way that the Commonwealth will not rapidly intervene to stop.
-It might be the Goblin Kings, for much the same reason — this may be more likely, given that the Certanis are expanding rapidly towards the coast of the Glass Sea.
-Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
-It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
-It might even be a Tempter — or a spirit like them — seeking power for themselves.
-
-</aside>
-
-<aside class="gmguidance">
-
-#### Defining Certa
-
-GMs have a fair amount of leeway in how they depict Certa.
-
-They might be a cynical movement no better than the kings they're replacing — an *effectively* hereditary ruling class replacing a *directly* hereditary one.
-Or they might be a major positive step for the Empire, despite their flaws — a sincere republican movement that heralds the breaking up of royal power.
-
-Pick a Certa that fits the game you want to run!
-
-</aside>
 
 ### The Haffa
 
@@ -260,17 +260,17 @@ The Haffa are one of only two stable, healthy and fertile populations of Elf-Hum
 The Haffa maintain their health through selective breeding, special medicines, and magical intervention — the exact nature of which is not widely known outside of the Haffa royal line.
 (Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world — they are certainly among the best in the Kingdoms.)
 
-<aside class="hook">
+[[hook]]
+|
+|#### Plot Hook: The Secrets of the Haffa
+|
+|The (secret) magical intervention that the Haffa use to ensure their health is an obvious plot hook.
+|What is it?
+|Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
+|What spirit was it struck with, and what cost was demanded?
+|Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
+|
 
-#### Plot Hook: The Secrets of the Haffa
-
-The (secret) magical intervention that the Haffa use to ensure their health is an obvious plot hook.
-What is it?
-Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
-What spirit was it struck with, and what cost was demanded?
-Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
-
-</aside>
 
 The Haffans politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
 Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
@@ -729,62 +729,62 @@ Since the rise of the Dragonshire — and especially since the Kingdoms of Men r
 
 Their fortunes have changed dramatically since the creation of the Goblin Empire and their conquest of the Ruby Plane.
 
-<aside class="floating">
+[[floating]]
+|
+|A society with several power-centers, all cooperating under the aegis of the Empire to plunder the Ruby Plane.
+|
+|---
+|
+|#### Major Character: Second-Empress.
+|
+|Her name in High Goblin can't be transliterated, but in Speech-of-the-Lesser, she is simply called Second-Empress; she is the daughter of the first Empress.
+|She rules the Goblin Empire, and is leading their pillage of the Ruby Plane.
+|So far, she has successfully kept the Kings, Warlords and rising merchant class sweet, while slowly but steadily advancing the power of the Empire.
+|
+|---
+|
+|#### Major City: Strong-Throne
+|
+|Strong-Throne is the capital of the Empire, located in the south-center of Goblin territory on the Emerald Plane.
+|The city has a population of roughly 450,000, contains the Imperial throne, and is the center of their administration and military command.
+|
+|#### Major City: Market-of-the-Empire
+|
+|Market-of-the-Empire is a city of more than a million located only 70 miles from the Imperial frontier on the Ruby Plane.
+|The city is not a seat of Imperial administration; rather, it is a center of trade and business; here, slaves and pillage from the frontier are traded for coin and supplies from the Emerald Plane.
+|Perhaps as few as 300,000 of the city's occupants are resident citizens; they are joined by another 300,000 traders, travellers and transients, and between 400,000 and 800,000 slaves.
+|
+|---
+|
+|#### Language: Classical Goblin
+|
+|Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
+|
+|Goblins have an unusually wide vocalization range, and their language spans all of it.
+|Few other races can speak it — which suits Goblin cultural values.
+|
+|*Group GR+DDK*
+|
+|#### Language: Vulgar Goblin
+|
+|Vulgar Goblin is the form of the Goblin language in use today.
+|Vulgar Goblin has borrowed from the languages of many of the races that they have encountered (or enslaved) over the centuries.
+|
+|Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new words by combining existing ones; this means that many words and place-names can be nicely rendered in Commonwealth Standard.
+|
+|*Group GR+DDK*
+|
+|#### Language: Speech-of-the-Lesser
+|
+|Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
+|It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
+|
+|Notably, Many Goblins do not speak Speech-of-the-Lesser — in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
+|This task often falls to slave-tenders — often Gremlins or low-born Goblins — who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
+|
+|*Any Group*
+|
 
-A society with several power-centers, all cooperating under the aegis of the Empire to plunder the Ruby Plane.
-
----
-
-#### Major Character: Second-Empress.
-
-Her name in High Goblin can't be transliterated, but in Speech-of-the-Lesser, she is simply called Second-Empress; she is the daughter of the first Empress.
-She rules the Goblin Empire, and is leading their pillage of the Ruby Plane.
-So far, she has successfully kept the Kings, Warlords and rising merchant class sweet, while slowly but steadily advancing the power of the Empire.
-
----
-
-#### Major City: Strong-Throne
-
-Strong-Throne is the capital of the Empire, located in the south-center of Goblin territory on the Emerald Plane.
-The city has a population of roughly 450,000, contains the Imperial throne, and is the center of their administration and military command.
-
-#### Major City: Market-of-the-Empire
-
-Market-of-the-Empire is a city of more than a million located only 70 miles from the Imperial frontier on the Ruby Plane.
-The city is not a seat of Imperial administration; rather, it is a center of trade and business; here, slaves and pillage from the frontier are traded for coin and supplies from the Emerald Plane.
-Perhaps as few as 300,000 of the city's occupants are resident citizens; they are joined by another 300,000 traders, travellers and transients, and between 400,000 and 800,000 slaves.
-
----
-
-#### Language: Classical Goblin
-
-Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
-
-Goblins have an unusually wide vocalization range, and their language spans all of it.
-Few other races can speak it — which suits Goblin cultural values.
-
-*Group GR+DDK*
-
-#### Language: Vulgar Goblin
-
-Vulgar Goblin is the form of the Goblin language in use today.
-Vulgar Goblin has borrowed from the languages of many of the races that they have encountered (or enslaved) over the centuries.
-
-Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new words by combining existing ones; this means that many words and place-names can be nicely rendered in Commonwealth Standard.
-
-*Group GR+DDK*
-
-#### Language: Speech-of-the-Lesser
-
-Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
-It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
-
-Notably, Many Goblins do not speak Speech-of-the-Lesser — in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
-This task often falls to slave-tenders — often Gremlins or low-born Goblins — who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
-
-*Any Group*
-
-</aside>
 
 ### Kings, Warlords, Emperors and the Code
 
@@ -946,32 +946,32 @@ The Goblins have little contact with the Shaded Sea Peoples, as a continent sepa
 Deep-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
 "Deep-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves or Ground-Explorers, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
 
-<aside class="floating">
+[[floating]]
+|
+|An enigmatic Dwarven culture that lives in caves deep underground; their extent of their settlements and resources is unknown.
+|
+|---
+|
+|#### Notable Outpost: Shade-Root
+|
+|"Root-of-the-Shade-Tree" is the (awkward) formal name in Commonwealth Standard of a small Dwarven outpost near Triumph; it is often shortened to Shade-Root.
+|The entrance to the outpost is at the end of a small natural cave that branches off of the Carved Road.
+|
+|The outpost is a maze; though (some) of the walls have been bricked-over and (some) of the floors have wooden platforms and walkways, the outpost is still built within the confines of a twisting, turning natural cavern.
+|Their front gate turns back on itself before leading to a main cavern 90 *strides* \[75m\] across; small shops and residences surround the walls: some may be free-standing structures, though others are merely facades over cave entrances.
+|
+|As is usual for a *Drahrat* settlement, visitors are not allowed outside of the "main" cavern; the full extents of Shade-Root are unknown.
+|It is unknown how the outpost acquires (or produces) food, how they get out of the cavern (they make little use of the Carved Road), where their stores are kept, or even how many *Drahrat* actually live there.
+|
+|---
+|
+|#### Languages: Drahrat
+|
+|The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven language spoken by the confederation of holds form which they departed.
+|
+|*Group HHED*
+|
 
-An enigmatic Dwarven culture that lives in caves deep underground; their extent of their settlements and resources is unknown.
-
----
-
-#### Notable Outpost: Shade-Root
-
-"Root-of-the-Shade-Tree" is the (awkward) formal name in Commonwealth Standard of a small Dwarven outpost near Triumph; it is often shortened to Shade-Root.
-The entrance to the outpost is at the end of a small natural cave that branches off of the Carved Road.
-
-The outpost is a maze; though (some) of the walls have been bricked-over and (some) of the floors have wooden platforms and walkways, the outpost is still built within the confines of a twisting, turning natural cavern.
-Their front gate turns back on itself before leading to a main cavern 90 *strides* \[75m\] across; small shops and residences surround the walls: some may be free-standing structures, though others are merely facades over cave entrances.
-
-As is usual for a *Drahrat* settlement, visitors are not allowed outside of the "main" cavern; the full extents of Shade-Root are unknown.
-It is unknown how the outpost acquires (or produces) food, how they get out of the cavern (they make little use of the Carved Road), where their stores are kept, or even how many *Drahrat* actually live there.
-
----
-
-#### Languages: Drahrat
-
-The Drahrat speak their own language, which developed from *Ehanud*, the Dwarven language spoken by the confederation of holds form which they departed.
-
-*Group HHED*
-
-</aside>
 
 ### History of the Drahrat
 
@@ -1011,17 +1011,17 @@ The *Drahrat* have also mapped extensive networks of caves, and sometimes offer 
 They appear to have some mechanism that allows them to pass under the Worldspine mountains, and to reach the Haven Isles and Ruby Plane as well; whether they have dug their own underways (like those constructed by Kobolds) or have built something like the Commonwealth's Kairne Network — or perhaps a mix of both — is unknown.
 It is suspected that they have a larger population that they have revealed, that they have access to water and some kind of farming, and that they have larger cities that they have not revealed — although whether this is true and what form any of them may take is unknown.
 
-<aside class="hook">
+[[hook]]
+|
+|#### Plot Hook: Secrets of the Deep-Explorer Dwarves
+|
+|Obviously, the secrets of the Deep-Explorer Dwarves are rife with plot-hooks.
+|
+|* If the Leapers find a way to breach the Deep-Explorer Dwarves unknown transit method — be it a tunnel like the Kobold's Underway or a Kairne-like network — then every *Drahrat* settlement might suddnely become a Shaded Sea People invasion-corridor.
+|* Less dramatically, if the Leapers take a *Drahrat* settlement, then they might have access to the *Drahrat*'s unknown transit-path; the *Drahrat* may turn to the Commonwealth for aid in fighting off this common enemy.
+|* A hook that goes back before role-playing games existed, the *Drahrat* may find something deep underground — something dangerous, something they can't control.  This might be as simple as a giant flaming monster, as insidious as a mysterious organism taking them over (ironically enough), or as strange as an ancient carved totem of inscrutible power and origin (or some other out-of-context problem).
+|
 
-#### Plot Hook: Secrets of the Deep-Explorer Dwarves
-
-Obviously, the secrets of the Deep-Explorer Dwarves are rife with plot-hooks.
-
-* If the Leapers find a way to breach the Deep-Explorer Dwarves unknown transit method — be it a tunnel like the Kobold's Underway or a Kairne-like network — then every *Drahrat* settlement might suddnely become a Shaded Sea People invasion-corridor.
-* Less dramatically, if the Leapers take a *Drahrat* settlement, then they might have access to the *Drahrat*'s unknown transit-path; the *Drahrat* may turn to the Commonwealth for aid in fighting off this common enemy.
-* A hook that goes back before role-playing games existed, the *Drahrat* may find something deep underground — something dangerous, something they can't control.  This might be as simple as a giant flaming monster, as insidious as a mysterious organism taking them over (ironically enough), or as strange as an ancient carved totem of inscrutible power and origin (or some other out-of-context problem).
-
-</aside>
 
 The full extent of their military resources are unknown, but their defences appear impressive.
 In CY 795, a Shaded Sea raiding party broke into the Carved Road and attacked the settlement of Shade-Root (see above); this allowed several Commonwealth traders caught in the settlement's market a rare glimpse into the *Drahrat*'s formidable defences.
@@ -1036,47 +1036,45 @@ Invaders struck by these bolts fell rapidly even when their wounds where minor, 
 Foam-and-Cloud is a Goblinoid government spanning part of the Horizon Islands — an island chain in the Great Gulf.
 The chain has three large islands; one has recently been claimed by the Commonwealth, and has been substantially fortified, while the other two — and most of the smaller islands of the chain — have been claimed by the Turquoise Kings, the Kings of Foam and Cloud.
 
-<aside class="floating">
-
-A Goblin kingdom in the Great Gulf between the Emerald and Ruby Planes; they have been changed radically by assimilating values and customs from their Commonwealth subjects.
-The High Road operates here with impunity.
-
----
-
-#### Major Character: the Sand-Shelled King
-
-The Sand-Shelled King is the current king of the Kingdom of Foam and Cloud.
-He is the latest in the line that founded the Kingdom more than two hundred years ago, the line of the Kings-of-Bronze.
-
-Despite being a Goblin king, he speaks fluent Commonwealth Standard, and is sympathetic to the Commonwealth.
-
----
-
-#### Major City: Hurricane
-
-Hurricane was the largest of the cities founded by Goblin settlers; it was the city where the Bronze King made his home, and established his throne.
-The Bronze Kings have since moved their throne to Winds-of-Gold, but Hurricane remains a cultural center for the Goblin population on the island; it is still strongly aligned with the Bronze King.
-
-It is located in the southeast of Cloud Island, and has a population of 350,000.
-
-#### Major City: Winds-of-Gold
-
-Winds-of-Gold was a large, wealthy city on the southern coast of Foam Island; it was the third city to fall to the King of Bronze, and the second to accept tribute to end his seige.
-The Bronze King was carful to ensure the quick recovery of the wealthy city and its profitable markets; it has since become the largest city in the islands.
-The Fourth Bronze King moved his throne to Winds-of-Gold in CY 651, and the city is still the capital today.
-
-The city sits on the south shore of Foam Island and has a population of 550,000.
-
----
-
-#### Languages
-
-Countless languages are spoken in this small island kingdom.
-Commonwealth Standard (Any), Heartland Gnoll (GR), and Weal (HHED) are all common in Commonwealth-descended communities.
-High Goblin (HHED+GR), Speech-of-the-Lesser (Any), and Vulgar Goblin (HHED+GR) are all common in Goblin communities.
-Commonwealth Standard and Vulgar Goblin are the two most common languages.
-
-</aside>
+[[abstract]]
+|
+|A Goblin kingdom in the Sea of Strife between the Emerald and Ruby Planes; they have been changed radically by assimilating values and customs from their Commonwealth subjects.
+|The High Road operates here with impunity.
+|
+|---
+|
+|#### Major Character: the Sand-Shelled King
+|
+|The Sand-Shelled King is the current king of the Kingdom of Foam and Cloud.
+|He is the latest in the line that founded the Kingdom more than two hundred years ago, the line of the Kings-of-Bronze.
+|
+|Despite being a Goblin king, he speaks fluent Commonwealth Standard, and is sympathetic to the Commonwealth.
+|
+|---
+|
+|#### Major City: Hurricane
+|
+|Hurricane was the largest of the cities founded by Goblin settlers; it was the city where the Bronze King made his home, and established his throne.
+|The Bronze Kings have since moved their throne to Winds-of-Gold, but Hurricane remains a cultural center for the Goblin population on the island; it is still strongly aligned with the Bronze King.
+|
+|It is located in the southeast of Cloud Island, and has a population of 350,000.
+|
+|#### Major City: Winds-of-Gold
+|
+|Winds-of-Gold was a large, wealthy city on the southern coast of Foam Island; it was the third city to fall to the King of Bronze, and the second to accept tribute to end his seige.
+|The Bronze King was carful to ensure the quick recovery of the wealthy city and its profitable markets; it has since become the largest city in the islands.
+|The Fourth Bronze King moved his throne to Winds-of-Gold in CY 651, and the city is still the capital today.
+|
+|The city sits on the south shore of Foam Island and has a population of 550,000.
+|
+|---
+|
+|#### Languages
+|
+|Countless languages are spoken in this small island kingdom.
+|Commonwealth Standard (Any), Heartland Gnoll (GR), and Weal (HHED) are all common in Commonwealth-descended communities.
+|High Goblin (HHED+GR), Speech-of-the-Lesser (Any), and Vulgar Goblin (HHED+GR) are all common in Goblin communities.
+|Commonwealth Standard and Vulgar Goblin are the two most common languages.
 
 ### History of Foam-and-Cloud
 
@@ -1174,62 +1172,60 @@ Though they spread slowly, they are far-flung, and can be found in wide, slow-ru
 Each river — and what tributaries and nearby lakes that can be settled — is governed by a tribe.
 Tribes, in turn, are often rife with sub-divisions, almost like a nation in miniature.
 
-<aside class="floating">
-
-A fractuous society of amphibious beings that dwells within the lakes and rivers of the Ruby Plane.
-
----
-
-#### Major City: River-Wall
-
-River-Wall is the name given to a mighty waterfall in the depths of the Ruby Isle, two major rivers joining at the peak of a cliff, descending deep into a sinkhole.
-At it's base is an aquifer-linked lake.
-A grand Mudskipper city — their capital city, by virtue of hosting the Confederation's meeting-place — is built into the waterfall and lake.
-Stone and rammed-earth structures stretch out from the very peak of the waterfall, hung in sweeping cricles.
-The waterfall's water is co-opted to fill them, with the flow carefully controlled and managed through valves and reservoirs.
-The uppermost structures are for public use — they are markets, meeting-spaces, and the Federation Chamber; smaller residential spaces descend from the hanging public spaces.
-
-The Federation Chamber are where the leaders of the various Mudskipper tribes meet to discuss the affairs of the Confederation as a whole.
-
-Wise elders manage a library of carved tablets and carefully curated, waterproofed scrolls, and Shamans placate the major spirits of the River Wall and the watery networks that the Mud-Skipper call their home. Spreading the spiritually-hued stories of their distant past for teaching the next generation.
-
----
-
-#### Language: 'Skipper
-
-The language of the Mudskippers.
-Mudskippers can only vocalize underwater, which makes the sound of their language unique.
-
-*Group MS*
-
-#### Language: 'Skipper Sign
-
-The gestural language that Mudskippers use to communicate on land.
-
-*Group Humanoid*
-
-</aside>
+[[abstract]]
+|
+|A fractuous society of amphibious beings that dwells within the lakes and rivers of the Ruby Plane.
+|
+|---
+|
+|#### Major City: River-Wall
+|
+|River-Wall is the name given to a mighty waterfall in the depths of the Ruby Isle, two major rivers joining at the peak of a cliff, descending deep into a sinkhole.
+|At it's base is an aquifer-linked lake.
+|A grand Mudskipper city — their capital city, by virtue of hosting the Confederation's meeting-place — is built into the waterfall and lake.
+|Stone and rammed-earth structures stretch out from the very peak of the waterfall, hung in sweeping cricles.
+|The waterfall's water is co-opted to fill them, with the flow carefully controlled and managed through valves and reservoirs.
+|The uppermost structures are for public use — they are markets, meeting-spaces, and the Federation Chamber; smaller residential spaces descend from the hanging public spaces.
+|
+|The Federation Chamber are where the leaders of the various Mudskipper tribes meet to discuss the affairs of the Confederation as a whole.
+|
+|Wise elders manage a library of carved tablets and carefully curated, waterproofed scrolls, and Shamans placate the major spirits of the River Wall and the watery networks that the Mud-Skipper call their home. Spreading the spiritually-hued stories of their distant past for teaching the next generation.
+|
+|---
+|
+|#### Language: 'Skipper
+|
+|The language of the Mudskippers.
+|Mudskippers can only vocalize underwater, which makes the sound of their language unique.
+|
+|*Group MS*
+|
+|#### Language: 'Skipper Sign
+|
+|The gestural language that Mudskippers use to communicate on land.
+|
+|*Group Humanoid*
 
 ### Mudskipper Communities
 
 Mudskippers are roughly-humanoid beings who inhabit the rivers, lakes, and subterranean aquifers of the Ruby Plane.
 They strongly prefer flowing water, and are well adapted to function in a current.
 
-<aside class="hook">
+[[hook]]
+|
+|The Mud-Skipper prefer flowing water, to avoid the stagnant pools of the Judges.
+|The black slime colours many of their myths and serves as a 'satan' figure — even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
+|
 
-The Mud-Skipper prefer flowing water, to avoid the stagnant pools of the Judges.
-The black slime colours many of their myths and serves as a 'satan' figure — even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
 
-</aside>
+[[hook]]
+|
+|The Mudskippers dwelling within the underground aquefers of the Ruby Plane may have contact with the Drahrat.
+|This would for trade in unique and rare goods, and for the cross-polination of ideas, for travel to distant lands, and for cooperation against their enemies.
+|Or, equally, it might lead to conflict and mistrust between the two races.
+|Or even a mixture of both, varying from tribe to tribe.
+|
 
-<aside class="hook">
-
-The Mudskippers dwelling within the underground aquefers of the Ruby Plane may have contact with the Drahrat.
-This would for trade in unique and rare goods, and for the cross-polination of ideas, for travel to distant lands, and for cooperation against their enemies.
-Or, equally, it might lead to conflict and mistrust between the two races.
-Or even a mixture of both, varying from tribe to tribe.
-
-</aside>
 
 Mudskipper towns are built underwater in the rivers and lakes in which they live — though they occasionally feature some guest rooms that open above-water for visitors.
 The layouts of their villages follow the flow and twist of the river; their buildings are built in a teardrop cross-section, with windows letting the river current flow through, impeded as little as possible.
@@ -1240,15 +1236,15 @@ Though not a universal trait, Mudskippers tend to be matriarchal, and prize lead
 Mudskippers are highly devout in their offerings and worship of the spirits of the world around them, especially the major spirits governing the rivers they live in — though they are hesitant to attempt to bind or bargain with them.
 They are also highly reluctant to discuss the reasons for this relationship.
 
-<aside class="hook">
+[[hook]]
+|
+|Why would a race so devoted to the spirits be so afraid to bargain with them?
+|What event from their past has made them so wary?
+|What threshold would have to be crossed for them to seek the intervention of the spirits?
+|
+|These mysteries are left to the GM to supply!
+|
 
-Why would a race so devoted to the spirits be so afraid to bargain with them?
-What event from their past has made them so wary?
-What threshold would have to be crossed for them to seek the intervention of the spirits?
-
-These mysteries are left to the GM to supply!
-
-</aside>
 
 ### The Mudskipper Federation
 
@@ -1256,19 +1252,19 @@ Most of the Mudskipper tribes have joined a loose union, the Mudskipper Federati
 The Federation provides a forum for the various tribes to cooperate on large projects, or to make decisions that affect them all.
 The Federation does not, however, unite the tribes, rule them, or claim to speak for them — to the point that one tribe may be a Protectorate member, while a neighbouring tribe engages in a guerilla war against the Protectorate to stop overfishing.
 
-<aside class="hook">
+[[hook]]
+|
+|The Mud-Skipper are fractious and intensely tribal; individual tribes may be members of the Protectorate, the Commonwealth, or even allied with Cloud-and-Foam.
+|Obviously, this provides ample opportunity for intrigue, infighting and tribal politics.
+|
 
-The Mud-Skipper are fractious and intensely tribal; individual tribes may be members of the Protectorate, the Commonwealth, or even allied with Cloud-and-Foam.
-Obviously, this provides ample opportunity for intrigue, infighting and tribal politics.
 
-</aside>
+[[hook]]
+|
+|A change in a river's path can be a political upheaval for the Mud-Skipper, on par with a civil war elsewhere.
+|Even moreso if the change is the result of a natural event, or a spirit's whim, instead of mortal intervention.
+|
 
-<aside class="hook">
-
-A change in a river's path can be a political upheaval for the Mud-Skipper, on par with a civil war elsewhere.
-Even moreso if the change is the result of a natural event, or a spirit's whim, instead of mortal intervention.
-
-</aside>
 
 ### Mudskippers and Other Nations
 
@@ -1286,11 +1282,11 @@ Many among these tribes, however, have come to view the Emerald Plane as an almo
 Some tribes have begung to negotiate for transport to the Emerald Plane — even go so far as to consider joining the Commonwealth.
 So far, though, no easy way has presented itself to transport the freshwater-aquatic Mudskippers across the saltwater ocean that seperates the Emerald and Ruby Planes.
 
-<aside class="hook">
+[[hook]]
+|
+|Though a small group, the Mudskippers seeking membership in the Commonwealth pose a threat to the Goblin Empire; this is one of many ways that the Commonwealth might be pulled deeper into the affairs of hte Ruby Plane, and a war with the Commonwealth might be started before *either* side has adequately prepared.
+|
 
-Though a small group, the Mudskippers seeking membership in the Commonwealth pose a threat to the Goblin Empire; this is one of many ways that the Commonwealth might be pulled deeper into the affairs of hte Ruby Plane, and a war with the Commonwealth might be started before *either* side has adequately prepared.
-
-</aside>
 
 With the goblin incursion into the Ruby Isle, they have been found largely wanting as slaves or servants, due to the expense of maintaining fresh water for their sleep, and their apparent clumsiness and inexperience with agriculture or industrial pursuits (especially on land).
 Keeping to their waterways, however, keeps them out of the way of the Goblin Empire, which has largely spared them from the predation and cruelty of the invading Goblins — for now, at least.

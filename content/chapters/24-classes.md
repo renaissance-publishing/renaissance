@@ -9,21 +9,21 @@ As such, they usually grant you either access to some group's resources, or to s
 
 In practice, though, classes can become something of a catch-all — a very diverse type of feature that represents things that are not innate properties (like traits) or discrete actions (like powers).
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### What Makes a Good Class
+|
+|Much as with traits, what makes a good class is highly subjective — and classes are even more tricky, since they are so variable.
+|As with traits, it's a good idea to understand what the difference between a trait, a class and a power is, and to understand the general guidelines for creating new content.
+|Notably, a class *shouldn't* give a character an action that they can perform or an innate property that they have: those should be separate powers or traits, respectively, although that separate power or trait can list the class as a requirement.
+|
+|There is one general rule that's worth pointing out specifically for classes: a class should not be "mandatory" for a given character concept ("mandatory" here meaning that anyone building a particular character concept would always choose to take that class).
+|Classes also shouldn't represent something that any expert in a field would know how to do: someone with 50 ranks in Spellcraft is a master mage, even if they've taken no Classes at all.
+|
+|Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a good requirement for a "basic" class (a class that doesn't require any other feature).
+|"Advanced" classes (classes that require other features) can have higher skill requirements (although they don't have to).
+|
 
-### What Makes a Good Class
-
-Much as with traits, what makes a good class is highly subjective — and classes are even more tricky, since they are so variable.
-As with traits, it's a good idea to understand what the difference between a trait, a class and a power is, and to understand the general guidelines for creating new content.
-Notably, a class *shouldn't* give a character an action that they can perform or an innate property that they have: those should be separate powers or traits, respectively, although that separate power or trait can list the class as a requirement.
-
-There is one general rule that's worth pointing out specifically for classes: a class should not be "mandatory" for a given character concept ("mandatory" here meaning that anyone building a particular character concept would always choose to take that class).
-Classes also shouldn't represent something that any expert in a field would know how to do: someone with 50 ranks in Spellcraft is a master mage, even if they've taken no Classes at all.
-
-Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a good requirement for a "basic" class (a class that doesn't require any other feature).
-"Advanced" classes (classes that require other features) can have higher skill requirements (although they don't have to).
-
-</aside>
 
   - Artisan of the Dead
     

@@ -6,30 +6,30 @@ title: "Organizations"
 
 There are many organizations active in the Commonwealth, the wider Emerald Plane, and beyond.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|Organizations can be useful, for both players and GMs.
+|For a player, membership in an organization can explain why a character is undertaking a particular adventure, and can give that character access to the kind of resources and support that they might find useful.
+|For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats — like the Far Watch — is a good place to start the adventure.
+|
+|Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not requried.
+|
+|And, of course, there are many more active organizations than the handful presented here; GMs and players should feel free to add more.
+|
 
-Organizations can be useful, for both players and GMs.
-For a player, membership in an organization can explain why a character is undertaking a particular adventure, and can give that character access to the kind of resources and support that they might find useful.
-For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats — like the Far Watch — is a good place to start the adventure.
 
-Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not requried.
+[[playerguidance]]
+|
+|### How do you join an Organization?
+|
+|"Pick an organization" isn't a character-creation step, and listing your "organization" isn't included anywhere in the "representing a character" section.
+|So, how exactly *do* you join an organization?
+|
+|As with many things in *Renaissance*, there's no one canonically correct answer to this question;
+|in general, you should start by taking the *Member* Class, and detailing it as appropriate for the organization you want to join.
+|If your arrangement with the organization is complex or comes with very specific rules, you could represent this with an additional class; likewise, if you have a prominent position in the organization that provides you with additional benefits, you represent this with an additional class (like the *Rat Queen* example class).
+|
 
-And, of course, there are many more active organizations than the handful presented here; GMs and players should feel free to add more.
-
-</aside>
-
-<aside class="playerguidance">
-
-### How do you join an Organization?
-
-"Pick an organization" isn't a character-creation step, and listing your "organization" isn't included anywhere in the "representing a character" section.
-So, how exactly *do* you join an organization?
-
-As with many things in *Renaissance*, there's no one canonically correct answer to this question;
-in general, you should start by taking the *Member* Class, and detailing it as appropriate for the organization you want to join.
-If your arrangement with the organization is complex or comes with very specific rules, you could represent this with an additional class; likewise, if you have a prominent position in the organization that provides you with additional benefits, you represent this with an additional class (like the *Rat Queen* example class).
-
-</aside>
 
 ## The Far-Watch
 
@@ -94,63 +94,63 @@ Redstone Hold itself is still under construction, but it already represents an i
 
 The Far-Watch has put considerable effort into building up the library at the hold, and to ensuring that the site has the resources that scholars of spirits, magic and alchemy will need; they have also used endowments to lure scholars, artisans and scribes to the hold, and to manor-town nearby.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|### Far-Watch Characters
+|
+|The Far-Watch is an interesting and challenging organization for a player to join.
+|One the plus side, the Far-Watch offers players access to highly skilled NPCs (powerful mages, skilled alchemists, and well-read scholars of the strange and arcane) and rare resources (well-stocked mage's shops, alchemists' laboratories, strange treasures and libraries full of arcane or forgotten knowledge).
+|On the down-side, though, they also present challenges: the Far-Watch has powerful enemies, even in the Commonwealth (in the form of nobles they've crossed, powerful cults who view them as their major enemy, and possibly even powerful Spirits whose agendas they've spoiled), and can suffer from poor resource availability (because their outposts are few, and, though they do have some wealthy patrons, they have many more projects and operatives than they have resources).
+|
+|Consider joining the Far-Watch if you:
+|
+|- Want to be a *Call of Cthulhu*—style *investigator* or an *Eclipse Phase*—style agent.
+|- Want to be a volunteer for a resource-strapped organization that will require you to improvise and do without.
+|- Want to have mages, scholars and artisans as peers.
+|
 
-### Far-Watch Characters
 
-The Far-Watch is an interesting and challenging organization for a player to join.
-One the plus side, the Far-Watch offers players access to highly skilled NPCs (powerful mages, skilled alchemists, and well-read scholars of the strange and arcane) and rare resources (well-stocked mage's shops, alchemists' laboratories, strange treasures and libraries full of arcane or forgotten knowledge).
-On the down-side, though, they also present challenges: the Far-Watch has powerful enemies, even in the Commonwealth (in the form of nobles they've crossed, powerful cults who view them as their major enemy, and possibly even powerful Spirits whose agendas they've spoiled), and can suffer from poor resource availability (because their outposts are few, and, though they do have some wealthy patrons, they have many more projects and operatives than they have resources).
+[[gmguidance]]
+|
+|### Far-Watch Campaigns
+|
+|The Far-Watch is, unsurprisingly, inspired by *Firewall*, the presumptive player-faction from Eclipse Phase; they are designed to tell similar stories.
+|
+|The Far-Watch investigates out-of-context problems, black-swan events, and strange, weird and powerful forces beyond the ken of mortal souls or lesser Spirits alike.
+|if you'd like your players to confront cosmic forces and out-of-context problems, the Far-Watch is a great quest-giver faction; similarly, if you'd like to adapt a Strugatsky brothers novel, Twilight Zone episode or Thomas Ligotti story into an adventure, then an agent of the Far-Watch with a "problem" is probably a good place to start.
+|
+|#### Far-Watch Adventure: A Bad Deal
+|
+|A small monastery in Heartland Province holds the title to a nearby manor; the residents there are worried that the monks may be striking a disastrous deal with unreliable spirits — a deal that might claim them as well.
+|
+|Are the monks striking such a deal, or do the townsfolk suspect them for nothing?
+|How dangerous is the deal?
+|What kind of spirit are they dealing with?
+|How can the party stop them — or is it already too late?
+|
+|#### Far-Watch Adventure: An Empty Town
+|
+|A small, combined Kobold and Dwarven burrow in the Haven Isles has vanished; the city remains, but the people are gone.
+|The party must determine what happened, whether the residents of the burrow can be recovered, and if it poses a threat to the wider Commonwealth.
+|
+|Where did they go?
+|Where they claimed by a spirit?
+|Abducted by Leapers?
+|Did they do it to themselves — where they experimenting with psionic or sorcerous power, and did the experiments backfire or work precisely as intended?
+|
+|#### Far-Watch Adventure: A Strange Island
+|
+|An explorer sailing west from the Haven Isles has found a deserted island with a long-abandoned village, built by a culture unknown.
+|At first, the village appeared almost normal, but, upon closer investigation, it was found to contain wondrous objects — like bronze plates that hovered away from each-other, rigidly fixed and immovable as though they where connected, or an iron trellise that, if touched, would cause any metal object to sprout tiny, branching tendrils of metal, eventually vanishing into a haze or iron filaments — where scattered among deadly hazards — like strange, shimmering patches of ground that would violently wrench the limbs of any who stepped on them, shattering bones and destroying limbs.
+|The explorers sold their discovery to the Far-Watch, who are the most qualified to plumb the secrets of the island, to determine if it could ever possibly be safely exploited — and whether or not it represents a glimpse of some greater threat that might some day come for the Commonwealth.
+|
+|What happened to the island?
+|Did the residents of the city do this to themselves?
+|Did some calamity claim them?
+|Was the catastrophy deliberate, or was it an incidental result of some other agenda?
+|What treasures may lie deeper into the unexplored city?
+|
 
-Consider joining the Far-Watch if you:
-
-- Want to be a *Call of Cthulhu*—style *investigator* or an *Eclipse Phase*—style agent.
-- Want to be a volunteer for a resource-strapped organization that will require you to improvise and do without.
-- Want to have mages, scholars and artisans as peers.
-
-</aside>
-
-<aside class="gmguidance">
-
-### Far-Watch Campaigns
-
-The Far-Watch is, unsurprisingly, inspired by *Firewall*, the presumptive player-faction from Eclipse Phase; they are designed to tell similar stories.
-
-The Far-Watch investigates out-of-context problems, black-swan events, and strange, weird and powerful forces beyond the ken of mortal souls or lesser Spirits alike.
-if you'd like your players to confront cosmic forces and out-of-context problems, the Far-Watch is a great quest-giver faction; similarly, if you'd like to adapt a Strugatsky brothers novel, Twilight Zone episode or Thomas Ligotti story into an adventure, then an agent of the Far-Watch with a "problem" is probably a good place to start.
-
-#### Far-Watch Adventure: A Bad Deal
-
-A small monastery in Heartland Province holds the title to a nearby manor; the residents there are worried that the monks may be striking a disastrous deal with unreliable spirits — a deal that might claim them as well.
-
-Are the monks striking such a deal, or do the townsfolk suspect them for nothing?
-How dangerous is the deal?
-What kind of spirit are they dealing with?
-How can the party stop them — or is it already too late?
-
-#### Far-Watch Adventure: An Empty Town
-
-A small, combined Kobold and Dwarven burrow in the Haven Isles has vanished; the city remains, but the people are gone.
-The party must determine what happened, whether the residents of the burrow can be recovered, and if it poses a threat to the wider Commonwealth.
-
-Where did they go?
-Where they claimed by a spirit?
-Abducted by Leapers?
-Did they do it to themselves — where they experimenting with psionic or sorcerous power, and did the experiments backfire or work precisely as intended?
-
-#### Far-Watch Adventure: A Strange Island
-
-An explorer sailing west from the Haven Isles has found a deserted island with a long-abandoned village, built by a culture unknown.
-At first, the village appeared almost normal, but, upon closer investigation, it was found to contain wondrous objects — like bronze plates that hovered away from each-other, rigidly fixed and immovable as though they where connected, or an iron trellise that, if touched, would cause any metal object to sprout tiny, branching tendrils of metal, eventually vanishing into a haze or iron filaments — where scattered among deadly hazards — like strange, shimmering patches of ground that would violently wrench the limbs of any who stepped on them, shattering bones and destroying limbs.
-The explorers sold their discovery to the Far-Watch, who are the most qualified to plumb the secrets of the island, to determine if it could ever possibly be safely exploited — and whether or not it represents a glimpse of some greater threat that might some day come for the Commonwealth.
-
-What happened to the island?
-Did the residents of the city do this to themselves?
-Did some calamity claim them?
-Was the catastrophy deliberate, or was it an incidental result of some other agenda?
-What treasures may lie deeper into the unexplored city?
-
-</aside>
 
 ## The High Road
 
@@ -175,43 +175,43 @@ Operatives in slave-holding nations must be far more secretive.
 They are extremely careful to protect their operations, both for their own sake, and because there are precious few reliable paths to smuggle slaves to safety from deep within the Shaded Sea, the Goblin Empire's holdings on the Ruby Plane, or the Eastern Kingdoms — if an operative is discovered, there may be no-one else to take their place.
 They are often organized into cells, knowing only the previous links in the chain, or the few that follow them.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|### High-Road Characters
+|
+|The High-Road can be a very morally satisfying faction to join — who doesn't love underdog heroes smuggling slaves to freedom?
+|They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth — even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
+|
+|Consider joining the High Road if you:
+|
+|- want to play a character who smuggles slaves (and other desperate people) to freedom.
+|- want to occasionally assassinate slavers.
+|- want to have access to a secret network whose tendrils reach into the Kingdoms, the Shaded Sea and the Goblin Empire.
+|- want to play someone from the Eastern Kingdoms, the Shaded Sea or the Goblin Empire.
+|- want to play a character who mixes stealth, deception and combat skills.
+|
 
-### High-Road Characters
 
-The High-Road can be a very morally satisfying faction to join — who doesn't love underdog heroes smuggling slaves to freedom?
-They can also be incredibly high-stakes; a High-Road character will be in incredibly danger outside of the Commonwealth — even *within* the Commonwealth, an enemy could still appear, swooping out of the darkness to capture or kill the character.
+[[gmguidance]]
+|
+|### High-Road Adventures
+|
+|The High Road are an incredibly useful organization for GMs.
+|They can be the starting-point for countless morally-satisfying adventures: there's no end of desperate, brutally-oppressed people in the Shaded Sea and Goblin Empire looking for a path to freedom, and no end of brutal tyrants in the world that the High Road would like to see dead.
+|As a secret organization with native operatives embedded throughout the Commonwealth's adversaries, they're also exceptionally useful even in campaigns that *aren't* directly about liberating slaves; they can be an invaluable source of secret information, and they might be willing to smuggle operatives from the Commonwealth *into* the Shaded Sea or Goblin Empire.
+|
+|#### High-Road Campaign: Escalating Conflict
+|
+|The town of Redstone Arch in the Dragonshire sits just across the Red-Bank River from Red-Weir, a town in the Kingdoms of Men that sits on a wide, shallow lake.
+|Over the last few weeks, both towns have been wracked by a series of disappearances, abductions and murders; the residents of Redstone Arch quietly whisper that the violence is a quiet war being fought between the High Road and a gang of slavers operating near Red-Weir.
+|The Lord of Redstone Arch offers a prize to anyone who can put an end to the violence.
+|
+|- Who's winning, the High Road or the slavers?
+|- Who's running the slaver gang?
+|- Does the party find out about the High Road — or does the High Road approach the party?
+|- Do the people of Red-Weir support the slavers, or do they perhaps want them gone almost as much as the people of Redstone?
+|
 
-Consider joining the High Road if you:
-
-- want to play a character who smuggles slaves (and other desperate people) to freedom.
-- want to occasionally assassinate slavers.
-- want to have access to a secret network whose tendrils reach into the Kingdoms, the Shaded Sea and the Goblin Empire.
-- want to play someone from the Eastern Kingdoms, the Shaded Sea or the Goblin Empire.
-- want to play a character who mixes stealth, deception and combat skills.
-
-</aside>
-
-<aside class="gmguidance">
-
-### High-Road Adventures
-
-The High Road are an incredibly useful organization for GMs.
-They can be the starting-point for countless morally-satisfying adventures: there's no end of desperate, brutally-oppressed people in the Shaded Sea and Goblin Empire looking for a path to freedom, and no end of brutal tyrants in the world that the High Road would like to see dead.
-As a secret organization with native operatives embedded throughout the Commonwealth's adversaries, they're also exceptionally useful even in campaigns that *aren't* directly about liberating slaves; they can be an invaluable source of secret information, and they might be willing to smuggle operatives from the Commonwealth *into* the Shaded Sea or Goblin Empire.
-
-#### High-Road Campaign: Escalating Conflict
-
-The town of Redstone Arch in the Dragonshire sits just across the Red-Bank River from Red-Weir, a town in the Kingdoms of Men that sits on a wide, shallow lake.
-Over the last few weeks, both towns have been wracked by a series of disappearances, abductions and murders; the residents of Redstone Arch quietly whisper that the violence is a quiet war being fought between the High Road and a gang of slavers operating near Red-Weir.
-The Lord of Redstone Arch offers a prize to anyone who can put an end to the violence.
-
-- Who's winning, the High Road or the slavers?
-- Who's running the slaver gang?
-- Does the party find out about the High Road — or does the High Road approach the party?
-- Do the people of Red-Weir support the slavers, or do they perhaps want them gone almost as much as the people of Redstone?
-
-</aside>
 
 ## The Knights of the White Tusk
 
@@ -284,39 +284,39 @@ The Harbinger is the most respected position within the White Tusk.
 While Harbinger is not considered a formal position of leadership (Such decisions are handled by the 12 Regents), The Harbinger is tasked with a number of important leadership tasks.
 The Harbinger is the only member of the guild with the authority to grant the title of Knight, serves as the Knight's representative in their formal dealings with other guilds, nobles and governments, and serves as a tie-breaker in in instances where the Regents are evenly split.
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|### White-Tusk Characters
+|
+|Knights of the White Tusk make great characters.
+|Unlike many other RPGs, *Renaissance* is a game that rewards characters that rewards charactesr for straddling multiple roles, and that downplays combat as the first solution to most problems; Knights of the White Tusk, with their mix of social skills, academic education and combat prowess, make excellent (and very flexible) *Renaissance* characters.
+|With their emphasis on peaceful conflict resolution and their origin in voluntary cultural assimilation, they also fit wonderfully with *Renaissance*'s core themes.
+|
+|The Knights of the White Tusk also provide players with a diverse array of resources (in the form of scholars, schools, diplomats, grateful patrons and battle-hardened knights) while saddling them with few burdens or complications (as the Knights have few enemies).
+|
+|Consider joining the Knights of the White Tusk if you:
+|
+|- want to play a character that mixes knowledge, social and combat skills.
+|- don't want to have to choose between being a humble, wise and benevolent monk or a powerful warrior.
+|- want to be a member of an organization that pursues peace and seeks nonviolent solutions to problems.
+|- want to be a member of an organization doing good work in the world — especially for the poor and desperate.
+|
 
-### White-Tusk Characters
 
-Knights of the White Tusk make great characters.
-Unlike many other RPGs, *Renaissance* is a game that rewards characters that rewards charactesr for straddling multiple roles, and that downplays combat as the first solution to most problems; Knights of the White Tusk, with their mix of social skills, academic education and combat prowess, make excellent (and very flexible) *Renaissance* characters.
-With their emphasis on peaceful conflict resolution and their origin in voluntary cultural assimilation, they also fit wonderfully with *Renaissance*'s core themes.
+[[gmguidance]]
+|
+|### White Tusk Campaigns
+|
+|The Knights of the White Tusk are active wherever there is conflict and desperation — which the Emerald and Ruby Plane have no shortage of.
+|The Knights might be called on to broker the end of a seige, negotiate for the interests of peasants who cannot pay their cruel lord's dues, or settle a dispute between warring tribes.
+|
+|#### White Tusk Adventure: Bad Neighbors
+|
+|Conflict has been building between a city in the Dragonshire and another city over a river in the Kingdoms of Men.
+|What started as a series of minor trade disputes has recently caused actual violence — a merchant in the Kingdoms city was found dead, and the ship-captain who most quarrelled with him has vanished.
+|The White Tusk has volunteered to help resolve the situation before it gets any worse — but they'll need help.
+|
+|What's actually causing the tension — is it really a simple trade dispute, or is there more going on?
+|Is a negotiated solution possible, or is a fight inevitable — if there is a fight, is there a right side that the players need to be on, or should they step out of it?
+|
 
-The Knights of the White Tusk also provide players with a diverse array of resources (in the form of scholars, schools, diplomats, grateful patrons and battle-hardened knights) while saddling them with few burdens or complications (as the Knights have few enemies).
-
-Consider joining the Knights of the White Tusk if you:
-
-- want to play a character that mixes knowledge, social and combat skills.
-- don't want to have to choose between being a humble, wise and benevolent monk or a powerful warrior.
-- want to be a member of an organization that pursues peace and seeks nonviolent solutions to problems.
-- want to be a member of an organization doing good work in the world — especially for the poor and desperate.
-
-</aside>
-
-<aside class="gmguidance">
-
-### White Tusk Campaigns
-
-The Knights of the White Tusk are active wherever there is conflict and desperation — which the Emerald and Ruby Plane have no shortage of.
-The Knights might be called on to broker the end of a seige, negotiate for the interests of peasants who cannot pay their cruel lord's dues, or settle a dispute between warring tribes.
-
-#### White Tusk Adventure: Bad Neighbors
-
-Conflict has been building between a city in the Dragonshire and another city over a river in the Kingdoms of Men.
-What started as a series of minor trade disputes has recently caused actual violence — a merchant in the Kingdoms city was found dead, and the ship-captain who most quarrelled with him has vanished.
-The White Tusk has volunteered to help resolve the situation before it gets any worse — but they'll need help.
-
-What's actually causing the tension — is it really a simple trade dispute, or is there more going on?
-Is a negotiated solution possible, or is a fight inevitable — if there is a fight, is there a right side that the players need to be on, or should they step out of it?
-
-</aside>

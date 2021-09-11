@@ -12,83 +12,83 @@ Instead, think of powers more like specific "tricks" that you've drilled to wrot
 Powers have requirements, like classes and some traits do.
 Since powers are actions, they will also list the *type* of action that they require.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|### What Makes a Good Power
+|
+|Powers are probably the hardest to design and balance of all the features in this chapter!
+|
+|While all the rules for designing content apply, there are two that are particularly important:
+|
+|- powers *especially* should not eclipse any skill or other feature, and
+|- powers should not be *mandatory* for any given character concept.
+|
+|The first rule is why Vanish still requires a Stealth check, why Fireball still requires a touch-only or Ranged Weapon attack to be used as a weapon (to touch someone with it or throw it at them, respectively), why Push still requires a Persuasion check (and is so limited), and why Join doesn't give you uncontested control of the "gestalt".
+|This is also why several "damaging" powers do fairly modest damage — certainly compared to the amounts of damage one may see in some other games.
+|
+|The second rule covers both skills that anyone with a given level of skill would have (so they're "mandatory" to unlock abilities that by rights you've already paid for by purchasing skills), and any power that's too, well, powerful, and so in practice everyone building a certain type of character would always choose to take (so they're "mandatory" if you want to keep up).
+|This is why we don't have a "feint" power, for example, since any competent fighter — anyone with more than, say, 30 ranks in a combat skill — would know how to feint.
+|This is also why we don't have a "power attack" power, since almost ever melee fighter would end up taking it.
+|(You might note that both Feint and Mighty Blow are among the strikes listed in the *Combat* section; this is not accidental.)
+|
+|Finally, there are some powers that we have very deliberately decided not to include, and that we recommend you don't add either.
+|This includes:
+|
+|- A "hard invisibility" power, because it negates the need for the Stealth skill, trivializes the Infiltrator role, and even worse, possibly allows mages to steal that role outright.
+|- A "hard mind-control" power, since it negates the need for social skills, trivializes the Socialite role, and allows mages or psions to steal the role outright.
+|- An "impulse healing" power, because it eclipses the capabilites of the regrowth power, removes the need for the Medicine skill, and radically upsets the design of the game (since healing is *intended* to be very difficult).
+|- Any powers that give a flat melee damage bonus, because they wreck up the intended game balance, and have the potential to launch an arms race (requiring the GM to start escalating enemy health and armor numbers, which requires the rest of the party to start boosting their own damage to keep up).  However, powers that give "on use" damage bonuses, require reloads or impose other penalties can be acceptable.
+|- Powers that represent combat maneuvers that any trained fighter would know how to do; if you have 50 ranks in Unarmed Combat, then you're a master martial artist, and you don't need to purchase powers to represent things any martial artist would know how to do.  (This point is particularly tricky, and resolving some confusion around it is why the Strikes where added to the combat rules.)
+|
 
-### What Makes a Good Power
 
-Powers are probably the hardest to design and balance of all the features in this chapter!
+[[gmguidance]]
+|
+|### Vancian Casting, and Why You Shouldn't Use It
+|
+|Many of the above rules come from an attempt to "balance" Powers, especially supernatural powers, against the capabilities of other characters, on an action-by-action basis.
+|Essentially, these powers can't be too extraordinary, in part because there's no limit to how many times you can use them.
+|
+|Some other game systems use "Vancian casting:" they feature much stronger powers — usually strictly magical powers — with the limit that they can only be used a certain, limited number of times per day.
+|The rough idea is that, in the long term, this all balances out: "martial" characters can maintain a given level of power consistently, while "vancian magical" characters can perform a smaller number of far more impressive deeds.
+|
+|So, if one of your players wants to take a "Vancian" power — a far more powerful power than would normally be allowed, with the caveat that it can only be used a few times per day — is that a good idea?
+|
+|Obviously, we can't control what you do at your gaming table, but our recommended answer is "no."
+|One very good reason is that "Vancian" powers constrain the design of the adventure, and badly perturb the balance of power between the characters if that design constraint is not satisfied.
+|In order for the "vancian-magic-versus-steady-martial" balance to work out, a certain average number of "encounters per day" must be maintained:
+|if there are too few encounters, then the Vancian characters just get to be strictly more powerful than everyone else, because they never get run out of uses of their amazing superpowers; if there are too many, then the Vancian characters get hosed.
+|(In practice, the first problem is far more common than the second — especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
+|
 
-While all the rules for designing content apply, there are two that are particularly important:
 
-- powers *especially* should not eclipse any skill or other feature, and
-- powers should not be *mandatory* for any given character concept.
+[[gmguidance]]
+|
+|### Sacrificial Magic, and Why It Might Be Ok
+|
+|Another common avenue for giving players access to more powerful magical abilities is to attach a *price* to their use; we'll call this "sacrificial magic."
+|For example, characters might be required to take 1d10 DV to activate a power, or might be required to roll Control or risk a "blowback effect."
+|
+|Any time you give one class of character access to more powerful abilities than others, you run the risk of upturning the balance of power between characters and letting some players dominate the game; this risk still applies to sacrificial magic schemes.
+|
+|However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game — and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
+|
+|So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
+|
 
-The first rule is why Vanish still requires a Stealth check, why Fireball still requires a touch-only or Ranged Weapon attack to be used as a weapon (to touch someone with it or throw it at them, respectively), why Push still requires a Persuasion check (and is so limited), and why Join doesn't give you uncontested control of the "gestalt".
-This is also why several "damaging" powers do fairly modest damage — certainly compared to the amounts of damage one may see in some other games.
 
-The second rule covers both skills that anyone with a given level of skill would have (so they're "mandatory" to unlock abilities that by rights you've already paid for by purchasing skills), and any power that's too, well, powerful, and so in practice everyone building a certain type of character would always choose to take (so they're "mandatory" if you want to keep up).
-This is why we don't have a "feint" power, for example, since any competent fighter — anyone with more than, say, 30 ranks in a combat skill — would know how to feint.
-This is also why we don't have a "power attack" power, since almost ever melee fighter would end up taking it.
-(You might note that both Feint and Mighty Blow are among the strikes listed in the *Combat* section; this is not accidental.)
+[[gmguidance]]
+|
+|### Tweaking Powers
+|
+|Much as you and your players should feel free to create entirely new powers, you should also feel free to tweak, adjust and modify the existing powers.
+|
+|As an example, a player could easily swap fire out for some other "element" to turn the Fireball power into an *iceball* or *ball lightening* power.
+|Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
+|
+|Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power — or whatever else they want.
+|
 
-Finally, there are some powers that we have very deliberately decided not to include, and that we recommend you don't add either.
-This includes:
-
-- A "hard invisibility" power, because it negates the need for the Stealth skill, trivializes the Infiltrator role, and even worse, possibly allows mages to steal that role outright.
-- A "hard mind-control" power, since it negates the need for social skills, trivializes the Socialite role, and allows mages or psions to steal the role outright.
-- An "impulse healing" power, because it eclipses the capabilites of the regrowth power, removes the need for the Medicine skill, and radically upsets the design of the game (since healing is *intended* to be very difficult).
-- Any powers that give a flat melee damage bonus, because they wreck up the intended game balance, and have the potential to launch an arms race (requiring the GM to start escalating enemy health and armor numbers, which requires the rest of the party to start boosting their own damage to keep up).  However, powers that give "on use" damage bonuses, require reloads or impose other penalties can be acceptable.
-- Powers that represent combat maneuvers that any trained fighter would know how to do; if you have 50 ranks in Unarmed Combat, then you're a master martial artist, and you don't need to purchase powers to represent things any martial artist would know how to do.  (This point is particularly tricky, and resolving some confusion around it is why the Strikes where added to the combat rules.)
-
-</aside>
-
-<aside class="gmguidance">
-
-### Vancian Casting, and Why You Shouldn't Use It
-
-Many of the above rules come from an attempt to "balance" Powers, especially supernatural powers, against the capabilities of other characters, on an action-by-action basis.
-Essentially, these powers can't be too extraordinary, in part because there's no limit to how many times you can use them.
-
-Some other game systems use "Vancian casting:" they feature much stronger powers — usually strictly magical powers — with the limit that they can only be used a certain, limited number of times per day.
-The rough idea is that, in the long term, this all balances out: "martial" characters can maintain a given level of power consistently, while "vancian magical" characters can perform a smaller number of far more impressive deeds.
-
-So, if one of your players wants to take a "Vancian" power — a far more powerful power than would normally be allowed, with the caveat that it can only be used a few times per day — is that a good idea?
-
-Obviously, we can't control what you do at your gaming table, but our recommended answer is "no."
-One very good reason is that "Vancian" powers constrain the design of the adventure, and badly perturb the balance of power between the characters if that design constraint is not satisfied.
-In order for the "vancian-magic-versus-steady-martial" balance to work out, a certain average number of "encounters per day" must be maintained:
-if there are too few encounters, then the Vancian characters just get to be strictly more powerful than everyone else, because they never get run out of uses of their amazing superpowers; if there are too many, then the Vancian characters get hosed.
-(In practice, the first problem is far more common than the second — especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
-
-</aside>
-
-<aside class="gmguidance">
-
-### Sacrificial Magic, and Why It Might Be Ok
-
-Another common avenue for giving players access to more powerful magical abilities is to attach a *price* to their use; we'll call this "sacrificial magic."
-For example, characters might be required to take 1d10 DV to activate a power, or might be required to roll Control or risk a "blowback effect."
-
-Any time you give one class of character access to more powerful abilities than others, you run the risk of upturning the balance of power between characters and letting some players dominate the game; this risk still applies to sacrificial magic schemes.
-
-However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game — and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
-
-So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
-
-</aside>
-
-<aside class="gmguidance">
-
-### Tweaking Powers
-
-Much as you and your players should feel free to create entirely new powers, you should also feel free to tweak, adjust and modify the existing powers.
-
-As an example, a player could easily swap fire out for some other "element" to turn the Fireball power into an *iceball* or *ball lightening* power.
-Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
-
-Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power — or whatever else they want.
-
-</aside>
 
   - Fireball: You can manifest a fireball in your hand.
     
