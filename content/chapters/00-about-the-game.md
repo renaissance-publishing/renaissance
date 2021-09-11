@@ -147,6 +147,12 @@ We're working on it.
     (These are arbitrary, we may adjust later.)
   - Added Diet and Size for every race.
     (And a Basin, for a spirit that doesn't eat.)
+- *lots of new content in the fluff chapters, phew*
+- converted to one standard for em-dashes
+  - a script did this, so errors may have occurred.
+- converted all the aside-tags to custom tags.
+  - also done by a script, so errors may have occurred.
+  - also also some manual cleanup is still required, including moving heading-markdown-elements into being titles.
 
 ## To-Do
 
