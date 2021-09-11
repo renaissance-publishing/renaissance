@@ -729,7 +729,7 @@ Since the rise of the Dragonshire — and especially since the Kingdoms of Men r
 
 Their fortunes have changed dramatically since the creation of the Goblin Empire and their conquest of the Ruby Plane.
 
-[[floating]]
+[[abstract]]
 |
 |A society with several power-centers, all cooperating under the aegis of the Empire to plunder the Ruby Plane.
 |
@@ -946,7 +946,7 @@ The Goblins have little contact with the Shaded Sea Peoples, as a continent sepa
 Deep-Explorer Dwarves are an offshoot of the shallow-digging Dwarven culture of the North; highly individualistic, they fled their kin when the Mindsharing movement began.
 "Deep-Explorer" is their formal name in Commonwealth Standard; they are also sometimes called Caver Dwarves or Ground-Explorers, and their name for themselves is *Drahrat*—a swipe at the Mindsharing Dwarves, or *Fahrat*.
 
-[[floating]]
+[[abstract]]
 |
 |An enigmatic Dwarven culture that lives in caves deep underground; their extent of their settlements and resources is unknown.
 |
