@@ -203,9 +203,7 @@ In the first case, the GM might decide that the character can default to their *
 In the second case, the GM might allow the character to roll a check against their COO (that is, COO×1), since anybody can *try* to move stealthily, trained sneak-thief or no.
 (When a character defaults to an *aptitude*, a smaller penalty is usually used, or the penalty might be waived entirely — if the character has no ranks in the skill, they're already in enough trouble\!)
 
-[[gmguidance]]
-|
-|### Sidebar: When should we use checks
+[[gmguidance | When should we use checks]]
 |
 |When is a check called for, and what type? This depends on the situation.
 |
@@ -223,58 +221,30 @@ In the second case, the GM might allow the character to roll a check against the
 |
 
 
-[[gmguidance]]
+[[gmguidance | Trying Again]]
 |
-|### Sidebar: Trying Again
+| Sometimes, if there is no particular consequence for failing, players might be able to simply repeat a test until they succeed; in these cases, it is often better to use a *simple-success check*.
+| 
+| For example, if a character is trying force open a door partly blocked by rubble, a *Feat of Strength* check might be called for.
+| However, if nothing is threatening the players, they might be able to simply try again and again until they succeed.
+| In this case, you should consider calling for a simple-success check; success might mean that they succeed easily or quickly, while failure would mean that many tries are required, or that some minor consequence is incurred (like fatigue, or damage to the door so that it can't' be closed).
 |
-|  - Sometimes, if a player fails a check, they will simply be able
-|    to try again rather than having the player roll the same check
-|    repeatedly — or *allowing* the same player to simply make repeated
-|    attempts until they succeed — it is often a good idea to use a
-|    *simple success check*.
-|  - As an example, if a character wants to make several Healing
-|    Potions, while one might have them make several individual
-|    Craft: Alchemy checks, it would likely be a better idea to have
-|    them make one Craft: Alchemy simple success check representing
-|    several hours work, and use the result to determine how many
-|    potions they were able to make.
-|  - Similarly, if the players are trying to solve a riddle that will
-|    open a magic door, but there is nothing that would stop them
-|    from simply trying again and again, it might be a better idea to
-|    use one simple success check to find out how long it takes them
-|    to solve the riddle.
-|  - As an optional rule, in a situation where individual checks are
-|    called for, in order to prevent abuses, GMs may apply a
-|    cumulative -10 penalty for each time a player *tries again*.
-|    This makes some sense, as a character that failed a check
-|    presumably failed for a reason, and that reason likely still
-|    applies if circumstances have not changed.
+| Similarly, if the players are trying to solve a riddle that will open a magic door, but there is nothing that would stop them from simply trying again and again, it might be a better idea to use one simple success check to find out how long it takes them to solve the riddle.
 |
+| As an optional rule, in a situation where individual checks are called for, in order to prevent abuses, GMs may apply a cumulative -10 penalty for each time a player *tries again*.
+| This makes some sense, as a character that failed a check presumably failed for a reason, and that reason likely still applies if circumstances have not changed.
 
 
-[[gmguidance]]
+[[gmguidance | Repeated Individual Skill Checks]]
 |
-|### Sidebar: Repeated Individual Skill Checks
+| Sometimes, there are situations where several members of the party could attempt the same task in sequence; for example, if the players are trying to search a room, then each person could make their own Search test, one after the other.
 |
-|  - Sometimes, there are situations where several members of the
-|    party could attempt the same task in sequence; for example, if
-|    the players are trying to search a room, then each person could
-|    make their own Search test, one after the other.
-|  - This is usually not a good idea; this makes it very difficult
-|    for the party to fail, since they’ll have several separate
-|    attempts; it makes each individual test less interesting, since
-|    the next person will just try if the current person fails; and
-|    it can slow the game down dramatically.
-|  - Instead, we recommend the GM require one character make one test
-|    on behalf of the party; that character — usually the one with the
-|    highest rating in the skill in question — should “take the lead,”
-|    and the other party-members should assist (if they can, see
-|    *Skill Modifiers*).
+| This is usually not a good idea; this makes it very difficult for the party to fail, since they’ll have several separate attempts; it makes each individual test less interesting, since the next person will just try if the current person fails; and it can slow the game down dramatically.
+|
+| Instead, we recommend the GM require one character make one test on behalf of the party; that character — usually the one with the highest rating in the skill in question — should “take the lead,” and the other party-members should assist (if they can, see *Skill Modifiers*).
 
 
-[[gmguidance]]
-|
-|### Picking a Check
+[[gmguidance | Picking a Check]]
 |
 |So, you’ve decided that a check is called for — but what check should you
 |use? Sometimes it can be tricky to decide.
@@ -587,14 +557,11 @@ In particular, races that don’t need to sleep have an obvious opportunity to e
 
 As an alternative to working on a Job, a player can spend a shift to complete one or more task actions — recall that Task Actions should take less than 8 hours, so you should always be able to finish at least one Task Action per day.
 
-[[clarification]]
-|
-|### Sidebar: Interrupting Actions
+[[clarification | Interrupting Actions]]
 |
 |Sometimes it’s possible to interrupt an action — if one character breaks into the workshop where another character is working, for example.
 |We don’t provide fixed rules for this, because no fixed set of rules could be comprehensive without being unwieldy.
 |GMs are encouraged to adjudicate such situations as they arise.
-|
 
 
 ## Duration of Play
@@ -615,5 +582,3 @@ The GM can declare a *session break* (or "long rest," if you prefer); this is tr
 [[clarification]]
 |
 |Here, "session break" is a special keyword that is important to the rules; we're not saying that the GM has to give you a Luck Point every time the group takes a five-minute bathroom break.
-|
-
