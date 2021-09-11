@@ -27,6 +27,8 @@ Bahla live in groups of 9 to 12; some kinds of bahla live in burrows, while othe
 Washers often kept bahlas as pets, and herded them for wool and meat; after the loss of their homeland, some washers carried the creatures into exile in the Protectorate.
 Populations of wiled Bahla still roam in the hilly uplands of the western Ruby Plane.
 
+#### Vitals
+
 | COG | COO | INT | SAV | SOM  | WIL |
 | --- | --- | --- | --- | ---- | --- |
 | 4   | 15  | 15  | 4   | 10   | 15  |
@@ -34,8 +36,6 @@ Populations of wiled Bahla still roam in the hilly uplands of the western Ruby P
 | DUR (WT) | STR | INIT | DB   | LUC (TT) |
 | -------- | --- | ---- | ---- | -------- |
 | 15 (3)   | 15  | 6    | \+2  | 30 (6)   |
-
-#### Vitals
 
 - Movement: Burrow 2/4, Quadruped 5/15/25
 - Senses: Normal, *Acute Hearing* (+20), *Motion Sensitive* (+10)
@@ -95,6 +95,50 @@ Populations of wiled Bahla still roam in the hilly uplands of the western Ruby P
     - 60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1
   - Attack: **Bite**
     - 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
+
+### Cave Salamander
+
+A large, sightless cave amphibian from deep underground. Originating under the worldspine mountains, in the deeper subaquatic caverns the dwarves found themselves in after exodus from the surface.
+A dangerous carnivore in their native habitat, and largely asocial. It takes a careful balance of behavioural conditioning and alchemical adjustments of the species in order to make these creatures safe to be around, let alone actually usable and trainable.
+A wild cave salamander spends almost all it’s time underwater, feeding on insects, fish, and crabs. While blind, they have a lateral line similar to a shark, enabling them to detect the electrical signals of nearby life underwater. They also have vibration-sensing barbels under the chin to sense larger threats or prey.
+Their domesticated brethren are fed a steady diet of fish steeped and marinated with dwarven reagents. Originally a well-kept secret among even the normally secretive dwarves, as the taming of Cave salamanders became more of an industry, and their use as riding animals spread, eventually Shade elves managed to find and develop their own supply for raiding in tight quarters
+
+#### Vitals
+
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 4   | 25  | 7   | 2   | 30  | 10  |
+
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 35 (7)   | 30  | 5    | \+6 | 30 (6)   |
+
+- Movement: Walking 4/12, Climbing 3/9, swimming 4/12
+- Senses: Normal, *Blind*, Life Sense, Vibration
+- Tags: Animal, *Cave Salamander*, Mount, Natural, Reptile
+- Size: Large
+- Diet: Herbivore
+
+#### Features
+
+- **Caverunner**: Cave Salamanders are very low-slung, this allows them to carry riders in tight corridors and caverns where a larger mount would be  unable to pass.
+- **Amphibian**: Cave Salamanders can swim, and with a proper harness, can even pull their riders along with them for mounted aquatic activity, so long as their rider can hold their breath.
+- **Unusual senses**: Cave Salamanders have at best, poor eyesight barely able to define light and dark. Their hearing is not much better, they are immune to attempts at intimidation relying on sight or sound.
+- **Lowslung**: A rider human-sized or larger may have trouble riding such a low-slung creature. Forced to tuck legs up uncomfortably. Any of the smaller races, however, will find them more comfortable to use. (-10 ride for elf, human, or similar, +10 ride for dwarf, halfling, gnome. Larger species cannot ride.)
+
+#### Skills
+
+- *Forage* 60
+- Fray 50
+- *Hunt* 40
+- *Natural Weapons* 60
+- Perception 50
+
+#### Combat Stats
+
+- Armor: -
+- Attack: **Bite**
+  - 60 (Natural Weapons), 1D10\+6 (1d10+DB), AP -
 
 ### Chasseh Forrest Spirit
 
@@ -274,39 +318,46 @@ Two factors prevent them from being used ubiquitously as mounts; their clutches,
 Still, some Drakes do use these powerful creatures as war-mounts, and their stomps are devastating attacks against downed foes.
 
 [[designnote]]
-|Yes, it's like a <a href="https://en.wikipedia.org/wiki/Utahraptor">Utahraptor</a> that's also a <a href="https://en.wikipedia.org/wiki/Secretarybird">Secretarybird</a>, except much bigger and omnivorous, and also you can ride it.
+|Yes, it's like a [Utahraptor](https://en.wikipedia.org/wiki/Utahraptor) that's also a [Secretarybird](https://en.wikipedia.org/wiki/Secretarybird), except much bigger and omnivorous, and also you can ride it.
 
+#### Vitals
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 4        | 20  | 7    | 4   | 25  | 15       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 45 (9)   | 45  | 5    |     | \+7 | 30       |
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 4   | 20  | 7   | 4   | 25  | 15  |
 
-  - Movement: Walking 5/15, Climbing 2/6, Leaping 4/12
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 45 (9)   | 45  | 5    | \+7 | 30 (6)   |
 
-  - Senses: Normal, Scent
+- Movement: Walking 5/15, Climbing 2/6, Leaping 4/12
+- Senses: Normal, Scent
+- Tags: Animal, Dancing Hawk, Dragonoid, Mount, Natural
+- Size: Very Large
+- Diet: Omnivore
 
-  - Tags: Dancing Hawk, Dragonoid, Mount, Natural
+#### Features
 
-  - Mountain's Hide: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
+- **Mountain's Hide**: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
+- **Low Endurance**: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
 
-  - Low Endurance: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
+#### Skills
 
-  - Size: Very Large
+- *Forage* 55
+- Fray 50
+- *Hunt* 45
+- *Natural Weapons* 60
+- Perception 50
 
-  - Skills:
-    
-      - *Forage* 55
-      - Fray 50
-      - *Hunt* 45
-      - *Natural Weapons* 60
-      - Perception 50
+#### Combat Stats
 
-  - Stomp: 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
+- Armor: 1
+- Attack: **Stomp**
+  - 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
 
-  - Special: Dancing Falcons can be acquired from Dragonshire breeders — or the bold and fortunate might raise them from hatchlings.  They are cost-category \[Extreme\].
+#### Special: Rare Mount
+Dancing Falcons can be acquired from Dragonshire breeders — or the bold and fortunate might raise them from hatchlings.
+They are cost-category \[Extreme\].
 
 ### Frozen Horror
 
