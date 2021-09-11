@@ -576,7 +576,7 @@ To encourage profitable trade and useful craft, most Terrace-Builder city-states
 This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
 This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
 
-[[fiction | Debate]]
+[[fiction]]
 |
 |> "Corvee labor!"
 |> The Terrace-Builders are the bulwark that protects the Ruby Plane from the Goblin Empire and Shaded Sea — and our likely allies! — so we'd like to think the best of them.
@@ -1108,20 +1108,15 @@ As some Goblin communities where influenced by Commonwealth customs—and as the
 
 In CY 577, the King of Bronze formally restricted the taking of slaves from any of the islands' Commonwealth communities; in CY 586, he passed laws restricting the abuse of slaves; through CY 591 to CY 617, his daughter passed further reforms governing the treatment of slaves; and in CY 651, the Bronze King's great-grandson restricted slavery on the island only to those whose parents where already slaves, or who came from the Goblinoid Kingdoms with their owners—a condition that applied to fewer than a 800 people on the island.
 
-Under these rules, the only remaining slaves on the islands are those who come from the Goblinoid Kingdoms on ships, and a small population of Halflings living in a traditionalist enclave on the Island of Cloud—the southernmost of the two large islands in the chain; they are effectively forced into servitude because they are the only Halflings in the island—they must either mary into slavery or die out.
+Under these rules, the only remaining slaves on the islands are those who come from the Goblinoid Kingdoms on ships, and a small population of Halflings living in a traditionalist enclave on the Island of Cloud—the southernmost of the two large islands in the chain; they are effectively forced into servitude because they are the only Halflings in the island—they must either marry into slavery or die out.
 They live deep within large, defended Goblin manors, jealously guarded against the outside; so isolated, they serve an almost symbolic role.
 
 They are guarded so jealously because the High Road operates almost freely on the islands; they enjoy wide support among both the Commonwealth-descended and Goblin communities, and the tacit approval of the current King of Bronze.
 
-<aside class="hook">
-
-#### Plot Hook: The High Road and the Turquoise Kings
-
-The Kingdom of the Foam a Cloud is a battleground in the High Road's fight against slavery, and this provides countless opportunities for adventure.  Players can liberate slaves, slay slaveholders, steal into the Goblin Empire, pick up valuable intelligence, and more.
-
-Though the number of Goblin families left that still hold slaves is few, they are wealthy and powerful—making them excellent villains.
-
-</aside>
+[[hook | Plot Hook: The High Road and the Turquoise Kings]]
+|The Kingdom of the Foam a Cloud is a battleground in the High Road's fight against slavery, and this provides countless opportunities for adventure.  Players can liberate slaves, slay slaveholders, steal into the Goblin Empire, pick up valuable intelligence, and more.
+|
+|Though the number of Goblin families left that still hold slaves is few, they are wealthy and powerful—making them excellent villains.
 
 ### The Kingdom of Foam and Cloud
 
@@ -1135,15 +1130,9 @@ Though they still trade with the Goblin mainland, many merchants will not sail t
 The culture there is neither purely Goblinoid nor Commonwealth; it is a hybrid that has been forged over more than 250 years.
 Commonwealth Standard, Vulgar Goblin, Speech-of-the-Lesser, Weal and Heartland Gnoll and more can all be heard in the kingdom's lively markets; Goblin scholars of the Code argue law with the elected leaders of Commonwealth communities; and Goblins, Gremlins, Humans and Gnolls dine together on feast-days.
 
-<aside class="hook">
-
-#### Guidance: Using the Kingdom of Foam and Cloud
-
-Full of allies even though it is nominally enemy territory, the Kingdom of the Foam and Cloud is very useful in intrigue-focused games in the Goblin Empire.
-In particular, it makes an excellent starting-point for an adventure into the Goblin Empire: Commonwealth Standard is spoken there, commonwealth currency spends there, and its easy to sail from the Kingdom to Goblin holdings on both the Emerald and Ruby Planes.
-Even though 
-
-</aside>
+[[gmguidance | Using the Kingdoms of Foam and Cloud]]
+|Full of allies even though it is nominally enemy territory, the Kingdom of the Foam and Cloud is very useful in intrigue-focused games in the Goblin Empire.
+|In particular, it makes an excellent starting-point for an adventure into the Goblin Empire: Commonwealth Standard is spoken there, commonwealth currency spends there, and its easy to sail from the Kingdom to Goblin holdings on both the Emerald and Ruby Planes.
 
 Their king is a most unusual Goblin King.
 Like much of his line, he speaks fluent Commonwealth Standard, and is an avid consumer of the Commonwealth's culture; indeed, he picked "Sea-Plated King" as his name in Standard, as an homage to the "Sea-Scaled King," a character from a popular play in the Dragonshire.
@@ -1151,15 +1140,32 @@ He also embraces many of the Commonwealth's values, and openly pursues trade wit
 He is also no friend of slavery: it is widely believed that he will completely outlaw slavery before passing rule to his chosen heir, his second son.
 The High Road also operates freely in his Kingdom; though he does not patronize them directly, he makes no attempt whatever to restrain them, and provides no solace or comfort to slave-holders or slave-catchers.
 
-<aside class="gmguidance">
+[[gmguidance | Using the Turquoise King ]]
+|The Turquoise King is likely to be highly sympathetic to a player party operating in his Kingdom, providing them with a powerful advantage.
+|He is not a supporter of the Empire and he detests the practice of slavery;
+|while he likely cannot openly support the player party—he is constrained by the conservative flank of his court, who are still wealthy and powerful—he will also make little or no effort to restrain them on their likely missions.
 
-#### The Turquoise King
+### Major Character: the Sand-Shelled King
 
-The Turquoise King is likely to be highly sympathetic to a player party operating in his Kingdom, providing them with a powerful advantage.
-He is not a supporter of the Empire and he detests the practice of slavery;
-while he likely cannot openly support the player party—he is constrained by the conservative flank of his court, who are still wealthy and powerful—he will also make little or no effort to restrain them on their likely missions.
+The Sand-Shelled King is the current king of the Kingdom of Foam and Cloud.
+He is the latest in the line that founded the Kingdom more than two hundred years ago, the line of the Kings-of-Bronze, the Turquoise Kings.
 
-</aside>
+Despite being a Goblin king, he speaks fluent Commonwealth Standard, and is sympathetic to the Commonwealth.
+
+### Major City: Hurricane
+
+Hurricane was the largest of the cities founded by Goblin settlers; it was the city where the Bronze King made his home, and established his throne.
+The Bronze Kings have since moved their throne to Winds-of-Gold, but Hurricane remains a cultural center for the Goblin population on the island; it is still strongly aligned with the Bronze King.
+
+It is located in the southeast of Cloud Island, and has a population of 350,000.
+
+### Major City: Winds-of-Gold
+
+Winds-of-Gold was a large, wealthy city on the southern coast of Foam Island; it was the third city to fall to the King of Bronze, and the second to accept tribute to end his seige.
+The Bronze King was carful to ensure the quick recovery of the wealthy city and its profitable markets; it has since become the largest city in the islands.
+The Fourth Bronze King moved his throne to Winds-of-Gold in CY 651, and the city is still the capital today.
+
+The city sits on the south shore of Foam Island and has a population of 550,000.
 
 ## Mudskipper Federation
 
@@ -1170,7 +1176,7 @@ Tribes, in turn, are often rife with sub-divisions, almost like a nation in mini
 
 <aside class="floating">
 
-A farctuous society of amphibious beings that dwells within the lakes and rivers of the Ruby Plane.
+A fractuous society of amphibious beings that dwells within the lakes and rivers of the Ruby Plane.
 
 ---
 
