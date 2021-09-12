@@ -123,9 +123,7 @@ Most *extreme* items are intended to play a major role in how you define your ch
 - land-holdings
 - a prosperous trading business
 
-[[gmguidance]]
-|
-|### Designing Major and Extreme Items
+[[gmguidance | Designing Major and Extreme Items]]
 |
 |We claim that you can purchase unique magical items and priceless, character-shaping treasures, but we don't give you an actual *list*, and we don't give you rules for making them.
 |So, where are these alleged treasures supposed to come from?
@@ -1240,7 +1238,7 @@ As always, this list is not exhaustive; players and GMs should feel free to add 
 |As-written, these arrows can't be used with crossbows, because we assume that that crossbow bolts have very different *terminal ballistics* that impose tighter constraints on how their bolt-heads can be designed and how differently they can perform.
 |Basically, they travel faster and strike harder, so the heads probably have to be designed more similarly to punch through armor.
 |
-|Of course, "we" (meaning the lead author) could *very easily* be wrong about this — or ths might just be boring — so GMs and players should feel free to disregard this restriction.
+|Of course, "we" (meaning the lead author) could *very easily* be wrong about this — or this might just be boring — so GMs and players should feel free to disregard this restriction.
 |
 
 
@@ -1467,9 +1465,7 @@ The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
 Even though it is functionally a part of Chandra’s body, and he wields it as his own arm, it is still so powerful and durable that it counts as a weapon.
 Chandra can attack with it using either the One-Handed Weapons or Unarmed skills, he is always considered armed, and he can even parry with it.
 
-[[gmguidance]]
-|
-|#### Designing the Bronze Arm
+[[gmguidance | Designing the Bronze Arm]]
 |
 |The Bronze Arm is an excellent item; it makes Chandra much better at his chosen role (an extreme-durability melee powerhouse) while it also helps underscores many of Chandra's themes (his wealth and nobility, his long experience on the battlefield, and his incredible durability).
 |
@@ -1480,7 +1476,6 @@ Chandra can attack with it using either the One-Handed Weapons or Unarmed skills
 |
 |Perhaps surprisingly, the bonus DUR, STR and AV was the GM's idea, offered as a compromise after moving the shock effect to a separate power.
 |
-
 
 #### The Hunter’s Bow
 
@@ -1502,9 +1497,7 @@ The bow pulses gently based on the whether the bow is facing towards the target,
 
 Being struck with a tracker bolt (or a light bolt, for that matter) feels somewhat like being pinched, but is otherwise harmless.
 
-[[gmguidance]]
-|
-|#### Designing the Hunter's Bow
+[[gmguidance | Designing the Hunter's Bow]]
 |
 |The initial idea for Aryn's magical bow was that she would have unlimited ammo; as significant as this would be *in the world,* it is not mechanically useful, since we ordinarily do not track ammo anyway.
 |
@@ -1513,7 +1506,6 @@ Being struck with a tracker bolt (or a light bolt, for that matter) feels somewh
 |Aryn's player often requests a multi-shot power for the bow; some approve it, and some don't.
 |(Neither answer is correct — it's up to each GM.)
 |
-
 
 #### Flashback Anchor
 
@@ -1529,9 +1521,7 @@ If she succeeds, she successfully activates the Anchor, and reappears where her 
 Even if she fails to activate the device, it still provides *some* protection: if Notebook arrives only partly in a solid object — or in some similar condition — the device will attempt to "eject" her from the obstruction, causing her to arrive next to it (if there is room).
 This process is jarring — Notebook experiences a violent impact, like falling off roof: she takes 1d10 DV, and her armor does not apply.
 
-[[gmguidance]]
-|
-|#### Designing the Flashback Anchor
+[[gmguidance | Designing the Flashback Anchor]]
 |
 |The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often — but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.
 |
