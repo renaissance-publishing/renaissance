@@ -98,10 +98,17 @@ Populations of wiled Bahla still roam in the hilly uplands of the western Ruby P
 
 ### Cave Salamander
 
-A large, sightless cave amphibian from deep underground. Originating under the worldspine mountains, in the deeper subaquatic caverns the dwarves found themselves in after exodus from the surface.
-A dangerous carnivore in their native habitat, and largely asocial. It takes a careful balance of behavioural conditioning and alchemical adjustments of the species in order to make these creatures safe to be around, let alone actually usable and trainable.
-A wild cave salamander spends almost all it’s time underwater, feeding on insects, fish, and crabs. While blind, they have a lateral line similar to a shark, enabling them to detect the electrical signals of nearby life underwater. They also have vibration-sensing barbels under the chin to sense larger threats or prey.
-Their domesticated brethren are fed a steady diet of fish steeped and marinated with dwarven reagents. Originally a well-kept secret among even the normally secretive dwarves, as the taming of Cave salamanders became more of an industry, and their use as riding animals spread, eventually Shade elves managed to find and develop their own supply for raiding in tight quarters
+Cave salamanders are large, sightless, cave-dwelling amphibians.
+Originating under the Worldspine mountains, they where originally discovered by the Deep-Explorers, but have since been adopted by other subterranean cultures.
+
+A dangerous carnivore in their native habitat and largely asocial, a wild cave salamander spends almost all it’s time underwater, feeding on insects, fish, and crabs; their domesticated brethren are fed a steady diet of fish steeped and marinated with dwarven reagents.
+It takes a careful balance of behavioral conditioning and alchemical adjustments in order to make these creatures safe to be around, let alone actually usable and trainable.
+
+While blind, they have a lateral line similar to a shark; it is widely believed that this enables them to detect nearby living organisms.
+They also have vibration-sensing barbells under the chin to sense larger threats or prey.
+
+Originally a well-kept secret among even the normally secretive Deep-Explorer Dwarves, as the taming of Cave salamanders became more of an industry and their use as riding animals spread, the animals where adopted by other subterranean cultures.
+In the Commonwealth, some Ash Elves and Kobolds also have stables of the animals; remarkably, some Shade Elves *rides* managed to find and develop their own supply, for riding and raiding in tight quarters
 
 #### Vitals
 
@@ -115,16 +122,17 @@ Their domesticated brethren are fed a steady diet of fish steeped and marinated 
 
 - Movement: Walking 4/12, Climbing 3/9, swimming 4/12
 - Senses: Normal, *Blind*, Life Sense, Vibration
-- Tags: Animal, *Cave Salamander*, Mount, Natural, Reptile
+- Tags: Animal, Amphibian, *Cave Salamander*, Mount, Natural, Reptile
 - Size: Large
 - Diet: Herbivore
 
 #### Features
 
-- **Caverunner**: Cave Salamanders are very low-slung, this allows them to carry riders in tight corridors and caverns where a larger mount would be  unable to pass.
-- **Amphibian**: Cave Salamanders can swim, and with a proper harness, can even pull their riders along with them for mounted aquatic activity, so long as their rider can hold their breath.
-- **Unusual senses**: Cave Salamanders have at best, poor eyesight barely able to define light and dark. Their hearing is not much better, they are immune to attempts at intimidation relying on sight or sound.
-- **Lowslung**: A rider human-sized or larger may have trouble riding such a low-slung creature. Forced to tuck legs up uncomfortably. Any of the smaller races, however, will find them more comfortable to use. (-10 ride for elf, human, or similar, +10 ride for dwarf, halfling, gnome. Larger species cannot ride.)
+- **Caverunner**: Cave Salamanders are very low-slung, which allows them to carry riders in tight corridors and caverns where a larger mount would be  unable to pass.
+- **Amphibian**: Cave Salamanders can swim and, with a proper harness, can even pull their riders along with them for mounted aquatic activity — so long as their rider can hold their breath.
+- **Lowslung**: Cave Salamanders are low-slung; a rider of Medium size or larger may have trouble riding them, as they will be forced to tuck their legs up uncomfortably.
+  A race of Size: Small, however, can ride them comfortable.
+  (When riding a Cave Salamander, creatures of Size: Medium suffer a -10 penalty to *Ride*, while creatures of Size: Small gain a +10 bonus.)
 
 #### Skills
 
@@ -136,7 +144,7 @@ Their domesticated brethren are fed a steady diet of fish steeped and marinated 
 
 #### Combat Stats
 
-- Armor: -
+- Armor: \-
 - Attack: **Bite**
   - 60 (Natural Weapons), 1D10\+6 (1d10+DB), AP -
 
