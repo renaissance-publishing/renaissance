@@ -153,6 +153,7 @@ We're working on it.
 - converted all the aside-tags to custom tags.
   - also done by a script, so errors may have occurred.
   - also also some manual cleanup is still required, including moving heading-markdown-elements into being titles.
+- Added the Cave Salamander
 
 ## To-Do
 
@@ -210,7 +211,7 @@ We're working on it.
 
 - Gleech: lead author
 - Sauce: a list of powers, GMing for a test, A sample module (incl. Wisps).
-- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.
+- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.  A couple of military racial items.
   - Special credit to CV for the banners that have now (finally!) been posted!  They're amazing!
 - King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenital Defect trait.  The Knights of the White Tusk.  Proficiencies for *Athletics*.
 - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)  The Brightfeathers.
