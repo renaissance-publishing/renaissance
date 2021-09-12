@@ -970,10 +970,9 @@ For this reason, only about a third of the Dwarven Clans of the north ever signe
 Dwarves have cultivated expertise in mining, stonework and agriculture.
 Craftsmen also hold high status in Dwarven holds, and many Dwarven communities are known for the quality of the work of their artisans, which can rival the work of Human craftsmen.
 
-
 #### Haven Isles Dwarves
 
-Though only a few Dwarves chose to leave their northern lands and settle elsewhere in the Commonwealth, the communities founded by these travellers, explorers and exiles have endured, grown and prospered.
+Though only a few Dwarves chose to leave their northern lands and settle elsewhere in the Commonwealth, the communities founded by these travelers, explorers and exiles have endured, grown and prospered.
 Today, Dwarves are one of the most common races in the huge urban centers of the Haven Isles in particular, where their own culture blends with their Kobold and Ash-Elf neighbors.
 
 The Dwarves of the Haven Isles tend to be more mercantile; formal law and finance have substantially replaced tradition and custom in these communities.
