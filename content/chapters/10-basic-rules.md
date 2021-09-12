@@ -23,11 +23,11 @@ Such dice exist, but you can use anything that generates a number from 0 to 99 i
 
 [[clarification]]
 |
-|Be careful\! D% runs from 0 to 99, *not* 1 to 100\!
+|Be careful\!
+|D\% runs from 0 to 99, *not* 1 to 100\!
 |
 |Some random number generators give you a number between 1 and 100; you'll need to remember to interpret that 100 as "actually" being a 00.
 |
-
 
 The **Margin of Success** (MoS) for a check is the *value you rolled* if you succeeded.
 The **Margin of Failure** (MoF) is the *die roll* minus the *target* (D%−TN)) if you failed.
@@ -41,7 +41,6 @@ Target numbers vary, but they are almost always either the *skill target* for a 
 |The authors could not resist using the phrase "linear combination of aptitudes"; the best we could do is wall it off in this little aside.
 |
 
-
 [[example]]
 |
 |For example, the GM tells Fire (a Shifter mage) to roll (against) his WIL×3.
@@ -49,7 +48,6 @@ Target numbers vary, but they are almost always either the *skill target* for a 
 |His player roles a D%, and gets 65; Fire has succeeded, and his *margin of success* (MoS) is 65.
 |If his player had rolled an 89, Fire would have failed, and his *margin of failure* (MoF) would have been 14.
 |
-
 
 There are limits to what a *target number* can be.
 A TN can never be greater than 98; a 99 always fails (and is always a critical failure at that; see below).
@@ -63,12 +61,10 @@ Similarly, a TN can never be less than 1; a 0 always succeeds (and is a critical
 |Further guidance is given in the sidebar *When Should We Use Checks* and *Picking Checks*.
 |
 
-
 [[clarification]]
 |
 |Not all characters are player characters, so we'll usually try to speak in terms of "a character" rather than "you" as a player or GM.
 |
-
 
 ### Special Results
 
@@ -93,7 +89,6 @@ Critical successes and failures should be particularly impactful.
 |
 |Had she rolled a 99, she would have scored a *critical failure*; in this case, she might have dove *into* the arm of the couch, which would make a nice, loud, guard-alerting *whack* and knock her to the floor.
 |
-
 
 ### Upgrading and Downgrading
 
@@ -315,7 +310,6 @@ In the second case, the GM might allow the character to roll a check against the
 |This is why players should discuss their characters with their GMs
 |before starting play.
 
-
 ### Common Checks
 
 The table below lists several *common checks* and their associated TNs.
@@ -372,155 +366,100 @@ Or they may just need to catch something.
 
 ### Modifiers
 
-Modifiers might apply to any check.
+Modifiers are additional bonuses and penalties to checks, assigned as the rules, the character's abilities, and the situation dictates.
+
 Some modifiers might come from special features that a character has; these modifiers apply whenever the feature says that they do.
-Other modifiers might represent a particular task being *more* or *less* difficult, while others might represent some circumstance that impedes or aids a character; these modifiers apply at the GM's discretion.
+Other modifiers might come from the situation; they might represent a particular task being *more* or *less* difficult than normal, for example, or they might represent aspect of the situation that helps or hinders the characters.
+The GM decides what *situational modifiers* apply.
 
-  - Being assisted: +10 per character assisting, maximum +30. Assisting
-    characters must have 10 Ranks in a useful skill (but it doesn't have
-    to be the *same* skill). The GM may rule that certain tests cannot
-    be assisted.
-    
-      - Attack, Stealth and Perception tests normally cannot be
-        assisted.
+Some common modifiers are given below:
 
-  - Related Skill:
-    
-      - receive a bonus on one Test for having ranks in a related skill
-        (for example, Knowledge: Theology might assist Profession:
-        Cleric)
-      - 10-24 Ranks: +10
-      - 25-39 Ranks: +20
-      - 40+ Ranks: +30
-      - You may only use one related skill.
+- **Being assisted**: sometimes characters can assist other characters
+  - +10 per character assisting, maximum +30.
+  - Assisting characters do not need to make a check to assist.
+  - Assisting characters must have 10 Ranks in a useful skill (but it doesn't have to be the *same* skill that the "primary" character is using).
+  - The GM may rule that certain tests cannot be assisted.
+    (For example, Attack, Stealth and Perception tests normally cannot be assisted.)
+- **Related Skill**: sometimes having knowlidge or skill in one area helps with another area.
+  (For example, having high Knowledge: Theology might assist with a Profession: Cleric skill check.)
+  - Bonus to the "primary" skill check depends on how many ranks you have in the related skill:
+    - 10-24 Ranks: +10
+    - 25-39 Ranks: +20
+    - 40+ Ranks: +30
+  - Characters can only benefit from one *related skill*; normally, if a player has more than one related skill that might apply, they will get to choose which one they pick.
+    - Sometimes, in fact, GMs might vary what happens on a successful check, based on what related skill a character used.
+- **Specialization**: sometimes characters *specialize* in a given sub-field.
+  - Characters receive a +10 bonus when the Specialization applies; there is *no effect* (including *no penalty*) when the Specialization does not apply
+  - Any given skill can only have one specialization.
+    You can’t have both a \[Short Swords\] and a \[Knives\] Specialization for Melee Weapons, for example.
+  - See *Character Creation* for the rules for acquiring specialization.
+  - Field Skills and Proficiency Skills can also have specializations.
+    For example:
+    - Art: Painting \[Landscapes\], where Art is a field skill, Painting is the field, and \[Landscapes\] is the specialization.
+    -  Melee Weapons \[Swords\], where Swords is one of the proficiencies that the character has.
+- **Proficiencies**: characters take a penalty when they are using a proficiency skill and they do not have a relevant proficiency.
+  - When using a proficiency skill, you take a -20 penalty if you don't have an appropriate *proficiency* for what you are trying to do; see *Proficiency Skills* in *Skills*.
+- **Difficulty Modifiers**: characters can take a bonus or penalty, based on whether what they are trying to do is particularly easy or particularly difficult.
+  - Run from Very Easy (+30) to Very Hard (-30), and all shades in-between.
+- **Taking your Time** and **Rushing**: characters can both take more and less time on task actions and jobs.
+  - **Taking your Time**: for every +50% increase in timeframe, +10 to the check (up to +150% time for +30).
+  - **Rushing**: for every -25% *reduction* in timeframe, -10 to the check (up to -75% for -30).
+  - You cannot both *rush* and *take your time* on the same check.
+  - You can only *rush* or *take your time* on a *task action* or *job*.
+- **Situational Modifiers**:
+  - Lots of other things might provide modifiers\!
+    The GM may assign modifiers from situation as appropriate.
+- **Passive Tests**: Usually, characters will use their skills actively.
+  Sometimes, the GM will roll a test on behalf of the player — for example, to see if they have noticed something (a Perception test), realized something (a COG×3 test), or has some piece of knowledge (a Profession, Craft or Knowledge check).
+  These are *Passive Tests*, since they are made “automatically” on the player’s behalf.
+  Passive checks have a -20 penalty (the players should be proactive in using their skills, after all).
+  Generally, Passive tests are made in secret by the GM; if a player later makes an appropriate test, then the result of the test that the player made takes precedence (although events may unfold in such a way that a player cannot call for such a check later).
 
-  - Specialization:
-    
-      - skills can have *specializations*.
-    
-      - Character recieves +10 when Specialization applies; there is *no
-        effect *(including *no penalty*) when Specialization does not
-        apply
-    
-      - Any given skill can only have one specialization. You can’t have
-        both a \[Short Swords\] and a \[Knives\] Specialization for
-        One-Handed Weapons, for example.
-    
-      - You can acquire specializations for your skills during character
-        creation: see also *Character Creation*.
-    
-      - Field Skills and Proficiency Skills can also have
-        specializations, for example:
-        
-          - Art: Painting \[Landscapes\], where Art is a field skill,
-            Painting is the field, and \[Landscapes\] is the
-            specialization.
-          - One-Handed Melee Weapons \[Swords\], where Swords is one of
-            the proficiencies that the character has.
+### Common Knowledge
 
-  - Proficiencies:
+While we're talking about skills and checks, a final quick note is a time when a skill check specifically *is not* required.
+If you have 10 ranks in a skill, you are considered to have **basic competency** and **common knowledge** in that skill; this allows you to make basic use of that skill, and to have access to common knowledge related to the skill, without requiring a check.
+As an example, with *basic competency* in Survival, you can navigate through a five-mile walk, or make camp in good weather with good equipment; with *common knowledge* in a Profession: Blacksmith, you could identify the basic steps that would be involved in making an item, or whether something would be simple or difficult to make.
 
-      - When using a proficiency skill, you take a -20 penalty if you don't have an appropriate *proficiency* for what you are trying to do; see *Proficiency Skills* in *Skills*.
-
-  - Difficulty Modifiers
-    
-      - Run from Very Easy (+30) to Very Hard (-30), and all shades
-        in-between.
-
-  - Taking your Time and Rushing:
-    
-      - only applies to Task Actions and Jobs
-      - Taking your Time: for every +50% increase in timeframe, +10 to
-        the check (up to +150% time for +30)
-      - Rushing: for every -25% *reduction* in timeframe, -10 to the
-        check (up to -75% for -30)
-
-  - Situational Modifiers
-    
-      - Lots of other things might provide modifiers\! The GM may assign
-        modifiers from situation as appropriate.
-
-  - Passive Tests: Usually, characters will use their skills actively.
-    Sometimes, the GM will roll a test on behalf of the player — for
-    example, to see if they have noticed something (a Perception test),
-    realized something (a COG\*3 test), or has some piece of knowledge
-    (a Profession, Craft or Knowledge check). These are *Passive Tests*,
-    since they are made “automatically” on the player’s behalf. Passive
-    checks have a -20 penalty (the players should be proactive in using
-    their skills, after all). Generally, Passive tests are made in
-    secret by the GM; if a player later makes an appropriate test, then
-    the result of the test that the player made takes precedence
-    (although events may unfold in such a way that a player cannot call
-    for such a check later).
-
-  - Common Knowledge: if a player has 10 or more ranks in a given skill,
-    they can be assumed to have common knowledge appropriate to that
-    skill (that is, without being required to make a test).
+Note the threshold for having *basic competency* and *common knowledge* is the same as the threshold for being able to assist a character, and the threshold at which a skill is eligible to be a *related skill* — 10 ranks.
 
 ## Actions
 
-Types of actions
+Broadly speaking, we break the actions that characters take into five types:
 
-  - Standard actions
-    
-      - An action that doesn’t take much time, but that you need to
-        focus on.
-      - Examples: attacking with a weapon, knocking over a dresser,
-        kicking in a door.
+- **Standard actions**:
+  - An action that doesn’t take much time, but that you need to focus on.
+  - Examples: attacking with a weapon, knocking over a dresser, kicking in a door.
+- **Quick actions**:
+  - An action that doesn’t take much time, and that you don’t need to focus on.
+  - Examples: moving, yelling something, retrieving a stored item, drawing a weapon.
+- **Task actions**:
+  - An action that takes time (but less than a day), and that you need to focus on.
+  - Examples: brewing a potion, picking a lock, buying goods in town.
+  - Note: Tasks that take 8 hours of work or more should generally be handled as Jobs and done during Down-Time.
+- **Sustained actions**:
+  - An action that takes time, but that you don’t need to focus on, so you can do it while doing something else.
+  - Examples: keeping an eye out for a mark during an opera, leaving a trail of bread-crumbs while traveling, memorizing a route while being forced to march, *sustaining powers.*
+  - You can take other actions while maintaining a Sustained Action, and you can maintain more than one Sustain action at a time.
+  - However, maintaining multiple Sustained Actions is distracting; you take a -10 penalty to all tests for each Sustained Action you maintain beyond the first.
+  - So, for example, if you maintain three Sustained Actions, you take a -20 penalty to all tests.
+  - Sustain actions don't have a specific upper limit for how long you can maintain them, but your GM might not allow you to maintain them for more than a reasonable amount of time, or might require additional checks or impose additional consequences.
+- **Jobs**:
+  - Jobs have time-frames measured in *shifts*, where a shift is one continuous eight-hour work session.
+  - For most characters — characters that need to sleep and eat, and that have a "normal" circadian rhythm — a shift is roughly equivalent to one day of work.
+  - Jobs are mainly used during Down-Time Play
 
-  - Quick actions
-    
-      - An action that doesn’t take much time, and that you don’t need
-        to focus on.
-      - Examples: moving, yelling something, retrieving a stored item,
-        drawing a weapon.
+### Checks for Task Actions and Jobs
 
-  - Task actions
-    
-      - An action that takes time (but less than a day), and that you
-        need to focus on.
-      - Examples: brewing a potion, picking a lock, buying goods in town
-      - Note: Tasks that take 8 hours of work or more should generally
-        be handled as Jobs and done during Down-Time.
+*Task actions* and *Jobs* have timeframes — the basic amount of time that that task takes.
+Character can usually attempt to adjust the timeframe, by either *taking their time* or *rushing*; see above.
+(The GM may rule that some tasks or jobs cannot be rushed, or tackled slowly.)
 
-  - Sustained actions
-    
-      - An action that takes time, but that you don’t need to focus on,
-        so you can do it while doing something else.
-    
-      - Examples: keeping an eye out for a mark during an opera, leaving
-        a trail of bread-crumbs while traveling, memorizing a route
-        while being forced to march, *sustaining powers.*
-    
-      - You can take other actions while maintaining a Sustained Action,
-        and you can maintain more than one Sustain action at a time.
-        
-          - However, maintaining multiple Sustained Actions is
-            distracting; you take a -10 penalty to all tests for each
-            Sustained Action you maintain beyond the first.
-          - So, for example, if you maintain three Sustained Actions,
-            you take a -20 penalty to all tests.
-    
-      - Sustain actions don't have a specific upper limit for how long
-        you can maintain them, but your GM might not allow you to
-        maintain them for more than a reasonable amount of time, or
-        might require additional checks or impose additional
-        consequences.
+If a character does not *rush* the task or job, then they might be rewarded for strong successes by reducing the timeframe of the job; a common rule is, an *exceptional success* takes half as long.
 
-  - Jobs
-    
-      - Jobs have time-frames measured in *shifts.* A shift is one
-        continuous eight-hour work day.
-      - Used mainly during Down-Time Play
+If the check is failed, the character in question works for 25% of the Task Action’s timeframe or Job’s shifts (on a Failure), or 50% (on an Exceptional Failure), before realizing that the task will fail (and, presumably, stopping).
 
-  - Since the MoS (and MoF) of a test can determine how long an action
-    takes, If a Task Action or Job requires a check, that check should
-    be made when the action is *begun.*
-    
-      - If the check is failed, the character in question works for 25%
-        of the Task Action’s timeframe or Job’s shifts (on a Failure),
-        or 50% (on an Exceptional Failure), before realizing that the
-        task will fail (and, presumably, stopping).
+Since the result of the check determines how long a task or job actually takes, if a check is called for, it must be made *at the beginning* of the task or job.
 
 ## Modes of Play
 
@@ -575,7 +514,7 @@ A *scene* is one specific scenario in an adventure — one large fight, one soci
 The "archetypical" Renaissance adventure is assumed to consist of between 5 and 9 sessions, with each session taking about 4 hours and having between three and six scenes in each session.
 Of course, not every group will break their adventures up the way the authors normally do; some may prefer, for example, much longer sessions.
 
-Some game mechanisms depend on *adventures*, *sessions* and *scenes*—for example, characters gain one *Luck Point* at the beginning of each *session* (see *Luck* in *Cheating Reality*).
+Some game mechanisms depend on *adventures*, *sessions* and *scenes* — for example, characters gain one *Luck Point* at the beginning of each *session* (see *Luck* in *Cheating Reality*).
 If your group plays very long (or very short) sessions, your GM may need to adjust how often session-dependent events occur.
 The GM can declare a *session break* (or "long rest," if you prefer); this is treated like a normal break between sessions, during which, for example, characters will gain a *Luck Point*.
 
