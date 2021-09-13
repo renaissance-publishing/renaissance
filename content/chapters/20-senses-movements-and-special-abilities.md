@@ -32,7 +32,7 @@ This list is by no means exhaustive.
     - Some materials (like glass) that are transparent in visible light are opaque in infrared, while some other materials that are opaque in visible light are transparent in infrared.
 
 - Life-Sense: the creature can perceive the muscle impulses that cause living creatures to move.
-  - This sense has a short range—only a few *strides* (around 3m).
+  - This sense has a short range — only a few *strides* (around 3m).
 
 - Low-Light: creature can see clearly in low-light conditions (but not total darkness).
   - Essentially, this negates penalties for low light levels (like late evening), and reduces for penalties for near-darkness (like a moon-lit night).
@@ -40,13 +40,13 @@ This list is by no means exhaustive.
 - Mage-Sight: you can perceive magical energy.
   - This works much like normal vision, where magic appear much like a luminous substance.
     - The more magic is being gathered, the more obvious it is; a *power* might be as visible to someone with mage-sight as a camp-fire is to everyone else, while larger, more powerful spells might be shine like brilliant signal-fires, or stir up currents of magic that reach of hundreds of paces (making them obvious even at great distance).
-    - But note that many *inert* substances are opaque to mage-sight, much like they are to visible light—that is, essentially, mage sight can't see through brick walls.
+    - But note that many *inert* substances are opaque to mage-sight, much like they are to visible light — that is, essentially, mage sight can't see through brick walls.
   - This has many effects:
     - A character with *Mage Sight* can clearly see powers, spells, and other magical effects.
     - This allows them to *analyse* a magical effect simply by *examining* it; this is a 10 minutes *Task Action* and requires a successful *Spellcraft* or *Knowledge: Magic* check.
     - Creatures with the *supernatural* have incorporated magical energy into their life-processes; this magical energy can be perceived with *Mage Sight*, making it obvious that those creatures are partly magical.
     - Spirits (creatures with the *Spirit* tag) are beings of magic, and thus are plainly evident when viewed with Mage Sight.
-      However, their nature may appear strange, chaotic, or confusing—powerful spirits especially may be entirely overwhelming or incomprehensible.
+      However, their nature may appear strange, chaotic, or confusing — powerful spirits especially may be entirely overwhelming or incomprehensible.
   - Some rare creatures and powers can partially mask their magical nature; in these cases, an *opposed test* is required to detect the creature or power's magical nature (the details of this test will be specified by the creature or power's description).
 
 - Motion: you have a particularly good sense for balance and motion.
@@ -68,7 +68,7 @@ Creatures can have several different movement modes.
 Most movement modes list a *base* and *full* movement rates; these correspond to how far a character can move during a turn, and are mainly used in *Combat* (see *Combat*).
 Some movement modes also list a *maximum speed*; this is the is the *maximum* speed (normally) possible using that movement mode.
 Reaching *maximum speed* usually requires more than one turn; characters attempting to reach their maximum speed can usually increase their current speed by their *Full* rate each turn.
-(Of course, favorable conditions—such as rolling down hill, being in a current or having a tailwind—can help.)
+(Of course, favorable conditions — such as rolling down hill, being in a current or having a tailwind — can help.)
 So, for example, a character with *Walking 5/15/25* as their movement has a base rate of 5, a full rate of 15, and a maximum of 25; it'll take them two turns to reach their maximum
 
 Each *movement mode* has a linked *movement skill*; checks related to that movement are made using that *movement skill*.
@@ -99,7 +99,7 @@ Normally, checks are only called for when a character is
 
 ## Abilities
 
-- Fast Healing: when you have Fast Healing *k*, you reduce your Damage by *k* each turn—normally healing by 20×*k* a minute.
+- Fast Healing: when you have Fast Healing *k*, you reduce your Damage by *k* each turn — normally healing by 20×*k* a minute.
   Every day, you may recover from one wound (what it might look like half-way through this process is best not thought about).
 - Motion-Sensitive: your senses are particularly sensitive to motion.
   You receive a +10 bonus to Perception checks made against moving targets.

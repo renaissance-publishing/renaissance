@@ -5,7 +5,7 @@ title: "Running Games"
 ## Designing Adventures
 
   - Remember that Renaissance is supposed to be balanced between several
-    different areas—acquiring resources, fighting, sneaking, social
+    different areas — acquiring resources, fighting, sneaking, social
     scenes and analysis. Don’t let any one of these become too large.
 
   - Individual adventures are often short.
@@ -26,8 +26,8 @@ title: "Running Games"
         projects (like building businesses, or crewing ships, or
         developing new powers).
 
-  - An individual chapter—whether a self-contained adventure or a
-    component of a longer arc—should include an even balance of
+  - An individual chapter — whether a self-contained adventure or a
+    component of a longer arc — should include an even balance of
     elements.
     
       - A common pattern is to start by handing players a mission or a
@@ -77,7 +77,7 @@ title: "Running Games"
         opposed to mechanically. Don’t “stat-out the gods.”
     
       - Defeating Spirits might hinge on having specific magical
-        implements, or knowledge of specific rituals—or the backing of
+        implements, or knowledge of specific rituals — or the backing of
         *other* powerful spirits. The campaign might turn on acquiring
         these resources.
     
@@ -88,7 +88,7 @@ title: "Running Games"
       - Spirits should also be *menacing* and *strange*:
         
           - menacing in the sense that they are vastly more powerful
-            than the characters, and might be extremely dangerous—and
+            than the characters, and might be extremely dangerous — and
             the characters might be helpless if the spirit decides to
             turn on them, which it might do for no other reason than it
             wants to.
@@ -106,7 +106,7 @@ title: "Running Games"
     
       - Specific magical items make very *poor* rewards. Remember that
         Renaissance is designed around having a small number of
-        interesting features—that is, powers and items.
+        interesting features — that is, powers and items.
         
           - If you give a player an item that they didn’t ask for, they
             might not find it *interesting*; it might become the least

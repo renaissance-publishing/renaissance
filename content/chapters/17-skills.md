@@ -75,34 +75,16 @@ title: "Skills"
 
 ## Skill List
 
-<aside class="designnote">
-
-### Crunchy, But Not Mechanical
-
-A good description of Renaissance, provided by an early playtester, is that it is "crunchy but not mechanical"--meaning that it provides players with clear, mathematical rules for manipulating checks, but few descriptive rules for how those checks should be used (what might be called "mechanics" or "systems").
-
-The skill descriptions that follow are an example of this principle;
-We describe the kinds of things that are common areas of expertise; later, in *Character Creation*, we'll tell you how to purchase ranks in these skills--which will allow you great control over what exactly your target number will be when you are required to roll a skill check.
-But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
-that's largely up to the GM and the players.
-
-This is the reverse of some other RPGs, which might tell you specifically what each skill can be used to do, and what checks would be required;
-this difference might require some getting used to!
-
-<!--
-I'll comment this out for now.  While this text is good, I think it's already present somewhere else.
-
-While we like the flexibility that this gives the system, it does create a problem: some players greatly miss the kind of guidance that those "mechanics" and "systems" provide.
-If you have that problem, then, when designing your character, you may want to start by trying to think about the kinds of things you want your character to be able to do--which might mean imagining them in specific scenarios and then thinking about how they sovle the problems they encounter--and then pick skills that represent those tactics and abilities.
-When playing your character, you might want to first decide what you want your character to *d0*, and then allow the GM to decide which skill checks are required and what your modifiers are.
-(And not that there is not necessarily one correct answer to that question!)
-
-If you're the GM and you're having trouble picking skills, remember that the skill system is *intended* to be open-ended and flexible.
-You do want to be consistant and you don't want to be too lax, but you *don't* need to worry too much about picking exactly which skill and exactly which modifier is required in every given situation.
-And there's nothing wrong with asking a player which skill they think applies, or giving them a choice of skills--because its entirely possible that they might have more than one applicable skill!
--->
-
-</aside>
+[[designnote | Crunchy, But Not Mechanical]]
+| A good description of Renaissance, provided by an early playtester, is that it is "crunchy but not mechanical"--meaning that it provides players with clear, mathematical rules for manipulating checks, but few descriptive rules for how those checks should be used (what might be called "mechanics" or "systems").
+|
+| The skill descriptions that follow are an example of this principle;
+| We describe the kinds of things that are common areas of expertise; later, in *Character Creation*, we'll tell you how to purchase ranks in these skills — which will allow you great control over what exactly your target number will be when you are required to roll a skill check.
+| But we *don't* tell you *exactly* what each skill can be used to do, or *exactly* what kind of modifiers you're likely to encounter;
+| that's largely up to the GM and the players.
+|
+| This is the reverse of some other RPGs, which might tell you specifically what each skill can be used to do, and what checks would be required;
+| this difference might require some getting used to!
 
   - Animal Handling (SAV)
     
@@ -152,7 +134,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
   - Deception (SAV)
     
       - Active, Social
-      - Used to deceive people in social situations—to make other
+      - Used to deceive people in social situations — to make other
         characters believe what you want them to believe.
       - Can also be used (usually in conjunction with Disguise) to hide
         your identity, and possibly to impersonate someone else.
@@ -228,7 +210,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with one- and two-handed melee weapons.
       - Note that unarmed combat and pole-arms are represented by separate skills (Unarmed Combat and Pole-Arms, respectively).
-      - Note that *Shields* is offered as a proficiency.  This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons—such as spiked shields and dueling-shields.
+      - Note that *Shields* is offered as a proficiency.  This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons — such as spiked shields and dueling-shields.
       - *Double-weapons* refers to "D&D-style" double-weapons; the historicity of these weapons is dubious, but there's no reason your character can't have one!
       - Sample Specializations: Axes, Clubs, Daggers, *Double-Weapons*, Hammers, Maces, *Shields*, Staffs, Swords, *by exotic weapon*
 
@@ -296,7 +278,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
     
       - Active, Knowledge, Mental
       - Primarily covers searching for information in books, collections, museums or libraries.
-      - For finding interesting items—including searching for clues—use Search.
+      - For finding interesting items — including searching for clues — use Search.
       - For drawing conclusions from technical information, use an appropriate Knowledge or Profession skill.
 
   - Ride (COO)
@@ -369,7 +351,7 @@ And there's nothing wrong with asking a player which skill they think applies, o
 Sidebar: Unusual Skills
 
   - Sometimes you’ll want your character to be able to do something that
-    isn’t exactly covered by a skill—like tracking game through the
+    isn’t exactly covered by a skill — like tracking game through the
     woods.
   - While players can use an Exotic Skill to take ranks in an unusual
     skill, they are usually better served by taking an existing skill
@@ -377,7 +359,7 @@ Sidebar: Unusual Skills
     always be better off taking Search \[Tracking\] than taking Exotic
     Skill: Tracking.
   - The Knowledge and Profession skills can also be used to establish a
-    specific special skill-set for a character—for example, Profession:
+    specific special skill-set for a character — for example, Profession:
     Hunter.
   - In addition to thinking about how you want to represent your
     character’s talents, think about how you want to be able to *use*
@@ -392,11 +374,11 @@ Sidebar: Unusual Skills
 Sidebar: Gotchas and Confusing Cases
 
   - Disguise only covers the *physical* half of pretending to be someone
-    else; for the social half—that is, to talk to people without being
-    discovered—you’ll also need Deception.
+    else; for the social half — that is, to talk to people without being
+    discovered — you’ll also need Deception.
   - Search is used to actively search an area for something; it takes
     time, and you move around. Perception is usually used for noticing
-    things quickly—seeing things when you enter a room, as opposed to
+    things quickly — seeing things when you enter a room, as opposed to
     after looking around. Search is also used to track someone or
     something.
   - Control is used to manage your own magical energies, and to develop

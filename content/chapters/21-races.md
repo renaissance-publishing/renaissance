@@ -2,35 +2,36 @@
 title: "Races"
 ---
 
-There are three separate keywords that have special significance in Race
-entries. All races will have one of the following keywords: Natural,
-Supernatural or Spirit. This tells you whether the race is
-flesh-and-blood (Natural), has some inborn supernatural quality
-(Supernatural), or is composed entirely of magical energy (Spirit).
+Here we will provide the information that players will need to build a character of a particular race.
+This includes a short description of their history, cultures, and ethnic groups; physical descriptions; vitals; and, importantly, their mechanical features.
 
-Some races have optional Traits, Classes, Powers or Backgrounds. You
-don’t acquire them for free; rather, they are added to your list of
-options at character creation, and you may *optionally* select them
-using all the normal rules for taking Traits, Classes, Powers or
-Backgrounds during character creation. (So, for example, Shifters don't
-*just have* the Animal Form trait, but they can purchase it during
-character creation for CP, just like any other trait they are eligible
-for.)
+We've divided this into several sections:
 
-Game Design Note: narrowing the stuff you get in Races down to *only*
-what every member of that species would have, regardless of background.
-Moving other features (c.f. skill bonuses) to backgrounds. Adding
-Optional Backgrounds to races that have unique sub-cultures (like Ash
-Elves, Herders or Dwarves).
+- the common races of the Commonwealth;
+- some of the more unusual races of the Commonwealth;
+- some of the races of the neighboring nations; and,
+- a few of the more exotic and unusual races of the world.
 
-Game Design Note: races selection should be interesting, and should
-affect how you play the character. However, you shouldn’t have to pick a
-specific race to get a specific feature or be good at a specific job.
-This is why many abilities were moved to Backgrounds, and why many
-abilities are being replaced by Traits-for-free (so that any other Race
-can just take the Trait if they want to).
+Note that every race will have on of three special tags: Natural, Supernatural or Spirit.
+This tells you whether the race is flesh-and-blood (Natural), has some inborn supernatural quality (Supernatural), or is composed (primarily or entirely) of magical energy (Spirit).
+
+Some races have optional Traits, Classes, Powers or Backgrounds.
+You don’t acquire them for free; rather, they are added to your list of options at character creation, and you may *optionally* select them using all the normal rules for taking Traits, Classes, Powers or Backgrounds during character creation.
+(So, for example, Shifters don't *just have* the Animal Form trait, but they can purchase it during character creation for CP, just like any other trait they are eligible for.)
+
+[[designnote]]
+| Because we'd like to emphasize that a member of any race can grow up in any culture, we've tried to limit the fixed features in each *races* block to only those biological characteristics that every member of a given race would have, regardless of background.
+
+[[designnote]]
+| We'd like race selection to be interesting and impactful, but we also want to avoid locking any race into (or out of) any particular role, or giving any race an edge in a role that a character from no other race could catch up to.
 
 ## Common Races
+
+The following races have large populations, and can be found throughout the Commonwealth.
+Most of these races take pride in belonging to one or both of the following groups:
+
+- The "founding races," the races that founded the Commonwealth: that is, Humans, Gnolls, and Halflings.
+- The "pillar races," the major racial and cultural groups that dominate the Commonwealth today: that is, Drakes, (Ash) Elves, Gnolls, Humans, and Kobolds.
 
 ### Drakes
 
@@ -49,16 +50,16 @@ can just take the Trait if they want to).
         history before his kingdom. Karrach need a *people*.
 
   - Karrach, aided by the dragons who answered his call, began a search
-    for a powerful spirit willing to provide him a great boon—for a
+    for a powerful spirit willing to provide him a great boon — for a
     great price.
     
       - Ultimately, a spirit contacted him; it variably identified itself as *the Bulrush God*, *the Rainstorm Shepherd* and *the Osprey’s Father*, and it dwelt within the southern reaches of the Dragonshire.
       - The spirit’s actual basin remains unknown, as does the extent of
         its powers; they are certainly great, given what it did.
       - It gave Karrach and his followers instructions for creating holy
-        sites—only the precious first few of which it has actually
-        blessed—and a ritual they could perform there. The ritual would
-        convert a dragon’s egg into a drake’s egg—drakes being creatures
+        sites — only the precious first few of which it has actually
+        blessed — and a ritual they could perform there. The ritual would
+        convert a dragon’s egg into a drake’s egg — drakes being creatures
         of dragon’s blood and kind, but smaller, less mighty and far
         more fertile.
       - The price the Bulrush God demanded was perhaps surprisingly
@@ -75,7 +76,7 @@ can just take the Trait if they want to).
         neither its actual basin nor the true extent of its powers nor
         its ultimate goals.
       - The Bulrush God answers very few supplicants; it is not known
-        what draws it. No bind for it is known—unsurprisingly, for a
+        what draws it. No bind for it is known — unsurprisingly, for a
         spirit of its power.
       - Conversely, the Bulrush God interferes little in the affairs of
         mortals and lesser spirits. Particularly, it has never used its
@@ -92,12 +93,12 @@ can just take the Trait if they want to).
       - The ritual to transform an egg required a price of each
         participant dragon; it was not undertaken lightly.
       - Though Drakes can nominally be broken into clans based on their
-        lineage, their familiy trees where often rendered *complex* by
+        lineage, their family trees where often rendered *complex* by
         feudal politics; for some, their clan and heritage are important
-        parts of who they are; other drakes care little—or may not even
+        parts of who they are; other drakes care little — or may not even
         know their ancestry at all.
       - Many Drake clans (or smaller noble families) claim noble titles
-        and land-holdings—at least in principle.
+        and land-holdings — at least in principle.
 
   - In the early days of the Dragonshire, when they were a feudal
     territory (and most of the feudal lords were dragons), Drakes tended
@@ -133,22 +134,36 @@ can just take the Trait if they want to).
 
   - Appearance: Drakes are humanoid in gross layout, but they have the
     head, long tail, powerful limbs, tough scales and sharp claws of
-    Dragons. {It may be better to say they look like Dragons, except for
-    being roughly humanoid in shape and size.)
+    Dragons.
 
 #### Drake Vitals
     
 - Old Age: 100 Years
 - Average Height: 2.4m
 - Average Weight: 110kg
+- Diet: Omnivore (preferential carnivore)
 
 - DUR 40, STR 40
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Foot 4/12
-- Senses: Normal, Low-Light
+- Senses: Normal, Infra-Red
+- Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Dragon-Kin, Drake
 - Language Group: DDK, HHED
 - Scales: +2 Armor
+
+#### Cultural Item: Dragonshire Wyrmblade
+
+A type of massive sword unique to the Dragonshire, Wyrmblades are designed to take advantage of the natural strength and reach of Drakes, and to be effective when used in combination with the pole-arms of smaller races.
+The name refers to a snake-like undulation incorporated into the blade.
+
+Tags: Two-handed, Heavy, Bladed, Difficult, Reach, Close, Defensive, Parry, Oversized
+
+Damage: 2d10+3+DB
+
+AP: 4
+
+Special: Oversized.  Users without the *Great Stature* tag take -10 to their attack check and deal -2 DB.
 
 #### Optional Trait: Chroma
 
@@ -172,7 +187,7 @@ Dragons have a wide variety of modes of motion, and you have inherited one of th
 
 #### Optional Power: Breath Weapon
     
-You have inherited the ability to breathe fire—or some other dangerous substance.
+You have inherited the ability to breathe fire — or some other dangerous substance.
 
 - **Effect**:  You gain one of the following effects, depending on the power’s *type*:
   - Chemical: you can spit a toxic spray.
@@ -323,7 +338,7 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
         constructed by Dwarves and Kobolds.
       - Ash Elven culture is open, egalitarian and libertine; guests are
         welcome and well-treated, and they tend to get along well with
-        their neighbors—especially dwarves and kobolds.
+        their neighbors — especially dwarves and kobolds.
       - They are particularly known for the joyous celebrations that
         mark their holidays, in which their cities are brightly
         decorated and travelers and neighbors are welcome.
@@ -337,20 +352,39 @@ Though actual rule now rests in the hands of the House of Commons, having the ri
 
 #### Elven Vitals
 
+- Old Age: 160 Years
+- Average Height: 180cm
+- Average Weight: 50kg
+- Diet: Omnivore
+
 - DUR 25, STR 25
 - \+5 COO +5 WIL +10 INT
 - Movement: Foot 5 / 15
 - Senses: Normal, Low-Light
+- Size: Medium
 - Tags: Natural, Humanoid, Elf
 - Language Group: HHED
 - *Keen Senses*: Elves receive +20 to visual Perception checks, and +10 to auditory perception checks.
 - Prehensile Feet: Elves have prehensile feet.
   This allows them to grip and manipulate objects with their feet as adroitly as they do with their hands.
   This is of particular use while climbing and grappling, applying a +20 bonus to those tests.
-  It's also partcularly useful when *riding*, and it makes them very difficult to *dismount*.
+  It's also particularly useful when *riding*, and it makes them very difficult to *dismount*.
   - Elves treat their feet as non-dominant limbs, so they need to purchase the Ambidextrous trait at least once to wield weapons with them without taking a penalty.
 - Natural Camouflage: Elves have complex skin patterns, which serve as camouflage.
   These patterns provide a +10 benefit to Stealth checks; this benefit is lost if their skin is covered, and is not cumulative with worn camouflage.
+
+#### Cultural Item: Clan Sword
+
+Clan Swords are wooden weapons used by many Wood Elves.
+They are carefully hewn from sturdy hardwood, and finished with designs unique to the tribe that produced them.
+Clan Swords arc like inverted sabres; have a narrow, diamond-like cross-section; and are weighted towards the very tip.
+They almost always feature leather or linen lanyards to secure the weapon to the wielder's hand.
+
+Tags: One-handed, Easy, Blunt, Secure, Well Suited: Maim, Well Suited: Mighty Blow
+
+Damage: 1d10+3+DB
+
+AP: 1
 
 #### Optional Background: Ash Elven Undercity
 
@@ -391,7 +425,7 @@ Gnolls are roughly humanoid in gross layout, but they have hyena-like features:
 their head and feet are much like a hyena's;
 they are covered in short, ochre fur much like a hyena's;
 and they have a hyena's short tail.
-Gnolls are also much larger and stronger than most other races—Drakes are perhaps the only common race that can exceed them.
+Gnolls are also much larger and stronger than most other races — Drakes are perhaps the only common race that can exceed them.
 Notably, Gnolls display less sex dimorphism than most other races do; as a result, Gnollish cultures tend to place less importance on an individual's sex.
 
 Gnolls where one of the three races that cooperated under the auspices of the Old Charter to create the growing, prosperous culture of towns, manors and cities that would eventually become the Commonwealth.
@@ -430,17 +464,24 @@ Though few in numbers, the combination of these stealthy hunters scattered throu
 - Old Age: 50 Years
 - Average Height: 2.2m
 - Average Weight: 80kg
+- Diet: Obligate Carnivore (scavenger)
 
 - Gnolls are one of the three founding races of the Commonwealth, and prosper anywhere great strength and endurance are valuable.
 - DUR 35, STR 35
-- \+5 INT, +5 SAV, +10 SOM
+- \+5 COG, +5 INT, +5 SAV, +5 SOM
 - Movement: Foot 5 / 15
 - Senses: Normal, Low-Light, Scent
+- Size: Medium, *Great Stature*
 - Tags: Natural, Humanoid, Gnoll
 - Language Group: GR
-- *Hide*: Gnolls gain +1 Armor Value
-- *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
-- *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
+- *Sturdy*: Gnolls are highly resistant to pain and injury.
+  Gnolls can Negate one Wound.
+- *Powerful Jaws*: Gnolls have fierce teeth and powerful jaws.
+  They have the following natural weapon:
+  - Bite: Unarmed Attack, 1D10+4+DB DV, AP 1.
+  - Tags: Natural, *Bone-Crushing*, *Grab*
+- *Disease-Resistant*: Gnolls have an incredible resistance to many diseases.
+  They have Resistance: Disease (+30 to checks to resist)
 
 #### Optional Background: Military Family
 
@@ -461,7 +502,7 @@ Continuing a way of life that stretches back more than 700 years, you travel wit
 
 #### Optional Neutral Trait: Cold-Adapted
 
-Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold—although you suffer somewhat in warmer lands.
+Your ancestors have long dwelled in the snowy north, and you are well adapted to the cold — although you suffer somewhat in warmer lands.
 
 - You gain Resistance: Cold and Vulnerability: Heat.
 
@@ -484,11 +525,13 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealth�
 - Old Age: 60 years
 - Average Height: 1.7m
 - Average Weight: 60kg
+- Diet: Omnivore
 
 - DUR 30, STR 30
 - \+5 COG, +5 COO, +10 SAV
 - Movement: Foot 4 / 12
 - Senses: Normal
+- Size: Medium
 - Tags: Natural, Humanoid, Human
 - Language Group: HHED
 - Social Animals: Humans gain the Social Animal trait.
@@ -502,7 +545,7 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealth�
 
   - Kobolds are sociable, creative, and very quick.
 
-  - Kobold culture is very family-oriented, and very community-oriented
+  - Kobold culture is very family- and community-oriented
 
   - Extended families tend to live together in large homes, and several
     families will cluster together to form a block.
@@ -530,7 +573,7 @@ Intelligent, dextrous and social, humans are the engineers of the Commonwealth�
   - Kobold culture strongly encourages industry, so Kobold communities
     tend to be highly productive.
 
-  - They look like tiny, bipedal dragons. Somewhat like Drakes, their
+  - They look like tiny, slender, bipedal dragons. Somewhat like Drakes, their
     scales can take on a range of colors, and often metallic hues;
     however, unlike Drakes, this rarely has any effect on the Kobold in
     question.
@@ -548,15 +591,16 @@ Clever, quick, industrious and sociable, Kobolds make up the majority of the und
 - Old Age: 40 Years
 - Average Height: 1m
 - Average Weight: 25kg
+- Diet: Omnivore (preferential carnivore)
 
 - DUR 25, STR 20
 - \+5 INT, +10 COO, +5 SAV
 - Movement: Foot 5 / 15
 - Senses: Normal, Infrared
+- Size: Small
 - Tags: Natural, Humanoid, Dragon-Kin, Kobold
 - Language Group: DDK
 - *Scales*: Kobolds have +1 Armor
-- *Small*: Kobolds are small
 
 #### Optional Trait: Kroma
 
@@ -571,9 +615,9 @@ Though the blood of Dragons is thin in Kobolds, it does sometimes manifest itsel
 
 #### Optional Trait: Dragon’s Bite
 
-Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire—or some other elemental type.
+Though you don’t possess a Dragon’s breath, you have inherited (some of) their natural weapons, and they can be infused with a Dragon’s fire — or some other elemental type.
 
-- **Effect**: You gain the following *natural weapons*:
+- **Effect**: The character gain the following *natural weapons*:
   - Bite:
     - Unarmed Attack, 1D10+2+DB DV, AP -
     - Tags: Natural, *your type*
@@ -643,12 +687,14 @@ Half elf, half human, half wild, Shifters can *shift* between humanoid and hybri
 - Old Age: 90 Years
 - Average Height: 1.8m
 - Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 30, STR 30
 - \+5 COO, +5 INT, +5 SOM
 - Movement: Foot 4 / 12
 - Senses: Normal, Low-Light
-- Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
+- Size: Medium
+- Tags: Supernatural, Humanoid, Human, Elf, Shape-Shifter, Shifter
 - Language Group: HHED (humanoid form); GR (hybrid form)
 - *Hybrid*: You have two forms: Humanoid and Hybrid.
   - The specific details of each form are fixed.
@@ -692,14 +738,21 @@ Some shifters, in addition to their *hybrid* form, can entirely assume the form 
 
 ## Uncommon races
 
+The Commonwealth also includes countless other races and cultures, besides Gnolls, Humans, and the other pillar races; here are but a few.
+
 ### Clay Men
+
+[[designnote]]
+| Even more than the rest of the guide, Clay Men are still a work in progress.
+| While at least one of the authors thinks they're interesting enough to keep in, they've proven to be difficult to get *just right*.
+| Which may be obvious, given that several of the capabilities ascribed to them haven't made it into their rules-text yet.
 
 The Clay Men have long dwelled deep underground; they are among the most unusual races of the Emerald Plane.
 Explorers from the Commonwealth first contacted them more than six hundred years ago; though they where open enough to trade and cooperation, their isolation deep underground limited how much traffic was possible.
 
 Despite being open and sociable, their extremely long lives and alien natures made them slow to seek closer alliance with others races and nations.
 They have long suffered from attacks from the *Leapers*, who seem to be attempting to exterminate them.
-When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy—although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
+When the Deep-Explorer Dwarves began to venture underground, the Clay Men allied with them against their mutual enemy — although the highly individualist Deep-Explorers have remained wary of the Clay Men, given that, like the Mind-Sharing Dwarves, the Clay Men blend their minds.
 More recently, as large number of Kobolds have settled in the Commonwealth, the Clay Men have also begun to contact and trade with these (relatively) shallow-dug creatures.
 
 As the Commonwealth prospered, as they expanded and explored further and further underground, and as they made major strides against the Leapers and their vassals, the Clay Men came to view them both more as an enlightened nation in which the Clay Men might be welcomed and respected despite their extreme differences, and as vital military allies against their mutual and deadly foes.
@@ -708,28 +761,49 @@ When the Commonwealth Compact was signed in CY 750, the Clay Men where one of se
 #### Alien Nature
 
 The Clay Men have a unique nature.
-They do not have organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
+They do not have distinct organs and tissues the way that most other races do; instead, they are a mass of living, undifferentiated material.
 Without bones or organs, they have a great ability to stretch, compress and reshape themselves; they can also extend *pseudopods* for grip and locomotion.
-They do not have eyes and are completely blind, but they have exceptional senses of hearing and vibration—which serve them better than eyes in the lightless depths where they live.
+They do not have eyes and are completely blind, but they do have an exceptional sense of hearing, the ability to perceive vibrations through solid surfaces, and the remarkable ability to create "pinging" sounds and interpret the echos to "see" their surroundings; these abilities serve them better than eyes in the lightless depths where they live.
 
-Perhaps more remarkable—or more enviable—to surface dwellers, they are fueled at least in part by magic.
+Perhaps more remarkable — or more enviable — to surface dwellers, they are fueled at least in part by magic.
 They need very little food, they do not sleep, and they do not age.
 
 Even more amazing is their ability to literally *blend*.
 Two Clay Men can extend pseudopods and partly *blend together*.
 While blending, Clay Men can share, copy and exchange their minds, and can support one another if one is enjured or strained.
 
+Their reproduction is also unique.
+Individual Clay Men are sexless.
+New individuals can be created by existing individuals literally splitting.
+They have some control over this: it is possible for an individual to completely divide, creating two new individuals who bearing parts of the parent; but it is also possible for an individual to "bud," creating a new individual while remaining substantially themselves.
+Clay Men can also do this individually or cooperatively: several Clay Men can come together — on their own, or with the mediation of a *reservoir* — and create a new individual from parts of all the participating individuals.
+
+> *Clever* \[Clay-Man, Far Watch member\]: A common source of frustration members of other races encounter is how to address us.
+> Commonwealth Standard has two additional gender modes that most languages lack — one for "gender-absent," which we often use, and one for "gender-ambiguous," which Tempters often use.
+> Weal, for example, doesn't have these modes.
+>
+> River: … you're not going to juse tell us?
+> All right, then, I'll ask: what should we call you?
+>
+> Clever: Ha!
+> Fair point.
+> In Weal, I prefer \[it\]; I think that's closer to the mark than either the plural \[they\] or the singular \[he\] or \[she\].
+> But I don't speak for other Clay Men, only myself.
+
+For Clay Men, combining "traits" is a separate act.
+Whereas, for most races, the traits of a child are drawn from the traits of parents and grandparents, among Clay Men, traits can be *exchanged* between individuals (and reservoirs).
+
 #### Clay Culture
 
 Many of their communities center arund *reservoirs*—large masses of the living material that makes up Clay Men.
 Unlike individual Clay Men, reservoirs aren't sentient or active in themselves; instead, reservoirs act as repositories.
-Clay Men can *blend* with the reservoir, storing bits of themselves with in—or accessing the stored minds and experiences of others.
-Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge.
+Clay Men can *blend* with the reservoir, storing bits of themselves within — or accessing the stored minds and experiences of others.
+Clay Men cannot copy their entire, living minds into a reservoir, but they can preserve a remarkable ammount of their memories, skills, personalities and knowledge — which other Clay Men can then access and draw from.
 
 Unsurprisingly, many "Clay" communities center around the care (and defence) of these reservoirs, and the cultivation of useful skills and knowledge within.
 
 This gives many Clay Men a unique outlook.
-The reservoir gives them a measure of immortality—beyond even that provided by the fact that they do not age.
+The reservoir gives them a measure of immortality — beyond even that provided by the fact that they do not age.
 It also allows them to modify their minds in a way that few other races can; they can quite literally retrieve bits of knowledge or even personality from the reservoir, to suppliment or replace their own.
 For this reason, some Clay Men are disposed to think of themselves as much as realizations of some of the minds stored with their reservoir as individuals themselves.
 
@@ -741,7 +815,7 @@ Recently, some Clay Men have experimented with developing a bony "rigging" inter
 Since they are not dependant on wide, cultivated fields, and since they do not age or die naturally, their communites tend to be small, and to grow very slowly if they grow at all.
 Their communities are also heavily fortified and defended, to resist the Leapers.
 
-Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies—which most other races cannot hear or produce.
+Clay Men speak a unique language (simply called "clay") that makes use of very low frequencies — which most other races cannot hear or produce.
 
 #### Commonwealth Integration
 
@@ -758,6 +832,11 @@ They can learn to speak Commonwealth Standard (though members of some other race
 #### Clay-Men Vitals
 
 An ancient, amorphous race.
+
+- Old Age: -
+- Average Height: 1.8m
+- Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 35, STR 20
 - \+5 INT, \+5 SAV, \+5 WIL
@@ -781,7 +860,7 @@ at will; they can stretch, narrow, ball up, flatten out, and so on.
 - *No Bones*: Lacking a skeletal structure, Clay Men cannot take advantage of *leverage*; this severely reduces their ability to deploy their strength.
   - Their DB is 0.
   - They suffer a -30 penalty on checks where *leverage* would be required.
-- *Blind*: Clay Men have most of the senses that other races do—taste, touch, smell and hearing—but they are *blind*.
+- *Blind*: Clay Men have most of the senses that other races do — taste, touch, smell and hearing — but they are *blind*.
 - *Acute Hearing*: Clay men have an incredible sense of hearing, stemming from their abilit to use their entire surface to detect sound.
   They gain a +20 bonus to auditory perception checks, and can hear both very low and very high pitches of sound.
 - *Envelop*: Clay Men have a unique form of physical combat available to them: simply enveloping (and then digesting) an enemy; this works much like *grappling*, except that the grappled creature is pulled completely inside the Clay Man.
@@ -826,7 +905,7 @@ Some Clay-Men have developed the ability to suffose all or part of themselves wi
   - This increases the damage that they deal to an *enveloped* creature or object to 1d10 DV per turn.
   - They can make all, part or none of themselves caustic; they can, for example, render only a small patch of their surface *caustic*.
   - This makes it easier for them to burrow, which improves the rate of the *Burrow* movement to 4/12.
-  - *Caustic* Clay Men can tunnel even through solid rock—although they are slowed to 2/6 when doing so.
+  - *Caustic* Clay Men can tunnel even through solid rock — although they are slowed to 2/6 when doing so.
 
 #### Optional Trait: Color-Changing
 
@@ -873,7 +952,7 @@ A few adventurous Commonwealth dwarves travelled west with the Commonwealth, whe
 #### Traditional Dwarven Culture
 
 Dwarves originate in the frozen north, where the low peaks and rolling foothills of the Worldspine Mountains give way to the coast, the ocean, and the forested plains to their east and west.
-Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine—many small Dwarven communities built on the surface still consist largely of bermed buildings.
+Dwarves have long been comfortable living underground, surrounded by growing things: many of their ancient communities consisted of small numbers of bermed buildings in the relative flatlands of the northeast, or of structures dug into the foothills of the Worldspine — many small Dwarven communities built on the surface still consist largely of bermed buildings.
 As Dwarves began to urbanize, their earthen construction became larger and deeper; the development of sophisticated mining and masonry techniques allowed them to incorporate stone into their construction and to build underground, eventually producing the Dwarven clan-holds that were common when the Empire of Man first contacted them.
 
 Most modern Dwarven holds are large, wide, sturdy structures built of stone and earthwork; they are often dug shallowly, with substantial extent on the surface (as opposed to deeper-digging races like Kobolds, who often build entirely subterranean structures deep underground).
@@ -881,7 +960,7 @@ Dwarven Holds are often built in a ring around the base of a hill; more rarely, 
 They often feature large open spaces on the interior, which provide ventilation, and serve as public spaces or gardens.
 
 The old Dwarven culture of the North is centered around kin and custom.
-Most Dwarven holds will be controlled by a Clan, consisting of several families—though some large holds may be governed by several Clans, and some large and wealth Clans control multiple holds.
+Most Dwarven holds will be controlled by a Clan, consisting of several families — though some large holds may be governed by several Clans, and some large and wealth Clans control multiple holds.
 Rather than law and governance as such, holds tend to be run by custom and consensus; authority is typically held by the heads of families.
 Similarly, exchange is more often mediated by custom than currency, and there is a strong emphasis on caring for kin.
 
@@ -891,10 +970,9 @@ For this reason, only about a third of the Dwarven Clans of the north ever signe
 Dwarves have cultivated expertise in mining, stonework and agriculture.
 Craftsmen also hold high status in Dwarven holds, and many Dwarven communities are known for the quality of the work of their artisans, which can rival the work of Human craftsmen.
 
-
 #### Haven Isles Dwarves
 
-Though only a few Dwarves chose to leave their northern lands and settle elsewhere in the Commonwealth, the communities founded by these travellers, explorers and exiles have endured, grown and prospered.
+Though only a few Dwarves chose to leave their northern lands and settle elsewhere in the Commonwealth, the communities founded by these travelers, explorers and exiles have endured, grown and prospered.
 Today, Dwarves are one of the most common races in the huge urban centers of the Haven Isles in particular, where their own culture blends with their Kobold and Ash-Elf neighbors.
 
 The Dwarves of the Haven Isles tend to be more mercantile; formal law and finance have substantially replaced tradition and custom in these communities.
@@ -913,23 +991,23 @@ The fungus proved to have remarkable capabilities, and an entirely new Dwarven c
 This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
 The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
 
-Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures—what is commonly called psionic energy.
-What's more, the fungus can actually colonize the bodies of some other creatures—including Dwarves, whose physiology is highly compatible with it.
+Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures — what is commonly called psionic energy.
+What's more, the fungus can actually colonize the bodies of some other creatures — including Dwarves, whose physiology is highly compatible with it.
 Mindshare Fungus is not a parasite, however, but rather a symbiote; it does not harm its hosts, but it does provide them with some remarkable benefits.
 The Mindsharing Fungus can "bridge" the minds of its hosts; this allows those hosts to exchange thoughts, experiences, knowledge, and even skills.
-These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in—although they cannot completely shut out the connection.
+These exchanges are largely voluntary; hosts have a great deal of control over what they share with others and what they take in — although they cannot completely shut out the connection.
 
-Normally, this effect only works over short distances—hosts need to be within a few *strides* of each-other to bridge their minds.
-However, the effect can be "conducted" over greater distance by Mindsharing Fungus "plants" themselves—and these "plants" can be quite large, with many different surface growths connected by a vast rootwork.
-Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users—ranging from simple messages or discrete memories to fragments of personalities.
+Normally, this effect only works over short distances — hosts need to be within a few *strides* of each-other to bridge their minds.
+However, the effect can be "conducted" over greater distance by Mindsharing Fungus "plants" themselves — and these "plants" can be quite large, with many different surface growths connected by a vast rootwork.
+Mindshare "plants" also have the remarkable ability to *store* and *retrieve* parts of the minds of users — ranging from simple messages or discrete memories to fragments of personalities.
 
 A unique, highly communal culture has sprung up around the *Fahra*.
 The Mindsharing Dwarves tend to be radically open, honest and egalitarian.
-Even more than traditional Dwarves, they run their societies by consensus and memory—thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
-Members of Mindsharing communities will often share some personality traits—an individual's personality is never forcefully changed, as even Mindsharing Dwarves value their individuality, but rather occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
+Even more than traditional Dwarves, they run their societies by consensus and memory — thanks to the Mindsharing Fungus, they have little need of courts, contracts, physical records, or even schools.
+Members of Mindsharing communities will often share some personality traits — an individual's personality is never forcefully changed, as even Mindsharing Dwarves value their individuality, but rather occurs naturally and inevitably as the mind of each member slightly overlaps with every other in a community.
 Some communities remain highly individualistic in their own way, where each member lives their own lives and pursues their own goals, merely using the *Fahra* to best live at peace with their neighbors; in other communities, however, members can begin to "vanish" into the collective.
 
-No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link—no matter how much they might try to stop it—and would "poison" all the other members.
+No Mindsharing community has been known to forcefully recruit a member, or force its will on a member; this is due in part to their culture, in part to Commonwealth law, and in part to the fact that the trauma and misery inflicted on that individual would "leak" over the link — no matter how much they might try to stop it — and would "poison" all the other members.
 Still, there are those that fear them.
 
 Most Mindsharing Dwarves live in the Haven Isles.
@@ -943,9 +1021,9 @@ Independent and individualistic, they where not among the holds that joined the 
 In CY 514, a community of Dwarves from the Haven Isles settled in an abandoned Hold near the territory of the *Lun*; these Dwarves had brought the *Fahra* with them, and began to culture and experiment with the symbiotic organism.
 
 The fiercely individualistic *Lun* where horrified; they feared what their new neighbors might become, and were particularly alarmed that their hold was in a position to close off the *Lun*'s path out of the Worldspine Mountains.
-The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface—their former settlements where now little more than heavily-fortified trading-posts.
+The *Lun* sought a refuge that the *Fahrat* could never breach, and a path of escape that they could never cut off; they began digging deeper underground in CY 517, and by CY 533 they had almost entirely withdrawn from the surface — their former settlements where now little more than heavily-fortified trading-posts.
 
-Today, little is known about the Deep-Explorer Dwarves—called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
+Today, little is known about the Deep-Explorer Dwarves — called the *Drahrat* in their own language, a deliberate dig at the *Fahrat*.
 
 See also *Deep-Explorer Dwarves* in *Other Factions*.
 
@@ -954,14 +1032,15 @@ See also *Deep-Explorer Dwarves* in *Other Factions*.
 - Old Age: 110 Years
 - Average Height: 90cm
 - Average Weight: 50kg
+- Diet: Omnivore
 
 - DUR 35, STR 30
 - \+10 SOM, +10 WIL
 - Movement: foot 3 / 9
 - Senses: Normal, Infrared
+- Size: Medium, *Squat*
 - Tags: Natural, Humanoid, Dwarf
 - Language Group: HHED
-- Size: Medium
 - *Squat*: Dwarves are treated as small targets when defending against ranged attacks (even though they are Medium-sized creatures).
 - *Hardy*: Dwarves are known for their hardy constitutions, being resistant to both disease and poison.  Dwarves gain Resistance: Disease and Resistance: Poison
 
@@ -1008,14 +1087,56 @@ Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rap
 
 #### Cultural Item: Day-Wrap
 
-Dwarves who cannot afford a Day-Mask—or who must do without one for some other reason—often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
+Dwarves who cannot afford a Day-Mask — or who must do without one for some other reason — often use a *wrap* like a large bandanna; there are different ways to wear the *day-wrap*, but it is usually worn so that it shades the face and eyes.
 \[Dwarven day-wraps are much like *shemaghs*.\]
 
 Some day-wraps may be woven in complex patterns or richly died; many Clans and Holds have specific patterns and colors.
 
-- When wearing a day-wrap—or improvising a similar covering—the penalty for exposure to bright light is reduced to -20.
+- When wearing a day-wrap — or improvising a similar covering — the penalty for exposure to bright light is reduced to -20.
 - Day-wraps work by shading the eyes from the sun; they are ineffective against lights at eye-level.
 - Day-Wraps are Cost: Trivial
+
+#### Cultural Item: Deep-Explorer's Knife
+
+*This weapon is a variant weapon.  It is similar to the Longsword, but deals slightly more one-handed damage (and slightly less two-handed damage), and gains Well Suited: Mighty Blow (and soak) in echange for Poorly Suited: Strike Armor Gap.*
+
+Many Deep-Explorers weild a characteristic sword designed for use from salamander-back in close quarters.
+They are long, broad-bladed, have a single cutting edge and are weighted towards the far end.
+Although the grip is slightly small for it, the Deep-Explorer's Knife can also be wielded in two hands for better leverage.
+
+Tags: One-handed, Two-handed, Bladed, Close, Difficult, Heavy, Soak, Poorly Suited: Strike Armor Gap, Well Suited: Mighty Blow
+
+Damage: 1d10+5+DB (one-handed), 2d10-1+DB (two-handed)
+
+AP: 2
+
+#### Cultural Item: Repeating Crossbow
+
+Deep-Explorer Dwarves use a type of repeating crossbow designed to exploit their access to exotic venoms and perform well in the tight, narrow, curling tunnels of their homes.
+It fires rapidly by levering the firing mechanism back-and-forth under the stock; it stores bolts in a "hopper" on top of the weapon, and uses their own weight to feed them; and it re-stringing the bow on the backstroke.
+While this mechanism cannot draw the bow to any great weight, it can be used to rapidly fire a hail of bolts.
+
+These weapons are short-barreled and low-powered; instead of the high-damage and effective armor-penetration of other crossbows, they rely on volume of fire and poisoned bolts for effectiveness.
+
+Tags: Two-handed, Ranged, Prone, Reload, Rapid-Fire, Soak
+
+Damage 1D10+1
+
+AP: 2
+
+Reload: Quick Action per bolt
+
+Special: Magazine.  Repeating Crossbows have a fixed *hopper* or *magazine* on top of the weapon.
+Bolts are placed into the top of the box to load the weapon, and their own weight causes them to fall through the bottom into the weapon.  In effect, the crossbow reloads itself from the *hopper* as it fires, and the user need only reload the *hopper* after it is empty.  The magazines typically have a capacity of 10 bolts.
+
+Special: The weapon continues to fire as long as the catch is depressed.
+The bolt can be "tapped" to fire a single bolt, given a *short* squeeze to fire several bolts, or held down to fire all the bolts in the magazine.
+
+When firing the crossbow, choose wether to *tap* the trigger, give it a *short squeeze*, or *empty the magazine*, and use the following modifiers:
+
+- a *tap* first a single bolt and functions normally.
+- a *short* squeeze uses up to 3 bolts; if all three are fired, deals \+1d10 DV, and gains +10 to the attack check.
+- a *long* squeeze uses up to 10 bolts; if at least five are fired, deals \+3d10 DV, and gains +20 to the attack check.
 
 #### Optional Trait: Mind-Sharing
 
@@ -1085,34 +1206,35 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
     libertine and indulgent in the pursuit of mortal pleasure (when they
     have the opportunity).
 
-  - As a result, they may appear to be humble, simple and rustic—until
+  - As a result, they may appear to be humble, simple and rustic — until
     evening descends, when the party drugs come out.
 
-  - Vitals:
-    
-      - Old Age: 130 Years
-      - Average Height: 80cm
-      - Average Weight: 18kg
+#### Vitals
 
-  - DUR 25, ST 20
-  - \+5 INT, +5 COO, +10 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Gnome
-  - Language Group: HHED
-  - Size: Gnomes are Small
-  - Alchemically Attuned: Gnomes double the duration of drugs, and
-    Gnomes receive a +10 bonus to checks to resist the effects of drugs.
+- Old Age: 130 Years
+- Average Height: 80cm
+- Average Weight: 18kg
+- Diet: Omnivore (preferential herbivore)
 
-  - Optional Background: Gnomish Burrow
-    
-      - 10 ranks in Craft: Alchemy
-      - 10 ranks in one other Technical skill
-      - 10 ranks in Stealth
-      - one skill kit
-      - one potion of Cost: Moderate, or 5 potions of Cost: Minor
-      - the Unique Outlook neutral trait
-      - Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
+- DUR 25, ST 20
+- \+5 INT, +5 COO, +10 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Low-Light
+- Sizes: Small
+- Tags: Natural, Humanoid, Gnome
+- Language Group: HHED
+- Alchemically Attuned: Gnomes double the duration of drugs, and
+  Gnomes receive a +10 bonus to checks to resist the effects of drugs.
+
+#### Optional Background: Gnomish Burrow
+
+- 10 ranks in Craft: Alchemy
+- 10 ranks in one other Technical skill
+- 10 ranks in Stealth
+- one skill kit
+- one potion of Cost: Moderate, or 5 potions of Cost: Minor
+- the Unique Outlook neutral trait
+- Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).
 
 ### Halflings
 
@@ -1130,17 +1252,17 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
     Halfling caravans to sell their produce.
 
   - In particular, Gnolls commonly travel with Halfling caravans,
-    providing security—and services like smithing, for which Halflings
+    providing security — and services like smithing, for which Halflings
     are poorly suited.
 
   - Caravans of Halfling traders and Gnollish guards knitted together
-    the early Commonwealth, and remain on of its most iconic elements—if
+    the early Commonwealth, and remain on of its most iconic elements — if
     distant kindgoms know nothing else about the Commonwealth, they know
     about the trade caravans, and might have been visited by one.
 
   - Halflings have not grown at the rate that the other races have
-    grown, and other forms of trade—notably mediated by ships sailing
-    along major rivers, and along the coasts—have eclipsed the Caravans
+    grown, and other forms of trade — notably mediated by ships sailing
+    along major rivers, and along the coasts — have eclipsed the Caravans
     in the ability to move goods. Because of this, the fortunes of
     Halflings have fallen somewhat.
 
@@ -1155,14 +1277,15 @@ Though they have fared well as the commonwealth has grown, their numbers have ne
 - Old Age: 80 Years
 - Average Height: 1m
 - Average Weight: 30kg
+- Diet: Omnivore
 
 - DUR 25, STR 20
 - \+5 COO, +5 INT, +5 SAV, +5 WIL
 - Movement: Foot 4 / 12
 - Senses: Normal
+- Size: Small
 - Tags: Natural, Humanoid, Halfling
 - Language Group: HHED
-- Small: Halflings are Small
 - Survivors: Halflings have a remarkable ability to endure adversity.
   They get a +10 bonus on *Feat of Endurance* checks and checks to resist *Stress*.
 
@@ -1186,7 +1309,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
 
 ### Herders
 
-  - Herders are tall, thin and *roughly* humanoid—besides the layer of
+  - Herders are tall, thin and *roughly* humanoid — besides the layer of
     short fur, the large, deer-like eyes, the antlers and the hooves.
 
   - They are also *extremely* fast, and more than a little skittish.
@@ -1217,7 +1340,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     Emerald Plane.
     
       - Though they are a primitive tribal society, they cannot digest
-        meat efficiently, and so they practice agriculture—using inlets
+        meat efficiently, and so they practice agriculture — using inlets
         cut from rivers to irrigate grain fields and orchards. Check
         that this makes some sense.
       - They often hunt and trap, as much for the sake of pelt,
@@ -1225,7 +1348,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
       - Their settlements are often situated near rivers, and they farm
         and fish.
       - Many of their settlements are still walled, owing to the
-        continued risk of Shade Elf raids, even to the present day—and
+        continued risk of Shade Elf raids, even to the present day — and
         despite the heavy presence in the region of Commonwealth guards.
 
   - They are a traditional and somewhat insular people, and show little
@@ -1236,28 +1359,31 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     and valuable allies for other nearby tribes (and partners for tribal
     gnolls specifically).
 
-  - Vitals:
-    
-      - Old Age: 45 years
-      - Average Height: 2.1m
-      - Average Weight: 75kg
+#### Vitals
 
-  - Quick, dextrous, sociable and peaceful – but also weak and frail,
-    and they tend to be wary of outsiders. Dangerous at range.
-  - DUR 25, STR 25
-  - \+10 COO, +5 INT +5 SAV
-  - Movement: Foot 6 / 18
-  - Senses: Normal, Motion-Sensitive
-  - Tags: Natural, Humanoid, Herder
-  - Language Group: GR
-  - Alert: Herders receive the Alert trait.
+Quick, dextrous, sociable and peaceful – but also weak and frail.
+They tend to be wary of outsiders, and are dangerous at range.
 
-  - Optional Background: Herder Tribal Community
-    
-      - 10 ranks in Fray
-      - 10 ranks in Ranged Weapons
-      - 10 ranks in one Social skill
-      - 10 ranks in Survival
+- Old Age: 45 years
+- Average Height: 2.1m
+- Average Weight: 75kg
+- Diet: Herbivore
+
+- DUR 25, STR 25
+- \+10 COO, +5 INT +5 SAV
+- Movement: Foot 6 / 18
+- Senses: Normal, Motion-Sensitive
+- Size: Medium
+- Tags: Natural, Humanoid, Herder
+- Language Group: GR
+- Alert: Herders receive the Alert trait.
+
+#### Optional Background: Herder Tribal Community
+
+- 10 ranks in Fray
+- 10 ranks in Ranged Weapons
+- 10 ranks in one Social skill
+- 10 ranks in Survival
 
 ### Orcs
 
@@ -1287,7 +1413,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
       - For conflicts within their society, they used a system of
         ritualized combat.
       - The period before contact with the Commonwealth represents a
-        golden age for the orcs, a period of wealth and power—and a time
+        golden age for the orcs, a period of wealth and power — and a time
         of misery for their neighbors.
 
   - Humans of the Old Empire avoided Orcish lands, using their
@@ -1349,7 +1475,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
       - Their views on the Commonwealth and their place within it are
         complex. Though they take pride in being members of an ascendant
         and prosperous people, they also remember how they came to be
-        members in it—the most traditional among their numbers claim
+        members in it — the most traditional among their numbers claim
         that they were conquered, and that they still bear the shame of
         it.
       - Honor continues to be highly valued in Orcish society. Though
@@ -1363,16 +1489,16 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
         farming).
       - Unsurprisingly, many Orcs seek honor and recognition in the
         Commonwealth military. Orcs are very strong, and so many seek
-        work as laborers and artisans—notably, Orcish cities boast
+        work as laborers and artisans — notably, Orcish cities boast
         impressive architecture. Orcs are also very clever, and some
         seek honor and achievement in the Commonwealth’s universities
         (Orcish scholars are generally not known for being nurturing and
         understanding mentors).
       - Notably, many Elvish communities exist near Orcish ones. Most
         orcs and elves have good relations, as they are both tribal
-        cultures and have long lived near each other—for most, their
+        cultures and have long lived near each other — for most, their
         time of conflict is centuries past and forgotten. Still, a few
-        of the most traditional—in both communities—continue to nurse
+        of the most traditional — in both communities — continue to nurse
         ancient grudges.
 
   - The Orcish people can claim 6 major cities: five are their
@@ -1413,60 +1539,58 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     one skin tone that is more common among them. Orcs also have
     prominent tusks.
 
-  - Vitals:
-    
-      - Old Age: 60 years
-      - Average Height: 2.2m
-      - Average Weight: 90kg
+#### Vitals
 
-  - Physically large an opposing, orcs seek honor and accomplishment in
-    all things.
-  - DUR 35, STR 35
-  - \+5 COG, +10 SOM, +5 WIL
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Orc
-  - Language Groups: HHED
-  - Hunter’s Senses: Orcs have acute senses of smell and hearing. They
-    receive +10 to auditory and olfactory perception tests.
-  - Regeneration: orcs have Fast Healing 1.
+Physically large an opposing, orcs seek honor and accomplishment in all things.
 
-  - Optional Background: Traditional Orcish Community
-    
-      - 10 ranks in Intimidate
-      - 10 ranks in any two Combat skills
-      - 1 weapon and 1 shield
+- Old Age: 60 years
+- Average Height: 2.2m
+- Average Weight: 90kg
+- Diet: Omnivore
 
-  - Optional Background: Commonwealth Orcish Community
-    
-      - 10 ranks in Protocol
-      - 10 ranks in one Combat skill
-      - 10 ranks in one Technical skill
-      - 1 weapon and 1 skill kit
+- DUR 35, STR 35
+- \+5 COG, +10 SOM, +5 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Low-Light, *Hunter's Senses*
+- Size: Medium, *Great Stature*
+- Tags: Natural, Humanoid, Orc
+- Language Groups: HHED
+- Hunter’s Senses: Orcs have acute senses of smell and hearing.
+  They receive +10 to auditory and olfactory perception tests.
+- Regeneration: orcs have Fast Healing 1.
 
-  - Cultural Weapon: Orcish Sabre
-    
-      - Orcs traditionally use a sword and shield when fighting. They
-        commonly use a large back-sword—a sword with one edge, because
-        they are easier to produce in large numbers. The tips are
-        commonly sharpened to a point, so that they may be used for
-        thrusting.
-        
-          - 2d10+4+DB, AP -2
-          - One-Handed, Sword
+#### Optional Background: Traditional Orcish Community
 
-  - Cultural Weapon: Orcish Sword
-    
-      - When Orcs fight as a unit, they use an unusual pole-arm. It
-        consists of double-sided, sword-like blade, perhaps 45cm long,
-        at the end of a pole 200cm long or more.
-    
-      - The sword-end sometimes also sports guard-like blades at its
-        base.
-    
-      - Pole-Arms: 2d10+6+DB, AP -2
-        
-          - Tags: Two-Handed, Brace, Reach
+- 10 ranks in Intimidate
+- 10 ranks in any two Combat skills
+- 1 weapon and 1 shield
+
+#### Optional Background: Commonwealth Orcish Community
+
+- 10 ranks in Protocol
+- 10 ranks in one Combat skill
+- 10 ranks in one Technical skill
+- 1 weapon and 1 skill kit
+
+#### Cultural Item: Orcish Sabre
+
+Orcs traditionally use a sword and shield when fighting.
+They commonly use a large sword with a single edge (because they are easier to produce in large numbers).
+The tips are commonly sharpened to a point, so that they may be used for thrusting.
+
+Tags: One-handed, Bladed, Cavalry, Close, Defensive, Well Suited: Maim
+
+Damage: 1d10+3+DB, AP: 1
+
+#### Cultural Item: Orcish Sword
+
+When Orcs fight as a unit, they use an unusual pole-arm.
+It consists of double-sided, sword-like blade, perhaps 45cm long, at the end of a pole 200cm long or more.
+The sword-end sometimes also sports guard-like blades at its base.
+
+Tags: Two-handed, Reach, Bladed, Fend, Formation, Brace, Heavy
+
+Damage: 2d10+2+DB, AP 2
 
 ### Ratfolk
 
@@ -1524,64 +1648,65 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
 
   - They commonly speak Haven Isles Ratfolk (language group GR).
 
-  - Vitals:
-    
-      - Old Age: 55 Years
-      - Average Height: 1.25m
-      - Average Weight: 34kg
+#### Vitals
 
-  - Traders and merchants, they tend to get along well with Halflings
-    and Gnolls (they’re one of few species that can eat Gnollish food
-    and speak Gnollish languages). Taking very well to settled urban
-    life, and growing very quickly.
-  - DUR 25, STR 20
-  - \+5 COG, +5 COO, +5 INT, +5 SAV
-  - Movement: Foot 4 / 12
-  - Senses: Normal, Infra-Red, Scent
-  - Tags: Natural, Humanoid, Ratfolk
-  - Language Group: GR
-  - *Small*: Ratfolk are small
-  - *Scavengers*: Rat-Folk are resistant to food-borne diseases. They
-    receive +20 on checks against food-borne diseases.
+Traders and merchants, they tend to get along well with Halflings and Gnolls (they’re one of few species that can eat Gnollish food and speak Gnollish languages).
+Taking very well to settled urban life, and growing very quickly.
 
-  - Optional Background: Warren Isles Sea-Rat
-    
-      - The more sophisticated of the Shaded Sea People, Ratfolk are the
-        shipwrights and sailors of the alliance.
-      - They are still divided into Clan-oriented settlements, where
-        each Clan consists of several family, each of which will
-        maintain a warren and holdings.
-      - They are loosely confederated, amongst themselves and with Shade
-        Elves.
-      - 10 ranks in Intimidate
-      - 10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher
-      - 10 ranks in one combat skill
-      - one weapon (of Cost: Moderate)
-      - one Skill Kit
-      - Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.  Instead, they receive one dot in Shaded Sea Common and one dot in Shaded . They commonly speak Warren Isles Ratfolk (language group GR) natively.
+- Old Age: 55 Years
+- Average Height: 1.25m
+- Average Weight: 34kg
+- Diet: Omnivore (scavenger)
 
-  - Optional Background: Raptor’s Plane Ratfolk
-    
-      - The descendants of Ratfolk who fled Southward from their
-        cousins, settled on the Raptor’s Plane and ultimately allied
-        with the Raptors.
-      - They settled on the coasts and inland jungles closest to their
-        cousins, and continue to suffer heavy raiding.
-      - Inland, they live in large, underground settlements, carved into
-        the sides of rocky foothills.
-      - On the shores, where burrowing is impractical, they live in a
-        walled cities of a few thousand.
-      - Still socially-inclined and natural traders, they have opened
-        trade with the Commonwealth (and have been surprised to
-        encounter their distant cousins in the Commonwealth’s fleets).
-      - They still fish and trade along rivers and shores, although
-        Shaded Sea piracy makes this dangerous.
-      - 10 Ranks in Protocol
-      - 10 Ranks in one Combat skill
-      - 10 Ranks in one Trade Skill
-      - one weapon of Cost: Moderate
-      - one Skill Kit
-      - Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Raptor's Common. They usually speak Jungle Ratfolk as a native language.
+- DUR 25, STR 20
+- \+5 COG, +5 COO, +5 INT, +5 SAV
+- Movement: Foot 4 / 12
+- Senses: Normal, Infra-Red, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Ratfolk
+- Language Group: GR
+- *Scavengers*: Rat-Folk are resistant to food-borne diseases.
+  Theyvreceive +20 on checks against food-borne diseases.
+
+#### Optional Background: Warren Isles Sea-Rat
+
+The more sophisticated of the Shaded Sea People, Ratfolk are the shipwrights and sailors of the alliance.
+They are still divided into Clan-oriented settlements, where each Clan consists of several family, each of which will maintain a warren and holdings.
+They are loosely confederated, amongst themselves and with Shade Elves.
+
+- 10 ranks in Intimidate
+- 10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher
+- 10 ranks in one combat skill
+- one weapon (of Cost: Moderate)
+- one Skill Kit
+- Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.
+  Instead, they receive one dot in Shaded Sea Common and one dot in Shaded.
+  They commonly speak Warren Isles Ratfolk (language group GR) natively.
+
+#### Optional Background: Raptor’s Plane Ratfolk
+
+- The descendants of Ratfolk who fled Southward from their
+  cousins, settled on the Raptor’s Plane and ultimately allied
+  with the Raptors.
+- They settled on the coasts and inland jungles closest to their
+  cousins, and continue to suffer heavy raiding.
+- Inland, they live in large, underground settlements, carved into
+  the sides of rocky foothills.
+- On the shores, where burrowing is impractical, they live in a
+  walled cities of a few thousand.
+- Still socially-inclined and natural traders, they have opened
+  trade with the Commonwealth (and have been surprised to
+  encounter their distant cousins in the Commonwealth’s fleets).
+- They still fish and trade along rivers and shores, although
+  Shaded Sea piracy makes this dangerous.
+
+- 10 Ranks in Protocol
+- 10 Ranks in one Combat skill
+- 10 Ranks in one Trade Skill
+- one weapon of Cost: Moderate
+- one Skill Kit
+- Special: Emerald Plane Ratfolk don’t gain 10 ranks in Common the way most characters do; instead, they gain 10 ranks in Protectorate Standard.
+  They usually speak Protectorate Ratfolk as a native language.
 
 ### Shamblers
 
@@ -1596,7 +1721,7 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     himself Spirits who could dwell within them.
 
   - Owing to their ability to root, Shambler communities lack cleared
-    fields and grazing-lands—they also tend to have an active night
+    fields and grazing-lands — they also tend to have an active night
     life.
 
   - Despite being the children of a Great Spirit associated with
@@ -1607,41 +1732,33 @@ Halflings Wagons are neither light nor fast; the are two-axled, and are most oft
     light travelers; they therefore spawn many adventurers, explorers
     and wanderers.
 
-  - Vitals:
-    
-      - Old Age: Unknown
-      - Average Height: 1.8m
-      - Average Weight: 60kg
+#### Vitals
 
-  - Spirits bound to plants.
+Spirits bound to plants.
 
-  - DUR 35, STR 30
+- Old Age: -
+- Average Height: 1.8m
+- Average Weight: 60kg
+- Diet: Omnivore (preferential herbivore), *Rooting*
 
-  - \+10 INT, +5 SOM, +5 WIL
+- DUR 35, STR 30
+- \+10 INT, +5 SOM, +5 WIL
+- Movement: Foot 4 / 12
+- Senses: Normal, Mage-Sight
+- Size: Medium
+- Tags: Supernatural, Humanoid, Shambler
+- Language Groups: HHED
+- *Rooting*: shamblers can *root*: when rooted, shamblers look more like natural trees (they may attempt a Disguise check to pass as a natural tree).
+  While rooted, Shamblers have Fast Healing 2.
+  - It is a one minute Task Action to either root or unroot.
+  - If a shambler roots for 1 hour (in a location with access to sunlight, in good soil), then they will not need to otherwise eat, sleep or drink for 24 hours.
 
-  - Movement: Foot 4 / 12
+#### Optional Background: Shambler Community
 
-  - Senses: Normal, Mage-Sight
-
-  - Tags: Supernatural, Humanoid, Shambler
-
-  - Language Groups: HHED
-
-  - *Rooting*: shamblers can *root*: when rooted, shamblers look more
-    like natural trees (they may attempt a Disguise check to pass as a
-    natural tree). While rooted, Shamblers have Fast Healing 2.
-    
-      - It is a one minute Task Action to either root or unroot.
-      - If a shambler roots for 1 hour (in a location with access to
-        sunlight, in good soil), then they will not need to otherwise
-        eat, sleep or drink for 24 hours.
-
-  - Optional Background: Shambler Community
-    
-      - 10 ranks in two Technical skills
-      - 10 ranks in Survival
-      - one Skill Kit
-      - one weapon (of Cost: Moderate)
+- 10 ranks in two Technical skills
+- 10 ranks in Survival
+- one Skill Kit
+- one weapon (of Cost: Moderate)
 
 ### Tempters
 
@@ -1658,11 +1775,13 @@ Shape-shifting spirits; charming and suave, but also frail.
 - Old Age: None
 - Average Height: by shape
 - Average Weight: by shape
+- Diet: by shape
 
 - DUR 25, STR 25
 - \+5 INT, +5 SAV, +5 WIL
 - Movement: Shape-Dependant (usually Foot 4/12)
 - Senses: Normal, Mage-Sight
+- Size: Shape-Dependant (restricted to Medium without the Master Shifter class)
 - Tags: Spirit, Shape-Shifter, Tempter
 - Language Group: Any
 - *Appearance of Flesh*: Even though Tempters are spirits, they are bound to the nature of flesh;they have a physical form, they can be wounded and killed, they can sicken, and they need to eat, drink, breath and sleep just like mortal beings.
@@ -1674,7 +1793,7 @@ Shape-shifting spirits; charming and suave, but also frail.
     - Assuming the form of a *specific* individual requires a Disguise check at +10.
     - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
     - Obviously, they can only mimic the features of a person that they know about.  If someone has a birthmark on their lower back, but the Shifter character has never seen that person naked, then they won't know to mimic that birthmark.  And, of course, if they've never seen a person, they cannot effectively mimic them.
-  - Normally, changing shape does not affect their statistics—but see the powers listed below.
+  - Normally, changing shape does not affect their statistics — but see the powers listed below.
 - *Mimics*: Tempters can also mimic the *speech* of any race whose shape they can take, and can mimic the voice of specific individuals.
   - Much like mimicing an individual's appearance, they still need to know what that person sounds like, and they will still need to use Disguise and Deception checks to actually impersonate someone.
 - *Basin*: Like other Spirits, Tempters have a Basin (see *The Supernatural*): the mental energies of other intelligent beings.
@@ -1685,7 +1804,7 @@ Like some Spirits, you have a *bind* (see *The Supernatural*).
 
 - **Effect:** You have a *Bind*.
   - You should work out the details of your bind with your GM; your GM has final approval.
-  - The bind should pose a real danger to you.  It must be known to at least one clerical organization in the area where you live—although it does not need to be *widely* known.
+  - The bind should pose a real danger to you.  It must be known to at least one clerical organization in the area where you live — although it does not need to be *widely* known.
 
 #### Optional Power: More than Form Alone
 
@@ -1720,11 +1839,13 @@ You have mastered your ability to change your shape, allowing you to push the li
 You have extensively developed your race's empathic talents, giving you a limited ability to sense and manipulate the emotions of others.
 
 - **Effect:** You gain the *Empath* sense.
-  - This sense has a limited range—roughly 10 meters, although you may be able to read intense emotion from further away.
+  - This sense has a limited range — roughly 10 meters, although you may be able to read intense emotion from further away.
   - Manipulating other's emotions is a 5 Turn Task Action; it requires either a Control Check or a SAV+WIL+WIL check, and is opposed by the target's INT+WIL.  If you use your SAV+WIL+WIL then exceptional and critical successes are ignored.
   - Your ability to drive other's emotions is limited; it stops far short of allowing you to control other people, but it does allow you to bring forward or suppress specific emotions in others.
 
 ## Neighboring Races
+
+Some races are relatively rare in the Commonwealth itself, but common in neighboring nations.
 
 ### Brightfeathers
 
@@ -1748,15 +1869,16 @@ In the past, these songs were entirely of their own creation, but in the modern 
 - Old age: 90 years
 - Average height: 1.2 meters
 - Average weight: 25 kilograms
+- Diet: Omnivore (fruit, flowers, seeds, nuts, insects)
 
 - Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.
 - DUR 20, STR 20
 - \+5 COO, +5 INT, +10 SAV
 - Movement: Foot 3/9, Fly 4/12/48
 - Senses: Normal, Infrared
+- Size: Small
 - Tags: Natural, Humanoid, Avian, Brightfeathers
 - Language Group: Any
-- **Small**: Brightfeathers are small
 - **Natural Linguist**: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.
 - **Acute Eyesight**: Brightfeathers recieve a +20 bonus to visual perception checks.
 - **Talons**: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.
@@ -1769,52 +1891,195 @@ In the past, these songs were entirely of their own creation, but in the modern 
       - The Haffa are the product of great fortune, magical intervention and selective breeding.
       - The origins of the Shifters are lost to history; perhaps obviously, they have been influenced by far more exotic forces than merely having a mix of elven and human blood.  (As such, Shifters are usually regarded as a separate race, and have their own entry.)
   - “First generation” elf-human hybrids often have no culture of their own; they are often born into an elven or human culture somewhere in the Commonwealth.
-      - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site—if not precisely common, since they usually cannot reproduce themselves.
+      - Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site — if not precisely common, since they usually cannot reproduce themselves.
   - One of the few populations of non-sterile elf-human hybrids exists in the Kingdoms of Men: the Haffa.
-  - Vitals:
-      - Old Age: 160 years
-      - Average Height: 1.8m
-      - Average Weight: 60kg
 
-  - DUR 30, STR 30
-  - \+5 COG +5 COO +5 INT +5 SAV
-  - Movement: Foot 4/12
-  - Senses: Normal, Low-Light
-  - Tags: Natural, Humanoid, Human, Elf
-  - Language Group: HHED
-  - Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.
-  - Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
-  - Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
+#### Vitals
+
+- Old Age: 160 years
+- Average Height: 1.8m
+- Average Weight: 60kg
+- Diet: Omnivore
+
+- DUR 30, STR 30
+- \+5 COG +5 COO +5 INT +5 SAV
+- Movement: Foot 4/12
+- Senses: Normal, Low-Light
+- Size: Medium
+- Tags: Natural, Humanoid, Human, Elf
+- Language Group: HHED
+- Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.
+- Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).
+- Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.
+
+### Foxfire
+
+Foxfire are race of spirits native to a large stretch of forest in the southeast Emerald Plane; in particular, they are closely associated with a fruit-tree common in that forest, similar to a peach tree.
+Like Shamblers and Tempters, Foxfire are neither incomprehensible and powerful Great Spirits nor minor, flickering magical creatures; instead, they are, in some ways, rough peers to mortal races.
+Notably, they do not have a Great Spirit patron or powerful ally; because of this, they are as vulnerable to mortal conquest as any other small civiliation would be.
+Because of this, they have falled under the dominion of the Shaded Sea, and suffered greatly.
+
+Foxfire are striking — and, some would say, soothing — to behold.
+They are roughy bipedal in shape — they are laid out rougly like Humans and Gnolls are — but they are composed of a diffuse, softly-luminous green material, sometimes compared to an emerald fire or a swirl of luminous green smoke.
+They do not have a well-defined surface, like a creature of skin or scales; instead, they are composed of a slightly deiffuse, thick material.
+This material resists objects the further "in" they go; in order for them to grip or push something, the object must "submerge" slightly, to a depth about equal to the thickness of 6 sheets of paper.
+(The sensation of touching a Foxfire has been described as being "somewhat like animal down," like "thick cream covering batter or dough," like "touching the bottom of a bowl of porridge," or "like moss on a rock just barely submerged in a brook.")
+
+Unlike many flesh-and-blood races, they are also slightly "elastic": they can be slightly compressed or stretched, without doing them any harm or causing them any pain.
+This means that they may sometimes "deform" slightly from their neutral state; when carrying a heavy load, for example, they may slightly "squash", or their arms might be slightly "stretched".
+They are cooler to the touch than Humans and Gnolls are, although, like those races, they maintain their own "body-temperature" in different environments.
+In their neutral state, they are mostly dark green and dogwood-grey, and they glow with a soft, deep-green light.
+
+They are not restricted to their "neutral" state.
+Instead, each one possesses three "natures"; one follows from the forrest that is their Basin, and the other two appear to be inherited.
+A great many natures have been observed; even they likely do not know how many there are.
+A Foxfire can freely adopt either of its natures or return to its "neutral" state.
+
+The Foxfire's basin is the forest that they inhabit; they have particular influence over the fruit-trees common in those woods, and they have some influence in other forrests and on other fruit-trees.
+They are sometimes called "orchard-spirits," because, in centuries passed, the people who lived in the surrounding areas would pay them to bless their orchards.
+If separated from their forests, they become increasingly sick and weak; while this effect will not kill them directly, it will eventually render them too weak and delirious to function, in a state much like a deadly fever.
+
+It is their powers over orchards that the Shaded Sea values.
+The Foxfire's forest is near the north-center of the Shaded Sea — near the Shade Elves to the west, and the border with Weswtward Province to the north.
+The Shade Elves have made slaves of the Foxfire, demanding that the spirits travel throughout the Shaded Sea and bless their master's orchards — on pain of having their forest raized and salted.
+
+Their dependance on their forest makes them particularly difficult to liberate.
+Many other of the Shade Elves' "client peoples" can in principle be smuggled to freedom; if the High Road secrets a Minotaur across the border, they are then free in the Commonwealth.
+This is not true of the Foxfire; they might be brought to freedom, but they must eventually return to their forest in the Shaded Sea, and to subjugation.
+And where they to attempt a rebellion, their forest would be burned to the ground, and their basin destroyed.
+
+> Track: I saw one of these in Northland, and it was *adorable!*
+> 
+> Notebook: That is not a very dignified way to describe it.
+> 
+> Fire: What was it doing in Northland?
+>
+> Track: I assume it was there with the High Road.
+> I hope so, anyway.
+> The High Road are trying to figure out how to let the Foxfire leave their forests without slowly withering away.
+>
+> Venn \[Shambler\]: Father Cypress can help there.
+> He believes he can bind them to our lands, if they bring him a living cutting from one of their peach trees.
+>
+> Chandra \[Drake, totally not a High Road member\]: Operatives of the High Road have also pleaded their case to the Bullrush God; if it could create *us*, it might be able to help them.
+>
+> Fire: That's a little dangerous, though, isn't it?
+> If the Bullrush God orders you to liberate the Foxfire, that could get… ugly.
+>
+> Chandra: It could, but we've got about a decade before we finally ally with the Raptor Protectorate, and when that happens, we'll be at war with the Goblin Empire and the Shaded Sea anyway.
+> We should have a plan for the Foxfire before then.
+>
+> Venn: Well, then *someone* needs to go get that clipping, hmm?
+
+#### Vitals
+
+- Old Age: -
+- Average height: 140cm
+- Average weight: 40kg
+- Basin: Foxfire Forest (esp. Peachtrees)
+
+- Foxfire are semi-material forest spirits that glow a deep green and can manifest various *natures*.
+- DUR 25, STR 25
+- \+ 5 COO, \+5 INT, +5 SAV
+- Movement: Walking 5/15
+- Senses: Normal, Mage-Sight
+- Size: Medium
+- Tags: Spirit, Humanoid, Foxfire
+- Language Groups: GH
+- Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly *deformable* — the can "stretch," "bend" and "squash" very slightly.
+  - This gives them a +10 bonus to checks when being highly flexible would be an advantage — such as Athletics checks to fit through cramped spaces or Stealth checks to hide.
+- Forest-Flow: Foxfire can move through forests (and orchards) with incredible grace.
+  They do not treat forests or orchards as difficult terrain.
+- Glow: Foxfire glow gently, producing light like a (green) torch.
+  This is can be useful at night, but also makes hiding *difficult* (-30 penalty to Stealth) if not impossible.
+- Natures: Foxfire have three natures; one comes from the forest that is their basin, and they normally inherit the other two, usually one from each parent.
+  - When you create your Foxfire character, you gain the *Peach* nature, and two other natures from the list below.
+  - With your GM's permission, if your Foxfire has somehow been bound to a different forest, you may replace the Peach nature with a different nature that represents your new basin.
+  - *Adopting* a nature (or returning to your standard form) is a Quick Action.
+    (Note: This not a *sustained* action.
+    Switching is a single Quick Action.)
+
+- **Catfish**
+  - *Catfish* Foxfire show a slightly blue, scale-less skin, and gain *barbells* around their mouths.
+    Conscripted *Catfish* Foxfire have been deployed on the Ruby Plane to hunt down Hasidisee and to infiltrate Protectorate Ratfolk villages.
+  - While using this nature, the Foxfire:
+    - gains a swim speed equal to their Walk speed, and can breath underwater;
+    - gains the *Acute Hearing* (+20) and *Acute Smell* (+20) sensory modifiers while underwater;
+    - gains +5 INT.
+- **Coyote**
+- **Fire**
+- **Hare**
+  - *Hare* Foxfire are small, alert, and quick.
+    Their surface coloration resembles that of a hare or rabbit, and they gain two long ears.
+  - While using this nature, the Foxfire:
+    - gets one size smaller (so a Medium Foxfire would become Small);
+    - gains +1/+3 to their Walking Movement;
+    - gains the *acute hearing* sensory modifier (+20 hearing);
+    - gains +5 COO.
+- **Mountain Lion**
+  - Mountain Lion Foxfire are among the Foxfire's few natural warriors.
+    The Shaded Sea have attempted to exterminate all the Mountain Lion Foxfire, but a few are still born.
+  - While using this nature:
+    - the Foxfire's surface becomes a dull ochre, and masks their glow (negating the *Glow* trait);
+    - the Foxfire gains +5 SOM, +5 DUR, and +5 STR;
+    - the Foxfire gains *claws* on their hands and feet that deal 1d10+2 DV and have AP -2.
+- **Peach**
+- **Pine**
+- **Squirrel**
+  - *Squirrel* Foxfire are small, nimble, and proficient climbers.
+  - While using this nature, the Foxfire:
+    - gets one size smaller (so a Medium Foxfire would become Small);
+    - gains a *Climb* speed, with a rate equal to their Walking rate, -1/-3;
+    - gains +5 COO.
+- **Stone**
+  - *Stone* Foxfire are exceptionally durable.
+    Their surface becomes dull and hard, as though they where made of stone.
+  - While using this nature, the Foxfire:
+    - gains +10 DUR, +5 STR, and 4 Armor;
+    - gains +5 SOM;
+    - reduces their Walk speed by -1/-3.d
+- **Sunlight**
+- **Water**
+  - Water Foxfire become clear and liquid, like living water.
+  - While using this nature, the Foxfire:
+    - gains a swim speed equal to their walking speed;
+    - can breath underwater;
+    - gains +5 COO;
+    - gains Resistance: Physical Damage (halved);
+    - becomes extremely difficult to spot (+30 Stealth) when completely submerged in clear water.
+- **Willow**
 
 ### Goblins
 
-  - These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
-    
-  - Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.
+- These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.
+- Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.
 
-  - DUR 30, STR 30
+#### Vitals
 
-  - \+5 INT, +5 SOM, +5 WIL
+- Old Age: 50
+- Average height: 120cm
+- Average weight: 30kg
+- Diet: Omnivore (insects, fruit, eggs preferred; scavenger)
 
-  - Movement: Foot 4/12, Burrow 2/6
+- DUR 30, STR 30
+- \+5 INT, +5 SOM, +5 WIL
+- Movement: Foot 4/12, Burrow 2/6
+- Senses: Normal, Infrared, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Goblin
+- Language Groups: HHED, GR
+- Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor
+- Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.
 
-  - Senses: Normal, Infrared, Scent
+#### Optional Trait: Claws
 
-  - Tags: Natural, Humanoid, Goblin
+While all Goblins have large claws that allow them to tunnel, they are usually too awkward to be used as weapons.
+Yours, however, are particularly dangerous.
 
-  - Language Groups: HHED, GR
+You have claws:
 
-  - Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor
-
-  - Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.
-
-  - Optional Trait: Claws
-    
-      - While all Goblins have large claws that allow them to tunnel,
-        they are usually to awkward to be used as weapons. Yours,
-        however, are particularly dangerous. You have claws:
-      - 1d10+3+DB, AP -2
-      - one-handed, natural
+- 1d10+3+DB, AP -2
+- one-handed, natural
 
 ### Gremlins
 
@@ -1840,32 +2105,82 @@ In the past, these songs were entirely of their own creation, but in the modern 
 
       - Gremlins that *were* favored servants are likely to receive a cold reception in the Commonwealth, especially among the small communities of Goblins and Gremlins that have settled in free lands, since other Goblin and Gremlin communities in the Commonwealth are likely to view them as traitors, collaborators and thugs.
   
-  - Vitals:
-      - Old Age: 50 years
-      - Average Height: 1.1m
-      - Average Weight: 25kg
+#### Vitals
 
-  - DUR 25, STR 25
+- Old Age: 50 years
+- Average Height: 1.1m
+- Average Weight: 25kg
+- Diet: Carnivore
 
-  - \+5 COO, +10 INT, +5 SAV
+- DUR 25, STR 25
+- \+5 COO, +10 INT, +5 SAV
+- Movement: Climb 2/6, Foot 3/9
+- Senses: Normal, Low-Light, Motion, Scent
+- Size: Small
+- Tags: Natural, Humanoid, Gremlin
+- Language Groups: GR
+- Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.
+- Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
+  - Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.
+- Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
 
-  - Movement: Climb 2/6, Foot 3/9
+### Minotaur
 
-  - Senses: Normal, Low-Light, Motion, Scent
+Minotaurs are a large, durable race of cattle-like bipeds.
+They largely follow a typical bipedal layout, although with many cattle-like features: they are covered in short fur, with patterns like cattle; they have cloven hooves; their heads resemble those of cattle, including horns; and they have small tails.
 
-  - Tags: Natural, Humanoid, Gremlin
+Minotaurs originate from the southeastern Emerald Plane, in territory that is now controlled by the Shaded Sea Peoples.
+They have been in conflict with the shade elves since at least the time of the First Charter, and have been tributaries and subjects of the Shade Elves since CY 491.
+As with most tributaries of the Shaded Sea, the Shade Elves do not occupy, fortify or directly control the Minotaurs; instead, they demand a heavy tribute, and force obedience under threat of brutal and devastating reprisal — pay the tribute in its entirity or have your villages and fields razed.
 
-  - Language Groups: GR
+Today, this tribute inclues a heavy levy, requiring that the Mintaurs surrender many of their fittest young adults for service in the Shade Elf military.
+This serves a double purpose, allowing the Shaded Sea access to a powerful race, and depriving the Minotaurs themselves of their best fighters; for this later reason, conscripted Minotaurs are almost never allowed to return home.
+Many die in combat; those that don't are put to use as laborers elsewhere in the Shaded Sea or sold into slavery elsewhere.
 
-  - Size: Gremlins are Small
+Obviously, this arrangement has done significant damage to Minotaur society.
+Centuries ago, they where herders and farmers who showed a flair for masonry and stonework in their early urban construction; today, their masonry is poorly maintained and their villages small, overpopulated and poor — with a particular lack of able-bodied young males.
+They suffer from poverty, lack of food, and lack of labor; besides yielding a portion of their own grain harvest, they are forced to herd animals and tend orchards to produce food that they cannot eat for their Shaded Sea masters.
+The heavy burden also prevents the Minotaurs from properly manning or maintaining their defences — a situation encouraged by the Shade Elves, the better to keep the Minotaurs under control.
 
-  - Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.
+> Aryn: I saw a Minotaur gladiator in the Eastern Kingdoms.
+> She was intimidating.
+> And terse.
+> I was a fan!
+>
+> River: Hah!
+> I knew you where involved in that business in Hate's Hold!
+> *Clever* owes me half a gold.
+>
+> Notebook: Interestingly, a small percentage of Minotaur females are born "masculinized."
+> They are sterile, large, and aggressive.
+> I wonder if the Minotaur you saw was one of those?
+>
+> *Sulek* (Shade-Elf, former gladiator): No, she's just that determined.
+>
+> Aryn: Oh, hi Sulek.
+> How are things going with the Minotaurs?
+>
+> Sulek: Proceeding.
+> You know *Oi-Li* and me, we're patient.
+> Well, she's determined, I follow her lead, it works out to "patient."
 
-  - Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.
+#### Vitals
 
-      - Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.
+- Old Age: 55 years
+- Average height: 240cm
+- Average weight: 130kg
+- Diet: Herbivore (Grasses and Grains)
 
-  - Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.
+- Minotaurs are massive, heavily-built and strong.
+- DUR 40, STR 40
+- \+5 INT, \+10 SOM, \+5 WIL
+- Movement: Walking 5/15/25
+- Senses: Normal
+- Size: Medium, *Great Stature*
+- Tags: Natural, Humanoid, Minotaur
+- Language Groups: GR
+- *Momentum*: A minotaur in motion can cause frightening damage.
+  If they reach their maximum speed, they deal \+DB DV when charging; GMs may also award appropriate bonuses on some strikes and maneuvers, like *Knockdown*.
 
 ### Mud-Skippers
 
@@ -1927,18 +2242,20 @@ They speak of aquifers and vast underground lakes, and it's suggested that their
 - Old Age: 60 years
 - Average height: 160cm
 - Average weight: 50kg
+- Diet: Omnivore (fish, aquatic insects, aquatic plants)
 
 - Mud-Skippers are vibrant and energetic, but also traditional, isolationist and mysterious.
 - DUR 25, STR 20
 - +5 COG, +5 INT, +5 WIL
 - Movement: Swim 5/15, Foot 3/9, Slither 3/9
-- Senses: Normal, Life-Sense, Low-Light
+- Senses: Normal, Life-Sense, Low-Light, *Poort out of water*
+- Size: Medium
 - Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper
 - Language Groups: MS, *Mute out of water*
 - *Aquatic Adaptation*: Mudskippers are graceful and powerful underwater, but awkward on land.
   - They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's would be.
     And, of course, they can breath underwater, thanks to their gills.
-  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their sense are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
+  - However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their senses are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.
 - *Fresh-Water*: Mud-Skippers are fresh-water creatures.
   Salt water will damage their gills and skin, and will slowly poison and suffocate them.
   They take 1 DV for each turn that they are submerged in salt-water.
@@ -1963,7 +2280,7 @@ In many tribes, the hatching of a "Lighted One" is taken as a portentious sign.
 
 #### Optional Trait: Cave swimmer
 
-Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming—even when they can't see.
+Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming — even when they can't see.
 
 - **Effect**:
   - The character gains a +10 bonus to checks to navigate.
@@ -2026,46 +2343,38 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
 
 ### Raptors
 
-  - These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.
+- These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.
+- They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.
+- Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.
+- They have powerful legs and nasty claws, and are natural climbers and leapers.
+- Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.
+- Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.
+- Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.
 
-  - They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.
+#### Vitals
 
-  - Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.
+- Old Age: 50 years
+- Average Height: 1.65m
+- Average Weight: 45kg
+- Diet: Omnivore (preferential carnivore)
 
-  - They have powerful legs and nasty claws, and are natural climbers and leapers.
-
-  - Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.
-
-  - Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.
-
-  - Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.
-
-  - Vitals:
-    
-      - Old Age: 50 years
-      - Average Height: 1.65m
-      - Average Weight: 45kg
-
-  - DUR 30, STR 35
-
-  - \+5 COO, +5 INT, +5 SAV, +5 SOM
-
-  - Movement: Foot 5 / 15, Leap 5 / 15
-
-  - Senses: Normal, Scent
-
-  - Tags: Natural, Humanoid, Saurian, Raptor
-
-  - Language Group: DDK
-
-  - Scales: Raptors are covered in small scales; these provide them +1 Armor.
-
-  - Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above. The have the following natural weapon:
-    
-      - Unarmed Attack, 1D10+2+DB DV, AP 2. Tags: Natural, Grab, Awkward Placement: Legs
-      - Special: Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.
-      - Special: Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
-        When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.
+- DUR 30, STR 35
+- \+5 COO, +5 INT, +5 SAV, +5 SOM
+- Movement: Foot 5 / 15, Leap 5 / 15
+- Senses: Normal, Scent
+- Size: Medium
+- Tags: Natural, Humanoid, Saurian, Raptor
+- Language Group: DDK
+- Scales: Raptors are covered in small scales; these provide them +1 Armor.
+- Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above.
+  They have the following natural weapon:
+  - Unarmed Attack, 1D10+2+DB DV, AP 2.
+    Tags: Natural, *Grab*, Well Suited: Pounce, *Awkward Placement*
+  - Special: **Awkward Placement**
+    Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.
+  - Special: **Grab**
+    Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
+    When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.
 
 ### Washers
 
@@ -2074,7 +2383,7 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
       - They are covered in dull, grey-brown fur, with a distinctive black “eye-mask” pattern on their faces and black rings around their bushy tails.
       - Washers move more naturally on all fours than they do upright; their arms and legs are unusually short and oddly-proportioned by humanoid standards.
       - Washers have extremely dexterous hands and feet, and they are very strong climbers.
-      - Washers have an extraordinary sense of touch in their hands—so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them—and more than a little unnerving when they manipulate fine objects without looking at them.
+      - Washers have an extraordinary sense of touch in their hands — so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them — and more than a little unnerving when they manipulate fine objects without looking at them.
   - Washers lived in a region in the east of the Raptor’s Plane, in the forests that bordered on the sandy, arid northeastern peninsula.
       - Tragically, that sandy, arid northeastern peninsula was the region first conquered by the Goblinoid Kings (and now ruled by the Goblin Empire).
       - Not long after discovering them, the Goblins attempted to make slaves of the Washers, highly valuing their tiny, dexterous hands; they quickly decided that the Washers’ temperament made them unsuitable for enslavement, and moved instead to eradicate them.
@@ -2082,16 +2391,18 @@ You hail from an unusual Mudskipper sub-culture that prefers still water.
       - Today, the Washer’s territory defines the border between the Raptor’s Alliance and the Goblinoid territories.
   - Washers have an impish sense of humor.
 
-**Vitals**
+#### Vitals
 
 - Old Age: 50 years
 - Average Height: 0.8m
 - Average Weight: 21kg
+- Diet: Omnivore
 
 - DUR 20, STR 20
 - \+5 COG +10 COO +5 SAV
 - Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12
 - Senses: Normal, Acute Touch
+- Size: Small
 - Tags: Natural, Humanoid, Procyonid, Washers
 - Language Group: GR
 - Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.
@@ -2105,7 +2416,7 @@ Bone Spiders are among the more unique races to set foot on the Emerald Plane.
 Bone Spiders are arranged somewhat like crabs or spiders, but much larger; they have a large central section about a meter across, from which six meter-long legs extend.
 They have a head section at one end; it is not articulated with a neck, but continuous with the body.
 Two arms extend from the front, from slightly below the head, one on either side of it.
-They have multiple eyes—two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
+They have multiple eyes — two large ones on the head facing forward, and four smaller pairs situated around the head; this arrangement gives them more than 180 degrees of vision, and allows them to see above and below them.
 Bone Spiders have large bone plates covering their backs, underbellies and limbs.
 There are a half-dozen diamond-shaped plates on their back, which overlap at their edges a little like scale mail; the plates on their underbellies are segmented, arranged in strips.
 Bone Spiders are semi-aquatic; they have gills on their underbellies, and can breathe underwater, though they are not particularly good swimmers.
@@ -2134,18 +2445,21 @@ Those traders who do encounter these rare creatures should be advised: Bone Spid
 Bone Spiders produce several varieties of beer, wine and liquor from the plants they grow in aquaculture; these exotic spirits fetch a high price in the Commonwealth's market.
 Merchants who deal with them know that Bone Spiders will not actually drink the spirits that they sell; nor do they mistake the wax-paper containers the wine is stored in as a sign of quality.
 
-**Vitals**
+#### Vitals
+
+Strange, spider-like creatures from a distant island.
 
 - Old Age: 125 years
 - Average Height: 0.5m
 - Average Length: 2.0m
 - Average Weight: 75kg
+- Diet: Omnivore (preferential carnivore)
 
-- Strange, spider-like creatures from a distant island.
 - DUR 35, STR 30
 - \+5 SAV, +5 SOM, +10 WIL
 - Movement: Climbing 3/9, Hexapod 4/12, Swimming 2/6
 - Senses: Normal
+- Size: Medium
 - Tags: Natural, Hexapod, Bone Spider
 - Language Group: HHED
 - Aquatic: Bone Spiders can breath underwater.

@@ -42,7 +42,7 @@ Some are just good rules that we didn’t think fit in the core rules, for one r
     called the Primary Check.
 
   - To create an advantage, a character picks a skill that could be used
-    to help—usually a skill that could be a related skill, or that could
+    to help — usually a skill that could be a related skill, or that could
     be used to assist. They then roll a Simple Check: if they succeed,
     then the primary check has *advantage.*
 
@@ -60,7 +60,7 @@ Some are just good rules that we didn’t think fit in the core rules, for one r
     rating.
     
       - With the normal rules, you might ask the GM if you can use your
-        Protocol as a related skill—representing you using your
+        Protocol as a related skill — representing you using your
         knowledge of social norms to be inconspicuous.
 
   - The test that you would like to create an advantage for is the
@@ -110,7 +110,7 @@ Some are just good rules that we didn’t think fit in the core rules, for one r
 
   - Players may spend a Fate Point to do the following:
     
-      - Specify some useful detail about their surroundings—like a
+      - Specify some useful detail about their surroundings — like a
         window that they can jump through to escape Danger 5, or paint
         they can use to pretend they have clothes on.
       - Specify some connection they have to an NPC (such as that they
@@ -128,13 +128,13 @@ Some are just good rules that we didn’t think fit in the core rules, for one r
 Guns have little presence in the core rules: the Dragon's Ace and Hand-Cannon are the only two listed, and both are exotic weapons.
 In CY 830, cannons exist, but are large and awkward, and are only used in siegecraft; man-portable guns also exist, represented by the hand-cannon, but are awkward and are only beginning to see deployment.
 
-Still, there are types of firearms that, though perhaps decades or centuries from development and wide deployment, are not beyond the capabilities of the Commonwealth to manufacture—and, more importantly, blunderbusses and muskets have a long history in fantasy.
+Still, there are types of firearms that, though perhaps decades or centuries from development and wide deployment, are not beyond the capabilities of the Commonwealth to manufacture — and, more importantly, blunderbusses and muskets have a long history in fantasy.
 Guns more advanced than the hand-cannon can be included without too much disruption; some examples are given below.
 
 Guns are handled using the Ranged Weapons skill, with the Guns proficiency.
 Much like crossbows, guns must be reloaded after being fired;
 guns are usually loaded by ramming black powder and a ball or canister down the barrel.
-Also like crossbows—modern heavy crossbows in particular—reloading guns can be a time-consuming process; for this reason, it is not unusual for guns to be discarded after they are fired, and only retrieved and reloaded after combat has concluded.
+Also like crossbows — modern heavy crossbows in particular — reloading guns can be a time-consuming process; for this reason, it is not unusual for guns to be discarded after they are fired, and only retrieved and reloaded after combat has concluded.
 
 The projectiles fired by guns travel extremely quickly, so guns are *hard to dodge*.
 When defending against a gun with Fray, divide your defense by 2.
@@ -232,7 +232,7 @@ Also, like the hand-cannon, the trio is often operated by two soldiers, one who 
 
 Officially, the Trio is called the "three barrels" in Common; this is a reference to the Three Cities at the peak of Islandhome.
 Informally, the Trio is often called the "Kobold's Dance," named for a dance common in Haven Isles Kobold communities that includes rapid clapping.
-It is sometimes derisively referred to as the "bomb that you don't throw," after some early iron prototypes suffered catastrophic breaches—that is, exploded.
+It is sometimes derisively referred to as the "bomb that you don't throw," after some early iron prototypes suffered catastrophic breaches — that is, exploded.
 
 **Tags:** Difficult, Hard to Dodge, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable
 
@@ -257,7 +257,7 @@ It is sometimes derisively referred to as the "bomb that you don't throw," after
       - The hand-cannon is a portable infantry weapon developed from
         modern artillery. The weapons are awkward: they strike with
         greater force than even a crossbow and can penetrate all but the
-        heaviest armor, but they are extremely slow to reload—so much so
+        heaviest armor, but they are extremely slow to reload — so much so
         that they usually aren’t reloaded in the field.
       - Attack: Projectile Weapons, 2D10+2 DV, AP -6
       - Range: short 20m / medium 30m / long 35m / extreme 40m
@@ -271,10 +271,10 @@ It is sometimes derisively referred to as the "bomb that you don't throw," after
 In the real world, there was an era when early firearms coexisted with (steel-prod) crossbows and plate armor, without being clearly superior to the one or completing negating the other; these early, muzzle-loading, smooth-bored, ball-firing black-powder weapons are not wildly disruptive if introduced to a world that already has crossbows and seige weapons.
 But the Emerald Plane also has alchemists, blacksmiths, clock-makers, mages and engineers skilled enough to produce an alchemically powered golem-arm; it's certainly not *impossible* that some of these smiths could have developed more advanced guns, decades or centuries ahead of when those weapons where introduced on Earth.
 
-However, unlike Chandra's golem-arm, innovations like the metal cartridge, the breach-loading weapon, the rifled barrel and the pointed bullet are all easily replicated once understood—and any one of them, certainly several of them taken together, could radically alter the balance of power on two continents, should one army suddenly field them.
+However, unlike Chandra's golem-arm, innovations like the metal cartridge, the breach-loading weapon, the rifled barrel and the pointed bullet are all easily replicated once understood — and any one of them, certainly several of them taken together, could radically alter the balance of power on two continents, should one army suddenly field them.
 
 So, here, we present, as a separate alternate rule from Guns, *Advanced* Firearms.
-Advanced firearms are listed separately, and require a GM's separate approval, because they have the potential to take over a game, and to radically alter the setting; while in principle not wildly better than any other Cost: High item, the innovations given here are far more replicable once understood, and represent astonishing leaps in military technology that could totally change the face of warfare should they escape a character's hands—which many GMs may not wish to deal with.
+Advanced firearms are listed separately, and require a GM's separate approval, because they have the potential to take over a game, and to radically alter the setting; while in principle not wildly better than any other Cost: High item, the innovations given here are far more replicable once understood, and represent astonishing leaps in military technology that could totally change the face of warfare should they escape a character's hands — which many GMs may not wish to deal with.
 
 ### Rules
 
@@ -299,7 +299,7 @@ Using these rules, a player can purchase a gun with one of these innovations as 
 Normally, we don't track raw materials for crafting; if you have a Skill Kit or Shop, you're assumed to have the resources to craft items of up to Cost: Moderate.
 The following rules allow players to purchase and track their use of raw materials; they're useful for players that want a little more detail in their crafting system, and for GMs who want to make resource management a more important part of their game.
 
-Characters may purchase raw materials for a given Craft skill—for example, “Craft: Alchemy Raw Materials”
+Characters may purchase raw materials for a given Craft skill — for example, “Craft: Alchemy Raw Materials”
 Raw Materials are Cost: Moderate, and they have the Heavy tag (though they are generally portable).
 
 When you purchase Raw Materials, they have 20 *charges*.
@@ -376,14 +376,14 @@ The table below lists the *time frame* required to develop a recipe (and any che
         reputation score (hereafter, “rep”).
       - “Organization” here is used somewhat loosely: it might be a
         literal organization, like a trade guild, but it might also be a
-        town, a gang, a temple, a university, or a secret society—or
+        town, a gang, a temple, a university, or a secret society — or
         just a group of people.
       - Your rep score consists of between 1 and 5 “dots”.
       - At one dot, you’re a new member, just making your way; at 5
         dots, you are a pillar of the community, widely known and
         greatly respected within the organization.
       - (There are potentially infinitely many organizations that you
-        are not a member of—with which you have 0 dots. We don’t track
+        are not a member of — with which you have 0 dots. We don’t track
         those for obvious reasons.)
       - Each of your reputation scores might also have either the
         *depleted* or *suspended *tag (or both). These will be described
@@ -472,9 +472,9 @@ The table below lists the *time frame* required to develop a recipe (and any che
             the organization in question is a merchant’s guild that you
             are a member of, and that has other members operating in the
             city that you’re in.
-          - Under unusual circumstances—if there aren’t other members in
+          - Under unusual circumstances — if there aren’t other members in
             the town that you’re in, or if some situation (like a revolt
-            or attack) prevents the organization from operating—you
+            or attack) prevents the organization from operating — you
             might have to do more work to call in a favor, or it might
             not even be possible at all.
 
@@ -483,8 +483,8 @@ The table below lists the *time frame* required to develop a recipe (and any che
     
       - Technically you can, but you’ll only get away with it once;
         after that, you’ll gain the depleted tag (see below).
-      - If you keep doing that every month—abusing them for obscene
-        favors and then working the debt off—the GM might eventually
+      - If you keep doing that every month — abusing them for obscene
+        favors and then working the debt off — the GM might eventually
         decide that the members of that organization are sick your
         shenanigans and either dock you rep, or just suspend you
         outright (see below).
@@ -493,7 +493,7 @@ The table below lists the *time frame* required to develop a recipe (and any che
 
   - Several factors can effect your reputations.
     
-      - Your reputations can go up and down—you can gain or loose dots.
+      - Your reputations can go up and down — you can gain or loose dots.
         
           - This is usually hard to do: gaining a dot requires either
             years of service, or an accomplishment of major note, or
@@ -511,9 +511,9 @@ The table below lists the *time frame* required to develop a recipe (and any che
             favor “for free” instead. (The favor is subject to GM
             approval.)
     
-      - If you ask for too many favors in too short a time—or if you
+      - If you ask for too many favors in too short a time — or if you
         (successfully) ask for a favor that exceeds your rep level by
-        too much—then people won’t be willing to do more favors for you
+        too much — then people won’t be willing to do more favors for you
         until you do something for the organization.
         
           - When this happens, that rep network gains the *depleted*
@@ -531,14 +531,14 @@ The table below lists the *time frame* required to develop a recipe (and any che
         otherwise earn their ire, you might get the *suspended* tag.
         
           - When you are *suspended*, the members of the rep network
-            treat you as an outsider—you dots with them don’t actually
+            treat you as an outsider — you dots with them don’t actually
             change, but you are treated as if you had 0 dots.
           - You obviously cannot use a rep network that you are
             suspended from, and the members of that network might even
             be actively hostile to you (depending on the group’s norms
             and rules, and on what you did to get suspended).
           - You can work your way back into the organization’s good
-            graces—you can remove the suspended tag—but it’s hard to do.
+            graces — you can remove the suspended tag — but it’s hard to do.
           - There are no hard-and-fast rules for removing the suspended
             status. The details of how you do it will depend on the
             organization and why you got suspended.
@@ -568,7 +568,7 @@ The table below lists the *time frame* required to develop a recipe (and any che
       - You should work with the GM to design the organization, and the
         GM must approve it.
       - The organization must be one that it would be useful to you to
-        be a member of—for example, it must be an organization that you
+        be a member of — for example, it must be an organization that you
         would otherwise be in a position to ask favors of, or that you
         would otherwise be rewarded with rep in.
       - If you use the rules for buying off negative traits, then,
@@ -604,3 +604,128 @@ The table below lists the *time frame* required to develop a recipe (and any che
     
       - You cannot call in favors from an organization that you are
         Wanted by (that is, that you purchased this trait for).
+
+## Stunts
+
+The following details some example *stunts*.
+
+Categories:
+
+- **Basic**: A basic move; unusual, but not difficult.
+- **Advanced**: A difficult move, but feasible.  -10 penalty.
+- **Fantastic**: A move that might not be strictly possible; some GMs may disallow these moves.  -20 penalty if allowed.
+
+Other Definitions:
+
+- **Linked Skill**: The skill used to make the *required check*.  If no check is required — or if more than one check is required — then the stunt will specify its *linked skill*.  If it doesn't, use Athletics and file a bug.
+  - Some races may use exotic or unusual skills for movement — for example, a Clay Man might use Exotic Skill: Amorphous Athletics.  In this case, GM's may treat those skills as the linked skill for a stunt.
+
+Other Tags:
+
+- **Evasive**: when you attempt this move and succeed, you gain a +10 bonus to your Defence until the start of your next turn.  You can use your *Athletics* skill to defend against any *attacks of opportunity* that this movement provokes.
+- **Follow-Through**: this stunt is subject to the *follow-through exception* (see the *Momentum Exception*, in the *Movement* section of *Combat*).
+- **Integral**: this stunt is *normally* performed as part of *some other movement*; it doesn't require a *separate* action.
+- **Reaction**: as a reaction, you can use this maneuver to defend against an attack, using your *Athletics* skill.
+- **Running Start**: you take a -10 penalty without a *running start*.
+
+### Dives
+
+Movement type: Bipedal
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Short Dive | Quick | Basic, Evasive, Reaction | *dive* up to 1m | - |
+| Long Dive | Quick | Advanced (-10), Evasive, Follow-Through, Running Start | *dive* up to 1m per 10 points MoS, up to 4m | -2m without *running start* |
+| Distance Dive | Standard | Fantastic (-20), Evasive, Follow-Through, Running Start | *lunge* and *dive* up to 1m per 10 points MoS | -2m without *running start* |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Success: prone at destination
+- Basic Failure: prone in current space
+- Exceptional Failure: check or drop item; **or** check or loose action
+- Critical Failure: drop item; **or** loose action
+
+### Flip
+
+Movement type: Bipedal, Hop
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Flip | Quick | Basic, Evasive, Follow-Through, Running Start | Clear low obstacle | - |
+| Handspring | Quick | Basic, Evasive, Follow-Through, Running Start | Clear low obstacle | - |
+| Cartwheel | Quick | Basic, Evasive, Follow-Through, Running Start | - | - |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Success
+- Failure
+
+### Roll
+
+Movement Mode: Bipedal
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Short Roll | Quick | Basic, Evasive, Reaction | Roll 1m | - |
+| Long Roll | Quick | Basic, Evasive, Follow-Through | Roll 2m | forward roll clears low obstacles |
+| Landing Roll | - | Advanced, Evasive, Integral (jump or dive) | land on your feet | For rolling out of a fall, see the rules for falling |
+
+Linked skill is *Athletics (Agility)*.
+Check results:
+
+- Basic Success: end crouching
+- Exceptional Success: keep stride; **or** defender suffers penalty
+- Critical Success: use critical success on defence; **or** land in opponent blind spot
+- Basic Failure: prone 1m (on back, head facing start location)
+- Exceptional Failure: check or drop held item; **or** check or loose next action
+- Critical Failure: drop held item; **or** loose next action; **or** prone in *poor condition* (penalty to defence); **or** fall into hazard
+
+### Wall-Work
+
+Movement Type: Bipedal, Hop
+
+- Kick Up: kick off a wall to gain extra height.
+- Kick Out: spring off a wall to change direction, surprising opponents.
+- Run Along: kick "along" a wall to clear a low obstruction.
+- Corner Turn: kick off the walls of a corner to turn quickly.
+- Up and Over: take a few steps up a wall and kick out, flipping over an object or person near you.
+
+| Stunt | Action | Tags | Results | Special |
+| ----- | ------ | ---- | ------- | ------- |
+| Kick Up | - | Basic, Follow-Through, Integral (high jump) | gain 1m height | - |
+| Kick Out | - | Advanced, Follow-Through, Integral (movement towards wall) | land 1m from wall per 20 points MoS | - |
+| Run Along | - | Basic, Evasive, Follow-Through, Integral (ground movement along wall) | clear low obstruct while running | - |
+| Corner Turn | - | Advanced, Evasive, Follow-Through, Integral (ground movement towards corner) | change direction, keeping momentum | - |
+| Up and Over | Standard | Advanced, Evasive, Follow-Through, Running Start | land 1m from wall per 10 MoS, max 4; springing over similar-sized (or smaller) creature near wall | - |
+
+Linked skill is *Athletics (Might)*.
+Check results:
+
+- Basic Success: complete movement with specified bonus
+- Exceptional Success: additional bonus (f.ex. distance) to movement
+- Basic Failure: movement ends standing next to *contact spot*
+- Exceptional Failure: movement ends *prone* next to *contact spot*
+- Critical Failure: stunned (loose next action); **or** prone in *poor position* (penalty to defence)
+
+## Unusual Movement
+
+The following details some specific examples of *unusual movement*.
+
+### Bipedal
+
+| Mode | Action | Rate | Tags | Special |
+| ---- | ------ | ---- | ---- | ------- |
+| Climb | Standard | rate ÷ 3 | | requires something to *hold on to* |
+| Crawl | Standard | base | | |
+| Prone Crawl | Standard | base ÷ 2 | | |
+| High Jump | Quick | 1m per 10 points MoS *vertical*, max height is base rate | | |
+| Long Jump | Standard | Base plus 1m per 10 point MoS *horizontal* | | |
+| Swim | Standard | rate ÷ 2 | | |
+
+### Fly
+
+| Mode | Action | Rate | Tags | Special |
+| ---- | ------ | ---- | ---- | ------- |
+| Dive | Quick | full × 2 | - | - |
