@@ -17,27 +17,27 @@ If the amount of damage you take at one time exceeds your Wound Threshold, then 
 If you take damage that equals or exceeds twice your Wound Threshold, you take two wounds, and so on; so, if your DUR was 30 and your WT was 6, and you then took 15 damage, you would also take 2
 wounds.
 
-<aside class="clarification">
+[[clarification]]
+|
+|Note the "at one time" in the above; you have to take WT DV or more *at once*.
+|Suppose some source of damage is causing 1 DV to a character over and over again; this might cause a character to reach their DUR or DR without ever taking a single wound.
+|
 
-Note the "at one time" in the above; you have to take WT DV or more *at once*.
-Suppose some source of damage is causing 1 DV to a character over and over again; this might cause a character to reach their DUR or DR without ever taking a single wound.
 
-</aside>
+[[playerguidance]]
+|
+|How severe is a *Wound*?
+|It's an injury severe enough to impede a character, without completely debilitating or killing them.
+|A single *Wound* might represent a *stab wound* caused by a knife, or a broken bone.
+|
 
-<aside class="playerguidance">
 
-How severe is a *Wound*?
-It's an injury severe enough to impede a character, without completely debilitating or killing them.
-A single *Wound* might represent a *stab wound* caused by a knife, or a broken bone.
+[[designnote]]
+|
+|The "progressive wound system" is one bit of *Eclipse Phase* heritage that makes *Renaissance* very different from D&D.
+|In *Renaissance*, as characters start to get stabbed by swords, they start to get debilitated *rapidly*, even while they're still (mechanically) far from death; this gives the game a very different feel from games where "the only hit-point that matters is the last one," and it can come as quite a surprise to players who aren't expecting it!
+|
 
-</aside>
-
-<aside class="designnote">
-
-The "progressive wound system" is one bit of *Eclipse Phase* heritage that makes *Renaissance* very different from D&D.
-In *Renaissance*, as characters start to get stabbed by swords, they start to get debilitated *rapidly*, even while they're still (mechanically) far from death; this gives the game a very different feel from games where "the only hit-point that matters is the last one," and it can come as quite a surprise to players who aren't expecting it!
-
-</aside>
 
 When a wound is inflicted, you must roll SOM×3; penalties from wounds and traumas apply, including the wound that caused the check.
 If you fail, you are knocked down.
@@ -45,13 +45,13 @@ If you fail, you are knocked down.
 For every wound that has been inflicted, you suffer a -10 penalty to all actions (note that this includes mental actions, since wounds are painful and distracting).
 At the GM's discretion, specific wounds might inflict other effects; a wound to the head might render a character unconscious, for example, while a wound to a character's legs might *break* one of them and reduce their movement.
 
-<aside class="gmguidance">
+[[gmguidance]]
+|
+|Most of the time, you won't need to specify a specific Wound with a special effect; it's usually sufficient to tell a player that they suffer a Wound.
+|
+|Giving a specific description and special effect to a wound is mainly useful for adding a "cinematic" feel to an important moment.
+|
 
-Most of the time, you won't need to specify a specific Wound with a special effect; it's usually sufficient to tell a player that they suffer a Wound.
-
-Giving a specific description and special effect to a wound is mainly useful for adding a "cinematic" feel to an important moment.
-
-</aside>
 
 Sometimes, a character will have the ability to *Negate* a wound.
 When this happens, the character may ignore the -10 penalty imposed by that wound.
@@ -66,22 +66,22 @@ Difficult circumstances can inflict *stress* according to their Stress Value (SV
 When a character's stress exceeds their Lucidity (LUC), they succumb to the enormous strains they are under, and cannot act until their Stress is lowered below their Lucidity.
 If that character's stress exceeds their Insanity Rating (IR), they are irreparably traumatized (and are removed from the game as surely as if they had died).
 
-<aside class="playerguidance">
+[[playerguidance]]
+|
+|Players who think their character might be *resistent* (or even *immune*) to a particular source of stress should consider the *Unique Outlook* and *Hardened* traits.
+|
 
-Players who think their character might be *resistent* (or even *immune*) to a particular source of stress should consider the *Unique Outlook* and *Hardened* traits.
 
-</aside>
+[[gmguidance]]
+|
+|Unlike *physical damage*, what is *stressful* can depend strongly on a character.
+|
+|For the most part, we recommend that you rely on *explicit, mechanical* systems for deciding what is stressful; these include a character's *motivations*, as well as the *Unique Outlook* and *Hardened* traits.
+|(If it helps you to be a stickler, we did just advise your players to buy the *Unique Outlook* and *Hardened* traits!)
+|
+|However, dramatically-minded GMs certainly can take into account a character's history, personality and outlook — and they should also consider input from dramatically-minded players.
+|
 
-<aside class="gmguidance">
-
-Unlike *physical damage*, what is *stressful* can depend strongly on a character.
-
-For the most part, we recommend that you rely on *explicit, mechanical* systems for deciding what is stressful; these include a character's *motivations*, as well as the *Unique Outlook* and *Hardened* traits.
-(If it helps you to be a stickler, we did just advise your players to buy the *Unique Outlook* and *Hardened* traits!)
-
-However, dramatically-minded GMs certainly can take into account a character's history, personality and outlook—and they should also consider input from dramatically-minded players.
-
-</aside>
 
 Unlike physical damage, stress can be resisted.
 Whenever a character takes stress, they may be permitted to roll a WIL×3 check to *resist* it: if they succeed, then they do not take Stress, while if they fail, they take the given Stress value.
@@ -94,7 +94,7 @@ If a character receive stress at one time that exceeds their Trauma Threshold (T
 The character suffers a -10 penalty to all actions for each Trauma that they have.
 When a character receives a Trauma, they must roll a WIL×3 check; if they fail, they are stunned for one round (penalties from their wounds and traumas apply, including the Trauma that caused the test).
 
-The GM may sometimes decide that a Trauma has a specific effect on a character—such as the overpowering urge to avoid the source of Stress that caused the Trauma.
+The GM may sometimes decide that a Trauma has a specific effect on a character — such as the overpowering urge to avoid the source of Stress that caused the Trauma.
 These effects are generally meant to be roll-played, and they usually last until the Trauma itself has been healed.
 
 Sometimes Traumas can be *negated*.
@@ -114,7 +114,7 @@ The table below lists example *stress sources*, their *tags*, and their normal *
 Most characters heal naturally, albeit slowly, from both physical and psychological harm:
 
 - Characters heal 1 DV per day.  After all DV has been healed, they heal 1 Wound per *week*.
-- Characters heal 1 SV per day.  After all SV has been healed, they heal 1 Wound per *month*.
+- Characters heal 1 SV per day.  After all SV has been healed, they heal 1 Trauma per *month*.
 
 Of course, some characters can heal at very different rates; when this is the case, it will be indicated by some feature the character has.
 Notably, several races have *Fast Healing*, which allows them to heal *much* faster (*Fast Healing* is described in *Senses, Movements and Special Abilities*).
@@ -137,38 +137,38 @@ A surgical attempt is a 1 hour *Task Action* that requires a *Medicine check* wi
 
 ### Healing Stress with Soothe
 
-While a modern theory of psychology is centuries away, a patient and empathetic person can still help someone to handle a stressful situation or process a traumatic event.
+While the Emerald Plain is still centuries away from a modern theory of psychology, a patient and empathetic person can still help someone to handle a stressful situation or process a traumatic event.
 
 Characters can use the *Soothe* skill to reduce another character's SV.
 The participation of the person being "*soothed*" is a vital component of this process; it requires a degree of trust between the participants, and it requires the person being *soothed* to be willing to open up with someone and work through their problems.
 Mechanically, this is a 1 hour *Task Action*, requiring a *Soothe* check from the character providing emotional support and a WIL×3 check from the character receiving support; if both checks are successful, the character receiving support recovers 3 SV; if only one of the checks is successful, the character recovers 1 SV.
 
-<aside class="designnote">
+[[designnote]]
+|
+|Soothe heals significantly less SV than Medicine heals DV.
+|This is intentional; managing stress and working through psychological issues is a time-consuming process!
+|
+|We also don't provide fixed rules for healing Traumas with Soothe.
+|It's centuries before the development of psychotherapy, and the development of the kinds of techniques that could be used to heal, for example, a phobia.
+|
+|That's not to say that Soothe *can't* be useful in a character's healing process, of course; it's just to say that that process isn't well understood by characters in the word of Renaissance, and that Soothe doesn't cover all of it.
+|
 
-Soothe heals significantly less SV than Medicine heals DV.
-This is intentional; managing stress and working through psychological issues is a time-consuming process!
 
-We also don't provide fixed rules for healing Traumas with Soothe.
-It's centuries before the development of psychotherapy, and the development of the kinds of techniques that could be used to heal, for example, a phobia.
+[[gmguidance]]
+|
+|Of course, since this process involves a detailed, frank discussion between two characters at a time that is particularly stressful for at least one of them, it can be an obvious candidate for *role-playing*.
+|However, it doesn't *have* to be role-played in depth: not all players are dramatically minded, and some may not care to delve into their character's emotional states; or a player may be uncomfortable acting out such an intimate and emotional moment; or a player might be a scenery-chewer who will devour the play-mat if given the chance.
+|
+|As so many other things, whether the GM proceeds through this process mechanically, has players outline the interaction, or has them play it out in detail depends on the situation and the mood at the table in that moment.
+|
 
-That's not to say that Soothe *can't* be useful in a character's healing process, of course; it's just to say that that process isn't well understood by characters in the word of Renaissance, and that Soothe doesn't cover all of it.
-
-</aside>
-
-<aside class="gmguidance">
-
-Of course, since this process involves a detailed, frank discussion between two characters at a time that is particularly stressful for at least one of them, it can be an obvious candidate for *role-playing*.
-However, it doesn't *have* to be role-played in depth: not all players are dramatically minded, and some may not care to delve into their character's emotional states; or a player may be uncomfortable acting out such an intimate and emotional moment; or a player might be a scenery-chewer who will devour the play-mat if given the chance.
-
-As so many other things, whether the GM proceeds through this process mechanically, has players outline the interaction, or has them play it out in detail depends on the situation and the mood at the table in that moment.
-
-</aside>
 
 ### Long-Term Care
 
 Characters can *convalesce*, spending time resting and relaxing (possibly with the support of doctors, priests or other healers) to recover from their physical and mental wounds.
 
-Long-Term Care can provide physical care, psychological care, or both—a character convalescing at a peaceful temple could receive both physical and mental care at the same time, for example.
+Long-Term Care can provide physical care, psychological care, or both — a character convalescing at a peaceful temple could receive both physical and mental care at the same time, for example.
 A character who rests and receives medical care heals more quickly: instead of their natural healing, for each day a character spends resting and recovering, they recover 3 DV; they heal one wound every 4 days, after all damage has been healed.
 Likewise, a character who spends time resting and processing their traumas recovers more quickly: instead of their natural healing, they heal 3 SV per day, and they heal one Trauma per week after all stress has been healed.
 
@@ -232,7 +232,7 @@ Likewise, a character who spends time resting and processing their traumas recov
     effects* and possibly *treatment*.
 
   - Some diseases may have effects based on how long the character has
-    been infected—that is, the effects may proceed through *stages*.
+    been infected — that is, the effects may proceed through *stages*.
 
   - When a character is first exposed to a disease, they make their
     *resistance check*; if they succeed, then they have not been

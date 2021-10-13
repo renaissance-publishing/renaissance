@@ -19,9 +19,9 @@ In *Intrigue* games, players will be presented with problems more subtle than an
 
 The Kingdoms of Men are designed to be a fertile setting for an intrigue game, as is the Kingdom of Foam and Cloud.
 
-The future of the Emerald Plane depends at least in part on the balance of power in the Kingdoms of Men; if the Western Kings can consolidate their power, the Kingdoms may become an ally of the Commonwealth—if that alliance could be expanded to include the Raptor Empire, it would be powerful enough to solidly defeat the Shaded Sea and Goblin Empire.
+The future of the Emerald Plane depends at least in part on the balance of power in the Kingdoms of Men; if the Western Kings can consolidate their power, the Kingdoms may become an ally of the Commonwealth — if that alliance could be expanded to include the Raptor Empire, it would be powerful enough to solidly defeat the Shaded Sea and Goblin Empire.
 However, if the Eastern Kings come to power, they might ally with the Goblin Empire or Shaded Sea, creating a powerful and dangerous force that could threaten the Commonwealth and the Protectorate.
-And the Kingdoms are an unstable, complex nation, rife with plots, intrigues and competing factions, creating plenty of murdered princelings and stolen artifacts for the party to investigate—and plenty of opportunities for the party to shift the balance of power with careful blackmail or a discrete assassination.
+And the Kingdoms are an unstable, complex nation, rife with plots, intrigues and competing factions, creating plenty of murdered princelings and stolen artifacts for the party to investigate — and plenty of opportunities for the party to shift the balance of power with careful blackmail or a discrete assassination.
 
 The Kingdom of Foam and Cloud can also be an excellent setting for an intrigue game, though one with lower stakes.
 The Kingdom of Foam and Cloud has a traditionalist faction that is not above violence and blackmail.
@@ -39,7 +39,7 @@ And, of course, there are mysteries hidden *beneath* the surface of the world; w
 
 ## Horror
 
-In horror games, players are confronted with strange and overwhelming forces entirely beyond their understanding—when we say "horror," we mean less the blood-drenched type, and more *tales of the weird*.
+In horror games, players are confronted with strange and overwhelming forces entirely beyond their understanding — when we say "horror," we mean less the blood-drenched type, and more *tales of the weird*.
 
 Sometimes, horror games begin with the players being presented with a subtle clue or minor mystery that pulls them into a larger plot: the players might be recruited to investigate a murder, for example, only to discover that it was the work of a hidden cult and that the murder was part of a plot to release an ancient evil.
 Other times, they begin with the characters being directly confronted by an out-of-context problem; a nearby town might be consumed by trees that sprout to full growth in moments, bursting through streets and erupting from buildings, or a mysterious blizzard might descend from the mountains and smother a town.
@@ -51,15 +51,15 @@ Solutions can also vary: the party's combat-character might be required to fight
 ## Dungeon Crawls
 
 *Dungeon crawls* are an old tradition in pen-and-paper RPGs.
-In the archetypical *dungeon crawl,* the players are told of some valuable treasure or building threat that waits deep within some ancient, forgotten structure—a king's treasure buried under a collapsed castle, a magical relic hiding deep within an abandoned temple, or an evil mage raising an army of the dead from a crumbling mage's tower.
+In the archetypical *dungeon crawl,* the players are told of some valuable treasure or building threat that waits deep within some ancient, forgotten structure — a king's treasure buried under a collapsed castle, a magical relic hiding deep within an abandoned temple, or an evil mage raising an army of the dead from a crumbling mage's tower.
 
 As the name implies, dungeon crawls usually take place in a single location.
 These "dungeons" are often maze-like, which makes exploring them a time-consuming process.
-Twists, turns, dead-ends, and hallways full of doors give the players plenty of small choices to make, followed by measured consequences—often in the form of traps, puzzles, or monsters.
+Twists, turns, dead-ends, and hallways full of doors give the players plenty of small choices to make, followed by measured consequences — often in the form of traps, puzzles, or monsters.
 Encounters with *monsters* are frequent; combat takes up a large portion of most dungeon crawls.
 
-To be clear, there's nothing wrong with Dungeon Crawls—they can be perfectly fun and engaging, and can feature a good balance of clever puzzles and combat encounters.
-And you certainly can run one using these rules—but you're going to find it an awkward fit.
+To be clear, there's nothing wrong with Dungeon Crawls — they can be perfectly fun and engaging, and can feature a good balance of clever puzzles and combat encounters.
+And you certainly can run one using these rules — but you're going to find it an awkward fit.
 
 One major problem is that dungeon crawls only engage a few of the *five roles*; Socialites, Analysts and Provisioners have almost nothing to do during a dungeon crawl, and even Infiltrators may be left with little to do beyond pick the occasional lock—*if* the purchased ranks in *Disable Device*.
 *River*, for example, would have nothing whatsoever to do during a dungeon crawl; his array of social skills, his legal and historical expertise, and his wealth will contribute almost nothing to a quest to defeat a zombie horde in an ancient dungeon.
@@ -71,7 +71,7 @@ They're designed to dramatic impact and long-lasting mechanical consequences to 
 ## Challenge Sequences
 
 *Challenge sequences* are similar to dungeon crawls; they just aren't confined to a dungeon.
-In a combat sequence, players are given an over-arching long-term objective—say, to stop an evil witch from plunging the world into eternal winter—coupled with a starting-point.
+In a combat sequence, players are given an over-arching long-term objective — say, to stop an evil witch from plunging the world into eternal winter — coupled with a starting-point.
 Players then have to overcome a series of challenges to reach their objective.
 
 While a *challenge sequence* could in principle feature any kind of *challenge*, in practice, they often focus around a series of large, cinematic fight scene, broken up with short social scenes and travel sequences.

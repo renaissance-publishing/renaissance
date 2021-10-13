@@ -43,16 +43,16 @@ Damage taken from a fall ignores armor (plate armor doesn't help you if you've f
 
 ### Fire
 
-Fire is a common hazard—the consequences of its misuse can run from a minor burn up to a destroyed city.
+Fire is a common hazard — the consequences of its misuse can run from a minor burn up to a destroyed city.
 
-Small fires—like candles—are not particularly dangerous.
+Small fires — like candles — are not particularly dangerous.
 While they might light combustible materials on fire, they only deal 1d10÷3 DV on their own.
 Armor applies (without modification) to damage caused by small flames.
 
-Being exposed to a larger fire—like falling into a camp-fire—is more dangerous, and does 1d10 DV per turn that the character is exposed (including the first).
+Being exposed to a larger fire — like falling into a camp-fire — is more dangerous, and does 1d10 DV per turn that the character is exposed (including the first).
 If a character is engulfed in flames, there is (obviously) a much higher risk that they (or their garments, or anything that they are holding) will catch fire.
 
-Ordinarily, attacks with the *Fire* tag do not *automatically* set a character on fire—although this may happen on an exceptional success, at the GM's discretion.
+Ordinarily, attacks with the *Fire* tag do not *automatically* set a character on fire — although this may happen on an exceptional success, at the GM's discretion.
 
 A character who has been *set on fire* themselves takes 1d10 DV per turn as long as they are on fire; only apply this damage as long as they are not *engulfed* in flames as above (effectively, you're either *in* fire, or *on* fire, but not both).
 
@@ -66,13 +66,13 @@ Reduce your armor's heat points by 1 per turn that it is not exposed to fire.
 
 Most creatures need to breathe; being unable to breathe can be rapidly fatal.
 
-Whenever a character cannot breathe—whether because they are diving underwater, holding their breath, choking on food, being choked or for some other reason—use the following rules:
+Whenever a character cannot breathe — whether because they are diving underwater, holding their breath, choking on food, being choked or for some other reason — use the following rules:
 
 - The character suffers no penalties for DUR÷10 turns; then
 - they are *severely impaired* as their air runs out.  They must make an *Endure Physical Hardship* test, and can remain active for 1 turn per 10 points of MoS; they suffer a -30 penalty during this time. Then,
 - they *loose consciousness.*  If they still cannot breathe DUR÷10 turns later, they die.
 
-A character can prepare for asphyxiation—like someone who is about to hold their breath, dive underwater or enter a room with no air—by taking a several deep breaths; this is a Quick Action, and doubles the amount of time you have before you must make an *Endure Physical Hardship* test.
+A character can prepare for asphyxiation — like someone who is about to hold their breath, dive underwater or enter a room with no air — by taking a several deep breaths; this is a Quick Action, and doubles the amount of time you have before you must make an *Endure Physical Hardship* test.
 
 Normally, a character who is voluntarily holding their breath will start to breath again if they pass out.
 In children, this is a good thing; a character who was holding their breath in a room filled with poisonous gas may find this to be less beneficial.
@@ -86,15 +86,15 @@ Characters may face exhaustion because their social situation demands long hours
 In any case, once a character starts to exceed their physical limits, they should make an *Endure Physical Hardship* test; they suffer 1d10 DV if they fail (armor does not apply; other damage mitigations, like resistances, may or may not apply at the GM's discretion).
 If conditions do not improve, characters will have to make additional checks, each one suffering an additional -10 penalty; eventually, when their cumulative penalties would reach -40, the character collapses from exhaustion (without making a check).
 
-How often these checks must be taken is subject to the GM's discretion—as are any additional penalties that apply, of course.
-Characters undergoing a forced march might make checks at the end of each day—or twice a day if they are being forced to keep up a jogging pace.
-Characters laboring in a Goblin prison-camp may be forced to make checks every few hours—Goblins are *unconcerned* for the long-term survival of their captives.
+How often these checks must be taken is subject to the GM's discretion — as are any additional penalties that apply, of course.
+Characters undergoing a forced march might make checks at the end of each day — or twice a day if they are being forced to keep up a jogging pace.
+Characters laboring in a Goblin prison-camp may be forced to make checks every few hours — Goblins are *unconcerned* for the long-term survival of their captives.
 
 #### Deprivation
 
 Characters who get inadequate food, water or rest may suffer from *deprivation.*
 
-Characters can survive without food for one day per point of DUR—although they begin to suffer significant penalties long before they starve to death.
+Characters can survive without food for one day per point of DUR — although they begin to suffer significant penalties long before they starve to death.
 
 - After going a full day without food, they suffer a -10 penalty to all tests from hunger.
 - After going DUR÷5 days without food, the penalties worsen to -20.
@@ -119,12 +119,12 @@ Most characters who go without adequate sleep will suffer exhaustion and deliriu
 - After two more nights, they will die.
 
 Keeping a character awake for so long that they die is difficult; after the fourth night, they will tend to fall asleep rapidly if it is at all possible.
-At this point, if a character is *trying* to stay awake—maybe because some spirit will invade their minds if they sleep, or because a concussion will kill them if they fall asleep—they will find it very difficult to do so; *Endure Physical Hardship* tests may be required, possibly as often as every few hours.
+At this point, if a character is *trying* to stay awake — maybe because some spirit will invade their minds if they sleep, or because a concussion will kill them if they fall asleep — they will find it very difficult to do so; *Endure Physical Hardship* tests may be required, possibly as often as every few hours.
 
 #### Partial and Combined Effects
 
 The above penalties assume *complete* deprivation: no food, no water, no sleep.
-*Partial* deprivation—the situation where characters have access to *inadequate* food, water or sleep—is less dire.
+*Partial* deprivation — the situation where characters have access to *inadequate* food, water or sleep — is less dire.
 GMs may represent this situation by "spacing out" the above effects (i.e. by having each step take longer), or they may waive the above procedures and instead apply a "flat" penalty based on the degree of deprivation.
 
 In many situations, characters may suffer both exhaustion and deprivation simultaneously: characters captured by Goblin slavers may taken on a forced march into Goblin lands, during which they won't have access to adequate food or water.
@@ -134,10 +134,10 @@ GMs should feel free to adapt (and simplify) these rules in such cases: rather t
 
 ### Difficult Terrain
 
-A wide variety of hazards—from hip-deep water to thick forrest—can be considered *difficult terrain*.
+A wide variety of hazards — from hip-deep water to thick forrest — can be considered *difficult terrain*.
 In general, characters cannot safely move faster than their *base rate* for a given movement mode in *difficult terrain*; a character attempting to do so needs to make an *Athletics check*.
 On a basic failure, they simply cannot move faster than their base rate; if they've already moved further than their base rate before entering the difficult terrain, then their movement simply stops immediately inside the difficult terrain.
-On an *exceptional* failure, they suffer a minor error—tripping and falling prone being a particular common one.
+On an *exceptional* failure, they suffer a minor error — tripping and falling prone being a particular common one.
 On a critical failure, they suffer a more substantial error, like running at speed into a tree or tripping and landing head-first; these commonly inflict 1d10÷2 DV, in addition to the player landing prone.
 
 Of course, specific types of *difficult terrain* may impose other penalties; some examples are given in the table below.
@@ -160,7 +160,7 @@ Additionally, instead of scattering like normal, on an Exceptional or Critical f
 
 On the plus side, thick forests provide plenty of cover for stealth (providing a +20 bonus), and plenty of wildlife for skilled woodsmen to exploit (+10 bonus to Survival checks, except to navigate).
 
-Forests generally do not slow walking overland travel much—although it's difficult to get a *wagon* through thick forest.
+Forests generally do not slow walking overland travel much — although it's difficult to get a *wagon* through thick forest.
 
 ### Shallow Water
 
@@ -200,7 +200,7 @@ Caltrops are not designed to be immediately fatal: instead, they lame and disabl
 Though caltrops can in principle be coated in poisons, this often isn't necessary: contact with soil and weather will often do the job just as well.
 
 Caltrops are used by scattering them into an area; this can be days or weeks in advance of an enemy's charge, since caltrops require no upkeep once deployed, or this can be done during combat in response to an enemy's advance.
-Several caltrops can be thrown at a square using all the normal rules for throwing; infantry can sow a large area—say, selectively scattering them in the area around a fortification—as a one-hour Task Action.
+Several caltrops can be thrown at a square using all the normal rules for throwing; infantry can sow a large area — say, selectively scattering them in the area around a fortification — as a one-hour Task Action.
 (Note that throwing caltrops *directly at* an attacker is usually ineffective.)
 
 Anyone who enters a squared (on foot) covered by caltrops risks stepping on one and being injured; roll a Luck check with a -10 modifier; on a failure, the character suffers 1d10+4 DB at -2 AP.
@@ -213,7 +213,7 @@ On an exceptional success, the character notices all of the caltrops, and *movin
 In any case, *moving cautiously* is slow; the character cannot move faster than their base rate.
 
 We assume that it takes about 6 caltrops to cover a one-meter square, but more or less can be used.
-More caltrops are easier to detect, but also harder to avoid—a very large number might make the square impassable until they are cleared (allowing no test to move safely, and automatically wounding anyone who enters).
+More caltrops are easier to detect, but also harder to avoid — a very large number might make the square impassable until they are cleared (allowing no test to move safely, and automatically wounding anyone who enters).
 Conversely, a smaller number might be much harder to detect, but also easier to avoid.
 
 Normally, caltrops are simply dropped or thrown in an area, but they can also be actively concealed.
@@ -224,8 +224,8 @@ This is a slow process; clearing a square is a 1 minute Task Action while cleari
 A Search check is required to find and collect all of the caltrops.
 
 When clearing an area, it is very common to miss some of the caltrops; innocent civilians can be lamed days, months, years or decades later.
-For this reason, the Commonwealth are less frequent users of caltrops than other militaries—although they have been a vital part of their defenses against the mounted raiders of the Shaded Sea People and the knights of the Kingdoms of Men.
-Conversely, the Goblin Empire are frequent users of caltrops on the Ruby Plane—as, increasingly, are the peoples of the Ruby Plane attempting to resist them.
+For this reason, the Commonwealth are less frequent users of caltrops than other militaries — although they have been a vital part of their defenses against the mounted raiders of the Shaded Sea People and the knights of the Kingdoms of Men.
+Conversely, the Goblin Empire are frequent users of caltrops on the Ruby Plane — as, increasingly, are the peoples of the Ruby Plane attempting to resist them.
 Imperial troops typically do not recover caltrops, which allows their opponents to recover the weapons and redeploy them.
 
 A dozen caltrops can be purchased for Cost: Minor.

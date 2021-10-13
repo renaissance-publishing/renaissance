@@ -138,6 +138,22 @@ We're working on it.
   - Entered them as a minor faction in the Other Nations section.
 - Added the Leverage trait,
   - filled in the Old Wound and Congenital Defect traits.
+- Work on a Tour of the Commonwealth.
+- Added two client races of the Shaded Sea, the Minotaurs and the Foxfire.
+  - The Foxfire especially need more work.
+- Reformatting in the races section; now everyone has a Vitals heading.
+  - Added a few racial weapons that CV's been waiting forever and a day on.
+  - Added some "Age-Height-Weight" sections for races that where missing them.
+    (These are arbitrary, we may adjust later.)
+  - Added Diet and Size for every race.
+    (And a Basin, for a spirit that doesn't eat.)
+- *lots of new content in the fluff chapters, phew*
+- converted to one standard for em-dashes
+  - a script did this, so errors may have occurred.
+- converted all the aside-tags to custom tags.
+  - also done by a script, so errors may have occurred.
+  - also also some manual cleanup is still required, including moving heading-markdown-elements into being titles.
+- Added the Cave Salamander
 
 ## To-Do
 
@@ -195,9 +211,9 @@ We're working on it.
 
 - Gleech: lead author
 - Sauce: a list of powers, GMing for a test, A sample module (incl. Wisps).
-- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.
+- SeaVea: fort design, feedback on armor and weapons, new drake history. Milestone system. Large weapon rework.  The Terranaut Dwarves, their cave salamanders, and lots of help rewriting the Dwarves.  And further work on weapons (crossbow designs).  The Old Injury trait.  Lots of artwork that I will eventually post to the site.  Playing a Healer section.  A couple of military racial items.
   - Special credit to CV for the banners that have now (finally!) been posted!  They're amazing!
-- King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenial Defect trait.  The Knights of the White Tusk.  Proficiencies for *Athletics*.
+- King K: the Gnomes, Drugs, help with rep networks. A map\!  The Mycenaean Dwarves.  The Congenital Defect trait.  The Knights of the White Tusk.  Proficiencies for *Athletics*.
 - Sinestro: stealth powers, giving the barter system a good exercise, reworking the Orcs. GMing and testing, this website\!  The Certans (they're rad, thanks!)  The Brightfeathers.
 - Misandry: helping to fill out the Shamblers.
 - Runic: clever uses for fireballs. Lobsters\!

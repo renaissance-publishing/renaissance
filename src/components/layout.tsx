@@ -11,7 +11,7 @@ import { makeStyles } from '@material-ui/core/styles';
 const theme = createMuiTheme({
     typography: {
         fontFamily: 'english, sans-serif',
-        fontSize: 16
+        fontSize: 18
     }
 });
 

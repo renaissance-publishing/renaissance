@@ -40,7 +40,11 @@ Obviously, you'll want to keep the party from discovering the traitor if encount
 
 Hella Valley is named after the *Hella*, the name given to the Humans and Dwarves that live in the region, and their (partly) shared culture.
 
+<<<<<<< HEAD
 The valley funs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks of the range are far to the south, the smaller mountains and rough foothills to the west are still a formidable natural barrier — especially given the cold.
+=======
+The valley funs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks are far to the south, they are still a formidable natural barrier — expecially given the cold.
+>>>>>>> 4ace75267ab240f5151499b06d0111b9b6d8cf24
 
 The valley is well forrested, and the Hella River runs through it.
 The valley is dotted with small farming towns, and it also sees logging, trapping and fishing.
@@ -57,18 +61,32 @@ It is roughly rectangular in design, running from east to west with the road; it
 It's surrounded by a wall, but that wall hasn't been well-maintained; it's been a long time since raiders came here.
 
 Most of the buildings are constructed of timber — corner-joined, with the logs cut square, some faced with planks or plaster, some not.
+<<<<<<< HEAD
 A few of the nicer buildings are made of brick.
 Most have thick, thatched rooves, to keep out the cold and winter snow.
 
 The valley isn't far enough north that the ground is permafrost — it thaws in the spring.
 A number of the buildings incorporate dug-out portions and basements.
+=======
+A few of the nicer buildings are build of brick.
+Most have thick, thatched rooves.
+
+The valley isn't far enough north that the ground is permafrost — it thaws in springs.
+A number of the buildings incorporate dug-out portions.
+>>>>>>> 4ace75267ab240f5151499b06d0111b9b6d8cf24
 
 The city isn't wealthy; many of the people there are farmers and trappers.
 
 The *Southlander's Temple* and the *Council House* sit at the center of the town, facing each-other across the street.
 The town's *market square* runs two blocks in either direction around the center, opening up around the road.
 
+<<<<<<< HEAD
 ### Location: The Market
+=======
+Forge-and-Hearth Burrow is a small Kobold burrow that sits three *demarc* northeast of Southlander's Market.
+The population is less than 500.
+It consists of a large, central burrow, surrounded by a number of smaller single-family burrows and surface structures — some of the surface structures are older than the burrow itself, built by the first Kobold settlers more than 200 years ago before they had dug the burrow.
+>>>>>>> 4ace75267ab240f5151499b06d0111b9b6d8cf24
 
 The eponymous market of *Southlander's Market* sits at the center of the town, surrounding the *Temple* and *Council House* and opening up along the road to either side.
 The surrounding buildings have shops and store-fronts that open up onto the market.
@@ -130,9 +148,13 @@ Landlord Ceder-Inn is effectively the *quest-giver* for the adventure; Ceder-Inn
 
 Rust-Fur is the Gnollish commander of the local Commonwealth guard; he's a male Gnoll in his early thirties, and he lives and operates out of Southlander's Market.
 He's respected by the locals as a leader and probably-solver.
-While he doesn't know anything about the magical blizzard, his knowledge of the area might be useful—although it will be difficult for the party to convince him to abandon his post to travel to the monastery.
+While he doesn't know anything about the magical blizzard, his knowledge of the area might be useful — although it will be difficult for the party to convince him to abandon his post to travel to the monastery.
 
+<<<<<<< HEAD
 Rust-Furr might be useful if the party doesn't have anyone with good ranks in Survival; he can lead them to the monastery — or assign a Guard to the task, if matters elsewhere keep him busy, or he decides he doesn't like the party.
+=======
+Rust-Furr might be useful if the party doesn't have anyone with good ranks in Survival; he can lead them to the monastery — or assign a Guard to the task.
+>>>>>>> 4ace75267ab240f5151499b06d0111b9b6d8cf24
 
 Rust-Furr would also make a decent PC, if there's a player in the group struggling to come up with a good character-concept.
 
@@ -183,7 +205,7 @@ The trek through the blizzard to Whitefox Monastery is the real starting-point f
 ### Encounter: The Blizzard
 
 [[designnote]]
-| Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and *stride* (*sd*) is about 30 inches or 75 cm.
+| Remember that a *demarc* (*dc*) is about 2.6 miles or about 4.2 kilometers, and a *stride* (*sd*) is about 30 inches or 75 cm.
 
 Whitefox Monastery is only about 4dc away from Southlander's Market; where it not for the blizzard, it would not be a particularly difficult journey, even in winter.
 The blizzard, however, does complicate things.
@@ -211,7 +233,11 @@ The cold will be a significant hazard; each member of the party will need to mak
 Each time a character fails a *Feat of Endurance* check, they suffer 1d10DV, with the *Cold* and *Environmental* tags; resistances, vulnerabilities and other similar features apply, but armor does not.
 
 Note that the extreme cold is particularly deadly to cold-blooded characters; they'll need to bring along some source of warmth (like a Warmblood Suit, a Heater, or the Fireball power) or they'll almost certainly freeze to death.
+<<<<<<< HEAD
 Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.
+=======
+(Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.)
+>>>>>>> 4ace75267ab240f5151499b06d0111b9b6d8cf24
 Cold-blooded creatures with no other source of warmth can attempt to share body-heat with a warm-blooded creature — although doing this while actively travelling can be *difficult*, unless the cold-blooded character is particularly portable.
 Sharing warmth in this way imposes a -10 penalty on the warm-blooded character, but it allows the cold-blooded character to make a Feat of Endurance check against the cold at -20.
 
@@ -225,7 +251,7 @@ Note also that creatures with the *Dragon-Kin* (like Drakes and Kobolds) and *Sa
 
 [[designnote]]
 | We've spent a fair amount of text describing how dangerous the blizzard is, because its intended to be a major hazard for the adventure.
-| Bute a character who takes most of the teleportation-related powers can easily bypass it—at least on the way back from the monastery, if not on the way to it (because they don't know where they're going and are at risk for teleporting into a wall, tree, mountain, etc.).
+| Bute a character who takes most of the teleportation-related powers can easily bypass it — at least on the way back from the monastery, if not on the way to it (because they don't know where they're going and are at risk for teleporting into a wall, tree, mountain, etc.).
 |
 | This is actually perfectly acceptable; a character who takes most of the teleportation powers has invested a significant ammount of points!
 | To be really proficient, they will have had to buy several powers, and good ranks in both Spellcraft and Athletics (you need good Athletics to be good at teleporting, because teleporting counts as a movement mode; see the note on the power).
@@ -252,7 +278,7 @@ The major benefit it provides for this adventure is the ability to resolve the *
 ## The Monastery
 
 The monastery is where the bulk of the adventure takes place.
-It's where all the clues to the mystery reside—as well as the monster!
+It's where all the clues to the mystery reside — as well as the monster!
 
 ### Location: The Monastery
 
@@ -275,7 +301,7 @@ This window is intact, but characters who *really* want to avoid going through t
 
 ### Point-of-Interest: Outside
 
-Characters who search outside the monastery—or score exceptional successes on Perception checks while approaching—may notice *bodies* frozen in the snow.
+Characters who search outside the monastery — or score exceptional successes on Perception checks while approaching — may notice *bodies* frozen in the snow.
 
 ### Point-of-Interest: The Ritual Space
 
@@ -320,19 +346,19 @@ The remains of a *ritual* remain on the altar.
 
 ## Customizing the Module
 
-Some parts of the module are fixed—like the town, the monastery, the blizzard and the monster.
+Some parts of the module are fixed — like the town, the monastery, the blizzard and the monster.
 A traitor-priest (for one reason or another) negotiated between several spirits (including Bones-of-Deep-Rock) to release one of the spirits of the dead, and grant it great powers; this is the source of both the monster and the blizzard.
 
 Other parts, however, are designed to be variable: what was the plot, and how will the party defeat the monster and end the blizzard?
 
-In order to run the adventure, you'll need to pick one of the following "plots," and use it to finish out the module—or combine several of them, or come up with one of your own!
+In order to run the adventure, you'll need to pick one of the following "plots," and use it to finish out the module — or combine several of them, or come up with one of your own!
 
 ### "Alien"
 
 In some ways, this is a very simple scenario: it's a fight for survival in an isolated, eery location against an implacable, ferocious foe.
 There's no particular secret to unlock or mystery to solve: the monster is at the center of it, and you have to kill it before it kills you.
 
-In this story, the *Traitor* still created the monster, for whatever reason—but that's of little consequence now.
+In this story, the *Traitor* still created the monster, for whatever reason — but that's of little consequence now.
 The monster is *unbound*; even if the party identify the traitor and fully understand the ritual he used, there's nothing that knowledge will allow them to do.
 All they can do is defeat it.
 
@@ -340,14 +366,14 @@ In this scenario, designing and running the monster is particularly critical.
 It needs to be tough enough that defeating it can take up a good chunk of the adventure.
 It should be tough enough that it can strike, inflict some painful damage, and then survive to fade away.
 On the other hand, it also needs to be possible to defeat it; it probably *shouldn't* be able to simple hop into a new corpse when it dies, because that will potentially put the party in a place where they need to defeat it *70 times*—which shouldn't be practical.
-Essentially, this means that you should probably improve its DUR, STR and Armor—and possibly give it a regeneration mechanism—but that you *shouldn't* allow it to hop bodies.
+Essentially, this means that you should probably improve its DUR, STR and Armor — and possibly give it a regeneration mechanism — but that you *shouldn't* allow it to hop bodies.
 
 It's also important to wisely deploy the monster.
 Don't over-use it; it shouldn't be running about howling and attacking all the time, but instead should lunge out of the darkness to strike only at tense or vulnerable moments.
 Remember that it's the spirit of a dead mortal; that means that it has human(oid) intelligence.
 It's ferocious, but it's also *far* more intelligent than a lion or bear: it will avoid obvious traps, sneak around, attempt to trip or disarm opponents, and maybe even set traps of its own.
-It even has the capability of language—although it has about as much to say to the party as a lion does to a gazelle.
-However, if it can spy on the party, it might be able to understand what they're saying, which will give it a decided edge (if it shares a language with them—which depends on exactly whose spirit it is, which is a detail up to you as the GM).
+It even has the capability of language — although it has about as much to say to the party as a lion does to a gazelle.
+However, if it can spy on the party, it might be able to understand what they're saying, which will give it a decided edge (if it shares a language with them — which depends on exactly whose spirit it is, which is a detail up to you as the GM).
 
 Finally, it's a good idea to reveal to the players *fairly* quickly what they need to do; don't force them to assemble a lot of clues if the ultimate solution is going to be "kill it!"
 
@@ -369,15 +395,15 @@ Finally, it's a good idea to reveal to the players *fairly* quickly what they ne
 
 This scenario proceeds much like the previous one, with one difference: we assume that a lion might have a meaningful discussion with gazelles if it's *outnumbered* and *outgunned*.
 
-Essentially, in this scenario, we assume two things: that monster doesn't want to be defeated—perhaps destroying it will send it back into the realms of the dead, and it doesn't want that to happen—and that it can leave the monastery (and that the blizzard will follow it).
+Essentially, in this scenario, we assume two things: that monster doesn't want to be defeated — perhaps destroying it will send it back into the realms of the dead, and it doesn't want that to happen — and that it can leave the monastery (and that the blizzard will follow it).
 (We also note that the analogy to lions and gazelles is imperfect, since the monster doesn't actually *need* to kill people; it's only doing that because it's already dead and beyond mortal concern, which means it has no particular reason to care about morality.)
 This opens up a kind of opportunity for the party: they can perhaps negotiate with it.
 
 There's a simple and compelling utilitarian case to make here: "if you keep trying to kill us, we'll have to kill you, and that's bad for you.
-Instead, if you simply left—and, hopefully, take the blizzard with you—we'll stop needing to kill you."
+Instead, if you simply left — and, hopefully, take the blizzard with you — we'll stop needing to kill you."
 
 While this saves the Hella Valley, it also creates a problem somewhere else.
-If the monster travels to the lonely peaks of the World-Spine (for example), then that's fine—it won't be bothering anyone up there.
+If the monster travels to the lonely peaks of the World-Spine (for example), then that's fine — it won't be bothering anyone up there.
 If, however, it simply descends on a neighboring town, then the party will be responsible for a major disaster.
 And, of course, this leaves the wanton slaughter of the monks unavenged.
 This creates excellent opportunity for moral haggling within the party!
@@ -404,7 +430,7 @@ There are several benefits to this scenario:
 - one is that it puts the *Analysis* characters right at the center of the adventure;
 - another is that it sets up an excellent climactic encounter: the monster is intelligent, and will likely try to disrupt their ritual (even if it doesn't know for sure what they're doing, it can probably guess that another ritual, reusing the same elements, is probably bad for it)
 
-This also gives you a chance to use the **ritual remains** to great effect—which is good if you like creepy, dramatic set-pieces.
+This also gives you a chance to use the **ritual remains** to great effect — which is good if you like creepy, dramatic set-pieces.
 
 Another benefit is that you can use the monster differently.
 The *"Aliens"* scenario has the monster *buffed*, but also removes its ability to hop to new corpses; in this scenario, you can use a normal or weakened version of the monster, but you can also allow it to jump to new corpses.
@@ -421,7 +447,7 @@ This also allows you to use many more monster attacks: rather than deploying it 
 
 In this variant, the monster needs to be lured into position, pushed through a magical aperture, or otherwise maneuvered during the climactic ritual.
 
-Be careful with this one: the monster is both ferocious and intelligent, so it'll be tricky to pull off—especially if they don't have a *strong* combat character.
+Be careful with this one: the monster is both ferocious and intelligent, so it'll be tricky to pull off — especially if they don't have a *strong* combat character.
 
 #### Variant: You Need the Original Ritual
 

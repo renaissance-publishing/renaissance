@@ -20,6 +20,51 @@ Abilities here but not in Character Creation
   - Acute Hearing: +20 on Perception Tests to hear things
   - Poor Vision: -20 on Perception Tests to see things.
 
+### Bahla
+
+A *Bahla* is a small animal much like a rabbit — except that it's larger, about the size of a large cat; wooly like a sheep; and more social and docile.
+Bahla live in groups of 9 to 12; some kinds of bahla live in burrows, while others live in larger flocks.
+Washers often kept bahlas as pets, and herded them for wool and meat; after the loss of their homeland, some washers carried the creatures into exile in the Protectorate.
+Populations of wiled Bahla still roam in the hilly uplands of the western Ruby Plane.
+
+#### Vitals
+
+| COG | COO | INT | SAV | SOM  | WIL |
+| --- | --- | --- | --- | ---- | --- |
+| 4   | 15  | 15  | 4   | 10   | 15  |
+
+| DUR (WT) | STR | INIT | DB   | LUC (TT) |
+| -------- | --- | ---- | ---- | -------- |
+| 15 (3)   | 15  | 6    | \+2  | 30 (6)   |
+
+- Movement: Burrow 2/4, Quadruped 5/15/25
+- Senses: Normal, *Acute Hearing* (+20), *Motion Sensitive* (+10)
+- Tags: Animal, Bahla, Domesticated, Familiar, Natural, Wild Companion
+- Size: Small
+- Diet: Herbivore
+
+#### Features
+
+- **Acute Hearing**: bahla have large ears and acute hearing; they gain +20 to auditory perception checks.
+- **Motion Sensitive**: bahla's vision is very sensitive to motion; they gain a +10 bonus to perception checks against moving creatures or objects.
+- **Wool**: most types of bahla have wooly coats, which help them endure cold environments.
+  Though individual bahla are small, they can still be a valuable secondary source of wool.
+
+#### Skills
+
+- *Flee* 50
+- Fray 60
+- *Natural Weapons* 40
+- Perception 50
+- Protocol 20
+- Read 40
+
+#### Combat Stats
+
+- Armor: -
+- Attack: **Bite**
+  - 40 (Natural Weapons), 1D10÷3, AP -
+
 ### Black Bear
 
 |          |     |      |     |      |          |
@@ -29,41 +74,89 @@ Abilities here but not in Character Creation
 | DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
 | 40 (8)   | 40  | 5    |     | \+6  | 40 (8)   |
 
+- Vitals:
   - Movement: Quadruped 4/12, Climb 3/9
-
   - Senses: Normal, Scent
-
   - Tags: Animal, Bear, Natural, Wild Companion
 
-  - Thick Hide: +2 Armor
+- Features:
+  - **Thick Hide**: +2 Armor
+  - **Pain Tolerance**: can Negate the effect of one Wound.
 
-  - Pain Tolerance: can Negate the effect of one Wound.
+- Skills:
+  - *Chase* 60
+  - Fray 40
+  - *Natural Weapons* 60
+  - Perception 60
 
-  - Skills:
-    
-      - *Chase* 60
-      - Fray 40
-      - Natural Weapons 60
-      - Perception 60
+- Combat Stats:
+  - Armor: 2 AV
+  - Attack: **Claw**
+    - 60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1
+  - Attack: **Bite**
+    - 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
 
-  - Claws: 60 (Natural Weapons), 2D10+6 (2D10+DB), AP -1
+### Cave Salamander
 
-  - Bite: 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
+Cave salamanders are large, sightless, cave-dwelling amphibians.
+Originating under the Worldspine mountains, they where originally discovered by the Deep-Explorers, but have since been adopted by other subterranean cultures.
+
+A dangerous carnivore in their native habitat and largely asocial, a wild cave salamander spends almost all it’s time underwater, feeding on insects, fish, and crabs; their domesticated brethren are fed a steady diet of fish steeped and marinated with dwarven reagents.
+It takes a careful balance of behavioral conditioning and alchemical adjustments in order to make these creatures safe to be around, let alone actually usable and trainable.
+
+While blind, they have a lateral line similar to a shark; it is widely believed that this enables them to detect nearby living organisms.
+They also have vibration-sensing barbells under the chin to sense larger threats or prey.
+
+Originally a well-kept secret among even the normally secretive Deep-Explorer Dwarves, as the taming of Cave salamanders became more of an industry and their use as riding animals spread, the animals where adopted by other subterranean cultures.
+In the Commonwealth, some Ash Elves and Kobolds also have stables of the animals; remarkably, some Shade Elves *rides* managed to find and develop their own supply, for riding and raiding in tight quarters
+
+#### Vitals
+
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 4   | 25  | 7   | 2   | 30  | 10  |
+
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 35 (7)   | 30  | 5    | \+6 | 30 (6)   |
+
+- Movement: Walking 4/12, Climbing 3/9, swimming 4/12
+- Senses: Normal, *Blind*, Life Sense, Vibration
+- Tags: Animal, Amphibian, *Cave Salamander*, Mount, Natural, Reptile
+- Size: Large
+- Diet: Herbivore
+
+#### Features
+
+- **Caverunner**: Cave Salamanders are very low-slung, which allows them to carry riders in tight corridors and caverns where a larger mount would be  unable to pass.
+- **Amphibian**: Cave Salamanders can swim and, with a proper harness, can even pull their riders along with them for mounted aquatic activity — so long as their rider can hold their breath.
+- **Lowslung**: Cave Salamanders are low-slung; a rider of Medium size or larger may have trouble riding them, as they will be forced to tuck their legs up uncomfortably.
+  A race of Size: Small, however, can ride them comfortable.
+  (When riding a Cave Salamander, creatures of Size: Medium suffer a -10 penalty to *Ride*, while creatures of Size: Small gain a +10 bonus.)
+
+#### Skills
+
+- *Forage* 60
+- Fray 50
+- *Hunt* 40
+- *Natural Weapons* 60
+- Perception 50
+
+#### Combat Stats
+
+- Armor: \-
+- Attack: **Bite**
+  - 60 (Natural Weapons), 1D10\+6 (1d10+DB), AP -
 
 ### Chasseh Forrest Spirit
 
-The spirits that dwell in the woods south of the human town of Chasseh
-have the ability to take control of the wildlife that is native to their
-forest; these spirits are mercurial, and not particularly friendly;
-though they can be bargained with, they are typically somewhere between
-unhelpful and dangerous.
+The spirits that dwell in the woods south of the human town of Chasseh have the ability to take control of the wildlife that is native to their forest.
+These spirits are mercurial, and not particularly friendly; though they can be bargained with, they are typically somewhere between unhelpful and dangerous.
 
-A possessed animal uses the animal’s stats, but gains the Aptitudes,
-Skill Ranks and Powers from the spirit. You may assign Aptitude Bonuses
-appropriate to the creature, +10 to one Aptitude and +5 to another.
+A possessed animal uses the animal’s stats, but gains the Aptitudes, Skill Ranks and Powers from the spirit.
+You may assign Aptitude Bonuses appropriate to the creature, +10 to one Aptitude and +5 to another.
 
-If the animal is killed, the spirit simply departs from it, flee into
-the forrests.
+If the animal is killed, the spirit simply departs from it, fleeing into the forests.
 
 |     |     |      |     |     |          |
 | --- | --- | ---- | --- | --- | -------- |
@@ -72,20 +165,18 @@ the forrests.
 |     |     | INIT |     |     | LUC (TT) |
 |     |     | 7    |     |     | 40 (8)   |
 
-  - Skills:
-    
-      - Athletics 40 Ranks
-      - Deception 40 Ranks
-      - Fray 50 Ranks
-      - Natural Weapons 50 Ranks
-      - Perception 60 Ranks
-      - Persuasion 30 Ranks
-      - Protocol 30 Ranks
+- Skills:
+  - Deception 40 Ranks
+  - Fray 50 Ranks
+  - *Hunt* 40 Ranks
+  - *Natural Weapons* 50 Ranks
+  - Perception 60 Ranks
+  - Persuasion 30 Ranks
+  - Protocol 30 Ranks
 
 ### Chosen
 
-A Champion of the One that Chose Us, who is worshiped by some in the
-Eastern portion of the Kingdoms of Man.
+A Champion of the One that Chose Us, who is worshiped by some in the Eastern portion of the Kingdoms of Man.
 
 |             |       |      |     |     |         |
 | ----------- | ----- | ---- | --- | --- | ------- |
@@ -94,59 +185,52 @@ Eastern portion of the Kingdoms of Man.
 | DUR (WT)    | STR   | INIT |     | DB  | LUC(TT) |
 | 30/35 (6/7) | 30/35 | 7    |     | \+5 | 40 (8)  |
 
+- Vitals:
   - Movement: Foot 4/12
-
   - Senses: Normal
-
   - Tags: Natural, Humanoid, Human
-
   - Language Group: HHED
 
-  - Class: Initiate of the One
-    
-      - Initiated into the worship of The One that Chose Us, and
-        recipient of its favor.
-      - You gain +5 STR and +5 DUR (included above)
+- Features:
+  - Class: **Initiate of the One**
+    - Initiated into the worship of The One that Chose Us, and recipient of its favor.
+    - You gain +5 STR and +5 DUR (included above)
+  - Class: **Crusader of the One**
+    - You gain +DB damage against enemies of the One (including those who oppose it, those who are aligned with opposing spirits, and members of peoples that don’t seek its favor.)
 
-  - Class: Crusader of the One
-    
-      - You gain +DB damage against enemies of the One (including those
-        who oppose it, those who are aligned with opposing spirits, and
-        members of peoples that don’t seek its favor.)
+- Skills:
+  - Knowledge: Theology 50
+  - Athletics 50
+  - Deception 40
+  - Fray 60
+  - Language: Common 25
+  - Language: Royal 75
+  - Perception 50
+  - Persuasion 50
+  - Pole-Arms 70
+  - Profession: Priest 40
+  - Profession: Crusader 60
+  - Thrown Weapons 60
+  - Protocol 50
+  - Stealth 40 (20 in armor)
 
-  - Skills:
-    
-      - Knowledge: Theology 50
-      - Athletics 50
-      - Deception 40
-      - Fray 60
-      - Language: Common 25
-      - Language: Royal 75
-      - Perception 50
-      - Persuasion 50
-      - Pole-Arms 70
-      - Profession: Priest 40
-      - Profession: Crusader 60
-      - Thrown Weapons 60
-      - Protocol 50
-      - Stealth 40 (20 in armor)
+- Armor Value: 7 armor
+- Drawbacks: -10 to checks that include your COO.
+- Tags: Composite, Cumbersome, Heavy
 
-  - Armor: 8 Armor
+- Items
+  - Brigandine Armor: 7 AV, -10 to checks that include your COO
+    - Tags: Composite, Cumbersome, Heavy
+  - Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2.
+    - Tags: Two-Handed, Reach
+    - Special: Creatures with the Natural tag and without the Human tag are *Vulnerable* to this weapon.
+  - Profession: Crusader *Skill Kit*
 
-  - Spear of the Chosen
-    
-      - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are
-        Vulnerable to this attack.
-      - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m.
-        Non-Humans are Vulnerable to this attack.
-
-  - Items
-    
-      - Brigandine Armor: 8 Armor, -10 to COO- and REF-linked skills.
-        Heavy.
-      - Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2. Tags:
-        Two-Handed, Reach. Creatures with the Natural tag and without
-        the Human tag are Vulnerable to this weapon.
+- Combat Stats:
+  - Armor Value: 8
+  - Attack: **Spear of the Chosen**
+    - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are *Vulnerable* to this attack.
+    - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m. Non-Humans are *Vulnerable* to this attack.
 
 ### Clay Pot
 
@@ -220,7 +304,7 @@ by other large predators.
 Dancing Hawks are creatures native to the Dragons' Mountains, the low range that takes up the southeastern half of the Dragonshire; these massive creatures are sometimes used as mounts by Drakes.
 They are named for the unique "stomp" that they use to attack prey.
 
-Like a number of species native the the Dragons' Mountains--including dragons themselves--the Dancing Hawk is something between a bird and a reptile.
+Like a number of species native the the Dragons' Mountains — including dragons themselves — the Dancing Hawk is something between a bird and a reptile.
 They are shaped somewhat like a large bird, save that they have jaws (with teeth) rather than a beak; a long, strong, flexible tail that they use for balance and control while running; and their wings are tiny and folded before and under them, like small, awkward arms.
 They cannot fly, instead using their tiny wings for display, and for some other social behavior.
 They are, however, adept runners, and they run powerfully and surely through the hills and low peaks of the Drake's Mountains; their legs are massively muscled, able to carry their own weight comfortably, and a Drake rider beside.
@@ -229,57 +313,64 @@ Dancing Hawks are huge, often the height of a drake at their hip, three times as
 
 Dancing Hawks are omnivorous; they prefer the fruits and leaves of several trees native to the Dragons' Mountains, as well as some of the hardier shrubs and grasses that grow further up the slope.
 They also hunt, though they only hunt animals much smaller than themselves; unfortunately for the shepherds of the hills below the Dragons' Mountains, a sheep is "much smaller than" these massive creatures.
-Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled--and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
+Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled — and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
 Instead, they "stomp" on their pray, raising their legs and striking down with immense force; given the size and strength of the creature, these stomps are devastating.
 
 Dancing Hawks are social creatures, travelling in small packs in the Dragons' Mountains.
 A typical pack consists of about 6 adults and their young.
-They are also intelligent animals--smart enough to share kills and to cooperate to raise their pack's young.
+They are also intelligent animals — smart enough to share kills and to cooperate to raise their pack's young.
 
 Dancing Hawks run with their spines parallel to the ground; this, taken together with their social and intelligent nature, makes it possible for them to bear a rider.
 Though most of them still run wild in the hills and mountains of the Dragons' Mountains, there are several domesticated breeds; they have the size and strength to bear a Drake rider, and the intelligence to be trained for war.
 Two factors prevent them from being used ubiquitously as mounts; their clutches, range and populations are small, and they do not have a horse's endurance.
 Still, some Drakes do use these powerful creatures as war-mounts, and their stomps are devastating attacks against downed foes.
 
-<aside class="designnote">
-Yes, it's like a <a href="https://en.wikipedia.org/wiki/Utahraptor">Utahraptor</a> that's also a <a href="https://en.wikipedia.org/wiki/Secretarybird">Secretarybird</a>, except much bigger and omnivorous, and also you can ride it.
-</aside>
+[[designnote]]
+|Yes, it's like a [Utahraptor](https://en.wikipedia.org/wiki/Utahraptor) that's also a [Secretarybird](https://en.wikipedia.org/wiki/Secretarybird), except much bigger and omnivorous, and also you can ride it.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 4        | 20  | 7    | 4   | 25  | 15       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 45 (9)   | 45  | 5    |     | \+7 | 30       |
+#### Vitals
 
-  - Movement: Walking 5/15, Climbing 2/6, Leaping 4/12
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 4   | 20  | 7   | 4   | 25  | 15  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 45 (9)   | 45  | 5    | \+7 | 30 (6)   |
 
-  - Tags: Dancing Hawk, Dragonoid, Mount, Natural
+- Movement: Walking 5/15, Climbing 2/6, Leaping 4/12
+- Senses: Normal, Scent
+- Tags: Animal, Dancing Hawk, Dragonoid, Mount, Natural
+- Size: Very Large
+- Diet: Omnivore
 
-  - Mountain's Hide: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
+#### Features
 
-  - Low Endurance: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
+- **Mountain's Hide**: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.
+- **Low Endurance**: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.
 
-  - Size: Very Large
+#### Skills
 
-  - Skills:
-    
-      - *Forage* 55
-      - Fray 50
-      - *Hunt* 45
-      - *Natural Weapons* 60
-      - Perception 50
+- *Forage* 55
+- Fray 50
+- *Hunt* 45
+- *Natural Weapons* 60
+- Perception 50
 
-  - Stomp: 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
+#### Combat Stats
 
-  - Special: Dancing Falcons can be acquired from Dragonshire breeders--or the bold and fortunate might raise them from hatchlings.  They are cost-category \[Extreme\].
+- Armor: 1
+- Attack: **Stomp**
+  - 60 (Natural Weapons), 2d10\+7 (2d10\+DB), AP 1
+
+#### Special: Rare Mount
+Dancing Falcons can be acquired from Dragonshire breeders — or the bold and fortunate might raise them from hatchlings.
+They are cost-category \[Extreme\].
 
 ### Frozen Horror
 
 Created when several powerful spirits colluded with a mortal to release
-one of the Dead, without binding it—and with some other string attached.
+one of the Dead, without binding it — and with some other string attached.
 
 |          |     |      |     |     |          |
 | -------- | --- | ---- | --- | --- | -------- |
@@ -321,7 +412,7 @@ one of the Dead, without binding it—and with some other string attached.
 ### Horse
 
 These quadrupedal creatures are native to the southwest of the Emerald Plane.
-They have long been ridden as mounts--and bred for the purpose--by the cultures there, and have since spread east throughout the Emerald Plane.
+They have long been ridden as mounts — and bred for the purpose — by the cultures there, and have since spread east throughout the Emerald Plane.
 
 |          |     |      |     |      |          |
 | -------- | --- | ---- | --- | ---- | -------- |
@@ -410,15 +501,16 @@ Background may need tweaking; I want this to be funny, not dark.
 
 ### Pack Cat
 
-These unusual creatures are distant relatives of other big cats.
-At first glance they look something like a white-furred mountain lion, though they are leaner, have a narrower stance and are long-legged--and their front legs are slightly higher than their back legs.
-Their muzzles are also slightly longer and narrower than other cats, giving them a look slightly more like a wolf.
+These unusual creatures are distant relatives of other big cats, particularly mountain lions.
+At first glance they look something like a white-furred mountain lion, although there are subtle differences; they are slightly smaller and leaner, they have a narrower stance, and their legs are slightly longer — with their front legs being slightly higher than their back legs.
+Their muzzles are also slightly longer and narrower than other cats, giving their heads a slightly different profile.
 
-Their greatest difference between the *pack-cat* and other cats is their social behaviors; they are social animals, living communally in large packs.
-They are hunters and scavengers, and will cooperate to bring down game or defend a claimed kill.
+Perhaps the most important difference between *pack-cats* and other cats, however, is their social nature; they live in large packs, ranging from 10 to 20, and demonstrate complex social heirarchies, and cooperate socially to accomplish most tasks.
+They are hunters and scavengers, and will work as a pack to brind down large pray, to defend kills, and to drive over large predators away from kills.
+They also participate in social rearing, cooperating to raise the pack's young.
 
-The cultures of the snowy north have long-since domesticated these creatures.
-They are kept as pets, work-animals, hunters and war-animals; they are kept by Orcs especially.
+The cultures of the snowy north have long-since domesticated these creatures; they are kept as pets, work-animals, hunters and war-animals.
+They are particularly common in Orcish communities, where some breeds have very long histories with certain communities or clans.
 
 |          |     |      |     |     |          |
 | -------- | --- | ---- | --- | --- | -------- |
@@ -587,6 +679,59 @@ secure, and its enemies in check.
     
       - Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
       - Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
+
+### Stilt-Raccoon
+
+*Stilt-Raccoons* are raccoon-like creatures that live along the river-banks and in the marshy lowlands in the Kingdom of Tenna, in the Eastern Kingdoms.
+They have long, slender legs, with which they wade through the shallow waters of marshes, river-banks and lake shores.
+They are omnivorous, feeding on small fish, some insects,  muscles and clams, and a wide variety of plants and roots.
+Much like raccoons, they have an extremely acute sense of touch, which they use to forage for roots, muscles and clams in soft sands.
+They are also known as "spearfishers" in the Kingdoms of Men, after the quick striking motions they make when they plunge a forearm into shallow water to strike a fish or frog.
+
+Even though they aren't predators — and despite being more than a little cute — stilt-raccoons are difficult to keep as pets.
+They're fairly docile, and they aren't aggressive as long as they're treated well — but they need access to a large body of water, or their health will deteriorate.
+
+The Story of Reckless Prince Eta is popular children's story in the Kingdom of Tenna; it began more than five hundred years ago as a satire of an actual noble of the Tenna clan, but morphed into a parable for children.
+It tells the story of a reckless prince who thought himself infinitely wise and strong, and believed no harm could befall him; ultimately, he swam too near a stilt-raccoon, which speared into the water with its forearm and stuck him.
+Darker and more didactic versions of the story have the prince being struck in the back of the head, which stuns him and causes him to drown; bawdier and more comic versions of the story place the blow elsewhere.
+
+#### Vitals
+
+| COG | COO | INT | SAV | SOM  | WIL |
+| --- | --- | --- | --- | ---- | --- |
+| 4   | 15  | 15  | 3   | 15   | 15  |
+
+| DUR (WT) | STR | INIT | DB   | LUC (TT) |
+| -------- | --- | ---- | ---- | -------- |
+| 15 (3)   | 10  | 6    | \+2  | 30 (6)   |
+
+- Movement: Climb 2/6, Quadruped 3/9, Swim 2/6, *Wader*
+- Senses: Normal, Acute Touch, *Glare-Resistant*, Scent
+- Tags: Animal, Domesticated, Familiar, Natural, Stilt-Raccoon, Wild Companion
+- Size: Small
+- Diet: Marine Omnivore
+
+#### Features
+
+- **Glare-Resistant**: stilt-raccoons are resistant to the effects of glare, the better to hunt fish, frogs and other small animals beneath the surface of lakes and streams.
+- **Wader**: stilt-raccoons are well-adapted to wading, and are not slowed when moving through shallow water with quadruped movement.
+  They also make little sound while doing so, so they do not take penalties to Stealth checks related to being quiet the way most creatures would.
+- **Camouflage**: stilt-raccoons have a dark coat, which helps them to hide in darkness and shadow; this gives them a +10 bonus to Stealth checks in dark areas.
+
+#### Skills
+
+- Fray 50
+- *Natural Weapons* 50
+- Perception 50
+- *Stalk* 40
+
+#### Combat Stats
+
+- Armor: -
+- Attack: **Bite**
+  - 50 (Natural Weapons), 1D10÷3, AP -
+- Attack: **Jab**
+  - 50 (Natural Weapons), 1d10+3, AP -
 
 ### Weasel
 

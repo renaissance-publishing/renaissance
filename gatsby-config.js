@@ -45,29 +45,50 @@ module.exports = {
             options: {
               blocks: {
                 example: {
-                  classes: `example`,
+                  classes: `standout example`,
                   title: "optional",
                 },
                 designnote: {
-                  classes: `designnote`,
+                  classes: `standout designnote`,
                   title: "optional",
                 },
                 gmguidance: {
-                  classes: `gmguidance`,
+                  classes: `standout gmguidance`,
                   title: "optional",
                 },
                 playerguidance: {
-                  classes: `playerguidance`,
+                  classes: `standout playerguidance`,
+                  title: "optional",
+                },
+                clarification: {
+                  classes: `standout clarification`,
                   title: "optional",
                 },
                 fiction: {
-                  classes: `fiction`,
+                  classes: `standout fiction`,
+                  title: "optional",
+                },
+                optionalrule: {
+                  classes: `standout optional`,
+                  title: "optional",
+                },
+                hook: {
+                  classes: `standout hook`,
+                  title: "optional",
+                },
+                abstract: {
+                  classes: `standout short`,
                   title: "optional",
                 },
               }
             }
           },
-          `gatsby-remark-autolink-headers`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              enableCustomId: true,
+            },
+          },
         ]
       }
     },
