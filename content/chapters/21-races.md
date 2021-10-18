@@ -136,6 +136,14 @@ Most of these races take pride in belonging to one or both of the following grou
     head, long tail, powerful limbs, tough scales and sharp claws of
     Dragons.
 
+> **Chandra** [Drake, Social General, our host]: Well, since we're assembled at my manor, I suppose it's only fair we discuss my kind first.
+>
+> **Trac** [Commonwealth soldier, Gnoll]: So long as the drinks keep coming.
+>
+> **River**: What should we discuss? Obviously, military prowess would put a shine on your scales.
+>
+> **Chandra**: Swordsmanship, too. But We were made for it. At least our court and cities we made ourselves. And our membership in the commonwealth has only made us better.
+
 #### Drake Vitals
     
 - Old Age: 100 Years
