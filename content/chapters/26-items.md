@@ -1624,6 +1624,24 @@ Sometimes a wick or rag is stuffed into the neck of a container of oil and lit; 
 | The idea is that turning a canister of oil into an "oil grenade" is a trivial process — if you have a dose of oil, you can just stuff a rag into it, light it and throw it.
 | The same logic applies to the *scour* and *tar* chemicals, below.
 
+### Poppy Juice (Drug, Minor)
+
+*Poppy juice* is brewed from poppies, and is used both medicinally and recreationally.
+When taking, depending on the concentration, it masks pain; causes sluggishness and drowsiness; and confuses the sense and wits, bringing about hallucinations.
+
+It can be useful in medical settings, as a treatment for physical pain; for some seizures and cramps, since it relaxes the muscles; and for some mental ailments, as it tranquilizes the mind.
+However, it can be highly addictive, especially in concentration; for this reason, in the Commonwealth, it is only legal for its medical uses.
+(Of course, it is also popular in drug dens, where it may be cut with other drugs.)
+
+Overdoses can be fatal; one of the darker uses that physicians have put it to is to provide a gentle, painless death to the terminally ill and suffering.
+
+- \-5 to all attributes
+- \-5 STR
+- *Negate* one *wound* and one *trauma*
+- **Duration**: four hours
+- **Tags**: Drug, Illegal
+- **Cost**: \[Moderate\]
+
 ### Scour (Chemical)
 
 *Scour* is a highly caustic chemical.
