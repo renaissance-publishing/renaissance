@@ -177,7 +177,6 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
 |and on and on!
 |
 
-
 ### The Certan Movement
 
 The Certan Movement is an anti-monarchist movement centered in the city of Certa.
@@ -207,7 +206,6 @@ Though the Certanis have not yet been proven responsible, they have also not bee
 |* The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
 |
 
-
 Though the Certanis are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
 Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners — can actually vote in elections for the *Chamber of Law*, or hold seats in it.
 (The *Chamber of Law* is the only house in the Republic that can actually make law; the *Chamber of the People* serves a purely advisory role.)
@@ -233,7 +231,6 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |It might even be a Tempter — or a spirit like them — seeking power for themselves.
 |
 
-
 [[gmguidance]]
 |
 |#### Defining Certa
@@ -245,7 +242,6 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |
 |Pick a Certa that fits the game you want to run!
 |
-
 
 ### The Haffa
 
@@ -271,7 +267,6 @@ The Haffa maintain their health through selective breeding, special medicines, a
 |Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
 |
 
-
 The Haffans politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
 Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
 
@@ -280,6 +275,11 @@ What followed was a time of brutal abuse, as the peasantry that lived in those h
 As their circumstances became dire, the Haffan peasantry began to revolt; between CY 811 and 814, the Eastern Kings attempted to muster an army to suppress the revolts, but Ayl Ahnaff, Kass Ahnaff's granfather and the High King at the time, refused to raise the Kingdom's army or allow the Easterners to quarter in his territory.
 This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl — the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
 The incident secured the Haffa's loyalty to the Ahnaff line for generations — as well as their deep hatred of the Eastern Kings.
+
+### The Secret Army
+
+[[hook|Secret Army Plot-Hooks]]
+|
 
 ## The Shaded Sea People
 
