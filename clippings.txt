@@ -258,3 +258,137 @@ Each Guard is headed by a March Commander; beneath each March Commander are seve
 March Commanders are typically responsible to the governments of the provinces in which they operate; because different provinces can have very different legal and governmental systems, the Guard can operate very differently in different provinces.
 Heartland Province, for example, has no significant provincial government; their Provincial Charter endows the Guard with the ability to prosecute various forms of violent crime, and specifies that they are responsible to the city-states within whose holdings they operate.
 The Dragonshire, however, has an existing civil structure, headed by Drake nobles and citizen's councils; in the Dragonshire Province, Guard units largely supplement these forces.
+
+
+
+
+
+As characters operate in the world (and especially as they complete adventures), they will gain Rez Points (RP).
+RP is usually awarded at the end of an *adventure*, and RP rewards are the primary method by which characters advance.
+Characters can spend RP to advance during down-time, using the same rules by which they spent CP during character creation, with two exceptions.
+
+First, when spending RP, the character-creation limits no longer apply, but the global limits still do.
+For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
+
+Second, the ways that characters advance needs to make sense.
+We don't have hard-and-fast rules for this, and is generally left up to the GM.
+This usually means that, in order to advance a skill, that skill should either have been used extensively in the previous adventure, or the character should spend time practicing it during down-time.
+It also means that some traits cannot be acquired during down-time, like *Congenital Defect* or *Illiterate*.
+(Of course, what "makes sense" is subjective, and special cases and unusual situations are always possible.)
+
+Second, there are some traits that it would not make sense to acquire during down-time, like *Congenital Defect* and *Illiterate*.
+(Of course, GMs may always choose to make exceptions.)
+
+We don't have specific *training requirements* for acquiring skills, traits, and other features when spending RP.
+In general, players and GMs should ensure that the ways that characters are advancing make sense.
+For example, in order to advance a skill, a player should probably either have used it extensively in the previous adventure, or devote some time to practicing it during down-time.
+
+The requirement that character advancement "makes sense" also precludes acquiring certain traits with RP, like "Congenital Defect* or *Illiterate* — although what "makes sense" and what does not is subjective, and unusual situations are always possible.
+
+See also the “Buying Off Negative Traits” optional rule.
+
+
+
+
+
+
+  - For Free:
+    
+      - 3 dots in your native language (pick an appropriate one)
+      - 1 dot in Commonwealth Standard
+      - 1 Luck
+      - up to 2 Milestones
+
+  - Pick your **Race**
+    - Races provide:
+      - Aptitude Bonuses
+      - Durability (DUR), Strength (STR) and Size
+      - Senses and movement modes
+      - other special properties
+    - Races are listed in *Races*.
+  - Choose your **Aptitudes**
+    - Each of your aptitudes begins with a rating of 15.
+    - First, add your racial Aptitude modifiers.
+    - Then, distribute +20 points between your various aptitudes.
+      - You could add 5 to SOM, 10 to WIL and 5 to COO, for example.
+    - Then, distribute -5 points between your various aptitudes.
+      - You could subtract 5 from your COO, for example.
+      - You can subtract points from one of the aptitudes that you added points to.
+  - Pick your **Background**
+    - The bonuses granted by your Background “apply” now.
+      In particular, if your background grants you ranks in a skill, then you will have those skill ranks *before* you spend CP (see below).
+    - Skill Ranks granted by your background work exactly like ranks that you paid for.
+    - So, if your background gives you 10 ranks in Barter, you can buy 20 more ranks for 20 CP (1 a piece), and then 20 more ranks for 40 CP (2 CP a piece), and be at the maximum of 50 ranks during Character Creation.
+  - Spend your **creation points (CP)**
+    - Player-characters get 800 CP
+    - Pick a wealth level; see the table.
+    - Skill Points:
+          - 1 CP → 1 point in a skill (30 or fewer skill points
+            purchased)
+          - 2 CP → 1 skill point (31<sup>st</sup> skill point and
+            there-after)
+          - Proficiency Skills: you get some proficiencies for free as
+            you purchase ranks. You get your first proficiency when you
+            purchase your 10<sup>th</sup> rank, and another proficiency
+            every 20 ranks thereafter. (So, at your 50<sup>th</sup>
+            rank, you’ll get your third free proficiency, for example.)
+
+              - So you get a free proficiency at each of the following ranks:
+              - 10 / 30 / 50 / 70
+              - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
+
+          - 5 CP → an additional proficiency
+    
+      - 5 CP → A specialization
+        
+          - you must have 10 ranks in a skill to purchase a
+            specialization for it, see *Skills*
+    
+      - 10 CP → a trait
+    
+      - 10 CP → a class
+    
+      - 10 CP → a power
+    
+      - 15 CP → +1 Luck
+    
+      - Items:
+        
+          - 1 CP → minor-cost item
+          - 5 CP → moderate-cost item
+          - 10 CP → major-cost item
+          - 20 CP → extreme-cost item
+          - We don’t track the CP cost of Trivial-cost items; most
+            useful trivial-cost items are best acquired as parts of
+            skill kits.
+          - see *Items*
+    
+      - 5 CP → a dot in a language
+
+  - Motivations
+    
+      - pick your motivations now (see *Motivations*)
+
+  - Character Creation Limits
+    
+      - no more than 50 ranks in a skill
+      - no aptitudes higher than 35 or lower than 5
+      - at least 100 CP spent on skills with the *combat* tag
+      - at least 100 CP spent on skills with the *knowledge* tag
+      - ~~at least 200 CP spent on skills that don't have the *combat* tag~~
+
+
+
+As characters operate in the world (and especially as they complete adventures), they will gain Rez Points (RP).
+RP is usually awarded at the end of an *adventure*, and RP rewards are the primary method by which characters advance.
+Characters can spend RP to advance during down-time, using the same rules by which they spent CP during character creation, with two exceptions.
+
+First, when spending RP, the character-creation limits no longer apply, but the global limits still do.
+For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
+
+Second, some traits cannot be purchased during down-time, since that wouldn't make sense; these include *Congenital Defect* and *Illiterate*.
+(Of course, GMs may always choose to make exceptions.)
+
+Note that we don't have specific *training requirements* for acquiring skills, traits, or other features when spending RP.
+
+See also the “Buying Off Negative Traits” optional rule.
