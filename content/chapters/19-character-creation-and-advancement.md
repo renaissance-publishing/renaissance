@@ -53,8 +53,6 @@ Proceed through the following steps in order:
 |One reason is that it arguably doesn't work very well in Eclipse Phase — although the reasons it doesn't work in Eclipse Phase don't really apply to us.
 |
 |The relevant reasons are, one, to keep the character creation process simple, and two, to make your race selection important (the more free-form your ability to move Aptitude points around is, the less your race's specific aptitude bonuses matter, and the more races that have lower aptitude bonuses — like Shifters — suffer in comparison to the others).
-|
-
 
   - Pick your Background
     

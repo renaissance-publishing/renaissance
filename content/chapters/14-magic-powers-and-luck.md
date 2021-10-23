@@ -134,9 +134,7 @@ Finally, some of the ideas behind the design of *classes* and *powers* can serve
 Apparently, mages and psions in the Commonwealth have developed (or can develop) the ability to throw fireballs, animate corpses, and partly transcend their mortality; mages and psions can reasonably achieve effects *like* these with time and preparation, even if they don't have those powers.
 However, there isn't a *remote viewing* or *mind control* power, and for good reason.
 
-[[gmguidance]]
-|
-|### To the Sun
+[[gmguidance | To The Sun]]
 |
 |The GM has prepared an intrigue campaign: there's a wealthy, powerful Certan who's pulling the Certan Movement closer to the Eastern Kingdoms.
 |If he where "removed," the Certans might be induced to shift their focus from the Western Kings (who are Commonwealth Allies) to the Eastern Kings (who decidedly are not).
@@ -144,26 +142,23 @@ However, there isn't a *remote viewing* or *mind control* power, and for good re
 |
 |Fire is in the party, and his player asks the GM if he can simply develop a magical spell to teleport the troublesome noble straight into the sun from here.
 |
-|The GM has a number of options, probably the best of which is to say "no."
+|While the GM has a number of options, the best one is to just say "no."
 |While there are teleporting spells, all of them have the *caster* teleport to a destination, and optionally bring something with them; *none* of them allow you to teleport something to you, and *certainly* none of them allow you to teleport an object at Remote Location A to Remote Location B.
 |So, it's reasonable to assume that no-one knows how to do that.
-|
 |(Equally, the distance from the campaign's starting-point in the Dragonshire to the target in Certa is much further than any teleporting magic besides the Kairnes has ever gone — never mind the distance to the *sun*.)
 |
-|If she wants to be a little more subtle, she might simply tell him that, yes, he can do that, but it's going to take *six months*, and the spellcraft check will be made at a -30 penalty — essentially, "sure, but the rest of the party can probably just complete the quest before you're done."
-|But, if Fire is determined to be a jerk, he can get around this by spending a Luck Point to remove the negative modifier.
-|At that point, he may as well rush the job down to six weeks — about a 75% reduction — since he's removing all his penalties anyway.
+|If she wants to be a little more subtle, she might simply tell him that, yes, he can do that, but it's going to take *six months*, and he'll need to make a spellcraft check at a -30 penalty; the rest of the party can probably just complete the quest before he's done, if he succeeds at all.
+|
+|If Fire is determined to be a jerk, he can still get around this, though; he can rush the job, reducing the timeframe by 75% (about six weeks) for a -30 penalty, and then spend a luck point to remove all the penalties for the spellcraft check.
 |
 |If the GM wants to provide a little extra discouragement, she might declare that a "numinous thread of magic" will arc from where Fire is to the Noble he's targeting, which will make it immediately obvious to Certan mages who is responsible for banishing their noble into the sky.
 |Or, if she wants to go the other way, she might declare that there's no way for Fire to prove that *he* killed the noble, and so the party won't be able to claim the purse.
 |
-|A third option is to place some restrictions on what his spell can do.
-|Sure, he can teleport the noble to his death, but not *from here*; it'll need to be applied to the target directly.
-|Essentially, Fire will have to create the spell, and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll need to sneak up to his target and physically touch them to trigger it.
+|A third, slightly more interesting option is place some restrictions on Fire's spell.
+|Sure, he can teleport the noble to his death, but not *from here*; the spell will need to be applied to the target directly.
+|Essentially, Fire will have to create the spell and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll then need to sneak up to his target and physically touch them to trigger it.
 |This way, Fire still gets his spell, but the structure of the campaign remains intact.
 |The GM can also make this trickier by declaring that the spell is visible in Mage-Sight while it's bound to Fire, which will make sneaking harder for him; she might also declare that he can't use his normal teleporting powers while carrying the spell — he'll risk destabilizing it and teleporting *himself* to his death if he does.
-|
-
 
 ## Designing and Using Powers
 
@@ -256,68 +251,53 @@ General rules for powers
       - Boon, Blessing: a power that has been granted by a Spirit,
         possibly drawing power from them or their Basin.
 
-<div class="playerguidance">
-
-### Do Spells Require Magical Crafting
-
-According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting — by gathering materials that react to magic, accumulating magical energy, and processing them.
-But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
-Shouldn't you need to perform "magical crafting" to use a spell?
-
-Simply put, that's up to the player.
-A power is something that your character has practiced until its down to wrote; presumably, you've found some way to reliably trigger your magical powers — your spells — quickly and reliably.
-How you did that is up to you.
-
-Some players might choose to include a magical apparatus or process in their powers — like Fire, for example.
-Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
-
-Other players may just want to use their powers, without needing to manipulate some kind of magical tool — Lady Katarina, for example, may simply want to use her Blurr power, without needing some special device.
-We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
-
-</div>
+[[playerguidance | Do Spells Require Magical Crafting]]
+|
+|According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting — by gathering materials that react to magic, accumulating magical energy, and processing them.
+|But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
+|Shouldn't you need to perform "magical crafting" to use a spell?
+|
+|Simply put, that's up to the player.
+|A power is something that your character has practiced until its down to rote; presumably, you've found some way to reliably trigger your magical powers — your spells — quickly and reliably.
+|How you did that is up to you.
+|
+|Some players might choose to include a magical apparatus or process in their powers — like Fire, for example.
+|Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
+|
+|Other players may just want to use their powers, without needing to manipulate some kind of magical tool — Lady Katarina, for example, may simply want to use her Blur power, without needing some special device.
+|We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
 
 ## Luck
 
-Characters (Player Characters and major NPCs) have a Luck stat, and a
-certain numbr Luck Points. All characters acquire 1 Luck for free, and
-characters can purchase more Luck during Character Creation. Luck
-represents an extra edge, an extra bit of fortune and favor that
-characters can use to make sure they get the job done despite the odds.
+Major characters — player characters and major NPCs — have a Luck stat, and a certain number Luck Points.
+Player characters acquire one luck for free, and can purchase more Luck during Character Creation.
+Luck represents an extra edge, an extra bit of fortune and favor that characters can use to make sure they get the job done despite the odds.
 
-A player’s Luck stat is the maximum number of luck points they may have
-(and the number of Luck Points they start with); the number of luck
-points they currently have will fluctuate over the course of a game.
+A player’s Luck stat is the maximum number of luck points they can have (and the number of Luck Points they start with).
+The number of luck points they currently have will fluctuate over the course of a game.
+
 Players may spend Luck Points to do the following:
 
   - After a check:
-    
-      - “Flip” a check result (i.e. replace a 94 with a 49)
-      - Upgrade the result
-
+    - “Flip” a check result (i.e. replace a 94 with a 49)
+    - Upgrade their result
   - Before a check:
-    
-      - Ignore the negative modifiers to a test
+    - Ignore the negative modifiers to a test
 
 Players have several ways to regain luck points:
 
-  - Players regain 1 luck point at the start of a session
-  - Players may be awarded 1 luck point for achieving a major success
-    that contributes to one of their motivations
-  - Players may be awarded 1 luck point for excellent roll-playing
+  - Players regain 1 luck point at the start of a *session*.
+  - Players may be awarded 1 luck point for achieving a major success that contributes to one of their *motivations*.
+  - Players may be awarded 1 luck point for excellent roleplaying.
 
-Finally, players may loose luck points for:
+Finally, players may lose luck points for:
 
   - A major failure relating to one of their motivational goals
-  - A major failure at role-playing, such as acting against a
-    character’s motivations
+  - A major failure at roleplaying, such as acting against a character’s motivations
 
-[[gmguidance]]
+[[gmguidance | How Many Luck Points Can You Spend on a Check]]
 |
-|### How many Luck Points can you spend on a check
-|
-|As far as the rules go, there is no set limit: a player could spend a point of luck to remove all penalties, then spend a luck point to flip a test from an 81 to a 18 to pass the test, and then spend a luck point again to upgrade that to an exceptional success.
+|As far as the rules go, there is no set limit: a player could spend a point of luck to remove all penalties, then spend a luck point to flip a test from an 81 to a 18, and then spend a luck point again to upgrade that result to an exceptional success.
 |
 |GMs who want a tougher game for their players — or who don’t want their players to dump Luck Points at the end of each session — may limit their use of luck, allowing only one point to be spent on a test (for example).
 |If you decide to do this, you should make this decision before an adventure starts and inform your players about it, so that they can take this into account during character creation — players may very reasonably decide to buy less Luck.
-|
-
