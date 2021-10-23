@@ -244,7 +244,7 @@ First, When spending RP, the character-creation limits no longer apply, although
 For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
 
 Second, the GM may require that a character's advancements be reflected in-game.
-For example, in order to advance a skill, the GM might require that either the skill was used extensively in the previous adventure, or that the character should spend time practicing it during down-time.
+For example, in order to advance a skill, the GM might require that either the skill be one that the character used substantially in the previous adventure, or that the character spends time practicing it during down-time.
 This would also mean that some traits cannot be acquired (without modification) during down-time, like Congenital Defect or Illiterate.
 (Of course, what "makes sense" is subjective, and special cases and unusual situations are always possible.
 These should be worked out between the player and the GM.)
