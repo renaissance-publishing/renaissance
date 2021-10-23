@@ -4,143 +4,197 @@ title: "Character Creation and Advancement"
 
 ## Character Creation
 
-Proceed through the following steps in order:
+When players create their characters, they should proceed through the following steps in order:
 
-  - For Free:
-    
-      - 3 dots in your native language (pick an appropriate one)
-      - 1 dot in Commonwealth Standard
-      - 1 Luck
-      - up to 2 Milestones
+- **Freebies**:
+  - 3 dots in your native language
+  - 1 dot in Commonwealth Standard
+  - 1 Luck
+  - up to 2 Milestones
+- Pick your **Race**
+  - Races are listed in *Races*.
+- Choose your **Aptitudes**
+  - Each of your aptitudes begins with a rating of 15.
+  - First, add your racial Aptitude modifiers.
+  - Then, distribute +20 points between your various aptitudes.
+  - Then, distribute -5 points between your various aptitudes.
+- Pick your **Background**
+  - The bonuses granted by your Background “apply” now.
+- Spend your **creation points (CP)**
+  - Player-characters get 800 CP
+  - Pick a wealth level (see table)
+  - Skill Points:
+    - 30 ranks or fewer → 1 CP
+    - 31 ranks or more  → 2 CP
+    - Proficiency Skills get free proficiencies at 10 / 30 / 50 / 70 ranks; additional proficiencies cost 5 CP
+    - Specialization: 5 CP
+  - Trait: 10 CP
+  - Class: 10 CP
+  - Power: 10 CP
+  - +1 Luck: 15 CP
+  - Items: see table
+    - 1 CP → minor-cost item
+    - 5 CP → moderate-cost item
+    - 10 CP → major-cost item
+    - 20 CP → extreme-cost item
+  - 5 CP → a dot in a language
+- Motivations
+  - see *Motivations*
 
-  - Pick your race, which will include:
-    
-      - Aptitude Bonuses
-      - Health (DUR), Strength (STR) and Size
-      - senses and movement
-      - other special properties
+Character creation limits:
 
-  - Choose your Aptitudes
-    
-      - Each of your aptitudes begins with a rating of 15.
-    
-      - Add your racial Aptitude modifiers.
-    
-      - Distribute +20 points between your various aptitudes.
-        
-          - You could add 5 to SOM, 10 to WIL and 5 to COO, for example.
-    
-      - Distribute -5 points between your various aptitudes.
-        
-          - You could subtract 5 from your COO, for example.
-          - You can subtract points from one of the aptitudes that you
-            added points to.
+- no more than 50 ranks in a skill
+- no aptitudes higher than 35 or lower than 5
+- at least 100 CP spent on skills with the *combat* tag
+- at least 100 CP spent on skills with the *knowledge* tag
+- no more than 10 Luck (global limit)
 
-[[designnote]]
-|
-|### Why Add 20 then Subtract 5
+More information is given below.
+
+### Freebies
+
+Every PC gets the following for free:
+
+- 3 dots in your native language (your choice)
+- 1 dot in Commonwealth Standard
+- 1 Luck
+- up to 2 Milestones
+
+### Picking Your Race
+
+Your character's *race* will determine a number of mechanically-important statistics about your character, including their *racial aptitude bonuses*; their *Durability* (DUR), *Strength* (STR), and size; their senses and movements; and more.
+
+Note that you're just picking what *species* your character is, not what region or culture they're from.
+You'll determine where your character is from when you pick their *Background*. 
+
+### Choosing your Aptitudes
+
+To determine your character's final *Aptitudes*:
+
+- Each of your aptitudes begins with a rating of 15.
+- First, add your *racial aptitude modifiers*.
+- Then, distribute +20 points between your various aptitudes.
+  - You could add 5 to SOM, 10 to WIL and 5 to COO, for example.
+- Then, distribute -5 points between your various aptitudes.
+  - You could subtract 5 from your COO, for example.
+  - You can subtract points from one of the aptitudes that you added points to.
+
+[[designnote | Why Add 20 then Subtract 5]]
 |
 |Why distribute +20 points to your aptitudes, then distribute -5?
 |
-|It's so you can choose to have a "dump stat" or not.
+|So you can choose to have a "dump stat" or not.
 |You can subtract 5 from an aptitude that you added 5 to, so that you will *in effect* have just distributed +15.
 |Or you can apply the -5 to an aptitude that you *didn't* boost, so you will have more boosts to your good stats at the price of having a bad stat.
+
+[[designnote | Why Not Boost Stats with CP]]
 |
-|### Why Not Boost Stats with CP
-|
-|Eclipse Phase lets you buy Apt boost with CP, why don't we?
+|Eclipse Phase lets you buy Apt boost with CP, so why don't we?
 |
 |One reason is that it arguably doesn't work very well in Eclipse Phase — although the reasons it doesn't work in Eclipse Phase don't really apply to us.
 |
 |The relevant reasons are, one, to keep the character creation process simple, and two, to make your race selection important (the more free-form your ability to move Aptitude points around is, the less your race's specific aptitude bonuses matter, and the more races that have lower aptitude bonuses — like Shifters — suffer in comparison to the others).
 
-  - Pick your Background
-    
-      - The bonuses granted by your Background “apply” now. In
-        particular, that means that, if your background grants you skill
-        ranks, then those are your first ranks in that skill — you will
-        have them before you start spending CP.
-      - Skill Ranks granted by your background work exactly like ranks
-        that you paid for.
-      - So, if your background gives you 10 ranks in Barter, you can buy
-        20 more ranks for 20 CP (1 a piece), and then 20 more ranks for
-        40 CP (2 CP a piece), and be at the maximum of 50 ranks during
-        Character Creation.
+### Picking your Background
 
-  - 800 Creation Points
-    
-      - Pick a wealth level; see the table.
-    
-      - Skill Points
-        
-          - 1 CP → 1 point in a skill (30 or fewer skill points
-            purchased)
-          - 2 CP → 1 skill point (31<sup>st</sup> skill point and
-            there-after)
-          - Proficiency Skills: you get some proficiencies for free as
-            you purchase ranks. You get your first proficiency when you
-            purchase your 10<sup>th</sup> rank, and another proficiency
-            every 20 ranks thereafter. (So, at your 50<sup>th</sup>
-            rank, you’ll get your third free proficiency, for example.)
+You gain the bonuses from your background as soon as you pick it.
+Notably, this means that, if your background grants you ranks in a skill, then you will have those skill ranks *before* you spend CP later.
+(Skill Ranks granted by your background are normal skill ranks, and work exactly like any other skill ranks.)
 
-              - So you get a free proficiency at each of the following ranks:
-              - 10 / 30 / 50 / 70
-              - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
+So, if your background gives you 10 ranks in Barter, you can buy 20 more ranks for 20 CP (1 a piece), and then 20 more ranks for 40 CP (2 CP a piece).
+Then, you would have the (character-creation) maximum of 50 ranks in that skill, for a total cost of 60 CP.
 
-          - 5 CP → an additional proficiency
-    
-      - 5 CP → A specialization
-        
-          - you must have 10 ranks in a skill to purchase a
-            specialization for it, see *Skills*
-    
-      - 10 CP → a trait
-    
-      - 10 CP → a class
-    
-      - 10 CP → a power
-    
-      - 15 CP → +1 Luck
-    
-      - Items:
-        
-          - 1 CP → minor-cost item
-          - 5 CP → moderate-cost item
-          - 10 CP → major-cost item
-          - 20 CP → extreme-cost item
-          - We don’t track the CP cost of Trivial-cost items; most
-            useful trivial-cost items are best acquired as parts of
-            skill kits.
-          - see *Items*
-    
-      - 5 CP → a dot in a language
-
-  - Motivations
-    
-      - pick your motivations now (see *Motivations*)
-
-  - Character Creation Limits
-    
-      - no more than 50 ranks in a skill
-      - no aptitudes higher than 35 or lower than 5
-      - at least 100 CP spent on skills with the *combat* tag
-      - at least 100 CP spent on skills with the *knowledge* tag
-      - ~~at least 200 CP spent on skills that don't have the *combat* tag~~
-
-Wealth Levels:
-
-|                    |      |
-| ------------------ | ---- |
-| 0 (no possessions) | \-10 |
-| 1 (peasant)        | \-5  |
-| 2 (local artisan)  | 0    |
-| 3 (merchant)       | 5    |
-| 4 (local wealthy)  | 10   |
-| 5 (noble)          | 20   |
-
-[[gmguidance]]
+[[designnote | Background Skills Apply First]]
 |
-|### Getting Gear Without Paying
+|It might seem a little odd that your background gives you *skill ranks*, and that those skill ranks apply "first."
+|Here's our reasoning:
+|
+| - If it where a *bonus* rather than *ranks*, then some backgrounds would be better than others at certain builds, in a way that you couldn't ever compensate for.
+| - If we didn't specify when the ranks "applied," then character creation would be under-specified.
+| - If the ranks applied *last*, then their impact would be variable, because they would give you either 10 CP or 20 CP of benefit based how many ranks you bought.
+
+Note that a member of any race can be from any background; a *Drake* character can be form anywhere, and you don't have to be a *Drake* or a *Human* to be from the Dragonshire.
+
+### Spending Your CP
+
+Now you'll spend your **creation points** (CP).
+Ordinarily you'll get 800 CP to spend, although GMs may sometimes have players build their characters with more or fewer CP.
+
+How you spend your CP has the largest impact on your character.
+At this stage, you'll acquire the skills, traits, classes, and more than will define your character's role and capabilities.
+
+For some people, this can be a daunting process, especially if you're new to the game.
+Unlike a class-based game, the free-form nature of the points-based "à la carte" character creation requires a very clear character concept, a good idea of the mechanical role you want them to be able to fill, and a clear plan for functioning in that role.
+In turn, this requires a fairly good understanding of how the game is going to work, which new players obviously do not have.
+Some guidance is provided in *Building Characters*, but we also recommend that you have no fear about working with your GM and the other players in your group — especially if they're more experienced.
+
+Spending CP is fairly freeform; subject to a few limits, you spend your CP however you want.
+Costs are given below:
+
+| Purchase | Cost |
+| -------- | ---- |
+| Skill Rank | 1 CP for your first 30 ranks, 2 CP for the 31st rank and after |
+| Skill Proficiency | some free with ranks; 5 PC for additional |
+| Skill Specialization | 5 CP |
+| ----- |
+| Positive Trait | 10 CP |
+| Negative Trait | -10 CP (you gain 10 CP) |
+| Neutral Trait | 0 CP |
+| Class | 10 CP |
+| Power | 10 CP |
+| ----- |
+| +1 Luck | 15 CP |
+| Language Dot | 5 CP |
+| An Item | Varies |
+
+The cost of skill ranks changes as you buy them: your first 30 cost 1 CP per rank, while from 31 on they cost 2 CP per rank.
+Combined with the free ranks from *backgrounds*, this can be a little tricky (or a little tedious), so we've provided the following table for target number-of-ranks and CP costs below.
+(Of course, you don't have to buy ranks in units of 5, and Backgrounds don't have to provide ranks in units of 10s and 20s; this is just the common case.)
+
+| Desired Total Ranks | Cost With No Free Ranks | Cost With 10 Free Ranks | Cost With 20 Free Ranks |
+| ------------------- | ----------------------- | ----------------------- | ----------------------- |
+| 5 Ranks  | 5 CP  | ×     | ×     |
+| 10 Ranks | 10 CP | 0 CP  | ×     |
+| 15 Ranks | 15 CP | 5 CP  | ×     |
+| 20 Ranks | 20 CP | 10 CP | 0 CP  |
+| 25 Ranks | 25 CP | 15 CP | 5 CP  |
+| 30 Ranks | 30 CP | 20 CP | 10 CP |
+| 35 Ranks | 40 CP | 30 CP | 20 CP |
+| 40 Ranks | 50 CP | 40 CP | 30 CP |
+| 45 Ranks | 60 CP | 50 CP | 40 CP |
+| 50 Ranks | 70 CP | 60 CP | 50 CP |
+
+You get some *proficiencies* as you purchase ranks in *proficiency skills*.
+You get a free *proficiency* at the 10th, 30th, 50th, and 70th ranks.
+(Note that you can only buy up to 50 ranks in character creation, but you can buy up to 70 when spending RP.)
+You can purchase more proficiencies for 5 CP.
+
+To purchase a *specialization*, you must have *basic proficiency* in a skill (that is, you must have 10 ranks in that skill).
+You may only purchase one specialization for any given skill.
+
+Item costs are given in the table below; note that we don't track the cost for *trivial*-category items, since those are usually best acquired as part of a *skill kit* and don't need to be tracked individually.
+
+| Cost Category | CP Cost |
+| ------------- | ------- |
+| Minor | 1 CP |
+| Moderate | 5 CP |
+| Major | 10 CP |
+| Extreme | 20 CP |
+
+While spending CP, you'll need to pick a wealth level.
+(Note that you'll only do this once; wealth isn't something you can buy over and over in this step.)
+Wealth Levels and their CP costs are given in the table below:
+
+| Wealth Level       | CP Cost |
+| ------------------ | ------- |
+| 0 (no possessions) | \-10    |
+| 1 (peasant)        | \-5     |
+| 2 (local artisan)  | 0       |
+| 3 (merchant)       | 5       |
+| 4 (local wealthy)  | 10      |
+| 5 (noble)          | 20      |
+
+[[gmguidance | Getting Gear Without Paying]]
 |
 |Consider Lady Katarina, the wealthy Ratfolk noble and crime-lord.
 |Ratfolk aren't strong or large, so she can't rely on strength in combat; instead, she uses poisons and throwables (like scour) to amplify her damage-dealing ability.
@@ -159,62 +213,52 @@ Wealth Levels:
 |Players shouldn't attempt to get *large amounts* of items this way.
 |(We are deliberately not specifying what the upper-bound for "a large amount" is; if we said that "players shouldn't get more than *k* CP of items without paying CP," then every character will be sure to find one way or another to get *k* CP of items for free.)
 |Players also usually shouldn't get expensive (or important) items this way — if a special, magical staff is central to your character concept, you can specify that you constructed it yourself, but you should still pay CP for it (since it's probably a Cost: Major item).
-|
 
+### Motivations
 
-[[clarification]]
-|
-|### Skill Cost Table
-|
-|Doing the math for purchasing skills can be frustrating.
-|Most of the time, players purchase skills in multiples of 5, and people usually get no, 10 or 20 free ranks from their backgrounds;
-|we can save players some effort by listing the CP costs for these common scenarios.
-|
-|| Ranks | No Free Ranks | 10 Free Ranks | 20 Free Ranks |
-|| ----- | ------------- | ------------- | ------------- |
-|| 5 | 5 | × | × |
-|| 10 | 10 | 0 | × |
-|| 15 | 15 | 5 | × |
-|| 20 | 20 | 10 | 0 |
-|| 25 | 25 | 15 | 5 |
-|| 30 | 30 | 20 | 10 |
-|| 35 | 40 | 30 | 20 |
-|| 40 | 50 | 40 | 30 |
-|| 45 | 60 | 50 | 40 |
-|| 50 | 70 | 60 | 50 |
-|
+Finally, pick your motivations; see *Motivations and Milestones*.
 
+### Limits
+
+Some limits apply to character creation:
+
+- no more than 50 ranks in a skill
+- no aptitude higher than 35 or lower than 5
+- at least 100 CP spent on skills with the *combat* tag
+- at least 100 CP spent on skills with the *knowledge* tag
+
+There are also a few *global* limits, defined in *Representing a Character*:
+
+- no more than 70 ranks in a skill
+- no aptitude higher than 40
+- no more than 10 Luck
+- no more than 50 DUR or STR
 
 ## Character Advancement
 
-As characters operate in the world (and especially as they complete
-adventures), they will gain Rez Points (RP); RP rewards are the primary
-method by which characters advance, and are the primary reward for most
-adventures. Characters can spend rez to advance during down-time, using
-the same rules by which they spent CP during character creation. When
-spending rez, the character-creation limits no longer apply, although
-the global limits still do.
+As characters operate in the world (and especially as they complete adventures), they will gain Rez Points (RP).
+RP is usually awarded at the end of an *adventure*, and RP rewards are the primary method by which characters advance.
+Characters can spend RP to advance during down-time, using the same rules by which they spent CP during character creation, with two exceptions.
 
-We don't have rules for training requirements, but gaining new skills
-should generally make sense. Skills and classes can be justified either
-by events during the adventure, or effort undertaken during down-time.
-You usually cannot gain new Backgrounds, and there are some Traits that
-you cannot buy with Rez (at the GM’s discretion).
+First, When spending RP, the character-creation limits no longer apply, although the global limits still do.
+For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
+
+Second, the GM may require that a character's advancements be reflected in-game.
+For example, in order to advance a skill, the GM might require that either the skill was used extensively in the previous adventure, or that the character should spend time practicing it during down-time.
+This would also mean that some traits cannot be acquired (without modification) during down-time, like Congenital Defect or Illiterate.
+(Of course, what "makes sense" is subjective, and special cases and unusual situations are always possible.
+These should be worked out between the player and the GM.)
 
 See also the “Buying Off Negative Traits” optional rule.
 
 ## Rewarding Players
 
-As a GM, how should you reward your players, and when should you give
-them their rewards?
+As a GM, how should you reward your players, and when should you give them their rewards?
 
-To take the last question first, we find that long-running games are
-usually broken into self-contained adventures, most of which take 6
-sessions, give-or-take. Loosely, we call these “chapters”. Chapters are
-usually separated by a few months of down-time, where characters can
-travel, spend rewards, and live their normal lives. The end of a chapter
-is usually the right time to hand out player rewards (of which Rez is
-often the most important).
+To take the last question first, we find that long-running games are usually broken into self-contained adventures, most of which take 6 sessions, give-or-take.
+Loosely, we call these “chapters”.
+Chapters are usually separated by a few months of down-time, where characters can travel, spend rewards, and live their normal lives.
+The end of a chapter is usually the right time to hand out player rewards (of which Rez Points are often the most important).
 
 How many rewards should you give? Unlike some other games, this has some
 dependence on the player, and generally varies based on how each player
@@ -233,7 +277,7 @@ whether they far exceeded their goal (+3), or fell well short of it
 
 We usually find that it’s a good idea to give all members of the party
 the same base rez, even if a character dies and is replaced, or a new
-player joines; this eases bookkeeping, and it helps keep the party on
+player joins; this eases bookkeeping, and it helps keep the party on
 roughly the same level of power.
 
 Individual characters can earn *bonus* rez under certain circumstances,
@@ -268,7 +312,7 @@ sense, as a reward that even a poor manor might be able to provide, and
 it gives players a fair degree of freedom in what form their reward
 finally takes.
 
-Magic items make particularly *bad* rewards in *Renaissance—*which might
+Magic items make particularly *bad* rewards in *Renaissance* — which might
 require some adjustment for people coming from other game systems. In
 *Renaissance*, gear is a *small* part of what defines a character, and
 in particular gear is not designed to advance in power or straddle very
