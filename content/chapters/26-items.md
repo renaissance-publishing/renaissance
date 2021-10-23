@@ -3,13 +3,12 @@ title: "Items"
 ---
 
 Here we list a number of *items* that your character may have.
-Some of these items are common, like tool kits or work animals;
-others are rare or unique.
+Some of these items are common, like tool kits or work animals; others are rare or unique.
 This list is *by no means* exhaustive; GMs and players may of course find countless other diverse items for sale in the Commonwealth's shops, carried by travelers from the Kingdoms of Men or littered on the shores of distant islands.
 
 Note that we also list *services* here, since *services* are acquired using the same rules (and fall into the same cost categories, see below).
 
-Items are broken into five categories: *trivial, minor, moderate, major,* and *extreme*; these categories are described in their own sections below.
+Items are broken into five categories, called *cost categories*: *trivial, minor, moderate, major,* and *extreme*; these categories are described in their own sections below.
 This determines their cost both at character creation (see *Character Creation*) and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
 These categories represent each item's cost, but they also correspond loosely with how *important* we expect each item to be in defining a given character; "how important is this purchase" is a useful guideline for GMs assigning costs to items that are not listed.
 
@@ -26,7 +25,6 @@ These categories represent each item's cost, but they also correspond loosely wi
 |We recommend that you don't worry about the difference between the price of a *tent* and the price of a *meal*.
 |In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game — and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
 |(See also *Wealth, Income and Lifestyles*.)
-
 
 The mages and artisans of the Commonwealth have a serviceable command of
 magic; while magical items tend to be rarer and more expensive than
