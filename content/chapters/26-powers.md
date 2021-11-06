@@ -12,9 +12,7 @@ Instead, think of powers more like specific "tricks" that you've drilled to wrot
 Powers have requirements, like classes and some traits do.
 Since powers are actions, they will also list the *type* of action that they require.
 
-[[gmguidance]]
-|
-|### What Makes a Good Power
+[[gmguidance|What Makes a Good Power]]
 |
 |Powers are probably the hardest to design and balance of all the features in this chapter!
 |
@@ -39,12 +37,8 @@ Since powers are actions, they will also list the *type* of action that they req
 |- An "impulse healing" power, because it eclipses the capabilites of the regrowth power, removes the need for the Medicine skill, and radically upsets the design of the game (since healing is *intended* to be very difficult).
 |- Any powers that give a flat melee damage bonus, because they wreck up the intended game balance, and have the potential to launch an arms race (requiring the GM to start escalating enemy health and armor numbers, which requires the rest of the party to start boosting their own damage to keep up).  However, powers that give "on use" damage bonuses, require reloads or impose other penalties can be acceptable.
 |- Powers that represent combat maneuvers that any trained fighter would know how to do; if you have 50 ranks in Unarmed Combat, then you're a master martial artist, and you don't need to purchase powers to represent things any martial artist would know how to do.  (This point is particularly tricky, and resolving some confusion around it is why the Strikes where added to the combat rules.)
-|
 
-
-[[gmguidance]]
-|
-|### Vancian Casting, and Why You Shouldn't Use It
+[[gmguidance|Vancian Casting, and Why You Shouldn't Use It]]
 |
 |Many of the above rules come from an attempt to "balance" Powers, especially supernatural powers, against the capabilities of other characters, on an action-by-action basis.
 |Essentially, these powers can't be too extraordinary, in part because there's no limit to how many times you can use them.
@@ -59,12 +53,8 @@ Since powers are actions, they will also list the *type* of action that they req
 |In order for the "vancian-magic-versus-steady-martial" balance to work out, a certain average number of "encounters per day" must be maintained:
 |if there are too few encounters, then the Vancian characters just get to be strictly more powerful than everyone else, because they never get run out of uses of their amazing superpowers; if there are too many, then the Vancian characters get hosed.
 |(In practice, the first problem is far more common than the second — especially since Vancian players will often choose to spuriously halt progress mid-adventure to rest, so that their Vancian powers can recharge.)
-|
 
-
-[[gmguidance]]
-|
-|### Sacrificial Magic, and Why It Might Be Ok
+[[gmguidance|Sacrificial Magic, and Why It Might Be Ok]]
 |
 |Another common avenue for giving players access to more powerful magical abilities is to attach a *price* to their use; we'll call this "sacrificial magic."
 |For example, characters might be required to take 1d10 DV to activate a power, or might be required to roll Control or risk a "blowback effect."
@@ -74,12 +64,8 @@ Since powers are actions, they will also list the *type* of action that they req
 |However, if carefully constructed and judiciously deployed, they can be a workable and even interesting addition to a game — and in particular, they aren't subject to the "8 hour rest mid-dungeon" phenomenon that Vancian powers are.
 |
 |So, can sacrificial magic make a good addition to your game?  Our answer is, "yes, but be careful with it."
-|
 
-
-[[gmguidance]]
-|
-|### Tweaking Powers
+[[gmguidance|Tweaking Powers]]
 |
 |Much as you and your players should feel free to create entirely new powers, you should also feel free to tweak, adjust and modify the existing powers.
 |
@@ -87,8 +73,6 @@ Since powers are actions, they will also list the *type* of action that they req
 |Some adjustments might be necessary: the iceball power can't set things on fire, but maybe it gains more AP when it explodes, representing the icy shrapnel; the *ball lightening* might do less damage, but have a chance to stun people, or it might bounce and surge around on its own (the way real ball lightening does).
 |
 |Of course, a player who wants an *ice attack* power doesn't *have to* create it by modifying the Fireball power; with your approval, they could make their own *ice blast* or *ice javelin* power — or whatever else they want.
-|
-
 
   - Fireball: You can manifest a fireball in your hand.
     
