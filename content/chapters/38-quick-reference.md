@@ -54,7 +54,7 @@ If that happens, the *actual rules text* applies.
 
 ## Basic Proficiency
 
-  - A character with 10 or more ranks in a skill has *basic proficiency* in that skill.
+- A character with 10 or more ranks in a skill has *basic proficiency* in that skill.
 
 ## Combat
 
