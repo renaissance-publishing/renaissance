@@ -70,10 +70,10 @@ Bargaining with spirits is the *most powerful* form of magic available, especial
 (See *The Supernatural* for more information.)
 
 More than designing a spell or meditating, striking a bargain with a spirit is best handled “cinematically.”
-A well-struck bargain can change the course of an adventure, but it’s also an intense encounter with a very powerful and (possibly) very alien being, and no two such encounters are alike.
+A well-struck bargain can change the course of an adventure, but it’s also an intense encounter with a very powerful and (possibly) very alien being; no two such encounters are alike.
 
 Bargains with spirits are frequently local: different areas have different spirits, so any deal struck will depend on the spirits in an area that can be bargained with, and what boons they have to offer.
-(Remember that spirits have a hierarchy: the spirits whose basin is a local glade might be relatively easy to bargain with, but also not very powerful; a spirit whose basin is an entire mountain might be extraordinarily powerful, but also almost impossible to bend to mortal wishes, or even to contact.)
+(Remember that spirits have a hierarchy: the spirits whose basin is a local glade might be relatively easy to bargain with, but also not very powerful; a spirit whose basin is an entire mountain might be extraordinarily powerful, but also almost impossible to bargain with, or even to contact.)
 
 Dealing with a spirit generally uses the following procedure:
 
