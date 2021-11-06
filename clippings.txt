@@ -392,3 +392,14 @@ Second, some traits cannot be purchased during down-time, since that wouldn't ma
 Note that we don't have specific *training requirements* for acquiring skills, traits, or other features when spending RP.
 
 See also the “Buying Off Negative Traits” optional rule.
+
+
+
+
+Powers represent some action that you can perform: this might be a sleight that increases your armor, a spell that allows you to shield yourself with ice, or a boon bestowed on you by a spirit that allows you to strike fear into their enemies.
+(Or, equally, an impressive but mundane ability, like a particular acrobatic maneuver or difficult strike with a weapon.)
+Classes can be used to represent magical effects that aren’t actions.
+The Corpse-Herd class is an example of this: it represents the magical ability to build a corpse-minion that will serve you, but it’s presented as a class rather than a power because presumably you’ll only build your minion occasionally (unless you get your corpse minion killed a lot).
+Finally, items are useful to represent magical devices that you’ve created — like a bow that fires bolts of fire.
+
+Classes, Powers, and Items are described in their own chapters.
