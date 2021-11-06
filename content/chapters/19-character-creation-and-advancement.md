@@ -38,7 +38,7 @@ When players create their characters, they should proceed through the following 
     - 10 CP → major-cost item
     - 20 CP → extreme-cost item
   - 5 CP → a dot in a language
-- Motivations
+- Pick your **motivations**
   - see *Motivations*
 
 Character creation limits:
