@@ -9,9 +9,7 @@ As such, they usually grant you either access to some group's resources, or to s
 
 In practice, though, classes can become something of a catch-all — a very diverse type of feature that represents things that are not innate properties (like traits) or discrete actions (like powers).
 
-[[gmguidance]]
-|
-|### What Makes a Good Class
+[[gmguidance|What Makes a Good Class]]
 |
 |Much as with traits, what makes a good class is highly subjective — and classes are even more tricky, since they are so variable.
 |As with traits, it's a good idea to understand what the difference between a trait, a class and a power is, and to understand the general guidelines for creating new content.
@@ -22,8 +20,6 @@ In practice, though, classes can become something of a catch-all — a very dive
 |
 |Unlike traits, Classes commonly have requirements: 20 ranks in skills is often a good requirement for a "basic" class (a class that doesn't require any other feature).
 |"Advanced" classes (classes that require other features) can have higher skill requirements (although they don't have to).
-|
-
 
   - Artisan of the Dead
     
