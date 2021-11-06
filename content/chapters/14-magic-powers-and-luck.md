@@ -1,25 +1,37 @@
 ---
-title: "Cheating Reality: Magic, Powers and Luck"
+title: "Cheating Reality: Magic, Powers, and Luck"
 ---
 
 ## Using Magic
 
-In general, characters in Renaissance will represent their magical abilities with either *powers*, *classes*, or *items*.
-Powers represent some action that you can perform: this might be a sleight that increases your armor, a spell that allows you to shield yourself with ice, or a boon bestowed on you by a spirit that allows you to strike fear into their enemies.
- Classes can be used to represent magical effects that aren’t actions.
- The Corpse-Herd class is an example of this: it represents the magical ability to build a corpse-minion that will serve you, but it’s presented as a class rather than a power because presumably you’ll only build your minion occasionally (unless you get your corpse minion killed a lot).
-Finally, items are useful to represent magical devices that you’ve created — like a bow that fires bolts of fire.
+Renaissance's concept of magic is somewhat open-ended and powerful — although it also has the downside that some parts of it require GM mediation.
 
-Classes and Powers are described in *Backgrounds, Traits, Classes and Powers*, and some sample potions and magical items are described in *Items*.
+In general, characters in Renaissance will represent their magical abilities with either *powers*, *classes*, or magical *items*.
+(Of course, powers, classes, and items can also represent non-magical abilities and affects as well.)
+Powers, classes, and items are described more in their own sections.
+Notably, the lists of each are deliberately incomplete; the intent is that it should be relatively easy for Players and GMs to come up with their own magical items and abilities, using the provided ones as guides.
+
+It's also possible for mages, psions, and priests to draw on their skills and knowledge to create a wide variety of magical effects.
+This system is deliberately open-ended, with some guidance provided below.
+
+[[designnote | Open-Ended Magic]]
+|
+|The extreme open-endedness of the magic system is one constant sticking-point, with both players and GMs being frustrated at the lack of concrete guidance about what they *can* and *cannot* do.
+|
+|The thinking is that it is essentially impossible to create a system that could capture everything that a player (or NPC) might reasonably be able to do with magic, while being concise enough for people to actually use.
+|(One can think of any number of examples of systems in RPGs that are so exhaustive that no player is willing to actually read through them, with the end results that GMs simply run them off of an ad-hoc expectation about the kinds of things that are supposed to happen.)
+|Therefore, it is best to simply design with the intent that GMs and players make ad-hoc decisions from the start.
+|
+|The significant problem with this are the times that both GMs and players are surprised by things that players may reasonably try to do, or that GMs expect them to do.
 
 ## Creating Magical Effects
 
-In much the same way that a skilled blacksmith can crate a wide variety of useful metal items, skilled mages, psions and alchemysts are not limited to only the powers and classes they have directly purchased, but can, with research and time, produce a wide variety of useful magical effects.
+In much the same way that a skilled blacksmith can crate a wide variety of useful metal items, skilled mages, psions and alchemists are not limited to only the powers and classes they have directly purchased, but can, with research and time, produce a wide variety of useful magical effects.
 This process works somewhat like "crafting" an item; it usually requires a Task Action or Job, and an appropriate skill check (typically spellcraft for mages, control for psions, and Craft: Alchemy for alchemists).
 Unlike powers and classes, effects produced by "crafting" in this way are usually "one off" events — magic is gathered, an effect is produced, and then it's over.
 (If you want a persistent or reusable effect, you should purchase a class or power during character-creation or down-time.)
 
-### Examples
+### Mages
 
 Mages can produce a wide variety of useful effects, called spells.
 They usually do this by acquiring texts describing the manipulation of magic, researching and planning, preparing reagents, and ultimately casting their spell.
@@ -37,6 +49,8 @@ For example:
 - With a few days of work, a mage might raise a magical shield over a house, or blight a field.
 - With weeks or months of works, mages might render a tower nearly indestructible, unleash a plague on a city, or construct a permanent bridge of light.
 
+### Psions
+
 Psions can create magical affects (called sleights) by using meditation, focus and discipline to manipulate their own innate magical energy.
 *Sleights* often alter the body or mind of the psion, sometimes in profound ways; sleights might allow a psion to heal rapidly, ignore the effects of poison, to heal their minds, or to sustain themselves without food.
 Psions rarely have need of external tools and reagents; instead, they develop sleights purely by mental discipline and practice.
@@ -47,69 +61,35 @@ For example:
 - With a few days of meditation and quiet contemplation, a psion could render themselves nearly immune to damage (as long as they can sustain the trance), cast their mind far from their bodies, or heal their wounded psyches (regaining some stress and trauma much like the rules for first aide).
 - With weeks or months of quiet contemplation and meditation, psions could make themselves younger, regrow limbs, modify their physical forms (growing a carapace, adding limbs), or probe the minds of distant enemies.
 
-  - Priests
-    
-      - Priests can strike deals with spirits. Spirits are powerful, but
-        also mysterious and mercurial: this makes this form of magic
-        both incredibly powerful, but also incredibly complex and
-        dangerous.
-        
-          - Bargaining with spirits is the *most powerful* form of magic
-            available, especially if a suitably powerful spirit is
-            contacted; however, it is also the most difficult and
-            dangerous. See *Spirits* and the sections that follow it for
-            more information.
-          - More than designing a spell or meditating, striking a
-            bargain with a spirit is best handled “cinematically.” A
-            well-struck bargain can change the course of an adventure,
-            but it’s also an intense encounter with a very powerful and
-            (possibly) very alien being, and no two such encounters are
-            alike.
-          - Bargains with spirits are frequently local: different areas
-            have different spirits, so any deal struck will depend on
-            the spirits in an area that can be bargained with, and what
-            abilities they have to offer. (Remember that spirits have a
-            hierarchy: the spirits whose basin is a local glade might be
-            relatively easy to bargain with, but also not very powerful;
-            a spirit whose basin is an entire mountain might be
-            extraordinarily powerful, but also almost impossible to bend
-            to mortal wishes, or even to contact.)
-    
-      - Dealing with a spirit generally uses the following procedure:
-        
-          - Research Local Spirits
-            
-              - if you aren’t a priest in the area, you probably don’t
-                know how the local spirits operate; even if you are,
-                checking the library for any “gotchase” is wise.
-              - Pay special attention to any binds that the spirits may
-                have; messing up a bind with an uncooperative spirit
-                might kill you\!
-              - Normally an 8 hour Task Action, requiring a Research
-                check, with Knowledge: Theology, Profession: Priest or
-                similar as a related skill.
-        
-          - Design the Ritual
-            
-              - Normally a 4 hour Task Action, requiring a Profession:
-                Priest or similar check.
-              - Knowledge: Theology is a related skill, and an
-                Exceptional or Critical Success on your Research test
-                may help.
-        
-          - Perform the Ritual
-            
-              - a one hour Task Action, requiring a Profession: Priest
-                or similar check.
-        
-          - Bargain with the Spirit
-            
-              - Once summoned — assuming it was summoned correctly — you can
-                now bargain with the spirit. This is done in-character,
-                using your social skills.
-              - Rituals don’t have error messages; it’s possible that
-                things can go completely wrong in ways that might not be
-                obvious.
+### Priests
+
+Priests deal with power spirits, making offerings and performing complex rituals to earn their favor, but also risking their wrath.
+Spirits are powerful, but many are also mysterious and mercurial: this makes the magic available to priests both incredibly power and incredibly dangerous.
+
+Bargaining with spirits is the *most powerful* form of magic available, especially if a suitably powerful spirit is contacted; however, it is also the most difficult and dangerous.
+(See *The Supernatural* for more information.)
+
+More than designing a spell or meditating, striking a bargain with a spirit is best handled “cinematically.”
+A well-struck bargain can change the course of an adventure, but it’s also an intense encounter with a very powerful and (possibly) very alien being, and no two such encounters are alike.
+
+Bargains with spirits are frequently local: different areas have different spirits, so any deal struck will depend on the spirits in an area that can be bargained with, and what boons they have to offer.
+(Remember that spirits have a hierarchy: the spirits whose basin is a local glade might be relatively easy to bargain with, but also not very powerful; a spirit whose basin is an entire mountain might be extraordinarily powerful, but also almost impossible to bend to mortal wishes, or even to contact.)
+
+Dealing with a spirit generally uses the following procedure:
+
+- Research Local Spirits
+  - if you aren’t a priest in the area, you probably don’t know how the local spirits operate; even if you are, checking the library for any “gotchase” is wise.
+  - Pay special attention to any binds that the spirits may have; messing up a bind with an uncooperative spirit might kill you\!
+  - Normally an 8 hour Task Action, requiring a Research check, with Knowledge: Theology, Profession: Priest or similar as a related skill.
+- Design the Ritual
+  - Normally a 4 hour Task Action, requiring a Profession: Priest or similar check.
+  - Knowledge: Theology is a related skill, and an Exceptional or Critical Success on your Research test may help.
+- Perform the Ritual
+  - a one hour Task Action, requiring a Profession: Priest or similar check.
+- Bargain with the Spirit
+  - Once summoned — assuming it was summoned correctly — you can now bargain with the spirit.
+    This is done in-character, using your social skills.
+  - Rituals don’t have error messages; it’s possible that things can go completely wrong in ways that might not be obvious.
 
 ### Limiting Magic
 
