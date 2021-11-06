@@ -4,7 +4,7 @@ title: "Backgrounds"
 
 ## Backgrounds
 
-Your *Background* represents what you have gained from your early life experiences — from the influences your culture had on you, from growing up wherever you grew up.
+Your *Background* represents what you have gained from your early life experiences — the influences your culture had on you, from growing up wherever you grew up.
 
 Note that the list of backgrounds presented here is far from exhaustive: these are merely the most common and general backgrounds, capable of representing most common cultures and backgrounds in the Commonwealth.
 Players and GMs should feel free to modify these backgrounds to represent a character's unique origins (players require their GM's approval, of course).
@@ -14,9 +14,7 @@ Note also that none of these backgrounds should be taken to be exclusive to a gi
 It's entirely possible for a Human to grow up in a trival society, or a Shifter to grow up in one of the Commonwealth's large cities.
 Note that this is even true of the optional racial backgrounds presented in the *Races* section: it's entirely possible for a Human to grow up among Gnolls and Halflings in a trade-caravan, for example, or for a Gnoll to grow up in an Ash-Elven undercity.
 
-[[gmguidance]]
-|
-|### What should be in a background
+[[gmguidance | What should be in a background]]
 |
 |Most of the backgrounds give you 40CP of benefits, which represent the skills and resources that most members of your culture acquire.
 |
@@ -26,8 +24,6 @@ Note that this is even true of the optional racial backgrounds presented in the 
 |
 |Backgrounds *usually* shouldn't include things that it's impossible to acquire somewhere else, although this is mostly for "game design and balance" reasons; we find it very frustrating to force people into taking a particular background in order to have access to some trait or skill.
 |(This is why most of the Optional Racial Backgrounds give you some of the other Optional traits for that race, which you can in principle purchase separately.)
-|
-
 
 #### Dragonshire
 
