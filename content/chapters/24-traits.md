@@ -2,22 +2,6 @@
 title: "Traits"
 ---
 
-[[designnote]]
-|
-|The exact boundary between a Trait (covered in this chapter), a Class and a Power (in the following chapters) might be confusing.
-|In general:
-|
-|- A **trait** represents an *innate* property that your character has, like being particularly brave or having unusually fast reflexes. Importantly, traits aren't actions (like powers), and traits usually aren't acquired through experience (like classes).
-|- A **power** represents a unique ability that your character can perform.  Powers usually *are* discrete actions (even a sustained action is still an action that you're consciously performing at some times and not others).  Also, powers often *are* learned: they often represent a "trick" that your character has drilled to perfection, possibly with the aid of magical preparation or mundane set-up.
-|- **Classes** are a little more variable.  Classes often represent an *experience* that you have had.
-|  - Very often, they represent a membership you have (or have had) in some organization — which might have given you some special training, or might give you access to their resources.  These Classes commonly take two forms: they either let you "break the rules" in some interesting way (like the *Channeler*) or they give you access to an organization's resources (like *Guild Member*).
-|  - More rarely, Classes can give a character a "feature".  *Corpse-Herder* and *Familiar-Bound Mage* are examples.  Both conceptually and mechanically, these are a little awkward: they're classes essentially because they're not *traits* (since they're not innate), and they're not *powers* (because they aren't discrete actions—"having a magical pet" isn't really an action that you perform).  They're closest to an experience that you've had — the experience of "having made a magical companion."
-|
-|A final note on classes: we've tried to avoid adding things that *should be* traits or *should be* powers as part of what you get from a class; we much prefer that the trait or class be a separate thing — one that has the given class as a prerequisite.
-|(Every attendant at a given shrine might have a certain power, for example, but it's preferable to list the power separately from the shrine-attendant class.)
-|
-
-
 ## Traits
 
 Traits represent special properties about your character — good, neutral and bad.
@@ -26,9 +10,7 @@ All these things are Traits.
 
 Traits are most commonly acquired by buying them with CP during character creation; sometimes, they can be acquired during character advancement, or awarded during an adventure.
 
-[[gmguidance]]
-|
-|### What Makes a Good Trait
+[[gmguidance|What Makes a Good Trait]]
 |
 |Designing a good trait is tricky.
 |They're not like Backgrounds, which (for the most part) include a number of benefits equal to a fixed cost in CP.
@@ -36,8 +18,6 @@ Traits are most commonly acquired by buying them with CP during character creati
 |
 |It's important to understand the difference between what should be a class, a trait, and a power, and it's important to heed the general advice for designing new elements (avoid something that completely eclipses other options, that negates the need for a skill, or that trivializes a role).
 |After that, your best bet is to compare your new trait to the ones that already exist; in particular, make sure that it's different enough from the traits that already exist (otherwise it probably isn't worth the effort), and that it's not wildly more or less powerful (or valuable, in CP terms) than the other options.
-|
-
 
 ### Positive Traits
 
