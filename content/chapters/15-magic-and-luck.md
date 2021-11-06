@@ -1,18 +1,16 @@
 ---
-title: "Cheating Reality: Magic, Powers, and Luck"
+title: "Cheating Reality: Representing and Using Magic"
 ---
 
 ## Using Magic
 
 Renaissance's concept of magic is somewhat open-ended and powerful — although it also has the downside that some parts of it require GM mediation.
 
-In general, characters in Renaissance will represent their magical abilities with either *powers*, *classes*, or magical *items*.
-(Of course, powers, classes, and items can also represent non-magical abilities and affects as well.)
-Powers, classes, and items are described more in their own sections.
-Notably, the lists of each are deliberately incomplete; the intent is that it should be relatively easy for Players and GMs to come up with their own magical items and abilities, using the provided ones as guides.
+In general, characters in Renaissance will represent their magical abilities with either *powers*, *classes*, or magical *items*; these have the advantage of having concise, clear rules that the playres and the GM agree on beforehand.
 
 It's also possible for mages, psions, and priests to draw on their skills and knowledge to create a wide variety of magical effects.
-This system is deliberately open-ended, with some guidance provided below.
+Mechanically, this works something like crafting an item: magic-users spend time manipulating magic, must succeed on a check of some kind, and create a magical item or effect.
+This system is deliberately open-ended, however, which makes it somewhat challenging to work with, for both players and GMs; some examples and guidance are provided below.
 
 [[designnote | Open-Ended Magic]]
 |
@@ -23,6 +21,30 @@ This system is deliberately open-ended, with some guidance provided below.
 |Therefore, it is best to simply design with the intent that GMs and players make ad-hoc decisions from the start.
 |
 |The significant problem with this are the times that both GMs and players are surprised by things that players may reasonably try to do, or that GMs expect them to do.
+
+## Representing Magic the Easy Way: Items, Powers, and Classes
+
+The easiest way to represent a character's magical abilities are with *items*, *powers*, *classes*, and other special abilities.
+These methods for representing magic have precise rules that the character and GM agree on before-hand.
+They have their own sections elsewhere, which include lists of examples.
+
+[[playerguidance | Do Spells Require Magical Crafting]]
+|
+|According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting — by gathering materials that react to magic, accumulating magical energy, and processing them.
+|But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
+|Shouldn't you need to perform "magical crafting" to use a spell?
+|
+|Simply put, that's up to the player.
+|A power is something that your character has practiced until its down to rote; presumably, you've found some way to reliably trigger your magical powers — your spells — quickly and reliably.
+|How you did that is up to you.
+|
+|Some players might choose to include a magical apparatus or process in their powers — like Fire, for example.
+|Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
+|
+|Other players may just want to use their powers, without needing to manipulate some kind of magical tool — Lady Katarina, for example, may simply want to use her Blur power, without needing some special device.
+|We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
+
+Of course, items, powers, and classes are used to represent remarkable abilities from other sources as well; a combat-specialist could represent a sword-maneuver they've mastered with a power, for example.
 
 ## Creating Magical Effects
 
@@ -139,113 +161,6 @@ However, there isn't a *remote viewing* or *mind control* power, and for good re
 |Essentially, Fire will have to create the spell and then bind it to himself, so that he carries the magical energy around in a suspended state; he'll then need to sneak up to his target and physically touch them to trigger it.
 |This way, Fire still gets his spell, but the structure of the campaign remains intact.
 |The GM can also make this trickier by declaring that the spell is visible in Mage-Sight while it's bound to Fire, which will make sneaking harder for him; she might also declare that he can't use his normal teleporting powers while carrying the spell — he'll risk destabilizing it and teleporting *himself* to his death if he does.
-
-## Designing and Using Powers
-
-General rules for powers
-
-  - Powers represent some interesting *ability* that a character has.
-    They can represent magical powers, unique physical abilities,
-    martial maneuvers, or other abilities.
-
-  - Powers usually either
-    
-      - represent an action (in which case they’ll say what type of
-        action they require to perform, and how to resolve them), or
-      - modify other powers.
-
-  - Powers can be taken from the example list, but players can also
-    develop their own. GMs must approve powers developed by players;
-    this process usually takes the form of a conversation between the GM
-    and the player, trying to achieve the effect that the player wants
-    in a way that is reasonable and that works within the rules of the
-    game.
-
-  - Here are some good guidelines to follow for designing powers:
-    
-      - Powers should usually be D10 based; this is a D% system, and
-        players are likely to have D10s handy.
-    
-      - Powers should either require ranks in a Skill, or be linked to
-        some other power that requires ranks in a Skill, or both.
-    
-      - In general, when a power adversely affects another character, an
-        opposed check should be made. Usually only one check should be
-        called for; more than one is unfair to the attacker, fewer than
-        one is unfair to the defender.
-        
-          - Note that the “opposed check” doesn’t have to be the skill
-            that the power is linked to. The “opposed check” for
-            Fireball, for example, is the Thrown Weapon attack to hit a
-            target with it.
-    
-      - Since characters will get few powers (compared to D\&D, for
-        example), each power should be *versatile*. Clever players
-        should be able to find a number of uses for their powers.
-    
-      - Conversely, to keep things interesting and to give other
-        characters a chance to contribute, each power should have
-        situations where it clearly *does not* apply.
-    
-      - Powers can build on one another; if you’re having trouble
-        building a power, it might help to split it into two powers in a
-        sequence.
-    
-      - Powers should not negate the need for a given skill; for
-        example, a “tongues” power is a bad idea, because it sidesteps
-        the ‘languages system’ and removes any incentive players might
-        have to learn other languages.
-        
-          - This is why fireball is treated as a normal held object, so
-            the Ranged Weapons skill (with a Thrown proficiency) is
-            required to make best us of it.
-          - it’s also why we have Blur and not Invisibility; to use Blur
-            effectively, you still need ranks in Stealth.
-    
-      - Avoid Powers (especially maneuvers) that represent things that
-        any expert should be able to do. Remember that a character with
-        40 ranks in One-Handed Weapons is a master swordsman; they
-        shouldn’t need to purchase any specific powers to do things that
-        any skilled swordsman would be able to do.
-    
-      - Avoid Powers that would be “mandatory” for any given character
-        design. There shouldn’t be a power that every social character
-        needs to take to be functional, for example.
-    
-      - A “full invisibility” power is a real bad idea.
-    
-      - Also avoid D\&D-style instant heals; healing is supposed to be
-        difficult, and wounds sustained in combat are supposed to have a
-        real impact (for the rest of the combat at least, and preferably
-        into at least the next scene).
-
-  - Some useful definitions:
-    
-      - Spell: a power that requires ranks in the Spellcraft skill;
-        assumed to draw power from ambient magical energies.
-      - Sleight: a power that requires ranks in the Control skill;
-        assumed to draw power from personal magical energies.
-      - Maneuver: a power that requires ranks in a Combat skill; a
-        combat maneuver achieved by great skill, without the aid of
-        magic (unless it’s also a spell, sleight or boon)
-      - Boon, Blessing: a power that has been granted by a Spirit,
-        possibly drawing power from them or their Basin.
-
-[[playerguidance | Do Spells Require Magical Crafting]]
-|
-|According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting — by gathering materials that react to magic, accumulating magical energy, and processing them.
-|But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
-|Shouldn't you need to perform "magical crafting" to use a spell?
-|
-|Simply put, that's up to the player.
-|A power is something that your character has practiced until its down to rote; presumably, you've found some way to reliably trigger your magical powers — your spells — quickly and reliably.
-|How you did that is up to you.
-|
-|Some players might choose to include a magical apparatus or process in their powers — like Fire, for example.
-|Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
-|
-|Other players may just want to use their powers, without needing to manipulate some kind of magical tool — Lady Katarina, for example, may simply want to use her Blur power, without needing some special device.
-|We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
 
 ## Luck
 
