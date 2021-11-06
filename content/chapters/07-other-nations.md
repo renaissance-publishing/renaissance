@@ -175,7 +175,6 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
 |* break up powerful alliances,
 |
 |and on and on!
-|
 
 ### The Certan Movement
 
@@ -194,9 +193,7 @@ The Certa are not a peaceful movement; not all of the nobles that they have disp
 Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances — and others have obviously been assassinated.
 Though the Certanis have not yet been proven responsible, they have also not been particularly subtle — particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
 
-[[hook]]
-|
-|#### Plot Hook: Certa
+[[hook | Plot Hook: Certa]]
 |
 |The Certanis are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
 |
@@ -204,19 +201,16 @@ Though the Certanis have not yet been proven responsible, they have also not bee
 |* A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
 |* The Certans are a recent movement; the party may simply be dispatched to investigate them — to decide if they're a potential ally or a potential threat.
 |* The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
-|
 
 Though the Certanis are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
 Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners — can actually vote in elections for the *Chamber of Law*, or hold seats in it.
 (The *Chamber of Law* is the only house in the Republic that can actually make law; the *Chamber of the People* serves a purely advisory role.)
 
-The Certanis consider themselves natural allies to the Commonwealth — their movement was inspired by their powerful, peaceful and mercantile neighbor.
+The Certanis consider themselves natural allies to the Commonwealth — after all, their movement was inspired by the Kingdoms' powerful, peaceful, and mercantile neighbor.
 Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certanis; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certanis and the Commonwealth somewhat fraught.
 What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility — even if they have largely surrendered power to representative governments.
 
-[[hook]]
-|
-|#### Plot Hook: Certa's Secret Loyalties
+[[hook | Plot Hook: Certa's Secret Loyalties]]
 |
 |Why *have* the Kings of the West been the Certani's main victims?
 |Certainly one possibility is that they're weaker.
@@ -229,11 +223,8 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
 |It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
 |It might even be a Tempter — or a spirit like them — seeking power for themselves.
-|
 
-[[gmguidance]]
-|
-|#### Defining Certa
+[[gmguidance | Defining Certa]]
 |
 |GMs have a fair amount of leeway in how they depict Certa.
 |
@@ -241,7 +232,6 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |Or they might be a major positive step for the Empire, despite their flaws — a sincere republican movement that heralds the breaking up of royal power.
 |
 |Pick a Certa that fits the game you want to run!
-|
 
 ### The Haffa
 
@@ -256,16 +246,13 @@ The Haffa are one of only two stable, healthy and fertile populations of Elf-Hum
 The Haffa maintain their health through selective breeding, special medicines, and magical intervention — the exact nature of which is not widely known outside of the Haffa royal line.
 (Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world — they are certainly among the best in the Kingdoms.)
 
-[[hook]]
-|
-|#### Plot Hook: The Secrets of the Haffa
+[[hook | Plot Hook: The Secrets of the Haffa]]
 |
 |The (secret) magical intervention that the Haffa use to ensure their health is an obvious plot hook.
 |What is it?
 |Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
 |What spirit was it struck with, and what cost was demanded?
 |Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
-|
 
 The Haffans politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
 Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
@@ -280,6 +267,94 @@ The incident secured the Haffa's loyalty to the Ahnaff line for generations — 
 
 [[hook|Secret Army Plot-Hooks]]
 |
+
+### Major Character: Kass Ahnaff, High King
+
+Kass Ahnaff is the current High King.
+He has ties of business and noble bond throughout the Dragonshire, and trade with the Commonwealth has made him wealthy.
+He supports a closer alliance with the Commonwealth, even to the point of allowing non-Humans to purchase land and do business in the Kingdoms (he might say that it certainly doesn't seem to have hurt the Commonwealth much).
+
+Unsurprisingly, the Commonwealth Council would much rather see Kass Ahnaff on the Kingdoms' throne than any of his nearest competitors, and are investing heavily in making sure that he stays there.
+
+His throne is in Merchantmen City (below).
+
+### Major Character: Mela, Tenna King
+
+Mela Tenna is the current king of the Kingdom of Tennec; his throne is in Hate's Hold (below).
+He is the most powerful Eastern King, and the de facto head of their movement.
+
+He has openly declared his hatred of all non-Humans — including the Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
+(He utterly loathes Kass Ahnaff, who he views as the greatest race-traitor in the Kingdoms.)
+He has led a series of bloody purges of any remaining non-Humans in the Kingdom of Tenna; he promises similar purges in the entire Kingdoms of Men should he attain the Throne, to be followed by a war of annihilation on the Commonwealth.
+
+He has recently become a devotee of the One who Chose Us.
+
+If anyone is unambiguously evil, it's Mela Tenna.
+
+### Major City: Merchantmen City
+
+Known as Annhallan in Royal and Merchantmen City in Commonwealth Standard, this city of 900,000 sits in the northwest of the Kingdoms, about 140 *demarc* \[roughly 588 kilometers\] from the border with the Dragonshire, sitting scarcely a *demarc* from the coast of the Glass Sea.
+Annhallan is the capital city of the Kingdom of Anaff; since Kass Anaff is the current High King, the city is currently also the center of government for the Kingdoms of Men.
+
+As the name Merchantmen City implies, the Kingdom of Anaff has long prospered by trade, especially with the Commonwealth; traders from Heartland Province and the Dragonshire are common, and many of hte Commonwealth's languages are spoken in Merchantmen City.
+
+### Major City: Hate's Hold
+
+Called Tenlan in Royal, Hate's Hold is the capital of the Kingdom of Tennec; it is a city of 800,000 in the southeast of the Kingdoms.
+It lies on a river, less than two *demarc* \[8km\] up-river from the the coast of the Glass Sea, and a mere 160 *demarc* \[672km\] from the open ocean.
+
+With convenient river access to the Glass Sea, Tenlan is a wealthy trade town; their wealth and power are bolstered by a system of weirs and water-channels that water the surrounding territory, which they control and charge for access to.
+The Tenna are among the wealthiest (and most convicted) of the royal families of the East; as such, Tenlan is the unofficial capital of the Eastern Kings.
+
+Tenlan is also the center of the worship of the One who Chose Us in the Eastern Kingdoms.
+
+The city is called Hate's Hold for a reason; it is not a good place to be if you aren't Human.
+
+### Major City: The First Throne
+
+Called Hanman in Royal (and Old Imperial), First Throne is one of the Three Cities that came together to found the Old Empire.
+Though it is still a large and prosperous city — situated on the large River Hanem, it has always been a center of trade — it is no longer a center of power within the Kingdoms.
+It has a population of 350,000.
+
+The name First Throne is not figurative: the first and oldest-known cities where founded by Humans; though Hanman is not one of these oldest cities, it is believed to be the first city to hold a *throne* — to develop a regional government.
+
+The city is in the Kingdom of Enha, although the Enhan Kings are relatively weak; the city is ruled by the Hanman Congress.
+So far, both the Enhan line and the Hanman Congress have been content to cooperate (for the most part), and enjoy the prosperity that comes from their prominent location and rich trade.
+The Enhan Kings are allies of the Annhallan and the Western Kings; the Hanman Congress are divided.
+A plurality are supporters of the Western Kings, but other blocs support the Certan cause, direct Commonwealth alliance and the Eastern Kings, in roughly that order of size.
+
+### Major City: Certa
+
+[[abstract]]
+|
+|A trade-hub located in the center of the Kingdoms of Men, and the center of the Certan movement.
+|
+|---
+|
+|Population: 650 thousand
+|
+|Common Languages: Royal, Commonwealth Standard
+|
+|Common Races: Humans
+
+Certa is a city of 650,000; located roughly in the middle of the Kingdoms of Men, it is the center of the Certan Movement, an anti-monarchist movement.
+Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 38 years later — 62 years ago.
+
+The city is roughly circular; it is divided into pie-slice-shaped districts by prominent roads that run from the central administrative district to the outer wall.
+The city is built with a distinctive, modern architectural style; the buildings are built high, supported by free-standing buttresses, and are decorated with wide windows and prominent artwork.
+
+### Language: Royal
+
+[[abstract]]
+|
+|Royal is the primary language of the Kingdoms of Men.
+|
+|Group: HHED
+|
+|Partially Intelligible: Weal (-20) and its derivatives (-30)
+
+Royal is the language of the Kingdoms of Men.
+Like Weal, it is distantly derived from Old Imperial, the language of the Empire of Man, but almost a thousand years have passed since the two languages began to diverge, and they are now quite dissimilar.
 
 ## The Shaded Sea People
 
@@ -330,7 +405,7 @@ Slowly, a narrow strip of Commonwealth fortifications and walled cities began to
 
 Further west, the Herders, a culture of hunters and herders from the central regions of the west, began to seek allies against the Shaded Steppes.
 Though their territory did not border directly on the Shaded Steppes, the buffer between the two was thin; when the Shade Elves power waxed, their raids could reach well into Herder territories.
-The Herders began to seek allies to resist the Shade Elves, and found willing partners among other nearby cultures — primarily including a confederation of Gnollish tribes.
+The Herders began to seek allies to resist the Shade Elves, and found willing partners among other nearby cultures — primarily including a confederation of Gnoll tribes.
 This alliance became the aptly-named Herd-and-Pack Alliance.
 
 Finally, in the east, based in a strip of forest running between the Shaded Steppes and the Worldspine, there where the Sunrise Peoples, an alliance of frequent enemies (and sometimes conquests) of the Shaded Sea.
@@ -384,7 +459,7 @@ Over the next decade, the Shade Elves and Ratfolk of the Shaded Steppes assemble
 After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below, and conquered them.
 The Ratfolk of the Warren Isles became tributaries of the Leapers.
 
-In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, the Leapers did not establish any kind of administrative structure.
+In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, however, the Leapers did not establish any kind of administrative structure.
 No one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
 
 #### The Siege of Islandhome
@@ -393,7 +468,9 @@ No one confederation had control of the Shaded Steppes, and *Tetln*'s rule of th
 
 #### The Shade Elves of the Shaded Sea
 
-The Shade Elves of the Shaded Sea are a culture of nomadic herders and raiders.
+The Shade Elves of the Shaded Sea are a culture of nomadic herders and raiders based in the Shaded Steppes in the southwest of the Emerald Plane.
+
+
 
 #### The Ratfolk of the Warren Isles
 
@@ -401,7 +478,9 @@ The Ratfolk of the Warren Isles are a culture of fishers, raiders and pirates.
 
 #### The Leapers
 
-#### Minotaurs
+#### The Minotaurs
+
+#### The Foxfire
 
 ### People and Places
 
@@ -1215,8 +1294,6 @@ They strongly prefer flowing water, and are well adapted to function in a curren
 |
 |The Mud-Skipper prefer flowing water, to avoid the stagnant pools of the Judges.
 |The black slime colours many of their myths and serves as a 'satan' figure — even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
-|
-
 
 [[hook]]
 |
@@ -1224,8 +1301,6 @@ They strongly prefer flowing water, and are well adapted to function in a curren
 |This would for trade in unique and rare goods, and for the cross-polination of ideas, for travel to distant lands, and for cooperation against their enemies.
 |Or, equally, it might lead to conflict and mistrust between the two races.
 |Or even a mixture of both, varying from tribe to tribe.
-|
-
 
 Mudskipper towns are built underwater in the rivers and lakes in which they live — though they occasionally feature some guest rooms that open above-water for visitors.
 The layouts of their villages follow the flow and twist of the river; their buildings are built in a teardrop cross-section, with windows letting the river current flow through, impeded as little as possible.
@@ -1243,8 +1318,6 @@ They are also highly reluctant to discuss the reasons for this relationship.
 |What threshold would have to be crossed for them to seek the intervention of the spirits?
 |
 |These mysteries are left to the GM to supply!
-|
-
 
 ### The Mudskipper Federation
 
@@ -1285,8 +1358,6 @@ So far, though, no easy way has presented itself to transport the freshwater-aqu
 [[hook]]
 |
 |Though a small group, the Mudskippers seeking membership in the Commonwealth pose a threat to the Goblin Empire; this is one of many ways that the Commonwealth might be pulled deeper into the affairs of hte Ruby Plane, and a war with the Commonwealth might be started before *either* side has adequately prepared.
-|
-
 
 With the goblin incursion into the Ruby Isle, they have been found largely wanting as slaves or servants, due to the expense of maintaining fresh water for their sleep, and their apparent clumsiness and inexperience with agriculture or industrial pursuits (especially on land).
 Keeping to their waterways, however, keeps them out of the way of the Goblin Empire, which has largely spared them from the predation and cruelty of the invading Goblins — for now, at least.
