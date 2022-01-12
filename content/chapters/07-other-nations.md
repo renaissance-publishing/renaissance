@@ -431,7 +431,7 @@ In response, *Tetln* sought the aid of the city-state *Oyssa*, on its own island
 Solidly in control of *Katlkan* and having the support of its closest rival, they then began the systematic conquest of the rest of the nearby Warren Isles.
 These conquests triggered an exodus; Rafolk fleeing the *Tetln* conquest landed in the Haven Isles, on the shores of the southern Worldspine (and just south of the Shaded Steppes), and on the northwest Ruby Plane.
 
-#### The Leapers
+#### The Shaded Sea Unites
 
 By CY 200, the Commonwealth had established a number of forts and settlements in the region, and been integrated into its politics.
 In CY 255, the Commonwealth encountered the Herders, and the Herd-and-Pack Alliance; the two cultures where natural allies, and not least because of their shared enemy in the Shade Elves.
@@ -442,9 +442,10 @@ Between 341 and 344, Herd-and-Pack and their Commonwealth allies repulse several
 As Shade Elf power crumbled, the *Leapers* struck.
 Little is known outside of the Shaded Sea about their methods; as far as is known, the Leapers never raised an army and marched on the Shade Elves.
 It is theorized that they systematically harried the crumbling *Alenaya*, attacking their people as they spread out through the steppes to graze; they may also have found eager allies (or pawns) among the confederation's many enemies.
-By CY 346, the *Alenaya* had lost the allegiance of all but their original two confederations — and these where in a weakened state, having lost many of their constituent clans to defection and combat; they became tributaries of the Leapers.
+By CY 346, the *Alenaya* had lost the allegiance of all but their original two confederations — and these where in a weakened state, having lost many of their constituent clans to defection and combat.
+They became tributaries of the Leapers.
 
-In CY 349, the Herd-and-Pack Alliance signed a treaty, and by CY 350 the Commonwealth had begun to settle the Haven Isles.
+In CY 349 the Herd-and-Pack Alliance signed a treaty with the Commonwealth, and by CY 350 the Commonwealth had begun to settle the Haven Isles.
 During this time, from CY 346 to CY 351, the Leapers continued their subtle campaign, bringing most of the other Shade Elf rides under their control.
 Though weakened, the Shade Elves where finally (mostly) unified; in CY 357, they set out to reconquer the east of the Steppes, and by CY 361, they set out to bring the Warren Isles under their control.
 
@@ -453,16 +454,19 @@ Skilled in seaborn combat, they became tributaries and allies of the Shade Elves
 As the Shade Elves weakened, they became as much allies as tributaries to the Shade Elves, equal to some of the rides in power; at some point before CY 361, as Shade Elven power began to recover, they proposed to ferry members of an allied Shade Elf ride to their former homes in the Warren Isles.
 
 The scale of these raids where limited by the Shaded Steppes rafolks' numbers; they began almost thirty years of conflict between the Shaded Steppes and Warren Isles.
-Between CY 363 and 366, the Shaded Steppes had subjugated a nine smaller islands in the northeast of the chain; between CY 374 and 376, a concerted counter-attack by the Warren Isles ratfolk displaced the invaders.
+Between CY 363 and 366, the Shaded Steppes had subjugated nine smaller islands in the northeast of the chain; between CY 374 and 376, a concerted counter-attack by the Warren Isles ratfolk displaced the invaders.
 In CY 377, a larger invasion secured more than a dozen islands; by CY 379, the invaders had once again been displaced.
 Over the next decade, the Shade Elves and Ratfolk of the Shaded Steppes assembled a much larger force; in CY 389, they once again landed in the Warren Isles, this time with much greater numbers — and possibly with Leaper aide.
-After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below, and conquered them.
+After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below and conquered them.
 The Ratfolk of the Warren Isles became tributaries of the Leapers.
 
-In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, however, the Leapers did not establish any kind of administrative structure.
-No one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
+In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, however, they where not a unified force.
+The Leapers did not establish any kind of administrative structure, no one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
+
 
 #### The Siege of Islandhome
+
+
 
 ### The Nations of the Shaded Sea
 
