@@ -40,9 +40,9 @@ Obviously, you'll want to keep the party from discovering the traitor if encount
 
 Hella Valley is named after the *Hella*, the name given to the Humans and Dwarves that live in the region, and their (partly) shared culture.
 
-The valley funs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks of the range are far to the south, the smaller mountains and rough foothills to the west are still a formidable natural barrier — especially given the cold.
+The valley runs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks of the range are far to the south, the smaller mountains and rough foothills to the west are still a formidable natural barrier — especially given the cold.
 
-The valley is well forrested, and the Hella River runs through it.
+The valley is well forested, and the Hella River runs through it.
 The valley is dotted with small farming towns, and it also sees logging, trapping and fishing.
 The river usually swells during the spring thaw, but all the cities and towns are built far enough from it to be out of danger.
 
@@ -106,9 +106,9 @@ The inn mostly sells food; if the PCs need anything more than rations — or if 
 
 Forge-and-Hearth Burrow is a small Kobold burrow that sits three *demarc* northeast of Southlander's Market.
 The population is less than 500.
-It consists of a large, central burrow, surrounded by a number of smaller single-family burrows and surface structures—some of the surface structures are older than the burrow itself, built by the first Kobold settlers more than 200 years ago before they had dug the burrow.
+It consists of a large, central burrow, surrounded by a number of smaller single-family burrows and surface structures — some of the surface structures are older than the burrow itself, built by the first Kobold settlers more than 200 years ago before they had dug the burrow.
 
-Forge-and-Hearth is well-named; it's occupants are miners, fishers and trappers, and the burrow is known for its iron, fish and food.
+Forge-and-Hearth is well-named; it's occupants are miners, fishers and trappers, and the burrow is known for its iron, fish, and game.
 
 There isn't much for the party to do at Forge-and-Hearth.
 The burrow has good miners, but only a few smiths; they mostly sell iron to human smiths in Southlander's Market.
@@ -178,7 +178,12 @@ The town bosts several blacksmiths, two alchemists, and a mage; while they can b
 
 The trek through the blizzard to Whitefox Monastery is the real starting-point for the adventure: now the players have left the relative safety of Southlander's Market, and have gone to face the unknown.
 
-### Location: The Valley
+### The Environment
+
+The Hella Valley is normally a pleasant place; open, with low hills covered in deciduous forests and small hamlets, divided by a shallow, amiable river.
+
+Now it is unrecognizable, however, as it is covered in more than a half-stride of fresh-fallen snow, and obscured by continuing, swirling snowfall.
+It is a maze of towering shapes and unknown terrain, hidden in a thick haze of heavy, near-white-out snowfall.
 
 ### Encounter: The Blizzard
 
@@ -249,7 +254,40 @@ The major benefit it provides for this adventure is the ability to resolve the *
 
 ### Encounter: River Crossing
 
+One of the first challenges will simply be *finding* the Hella River.
+While characters who press North to the monastery must *eventually* cross it, given the *stride* of heavy snowfall that has covered the entire valley, they might not notice the river until they are already standing on it.
 
+- Any character who approaches the river is entitled to a *passive Perception check* to notice the river and determine it's rough outline.
+- If the party has a Scout and that character succeeds on their Perception test, then they will detect the subtle signs of a river-bank before anyone steps out onto the ice.
+- If the party has a navigator and they succeed on their Survival test to navigate, then they can at least provide the party with a heads-up that the river is near, providing a bonus on perception tests to notice the river (and given the players a prompt to make *active* Perception checks to find it).
+
+Failing all of this, some characters are likely to have ventured out onto the ice before anyone in the party detects that the river is there.
+
+After days of heavy snowfall, the Hella river is most likely frozen solid — most likely.
+For every character who ventures out onto the ice, roll a check with a TN of 80; if they succeed, then they cross the ice safely, but if they fail, the ice breaks under the character.
+
+If the ice breaks under a character, they may attempt a COO×2 check to *fall or dive away*, with the results given below:
+
+| COO×2 Check   | Result |
+| ------------- | ------ |
+| Basic Success | Land *partly* in the water |
+| Exceptional or Critical Success | Land next to the break, on the ice |
+| Basic Failure | Land *completely* in the water |
+| Exceptional Failure | Land *completely* in the water, suffer minor injury on the ice (1d10÷2 DV) |
+| Critical Failure | Land *completely* in the water, 1d10÷3 sd away from the hole |
+
+Characters who don't attempt this check simply land *completely* in the water.
+
+Characters *partly* in the water can attempt an Athletics (Endurance) check at -20 to pull themselves out of the water; alternatively, another character can throw them a line and pull them out.
+
+Characters *entirely* in the water are in more danger.
+If they have *basic proficiency* in Athletics, they can *tread water*, at least briefly; if they don't, they can splash around, but they will quickly sink.
+Hypothermia is the greatest danger; the near-freezing water will rapidly sap most character's body heat.
+First, characters must make a *Feat of Endurance* check; they can operate for (3 + MoS÷10) turns before taking damage.
+After that, they take 1d10 DV per turn.
+
+Characters who are saved from the water after being partially or completely submerged are still at risk of freezing.
+Characters with *Medicine* or *Survival* will know what to do — quickly warm the character.
 
 ## The Monastery
 
@@ -434,7 +472,7 @@ At the back of the scriptorium sits several large shelves, holding a collection 
 ### Point-of-Interest: The Library
 
 The *library* takes up the whole of the third floor on the west side.
-The books and scrolls here cover a variety of topics; some are common works on theology, philosophy, history, medicine, or the various skills and trades needed to maintain the monastery; others are more local, like maps of the region, histories and geneologies, and — perhaps most importantly — catalogues of the local spirits, their known wants, binds, and propitiations, and records of the dealings that the monks have had with them.
+The books and scrolls here cover a variety of topics; some are common works on theology, philosophy, history, medicine, or the various skills and trades needed to maintain the monastery; others are more local, like maps of the region, histories and genealogies, and — perhaps most importantly — catalogues of the local spirits, their known wants, binds, and propitiations, and records of the dealings that the monks have had with them.
 
 Here, finally, a scholar character can shed some light on the mystery.
 Armed with information from the other clues that the party has discovered, a character can use a *Research* check to consult the monks' extensive records and determine what precisely has happened here; details vary by scenario, but potential results and modifiers are given below.
