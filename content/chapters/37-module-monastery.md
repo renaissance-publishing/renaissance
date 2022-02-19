@@ -264,7 +264,7 @@ While characters who press North to the monastery must *eventually* cross it, gi
 Failing all of this, some characters are likely to have ventured out onto the ice before anyone in the party detects that the river is there.
 
 After days of heavy snowfall, the Hella river is most likely frozen solid — most likely.
-For every character who ventures out onto the ice, roll a check with a TN of 80; if they succeed, then they cross the ice safely, but if they fail, the ice breaks under the character.
+For every character who ventures out onto the ice, roll a check with a (fixed) TN of 80; if they succeed, then they cross the ice safely, but if they fail, the ice breaks under the character.
 
 If the ice breaks under a character, they may attempt a COO×2 check to *fall or dive away*, with the results given below:
 
@@ -278,16 +278,20 @@ If the ice breaks under a character, they may attempt a COO×2 check to *fall or
 
 Characters who don't attempt this check simply land *completely* in the water.
 
-Characters *partly* in the water can attempt an Athletics (Endurance) check at -20 to pull themselves out of the water; alternatively, another character can throw them a line and pull them out.
+For many races, being dumped into freezing water is *shocking*; characters must make a WIL×3 test or be *panicked* for MoF÷5 turns.
+
+Characters *partly* in the water can attempt an Athletics (Endurance) check at -20 to pull themselves out of the water; alternatively, another character can throw them a line, or otherwise pull them out.
 
 Characters *entirely* in the water are in more danger.
-If they have *basic proficiency* in Athletics, they can *tread water*, at least briefly; if they don't, they can splash around, but they will quickly sink.
+If they have *basic proficiency* in Athletics, they can *tread water* for at least a few minutes; if they don't, they can splash around, but they will quickly sink.
 Hypothermia is the greatest danger; the near-freezing water will rapidly sap most character's body heat.
-First, characters must make a *Feat of Endurance* check; they can operate for (3 + MoS÷10) turns before taking damage.
-After that, they take 1d10 DV per turn.
+First, characters must make a *Feat of Endurance* check; they can operate for (3 + MoS÷10) minutes before loosing consciousness.
 
 Characters who are saved from the water after being partially or completely submerged are still at risk of freezing.
-Characters with *Medicine* or *Survival* will know what to do — quickly warm the character.
+Characters with *Medicine* or *Survival* will know what to do: quickly warm the character.
+This often includes getting a character out of their wet clothing, getting dry clothing if available, and starting a fire in a sheltered area.
+Characters who are well cared-for may recover in thirty minutes or so; characters that do not do this remain at risk of hypothermia.
+They must make a Feat of Endurance check, and succumb to hypothermia after 60-MoF minutes.
 
 ## The Monastery
 
@@ -532,7 +536,7 @@ The Traitor has been left deliberately vague in this module; the intent is that 
 (This is perhaps feasible to do because, in many variants of the module, the Traitor is not a primary antagonist; in some variants, the Traitor might not even need a name.)
 
 This is potentially useful if you would like to tie this module into a larger adventure; you can insert NPCs that you would like to have a more prominent role later.
-It is, however, perhaps inconvenient if you would like to run the module with minimal adjust; for that reason, we will provide some sample Traitors below.
+It is, however, perhaps inconvenient if you would like to run the module with minimal adjustment; for that reason, we will provide some sample Traitors below.
 
 #### Orcish and Dwarvish Separatists
 
