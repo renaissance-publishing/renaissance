@@ -526,3 +526,23 @@ General rules for powers
 (Of course, powers, classes, and items can also represent non-magical abilities and affects as well.)
 Powers, classes, and items are described more in their own sections.
 Notably, the lists of each are deliberately incomplete; the intent is that it should be relatively easy for Players and GMs to come up with their own magical items and abilities, using the provided ones as guides.
+
+
+
+<!-- The hand-cannon was added as an example weapon.
+  - Hand Cannon
+    
+      - It’s supposed to be an arquebus, but we’re trying to use literal
+        names; it needs a better name. It’s am example very early
+        firearm.
+      - The hand-cannon is a portable infantry weapon developed from
+        modern artillery. The weapons are awkward: they strike with
+        greater force than even a crossbow and can penetrate all but the
+        heaviest armor, but they are extremely slow to reload — so much so
+        that they usually aren’t reloaded in the field.
+      - Attack: Projectile Weapons, 2D10+2 DV, AP -6
+      - Range: short 20m / medium 30m / long 35m / extreme 40m
+      - Reload: 5 turns (May reduce, since there isn’t a reason this
+        should take 5 times as long to reload as a musket.)
+      - Tags: Loud, Prone, Two-Handed, Vulnerable
+-->

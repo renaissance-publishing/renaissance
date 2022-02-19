@@ -248,24 +248,6 @@ It is sometimes derisively referred to as the "bomb that you don't throw," after
 
 **Special:** If you have a partner helping you operate the weapon, then it looses the Difficult tag (as it is easy for you to aim, and for them to fire).  Working with a partner, you can also reload a barrel with only one Standard Action.  However, performing maneuvers in close formation with a partner is difficult, and so the weapon gains the Awkward tag.
 
-<!-- The hand-cannon was added as an example weapon.
-  - Hand Cannon
-    
-      - It’s supposed to be an arquebus, but we’re trying to use literal
-        names; it needs a better name. It’s am example very early
-        firearm.
-      - The hand-cannon is a portable infantry weapon developed from
-        modern artillery. The weapons are awkward: they strike with
-        greater force than even a crossbow and can penetrate all but the
-        heaviest armor, but they are extremely slow to reload — so much so
-        that they usually aren’t reloaded in the field.
-      - Attack: Projectile Weapons, 2D10+2 DV, AP -6
-      - Range: short 20m / medium 30m / long 35m / extreme 40m
-      - Reload: 5 turns (May reduce, since there isn’t a reason this
-        should take 5 times as long to reload as a musket.)
-      - Tags: Loud, Prone, Two-Handed, Vulnerable
--->
-
 ## Advanced Firearms
 
 In the real world, there was an era when early firearms coexisted with (steel-prod) crossbows and plate armor, without being clearly superior to the one or completing negating the other; these early, muzzle-loading, smooth-bored, ball-firing black-powder weapons are not wildly disruptive if introduced to a world that already has crossbows and seige weapons.
