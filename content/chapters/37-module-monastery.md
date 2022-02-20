@@ -25,6 +25,28 @@ Landlord Ceder-Inn, the Ratfolk who runs the Ceder Inn in *Southlander's Market*
 
 ## Overview
 
+This module send players on a mission through a perilous blizzard, to encounter a terrifying monster and a deadly mystery in a cold monastery.
+It plays on themes of survival, horror, mystery, and the supernatural.
+
+Importantly, this is not presented as one atomic module, with fixed details and a pre-determined course; rather, it's presented as a kind of template, with some details specified and others left for you to determine — and some of these details are significant, such as the nature of *the Traitor* or the ultimate solution to the blizzard.
+Before you run the module, you'll need to fill those details in; you can do that by selecting from one of the options that we've prepared, or coming up with your own details.
+(See *Customizing the Module*.)
+
+We've done this in an attempt to keep the module from getting stale or becoming predictable, and to allow GMs to easily integrate the module into a larger plotline.
+
+### Sketch
+
+A loose sketch of the structure of the module is as follows:
+
+- The party will start out in *Southlander's Market* in the *Hella valley*; here, they will meet Landlord Ceder-Inn, have the dire situation of the valley described, equip themselves, and set off.
+- The party will then brave *the Blizzard* in an attempt to reach the monastery.
+- At the monastery, the party will encounter a grizzly scene: the monks, it seems, have all been killed.
+while there, they will:
+  - explore the monastery;
+  - investigate its various locals, to understand what has happened there;
+  - encounter the *Monster*, a spirit released from the realms of the Dead, a creature at the center of the adventure; and
+  - hopefully, finally solve the mystery and free the valley.
+
 ## Starting Out
 
 The adventure starts out in the Ceder Inn in *Southlander's Market*.
@@ -357,7 +379,7 @@ The *altar* sits at the north end of the room on a raised platform, which takes 
 
 ### Point-of-Interest: The Altar
 
-The *altar* sits at the north end of the ritual space on a raised wooden platform.
+The *altar* sits at the north end of the ritual space on a raised wooden platform, opposite the doors on the south.
 The platform runs from (side-)wall to (side-)wall, underneath a great, open glass window.
 
 The remains of a *ritual* remain on the altar.
@@ -762,7 +784,7 @@ This scenario is a good option for those whole like *weird tales*: encounters wi
 The spirit is an enormous threat, and will be difficult to handle; mortal beings and lesser spirits do not matter to it, and so it has both the capability and temperament to simply squash the party.
 (Of course, this can be a lot of fun to play up, if your group enjoys unsettling cosmic encounters.)
 
-Role-playings kills, social skills, research and knowledge skills, and a high LUC will all be required.
+Role-playings skills, social skills, research and knowledge skills, and a high LUC will all be required.
 
 You'll need to think carefully about *what* the party can do for Bones of Deep Rock; there will need to be some specific reason that, *this time*, it will answer a mortal call, and that it will ultimately agree to withdraw the spirit.
 You'll need to hint at what that is in the **ritual site** or **traitor's alcove** (possibly with the help of the other books, scrolls, and resources available at the monastery).
@@ -774,7 +796,27 @@ You'll need to hint at what that is in the **ritual site** or **traitor's alcove
 - **Bones of Deep Rock** (and possibly other spirits) need to have clear motivations and a good back-story.
 - The **ritual site** and **traitor's alcove** are important clues.
 
-### Spirit-Politics
+#### Variant: Spirit-Politics
+
+Rather than striving with Bones of Deep Rock directly, the party may be required to play politics among the spirits of the region, finding some other Great Spirit or clan of Spirits who are willing to handle the monster, the blizzard, or both.
+
+You might come up with a specific spirits with a specific price, in which case you'll need to provide clear clues to the party; the various books and tombs at the monastery could be very useful for this.
+Or, you might allow the players to do this ad-hoc, choosing from several possible allies.
+
+#### Variant: A Great Spirit in Our Corner
+
+Another option is that the party could seek the aide of a friendly Great Spirit, like Lynn, the Orator, or the Mourner.
+
+These kinds of moments can be dramatic: even if they are sympathetic characters, they are also still Great Spirits, and encounters with them can still be deeply unsettling and profound.
+(They also offer the GM a chance to *play it up* a bit.)
+
+A Great Spirit could confront Bones of Deep Rock directly, but they can also help in other ways:
+
+- if Bones of Deep Rock has no particular investment in fate of the Hella Valley, then the Spirit could help dissipate the Blizzard or defeat the Monster;
+- a spirit could offer information that the party couldn't otherwise acquire, spelling out what they need to do to resolve the crisis;
+- they can offer material aide, like a magical weapon or champion.
+
+This variant can be particularly useful if one of the characters has a particular patron spirit; it provides a chance to develop that spirit and their connection to the player-character, and to give that character some time in the spotlight.
 
 ### Something Else!
 
@@ -784,8 +826,8 @@ In this case, bear the following questions in mind:
 
 - What does the party need to do to end the blizzard?
 - How will they figure that out?
-  - What clues are available?
-  - In particular:
+  - What clues are available?  
+    In particular:
     - What will they find at the **ritual site**?
     - What will they find in the **traitor's alcove**?
     - What will they find at the traitor's desk or cell?
