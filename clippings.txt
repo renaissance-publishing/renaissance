@@ -546,3 +546,19 @@ Notably, the lists of each are deliberately incomplete; the intent is that it sh
         should take 5 times as long to reload as a musket.)
       - Tags: Loud, Prone, Two-Handed, Vulnerable
 -->
+
+
+
+  - Disable Device (COO)
+    
+      - Active, Physical, Technical
+      - Represents your ability to defeat mechanical devices.
+      - Used to pick locks, disable traps and disable magical devices.
+      - Usually used unopposed, although the quality of the device might impose a penalty (or allow a bonus).
+      - Specialization: lock-picking, traps, clockwork
+
+  - Pole-Arms (SOM, Proficiency Skill)
+    
+      - Active, Attack, Combat, Melee Attack, Physical
+      - Your skill with pole-arms, the mainstays of infantry combat.
+      - Sample Specializations: Bladed, Blunt, Spiked, *by exotic weapon*

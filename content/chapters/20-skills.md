@@ -150,14 +150,6 @@ title: "Skills"
         lies, regardless of how skillful a liar a character is.
       - Example Specializations: lying, negotiating, impersonation
 
-  - Disable Device (COO)
-    
-      - Active, Physical, Technical
-      - Represents your ability to defeat mechanical devices.
-      - Used to pick locks, disable traps and disable magical devices.
-      - Usually used unopposed, although the quality of the device might impose a penalty (or allow a bonus).
-      - Specialization: lock-picking, traps, clockwork
-
   - Disguise (INT)
     
       - Active, Social
@@ -167,13 +159,14 @@ title: "Skills"
   - Exotic Skill (Attribute Varies, Field Skill)
     
       - Exotic, *other tags*
-      - Freeform skill, used to handle very unusual cases of other
-        skills. Examples:
+      - Freeform skill, used to handle very unusual cases of other skills.
+        Examples:
       - Exotic Culture (SAV, Protocol for very alien cultures)
       - Exotic Knowledge (COG, for esoteric knowledge)
       - Exotic Mount (COO or SAV)
       - Exotic Movement (SOM or COO)
-      - Don’t be too eager to resort to Exotic Skills\! You are *almost always* better served by using a normal skill, perhaps with a specialization to indicate your unique background or interest.
+      - Don’t be too eager to resort to Exotic Skills\!
+        You are *almost always* better served by using a normal skill, perhaps with a specialization to indicate your unique background or interest.
 
   - Fray (COO)
     
@@ -184,8 +177,7 @@ title: "Skills"
   - Intimidate (SAV)
     
       - Active, Combat, Social
-      - Used to represent your characters ability to manipulate others
-        through menace rather than poise.
+      - Used to represent your characters ability to manipulate others through menace rather than poise.
       - Usually used opposed, against the target’s *Resist Intimidation* (see *Special Numbers* below).
       - Specialization: by circumstance (interrogation, combat) or by method (physical intimidation, blackmail)
 
@@ -209,8 +201,9 @@ title: "Skills"
 
       - Active, Attack, Combat, Melee Attack, Physical
       - Your skill with one- and two-handed melee weapons.
-      - Note that unarmed combat and pole-arms are represented by separate skills (Unarmed Combat and Pole-Arms, respectively).
-      - Note that *Shields* is offered as a proficiency.  This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons — such as spiked shields and dueling-shields.
+      - Note that unarmed combat and natural weapons are represented by the Unarmed Combat skill.
+      - Note that *Shields* is offered as a proficiency.
+        This proficiency is *not* required to use a shield to defend yourself; rather, it is used for shields that are also designed for use as offensive weapons — such as spiked shields and dueling-shields.
       - *Double-weapons* refers to "D&D-style" double-weapons; the historicity of these weapons is dubious, but there's no reason your character can't have one!
       - Sample Specializations: Axes, Clubs, Daggers, *Double-Weapons*, Hammers, Maces, *Shields*, Staffs, Swords, *by exotic weapon*
 
@@ -228,12 +221,6 @@ title: "Skills"
       - For minor dealings with an NPC, usually used unopposed. For important tests, or when an NPC is skeptical or requires convincing, oppose with a Resist Social Manipulation check (see below).
       - For social negotiations, use opposed Persuasion (or Protocol) checks.
 
-  - Pole-Arms (SOM, Proficiency Skill)
-    
-      - Active, Attack, Combat, Melee Attack, Physical
-      - Your skill with pole-arms, the mainstays of infantry combat.
-      - Sample Specializations: Bladed, Blunt, Spiked, *by exotic weapon*
-
   - Profession (COG, Field Skill)
     
       - Passive, Technical, Trade
@@ -248,15 +235,10 @@ title: "Skills"
       - Passive, Knowledge, Social
       - Used to represent your ability to handle the unwritten rules of
         social interaction, both simple and complex.
-      - Can be used to navigate complex social situations, estimate or
-        follow social protocols, make a good impression in social
-        interaction.
-      - Can be used to negotiate, for example in a legal debate or
-        hostage negotiation.
-      - Can be used to *recover gracefully* after a roll-playing error
-        (like saying something that your character would never say).
-      - Very exotic, unusual or secretive cultures use the Exotic
-        Culture skill.
+      - Can be used to navigate complex social situations, estimate or follow social protocols, make a good impression in social interaction.
+      - Can be used to negotiate, for example in a legal debate or hostage negotiation.
+      - Can be used to *recover gracefully* after a roll-playing error (like saying something that your character would never say).
+      - Very exotic, unusual or secretive cultures use the Exotic Culture skill.
       - Negotiating prices and trading uses the Barter skill.
 
   - Ranged Weapons (COO, Proficiency Skill)
@@ -348,45 +330,56 @@ title: "Skills"
       - However, unarmed combat does *not* cover the use of natural attacks like acid spit (which would use Ranged Weapons) or a natural magical ability (which would most likely be described by a power).
       - Sample Proficiencies: Defense, Grappling, Locks, Strikes, Throws, *by natural weapon*
 
-Sidebar: Unusual Skills
+## Unusual Skills
 
-  - Sometimes you’ll want your character to be able to do something that
-    isn’t exactly covered by a skill — like tracking game through the
-    woods.
-  - While players can use an Exotic Skill to take ranks in an unusual
-    skill, they are usually better served by taking an existing skill
-    with a descriptive specialization. For example, players would almost
-    always be better off taking Search \[Tracking\] than taking Exotic
-    Skill: Tracking.
-  - The Knowledge and Profession skills can also be used to establish a
-    specific special skill-set for a character — for example, Profession:
-    Hunter.
-  - In addition to thinking about how you want to represent your
-    character’s talents, think about how you want to be able to *use*
-    the skill during a game.
-  - If you’re unsure about a skill selection, you should discuss it with
-    the GM; make sure that the GM understands not only what you want the
-    skill to represent, but what you want to be able to *do* with it,
-    and be sure that you and the GM agree with not only what the skill
-    is supposed to represent, but what it’s supposed to do and how it’s
-    supposed to work.
+Sometimes you’ll want your character to be able to do something that isn’t exactly covered by a skill, like analyzing a crime scene, tracking game through the woods, or picking a lock.
+One option, certainly, is to take an Exotic Skill; for example, Exotic Skill: Lock-Picking.
+However, while that might be very descriptive, it's also very narrow in use: lock-picking is a much more narrowly-defined skill than, for example, *persuasion*, and you could easily go several games without it coming up.
 
-Sidebar: Gotchas and Confusing Cases
+A better option might be to take an existing skill, and apply a descriptive specialization – for example, Craft: Clockwork [Lockpicking].
+This makes it clear to the GM how you'd like to use the skill, while allowing you to invest in a more generally-useful skill.
 
-  - Disguise only covers the *physical* half of pretending to be someone
-    else; for the social half — that is, to talk to people without being
-    discovered — you’ll also need Deception.
-  - Search is used to actively search an area for something; it takes
-    time, and you move around. Perception is usually used for noticing
-    things quickly — seeing things when you enter a room, as opposed to
-    after looking around. Search is also used to track someone or
-    something.
-  - Control is used to manage your own magical energies, and to develop
-    sleights; it should not be used to represent a characters “will
-    power,” that’s the WIL attribute.
-  - Normally, solving a crime would be treated as Solving a Logic Puzzle
-    (requiring a COG × 3 check, as below). If you would like to build a
-    detective character, consider using Profession: Detective or
-    Profession: Investigator to represent your character’s ability to
-    solve mysteries.
+The Knowledge and Profession skills can also be used to establish a specific special skill-set for a character — for example, Profession: Hunter.
 
+Of course, whether you purchase ranks in an Exotic Skill or use a specialization to "flavor" an existing skill, you should talk with your GM about it.
+In particular, make sure that the GM understands and agrees with how you want the skill to work mechanically – what you want it to represent, when you want to be able to use it, what modifiers the check will have, and so on.
+
+Likewise, if you’re unsure about a skill selection, you should discuss it with the GM; make sure that the GM understands not only what you want the skill to represent, but what you want to be able to *do* with it, and be sure that you and the GM agree with not only what the skill is supposed to represent, but what it’s supposed to do and how it’s supposed to work.
+
+## Gotchas and Confusing Cases
+
+While developing the game, we've run into a few "gotchas" and confusing cases:
+
+- **Disguise** only covers the *physical* half of pretending to be someone else; for the social half — that is, to talk to people without being discovered — you’ll also need *Deception*.
+- **Search** is used to actively search an area for something; it takes time, and you move around.
+  **Perception** is used for noticing things quickly — seeing things when you enter a room, as opposed to after looking around.
+  Search is also used to track someone or something.
+- **Control** is used to manage your own magical energies, and to develop sleights.
+  It does *not* represent a characters "will power," that’s the **WIL** attribute.
+
+## Removed Skills
+
+We also have a few notes about candidate skills that we've removed:
+
+We initially included an **Investigate** skill, but we found it too narrowly applicable, and too unclear about what it did.
+Wouldn't you use *Search* to find clues?
+Wouldn't you use *Profession: Detective* for professional skills and knoweldge about solving crimes?
+Was it just for solving mysteries – was "Deduction" really something we needed a skill for?
+We decided to remove it.
+
+- Replacement:
+  - Normally, you'd use *Search* to search a crime scene for clues, and you'd use a *Solve a Logic Puzzle* check (COG × 3) to reason through a crime.
+  - Profession: Detective or Profession: Investigator could also be used to represent the kinds of common knowledge (about criminals, crime-solving, investigation, and deduction) that *Investigator* characters would usually have.
+- As an Exotic Skill:
+  - Exotic Skill: Investigation (COG or INT; Active, Mental, Technical)
+  - Exotic Skill: Deduction (COG; Active, Mental)
+
+Several other fantasy games have a **Disable Device** skill, so we included it in several of our early skill lists.
+However, since classical "dungeon-delves" aren't a core scenario for us, we found that it was not very useful – in fact, after a year of development and testing, it'd never come up!
+
+- Replacement:
+  - Disabling fine mechanical devices would normally be covered by the same skill used to create them – Craft: Clockwork.
+- As an Exotic Skill:
+  - Exotic Skill: Lock-Picking (COG or INT; Active Physical, Technical) 
+  - Exotic Craft: Trap-Making (COG; Active Physical, Technical)
+  - Exotic Skill: Disable Device (COO or COG; Active, Physical, Technical)
