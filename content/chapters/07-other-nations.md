@@ -505,12 +505,12 @@ A great walled camp in the East, where the *Kena* Confederation is based.
 
 ![Raptors Symbols](../images/proto_banner_raptors.png)
 
-The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
+The Raptors' Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
 Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People, and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
 
 [[abstract]]
 |
-|An alliance formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples; more recently, they've absorbed waves of refugees from the Goblin Empire's conquests.
+|An alliance principally formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples, now being joined by other minor nations and absorbing waves of refugees from the Goblin Empire's conquests.
 |
 |---
 |
@@ -533,9 +533,10 @@ They were broken into *castes*: roughly, *rulers*, *administrators*, *soldiers*,
 Their society was controlled by *rulers* and coordinated by the *administrators*.
 All land was held by the *rulers*, and granted to villages and their *farmers* for use; food was collected by the *administrators*, stored in a vast network of storehouses, and distributed to the populace as needed.
 The *soldier* caste served a role much like the Guards do in the Commonwealth: a small cadre of full-time warriors, who patrol and secure the Terrace-Builder's territory during peace-time and serve as the disciplined elites at the core of their army during war-time.
+(Notably, within these castes, their also existed specific roles and sub-castes; for example, temple-heads where drawn the *ruler* caste, while their attendants and minor priests would be drawn from the *administrator* caste.)
 
 > **Eager**: Because we have a ruling caste, you might think that our city-states work like throne-cities in the Kingdoms of Men; actually, they work a little more like the city-states of Heartland Province.
-> Although they often have one main ruler, like a queen, that ruler typically shares power with the rest of the *golden caste*, and relies on them to administer the city.
+> Although they often have one main ruler, like a queen, that ruler typically shares power with the rest of the *golden caste*, who serve as officials and minor nobles.
 > My people tend to be very good at making sure that everyone is "bought in," and so the kinds of palace intrigues that you see in the Human and Goblin Kingdoms are rarer among the Terrace-Builder Raptors.
 >
 > **Aryn**: "Golden caste"?
@@ -548,19 +549,27 @@ The *soldier* caste served a role much like the Guards do in the Commonwealth: a
 > I guess your people are more matriarchal, like mine \[Drakes\] are?
 >
 > **Eager**: Yes.
-> Like you, females tend to be dominant in our society.
+> Like most of the Draconic races, females tend to be dominant in our society.
 >
 > **Notebook**: I'm curious, why are farmers the "stone caste"?
 >
-> **Eager**: Because of the stone terraces we use.
+> **Eager**: Because we plant crops in stone terraces built into the sides of hills and mountains, often in and around our cities and towns.
 
-The Terrace-Builders used a system of *corvee labor*: individuals where required to spend one out of every eight days contributing labor to one of the city-state's projects, which could include constructing or maintaining roads and irrigation channels, or serving as a soldier.
-(The Terrace-Builders use an 8-day week, with 7 days for labor and one day for rest.
+The Terrace-Builders used a system of *corvee labor*: individuals where required to spend one out of every six days contributing labor to one of the city-state's projects; often, this meant either  constructing or maintaining roads and irrigation channels, or serving as a soldier.
+(The Terrace-Builders use an 6-day week, with 5 days for labor and one day for rest.
 A Raptor might be called for corvee labor on any given labor day; typically, the administrator-caste will schedule the local farmer-caste according to the needs of local projects.)
-This allowed the Terrace-Builder city-states to build a vast network of roads, storage-houses and planted terraces,  spreading out from their city-states and tying them together.
+
+The Terrace-Builders also oversaw a system of communal resource distribution.
+Individuals contributed their harvests, resources, and other goods to the city-states, who in turn pooled them in store-houses and distributed them back to citizens and subjects as required.
+These store-houses where constructed throughout their empire and overseen by the administrator caste; goods where also transferred between them as-required.
+This provided the Terrace-Builders with a vital reserve of food and a bulwark against crop-failure and famine, as well as an additional incentive for loyalty to the Empire.
+
+Taken together, their system of corvee labor and their network of store-houses allowed the Terrace-Builder city-states to build a vast network of roads, store-houses and terraces, running throughout the Raptors' Peaks.
 
 Eventually, an alliance of two Raptor city-states — Giant's Stairs and River-Cutter's City — came to prominence and, over the following centuries, slowly built an empire.
-Their conquests where subtle, using a mix of careful diplomacy, military threat, and small-scale skirmish.
+Their conquests where subtle: rather than marshalling their entire nation, as the Shade Elves often do, the Terrace-Builders used a mix of careful diplomacy, military threat, and small-scale skirmishes to slowly expand their influence and bring other city-states and peoples under their sway.
+
+The Terrace-Builders where not destroyers: they where far more interested in seeing to the long-term strength and prosperity of their empire than they where in short-term plunder.
 The Terrace-Builders rarely sought the total destruction, ruin, or conquest of their opponents, nor did they carry away slaves or loot cities; instead, they used military action as a tool for extracting tribute, trade, and other concessions, gradually bringing others under their influence.
 
 (Notably, the Terrace-Builders often presented themselves as the lords of the Raptors, claiming that they could call up the Raptor tribes in the south and west.
@@ -577,8 +586,7 @@ They also had to play the different parts of their empire against each-other, us
 
 Unlike the Shaded Sea Peoples or Goblin Empire, the Terrace-Builders relied as much on the good will of their subjects as on military force to ensure the stability of their empire.
 Because the Terrace-Builders never carried away slaves or looted cities, and because membership in their empire carried significant benefits, they where not hated by their subject peoples the way the Shaded Sea or Goblin Empire are.
-(Of course, this is not to say that every subject people became a willing participant in the empire, nor where the Terrace-Builders where above deposing a troublesome monarch.)
-
+(Of course, this is not to say that every subject people became a willing participant in the empire, nor that the Terrace-Builders where above deposing a troublesome monarch.)
 
 #### The Ratfolk Arrive
 
@@ -610,14 +618,14 @@ The Ruby-Isles Ratfolk sought out the aid of the militarily powerful Raptor Empi
 The Raptor Empire, long used to juggling a vast empire of only weakly-bonded peoples, offered the Ratfolk favorable terms: military aid, in exchange for the Ratfolk's nominal submission, and access to their prosperous markets.
 
 The Raptor Empire marched west, and helped the Ratfolk resist the Shaded Sea raiding.
-In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely — though their seaborn raiding would never completely cease.
+In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely — though their seaborn raiding continued.
 
 #### Prosperity
 
-For centuries, the Raptor Empire prospered; the terrace-builder Raptors cut roads through the mountains and jungles, and allowed goods to flow from the Ratfolk in the west to the Raptors in the east.
-The Terrace-Maker Raptor's society was dramatically altered; trade with the Ratfolk made them wealthier, and that wealth made them more mercantile.
-While they still use a system of corvee labor, they pay their citizens a small wage collected from trade; they also allow their citizens to purchase their way out of corvee labor.
-In turn, a *merchant* class has developed, who trade profitably with other cultures and purchase their way out of corvee obligations.
+For centuries, the Raptor Empire prospered; the terrace-builder Raptors cut roads through the mountains and jungles, and allowed goods to flow from the Ratfolk in the west to the Raptors (and their subjects) in the east.
+The Terrace-Builder Raptor's society was dramatically altered; trade with the Ratfolk made them wealthier, and that wealth made them more mercantile.
+While they maintained their system of resource-sharing and corvee labor, they came to pay their citizens a small wage collected from trade, allowed their citizenry to accumulate personal wealth and goods, and even allowed some citizens to purchase their way out of their labor obligations.
+In turn, influenced by the Ratoflk, a distinct class of *merchants* and *artisans* developed, trading with other nations and practicing crafts imported from the Iron-Workers.
 
 #### Contact with The Goblin Empire
 
@@ -637,7 +645,12 @@ The Protectorate faces powerful enemies on two fronts.
 In the east, a devastating war with the Goblin Empire draws ever closer; so far, at least, the Goblin Empire has avoided direct conflict with the Protectorate, but their armies draw ever closer to the Protectorates' borders.
 In the west, the Iron-Worker Ratfolk are subject to constant, devastating raids by the Shaded Sea Peoples.
 
-### Culture
+### Administration
+
+Unlike the Commonwealth, the Raptor Protectorate does not have a representative government or a sophisticated beurocracy; it is still, in principle, consists of the Terrace-Builder Empire and their dependant territories.
+In practice, however, power is more widely-distributed, with the Iron-Worker Ratfolk holding significant power, and the 
+
+### Cultures
 
 The Raptor Protectorate is composed of wide variety of cultures from throughout the northern and central Ruby Plane — though its two dominant cultures remain the Terrace-Builder Raptors, who lead the Protectorate and provide most of its military might, and the Iron-Worker Ratfolk, who remain the drivers of their economy.
 
@@ -653,11 +666,14 @@ Farmers, in turn, work the terraced fields, and serve as craftsmen in rural sett
 The inclusion of the Iron-Worker Ratfolk in the Protectorate brought profitable trade, and with it chnage.
 The "tribute" that the Iron-Workers pay to the Terrace-Builders is minor, but profit from trade with them is significant; the Terrace-Builters also charge a tarrif on goods carried over the extensive network of roads that they maintain through the Raptor's Peaks at the center of the Ruby Plane.
 Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people — minus a portion claimed by the city-states themselves.
-This means, in practice, that the city-states are well-funded, and that those doing corvee labor now receive a modest wage.
+This means, in practice, that the city-states are well-funded, that the Terrace-Builders have become wealthy, that those doing corvee labor now receive a modest wage, and that a market for goods and artisenry has sprung up.
 
 To encourage profitable trade and useful craft, most Terrace-Builder city-states allow members of the Soldier and Farmer castes to purchase an exemption from certain corvee duties.
-This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
-This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
+This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and enabled further trade with the distant Iron-Workers Ratfolk.
+
+Two additional sub-castes have risen to prominence: *merchants* and *artisens*.
+*Merchants* are a sub-caste within the *administrator* caste, engaged in the sale and exchange of goods with other cultures, both their own (for personal profit) and those of the sity-state; *artisans*, in turn, are a sub-caste of the *farmer* caste, and are responsible for mastering useful crafts.
+As contact with other races and cultures has brought material surplusses and new knowledge, these castes have grown in their wealth and prominence.
 
 [[fiction]]
 |
