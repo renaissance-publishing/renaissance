@@ -21,7 +21,11 @@ Much of the Ruby Plane remains unexplored; it extends well south, past the Rapto
 | We have generally assumed a fairly Earth-like world.
 | It is very slightly larger, is very slightly further from a very slightly larger star, and has a slightly longer orbital period of roughly 371 days — but has roughly the same surface gravity, axial tilt, and environment.
 | 
-| The world has 3 natural satellites — one is a large, dull, white-grey body similar to Luna (possibly carved from the primordial planet by an impact), while two are smaller, irregular, darker objects (likely captured bodies).
+| The world has 3 natural satellites — one is a large, bright, white-grey body similar to Luna (possibly carved from the primordial planet by an impact), while two are smaller, irregular, darker objects (likely captured bodies), one a dark grey and one a slightly rusty red.
+| The largest is the *Light Moon*, and is often treated as a lesser partner to the sun in myth and metaphor; the other two are *Ash Moon* and *Rust Moon*, and are often associated with decay.
+| 
+| The system also includes various *planets*, which the locals regard as wandering stars; their word for them, much like ours, has its root in the word for "wanderer."
+| Four of these wanderers are commonly known; like our solar-system, there are likely more, too dull or distant to be visible to the naked eye.
 
 [[designnote]]
 | Dates will usually be given using the Commonwealth's calendar, which is based off of the solar year (like the Gregorian calendar in use on Earth).
