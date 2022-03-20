@@ -404,7 +404,7 @@ Even now that the Dragonshire is a province of the Commonwealth, the Northland C
 |
 |Stormswor'd Rest is a walled city straddling a narrow pass that leads west across the Worldspine.
 |Well-fortified and highly-definsible, it guards the east against campaigns launched out of the independant territories of the northwest, or by unaligned Orcs and Dwarves; it also hosts some of the Dragonshire's premier war-colleges.
-|Controlling both one of the rare passes through the Worldspine and sitting in the Northland Corridor, it is also a major trade hub.
+|Both controlling one of the rare passes through the Worldspine and sitting in the Northland Corridor, it is also a major trade hub.
 |It is also a polyglot city, hosting populations from a dizzying array of races, many from outside the Commonwealth (possibly owing to being a major center of High Road activiy).
 |
 |---
@@ -415,9 +415,38 @@ Even now that the Dragonshire is a province of the Commonwealth, the Northland C
 |
 |Common Races: varies; Humans (20%), Gnolls (20%), Drakes (10%), Orcs(10%), Kobolds (5%), plus others and stationed troops
 |
-|Location: central Westward, in narrow band between Herd-and-Pack and Shaded Sea
+|Location: In the northwest of Dragonshire Province, in the foothills of the Worldspine Mountains.
 |
 |Industries: Soldiery, Command, Administration, Seigecraft, Masonry, Smithing, Farming
+
+Stormsword’s Rest is a large walled city that covers the eastern entrance of a narrow pass through the northern reaches of the Worldspine Mountains, and also controls a large swath of the Northland Corridor to the west.
+The region is known as the Worldspine Pass March; though it is small, it is strategically vital for the Dragonshire.
+
+Despite a lack of local material, the township is home to several stonemason, blacksmith and carpentry workshops; the apprentices of these shops are highly valued for their skills throughout the Dragonshire and Greater Commonwealth.
+To the east, the rough highlands lend themselves to herding sheep and goats, and fertile, but hard land supports a few scattered orchards. To the west, in the pass proper, there are quarries that date back to the original construction of the town’s walls.
+
+The township itself is nestled within a tight section of the pass, with walls stretching the entire valley in concentric rings of different construction and styles. Dense structures fill the residential blocks, larger buildings straddling the streets with bridges. On the northern edge of the city, perched atop a retainer wall, there is a relatively large university, famous for it’s natural philosophy lectures. To the southern edge, a military academy atop it’s own wall, training Dragonshire officers for the Commonwealth Military.
+
+Tunnels into the northern mountainside, and southern retaining walls, lead underground to a kobold, dwarven, and ash elf community. While topside, the town is dominated by Gnoll, human and Drake citizens. Sitting on the passageway through the worldspine, Stormsword’s Rest is also home to a large temporary population of traders and wagoneers. The population of the town has exploded in recent times, with an oddly high number of escaped and former slaves taking up residence.
+
+The town’s symbol, and the symbol of it’s ruling family, is a black image of an open gatehouse, overlaid on a fortified tower and sitting upon a red field. It is often joined by a smaller crest, of a black-blue and brown-green field, with a silver or white dragon skull and mangrove tree. The town is constructed largely of grey stone and imported woods, and the limited pallet of colours is offset by bright banners and pennants in the colours of the town, and the commonwealth as a whole. Large painted murals and colourful mosaics decorate where they can, and small, well-maintained window gardens are a source of pride in the densely-built Manoral town.
+
+Stormsword Manor itself sits at the centre of town. A single, fortified tower with an undying, eternal flame at it’s top, points out the very centre point of town. Atop a slight rise that has been manicured into angular and refined gardens for public use. Built later, the manor house is slightly curved, and built into the foundations of the tower. A relatively plain frontage, with doors opened to all. The main floor is given over to the town council and administration, with the Marchess’es home starting on the second floor.
+
+To the western edge of the town is the main Mustering point of the Northwestern Levee, a powerful military division lead by the General Stormsword. Professional soldiery is housed and trained there; and volunteers, conscripts, and draftees will assemble there in times of war and strife. On the outskirts of the farms to the east, there is a large, well-appointed Dancing Hawk stable, where the Marchess indulges in her hobby of breeding and training the animals.
+
+The township is relatively orderly, but there is still a criminal underbelly, making use of deep shadows and alleyways. Smugglers and shady groups have a notable presence, as they do throughout the Northland Corridor. They dominate underworld dealings, and have an all-but-open relationship with the town council. Despite Stormsword’s best interests and desires to the contrary.
+
+Other groups of note in town are the trade unions. Bargaining blocks of tradespeople and farmers, Establishing standards of practice and allowing for a unified front for bargaining against political interference in their businesses. They also ensure fair and even handling of apprenticeships, and the relationship between wagoneers and local tradespeople and farmers.
+
+Ruling Family-
+
+Local nobility is known as ‘Valley Storm’ In common, having governed and been involved in Stormsword’s Rest for many generations. The town is named for a mighty warrior and blacksmith, the Marchess’es grandfather, and the original bearer of the name.
+
+The Marchess herself, Xhosra Quillion-Durandal, Stormsmaiden in common, is approximately 80 to 90 years of age, slightly older than her husband. She is a Drake who was born in the local region, and is descended from more serpentine dragon stock. Her family history is somewhat muddled, but it has left her riding on a single long tail, and decorated in brilliant, midnight-blue plumage. She has prominent wings, with dextrous fingers at the wrist joint, and flourishing into bright yellows and reds along the trailing edge. The amphithere ancestry has also left her a little short and small by the standards of drake kind, She comes across as quick-witted, a deft and confident stateswoman and analytical mind.
+The husband of the Marchess, Stormsword. More formally General Chandra Durandal, known originally as Pukescale, due to his uncomfortable, yellow-green scales and filial background of swamp and necrotic dragon stock is the typical drake. Marrying into the family, he is known for his powerful build and the mighty golem limb on his left side. He is considered one of, if not the best swordsmen in the Dragonshire. He has a surprising understanding of architecture and construction, and is a devoted father. His manner is far more blunt, though, and his wife takes the lead in negotiations and more delicate matters.
+
+The future generations of the family are a daughter coming into adulthood, Xoshara Quillion-Durandal, and twin sons. Xoshara herself has dedicated herself to learning her father’s trade in combat, and learning swordsmanship to her fullest. She often patrols with the town guard in a simple uniform to downplay her social rank, and occasionally, like her father, steals away to adventure through the greater commonwealth. The sons are encouraged to make friends and explore through the town, though are still too young to really make any decisions about their lives and futures. All three are being tutored and educated by their parent’s staff.
 
 ### Major Spirit: The Bullrush God
 
