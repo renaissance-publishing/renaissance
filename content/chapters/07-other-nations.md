@@ -239,7 +239,7 @@ The Kingdom of Haffa lies in the extreme northwest of the Kingdoms of Men; it sh
 Its current capital is called Ehnef in Royal, although it is sometimes referred to as nal'Haffa (literally "Haffa Capital"); it's called Grey-Blood's Weir in Common, named for a spill-over dam on a river immediately to the east that feeds the water-channels that supply the city with water.
 
 The Haffa are remarkable because they are one of the only large populations of half-breeds in the known world.
-Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor — they are often taller, heavier and stronger than either elves or humans — but they can also suffer from strange, sometimes terrible diseases — ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects.
+Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor (they are often taller, heavier and stronger than either elves or humans) but they can also suffer from strange, sometimes terrible diseases (ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects).
 They are also almost always sterile.
 
 The Haffa are one of only two stable, healthy and fertile populations of Elf-Human hybrids (the other being the Shifters).
@@ -254,19 +254,140 @@ The Haffa maintain their health through selective breeding, special medicines, a
 |What spirit was it struck with, and what cost was demanded?
 |Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
 
-The Haffans politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
-Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
+The Haffans' politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
+Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship was acclaimed in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
 
 Most recently, between CY 789 and CY 797, the Eastern Kingdoms deployed all their wealth and power to target Lords on the eastern border of the Haffa; after their finances crumbled, the Easterners purchased the Haffans' lands and holdings.
-What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally abused by their new, distant Eastern Lords
+What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally exploited by their new, distant Eastern Lords; this time came to be known as the Easterner's Famine.
 As their circumstances became dire, the Haffan peasantry began to revolt; between CY 811 and 814, the Eastern Kings attempted to muster an army to suppress the revolts, but Ayl Ahnaff, Kass Ahnaff's granfather and the High King at the time, refused to raise the Kingdom's army or allow the Easterners to quarter in his territory.
 This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl — the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
 The incident secured the Haffa's loyalty to the Ahnaff line for generations — as well as their deep hatred of the Eastern Kings.
 
-### The Secret Army
+### Wolf-in-Wool's Flock
 
-[[hook|Secret Army Plot-Hooks]]
+Operating under no singular title other than the common name of its leader, Wolf-in-Wool's network is an information-sharing organization based primarily in the Eastern Kingdosms of the Kingdoms of Men and the Haffa Kingdom.
+They are a largely-unknown and extra-legal group that gathers up secrets, links them together, and sells them on to the highest bidder.
+Tendrils of their network exist as far west as the eastern fringes of the dragonshire, and as far south as the shores of the Goblin Empire.
+
+Within the Kingdoms, if a secret is held, it is almost guaranteed that someone within the Flock knows it.
+Rumors abound of the state of the network and it's operatives, up to and including the implication that Wolf-in-Wool herself is somehow a spirit of secrets and conspiracy.
+
+#### The History of the Wolf's Flock
+
+The network itself came into being in part as a result of the same campaign of starvation that cemented the Haffan King's hatred of the Eastern Kings.
+Betweem CY 803 and 806, in the midst of the Easterner's Famine, an outbreak of fever and a crop failure in the neighboring kingdoms lead to a sharp increase in poverty, hunger, and homelessness in the broader northwest of the Kingdoms of Men; the fever was especially lethal for adults, and left many children orphaned.
+A woman claiming to be related to a noble family with holdings in the border-lands of both Haffa and Ahnaff, began to feed and care for these children, in exchange for stories and rumors from the streets, or trinkets and baubles stolen from merchants.
+Her intentions where not pure, of course, as she used the children's knowledge for her own gain: sometimes, she sold their secrets and stories for gain, while other times she exploited them to pursue her own ends.
+
+Evidently, her "flock" proved profitable, and she maintained her network after the fever died down.
+There being no shortage of poverty and want in the world – especially in the Eastern Kingdoms, where rulers are often brutal station and privilege are all but carved in stone – she did not want for recruits.
+As the Wolf-in-Wool (as she came to be known among the Kingdom's criminal element) established her empire of secrets and rumour, she retreated from public life.
+Over the years, the Wolf was able to spread her network throughout the Haffan border-regions, the other Northwest Kingdoms, and into the East – although how exactly the  Wolf-in-Wool accomplished this is a secret known only to herself and the Grandmothers (her lieutenants).
+
+As the children matured into con artists, street performers, beggars, and thieves, the capabilites of the Flock increased, quickly outpacing the abilities of the Kingdom's spies, seargents, and law-men to corrale it.
+Already accustomed to a hard life on the streets, the agents of the Flock knew well the best ways to disappear from view, fading into anonymity and slipping from town to town unremarked.
+
+They have come to have an almost mythical status in the Kingdoms today: any time an unknown heir rises to a throne, a bastard child is born without protest or scandal, the whispers of revolt suddenly go silent, or the activities of the High Road are laid bare, it is only due to gold crossing the palms of the Wolf in Wool.
+
+With the harsh conditions under Kingdoms feudalism, there is a constant stream of new recruits, both orphaned and runaway.
+
+#### Managing the Flock
+
+There is very little structure to the Flock.
+Every city has a single individual responsible for coordinating local activity, called "Grandmother" by the children who sell her secrets; in turn, the Grandmothers (presumably) answer to the Wolf-in-Wool.
+Of course, Grandmothers are often unassuming and private individuals – and they are always female.
+
+There are also a small number of specialist "faces" within the Flock, adult males who function as intermediaries and dealmakers, exchanging secrets selected by the Grandmothers for prices agreed upon.
+(If captured, they are notoriously difficult to interrogate; they have a talent for deceipt and misdirection the envy of any barrister or university debater.)
+
+Beyond the Grandmothers and Faces, the majority of the Flock's agents are children.
+Agents of the Flock are roughly ranked according to their age, as more mature and elder agents have a wider spread of activity and a better understanding of what secrets have value.
+
+While the Flock does not have a training regimen *as such*, members are taught to play various word and memory games, and are encouraged to challenge each-other to various kinds of verbal sparring; this is done to nurture a sharp, quick, and probing wit, to train the children to work secrets out of others while preserving their own, and to ensure that sharp memories allow secrets to be carried to Grandmothers (and ultimately to the Wolf) without ever being written down.
+
+Other than the Grandmothers and Faces, agents are free to act as they see fit, and to come and go as they please.
+(This is espeically practical, of course, as most of the agents are children, and most serve only short tenures.)
+Unlike other gangs – if the Flock may be so called – members are not beholden to the group; should they find gainful employment elsewhere, or should their travels take them beyond its influence, they are permitted to depart freely.
+They are also equally free to return; even a lapsed member will be welcomed back into the fold, should they bring a juicy secret for the Flock.
+
+#### Relationships
+
+The Flock has no particular friends or enemies: they will sell any secret to anyone, and so provide advantage to no one.
+Most find them to be useful and dangerous, in roughly equal measure.
+
+There are two organizations that are rumored to have regular dealings with the Flock: the Far Watch and the High Road.
+
+For the Far Watch, the Flock is a dangerous tool, best used sparingly and handled with care.
+Wolf-in-Wool's can prove too valuable a source of knowledge and intelligence to ignore; however, they are also perfectly willing to deal in the Far Watch's secrets, exposing the Watch's more cloak-and-dagger operations to their targets, potentially with dire consequences.
+
+The High Road work closely with the more liberal, western fringes of the Flock, especially those in the kingdoms of Haffa and Ahnaff.
+Even though the large Flock contingent in the East means that news of the High Road's activities will doubtless travel through their network into the hands of Eastern Kings, the Flock's ability to provide intelligence about slave-*hunters* operating outside of the Eastern Kingdoms has proved to be invaluable.
+
+As loose and diffuse as the Flock is, they do have their borders, areas where their influence ends and another organisation begins.
+They are mainly confined to the Kingdoms of Men, primarily in the northwest and east.
+Notably, they seem to have some kind of ongoing fued with the Certan movement, and have few tendrils in their territory; if there is a Grandmother in Certa, she keeps an even lower profile than most.
+
+The way they allow their members to come and go as they see fit, also means that occasionally children who came up in the Flock will find themselves in other organisations.
+Former members of the Flock can bring impressive and valuable skills to other organizations – although this does need to be balanced against the risk that they will, if entrusted with a valuable secret, remember the kindly older woman that they used to call *grandmother*.
+
+[[playerguidance | Wolf's Flock Characters]]
 |
+| The Wolf-in-Wool's Flock provides a path for a street-urchin, orphan, or runaway to acquire skills and connections that can be invaluable during a campaign – although their origins in the kingdoms of Men does mean that members are most likely human.
+| A childhood spent in the Wolf's Flock can be a compelling start for Investigators, Analysts, Socialites, and Infiltrators; because of their diverse backgrounds and paths, they can also dabble in nearly any other skill or trade.
+| It will also allow a member access to allies valuable information, powerful connections and diverse skills.
+|
+|Consider joining the Wolf's Flock if you:
+|
+|- Want to play a character from a humble (or desperate) background.
+|- Want to play a character who slips under notice, and fades into the crowd.
+|- Want to play a character who deals in secrets and subterfuge.
+|- Want to work with spies and secret-brokers as partenrs.
+|- Want to play against type, possibly rising above your desperate and mysterious past.
+
+[[gmguidance | Using the Wolf's Flock]]
+|
+| Wolf-in-Wool's secret army is a foe that is as formless as mist.
+| They swirl and curl around observation to obscure their movements and activity.
+| When an agent is captured, their interrogation will produce so many half-truths and lies that the honest confession will be lost in the noise – if the agent is not not dismissed outright as a simple child or harmless old woman.
+|
+| The main effect they can have on a campaign – for good or ill – is disclosing information that *someone* wishes to keep secret.
+| They might sell the party a secret that they can use to blackmail an Eastern King, or provide the location of a target who has gone to ground somewhere on the coast of the Glass Sea.
+| On the other hand, though, they might also sell the *party* out: they might reveal a Far Watch operation, or sell information about a High Road cell to an Eastern King.
+|
+| The Secret Army might be most interesting as an impartial wildcard.
+| Perhaps an obstacle, perhaps a boon, but certainly not to be ignored.
+|
+| Note that a characte does not need to be a member of the Wolf's Flock to deal with them; they will sell secrets to anyone.
+| Any character with a criminal background – certainly one with Profession: Criminal or something similar – would likely be able to go about setting up an audience with a local Face.
+| Of course, they will need to be very careful when interacting with that Face; like any member of the Wolf's Flock, they are expert in verbal sparring, and will waste no opportunity to extract information.
+
+[[gmguidance | Campaigns for the Wolf-in-Wool's Flock]]
+|
+| The Wolf's Flock can be effective as the focal point of a campaign: as an end goal, reaching a deal with a Face; as a timed obstacle that one must outrace; as the subject of an investigation themselves; or as an outside force sent to pry into the party's secrets.
+|
+| **Wolf's Flock Adventure: He was never my favourite Grandson**
+|
+| A note appears in the party's bags, likely place by the slim fingers of a pickpocket: a grandmother in the western reaches of the Kingdoms asks for assistance.
+| She claims that one of her Faces has been involved in a deal that has turned bad.
+|
+|-It is rare for Grandmothers to make themselves known, so why would this one break from tradition? 
+|-What deal has taken place, and is it the deal she thinks it was?
+|-What information is so valuable that the buyer was willing to betray the Flock, and risk having all of their own secrets exposed?
+|
+| **Wolf's Flock Adventure: They Mustn't Know**
+|
+| The party has come into posession of some kind of information that Wolf-In-Wool herself wants to be repressed.
+| It might be information that would reshape the politics of the world, or it might be as simple as the name of an assassin from years past.
+| But, dramatic or trivial, this brings the party to her attention, and they find themselves the target of a campaign of misinformation and hired blades.
+|
+|-What information has the party come into contact with?
+|-Is it even something the party is aware they know?
+|-What do they do with the leverage this gives them?
+|-What secrets can the Wolf-in-Wool bring to bear?
+|-What kinds of lies can she cover them with?
+|-Does she use her influence and wealth to hire the skills of assassins or cut-throats?
+|-How do they deal with being hunted?
+
 
 ### Major Character: Kass Ahnaff, High King
 
