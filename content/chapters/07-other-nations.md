@@ -6,7 +6,7 @@ title: "Other Nations"
 
 ![Kingdoms Banner](../images/proto_banner_kingdoms.png)
 
-The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after it had collapsed.
+The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after its collapsed.
 
 [[abstract]]
 |
@@ -600,7 +600,6 @@ The Ratfolk of the Warren Isles became tributaries of the Leapers.
 
 In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, however, they where not a unified force.
 The Leapers did not establish any kind of administrative structure, no one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
-
 
 #### The Siege of Islandhome
 
