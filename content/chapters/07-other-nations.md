@@ -6,7 +6,7 @@ title: "Other Nations"
 
 ![Kingdoms Banner](../images/proto_banner_kingdoms.png)
 
-The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after it had collapsed.
+The Kingdoms of Men are a human nation that lies to the northeast of the Dragonshire; it arose from the ashes of the Empire of Man more than a century after its collapsed.
 
 [[abstract]]
 |
@@ -100,12 +100,17 @@ The allegiances that bind the Kingdom together are very fragile; they can shift,
 Because of this, the Kingdoms' politics can be incredibly treacherous, as different power-blocks jostle for control.
 
 Only sometimes can one King credibly claim rulership over all (or just
-*enough*) of the Kingdoms to claim the title of High King---and such a High King's rule is often tenuous, as they will never be without enemies, rivals and usurpers.
+*enough*) of the Kingdoms to claim the title of High King – and such a High King's rule is often tenuous, as they will never be without enemies, rivals and usurpers.
 
 There have been three High Kingships in the Kingdoms' history.
-There first High Kingship lasted from CY 255 to CY 281; this short-lived dynasty collapsed 10 years after passing form its founder to its first heir, rent apart by an internal power struggle. The second High Kingship lasted from CY 361 to CY 435; these High Kings were substantially more warlike, and were in constant conflict with both the Dragonshire to their east and the Goblin Kings to their South.  The second Kingship collapsed after a series of disastrous military adventures between CY 429-CY 433.  The third High Kingship began in CY 695, and has lasted to the present day.  This High Kingship had good relations with the Dragonshire, and now has good relations with the Commonwealth.
+There first High Kingship lasted from CY 255 to CY 281; this short-lived dynasty collapsed 10 years after passing form its founder to its first heir, rent apart by an internal power struggle.
+The second High Kingship lasted from CY 361 to CY 435; these High Kings were substantially more warlike, and were in constant conflict with both the Dragonshire to their east and the Goblin Kings to their South.
+The second Kingship collapsed after a series of disastrous military adventures between CY 429-CY 433.  The third High Kingship began in CY 695, and has lasted to the present day.
+This High Kingship had good relations with the Dragonshire, and now has good relations with the Commonwealth.
 
-The Kingdoms can be roughly divided between their western and eastern halves.  The western Kingdoms are relatively open; they have benefited heavily from trade with the Commonwealth, and have little interest in conflict with their wealthy and powerful neighbor.  Unsurprisingly, the present High King hails from a city-state in the western Kingdoms.
+The Kingdoms can be roughly divided between their western and eastern halves.
+The western Kingdoms are relatively open; they have benefited heavily from trade with the Commonwealth, and have little interest in conflict with their wealthy and powerful neighbor.
+Unsurprisingly, the present High King hails from a city-state in the western Kingdoms.
 
 The eastern Kingdoms are far more cruel; the Three Cities that built the Empire lie in the eastern portion, and to this day many of the residents there are quick to believe that humans should hold dominion over all other races (and that those whose ancestors built the Empire should hold dominion over all other humans).
 
@@ -127,37 +132,49 @@ Unfortunately, this thriving trade does put strain on the east-west divide withi
 
 The Kingdoms of Men is a government of men, in their traditional territories; with few exceptions, they have not treated with the other races that may have dwelt within their borders, and instead have displaced them; any that remain are not recognized and citizens, but can only ever be subjects of the Kingdoms.
 
-There is one notable exception; the Kingdom of Haffa in the northwest.  Elves and humans are nearly unique in that they are able to interbreed, although these hybrids are usually sterile (and often suffer other ailments); the half-human, half-elven population of much of Haffa, including the noble line that rules the kingdom, are exceptions to this rule---they are not sterile, and do not commonly suffer any other ailment from their mixed blood.  (It is rumored that magical intervention may have been required to achieve this; whether this is true---and if so, what that intervention was, or what price was likely paid---has been lost to history.)
+There is one notable exception; the Kingdom of Haffa in the northwest.
+Elves and humans are nearly unique in that they are able to interbreed, although these hybrids are usually sterile (and often suffer other ailments); the half-human, half-elven population of much of Haffa, including the noble line that rules the kingdom, are exceptions to this rule – they are not sterile, and do not commonly suffer any other ailment from their mixed blood.
+(It is rumored that magical intervention may have been required to achieve this; whether this is true – and if so, what that intervention was, or what price was likely paid – has been lost to history.)
 
-Unsurprisingly, the Haffa are enemies-by-necessity of the Eastern Kingdoms, who view them as mongrels and half-breeds at best; the Haffa are strong supporters of the current High King and his line.  Notably, though, they usually have no special affinity for tribal Elves living within the Commonwealth's borders, and to the west of the Worldspine.
+Unsurprisingly, the Haffa are enemies-by-necessity of the Eastern Kingdoms, who view them as mongrels and half-breeds at best; they are also strong supporters of the current High King and his line.
+They usually have no special affinity for tribal Elves living within the Commonwealth's borders, and to the west of the Worldspine, much as Humans living in Heartland have no particular affinity for tribal Human cultures.
 
-A particularly grim moment in the history of the Kingdoms' relations with an attempt launched in the Eastern Kingdoms to exterminate their indigenous Kobold population; this led to a mass exodus of Kobolds from the entire Kingdoms.  A few scant pockets of Kobold populations remain in the Western Kingdoms; some settled in the Dragonshire, owing partly to their ability to speak the Drakes' language; far larger number settled deep under the Worldspine; and many more still continued on to the Haven Isles.  In the Commonwealth, Kobolds have prospered and become numerous; this is not the least of the reasons that the Commonwealth views the Eastern Kingdoms as their enemy.
+A particularly dark moment in the Kingdoms' history occurred some 200 years ago, when the Eastern Kings attempted to exterminate their indigenous Kobold populations; though a few small Kobold populations remain in the Western Kingdoms, the vast majority of them left in an exodus from the Kindgoms of Men.
+Some settled in the Dragonshire, owing partly to their ability to speak the Drakes' language; far larger number settled deep under the Worldspine; and many more still continued on to the Haven Isles.
+In the Commonwealth, Kobolds have prospered and become numerous; this is not the least of the reasons that the Commonwealth views the Eastern Kingdoms as their enemy.
 
 ### The Military
 
-Rapid improvements in the quality and availability of steel plate armor---in both the Kingdoms and the Dragonshire---have been the major driver of military tactics in the Kingdoms.  The Kingdoms have sophisticated-enough metallurgy that they can produce large numbers of weapons and armors made of high-quality steel, but they cannot produce it on the scale that the Commonwealth can, and so steel plate armor in particular remains primarily the province of knights (who are often drawn from the ranks of the noble and the wealthy).
+Rapid improvements in the quality and availability of steel plate armor – in both the Kingdoms and the Dragonshire – have been the major driver of military tactics in the Kingdoms.
+The Kingdoms have sophisticated-enough metallurgy that they can produce large numbers of weapons and armors made of high-quality steel, but they cannot produce it on the scale that the Commonwealth can, and so steel plate armor in particular remains primarily the province of knights (who are often drawn from the ranks of the noble and the wealthy).
 
-Knights are among the most iconic of the Kingdoms' combatants; horse-mounted human Knights in full plate are mobile, heavily-armored and difficult to strike, making them a devastating force on the battlefield.  Many of the kingdoms have long traditions of horse-back riding and archery; because of this, besides mounted Knights, the Kingdoms can boast large numbers of skilled light cavalry and archers---especially masters of the devastating-though-difficult longbow.  In recent years, however, the prominence of longbow archers has fallen away, as the Kingdoms now commonly arms its peasant infantry with easy-to-use and powerful crossbows.
+Knights are among the most iconic of the Kingdoms' combatants; horse-mounted human Knights in full plate are mobile, heavily-armored and difficult to strike, making them a devastating force on the battlefield.  Many of the kingdoms have long traditions of horse-back riding and archery; because of this, besides mounted Knights, the Kingdoms can boast large numbers of skilled light cavalry and archers – especially masters of the devastating-though-difficult longbow.  In recent years, however, the prominence of longbow archers has fallen away, as the Kingdoms now commonly arms its peasant infantry with easy-to-use and powerful crossbows.
 
-In its early years, each noble and each kingdom was responsible for contributing to the Kingdoms' military from their own resources; though the Kingdoms where often capable of fielding a large and effective army, they could suffer from inconsistent standards of equipment, composition and discipline.  One innovation achieved during the interregnum between the Second and Third High Kings was a standardization of the kinds of combatants that each kingdom was expected to furnish.  Though the *enforcement* of these standards is still subject to the Kingdoms' internal politics, their military is nevertheless far more consistent and unified today than it has been in centuries past.
+In its early years, each noble and each kingdom was responsible for contributing to the Kingdoms' military from their own resources; though the Kingdoms where often capable of fielding a large and effective army, they could suffer from inconsistent standards of equipment, composition and discipline.
+One innovation achieved during the interregnum between the Second and Third High Kings was a standardization of the kinds of combatants that each kingdom was expected to furnish.
+Though the *enforcement* of these standards is still subject to the Kingdoms' internal politics, their military is nevertheless far more consistent and unified today than it has been in centuries past.
 
-The Kingdoms typically view their Knights as their most elite and powerful combatants, and they are typically the centerpiece of their military strategy.  After the Knights, their light cavalry and archers are their most prominent forces.  They often field a small number of professional infantry, who they place at the front of their lines, and support with larger numbers of mercenaries, mustered peasants and even conscripted prisoners; unsurprisingly, the discipline, morale and effectiveness of the last two categories can vary widely.
+The Kingdoms typically view their Knights as their most elite and powerful combatants, and they are typically the centerpiece of their military strategy.
+After the Knights, their light cavalry and archers are their most prominent forces.
+They often field a small number of professional infantry, who they place at the front of their lines, and support with larger numbers of mercenaries, mustered peasants and even conscripted prisoners; unsurprisingly, the discipline, morale and effectiveness of the last two categories can vary widely.
 
-Though not a fact that is often spoken aloud---especially in the Eastern Kingdoms---the Kingdoms of Men are entirely militarily overmatched by the Commonwealth.  Though the Commonwealth cannot boast the large number of Knights that the Kindgoms can, the Commonwealth is richer, has better access to steel, is *much* larger, has a much larger professional military, and can draw on the much greater physical strength of Gnolls and Drakes.
+Though not a fact that is often spoken aloud – especially in the Eastern Kingdoms – the Kingdoms of Men are entirely militarily overmatched by the Commonwealth.
+Though the Commonwealth cannot boast the large number of Knights that the Kindgoms can, the Commonwealth is richer, has better access to steel, is *much* larger, has a much larger professional military, and can draw on the much greater physical strength of Gnolls and Drakes.
 
-The Kingdoms, however, *are* a match for their neighbor to the south, the Goblin Empire, which led the Goblins in years past to sail south from the Emerald Plane and seek riches (and weaker opponents) on the Ruby Plane.  This influx of wealth (and new source of fighting experience for their infantry), however, has led to a significant improvement in the Goblin Empire's military; this in turn has not escaped the notice of the Kingdoms of Men.
+The Kingdoms, however, *are* a match for their neighbor to the south, the Goblin Empire, which led the Goblins in years past to sail south from the Emerald Plane and seek riches (and weaker opponents) on the Ruby Plane.
+This influx of wealth (and new source of fighting experience for their infantry), however, has led to a significant improvement in the Goblin Empire's military; this in turn has not escaped the notice of the Kingdoms of Men.
 
 ### The Kingdoms of Men and Other Nations
 
 At present, the Kingdoms of Men are at peace with the Commonwealth, and are not at war with the Goblin Empire.
 The High King has fostered good relations with the people of the Commonwealth, and the people of the Western Kingdom have prospered from it.
-This state of affairs is precarious, however, as many within the Eastern Kingdoms would dearly love to seize the throne---and thereafter to reclaim long-lost territories from the Dragonshire, to lay the Commonwealth and the Goblin Empire low, and to restore humanity to preeminence in the land east of the Worldspine.
+This state of affairs is precarious, however, as many within the Eastern Kingdoms would dearly love to seize the throne – and thereafter to reclaim long-lost territories from the Dragonshire, to lay the Commonwealth and the Goblin Empire low, and to restore humanity to preeminence in the land east of the Worldspine.
 
 They could never achieve this on their own, however, even *if* they could command the undisputed loyalty of all the kings and nobles of the Kingdoms of Men; therefore, the nobles of the East are searching for allies.
 
-The rulers of the West are not ignorant of this---the kings of the far east are seldom subtle in their contempt for non-humans---and so they are seeking allies, too.  And so, the struggle for rule of the Kingdoms of Men has become something of a proxy war between all the great powers of the continent.
+The rulers of the West are not ignorant of this – the kings of the far east are seldom subtle in their contempt for non-humans – and so they are seeking allies, too.  And so, the struggle for rule of the Kingdoms of Men has become something of a proxy war between all the great powers of the continent.
 
-If the Easterners can seize control of the Kingdoms, and if they strike an alliance with the Goblin Empire and the Shaded Sea Peoples---even a temporary one---then the Commonwealth is doomed; if, however, the current high-king can solidify his control, then an alliance with the Commonwealth is a possibility---and should that happen, the Shaded Sea People and the Goblinoid Empire would in turn be hopelessly outmatched.
+If the Easterners can seize control of the Kingdoms, and if they strike an alliance with the Goblin Empire and the Shaded Sea Peoples – even a temporary one – then the Commonwealth is doomed; if, however, the current high-king can solidify his control, then an alliance with the Commonwealth is a possibility – and should that happen, the Shaded Sea People and the Goblinoid Empire would in turn be hopelessly outmatched.
 
 Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance between the Shaded Sea People, the Goblins and the Eastern Kingdoms seems unlikely; the Human and Goblin nations have a long history of conflict, and the Shaded Sea People have no significant contact with either; what's more, the Eastern Kingdom's obvious contempt for non-humans would make such an alliance difficult to strike (and impossible to sustain).
 
@@ -175,8 +192,6 @@ Fortunately for the Commonwealth and the Western Kingdoms, a nightmare alliance 
 |* break up powerful alliances,
 |
 |and on and on!
-|
-
 
 ### The Certan Movement
 
@@ -195,9 +210,7 @@ The Certa are not a peaceful movement; not all of the nobles that they have disp
 Though there has not yet been an open insurrection, in recent years, a number of nobles have died (or disappeared) under mysterious circumstances — and others have obviously been assassinated.
 Though the Certanis have not yet been proven responsible, they have also not been particularly subtle — particularly considering that much of their expansion has been by expanding into the territories of dead or disappeared nobles near their territory.
 
-[[hook]]
-|
-|#### Plot Hook: Certa
+[[hook | Plot Hook: Certa]]
 |
 |The Certanis are a destabilizing influence in the already-tumultuous politics of the Kingdoms of Men, which can make them a rich source of plot hooks.
 |
@@ -205,20 +218,16 @@ Though the Certanis have not yet been proven responsible, they have also not bee
 |* A noble in the West could die under mysterious circumstances, which various factions in the Commonwealth may wish to investigate.
 |* The Certans are a recent movement; the party may simply be dispatched to investigate them — to decide if they're a potential ally or a potential threat.
 |* The Certans might not be as guilty as everyone assumes.  Maybe many of the assassinations in the West are actually the result of treachery by Eastern Kings, and they are simply framing the Certans.
-|
-
 
 Though the Certanis are anti-monarchist, they are not particularly egalitarian; wealthy merchants and land-holders have largely stepped into the place of displaced nobles.
 Though Certa is nominally a Republic, only those with "a vested interest in the prosperity of the people"—that is, the wealthy, people of business, and land-owners — can actually vote in elections for the *Chamber of Law*, or hold seats in it.
 (The *Chamber of Law* is the only house in the Republic that can actually make law; the *Chamber of the People* serves a purely advisory role.)
 
-The Certanis consider themselves natural allies to the Commonwealth — their movement was inspired by their powerful, peaceful and mercantile neighbor.
+The Certanis consider themselves natural allies to the Commonwealth — after all, their movement was inspired by the Kingdoms' powerful, peaceful, and mercantile neighbor.
 Unfortunately, the Kings of the West have been the main victims of the wave of political assassinations that is largely credited to the Certanis; given that the Kings of the West are allies of the Commonwealth, this makes any potential alliance between the Certanis and the Commonwealth somewhat fraught.
 What is perhaps worse is that some believe that the Certanis may not contain their regicide to the Kingdoms of Men; the Dragonshire also has a hereditary nobility — even if they have largely surrendered power to representative governments.
 
-[[hook]]
-|
-|#### Plot Hook: Certa's Secret Loyalties
+[[hook | Plot Hook: Certa's Secret Loyalties]]
 |
 |Why *have* the Kings of the West been the Certani's main victims?
 |Certainly one possibility is that they're weaker.
@@ -231,12 +240,8 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |Even more sinister is that the Goblins may be doing this to curry favor with the Eastern Kings.
 |It could also be the Leapers; they may have decided to undermine the Kingdoms with guile rather than overt subjugation.
 |It might even be a Tempter — or a spirit like them — seeking power for themselves.
-|
 
-
-[[gmguidance]]
-|
-|#### Defining Certa
+[[gmguidance | Defining Certa]]
 |
 |GMs have a fair amount of leeway in how they depict Certa.
 |
@@ -244,8 +249,6 @@ What is perhaps worse is that some believe that the Certanis may not contain the
 |Or they might be a major positive step for the Empire, despite their flaws — a sincere republican movement that heralds the breaking up of royal power.
 |
 |Pick a Certa that fits the game you want to run!
-|
-
 
 ### The Haffa
 
@@ -253,33 +256,243 @@ The Kingdom of Haffa lies in the extreme northwest of the Kingdoms of Men; it sh
 Its current capital is called Ehnef in Royal, although it is sometimes referred to as nal'Haffa (literally "Haffa Capital"); it's called Grey-Blood's Weir in Common, named for a spill-over dam on a river immediately to the east that feeds the water-channels that supply the city with water.
 
 The Haffa are remarkable because they are one of the only large populations of half-breeds in the known world.
-Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor — they are often taller, heavier and stronger than either elves or humans — but they can also suffer from strange, sometimes terrible diseases — ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects.
+Elves and Humans are almost unique in that they can (sometimes) produce offspring; these offspring frequently benefit from a kind of hybrid vigor (they are often taller, heavier and stronger than either elves or humans) but they can also suffer from strange, sometimes terrible diseases (ranging from the relatively benign, like bleeding easily or having strange allergies, to the debilitating and deadly, such as irregular growths, tumors or major birth defects).
 They are also almost always sterile.
 
 The Haffa are one of only two stable, healthy and fertile populations of Elf-Human hybrids (the other being the Shifters).
 The Haffa maintain their health through selective breeding, special medicines, and magical intervention — the exact nature of which is not widely known outside of the Haffa royal line.
 (Perhaps unsurprisingly, the Haffan court heavily patronizes physicians, and their healers are renowned throughout much of the world — they are certainly among the best in the Kingdoms.)
 
-[[hook]]
-|
-|#### Plot Hook: The Secrets of the Haffa
+[[hook | Plot Hook: The Secrets of the Haffa]]
 |
 |The (secret) magical intervention that the Haffa use to ensure their health is an obvious plot hook.
 |What is it?
 |Was it a deal struck with a powerful spirit centuries ago, like the one that created the Drakes?
 |What spirit was it struck with, and what cost was demanded?
 |Or is it on-going, some magical process that requires constant tending — and which could spell the downfall of the Haffa if it is ever disrupted, which their enemies may seek to do.
-|
 
-
-The Haffans politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
-Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
+The Haffans' politics are determined for them by their blood and their location; they have long been allies of the Kingdom of Ahnaff and the Commonwealth, with whom they share borders, and they are also major supporters of the current High King, Kass Ahnaff, who has been their shelter against the predations of the Eastern Kings.
+Conversely, they are despised by the Eastern Kings, who loathe them for their non-human blood; while open conflict between Kingdoms has been rare since the Third High Kingship was acclaimed in CY 695, the Eastern Kings have missed no opportunity to wound the Haffa.
 
 Most recently, between CY 789 and CY 797, the Eastern Kingdoms deployed all their wealth and power to target Lords on the eastern border of the Haffa; after their finances crumbled, the Easterners purchased the Haffans' lands and holdings.
-What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally abused by their new, distant Eastern Lords
+What followed was a time of brutal abuse, as the peasantry that lived in those holds where starved and brutally exploited by their new, distant Eastern Lords; this time came to be known as the Easterner's Famine.
 As their circumstances became dire, the Haffan peasantry began to revolt; between CY 811 and 814, the Eastern Kings attempted to muster an army to suppress the revolts, but Ayl Ahnaff, Kass Ahnaff's granfather and the High King at the time, refused to raise the Kingdom's army or allow the Easterners to quarter in his territory.
 This made it impossible for the Eastern Lords to maintain control, and resulted in their selling their holdings to both the Haffan king and Ayl — the latter out of spite, to keep the Haffan's land out of their hands for as long as possible.
 The incident secured the Haffa's loyalty to the Ahnaff line for generations — as well as their deep hatred of the Eastern Kings.
+
+### Wolf-in-Wool's Flock
+
+Operating under no singular title other than the common name of its leader, Wolf-in-Wool's network is an information-sharing organization based primarily in the Eastern Kingdosms of the Kingdoms of Men and the Haffa Kingdom.
+They are a largely-unknown and extra-legal group that gathers up secrets, links them together, and sells them on to the highest bidder.
+Tendrils of their network exist as far west as the eastern fringes of the dragonshire, and as far south as the shores of the Goblin Empire.
+
+Within the Kingdoms, if a secret is held, it is almost guaranteed that someone within the Flock knows it.
+Rumors abound of the state of the network and it's operatives, up to and including the implication that Wolf-in-Wool herself is somehow a spirit of secrets and conspiracy.
+
+#### The History of the Wolf's Flock
+
+The network itself came into being in part as a result of the same campaign of starvation that cemented the Haffan King's hatred of the Eastern Kings.
+Betweem CY 803 and 806, in the midst of the Easterner's Famine, an outbreak of fever and a crop failure in the neighboring kingdoms lead to a sharp increase in poverty, hunger, and homelessness in the broader northwest of the Kingdoms of Men; the fever was especially lethal for adults, and left many children orphaned.
+A woman claiming to be related to a noble family with holdings in the border-lands of both Haffa and Ahnaff, began to feed and care for these children, in exchange for stories and rumors from the streets, or trinkets and baubles stolen from merchants.
+Her intentions where not pure, of course, as she used the children's knowledge for her own gain: sometimes, she sold their secrets and stories for gain, while other times she exploited them to pursue her own ends.
+
+Evidently, her "flock" proved profitable, and she maintained her network after the fever died down.
+There being no shortage of poverty and want in the world – especially in the Eastern Kingdoms, where rulers are often brutal station and privilege are all but carved in stone – she did not want for recruits.
+As the Wolf-in-Wool (as she came to be known among the Kingdom's criminal element) established her empire of secrets and rumour, she retreated from public life.
+Over the years, the Wolf was able to spread her network throughout the Haffan border-regions, the other Northwest Kingdoms, and into the East – although how exactly the  Wolf-in-Wool accomplished this is a secret known only to herself and the Grandmothers (her lieutenants).
+
+As the children matured into con artists, street performers, beggars, and thieves, the capabilites of the Flock increased, quickly outpacing the abilities of the Kingdom's spies, seargents, and law-men to corrale it.
+Already accustomed to a hard life on the streets, the agents of the Flock knew well the best ways to disappear from view, fading into anonymity and slipping from town to town unremarked.
+
+They have come to have an almost mythical status in the Kingdoms today: any time an unknown heir rises to a throne, a bastard child is born without protest or scandal, the whispers of revolt suddenly go silent, or the activities of the High Road are laid bare, it is only due to gold crossing the palms of the Wolf in Wool.
+
+With the harsh conditions under Kingdoms feudalism, there is a constant stream of new recruits, both orphaned and runaway.
+
+#### Managing the Flock
+
+There is very little structure to the Flock.
+Every city has a single individual responsible for coordinating local activity, called "Grandmother" by the children who sell her secrets; in turn, the Grandmothers (presumably) answer to the Wolf-in-Wool.
+Of course, Grandmothers are often unassuming and private individuals – and they are always female.
+
+There are also a small number of specialist "faces" within the Flock, adult males who function as intermediaries and dealmakers, exchanging secrets selected by the Grandmothers for prices agreed upon.
+(If captured, they are notoriously difficult to interrogate; they have a talent for deceipt and misdirection the envy of any barrister or university debater.)
+
+Beyond the Grandmothers and Faces, the majority of the Flock's agents are children.
+Agents of the Flock are roughly ranked according to their age, as more mature and elder agents have a wider spread of activity and a better understanding of what secrets have value.
+
+While the Flock does not have a training regimen *as such*, members are taught to play various word and memory games, and are encouraged to challenge each-other to various kinds of verbal sparring; this is done to nurture a sharp, quick, and probing wit, to train the children to work secrets out of others while preserving their own, and to ensure that sharp memories allow secrets to be carried to Grandmothers (and ultimately to the Wolf) without ever being written down.
+
+Other than the Grandmothers and Faces, agents are free to act as they see fit, and to come and go as they please.
+(This is espeically practical, of course, as most of the agents are children, and most serve only short tenures.)
+Unlike other gangs – if the Flock may be so called – members are not beholden to the group; should they find gainful employment elsewhere, or should their travels take them beyond its influence, they are permitted to depart freely.
+They are also equally free to return; even a lapsed member will be welcomed back into the fold, should they bring a juicy secret for the Flock.
+
+#### Relationships
+
+The Flock has no particular friends or enemies: they will sell any secret to anyone, and so provide advantage to no one.
+Most find them to be useful and dangerous, in roughly equal measure.
+
+There are two organizations that are rumored to have regular dealings with the Flock: the Far Watch and the High Road.
+
+For the Far Watch, the Flock is a dangerous tool, best used sparingly and handled with care.
+Wolf-in-Wool's can prove too valuable a source of knowledge and intelligence to ignore; however, they are also perfectly willing to deal in the Far Watch's secrets, exposing the Watch's more cloak-and-dagger operations to their targets, potentially with dire consequences.
+
+The High Road work closely with the more liberal, western fringes of the Flock, especially those in the kingdoms of Haffa and Ahnaff.
+Even though the large Flock contingent in the East means that news of the High Road's activities will doubtless travel through their network into the hands of Eastern Kings, the Flock's ability to provide intelligence about slave-*hunters* operating outside of the Eastern Kingdoms has proved to be invaluable.
+
+As loose and diffuse as the Flock is, they do have their borders, areas where their influence ends and another organisation begins.
+They are mainly confined to the Kingdoms of Men, primarily in the northwest and east.
+Notably, they seem to have some kind of ongoing fued with the Certan movement, and have few tendrils in their territory; if there is a Grandmother in Certa, she keeps an even lower profile than most.
+
+The way they allow their members to come and go as they see fit, also means that occasionally children who came up in the Flock will find themselves in other organisations.
+Former members of the Flock can bring impressive and valuable skills to other organizations – although this does need to be balanced against the risk that they will, if entrusted with a valuable secret, remember the kindly older woman that they used to call *grandmother*.
+
+[[playerguidance | Wolf's Flock Characters]]
+|
+| The Wolf-in-Wool's Flock provides a path for a street-urchin, orphan, or runaway to acquire skills and connections that can be invaluable during a campaign – although their origins in the kingdoms of Men does mean that members are most likely human.
+| A childhood spent in the Wolf's Flock can be a compelling start for Investigators, Analysts, Socialites, and Infiltrators; because of their diverse backgrounds and paths, they can also dabble in nearly any other skill or trade.
+| It will also allow a member access to allies valuable information, powerful connections and diverse skills.
+|
+|Consider joining the Wolf's Flock if you:
+|
+|- Want to play a character from a humble (or desperate) background.
+|- Want to play a character who slips under notice, and fades into the crowd.
+|- Want to play a character who deals in secrets and subterfuge.
+|- Want to work with spies and secret-brokers as partenrs.
+|- Want to play against type, possibly rising above your desperate and mysterious past.
+
+[[gmguidance | Using the Wolf's Flock]]
+|
+| Wolf-in-Wool's secret army is a foe that is as formless as mist.
+| They swirl and curl around observation to obscure their movements and activity.
+| When an agent is captured, their interrogation will produce so many half-truths and lies that the honest confession will be lost in the noise – if the agent is not not dismissed outright as a simple child or harmless old woman.
+|
+| The main effect they can have on a campaign – for good or ill – is disclosing information that *someone* wishes to keep secret.
+| They might sell the party a secret that they can use to blackmail an Eastern King, or provide the location of a target who has gone to ground somewhere on the coast of the Glass Sea.
+| On the other hand, though, they might also sell the *party* out: they might reveal a Far Watch operation, or sell information about a High Road cell to an Eastern King.
+|
+| The Secret Army might be most interesting as an impartial wildcard.
+| Perhaps an obstacle, perhaps a boon, but certainly not to be ignored.
+|
+| Note that a characte does not need to be a member of the Wolf's Flock to deal with them; they will sell secrets to anyone.
+| Any character with a criminal background – certainly one with Profession: Criminal or something similar – would likely be able to go about setting up an audience with a local Face.
+| Of course, they will need to be very careful when interacting with that Face; like any member of the Wolf's Flock, they are expert in verbal sparring, and will waste no opportunity to extract information.
+
+[[gmguidance | Campaigns for the Wolf-in-Wool's Flock]]
+|
+| The Wolf's Flock can be effective as the focal point of a campaign: as an end goal, reaching a deal with a Face; as a timed obstacle that one must outrace; as the subject of an investigation themselves; or as an outside force sent to pry into the party's secrets.
+|
+| **Wolf's Flock Adventure: He was never my favourite Grandson**
+|
+| A note appears in the party's bags, likely place by the slim fingers of a pickpocket: a grandmother in the western reaches of the Kingdoms asks for assistance.
+| She claims that one of her Faces has been involved in a deal that has turned bad.
+|
+|-It is rare for Grandmothers to make themselves known, so why would this one break from tradition? 
+|-What deal has taken place, and is it the deal she thinks it was?
+|-What information is so valuable that the buyer was willing to betray the Flock, and risk having all of their own secrets exposed?
+|
+| **Wolf's Flock Adventure: They Mustn't Know**
+|
+| The party has come into posession of some kind of information that Wolf-In-Wool herself wants to be repressed.
+| It might be information that would reshape the politics of the world, or it might be as simple as the name of an assassin from years past.
+| But, dramatic or trivial, this brings the party to her attention, and they find themselves the target of a campaign of misinformation and hired blades.
+|
+|-What information has the party come into contact with?
+|-Is it even something the party is aware they know?
+|-What do they do with the leverage this gives them?
+|-What secrets can the Wolf-in-Wool bring to bear?
+|-What kinds of lies can she cover them with?
+|-Does she use her influence and wealth to hire the skills of assassins or cut-throats?
+|-How do they deal with being hunted?
+
+
+### Major Character: Kass Ahnaff, High King
+
+Kass Ahnaff is the current High King.
+He has ties of business and noble bond throughout the Dragonshire, and trade with the Commonwealth has made him wealthy.
+He supports a closer alliance with the Commonwealth, even to the point of allowing non-Humans to purchase land and do business in the Kingdoms (he might say that it certainly doesn't seem to have hurt the Commonwealth much).
+
+Unsurprisingly, the Commonwealth Council would much rather see Kass Ahnaff on the Kingdoms' throne than any of his nearest competitors, and are investing heavily in making sure that he stays there.
+
+His throne is in Merchantmen City (below).
+
+### Major Character: Mela, Tenna King
+
+Mela Tenna is the current king of the Kingdom of Tennec; his throne is in Hate's Hold (below).
+He is the most powerful Eastern King, and the de facto head of their movement.
+
+He has openly declared his hatred of all non-Humans — including the Haffa, as well as every Human citizen of the Commonwealth, whom he views as traitors.
+(He utterly loathes Kass Ahnaff, who he views as the greatest race-traitor in the Kingdoms.)
+He has led a series of bloody purges of any remaining non-Humans in the Kingdom of Tenna; he promises similar purges in the entire Kingdoms of Men should he attain the Throne, to be followed by a war of annihilation on the Commonwealth.
+
+He has recently become a devotee of the One who Chose Us.
+
+If anyone is unambiguously evil, it's Mela Tenna.
+
+### Major City: Merchantmen City
+
+Known as Annhallan in Royal and Merchantmen City in Commonwealth Standard, this city of 900,000 sits in the northwest of the Kingdoms, about 140 *demarc* \[roughly 588 kilometers\] from the border with the Dragonshire, sitting scarcely a *demarc* from the coast of the Glass Sea.
+Annhallan is the capital city of the Kingdom of Anaff; since Kass Anaff is the current High King, the city is currently also the center of government for the Kingdoms of Men.
+
+As the name Merchantmen City implies, the Kingdom of Anaff has long prospered by trade, especially with the Commonwealth; traders from Heartland Province and the Dragonshire are common, and many of hte Commonwealth's languages are spoken in Merchantmen City.
+
+### Major City: Hate's Hold
+
+Called Tenlan in Royal, Hate's Hold is the capital of the Kingdom of Tennec; it is a city of 800,000 in the southeast of the Kingdoms.
+It lies on a river, less than two *demarc* \[8km\] up-river from the the coast of the Glass Sea, and a mere 160 *demarc* \[672km\] from the open ocean.
+
+With convenient river access to the Glass Sea, Tenlan is a wealthy trade town; their wealth and power are bolstered by a system of weirs and water-channels that water the surrounding territory, which they control and charge for access to.
+The Tenna are among the wealthiest (and most convicted) of the royal families of the East; as such, Tenlan is the unofficial capital of the Eastern Kings.
+
+Tenlan is also the center of the worship of the One who Chose Us in the Eastern Kingdoms.
+
+The city is called Hate's Hold for a reason; it is not a good place to be if you aren't Human.
+
+### Major City: The First Throne
+
+Called Hanman in Royal (and Old Imperial), First Throne is one of the Three Cities that came together to found the Old Empire.
+Though it is still a large and prosperous city — situated on the large River Hanem, it has always been a center of trade — it is no longer a center of power within the Kingdoms.
+It has a population of 350,000.
+
+The name First Throne is not figurative: the first and oldest-known cities where founded by Humans; though Hanman is not one of these oldest cities, it is believed to be the first city to hold a *throne* — to develop a regional government.
+
+The city is in the Kingdom of Enha, although the Enhan Kings are relatively weak; the city is ruled by the Hanman Congress.
+So far, both the Enhan line and the Hanman Congress have been content to cooperate (for the most part), and enjoy the prosperity that comes from their prominent location and rich trade.
+The Enhan Kings are allies of the Annhallan and the Western Kings; the Hanman Congress are divided.
+A plurality are supporters of the Western Kings, but other blocs support the Certan cause, direct Commonwealth alliance and the Eastern Kings, in roughly that order of size.
+
+### Major City: Certa
+
+[[abstract]]
+|
+|A trade-hub located in the center of the Kingdoms of Men, and the center of the Certan movement.
+|
+|---
+|
+|Population: 650 thousand
+|
+|Common Languages: Royal, Commonwealth Standard
+|
+|Common Races: Humans
+
+Certa is a city of 650,000; located roughly in the middle of the Kingdoms of Men, it is the center of the Certan Movement, an anti-monarchist movement.
+Certa has been rebuilt on the site of an older (and smaller) city; the city was destroyed more than a century ago, and was claimed by the Certanis and rebuilt some 38 years later — 62 years ago.
+
+The city is roughly circular; it is divided into pie-slice-shaped districts by prominent roads that run from the central administrative district to the outer wall.
+The city is built with a distinctive, modern architectural style; the buildings are built high, supported by free-standing buttresses, and are decorated with wide windows and prominent artwork.
+
+### Language: Royal
+
+[[abstract]]
+|
+|Royal is the primary language of the Kingdoms of Men.
+|
+|Group: HHED
+|
+|Partially Intelligible: Weal (-20) and its derivatives (-30)
+
+Royal is the language of the Kingdoms of Men.
+Like Weal, it is distantly derived from Old Imperial, the language of the Empire of Man, but almost a thousand years have passed since the two languages began to diverge, and they are now quite dissimilar.
 
 ## The Shaded Sea People
 
@@ -330,7 +543,7 @@ Slowly, a narrow strip of Commonwealth fortifications and walled cities began to
 
 Further west, the Herders, a culture of hunters and herders from the central regions of the west, began to seek allies against the Shaded Steppes.
 Though their territory did not border directly on the Shaded Steppes, the buffer between the two was thin; when the Shade Elves power waxed, their raids could reach well into Herder territories.
-The Herders began to seek allies to resist the Shade Elves, and found willing partners among other nearby cultures — primarily including a confederation of Gnollish tribes.
+The Herders began to seek allies to resist the Shade Elves, and found willing partners among other nearby cultures — primarily including a confederation of Gnoll tribes.
 This alliance became the aptly-named Herd-and-Pack Alliance.
 
 Finally, in the east, based in a strip of forest running between the Shaded Steppes and the Worldspine, there where the Sunrise Peoples, an alliance of frequent enemies (and sometimes conquests) of the Shaded Sea.
@@ -356,7 +569,7 @@ In response, *Tetln* sought the aid of the city-state *Oyssa*, on its own island
 Solidly in control of *Katlkan* and having the support of its closest rival, they then began the systematic conquest of the rest of the nearby Warren Isles.
 These conquests triggered an exodus; Rafolk fleeing the *Tetln* conquest landed in the Haven Isles, on the shores of the southern Worldspine (and just south of the Shaded Steppes), and on the northwest Ruby Plane.
 
-#### The Leapers
+#### The Shaded Sea Unites
 
 By CY 200, the Commonwealth had established a number of forts and settlements in the region, and been integrated into its politics.
 In CY 255, the Commonwealth encountered the Herders, and the Herd-and-Pack Alliance; the two cultures where natural allies, and not least because of their shared enemy in the Shade Elves.
@@ -367,9 +580,10 @@ Between 341 and 344, Herd-and-Pack and their Commonwealth allies repulse several
 As Shade Elf power crumbled, the *Leapers* struck.
 Little is known outside of the Shaded Sea about their methods; as far as is known, the Leapers never raised an army and marched on the Shade Elves.
 It is theorized that they systematically harried the crumbling *Alenaya*, attacking their people as they spread out through the steppes to graze; they may also have found eager allies (or pawns) among the confederation's many enemies.
-By CY 346, the *Alenaya* had lost the allegiance of all but their original two confederations — and these where in a weakened state, having lost many of their constituent clans to defection and combat; they became tributaries of the Leapers.
+By CY 346, the *Alenaya* had lost the allegiance of all but their original two confederations — and these where in a weakened state, having lost many of their constituent clans to defection and combat.
+They became tributaries of the Leapers.
 
-In CY 349, the Herd-and-Pack Alliance signed a treaty, and by CY 350 the Commonwealth had begun to settle the Haven Isles.
+In CY 349 the Herd-and-Pack Alliance signed a treaty with the Commonwealth, and by CY 350 the Commonwealth had begun to settle the Haven Isles.
 During this time, from CY 346 to CY 351, the Leapers continued their subtle campaign, bringing most of the other Shade Elf rides under their control.
 Though weakened, the Shade Elves where finally (mostly) unified; in CY 357, they set out to reconquer the east of the Steppes, and by CY 361, they set out to bring the Warren Isles under their control.
 
@@ -378,22 +592,26 @@ Skilled in seaborn combat, they became tributaries and allies of the Shade Elves
 As the Shade Elves weakened, they became as much allies as tributaries to the Shade Elves, equal to some of the rides in power; at some point before CY 361, as Shade Elven power began to recover, they proposed to ferry members of an allied Shade Elf ride to their former homes in the Warren Isles.
 
 The scale of these raids where limited by the Shaded Steppes rafolks' numbers; they began almost thirty years of conflict between the Shaded Steppes and Warren Isles.
-Between CY 363 and 366, the Shaded Steppes had subjugated a nine smaller islands in the northeast of the chain; between CY 374 and 376, a concerted counter-attack by the Warren Isles ratfolk displaced the invaders.
+Between CY 363 and 366, the Shaded Steppes had subjugated nine smaller islands in the northeast of the chain; between CY 374 and 376, a concerted counter-attack by the Warren Isles ratfolk displaced the invaders.
 In CY 377, a larger invasion secured more than a dozen islands; by CY 379, the invaders had once again been displaced.
 Over the next decade, the Shade Elves and Ratfolk of the Shaded Steppes assembled a much larger force; in CY 389, they once again landed in the Warren Isles, this time with much greater numbers — and possibly with Leaper aide.
-After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below, and conquered them.
+After six years of sustained warfare, in CY 395, the Leapers invaded *Tetln* and their allied city-states from below and conquered them.
 The Ratfolk of the Warren Isles became tributaries of the Leapers.
 
-In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, the Leapers did not establish any kind of administrative structure.
-No one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
+In theory, the peoples of the Shaded Sea — the Shade Elves and Ratfolk of the Shaded Steppes and the Ratfolk of the Warren Isles — where now united under the rule of the Leapers; in practice, however, they where not a unified force.
+The Leapers did not establish any kind of administrative structure, no one confederation had control of the Shaded Steppes, and *Tetln*'s rule of the Warren Isle had been shattered.
 
 #### The Siege of Islandhome
+
+
 
 ### The Nations of the Shaded Sea
 
 #### The Shade Elves of the Shaded Sea
 
-The Shade Elves of the Shaded Sea are a culture of nomadic herders and raiders.
+The Shade Elves of the Shaded Sea are a culture of nomadic herders and raiders based in the Shaded Steppes in the southwest of the Emerald Plane.
+
+
 
 #### The Ratfolk of the Warren Isles
 
@@ -401,7 +619,9 @@ The Ratfolk of the Warren Isles are a culture of fishers, raiders and pirates.
 
 #### The Leapers
 
-#### Minotaurs
+#### The Minotaurs
+
+#### The Foxfire
 
 ### People and Places
 
@@ -422,12 +642,12 @@ A great walled camp in the East, where the *Kena* Confederation is based.
 
 ![Raptors Symbols](../images/proto_banner_raptors.png)
 
-The Raptor's Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
+The Raptors' Protectorate is, like the Commonwealth, a vibrant alliance of many peoples, and the strongest (native) nation on their Plane.
 Unlike the Commonwealth, however, they are not an enlightened alliance of peaceful expansion and voluntary inclusion; instead, they are an alliance of necessity, formed centuries ago to resist raids by the Shaded-Sea People, and now absorbing the refugees created by the Goblin Empire's conquest of the Ruby Plane.
 
 [[abstract]]
 |
-|An alliance formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples; more recently, they've absorbed waves of refugees from the Goblin Empire's conquests.
+|An alliance principally formed between the Raptors and Ratfolk of the Ruby Plane to resist the Shaded-Sea Peoples, now being joined by other minor nations and absorbing waves of refugees from the Goblin Empire's conquests.
 |
 |---
 |
@@ -450,9 +670,10 @@ They were broken into *castes*: roughly, *rulers*, *administrators*, *soldiers*,
 Their society was controlled by *rulers* and coordinated by the *administrators*.
 All land was held by the *rulers*, and granted to villages and their *farmers* for use; food was collected by the *administrators*, stored in a vast network of storehouses, and distributed to the populace as needed.
 The *soldier* caste served a role much like the Guards do in the Commonwealth: a small cadre of full-time warriors, who patrol and secure the Terrace-Builder's territory during peace-time and serve as the disciplined elites at the core of their army during war-time.
+(Notably, within these castes, their also existed specific roles and sub-castes; for example, temple-heads where drawn the *ruler* caste, while their attendants and minor priests would be drawn from the *administrator* caste.)
 
 > **Eager**: Because we have a ruling caste, you might think that our city-states work like throne-cities in the Kingdoms of Men; actually, they work a little more like the city-states of Heartland Province.
-> Although they often have one main ruler, like a queen, that ruler typically shares power with the rest of the *golden caste*, and relies on them to administer the city.
+> Although they often have one main ruler, like a queen, that ruler typically shares power with the rest of the *golden caste*, who serve as officials and minor nobles.
 > My people tend to be very good at making sure that everyone is "bought in," and so the kinds of palace intrigues that you see in the Human and Goblin Kingdoms are rarer among the Terrace-Builder Raptors.
 >
 > **Aryn**: "Golden caste"?
@@ -465,19 +686,27 @@ The *soldier* caste served a role much like the Guards do in the Commonwealth: a
 > I guess your people are more matriarchal, like mine \[Drakes\] are?
 >
 > **Eager**: Yes.
-> Like you, females tend to be dominant in our society.
+> Like most of the Draconic races, females tend to be dominant in our society.
 >
 > **Notebook**: I'm curious, why are farmers the "stone caste"?
 >
-> **Eager**: Because of the stone terraces we use.
+> **Eager**: Because we plant crops in stone terraces built into the sides of hills and mountains, often in and around our cities and towns.
 
-The Terrace-Builders used a system of *corvee labor*: individuals where required to spend one out of every eight days contributing labor to one of the city-state's projects, which could include constructing or maintaining roads and irrigation channels, or serving as a soldier.
-(The Terrace-Builders use an 8-day week, with 7 days for labor and one day for rest.
+The Terrace-Builders used a system of *corvee labor*: individuals where required to spend one out of every six days contributing labor to one of the city-state's projects; often, this meant either  constructing or maintaining roads and irrigation channels, or serving as a soldier.
+(The Terrace-Builders use an 6-day week, with 5 days for labor and one day for rest.
 A Raptor might be called for corvee labor on any given labor day; typically, the administrator-caste will schedule the local farmer-caste according to the needs of local projects.)
-This allowed the Terrace-Builder city-states to build a vast network of roads, storage-houses and planted terraces,  spreading out from their city-states and tying them together.
+
+The Terrace-Builders also oversaw a system of communal resource distribution.
+Individuals contributed their harvests, resources, and other goods to the city-states, who in turn pooled them in store-houses and distributed them back to citizens and subjects as required.
+These store-houses where constructed throughout their empire and overseen by the administrator caste; goods where also transferred between them as-required.
+This provided the Terrace-Builders with a vital reserve of food and a bulwark against crop-failure and famine, as well as an additional incentive for loyalty to the Empire.
+
+Taken together, their system of corvee labor and their network of store-houses allowed the Terrace-Builder city-states to build a vast network of roads, store-houses and terraces, running throughout the Raptors' Peaks.
 
 Eventually, an alliance of two Raptor city-states — Giant's Stairs and River-Cutter's City — came to prominence and, over the following centuries, slowly built an empire.
-Their conquests where subtle, using a mix of careful diplomacy, military threat, and small-scale skirmish.
+Their conquests where subtle: rather than marshalling their entire nation, as the Shade Elves often do, the Terrace-Builders used a mix of careful diplomacy, military threat, and small-scale skirmishes to slowly expand their influence and bring other city-states and peoples under their sway.
+
+The Terrace-Builders where not destroyers: they where far more interested in seeing to the long-term strength and prosperity of their empire than they where in short-term plunder.
 The Terrace-Builders rarely sought the total destruction, ruin, or conquest of their opponents, nor did they carry away slaves or loot cities; instead, they used military action as a tool for extracting tribute, trade, and other concessions, gradually bringing others under their influence.
 
 (Notably, the Terrace-Builders often presented themselves as the lords of the Raptors, claiming that they could call up the Raptor tribes in the south and west.
@@ -494,8 +723,7 @@ They also had to play the different parts of their empire against each-other, us
 
 Unlike the Shaded Sea Peoples or Goblin Empire, the Terrace-Builders relied as much on the good will of their subjects as on military force to ensure the stability of their empire.
 Because the Terrace-Builders never carried away slaves or looted cities, and because membership in their empire carried significant benefits, they where not hated by their subject peoples the way the Shaded Sea or Goblin Empire are.
-(Of course, this is not to say that every subject people became a willing participant in the empire, nor where the Terrace-Builders where above deposing a troublesome monarch.)
-
+(Of course, this is not to say that every subject people became a willing participant in the empire, nor that the Terrace-Builders where above deposing a troublesome monarch.)
 
 #### The Ratfolk Arrive
 
@@ -527,14 +755,14 @@ The Ruby-Isles Ratfolk sought out the aid of the militarily powerful Raptor Empi
 The Raptor Empire, long used to juggling a vast empire of only weakly-bonded peoples, offered the Ratfolk favorable terms: military aid, in exchange for the Ratfolk's nominal submission, and access to their prosperous markets.
 
 The Raptor Empire marched west, and helped the Ratfolk resist the Shaded Sea raiding.
-In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely — though their seaborn raiding would never completely cease.
+In 456, the Shaded-Sea Ratfolk had established a permanent military encampment on the Ruby Plane; by 477, the Raptor Protectorate had pushed the Shaded-Sea Peoples off the Ruby Plane entirely — though their seaborn raiding continued.
 
 #### Prosperity
 
-For centuries, the Raptor Empire prospered; the terrace-builder Raptors cut roads through the mountains and jungles, and allowed goods to flow from the Ratfolk in the west to the Raptors in the east.
-The Terrace-Maker Raptor's society was dramatically altered; trade with the Ratfolk made them wealthier, and that wealth made them more mercantile.
-While they still use a system of corvee labor, they pay their citizens a small wage collected from trade; they also allow their citizens to purchase their way out of corvee labor.
-In turn, a *merchant* class has developed, who trade profitably with other cultures and purchase their way out of corvee obligations.
+For centuries, the Raptor Empire prospered; the terrace-builder Raptors cut roads through the mountains and jungles, and allowed goods to flow from the Ratfolk in the west to the Raptors (and their subjects) in the east.
+The Terrace-Builder Raptor's society was dramatically altered; trade with the Ratfolk made them wealthier, and that wealth made them more mercantile.
+While they maintained their system of resource-sharing and corvee labor, they came to pay their citizens a small wage collected from trade, allowed their citizenry to accumulate personal wealth and goods, and even allowed some citizens to purchase their way out of their labor obligations.
+In turn, influenced by the Ratoflk, a distinct class of *merchants* and *artisans* developed, trading with other nations and practicing crafts imported from the Iron-Workers.
 
 #### Contact with The Goblin Empire
 
@@ -554,7 +782,12 @@ The Protectorate faces powerful enemies on two fronts.
 In the east, a devastating war with the Goblin Empire draws ever closer; so far, at least, the Goblin Empire has avoided direct conflict with the Protectorate, but their armies draw ever closer to the Protectorates' borders.
 In the west, the Iron-Worker Ratfolk are subject to constant, devastating raids by the Shaded Sea Peoples.
 
-### Culture
+### Administration
+
+Unlike the Commonwealth, the Raptor Protectorate does not have a representative government or a sophisticated beurocracy; it is still, in principle, consists of the Terrace-Builder Empire and their dependant territories.
+In practice, however, power is more widely-distributed, with the Iron-Worker Ratfolk holding significant power, and the 
+
+### Cultures
 
 The Raptor Protectorate is composed of wide variety of cultures from throughout the northern and central Ruby Plane — though its two dominant cultures remain the Terrace-Builder Raptors, who lead the Protectorate and provide most of its military might, and the Iron-Worker Ratfolk, who remain the drivers of their economy.
 
@@ -570,11 +803,14 @@ Farmers, in turn, work the terraced fields, and serve as craftsmen in rural sett
 The inclusion of the Iron-Worker Ratfolk in the Protectorate brought profitable trade, and with it chnage.
 The "tribute" that the Iron-Workers pay to the Terrace-Builders is minor, but profit from trade with them is significant; the Terrace-Builters also charge a tarrif on goods carried over the extensive network of roads that they maintain through the Raptor's Peaks at the center of the Ruby Plane.
 Much as the city-states collected the agricultural product of the terraced farms and distributed food among their citizens, now they collect tribute and tarrifs from trade, and distribute this among their people — minus a portion claimed by the city-states themselves.
-This means, in practice, that the city-states are well-funded, and that those doing corvee labor now receive a modest wage.
+This means, in practice, that the city-states are well-funded, that the Terrace-Builders have become wealthy, that those doing corvee labor now receive a modest wage, and that a market for goods and artisenry has sprung up.
 
 To encourage profitable trade and useful craft, most Terrace-Builder city-states allow members of the Soldier and Farmer castes to purchase an exemption from certain corvee duties.
-This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and further brisk trade with the distant Iron-Workers Ratfolk.
-This, in turn, has allowed the Terrace-Builders to import a number of the innovations that the Ratfolk brought to the Ruby Plane.
+This directly adds to the city-state's coffers, but it has also enabled the development of a profitable professional class of merchants and artisans within the Terrace-Builder's city-states, and enabled further trade with the distant Iron-Workers Ratfolk.
+
+Two additional sub-castes have risen to prominence: *merchants* and *artisens*.
+*Merchants* are a sub-caste within the *administrator* caste, engaged in the sale and exchange of goods with other cultures, both their own (for personal profit) and those of the sity-state; *artisans*, in turn, are a sub-caste of the *farmer* caste, and are responsible for mastering useful crafts.
+As contact with other races and cultures has brought material surplusses and new knowledge, these castes have grown in their wealth and prominence.
 
 [[fiction]]
 |
@@ -1215,8 +1451,6 @@ They strongly prefer flowing water, and are well adapted to function in a curren
 |
 |The Mud-Skipper prefer flowing water, to avoid the stagnant pools of the Judges.
 |The black slime colours many of their myths and serves as a 'satan' figure — even though Mud-Skipper themselves are (slightly) more resistant than most to their influence.
-|
-
 
 [[hook]]
 |
@@ -1224,8 +1458,6 @@ They strongly prefer flowing water, and are well adapted to function in a curren
 |This would for trade in unique and rare goods, and for the cross-polination of ideas, for travel to distant lands, and for cooperation against their enemies.
 |Or, equally, it might lead to conflict and mistrust between the two races.
 |Or even a mixture of both, varying from tribe to tribe.
-|
-
 
 Mudskipper towns are built underwater in the rivers and lakes in which they live — though they occasionally feature some guest rooms that open above-water for visitors.
 The layouts of their villages follow the flow and twist of the river; their buildings are built in a teardrop cross-section, with windows letting the river current flow through, impeded as little as possible.
@@ -1243,8 +1475,6 @@ They are also highly reluctant to discuss the reasons for this relationship.
 |What threshold would have to be crossed for them to seek the intervention of the spirits?
 |
 |These mysteries are left to the GM to supply!
-|
-
 
 ### The Mudskipper Federation
 
@@ -1285,8 +1515,6 @@ So far, though, no easy way has presented itself to transport the freshwater-aqu
 [[hook]]
 |
 |Though a small group, the Mudskippers seeking membership in the Commonwealth pose a threat to the Goblin Empire; this is one of many ways that the Commonwealth might be pulled deeper into the affairs of hte Ruby Plane, and a war with the Commonwealth might be started before *either* side has adequately prepared.
-|
-
 
 With the goblin incursion into the Ruby Isle, they have been found largely wanting as slaves or servants, due to the expense of maintaining fresh water for their sleep, and their apparent clumsiness and inexperience with agriculture or industrial pursuits (especially on land).
 Keeping to their waterways, however, keeps them out of the way of the Goblin Empire, which has largely spared them from the predation and cruelty of the invading Goblins — for now, at least.

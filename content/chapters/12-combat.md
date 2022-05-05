@@ -160,61 +160,61 @@ You **threaten** any character that you could make a melee attack against.
 
 ### Ranged Attacks
 
-  - Ranged Attacks: ranged attacks (projectile weapons, thrown weapons
-    and some powers) use the rules for *attacking a target*, with the
-    following addition:
-    
-      - Range: ranged attacks have range categories: you are in a given
-        range category if your distance to the target is the listed
-        distance or less. Each range category has a modifier, which
-        applies to the attack test:
-        
-          - short: no modifier
-          - medium: -10
-          - long: -20
-          - extreme: -30
-    
-      - base ranges for throwing things:
-        
-          - short: up to 5 meters
-          - medium: up to 15m
-          - long: up to 30m
-          - extreme: up to 45m
-          - adjust for weight, aerodynamics of object
-    
-      - Scatter: ranged attacks may scatter.
-        
-          - You may choose from the following methods for determining
-            scatter.
-          - Method 1: roll 2d10. One d10 indicates the scatter direction
-            (there are 8 adjacent squares, so discard 9 and 10 results),
-            the other the distance (in meters).
-          - Method 2: with a physical table, roll 1d10. The result is
-            the distance in meters, and the direction the dice is
-            pointing indicates the scatter direction.
-          - Scatter is mainly a concern when the weapon also has the
-            Blast property; you usually don’t worry about where an arrow
-            scatters to.
-    
-      - Point-Blank Attacks: making a ranged attack at point-blank range
-        (that is, against a target in an adjacent space) gets a -20
-        penalty.
-    
-      - Ammunition
-        
-          - Projectile weapons (like bows) require ammo.
-          - We include access to common ammunition in the price of the
-            weapon, and we assume that a character has enough ammunition
-            that they will not run out under normal circumstances (which
-            is to say, we do not track in detail how much ammo a
-            character is carrying or has used).
-          - Uncommon ammunition — ammunition that is made of special
-            materials, that is expensive, that is magical, or that is
-            otherwise special — is purchased separately and tracked.
-          - Most projectile weapons can be reloaded; the weapon’s
-            description will specify what kind of action is required to
-            reload the weapon (or that it cannot be reloaded, should
-            that be the case).
+Ranged attacks (projectile weapons, thrown weapons, and some powers) generally use the same rules as other types of attacks, with a few additions.
+
+#### Range
+
+Ranged attacks have **range increments**; they are given below, with their associated penalty.
+
+- short: no modifier
+- medium: -10
+- long: -20
+- extreme: -30
+
+Most weapons and powers will list their ranges.
+The categories are often given in order, separated by slashes.
+For example, "Range: 50m/100m/150m/200m" would mean that *short range* is up to 50m, *medium range* is up to 100m, *long range* is up to 150m, and *extreme range* is up to 200m.
+
+You can use the following guidelines for thrown attacks, adjusted for the weight and aerodynamics of the projectile:
+
+- short: up to 5 meters
+- medium: up to 15m
+- long: up to 30m
+- extreme: up to 45m
+
+#### Scatter
+
+Ranged attacks that miss may **scatter**.
+
+We provide a certain amount of flexibility in determining scatter; mainly, it just needs to be random and reasonable.
+GMs may use one of the following methods for scatter, or invent their own:
+
+- Method 1: roll 2d10. One d10 indicates the scatter direction (with 1 being north, and counting around; for a square grid, there are 8 adjacent squares, so discard 9 and 10 results), and the other the distance (in meters).
+- Method 2: with a physical table, roll 1d10. The result is the distance in meters, and the direction the dice is pointing indicates the scatter direction.
+
+Scatter is mainly a concern when the weapon also has the Blast property; we usually don’t worry about where an arrow scatters to.
+
+#### Point-Blank Attacks
+
+A ranged attack against a target at point-blank range (that is, against a target in an adjacent space) suffers a -20 penalty.
+
+#### Ammunition
+
+Projectile weapons (like bows) require *ammunition*.
+
+For most weapons, we don't track *common ammunition*; that is, they do not need to purchase ammunition separately, or keep track of how much they have and how much they have used.
+We assume that ammunition is readily available enough that characters can always have *enough*.
+
+We do, however, track *special ammunition*; this includes ammunition that is made of special materials, that is expensive, that is magical, or that is otherwise unusual.
+It must be purchased separately, and must keep track of it as they expend it.
+
+Additionally, some unusual weapons have costly or unusual ammo, and this must be also be purchased and tracked separately.
+(If a weapon's normal ammunition has to be tracked, it will say so in its rules.)
+
+#### Reloading
+
+A weapon's description will specify what kind of action is required to reload the weapon (or that it cannot be reloaded, should that be the case).
+Some weapons don't require a *discrete* action to be reloaded; *readying* an arrow, for example, is part of making an attack with a bow.
 
 ### Touch-Only and Indicate-Only Attacks
 
@@ -617,7 +617,7 @@ We generally divide cover into three types: minimal, partial, and total; the eff
 
 - **Minimal cover** doesn't really conceal the defender from the attacker, but it does make the attack slightly more awkward.  A support-beam, banister, cattle-fence, or young tree might provide minimal cover.
 - **Partial cover** obscures about half of the defender, providing them substantial protection from attacks.  For example, a bench, a solid fence, shallow trench, or half-opened door might provide partial cover.
-- **Total cover** completely obscures the target from the attacker, preventing an attack.  Solid walls and deep trenches might provide total cover.
+- **Total cover** completely obscures the target from the attacker, preventing a direct attack.  Solid walls and deep trenches might provide total cover.
 
 | Cover   | Effect                              |
 | ------- | ----------------------------------- |

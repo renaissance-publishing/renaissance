@@ -1,6 +1,7 @@
 Useful unicode characters:
 
 * — the em-dash
+* – the en-dash
 * × the multipliction symbol
 * ÷ the division symbol
 * … the ellipsis

@@ -42,7 +42,7 @@ Worse, they where often competing for the same resources and recruiting from the
 In CY 824, the leaders of the Mage-Watch and the Wheat-Way Guard agreed to cooperate with one another, by sharing resources and aiding one-another's operatives.
 Over the following year and a half, the arrangement was extended to more "Great Threat" organizations, and to a few individual actors.
 In CY 826, the group began to draft the charter for one combined organization, the Far Watch; it was approved the following year.
-The organization is still recruiting, attempting to bring more of the disparate web of organizations, patrons and vigilantes under their aegis.
+The organization is still in its formative years, still attempting to bring more of the disparate web of organizations, patrons and vigilantes under their aegis, and beginning to recruit new talent in earnest.
 
 ### Structure of the Far Watch
 
@@ -53,14 +53,14 @@ At present, there are few Guards, and they are relatively new; when an organizat
 (Unsurprisingly, this has sometimes been a sticking-point in recruiting.)
 
 The Far-Watch has little central command or governance; it has a Council, which is expected to meet every three years, and a Treasury, which collects and disburses resources.
-There is no capitol for the Far-Watch; the Council's meeting-place will rotate, and is to be selected at the close of each Council meeting (the second meeting of the Council has not yet occurred, since the Far-Watch is less than three years old).
+There is no capital for the Far-Watch; the Council's meeting-place will rotate, and is to be selected at the close of each Council meeting (the second meeting of the Council has not yet occurred, since the Far-Watch is less than three years old).
 Each Watch sends one representative to this Council, and each representative is allowed one vote.
 
 Mostly, the Council is expected to oversee the disbursement of resources and manage disputes; for the most part, each Watch is allowed to pursue their own ends — subject to the requirement that they share resources and support one-another, according to the charter of the Far-Watch.
 
 Some are concerned that the Far-Watch may be hobbled by internal politics as the different Watches battle for resources.
 The hope is that the Guards will counter this, since the Guards, in theory, should represent the interests of the whole of the Far-Watch within a region — as opposed to the narrow interests of one particular Vigil.
-The hope is that, as the Far-Watch grows and expands, new Guards will be formed much more frequently than new Vigils, and that patronages will shift from  the Vigils individually to the Far-Watch as a whole.
+The hope is that, as the Far-Watch grows and expands, new Guards will be formed much more frequently than new Vigils, and that patronages will shift from the Vigils individually to the Far-Watch as a whole.
 
 ### Watches
 
@@ -84,7 +84,7 @@ Unsurprisingly, they have no shortage of powerful enemies.
 Redstone Hold is the largest Guard, and it was the first one to be established entirely from new resources (rather than being built from the holdings of a previous organization).
 It was founded when the charter to a manor two *demarc* from Stormsword's Rest was granted to the Far-Watch by the Lord Durandel.
 
-Redstone Hold itself is still under construction, but it already represents an important cite for the Far Watch; though meager, the taxes collected by the Hold from the residents of the manor represent a vital, independEnt source of resources for the Far-Watch — one that is under the control of the Far-Watch itself, that they do not have to wrest from the control of a Vigil.
+Redstone Hold itself is still under construction, but it already represents an important site for the Far Watch; though meager, the taxes collected by the Hold from the residents of the manor represent a vital, independEnt source of resources for the Far-Watch — one that is under the control of the Far-Watch itself, that they do not have to wrest from the control of a Vigil.
 
 The Far-Watch has put considerable effort into building up the library at the hold, and to ensuring that the site has the resources that scholars of spirits, magic and alchemy will need; they have also used endowments to lure scholars, artisans and scribes to the hold, and to manor-town nearby.
 
@@ -99,8 +99,6 @@ The Far-Watch has put considerable effort into building up the library at the ho
 |- Want to be a *Call of Cthulhu*—style *investigator* or an *Eclipse Phase*—style agent.
 |- Want to be a volunteer for a resource-strapped organization that will require you to improvise and do without.
 |- Want to have mages, scholars and artisans as peers.
-|
-
 
 [[gmguidance | Far-Watch Campaigns]]
 |
@@ -176,8 +174,6 @@ They are often organized into cells, knowing only the previous links in the chai
 |- want to have access to a secret network whose tendrils reach into the Kingdoms, the Shaded Sea and the Goblin Empire.
 |- want to play someone from the Eastern Kingdoms, the Shaded Sea or the Goblin Empire.
 |- want to play a character who mixes stealth, deception and combat skills.
-|
-
 
 [[gmguidance | High-Road Adventures]]
 |
@@ -195,8 +191,6 @@ They are often organized into cells, knowing only the previous links in the chai
 |- Who's running the slaver gang?
 |- Does the party find out about the High Road — or does the High Road approach the party?
 |- Do the people of Red-Weir support the slavers, or do they perhaps want them gone almost as much as the people of Redstone?
-|
-
 
 ## The Knights of the White Tusk
 

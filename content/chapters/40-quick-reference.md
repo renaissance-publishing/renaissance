@@ -11,6 +11,16 @@ If that happens, the *actual rules text* applies.
 - When rounding, always round down.
 - Everything stacks unless it specifically says it doesn’t.
 
+## Checks
+
+- Basics
+  - Roll D%; succeed if less-than-or-equal-to the *target number*, fail otherwise.
+  - Margin-of-Success (MoS): number on die, if successful.
+  - Margin-of-Failure (MoF): number - *target*, if failed.
+- Special results
+  - Exceptional Success (or Failure) if MoS (or MoF) is 30 or more.
+  - Critical Success (or Failure) if roll is a *double* (like 22 or 33).
+
 ## Common Checks
 
 | Check | Target Number (TN) |
@@ -54,7 +64,7 @@ If that happens, the *actual rules text* applies.
 
 ## Basic Proficiency
 
-  - A character with 10 or more ranks in a skill has *basic proficiency* in that skill.
+- A character with 10 or more ranks in a skill has *basic proficiency* in that skill.
 
 ## Combat
 
@@ -86,8 +96,10 @@ If that happens, the *actual rules text* applies.
     - long: up to 30m
     - extreme: up to 45m
     - adjust for weight, aerodynamics of object
-- Touch Only Attacks: either COO+SOM+SOM or Unarmed Combat (no proficiency required)
-- Indicate-Only Attacks: either 3×COO ir Ranged Weapons (no proficiency required)
+- Touch-Only and Indicate-Only Attacks
+  - Touch Only Attacks: either COO+SOM+SOM or Unarmed Combat (no proficiency required)
+  - Indicate-Only Attacks: either 3×COO or Ranged Weapons (no proficiency required)
+  - Defender gets -20, attacker gets +20
 - Multiple Weapons
   - Multiple attacks with multiple weapons: -10 penalty ("flat" penalty, *not* per additional weapon)
   - Multiple targets with multiple attacks: -10 penalty ("flat" penalty, *not* per additional target)

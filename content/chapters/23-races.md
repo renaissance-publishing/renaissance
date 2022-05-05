@@ -136,6 +136,14 @@ Most of these races take pride in belonging to one or both of the following grou
     head, long tail, powerful limbs, tough scales and sharp claws of
     Dragons.
 
+> **Chandra** [Drake, Social General, our host]: Well, since we're assembled at my manor, I suppose it's only fair we discuss my kind first.
+>
+> **Trac** [Commonwealth soldier, Gnoll]: So long as the drinks keep coming.
+>
+> **River**: What should we discuss? Obviously, military prowess would put a shine on your scales.
+>
+> **Chandra**: Swordsmanship, too. But We were made for it. At least our court and cities we made ourselves. And our membership in the commonwealth has only made us better.
+
 #### Drake Vitals
     
 - Old Age: 100 Years
@@ -437,7 +445,7 @@ Though the idea of a Gnollish farmer may seem odd to some, they are in fact well
 (Though Gnolls are meat-eaters, they have discovered a number of useful recipes involving grains that provide them at least some nourishment, which they can use to greatly stretch meat reserves.)
 
 Though Gnolls may be somewhat rustic by Commonwealth standards, their communities nevertheless tend to be open and welcoming;
-their ancestor's flight from persecution at the hands of their cousins, and their salvation at the hands of people strange and alien to them&mdash;Humans&mdash;is very much alive in Gnollish culture, and strongly informs their traditions and values to this day.
+their ancestor's flight from persecution at the hands of their cousins, and their salvation at the hands of people strange and alien to them — Humans — is very much alive in Gnollish culture, and strongly informs their traditions and values to this day.
 
 Gnolls put quite a lot of effort into getting along with members of other communities, and will go out of their way to make other races feel comfortable around them.
 Many Gnollish communities have two separate set of customs, one for when members of other races are around, and one for when they're not.
@@ -922,7 +930,7 @@ The eye-spots don't have *lenses*, so each individual eye-spot has poor vision; 
 - **Effect**: the character has developed eye-spots on their surface.
   - The character gains the *Normal* and *Infrared* senses, and looses the *Blind* trait.
   - Visual perception checks have a -20 penalty.
-  - Clay Men can percieve all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
+  - Clay Men can perceive all around them their vision, just like with their other senses (as per the *No Facing* racial trait).
 
 #### Optional Trait: Rigging
 
@@ -988,7 +996,7 @@ These "shipwright" Dwarves have come to cooperate closely with the Ratfolk, Half
 
 In CY 509, Dwarven explorers discovered a strange, psionically active fungus beneath the low peak of a small island in the northern Haven Isles.
 The fungus proved to have remarkable capabilities, and an entirely new Dwarven culture has developed around it.
-This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiot are called Fahrat Clans.
+This organism is called "Fahra" in Hud, which is derived from "Fehr," or fungus; Clans that have accepted the organism as a symbiote are called Fahrat Clans.
 The Common word for the organism is "Mindshare Fungus," which is an apt description of what it does.
 
 Mindshare Fungus can thrive on its own in the damp dark of caves beneath the Emerald Plane as well as any other fungus can, but it also has the ability to derive nourishment from the magical energies of living creatures — what is commonly called psionic energy.
@@ -1011,7 +1019,7 @@ No Mindsharing community has been known to forcefully recruit a member, or force
 Still, there are those that fear them.
 
 Most Mindsharing Dwarves live in the Haven Isles.
-A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them cooly (an understatement in the case of the Deep-Explorer Dwarves).
+A few have resettled in their traditional homeland, building a few Holds in the northeast of the Worldspine mountains; their distant kin have greeted them coolly (an understatement in the case of the Deep-Explorer Dwarves).
 
 #### Deep-Explorer Dwarves
 
@@ -1080,7 +1088,7 @@ This may be done to correct for poor vision, or may provide magnification at lon
 Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rapidly "smoke over" when exposed to bright light.
 
 - Magical Day-Masks protect your eyes from bright light the way normal Day-Masks do, but they impose none of the penalties that normal Day-Masks have.
-- The lenses "smoke over" in little more than a second.  If you are suddenly exposed to bright light, you may experience some dazzling (incuring a -10 penalty to visual perception tests), but this fades quickly (lasting only for the first turn of exposure).
+- The lenses "smoke over" in little more than a second.  If you are suddenly exposed to bright light, you may experience some dazzling (incurring a -10 penalty to visual perception tests), but this fades quickly (lasting only for the first turn of exposure).
 - You can force the Day-Mask to become clear or smoked.
 - Magical Day-Masks are usually *ground* (at no additional cost).
 - Magical Day-Masks are Cost: High.
@@ -1100,7 +1108,7 @@ Some day-wraps may be woven in complex patterns or richly died; many Clans and H
 
 *This weapon is a variant weapon.  It is similar to the Longsword, but deals slightly more one-handed damage (and slightly less two-handed damage), and gains Well Suited: Mighty Blow (and soak) in echange for Poorly Suited: Strike Armor Gap.*
 
-Many Deep-Explorers weild a characteristic sword designed for use from salamander-back in close quarters.
+Many Deep-Explorers wield a characteristic sword designed for use from salamander-back in close quarters.
 They are long, broad-bladed, have a single cutting edge and are weighted towards the far end.
 Although the grip is slightly small for it, the Deep-Explorer's Knife can also be wielded in two hands for better leverage.
 
@@ -1132,7 +1140,7 @@ Bolts are placed into the top of the box to load the weapon, and their own weigh
 Special: The weapon continues to fire as long as the catch is depressed.
 The bolt can be "tapped" to fire a single bolt, given a *short* squeeze to fire several bolts, or held down to fire all the bolts in the magazine.
 
-When firing the crossbow, choose wether to *tap* the trigger, give it a *short squeeze*, or *empty the magazine*, and use the following modifiers:
+When firing the crossbow, choose whether to *tap* the trigger, give it a *short squeeze*, or *empty the magazine*, and use the following modifiers:
 
 - a *tap* first a single bolt and functions normally.
 - a *short* squeeze uses up to 3 bolts; if all three are fired, deals \+1d10 DV, and gains +10 to the attack check.
@@ -1181,33 +1189,22 @@ Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you shoul
 
 ### Gnomes
 
-  - Gnomes live in burrows in the lower ranges of the World Spine
-    Mountains.
+  - Gnomes live in burrows in the lower ranges of the World Spine Mountains.
 
-  - Gnome burrows reside near the surface; they are “burried shallow,”
-    with surface entrances.
+  - Gnome burrows reside near the surface; they are “buried shallow,” with surface entrances.
 
-  - Gnome communities tend to be small; a dozen families or fewer,
-    spread across as many burrows.
+  - Gnome communities tend to be small; a dozen families or fewer, spread across as many burrows.
 
-  - Gnomish communities tend to be isolated; they are not eager to
-    receive guests, not even other Gnomes.
+  - Gnomish communities tend to be isolated; they are not eager to receive guests, not even other Gnomes.
 
-  - The outsiders they deal most frequently with are Kobolds, from
-    burrows dug deeper underground in the World Spine Mountains.
+  - The outsiders they deal most frequently with are Kobolds, from burrows dug deeper underground in the World Spine Mountains.
 
-  - Gnome communities tend to be *idiosyncratic*, owing to their limited
-    outside contact.
+  - Gnome communities tend to be *idiosyncratic*, owing to their limited outside contact.
 
-  - Gnomish culture can blend the hedonic and the materialistic in
-    strange ways. Because their communities are small and isolated, they
-    are used to suffering hardship and want; however, they are also
-    highly pleasure-seeking in their own way, and tend to be highly
-    libertine and indulgent in the pursuit of mortal pleasure (when they
-    have the opportunity).
+  - Gnomish culture can blend the hedonic and the materialistic in strange ways.
+    Because their communities are small and isolated, they are used to suffering hardship and want; however, they are also highly pleasure-seeking in their own way, and tend to be highly libertine and indulgent in the pursuit of mortal pleasure (when they have the opportunity).
 
-  - As a result, they may appear to be humble, simple and rustic — until
-    evening descends, when the party drugs come out.
+  - As a result, they may appear to be humble, simple and rustic — until evening descends, when the party drugs come out.
 
 #### Vitals
 
@@ -1304,7 +1301,7 @@ Halfling Wagons are large horse-drawn carts that serve as both a mobile residenc
 The carts varied; the humblest is essentially a discarded human wagon with bunks hung from boards running along the sides as walls, while the most expensive are large, wood-sided structures whose internal spaces are divided into floors and rooms (though small even by the standards of Halflings).
 Some are even designed to be opened up, becoming small shops once set up.
 
-In general, a Halfling Wagon can comfortably accomodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
+In general, a Halfling Wagon can comfortably accommodate up to four halflings, and provide work space enough to carry and use (when stopped and set-up) a Shop.
 Halflings Wagons are neither light nor fast; the are two-axled, and are most often pulled by two horses.
 
 ### Herders
