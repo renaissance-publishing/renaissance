@@ -2,7 +2,7 @@
 
 printf "# Summary\\n\\n"
 
-for file in [0-9]*.md ; do
+for file in chapters/[0-9]*.md ; do
     #echo "${file}"
     #TITLE_LINE=`grep 'title:\(.*\)' "${file}"`
     # one file has windows line-endings, because of course it does.
