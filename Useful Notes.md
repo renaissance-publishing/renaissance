@@ -39,3 +39,7 @@ Also, it looks like the custom blocks are defined in 'gatsby-config.js'.
 Used dehyphenizer.sed to replace all the --s and get the spacing consistent.
 Hopefully.
 RegExes are always fun.
+
+We were using [IM Fell Double Pica](https://fonts.google.com/specimen/IM+Fell+Double+Pica#license) before.
+And I think still can, in principle, without dealing with Google's fuckery, because it's an open font.
+The [Mozilla page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) on web-fonts looks fairly practical, honestly.
