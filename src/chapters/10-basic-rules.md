@@ -1,6 +1,4 @@
----
-title: "Basic Rules"
----
+# Basic Rules
 
 ## The Rule(s) 0
 

@@ -1,6 +1,4 @@
----
-title: "Races"
----
+# Races
 
 Here we will provide the information that players will need to build a character of a particular race.
 This includes a short description of their history, cultures, and ethnic groups; physical descriptions; vitals; and, importantly, their mechanical features.

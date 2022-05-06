@@ -1,6 +1,4 @@
----
-title: "Items"
----
+# Items
 
 Here we list a number of *items* that your character may have.
 Some of these items are common, like tool kits or work animals; others are rare or unique.

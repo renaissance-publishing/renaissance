@@ -1,6 +1,4 @@
----
-title: "Wealth, Bartering, Income and Lifestyles"
----
+# Wealth, Bartering, Income and Lifestyles
 
 ## Wealth
 

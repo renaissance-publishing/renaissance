@@ -1,6 +1,4 @@
----
-title: "Powers"
----
+# Powers
 
 ## Powers
 

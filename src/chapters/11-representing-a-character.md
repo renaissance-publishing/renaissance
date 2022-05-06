@@ -1,6 +1,4 @@
----
-title: "Representing a Character"
----
+# Representing a Character
 
 ## Characters
 

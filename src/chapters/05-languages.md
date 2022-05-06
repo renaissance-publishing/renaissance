@@ -1,6 +1,4 @@
----
-title: "Languages"
----
+# Languages
 
 ## Languages
 

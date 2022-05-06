@@ -1,6 +1,4 @@
----
-title: "About the Game"
----
+# About the Game
 
 ![Commonwealth Banner](../images/proto_banner_cw_raaad.jpg)
 

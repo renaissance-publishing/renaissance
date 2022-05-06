@@ -1,6 +1,4 @@
----
-title: "Cheating Reality: Representing and Using Magic"
----
+# Cheating Reality: Representing and Using Magic
 
 ## Using Magic
 

@@ -1,6 +1,4 @@
----
-title: "Sample Module: The Wendigo"
----
+# Sample Module: The Wendigo
 
 ## Introduction
 

@@ -1,6 +1,4 @@
----
-title: "Monsters, Animals and NPCs"
----
+# Monsters, Animals and NPCs
 
 ## Sample Creatures
 

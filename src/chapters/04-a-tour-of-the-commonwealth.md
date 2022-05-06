@@ -1,6 +1,4 @@
----
-title: "A Tour of the Commonwealth"
----
+# A Tour of the Commonwealth
 
 ## The Tour
 

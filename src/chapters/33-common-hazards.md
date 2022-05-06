@@ -1,6 +1,4 @@
----
-title: "Common Hazards"
----
+# Common Hazards
 
 As players explore, fight, sneak about, and otherwise adventure, they'll encounter many hazards; here, we have compiled only a few.
 

@@ -1,6 +1,4 @@
----
-title: "Building Characters"
----
+# Building Characters
 
 So, we've laid out several rules and "systems," we've provided lists of skills, powers, classes, traits and items, and we've talked about the 5 Roles.
 After reading all of this, you still might be wondering how all these pieces fit together to build a *character*.

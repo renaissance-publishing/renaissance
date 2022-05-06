@@ -1,6 +1,4 @@
----
-title: "Backgrounds"
----
+# Backgrounds
 
 ## Backgrounds
 

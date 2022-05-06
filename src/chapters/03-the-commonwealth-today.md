@@ -1,6 +1,4 @@
----
-title: "The Commonwealth Today"
----
+# The Commonwealth Today
 
 ## Overview
 

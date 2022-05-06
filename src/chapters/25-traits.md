@@ -1,6 +1,4 @@
----
-title: "Traits"
----
+# Traits
 
 ## Traits
 

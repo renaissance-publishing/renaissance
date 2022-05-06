@@ -1,6 +1,4 @@
----
-title: "Introduction"
----
+# Introduction
 
 ## Welcome
 

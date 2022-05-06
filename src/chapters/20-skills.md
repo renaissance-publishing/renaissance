@@ -1,6 +1,4 @@
----
-title: "Skills"
----
+# Skills
 
 ## Types of Skill
 

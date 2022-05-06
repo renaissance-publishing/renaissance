@@ -1,6 +1,4 @@
----
-title: "Quick Reference"
----
+# Quick Reference
 
 Note: the quick-ref may get out of sync with the actual rules text.
 If that happens, the *actual rules text* applies.

@@ -1,6 +1,4 @@
----
-title: "Other Nations"
----
+# Other Nations
 
 ## The Kingdoms of Men
 

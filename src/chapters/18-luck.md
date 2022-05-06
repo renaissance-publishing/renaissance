@@ -1,6 +1,4 @@
----
-title: "Luck"
----
+# Luck
 
 ## Luck
 

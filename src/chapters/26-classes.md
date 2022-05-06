@@ -1,6 +1,4 @@
----
-title: "Classes"
----
+# Classes
 
 ## Classes
 

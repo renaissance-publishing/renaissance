@@ -1,6 +1,4 @@
----
-title: "The Five Roles"
----
+# The Five Roles
 
 In *Renaisance,* there are, broadly, five player roles — which we've referred to incidentally throughout the guide.
 They are:

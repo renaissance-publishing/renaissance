@@ -1,6 +1,4 @@
----
-title: "Running Games"
----
+# Running Games
 
 ## Designing Adventures
 

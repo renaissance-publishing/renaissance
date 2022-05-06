@@ -1,6 +1,4 @@
----
-title: "What Makes your Character Unique: Motivations and Milestones"
----
+# What Makes your Character Unique: Motivations and Milestones
 
 The rules of the game are primarily concerned with what your character
 can *do:* their abilities, their senses, their skills, and so on. But

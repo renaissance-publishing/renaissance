@@ -1,6 +1,4 @@
----
-title: "Organizations"
----
+# Organizations
 
 ## Organizations
 

@@ -1,6 +1,4 @@
----
-title: "Features"
----
+# Features
 
 ## Traits, Powers, and Classes
 

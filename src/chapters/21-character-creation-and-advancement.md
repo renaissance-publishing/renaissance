@@ -1,6 +1,4 @@
----
-title: "Character Creation and Advancement"
----
+# Character Creation and Advancement
 
 ## Character Creation
 

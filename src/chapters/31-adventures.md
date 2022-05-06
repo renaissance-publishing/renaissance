@@ -1,6 +1,4 @@
----
-title: "Adventures"
----
+# Adventures
 
 Renaissance is designed to support three types of adventures:
 

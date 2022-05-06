@@ -1,6 +1,4 @@
----
-title: "The Deep Secrets of the World"
----
+# The Deep Secrets of the World
 
 ## Secrets
 

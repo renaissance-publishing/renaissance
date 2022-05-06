@@ -1,6 +1,4 @@
----
-title: "The Supernatural"
----
+# The Supernatural
 
 ## Magic
 

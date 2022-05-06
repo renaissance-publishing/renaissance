@@ -1,6 +1,4 @@
----
-title: "Injury and Recovery"
----
+# Injury and Recovery
 
 ## Physical Injury
 

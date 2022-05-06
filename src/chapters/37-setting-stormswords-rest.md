@@ -1,6 +1,4 @@
----
-title: "Sample Setting: Stormsword's Rest"
----
+# Sample Setting: Stormsword's Rest
 
 ## Introduction
 

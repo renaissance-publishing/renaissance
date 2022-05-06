@@ -1,6 +1,4 @@
----
-title: "Background"
----
+# Background
 
 ## The Known World
 

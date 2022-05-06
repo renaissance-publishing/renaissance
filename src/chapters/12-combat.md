@@ -1,6 +1,4 @@
----
-title: "Combat"
----
+# Combat
 
 Unlike other parts of the game, *Combat* has fairly specific rules.
 

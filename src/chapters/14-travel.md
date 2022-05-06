@@ -1,6 +1,4 @@
----
-title: "The Boring Part of Adventuring: Travel"
----
+# The Boring Part of Adventuring: Travel
 
 ## The Boring Part of an Adventure
 

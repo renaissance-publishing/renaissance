@@ -1,6 +1,4 @@
----
-title: "Innate Abilities: Senses, Movements and Special Abilities"
----
+# Innate Abilities: Senses, Movements and Special Abilities
 
 The following are common Senses, Movement types and Special Abilities.
 This list is by no means exhaustive.

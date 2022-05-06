@@ -1,6 +1,4 @@
----
-title: "Sample Module: A Crisis in Northland"
----
+# Sample Module: A Crisis in Northland
 
 ## Introduction
 
