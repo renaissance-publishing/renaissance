@@ -13,55 +13,9 @@ Their fortunes have changed dramatically since the creation of the Goblin Empire
 |
 |---
 |
-|#### Major Character: Second-Empress.
-|
-|Her name in High Goblin can't be transliterated, but in Speech-of-the-Lesser, she is simply called Second-Empress; she is the daughter of the first Empress.
-|She rules the Goblin Empire, and is leading their pillage of the Ruby Plane.
-|So far, she has successfully kept the Kings, Warlords and rising merchant class sweet, while slowly but steadily advancing the power of the Empire.
-|
-|---
-|
-|#### Major City: Strong-Throne
-|
-|Strong-Throne is the capital of the Empire, located in the south-center of Goblin territory on the Emerald Plane.
-|The city has a population of roughly 450,000, contains the Imperial throne, and is the center of their administration and military command.
-|
-|#### Major City: Market-of-the-Empire
-|
-|Market-of-the-Empire is a city of more than a million located only 70 miles from the Imperial frontier on the Ruby Plane.
-|The city is not a seat of Imperial administration; rather, it is a center of trade and business; here, slaves and pillage from the frontier are traded for coin and supplies from the Emerald Plane.
-|Perhaps as few as 300,000 of the city's occupants are resident citizens; they are joined by another 300,000 traders, travellers and transients, and between 400,000 and 800,000 slaves.
-|
-|---
-|
-|#### Language: Classical Goblin
-|
-|Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
-|
-|Goblins have an unusually wide vocalization range, and their language spans all of it.
-|Few other races can speak it — which suits Goblin cultural values.
-|
-|*Group GR+DDK*
-|
-|#### Language: Vulgar Goblin
-|
-|Vulgar Goblin is the form of the Goblin language in use today.
-|Vulgar Goblin has borrowed from the languages of many of the races that they have encountered (or enslaved) over the centuries.
-|
-|Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new words by combining existing ones; this means that many words and place-names can be nicely rendered in Commonwealth Standard.
-|
-|*Group GR+DDK*
-|
-|#### Language: Speech-of-the-Lesser
-|
-|Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
-|It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
-|
-|Notably, Many Goblins do not speak Speech-of-the-Lesser — in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
-|This task often falls to slave-tenders — often Gremlins or low-born Goblins — who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
-|
-|*Any Group*
-|
+|- Ruled by **Second-Empress**, the current Empress.
+|- The Empire's capital (on the Emerald Plane) is **Strong-Throne**.
+|- **Classical Goblin** (Group GR+DDK) is the language of law and governance, while **Vulgar Goblin** (Group GR+DDK) is the language in common use.  Meanwhile, **Speach-of-the-Lesser** (any group) is spoken by slaves and slave-tenders.
 
 ## Kings, Warlords, Emperors and the Code
 
@@ -216,3 +170,49 @@ While some of the Goblin's kings have sought allies among the kings and nobles o
 
 The Goblins have little contact with the Shaded Sea Peoples, as a continent separates the two (and because the Commonwealth patrols the seas between South-Harbor and the Ruby Plane, cutting off an ocean route).
 
+---
+
+## Major Character: Second-Empress.
+
+Her name in High Goblin can't be transliterated, but in Speech-of-the-Lesser, she is simply called Second-Empress; she is the daughter of the first Empress.
+She rules the Goblin Empire, and is leading their pillage of the Ruby Plane.
+So far, she has successfully kept the Kings, Warlords and rising merchant class sweet, while slowly but steadily advancing the power of the Empire.
+
+## Major City: Strong-Throne
+
+Strong-Throne is the capital of the Empire, located in the south-center of Goblin territory on the Emerald Plane.
+The city has a population of roughly 450,000, contains the Imperial throne, and is the center of their administration and military command.
+
+## Major City: Market-of-the-Empire
+
+Market-of-the-Empire is a city of more than a million located only 70 miles from the Imperial frontier on the Ruby Plane.
+The city is not a seat of Imperial administration; rather, it is a center of trade and business; here, slaves and pillage from the frontier are traded for coin and supplies from the Emerald Plane.
+Perhaps as few as 300,000 of the city's occupants are resident citizens; they are joined by another 300,000 traders, travellers and transients, and between 400,000 and 800,000 slaves.
+
+## Language: Classical Goblin
+
+Classical Goblin is a language of law, governance and scholarship; it is an ancient, formal form of the language, preserved in the written Code and used throughout the Goblin legal system.
+
+Goblins have an unusually wide vocalization range, and their language spans all of it.
+Few other races can speak it — which suits Goblin cultural values.
+
+*Group GR+DDK*
+
+## Language: Vulgar Goblin
+
+Vulgar Goblin is the form of the Goblin language in use today.
+Vulgar Goblin has borrowed from the languages of many of the races that they have encountered (or enslaved) over the centuries.
+
+Conveniently, much like Commonwealth Standard, Vulgar Goblin often forms new words by combining existing ones; this means that many words and place-names can be nicely rendered in Commonwealth Standard.
+
+*Group GR+DDK*
+
+## Language: Speech-of-the-Lesser
+
+Speech-of-the-Lesser is a language designed to be usable by a large number of races, with diverse types of speech.
+It works much like Commonwealth Standard: it uses a number of abstract sounds, which speakers substitute for sounds that they can make.
+
+Notably, Many Goblins do not speak Speech-of-the-Lesser — in their minds, it is not the job of the *greater* to make themselves understood to the *lesser*.
+This task often falls to slave-tenders — often Gremlins or low-born Goblins — who speak to their betters in Goblin and the slaves they manage in Speech-of-the-Lesser.
+
+*Any Group*
