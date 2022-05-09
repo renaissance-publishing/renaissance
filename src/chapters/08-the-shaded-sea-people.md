@@ -1,4 +1,3 @@
-
 ![Shade Sea Banner](../images/proto_banner_shaded_sea.png)
 
 # The Shaded-Sea People
