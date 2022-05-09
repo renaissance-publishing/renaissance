@@ -1,0 +1,120 @@
+import json
+import sys
+import re
+
+# ripped from
+#   https://stackoverflow.com/questions/4020539/process-escape-sequences-in-a-string-in-python
+# this should not have been necessary.
+
+import codecs
+
+ESCAPE_SEQUENCE_RE = re.compile(r'''
+    ( \\U........      # 8-digit hex escapes
+    | \\u....          # 4-digit hex escapes
+    | \\x..            # 2-digit hex escapes
+    | \\[0-7]{1,3}     # Octal escapes
+    | \\N\{[^}]+\}     # Unicode characters by name
+    | \\[\\'"abfnrtv]  # Single-character escapes
+    )''', re.UNICODE | re.VERBOSE)
+
+def decode_escapes(s):
+    def decode_match(match):
+        return codecs.decode(match.group(0), 'unicode-escape')
+
+    return ESCAPE_SEQUENCE_RE.sub(decode_match, s)
+
+
+# starting out with the default almost-no-op MD filter from
+#   https://rust-lang.github.io/mdBook/for_developers/preprocessors.html
+
+custom_matcher = re.compile(r'\[\[([^|]+)|(.*)\]\]')
+
+def replace_customs(text):
+    result = []
+    in_custom = False
+
+    #text = bytes(text, "UTF-8").decode("unicode_escape")
+    #text = json.loads(text)
+    text = decode_escapes(text)
+
+    #with open("unescaped.md", "a") as ofile: ofile.write(">" + text + "\n")
+
+    for line in text.split("\n"):
+        if (lm := custom_matcher.match(line)) is not None and in_custom == False:
+            in_custom = True
+            result.append("<div class=\"custom\">")
+        elif in_custom == True:
+            if line.startswith("|"):
+                result.append(line[1:])
+            else:
+                result.append("</div>")
+                result.append(line)
+                in_custom = False
+        else:
+            result.append(line)
+
+    return "\n".join(result)
+
+    return text
+
+if __name__ == '__main__':
+    if len(sys.argv) >= 2: # we check if we received any argument
+        if sys.argv[1] == "supports" and sys.argv[2] == "html": 
+            sys.exit(0)
+        else:
+            sys.exit(1)
+
+    """
+    ### Those escape sequences are in the text I get here
+    inp = sys.stdin.read()
+    with open("seen.json", "a") as ofile:
+        ofile.write(inp)
+    sys.stdout.write(inp)
+    """
+
+    """
+    context, book = json.load(sys.stdin)
+    
+    with open("seen.json", "a") as ofile:
+        ofile.write(json.dumps(book))
+        ofile.write("\n")
+        ofile.write(json.dumps(context))
+        ofile.write("\n\n")
+
+    print(json.dumps(book))
+    """
+
+    """
+    context, book = json.load(sys.stdin)
+    
+    book['sections'][0]['Chapter']['content'] = "# what the fuck\n\nis going on?"
+
+    with open("seen.json", "a") as ofile:
+        ofile.write(json.dumps(book))
+        ofile.write("\n")
+        ofile.write(json.dumps(context))
+        ofile.write("\n\n")
+
+    print(json.dumps(book))
+    """
+
+    """
+    context, book = json.load(sys.stdin)
+
+    for section in book['sections']:
+        in_custom = False
+        for doc in section['Chapter']['content']: # idiot, that's `for doc in a str`
+            res = replace_customs(doc)
+            section['Chapter']['content'] = json.dumps(res)
+
+    sys.stdout.write(json.dumps(book))
+    """
+
+    context, book = json.load(sys.stdin)
+
+    for section in book['sections']:
+        in_custom = False
+        res = replace_customs( section['Chapter']['content'] )
+        section['Chapter']['content'] = res
+
+    sys.stdout.write(json.dumps(book))

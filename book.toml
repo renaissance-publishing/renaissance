@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Renaissance"
+
+[preprocessor.customs]
+renderers = ["html"]
+command = "python filter_customs.py"
