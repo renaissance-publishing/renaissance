@@ -180,3 +180,27 @@ blockquote {
 .result-no-output {
     font-style: italic;
 }
+
+/* Things I added below
+ */
+
+.asside {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding: 0.5em;
+    border: 2px #000000 dashed;
+}
+
+.asside-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: var(--table-header-bg);
+    padding: 0.2em;
+}
+
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*text-align: justify;*/
+}

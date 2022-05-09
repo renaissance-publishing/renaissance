@@ -27,7 +27,8 @@ def decode_escapes(s):
 # starting out with the default almost-no-op MD filter from
 #   https://rust-lang.github.io/mdBook/for_developers/preprocessors.html
 
-custom_matcher = re.compile(r'\[\[([^|]+)|(.*)\]\]')
+# custom_matcher = re.compile(r'\[\[([^|]+)|(.*)\]\]')
+custom_matcher = re.compile(r'\[\[([^| \t]+)[ \t]*(\|[ \t]*([^\]]*))?\]\]')
 
 def replace_customs(text):
     result = []
@@ -42,7 +43,10 @@ def replace_customs(text):
     for line in text.split("\n"):
         if (lm := custom_matcher.match(line)) is not None and in_custom == False:
             in_custom = True
-            result.append("<div class=\"custom\">")
+            result.append("<div class=\"asside\">")
+            #result.append(f"groups: {lm.groups()}")
+            if len(lm.groups()) >= 3 and (tm := lm.groups()[2]) is not None and len(tm)> 0:
+                result.append(f"<div class=\"asside-title\">{tm}</div>")
         elif in_custom == True:
             if line.startswith("|"):
                 result.append(line[1:])

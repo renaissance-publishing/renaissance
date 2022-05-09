@@ -10,7 +10,7 @@ There are many organizations active in the Commonwealth, the wider Emerald Plane
 |For a player, membership in an organization can explain why a character is undertaking a particular adventure, and can give that character access to the kind of resources and support that they might find useful.
 |For GMs, these organizations can make good *quest-givers*—if you want to send your players out to tackle a supernatural, "black-swan" problem, then an organization that tracks and combats those kind of threats — like the Far Watch — is a good place to start the adventure.
 |
-|Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not requried.
+|Nevertheless, players should not feel like their characters *need to* belong to a particular organization, and GMs should not feel like these organizations *need to* play a prominent role in the adventures they build; they are available if are useful, but they are not required.
 |
 |And, of course, there are many more active organizations than the handful presented here; GMs and players should feel free to add more.
 
