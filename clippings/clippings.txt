@@ -1,0 +1,564 @@
+This is just a file for me to stash useful text-clippings.
+
+Removed from the skill section:
+<!--
+I'll comment this out for now.  While this text is good, I think it's already present somewhere else.
+
+While we like the flexibility that this gives the system, it does create a problem: some players greatly miss the kind of guidance that those "mechanics" and "systems" provide.
+If you have that problem, then, when designing your character, you may want to start by trying to think about the kinds of things you want your character to be able to do--which might mean imagining them in specific scenarios and then thinking about how they sovle the problems they encounter--and then pick skills that represent those tactics and abilities.
+When playing your character, you might want to first decide what you want your character to *d0*, and then allow the GM to decide which skill checks are required and what your modifiers are.
+(And not that there is not necessarily one correct answer to that question!)
+
+If you're the GM and you're having trouble picking skills, remember that the skill system is *intended* to be open-ended and flexible.
+You do want to be consistant and you don't want to be too lax, but you *don't* need to worry too much about picking exactly which skill and exactly which modifier is required in every given situation.
+And there's nothing wrong with asking a player which skill they think applies, or giving them a choice of skills--because its entirely possible that they might have more than one applicable skill!
+-->
+
+
+
+Removed from the Tour section:
+
+### The Manors of Heartland
+
+Social organization in the older provinces of the Commonwealth — at least, in Heartland and Westward provinces — is based around a decentralized form of manorialism.
+
+Manors are, archetypically, small towns, with a number of homes and artisans clustered at the center, surrounded surrounded by fields and forests.
+The form and organization of these manors — how the fields are divided up, how they are worked, what dues are due to whom — can vary widely.
+
+Manors are, classically, overseen by a founding noble Lord or central organization, who holds their *charter*; though the Commonwealth has abolished serfdom, these charter-holders often remain powerful within their holdings.
+(It is entirely possible for the residents of a manor to hold its charter directly; though somewhat rare in centuries past, this has become more and more common.)
+
+Most manors — with the support of the surrounding hamlets — are self-sufficient, producing enough food to support their local populace, and often having a small number of local artisans to produce whatever else they may need.
+(In fact, the Commonwealth has command of a large array of sophisticated farming techniques and technologies, making the fields around their manors highly productive; this allows them to support their relatively large urban populations, as well as their full-time military.)
+Manors often specialize; some may have larger planted fields, allowing them to produce more food for export, possibly to support a nearby city; others may have a larger stock of artisans, producing worked goods for sale; still others may host some organization — a temple, a college, or a particular artisan's guild, for example.
+(In fact, manors are often founded by such organizations — temples, colleges, guilds, and so on — for the express purpose of providing support.)
+
+Heartland also hosts a large number of well-established cities — although "large" is a somewhat relative term.
+Most cities have a population between five and ten thousand, well short of Crossroad's staggering two million.
+Cities are almost never self-sufficient in terms of food, instead being dependent on the support of nearby manors; they do, however, host large communities of artisans and specialized workers, and are major producers of finished goods, from plows to magical mechanisms.
+They also often host communities of traders and vibrant markets; it is often the market-squares of cities where residents of manors bring their crops to be sold, and where those same manor-folk purchase goods from finished steel to silk.
+Cities also commonly host temples, to help ensure the good favor of the local spirits.
+
+It is also typically cities that grant, recognize, and — where necessary — defend the charters of manors.
+Perhaps confusingly, charter-granting cities are sometimes called "city-states" — not to be confused with city-*provinces*, a term reserved for the few truly massive cities that have top-level *provincial* status in the Commonwealth (Crossroads, for example).
+These arrangements are often spelled out in charters; they may obligate a manor to provide a certain yield of food, raw materials, or labor, while in turn obligating the city to arrange for the defense of the manor.
+
+#### Westward Province
+
+The culture in Westward is similar, as it was carried West from Heartland.
+It is, however, more militarized — and definitely more fortified.
+
+### 
+
+The Commonwealth contains a great many people, and its culture has changed drastically as the centuries have passed and the Commonwealth has spread.
+This description of hamlets, manors and cities may be how most outsiders think of the Commonwealth, but it is most true of Heartland Province.
+Other peoples in other places can vary significantly.
+The Dragonshire, for example, has a nominal King, and a nobility; historically, it has been from their authority that charters have been derived.
+Urban centers in the Dragonshire (and the lords who reside in them) have also done a better job at bringing far-flung manors and towns more directly under their control, building a more centralized administration and more directly integrating the culture of city and town.
+In the Haven Isles,
+
+
+      - Manors will be surrounded by fields, which are divided into
+        plots; though each plot will usually be “owned” by a specific
+        family, entire manors frequently cooperate to farm all of the
+        plots, and the yield of all of the fields is often shared.
+      - Manors often host local administrators and priests.
+      - Manors also often host populations of artisans, often small.
+      - Manors often host traders.
+      - Manors can specialize in what they produce; while almost all
+        manors are self-sufficient in terms of food production, some
+        produce food for trade, while others have larger populations of
+        artisans and produce goods for trade instead. Manors owned by
+        Colleges might produce education as a type of good, while manors
+        owned by monasteries or temples might prosper by trading with
+        spirits or training priests.
+      - Each manor is often associated with several surrounding
+        villages; those villages supplement the Manor’s food production.
+      - Typically have a population of two thousand or so, although this
+        can vary widely. Humans and Gnolls are common in manors; drakes
+        are also common in the Dragonshire.
+
+  - Cities as such are rare, but they are more common (and stable) in
+    the Commonwealth than elsewhere.
+    
+      - Though many cities may be surrounded by associated fields, they
+        will not be (even almost) self-sufficient in terms of food
+        production.
+      - Cities are major trade-hubs, and are often founded on major
+        trade routes—rivers or major overland routes.
+      - Cities are peopled by traders, nobles, bureaucrats, priests and
+        scholars—and the lower-class helpers they employ.
+      - Cities will be supported by nearby manors; trade goods and food
+        will flow from manors into cities, whose merchants will pass
+        them on.
+      - Common cities will have populations around fifteen thousand,
+        though this number also varies quite widely; cities at the
+        headlands of major rivers, surrounded by prosperous farm-land,
+        can be significantly larger.
+      - Though humans predominate in Commonwealth cities, they are
+        highly diverse, and populations of many other races are common.
+        Notably, Kobolds take well to urban living, and their numbers
+        have been soaring over the last 200 years.
+
+  - Major Cities
+    
+      - Province capitols, city-states and major port cities are *major
+        cities*.
+      - Major cities have populations over fifity-thousand—sometimes,
+        albeit rarely, over one hundred thousand.
+      - Major Cities have populations like those of cities, but are even
+        larger and more prosperous; they are often the seat of province
+        governments, and house the thrones of monarchs.
+
+  - The Commonwealth includes a number of tribal societies.
+    
+      - Though many of them have built settlements, these tribes and
+        peoples do not usually practice settled agriculture on a scale
+        sufficient to support their societies.
+      - Frequently, their able-bodied adult population ranges through
+        nearby lands, hunting and foraging.
+      - Some will practice shepherding; those wandering will herd
+        flocks.
+      - The very old, the very young, priests and artisans will live in
+        their settlements, supported by smaller-scale agriculture.
+      - Unlike cities, manors and villages, the borders of tribal
+        territories will frequently be poorly-defined; they will be
+        surrounded by great tracts of wilderness, left unspoiled by the
+        other Commonwealth societies.
+      - Though many tribal societies have signed the Commonwealth
+        charter, and thus their members are properly Commonwealth
+        citizens, they are frequently fairly isolated; they usually do
+        not produce excesses of food or goods for trade, and therefore
+        do not attract traders or travelers. Most simply continue to
+        live as they have always lived.
+      - Notably, not all tribal societies within the Commonwealth’s
+        borders are members of the Commonwealth; Orks, in particular,
+        have never been peacefully incorporated. These societies are
+        often isolated; Commonwealth forts will ring their territory,
+        Commonwealth soldiers will patrol their borders, and though they
+        are left free, they will be trapped within their territories.
+
+  - Trading Caravans
+    
+      - A way of life common to Halflings, Trade Caravans were vital to
+        tying the early Commonwealth together; as conduits of trade,
+        they were major vehicles of its prosperity.
+      - Somewhat similar to tribal communities, halfling commuities are
+        *dimorphic*: the able-bodied journey with the caravans, while
+        the young, old and infirm live in settlements similar to small
+        manors.
+      - Halfling communities typically rely on villages and manors of
+        other races to provide them with food; they are more likely to
+        profit from trade or artisanry.
+
+  - Underground Societies
+    
+      - Several commonwealth races—notably Kobolds and Ash Elves—prefer
+        to live underground.
+      - Subterranean cultures typically live in larger cities: tunneling
+        through rock is more labor-intensive than clearing open land,
+        and farming underground is impractical, so there is little
+        incentive to scatter into countless villages.
+      - Unsurprisingly, mining is often a primary economic activity for
+        subterranean cultures.
+      - They also often support large populations of artisans.
+      - They support themselves by trading ore and finished goods with
+        surface-dwelling peoples.
+
+  - I was fairly drunk towards the end of this, so I need to go back and
+    look this over.
+
+
+
+      - Kethanel is a city-state located on the island Kethel in the
+        gulf that separates the Orcs and Dwarves.
+      - Before either the Dwarves or Orcs joined the Commonwealth,
+        Kethel was settled equally by six Orcish and six Dwarven clans;
+        the two shared the resources of the island—such as they were—and
+        coexisted (mostly) peacefully.
+      - More than 600 years ago, the Clans of Kethel met in council;
+        they agreed, first, that their clan council could make decisions
+        for the island as a whole, and second, that Kethel should join
+        the Commonwealth, as many other Dwarven and Orcish territories
+        had done.
+      - Even though Kethel is more than 100 miles across, it is listed
+        as a city-state, and is represented by its one major city.
+        Kethanel is a city of more than thirty-five thousand situated in
+        a wide bay on the continent’s Southern edge.
+      - The architecture of Kethanel is striking; the city is built both
+        above and below ground, and is built of massive stones carved
+        and set by both Orcish and Dwarven hands. It is, not
+        coincidentally, a veritable fortress.
+      - Kethanel has long been a local trading and fishing hub, its role
+        in trade is growing; though it has long been a port for boats
+        crossing the gulf, as the Commonwealth’s sea-faring abilities
+        improve, boats sailing up and around the coast from the Haven
+        Isles have begun to make Kethanel a stopping-point. Some have
+        whispered that a Cairn may be built in Kethanel.
+      - Though Kethel is still predominantly settled by equal numbers of
+        Dwarves and Orcs, after the island joined the Commonwealth it
+        saw an influx of more than a thousand Gnolls, mostly of a
+        unique, arctic ethnic-group; they settled in the Southeastern
+        reaches of the island. More recently, Kethanel City has seen
+        substantial Kobold immigration, and a small population of Ash
+        Elven merchants have been carried to the city from the Haven
+        Isles by boat.
+
+
+
+
+
+<!--
+### Partial Plate (Original)
+
+Consisting of steel plates and leather straps, partial plate protects
+only parts of the wearer. The typical layout will cover the throat,
+shoulders, arms and shins in plate, though other arrangements exist,
+including single plates directly over the heart and kidneys, or
+gladiator sleeves.
+
+Armor Value: 5 AV
+
+Drawbacks: Cannot be worn with Full Plate.
+
+Tags: Exposed, Layerable, Proud
+
+Exposed makes sense but is (probably) awkward to manage at the table; 5
+AV is way too much to be Layerable without penalty.
+
+### Partial Plate (Edited 1)
+
+Consisting of steel plates and leather straps, partial plate protects
+only parts of the wearer. The typical layout will cover the throat,
+shoulders, arms and shins in plate, though other arrangements exist,
+including single plates directly over the heart and kidneys, or
+gladiator sleeves.
+
+Armor Value: 3 AV
+
+Drawbacks: -2 INIT if layered with armor with the Heavy tag. Cannot be
+worn with Full Plate.
+
+Tags: Layerable, Proud
+-->
+
+
+
+
+- *Hide*: Gnolls gain +1 Armor Value
+- *Scavenger*: Gnolls are scavengers, and can comfortably digest carrion.  Gnolls gain a +20 bonus to checks to resist food-born illnesses.
+- *Sturdy*: Gnolls are highly resistant to pain and injury.  Gnolls can Negate one Wound.
+
+
+
+
+The Guards are organized into *marches*, a term borrowed from the military terminology of the Dragonshire and Kingdoms of Men; most marches correspond to a particular region of a province, although some marches with special missions might overlap others or cross provincial borders.
+Each Guard is headed by a March Commander; beneath each March Commander are several Fortress Commanders, who typically oversee a primary fortification, several overland road routes, and minor outposts; and each Fortress Commander is served by Patrol Commanders responsible for a particular patrol route or unit of Guards.
+
+March Commanders are typically responsible to the governments of the provinces in which they operate; because different provinces can have very different legal and governmental systems, the Guard can operate very differently in different provinces.
+Heartland Province, for example, has no significant provincial government; their Provincial Charter endows the Guard with the ability to prosecute various forms of violent crime, and specifies that they are responsible to the city-states within whose holdings they operate.
+The Dragonshire, however, has an existing civil structure, headed by Drake nobles and citizen's councils; in the Dragonshire Province, Guard units largely supplement these forces.
+
+
+
+
+
+As characters operate in the world (and especially as they complete adventures), they will gain Rez Points (RP).
+RP is usually awarded at the end of an *adventure*, and RP rewards are the primary method by which characters advance.
+Characters can spend RP to advance during down-time, using the same rules by which they spent CP during character creation, with two exceptions.
+
+First, when spending RP, the character-creation limits no longer apply, but the global limits still do.
+For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
+
+Second, the ways that characters advance needs to make sense.
+We don't have hard-and-fast rules for this, and is generally left up to the GM.
+This usually means that, in order to advance a skill, that skill should either have been used extensively in the previous adventure, or the character should spend time practicing it during down-time.
+It also means that some traits cannot be acquired during down-time, like *Congenital Defect* or *Illiterate*.
+(Of course, what "makes sense" is subjective, and special cases and unusual situations are always possible.)
+
+Second, there are some traits that it would not make sense to acquire during down-time, like *Congenital Defect* and *Illiterate*.
+(Of course, GMs may always choose to make exceptions.)
+
+We don't have specific *training requirements* for acquiring skills, traits, and other features when spending RP.
+In general, players and GMs should ensure that the ways that characters are advancing make sense.
+For example, in order to advance a skill, a player should probably either have used it extensively in the previous adventure, or devote some time to practicing it during down-time.
+
+The requirement that character advancement "makes sense" also precludes acquiring certain traits with RP, like "Congenital Defect* or *Illiterate* — although what "makes sense" and what does not is subjective, and unusual situations are always possible.
+
+See also the “Buying Off Negative Traits” optional rule.
+
+
+
+
+
+
+  - For Free:
+    
+      - 3 dots in your native language (pick an appropriate one)
+      - 1 dot in Commonwealth Standard
+      - 1 Luck
+      - up to 2 Milestones
+
+  - Pick your **Race**
+    - Races provide:
+      - Aptitude Bonuses
+      - Durability (DUR), Strength (STR) and Size
+      - Senses and movement modes
+      - other special properties
+    - Races are listed in *Races*.
+  - Choose your **Aptitudes**
+    - Each of your aptitudes begins with a rating of 15.
+    - First, add your racial Aptitude modifiers.
+    - Then, distribute +20 points between your various aptitudes.
+      - You could add 5 to SOM, 10 to WIL and 5 to COO, for example.
+    - Then, distribute -5 points between your various aptitudes.
+      - You could subtract 5 from your COO, for example.
+      - You can subtract points from one of the aptitudes that you added points to.
+  - Pick your **Background**
+    - The bonuses granted by your Background “apply” now.
+      In particular, if your background grants you ranks in a skill, then you will have those skill ranks *before* you spend CP (see below).
+    - Skill Ranks granted by your background work exactly like ranks that you paid for.
+    - So, if your background gives you 10 ranks in Barter, you can buy 20 more ranks for 20 CP (1 a piece), and then 20 more ranks for 40 CP (2 CP a piece), and be at the maximum of 50 ranks during Character Creation.
+  - Spend your **creation points (CP)**
+    - Player-characters get 800 CP
+    - Pick a wealth level; see the table.
+    - Skill Points:
+          - 1 CP → 1 point in a skill (30 or fewer skill points
+            purchased)
+          - 2 CP → 1 skill point (31<sup>st</sup> skill point and
+            there-after)
+          - Proficiency Skills: you get some proficiencies for free as
+            you purchase ranks. You get your first proficiency when you
+            purchase your 10<sup>th</sup> rank, and another proficiency
+            every 20 ranks thereafter. (So, at your 50<sup>th</sup>
+            rank, you’ll get your third free proficiency, for example.)
+
+              - So you get a free proficiency at each of the following ranks:
+              - 10 / 30 / 50 / 70
+              - (But note that you can't leave character creation with more than 50 ranks in a skill, see below.)
+
+          - 5 CP → an additional proficiency
+    
+      - 5 CP → A specialization
+        
+          - you must have 10 ranks in a skill to purchase a
+            specialization for it, see *Skills*
+    
+      - 10 CP → a trait
+    
+      - 10 CP → a class
+    
+      - 10 CP → a power
+    
+      - 15 CP → +1 Luck
+    
+      - Items:
+        
+          - 1 CP → minor-cost item
+          - 5 CP → moderate-cost item
+          - 10 CP → major-cost item
+          - 20 CP → extreme-cost item
+          - We don’t track the CP cost of Trivial-cost items; most
+            useful trivial-cost items are best acquired as parts of
+            skill kits.
+          - see *Items*
+    
+      - 5 CP → a dot in a language
+
+  - Motivations
+    
+      - pick your motivations now (see *Motivations*)
+
+  - Character Creation Limits
+    
+      - no more than 50 ranks in a skill
+      - no aptitudes higher than 35 or lower than 5
+      - at least 100 CP spent on skills with the *combat* tag
+      - at least 100 CP spent on skills with the *knowledge* tag
+      - ~~at least 200 CP spent on skills that don't have the *combat* tag~~
+
+
+
+As characters operate in the world (and especially as they complete adventures), they will gain Rez Points (RP).
+RP is usually awarded at the end of an *adventure*, and RP rewards are the primary method by which characters advance.
+Characters can spend RP to advance during down-time, using the same rules by which they spent CP during character creation, with two exceptions.
+
+First, when spending RP, the character-creation limits no longer apply, but the global limits still do.
+For example, when spending RP during down-time, characters can buy more than 50 ranks in a skill (the character-creation limit), but not more than 70 (the global limit).
+
+Second, some traits cannot be purchased during down-time, since that wouldn't make sense; these include *Congenital Defect* and *Illiterate*.
+(Of course, GMs may always choose to make exceptions.)
+
+Note that we don't have specific *training requirements* for acquiring skills, traits, or other features when spending RP.
+
+See also the “Buying Off Negative Traits” optional rule.
+
+
+
+
+Powers represent some action that you can perform: this might be a sleight that increases your armor, a spell that allows you to shield yourself with ice, or a boon bestowed on you by a spirit that allows you to strike fear into their enemies.
+(Or, equally, an impressive but mundane ability, like a particular acrobatic maneuver or difficult strike with a weapon.)
+Classes can be used to represent magical effects that aren’t actions.
+The Corpse-Herd class is an example of this: it represents the magical ability to build a corpse-minion that will serve you, but it’s presented as a class rather than a power because presumably you’ll only build your minion occasionally (unless you get your corpse minion killed a lot).
+Finally, items are useful to represent magical devices that you’ve created — like a bow that fires bolts of fire.
+
+Classes, Powers, and Items are described in their own chapters.
+
+
+
+
+
+A final note on classes: we've tried to avoid adding things that *should be* traits or *should be* powers as part of what you get from a class; we much prefer that the trait or class be a separate thing — one that has the given class as a prerequisite.
+(Every attendant at a given shrine might have a certain power, for example, but it's preferable to list the power separately from the shrine-attendant class.)
+
+
+
+## Designing and Using Powers
+
+General rules for powers
+
+  - Powers represent some interesting *ability* that a character has.
+    They can represent magical powers, unique physical abilities,
+    martial maneuvers, or other abilities.
+
+  - Powers usually either
+    
+      - represent an action (in which case they’ll say what type of
+        action they require to perform, and how to resolve them), or
+      - modify other powers.
+
+  - Powers can be taken from the example list, but players can also
+    develop their own. GMs must approve powers developed by players;
+    this process usually takes the form of a conversation between the GM
+    and the player, trying to achieve the effect that the player wants
+    in a way that is reasonable and that works within the rules of the
+    game.
+
+  - Here are some good guidelines to follow for designing powers:
+    
+      - Powers should usually be D10 based; this is a D% system, and
+        players are likely to have D10s handy.
+    
+      - Powers should either require ranks in a Skill, or be linked to
+        some other power that requires ranks in a Skill, or both.
+    
+      - In general, when a power adversely affects another character, an
+        opposed check should be made. Usually only one check should be
+        called for; more than one is unfair to the attacker, fewer than
+        one is unfair to the defender.
+        
+          - Note that the “opposed check” doesn’t have to be the skill
+            that the power is linked to. The “opposed check” for
+            Fireball, for example, is the Thrown Weapon attack to hit a
+            target with it.
+    
+      - Since characters will get few powers (compared to D\&D, for
+        example), each power should be *versatile*. Clever players
+        should be able to find a number of uses for their powers.
+    
+      - Conversely, to keep things interesting and to give other
+        characters a chance to contribute, each power should have
+        situations where it clearly *does not* apply.
+    
+      - Powers can build on one another; if you’re having trouble
+        building a power, it might help to split it into two powers in a
+        sequence.
+    
+      - Powers should not negate the need for a given skill; for
+        example, a “tongues” power is a bad idea, because it sidesteps
+        the ‘languages system’ and removes any incentive players might
+        have to learn other languages.
+        
+          - This is why fireball is treated as a normal held object, so
+            the Ranged Weapons skill (with a Thrown proficiency) is
+            required to make best us of it.
+          - it’s also why we have Blur and not Invisibility; to use Blur
+            effectively, you still need ranks in Stealth.
+    
+      - Avoid Powers (especially maneuvers) that represent things that
+        any expert should be able to do. Remember that a character with
+        40 ranks in One-Handed Weapons is a master swordsman; they
+        shouldn’t need to purchase any specific powers to do things that
+        any skilled swordsman would be able to do.
+    
+      - Avoid Powers that would be “mandatory” for any given character
+        design. There shouldn’t be a power that every social character
+        needs to take to be functional, for example.
+    
+      - A “full invisibility” power is a real bad idea.
+    
+      - Also avoid D\&D-style instant heals; healing is supposed to be
+        difficult, and wounds sustained in combat are supposed to have a
+        real impact (for the rest of the combat at least, and preferably
+        into at least the next scene).
+
+  - Some useful definitions:
+    
+      - Spell: a power that requires ranks in the Spellcraft skill;
+        assumed to draw power from ambient magical energies.
+      - Sleight: a power that requires ranks in the Control skill;
+        assumed to draw power from personal magical energies.
+      - Maneuver: a power that requires ranks in a Combat skill; a
+        combat maneuver achieved by great skill, without the aid of
+        magic (unless it’s also a spell, sleight or boon)
+      - Boon, Blessing: a power that has been granted by a Spirit,
+        possibly drawing power from them or their Basin.
+
+[[playerguidance | Do Spells Require Magical Crafting]]
+|
+|According to *The Supernatural*, Mages create powerful effects by manipulating magical energies in a process that looks somewhat like crafting — by gathering materials that react to magic, accumulating magical energy, and processing them.
+|But, to design a magical power, you don't need to specify a "crafting process"; instead, you just activate the power.
+|Shouldn't you need to perform "magical crafting" to use a spell?
+|
+|Simply put, that's up to the player.
+|A power is something that your character has practiced until its down to rote; presumably, you've found some way to reliably trigger your magical powers — your spells — quickly and reliably.
+|How you did that is up to you.
+|
+|Some players might choose to include a magical apparatus or process in their powers — like Fire, for example.
+|Fire the mage has the *Ashen Staff*, a magical artifact that he needs to hold to use some of his powers; presumably, the staff includes some magical substances and mechanisms that he simply manipulates, somewhat like a musician playing an instrument.
+|
+|Other players may just want to use their powers, without needing to manipulate some kind of magical tool — Lady Katarina, for example, may simply want to use her Blur power, without needing some special device.
+|We can assume that working out some way to do this was part of the process of developing the spell; maybe she found a way to magically "craft" the spell quickly and reliably, or maybe she permanently bound some kind of magical energy to herself, so that she need only call it forth to activate the spell.
+
+
+
+
+(Of course, powers, classes, and items can also represent non-magical abilities and affects as well.)
+Powers, classes, and items are described more in their own sections.
+Notably, the lists of each are deliberately incomplete; the intent is that it should be relatively easy for Players and GMs to come up with their own magical items and abilities, using the provided ones as guides.
+
+
+
+<!-- The hand-cannon was added as an example weapon.
+  - Hand Cannon
+    
+      - It’s supposed to be an arquebus, but we’re trying to use literal
+        names; it needs a better name. It’s am example very early
+        firearm.
+      - The hand-cannon is a portable infantry weapon developed from
+        modern artillery. The weapons are awkward: they strike with
+        greater force than even a crossbow and can penetrate all but the
+        heaviest armor, but they are extremely slow to reload — so much so
+        that they usually aren’t reloaded in the field.
+      - Attack: Projectile Weapons, 2D10+2 DV, AP -6
+      - Range: short 20m / medium 30m / long 35m / extreme 40m
+      - Reload: 5 turns (May reduce, since there isn’t a reason this
+        should take 5 times as long to reload as a musket.)
+      - Tags: Loud, Prone, Two-Handed, Vulnerable
+-->
+
+
+
+  - Disable Device (COO)
+    
+      - Active, Physical, Technical
+      - Represents your ability to defeat mechanical devices.
+      - Used to pick locks, disable traps and disable magical devices.
+      - Usually used unopposed, although the quality of the device might impose a penalty (or allow a bonus).
+      - Specialization: lock-picking, traps, clockwork
+
+  - Pole-Arms (SOM, Proficiency Skill)
+    
+      - Active, Attack, Combat, Melee Attack, Physical
+      - Your skill with pole-arms, the mainstays of infantry combat.
+      - Sample Specializations: Bladed, Blunt, Spiked, *by exotic weapon*
