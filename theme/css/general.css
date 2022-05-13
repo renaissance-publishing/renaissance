@@ -198,6 +198,7 @@ blockquote {
     font-size: 1.2em;
     background-color: var(--table-header-bg);
     padding: 0.2em;
+    margin-bottom: 0.25em
 }
 
 html {
