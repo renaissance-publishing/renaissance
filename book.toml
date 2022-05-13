@@ -7,4 +7,4 @@ title = "Renaissance"
 
 [preprocessor.customs]
 renderers = ["html"]
-command = "python filter_customs.py"
+command = "python3 filter_customs.py"
