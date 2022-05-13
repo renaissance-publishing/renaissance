@@ -94,7 +94,6 @@ on a character’s part, or to reward a character for good role-playing.
 |damage that he downs the slaver in that single blow. The (frustrated) GM
 |decides that Chandra has earned the “Pommel-er” milestone.
 
-
 [[example]]
 |Example: Fire-Watcher the Shifter mage has used his *Journey* power to
 |teleport himself into the office of Grana (the local Commonwealth
@@ -107,7 +106,6 @@ on a character’s part, or to reward a character for good role-playing.
 |Rodney McKay impression. The GM is sufficiently amused that she decides
 |that Fire-Watcher has earned the “Just Don’t Give Him a Lemon”
 |milestone.
-
 
 Milestones should not be given too often; they are used to highlight
 truly memorable moments in a character’s history, which don’t happen all
@@ -125,9 +123,7 @@ up in the future? Equally, is it the kind of story that the player is
 going to tell the first time they describe their character to someone?
 If so, awarding a milestone is appropriate.
 
-[[gmguidance]]
-|Sidebar: Negative Milestones.
-|
+[[gmguidance | Negative Milestones]]
 |Sometimes a player frustrates the group or fails to perform at a
 |reasonable level; if milestones can be awarded for both great successes
 |and great failures, and if creating a moving or funny scene can result
@@ -141,9 +137,7 @@ If so, awarding a milestone is appropriate.
 |snide nickname they didn’t pick and hope they take the hint.
 
 
-[[gmguidance]]
-|Sidebar: Upgrading, Changing and Removing Milestones
-|
+[[gmguidance | Upgrading, Changing and Removing Milestones]]
 |Sometimes, character’s (or player’s) current exploits build on their
 |previous ones; if Aryn has made a fool of the Champions of the One yet
 |again, does she need to have another milestone to commemorate the
@@ -162,7 +156,6 @@ If so, awarding a milestone is appropriate.
 |present state. Even if Lohrs’ scars are healed, he can still be the
 |Scarred Warrior, because he still won a heroic wrestling match with a
 |Leaper while covered in Scour.
-
 
 ### Invoking Milestones
 
@@ -187,7 +180,6 @@ character and the situation.
 |to upgrade her exceptional success into a critical one, as though she
 |had spent a Luck Point to do so.
 
-
 [[example]]
 |Example: Lohrs the ash-elf grappler had previously earned the “Scarred
 |Warrior” milestone for grappling a Leaper even as he was covered in
@@ -197,7 +189,6 @@ character and the situation.
 |offers to allow him to invoke his Scarred Warrior milestone to show
 |heroic perseverance, allowing him to take one more turn regardless of
 |how much damage he takes.
-
 
 ### Challenging Milestones
 
@@ -214,7 +205,6 @@ Besides a player *invoking* a milestone, the GM can also *challenge* a milestone
 |exchange, Aryn will gain a +10 bonus to social skills tests with the
 |people of the city, owing to her history as a champion of the
 |Commonwealth and its values.
-
 
 ### Social Bonuses and Penalties
 
@@ -259,7 +249,6 @@ might your willingness to buy the group a pizza.)
 |the “Gift of Remorse” and “Ice-Breaker Halberdier” milestones to
 |represent Venn’s previous exploits.
 
-
 Note that we interpret the idea of an “existing character” somewhat
 loosely; your current character need only be inspired by or based on a
 previous character — possibly even one from an entirely different game
@@ -273,4 +262,3 @@ system — to gain milestones from their history.
 |hilarious compulsions his old group picked for his async character when
 |he resleeved. The GM is suitably amused, and grants the new Dayton Lex
 |the *Ultimate* and *Asynchronous* milestones.
-
