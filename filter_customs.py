@@ -114,10 +114,18 @@ if __name__ == '__main__':
     sys.stdout.write(json.dumps(book))
     """
 
+#    inp = sys.stdin.read()
+#    with open("inp.json", "a") as ofile: ofile.write(inp)
+#    context, book = json.loads(inp)
+
     context, book = json.load(sys.stdin)
 
     for section in book['sections']:
-        in_custom = False
+        # the section headers show up as, well, sections.
+        # that don't have Chapter elements.`
+        if 'Chapter' not in section:
+            continue
+
         res = replace_customs( section['Chapter']['content'] )
         section['Chapter']['content'] = res
 
