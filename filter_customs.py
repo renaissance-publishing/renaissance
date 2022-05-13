@@ -59,8 +59,6 @@ def replace_customs(text):
 
     return "\n".join(result)
 
-    return text
-
 if __name__ == '__main__':
     if len(sys.argv) >= 2: # we check if we received any argument
         if sys.argv[1] == "supports" and sys.argv[2] == "html": 
