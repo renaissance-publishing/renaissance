@@ -122,7 +122,7 @@ if __name__ == '__main__':
 
     for section in book['sections']:
         # the section headers show up as, well, sections.
-        # that don't have Chapter elements.`
+        # that don't have Chapter elements.
         if 'Chapter' not in section:
             continue
 
