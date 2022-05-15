@@ -59,6 +59,15 @@ def replace_customs(text):
 
     return "\n".join(result)
 
+def process_chapter_rec(chapter):
+    res = replace_customs( chapter['content'] )
+    chapter['content'] = res
+
+    if 'sub_items' in chapter:
+        for sub_item in chapter['sub_items']: # chapter['sub_items'] is a list
+            if 'Chapter' in sub_item: # each sub-item is a dict, which might have Chapter as a key
+                process_chapter_rec(sub_item['Chapter'])
+
 if __name__ == '__main__':
     if len(sys.argv) >= 2: # we check if we received any argument
         if sys.argv[1] == "supports" and sys.argv[2] == "html": 
@@ -112,11 +121,11 @@ if __name__ == '__main__':
     sys.stdout.write(json.dumps(book))
     """
 
-#    inp = sys.stdin.read()
-#    with open("inp.json", "a") as ofile: ofile.write(inp)
-#    context, book = json.loads(inp)
+    inp = sys.stdin.read()
+    with open("inp.json", "a") as ofile: ofile.write(inp)
+    context, book = json.loads(inp)
 
-    context, book = json.load(sys.stdin)
+#    context, book = json.load(sys.stdin)
 
     for section in book['sections']:
         # the section headers show up as, well, sections.
@@ -124,7 +133,8 @@ if __name__ == '__main__':
         if 'Chapter' not in section:
             continue
 
-        res = replace_customs( section['Chapter']['content'] )
-        section['Chapter']['content'] = res
+        #res = replace_customs( section['Chapter']['content'] )
+        #section['Chapter']['content'] = res
+        process_chapter_rec(section['Chapter'])
 
     sys.stdout.write(json.dumps(book))
