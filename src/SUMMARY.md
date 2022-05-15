@@ -1,10 +1,5 @@
-# Summary
-
-[About the Game](chapters/00-about-the-game.md)
-[Introduction](chapters/01-from-the-authors.md)
-
-# The Setting
-
+- [About the Game](chapters/00-about-the-game.md)
+- [Introduction](chapters/01-from-the-authors.md)
 - [Background](chapters/02-background.md)
 - [The Commonwealth Today](chapters/03-the-commonwealth-today.md)
 - [A Tour of the Commonwealth](chapters/04-a-tour-of-the-commonwealth.md)
@@ -18,9 +13,6 @@
 - [Foam-and-Cloud](chapters/12-foam-and-cloud.md)
 - [The Mudskipper Federation](chapters/13-mudskipper-federation.md)
 - [The Supernatural](chapters/14-the-supernatural.md)
-
-# The Rules
-
 - [The Unplacable Text Describing What Adventures Look Like](chapters/15-the-unplacable-text-describing-what-adventures-look-like.md)
 - [Basic Rules](chapters/16-basic-rules.md)
 - [Representing a Character](chapters/17-representing-a-character.md)
@@ -36,18 +28,15 @@
 - [Character Creation and Advancement](chapters/27-character-creation-and-advancement.md)
 - [Innate Abilities: Senses, Movements and Special Abilities](chapters/28-senses-movements-and-special-abilities.md)
 - [Races](chapters/29-races.md)
-  - [Drakes](chapters/29.1-common-races.md)
-  - [Clay Men](chapters/29.2-uncommon-races.md)
-  - [Brightfeathers](chapters/29.3-neighboring-races.md)
-  - [Bone Spiders](chapters/29.4-exotic-races.md)
+  - [Common Races](chapters/29.1-common-races.md)
+  - [Uncommon Races](chapters/29.2-uncommon-races.md)
+  - [Neighboring Races](chapters/29.3-neighboring-races.md)
+  - [Exotic Races](chapters/29.4-exotic-races.md)
 - [Backgrounds](chapters/30-backgrounds.md)
 - [Traits](chapters/31-traits.md)
 - [Classes](chapters/32-classes.md)
 - [Powers](chapters/33-powers.md)
 - [Items](chapters/34-items.md)
-
-# For Players and GMs
-
 - [The Five Roles](chapters/35-the-five-roles.md)
 - [Building Characters](chapters/36-building-characters.md)
 - [Adventures](chapters/37-adventures.md)
