@@ -2,7 +2,7 @@
 
 printf "# Summary\\n\\n"
 
-for file in chapters/[0-9]*.md ; do
+for file in `for file in chapters/[0-9]*.md ; do echo "$file" ; done | sort -h` ; do
     TITLE_LINE=`sed -e 's/\r//' < ${file} | grep '^#[ \t]\+' -m 1`
     if [ $? -ne 0 ] ; then
         echo "$file: processing error, couldn't find title line." 1>&2
