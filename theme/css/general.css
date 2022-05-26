@@ -201,7 +201,13 @@ blockquote {
     margin-bottom: 0.25em
 }
 
-html {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /*text-align: justify;*/
+/*
+@font-face {
+    font-family: 'IMFell';
+    src: url('imfelldoublepica-regular-webfont.woff2') format('woff2');
 }
+
+html {
+    font-family:'IMFell', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+*/
