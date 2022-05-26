@@ -201,6 +201,14 @@ blockquote {
     margin-bottom: 0.25em
 }
 
+.asside p:first-of-type {
+    padding-top: unset;
+}
+
+.asside p:last-of-type {
+    padding-bottom: unset;
+}
+
 /*
 @font-face {
     font-family: 'IMFell';
