@@ -47,6 +47,7 @@ def replace_customs(text):
             #result.append(f"groups: {lm.groups()}")
             if len(lm.groups()) >= 3 and (tm := lm.groups()[2]) is not None and len(tm)> 0:
                 result.append(f"<div class=\"asside-title\">{tm}</div>")
+            result.append("") # add a blank line, so it creates a separate <p> for the first row.
         elif in_custom == True:
             if line.startswith("|"):
                 result.append(line[1:])
