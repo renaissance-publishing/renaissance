@@ -1,0 +1,10 @@
+[book]
+authors = ["David Bolding"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Renaissance"
+
+[preprocessor.customs]
+renderers = ["html"]
+command = "python3 filter_customs.py"

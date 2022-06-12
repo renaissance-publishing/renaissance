@@ -1,0 +1,63 @@
+# Summary
+
+[About the Game](chapters/00-about-the-game.md)
+[Introduction](chapters/01-from-the-authors.md)
+
+# The Setting
+
+- [Background](chapters/02-background.md)
+- [The Commonwealth Today](chapters/03-the-commonwealth-today.md)
+- [A Tour of the Commonwealth](chapters/04-a-tour-of-the-commonwealth.md)
+- [Languages](chapters/05-languages.md)
+- [Organizations](chapters/06-organizations.md)
+- [Other Nations](chapters/07-other-races.md)
+  - [The Kingdoms of Men](chapters/07.1-the-kingdoms-of-men.md)
+  - [The Shaded-Sea People](chapters/07.2-the-shaded-sea-people.md)
+  - [The Raptors Protectorate](chapters/07.3-the-raptors-protectorate.md)
+  - [The Goblin Empire](chapters/07.4-the-goblin-empire.md)
+  - [Deep-Explorer Dwarves](chapters/07.5-deep-explorer-dwarves.md)
+  - [Foam-and-Cloud](chapters/07.6-foam-and-cloud.md)
+  - [The Mudskipper Federation](chapters/07.7-mudskipper-federation.md)
+- [The Supernatural](chapters/08-the-supernatural.md)
+
+# The Rules
+
+- [The Unplacable Text Describing What Adventures Look Like](chapters/09-the-unplacable-text-describing-what-adventures-look-like.md)
+- [Basic Rules](chapters/10-basic-rules.md)
+- [Representing a Character](chapters/11-representing-a-character.md)
+- [Combat](chapters/12-combat.md)
+- [Injury and Recovery](chapters/13-injury-and-recovery.md)
+- [The Boring Part of Adventuring: Travel](chapters/14-travel.md)
+- [Cheating Reality: Representing and Using Magic](chapters/15-magic.md)
+- [Features](chapters/16-features.md)
+- [Wealth, Bartering, Income and Lifestyles](chapters/17-wealth-income-and-lifestyles.md)
+- [Luck](chapters/18-luck.md)
+- [What Makes your Character Unique: Motivations and Milestones](chapters/19-motivations-and-milestones.md)
+- [Skills](chapters/20-skills.md)
+- [Character Creation and Advancement](chapters/21-character-creation-and-advancement.md)
+- [Innate Abilities: Senses, Movements and Special Abilities](chapters/22-senses-movements-and-special-abilities.md)
+- [Races](chapters/23-races.md)
+  - [Common Races](chapters/23.1-common-races.md)
+  - [Uncommon Races](chapters/23.2-uncommon-races.md)
+  - [Neighboring Races](chapters/23.3-neighboring-races.md)
+  - [Exotic Races](chapters/23.4-exotic-races.md)
+- [Backgrounds](chapters/24-backgrounds.md)
+- [Traits](chapters/25-traits.md)
+- [Classes](chapters/26-classes.md)
+- [Powers](chapters/27-powers.md)
+- [Items](chapters/28-items.md)
+
+# For Players and GMs
+
+- [The Five Roles](chapters/29-the-five-roles.md)
+- [Building Characters](chapters/30-building-characters.md)
+- [Adventures](chapters/31-adventures.md)
+- [Running Games](chapters/32-running-games.md)
+- [Common Hazards](chapters/33-common-hazards.md)
+- [Monsters, Animals and NPCs](chapters/34-monsters-animals-and-npcs.md)
+- [The Deep Secrets of the World](chapters/35-secrets.md)
+- [Alternate Rules](chapters/36-alternate-rules.md)
+- [Sample Setting: Stormsword's Rest](chapters/37-setting-stormswords-rest.md)
+- [Sample Module: A Crisis in Northland](chapters/38-module-monastery.md)
+- [Sample Module: The Wendigo](chapters/39-module-wendigo.md)
+- [Quick Reference](chapters/40-quick-reference.md)
