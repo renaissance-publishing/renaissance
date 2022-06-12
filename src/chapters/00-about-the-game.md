@@ -3,24 +3,26 @@
 ![Commonwealth Banner](../images/proto_banner_cw_raaad.jpg)
 
 This is an early alpha of an open-source fantasy RPG.
+It's hosted on [GitHub](https://github.com/renaissance-publishing/renaissance/), and [licensed](https://github.com/renaissance-publishing/renaissance/blob/source/LICENSE.md) under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
 We're working on it.
 We've got a lot of the mechanics in a fairly good place, at least for what we want to do, and most of the "core" player options are present.
 Now we just need to take all the long bullet-lists and convert them to full English text.
 And also write in all the background stuff that's in my (the lead author's) head but that has never been written down anywhere.
-
 And make sure all the revisions and rule-versions are consistent.
-
 And also add more player content and options.
 
-We're working on it.
+Well… we're working on it.
 
 ## Changes since last time:
 
 - Removed Disable Device, because we've never used it.
+- Fleshed out the *Monastery* sample adventure a fair bit.
 - Initial import for CV's *Wolf-in-Wool's Flock*, AKA the Secret Army, and his Stormsword's Rest.
   - Stormsword's Rest has been waiting... how many years?
     I'm so sorry.
+- Moved to a whole different site-generator (mdbook), which loses us a few things, but gains us search and a great mobile layout.
+- Broke the Races and Other Nations chapters into sub-chapters (that's a neat feature we get for almost-free with mdbook).
 
 ## To-Do
 
