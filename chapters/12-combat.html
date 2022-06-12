@@ -1,0 +1,731 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Combat - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/00-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/01-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/02-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/03-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/04-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li class="chapter-item expanded "><a href="../chapters/05-languages.html"><strong aria-hidden="true">4.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/06-organizations.html"><strong aria-hidden="true">5.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/07-other-races.html"><strong aria-hidden="true">6.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/07.1-the-kingdoms-of-men.html"><strong aria-hidden="true">6.1.</strong> The Kingdoms of Men</a></li><li class="chapter-item expanded "><a href="../chapters/07.2-the-shaded-sea-people.html"><strong aria-hidden="true">6.2.</strong> The Shaded-Sea People</a></li><li class="chapter-item expanded "><a href="../chapters/07.3-the-raptors-protectorate.html"><strong aria-hidden="true">6.3.</strong> The Raptors Protectorate</a></li><li class="chapter-item expanded "><a href="../chapters/07.4-the-goblin-empire.html"><strong aria-hidden="true">6.4.</strong> The Goblin Empire</a></li><li class="chapter-item expanded "><a href="../chapters/07.5-deep-explorer-dwarves.html"><strong aria-hidden="true">6.5.</strong> Deep-Explorer Dwarves</a></li><li class="chapter-item expanded "><a href="../chapters/07.6-foam-and-cloud.html"><strong aria-hidden="true">6.6.</strong> Foam-and-Cloud</a></li><li class="chapter-item expanded "><a href="../chapters/07.7-mudskipper-federation.html"><strong aria-hidden="true">6.7.</strong> The Mudskipper Federation</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08-the-supernatural.html"><strong aria-hidden="true">7.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html"><strong aria-hidden="true">8.</strong> The Unplacable Text Describing What Adventures Look Like</a></li><li class="chapter-item expanded "><a href="../chapters/10-basic-rules.html"><strong aria-hidden="true">9.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/11-representing-a-character.html"><strong aria-hidden="true">10.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/12-combat.html" class="active"><strong aria-hidden="true">11.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/13-injury-and-recovery.html"><strong aria-hidden="true">12.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/14-travel.html"><strong aria-hidden="true">13.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/15-magic.html"><strong aria-hidden="true">14.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/16-features.html"><strong aria-hidden="true">15.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/17-wealth-income-and-lifestyles.html"><strong aria-hidden="true">16.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/18-luck.html"><strong aria-hidden="true">17.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/19-motivations-and-milestones.html"><strong aria-hidden="true">18.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/20-skills.html"><strong aria-hidden="true">19.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/21-character-creation-and-advancement.html"><strong aria-hidden="true">20.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/22-senses-movements-and-special-abilities.html"><strong aria-hidden="true">21.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/23-races.html"><strong aria-hidden="true">22.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/23.1-common-races.html"><strong aria-hidden="true">22.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.2-uncommon-races.html"><strong aria-hidden="true">22.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.3-neighboring-races.html"><strong aria-hidden="true">22.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.4-exotic-races.html"><strong aria-hidden="true">22.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/24-backgrounds.html"><strong aria-hidden="true">23.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/25-traits.html"><strong aria-hidden="true">24.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/26-classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/27-powers.html"><strong aria-hidden="true">26.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/28-items.html"><strong aria-hidden="true">27.</strong> Items</a></li><li class="chapter-item expanded affix "><li class="part-title">For Players and GMs</li><li class="chapter-item expanded "><a href="../chapters/29-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/30-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/31-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/32-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/33-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/34-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/35-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/36-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/37-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/38-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/39-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/40-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="combat"><a class="header" href="#combat">Combat</a></h1>
+<p>Unlike other parts of the game, <em>Combat</em> has fairly specific rules.</p>
+<h2 id="taking-turns"><a class="header" href="#taking-turns">Taking Turns</a></h2>
+<p>Combat is a special case of <em>Turn Order</em> play (see <em>Basic Rules</em>) using the following structure:</p>
+<ul>
+<li><strong>Initiative Modifier</strong>: in combat, a character's <em>Initiative Modifier</em> (INIT) is their (INT + COO) ÷ 5 (see the Derived Stat in <em>Character Creation</em>).</li>
+<li><strong>Action allotment</strong>:
+<ul>
+<li>either one <em>Standard Action</em> and one <em>Quick Action</em>, or</li>
+<li>three Quick Actions.</li>
+</ul>
+</li>
+</ul>
+<p>Since <em>Task Actions</em> are not given in the action allotment, Task Actions are not tracked during Combat; see <em>Turn Order Play</em>.
+In combat, a turn is about 3 seconds; therefore, there are about 20 turns in a minute.</p>
+<h2 id="the-combat-grid"><a class="header" href="#the-combat-grid">The Combat Grid</a></h2>
+<p>We usually track positions and movement in combat using a <em>square grid</em>, with each square being 1m to a side.
+Most creatures (those that are Small-, Normal- or Large-sized) usually take up one square, and can reach (and thus threaten) the adjacent squares.
+Distances (like ranges for attacks) are usually measured directly and then rounded to the nearest whole meter.
+(That is, we usually use a <em>euclidian</em> metric; this is different from some other games.)
+Distances while moving are also directly measured, although they depend on the exact path travelled (if you can't easily measure a path, you can break it into &quot;cardinal&quot; and &quot;diagnoal&quot; steps, and assume that a &quot;diagonal step&quot; covers 1.5 meters).</p>
+<p>Traditionally, the direction a character is <em>facing</em> is not tracked.</p>
+<div class="asside">
+<p>Though we will assume a combat grid with one-meter squares in this guide, nothing prevents you from using other combat systems — like hex-grids or miniatures — as long as the rules for measuring distance and determining movement are well-defined.
+Supporting these kinds of scenarios are why we've tried to give all distances in <em>meters</em> rather than <em>squares</em>.</p>
+</div>
+<h2 id="moving-around"><a class="header" href="#moving-around">Moving Around</a></h2>
+<h3 id="movement-modes"><a class="header" href="#movement-modes">Movement Modes</a></h3>
+<p>As a quick action, a character may <em>move</em> using one of their <em>movements modes</em>.
+Movement modes have a <em>base</em> and <em>full</em> rate; they can move up to their <em>full rate</em>, but if they move more than their <em>base</em> rate, they take a -10 penalty to all physical actions until the beginning of their next turn.
+(Essentially, you can walk or run, but running imposes a -10 penalty.)</p>
+<h3 id="stunts"><a class="header" href="#stunts">Stunts</a></h3>
+<p>Characters can also perform <em>stunts</em>.
+<strong>Stunts</strong> are used when your character attempts unusual, difficult maneuvers — when they jump, tumble, flip, climb (if they don’t have Climb as a movement mode), swing and so on.</p>
+<p>The details of stunts are largely left open to the imagination of players and the discretion of GMs.
+The type of action varies: rolling under a hazard might be a quick action, but climbing a trellis might be a standard action (again, for a character without Climb as a movement mode).
+Similarly, how far the character is moved will also vary (in general, GMs should move characters by either their base or full rates).
+Stunts almost always require a test using an appropriate movement skill (this is usually Athletics for humanoid creatures).</p>
+<p>Stunts may have other affects besides simply moving a character; a dive-and-roll may allow a character to end their turn prone behind cover, for example, or a flip off a table may allow a character to vaults over an enemy and land facing their back.</p>
+<p>Examples for a <em>Humanoid</em> character are given in the table below:</p>
+<table><thead><tr><th>Stunt</th><th>Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Vaulting a <em>fence</em> or <em>counter</em></td><td>Athletics (Parkour) at +10</td><td>Clear obstacle while keeping <em>momentum</em></td></tr>
+<tr><td>Diving Roll</td><td>Athletics (Parkour)</td><td>Advance several spaces while avoiding attacks, clear a low obstacle</td></tr>
+<tr><td>Corner Wall Kick</td><td>Athletics (Parkour)</td><td>Move around a character quickly, attacking from behind</td></tr>
+</tbody></table>
+<h3 id="unusual-movement"><a class="header" href="#unusual-movement">Unusual Movement</a></h3>
+<p>Sometimes, characters might attempt to move in a way that isn't directly covered by one of their <em>Movement Modes</em>; we call this <strong>unusual movement</strong>.
+If a Human climbs a tree, a Herder crawls along the ground, or a Clay Man attempts to support itself on two psuedopods and &quot;walk&quot; like a humanoid, then they are using <em>unusual movement</em>.</p>
+<p>Unlike a <em>stunt</em>, unusual movement isn't necessarily difficult, and so it usually <em>doesn't</em> require a check — although it might require <em>basic proficiency</em> in an appropriate skill (like <em>Athletics</em>), and it might require a specific <em>proficiency</em>.</p>
+<p>Unusual Movement is usually less efficient than movement directly covered by a movement mode.
+Characters using unusual movement usually move at half the base rate for their <em>most applicable</em> movement.
+(For a <em>Humanoid</em> character, this is usually their <em>Foot</em> movement.)
+Unusual movement is also often exhausting; characters can't usually use unusual movement to cover great distances (at least without requiring an athletics check).</p>
+<p>Of course, the unusual movement that a character wants to use has to be physically possible; a Human character can't choose to <em>flap their arms and fly</em> as an unusual movement.</p>
+<p>Examples for a <em>Humanoid</em> character are given in the table below:</p>
+<table><thead><tr><th>Unusual Movement</th><th>Rate</th><th>Tags</th></tr></thead><tbody>
+<tr><td>Climbing</td><td>(Base for Foot) ÷ 2</td><td>Exhausting</td></tr>
+<tr><td>Swimming</td><td>Base for Foot</td><td>Exhausting</td></tr>
+<tr><td>Crawling</td><td>(Base for Foot) ÷ 2</td><td></td></tr>
+</tbody></table>
+<div class="asside">
+<div class="asside-title">Difficult Terrain</div>
+<p>Difficult terrain can also be a factor when moving around in combat; We cover <em>difficult terrain</em> in <em>Common Hazards</em></p>
+</div>
+<h3 id="charging"><a class="header" href="#charging">Charging</a></h3>
+<p>Sometimes you want to have some momentum behind a blow.
+A character can declare a <em>charge</em> before they move; they can then move up to the <em>Full</em> rate for the movement mode they're using to charge.
+Because a charging character is attempting to build up momentum, they will always be treated as if they had moved more than their <em>base</em> rate (and thus take a -10 penalty to their physical actions) regardless of how far they actually move.
+(A &quot;charging move&quot; otherwise uses all the normal rules for movement, and is a Quick Action)</p>
+<p>After declaring a charge, if the character then moves <em>far enough to build up speed</em> (usually 3m), they then deal +DB DV to all their (physical, melee) attacks for the remainder of their turn.</p>
+<div class="asside">
+<p>There are some &quot;they cans&quot; and &quot;if thens&quot; above; let's walk through that.
+A turn is a <em>Quick Action</em> and a <em>Standard Action</em>; that means that, in practice, a player declares a charge, moves up to their full movement (a Quick Action), and then makes an attack (a Standard Action).
+That attack check has a -10 penalty (for the Full movement), but deals +DB DV.</p>
+<p>Note that they deal +DB DV to <em>all</em> their physical attacks.
+If a character makes <em>more than one attack</em> (as they can if they have <em>more than one weapon</em>, see below), then each attack gets the +DB DV (and each attack check takes the -10 penalty for the movement, on top of any other penalties for wielding multiple weapons and making multiple attacks).</p>
+</div>
+<div class="asside">
+<p>This implementation of charging is a bit out of place.</p>
+<p>Most mechanisms we've been able to package into fairly atomic actions; charging is an exception.
+Charging isn't one action; instead, it's a thing you declare at the beginning of your turn, that then adjusts your damage at the end, <em>if</em> you meet some conditions.</p>
+<p>Charging is something of a least-bad design; we're working on it.</p>
+</div>
+<p>Characters can <em>brace</em> to receive a charge; see <em>Receiving a Charge</em>, below.</p>
+<h3 id="the-single-movement-rule"><a class="header" href="#the-single-movement-rule">The &quot;Single-Movement&quot; Rule</a></h3>
+<p>Normally, a character is only allowed to use <em>one</em> of their <em>actions</em> to move in any given turn; that is, they cannot use three Quick Actions to move with a Movement Mode three times, for example.
+We call this the <strong>Single-Movement Rule</strong>.</p>
+<p>The Single-Movement Rule is subject to the <strong>Follow-Through Exception</strong>.
+At the GM's discretion, a character can use one of their <em>Movement Modes</em> immediately before or after using some <em>Stunts</em>.
+For example, a character could use a Quick Action to <em>run</em>, and then use another <em>Quick Action</em> to perform a <em>hand-spring</em> (as a <em>Stunt</em>); or they could use a <em>Quick Action</em> to vault a counter (as a <em>Stunt</em>), and then break into a run (as a <em>Quick Action</em>).</p>
+<h2 id="attacking"><a class="header" href="#attacking">Attacking</a></h2>
+<h3 id="attack-basics"><a class="header" href="#attack-basics">Attack Basics</a></h3>
+<p>Attacking a target — whether in melee, with a ranged weapon, or some other way — is a Standard Action requiring an Ordered Opposed Check.
+First, the attacker rolls a check using their attack skill; then, if the attacker succeeded, the defender rolls a check using their defence skill.
+If the attacker wins, then the attack hits, and the defender takes the given <em>damage value</em> (DV) (most weapons, natural weapons, and powers will list their damage; it is usually partly random, requiring a die roll); if the defender wins, the attack missed, and the defender takes no damage.</p>
+<p>If the attacker has an MoS of 30 or more, they gain +5 DV.
+If their MoS was 60 or more, they gain an <em>additional</em> +5 DV (for a total of +10 DV).
+If the attacker scores a <em>critical success</em>, then the die-roll is <em>maximized</em> — for example, if the DV is 1d10+5, the defender would take 15 damage.</p>
+<ul>
+<li>Attacker MoS &gt; 30: +5 DV</li>
+<li>Attacker MoS &gt; 60: +5 more DV (+10 DV total)</li>
+<li>Attacker critical success: <em>maximize</em> dice</li>
+</ul>
+<h3 id="attack-and-defense-skills"><a class="header" href="#attack-and-defense-skills">Attack and Defense Skills</a></h3>
+<p>Generally, when attacking, characters use the <em>attack skill</em> appropriate to the weapon.
+For most melee weapons, this will be either <em>Melee Weapons</em> or <em>Pole-Arms</em>.
+For unarmed attacks (like punches, kicks, grabs, or throws) or attacks with natural weapons (like bites or claws), this is usually Unarmed Combat.</p>
+<p>Defenders sometimes have a choice of skills.
+Fray is the most general defense skill; it can be used to defend against most attacks (and many other hazards).
+Defenders can also use their own melee attack skills to defend against melee attacks (assuming they have an appropriate weapon, of course); we refer to this as <em>parrying</em>.
+For example, a character with a sword could use their <em>Melee Weapons</em> to defend against someone attacking them with a halberd.
+Characters with <em>basic proficiency</em> in <em>Unarmed Combat</em> can also defend with that skill, although they will take a penalty when defending against an armed opponent (see <em>Unarmed Combat</em>, below).</p>
+<p>Sometimes — for example, when moving evasively — characters can defend with <em>movement skills</em> (like Athletics).</p>
+<p>Usually these methods of defense aren't <em>reactions</em>; see below.</p>
+<h3 id="melee-attacks"><a class="header" href="#melee-attacks">Melee Attacks</a></h3>
+<p>In order to make a melee attack against a character, you normally need to be <em>armed</em> with a melee weapon, and they need to be within reach (but see also <em>Unarmed Combat</em> below).
+Most melee weapons can be used against characters up to 1m away (in a combat grid with 1m squares, this means that you can attack characters in adjacent squares); some weapons have the <em>Reach</em> tag, and can be used against more distant targets (see the tag's description in <em>Items</em>).</p>
+<p>You <strong>threaten</strong> any character that you could make a melee attack against.</p>
+<h3 id="ranged-attacks"><a class="header" href="#ranged-attacks">Ranged Attacks</a></h3>
+<p>Ranged attacks (projectile weapons, thrown weapons, and some powers) generally use the same rules as other types of attacks, with a few additions.</p>
+<h4 id="range"><a class="header" href="#range">Range</a></h4>
+<p>Ranged attacks have <strong>range increments</strong>; they are given below, with their associated penalty.</p>
+<ul>
+<li>short: no modifier</li>
+<li>medium: -10</li>
+<li>long: -20</li>
+<li>extreme: -30</li>
+</ul>
+<p>Most weapons and powers will list their ranges.
+The categories are often given in order, separated by slashes.
+For example, &quot;Range: 50m/100m/150m/200m&quot; would mean that <em>short range</em> is up to 50m, <em>medium range</em> is up to 100m, <em>long range</em> is up to 150m, and <em>extreme range</em> is up to 200m.</p>
+<p>You can use the following guidelines for thrown attacks, adjusted for the weight and aerodynamics of the projectile:</p>
+<ul>
+<li>short: up to 5 meters</li>
+<li>medium: up to 15m</li>
+<li>long: up to 30m</li>
+<li>extreme: up to 45m</li>
+</ul>
+<h4 id="scatter"><a class="header" href="#scatter">Scatter</a></h4>
+<p>Ranged attacks that miss may <strong>scatter</strong>.</p>
+<p>We provide a certain amount of flexibility in determining scatter; mainly, it just needs to be random and reasonable.
+GMs may use one of the following methods for scatter, or invent their own:</p>
+<ul>
+<li>Method 1: roll 2d10. One d10 indicates the scatter direction (with 1 being north, and counting around; for a square grid, there are 8 adjacent squares, so discard 9 and 10 results), and the other the distance (in meters).</li>
+<li>Method 2: with a physical table, roll 1d10. The result is the distance in meters, and the direction the dice is pointing indicates the scatter direction.</li>
+</ul>
+<p>Scatter is mainly a concern when the weapon also has the Blast property; we usually don’t worry about where an arrow scatters to.</p>
+<h4 id="point-blank-attacks"><a class="header" href="#point-blank-attacks">Point-Blank Attacks</a></h4>
+<p>A ranged attack against a target at point-blank range (that is, against a target in an adjacent space) suffers a -20 penalty.</p>
+<h4 id="ammunition"><a class="header" href="#ammunition">Ammunition</a></h4>
+<p>Projectile weapons (like bows) require <em>ammunition</em>.</p>
+<p>For most weapons, we don't track <em>common ammunition</em>; that is, they do not need to purchase ammunition separately, or keep track of how much they have and how much they have used.
+We assume that ammunition is readily available enough that characters can always have <em>enough</em>.</p>
+<p>We do, however, track <em>special ammunition</em>; this includes ammunition that is made of special materials, that is expensive, that is magical, or that is otherwise unusual.
+It must be purchased separately, and must keep track of it as they expend it.</p>
+<p>Additionally, some unusual weapons have costly or unusual ammo, and this must be also be purchased and tracked separately.
+(If a weapon's normal ammunition has to be tracked, it will say so in its rules.)</p>
+<h4 id="reloading"><a class="header" href="#reloading">Reloading</a></h4>
+<p>A weapon's description will specify what kind of action is required to reload the weapon (or that it cannot be reloaded, should that be the case).
+Some weapons don't require a <em>discrete</em> action to be reloaded; <em>readying</em> an arrow, for example, is part of making an attack with a bow.</p>
+<h3 id="touch-only-and-indicate-only-attacks"><a class="header" href="#touch-only-and-indicate-only-attacks">Touch-Only and Indicate-Only Attacks</a></h3>
+<p>Sometimes, notably when using some powers, an attacker only needs to touch their target.
+These use all the normal rules for an attack, except that they are easier: the attacker may use either COO+SOM+SOM or their Unarmed Combat skill (no proficiency required), and they receive a +20 bonus.
+The defender takes a -20 penalty to their defence.</p>
+<p>Similarly, sometimes, notably when using some Powers, an attacker only needs to direct an effect to a target – by pointing at their target, for example, or by fixing their gaze on the target.
+These attacks work like normal ranged attacks, except that the attacker may use either 3×COO or their Ranged Weapons skill (no proficiency is required), and they receive a +20 bonus.
+The defender takes a -20 penalty.</p>
+<h3 id="un-aware-targets"><a class="header" href="#un-aware-targets">Un-Aware Targets</a></h3>
+<p>Characters who are not aware that they are being attacked cannot defend 
+The attacker must still roll their attack check, but it is <em>unnoposed</em>, and the defender takes damage if the attacker succeeds.
+(PCs and major NPCs should usually be allowed a Perception Check to notice a hidden attacker.
+Also, people usually take notice after they have been attacked.)</p>
+<h3 id="blind-attacks"><a class="header" href="#blind-attacks">Blind Attacks</a></h3>
+<p>Normally, characters don't threaten targets that they can't see; any attempt to hit such a target will fare little better than chance.
+This means that an attack against a target that the attacker cannot see must either make a check for a <em>Stroke of Luck</em> or use a TN of 50, whichever is <em>worse</em>.</p>
+<h2 id="armor-and-armor-penetration"><a class="header" href="#armor-and-armor-penetration">Armor and Armor Penetration</a></h2>
+<p>Some characters have an <strong>armor value</strong> (<em>AV</em>); <em>Armor Values</em> usually come from either <em>worn armor</em>, <em>racial traits</em> (like Gnoll's <em>Thick Hide</em>), or <em>powers</em> (like <em>Master</em>).
+Conversely, some damage sources (like <em>weapon attacks</em>) have an <strong>armor penetration</strong> (<em>AP</em>).</p>
+<p>When a character takes <em>attack damage</em>, first subtract the attacks' <em>armor penetration</em> from the defenders <em>armor value</em>, then subtract the <em>remaining armor value</em> from the attack's <em>damage value</em>; the defender takes the remaining DV.
+That is:</p>
+<p>Defender's Damage = attack's <em>Damage Value</em> - (defender's <em>Armor Value</em> - attack's <em>Armor Penetration</em>)</p>
+<p>See <em>Armors</em> in <em>Items</em> for further rules for worn armor.</p>
+<div class="asside">
+<div class="asside-title">When Does Armor Apply?</div>
+<p>Note that we specifically said <em>attack damage</em> above.
+The general rule is that armor applies to <em>attack damage</em>, but not to other sources of damage; a quilted doublet and mail won't help you if you've fallen from the top of a parapet, you're drowning, you're starving, or you're freezing to death.
+There are exceptions, of course, and your GM can always rule that armor applies (or doesn't) in a specific circumstance.</p>
+</div>
+<h2 id="special-actions-in-combat"><a class="header" href="#special-actions-in-combat">Special Actions in Combat</a></h2>
+<h3 id="drawing-and-dropping-weapons"><a class="header" href="#drawing-and-dropping-weapons">Drawing and Dropping Weapons</a></h3>
+<p>Drawing or sheathing a weapon is <em>Quick Action</em>; dropping a weapon is a <em>Free Action</em>.</p>
+<h3 id="aiming"><a class="header" href="#aiming">Aiming</a></h3>
+<p>A character can <em>aim</em> at a target (that they can see) as a <em>Quick Action</em>.
+After doing so, they gain a +10 bonus to attacks against the target that they aimed at until the end of their turn.</p>
+<p>(Note that the attack <em>does not</em> need to be a ranged attack; you can use the rules for <em>aiming</em> to carefully place a melee attack, for example.)</p>
+<h3 id="full-defense"><a class="header" href="#full-defense">Full Defense</a></h3>
+<p>During your turn, you may take a Standard Action to focus on defending yourself.
+If you do, until your next turn starts, you receive a +20 bonus to checks to defend.</p>
+<h3 id="bracing"><a class="header" href="#bracing">Bracing</a></h3>
+<p>Weapons with the <strong>Brace</strong> tag can be used to prepare to receive a charge.</p>
+<p><em>Bracing</em> such a weapon to receive a charge is a <em>Standard Action</em>.
+After bracing, until your next turn, if anyone <em>charges</em> you (see <em>Charging</em>), they provoke an <em>Attack of Opportunity</em> from you (see <em>Reactions</em>).
+If you hit a charging character with a braced weapon, you deal +DB DV; however, you do not prevent them from completing the charge (by attacking you), unless you incapacitate them with your attack (by disabling them, or by dealing a wound and knocking them prone, for example).</p>
+<h3 id="strikes"><a class="header" href="#strikes">Strikes</a></h3>
+<p>A <strong>strike</strong> is a modification to a normal attack.
+To make a strike, you take a penalty on your attack; if you score an Exceptional Success, in addition to the normal affects of the attack, you gain the listed Result.</p>
+<p>You decide if your attack is going to be a strike before you make it (since you have to take a penalty on the attack).
+An attack can only be one kind of Strike.
+(You can’t take a -20 penalty to have an attack be both a Called Shot and a Knock Down, for example.)</p>
+<ul>
+<li>
+<p>Called Shot</p>
+<ul>
+<li>Penalty: -10</li>
+<li>Result: you strike the target in a specified location (you pick the location before your attack).</li>
+<li>This one is a catch-all, with results up to the GM.</li>
+<li>Special: the attack gains the Precision tag</li>
+</ul>
+</li>
+<li>
+<p>Knock Down</p>
+<ul>
+<li>Penalty: -10</li>
+<li>Result: your opponent must attempt a SOM×2 check or be knocked <em>prone</em>.</li>
+<li>Special: must be a melee attack.</li>
+</ul>
+</li>
+<li>
+<p>Maim</p>
+<ul>
+<li>Penalty: -20</li>
+<li>Result: You maim your opponent, removing a specific limb.
+You can use this to lop off a hand, break a knee or gouge out an eye.</li>
+<li>Special: the attack gains the Precision tag.</li>
+</ul>
+</li>
+<li>
+<p>Mighty Blow</p>
+<ul>
+<li>Penalty: -10</li>
+<li>Result: You strike your opponent with particular force; you gain +DB to your DV.</li>
+<li>Special: must be a melee attack.</li>
+</ul>
+</li>
+<li>
+<p>Strike an Armor Gap</p>
+<ul>
+<li>Penalty: -10</li>
+<li>Result: You strike a weak spot in the opponent’s Armor; you gain +DB to your AP.</li>
+<li>Special: the attack gains the Precision tag.</li>
+</ul>
+</li>
+</ul>
+<h3 id="maneuvers"><a class="header" href="#maneuvers">Maneuvers</a></h3>
+<p>A <strong>maneuver</strong> is like an attack, but it doesn't deal <em>damage</em>; instead, if the attacker succeeds, it has some other effect.
+Each maneuver will list the type of action required, the check, and the results.</p>
+<p>The following list is by no means exhaustive; players and GMs should feel free to devise and attempt new during play.</p>
+<ul>
+<li>
+<p>Disarm</p>
+<ul>
+<li>Action: Standard Action</li>
+<li>Test: Attacker's <em>Melee attack</em> vs. defender's <em>Melee Attack</em> or Fray</li>
+<li>Result: If the attacker wins, the defender is <em>disarmed</em>, forcing them to drop one held item (like a weapon or shield).</li>
+<li>Special: the attacker picks the items to be dropped before the check is rolled.</li>
+</ul>
+</li>
+<li>
+<p>Feint</p>
+<ul>
+<li>Action: Quick Action</li>
+<li>Test: Attacker's <em>Deception</em> vs. defender’s <em>Resist Social Manipulation</em> or <em>Read</em></li>
+<li>Result: if the attacker wins, until the beginning of their next turn, the defender takes a -20 penalty to their defense.</li>
+</ul>
+</li>
+<li>
+<p>Grab</p>
+<ul>
+<li>Action: Standard Action</li>
+<li>Test: Attacker's <em>Unarmed Combat</em> vs. defender's <em>Fray</em> or <em>Unarmed Combat</em>.</li>
+<li>Result: if the attacker wins, they <em>grab</em> the opponent.  The opponent cannot easily move or act.
+<ul>
+<li>The results are at the GM’s discretion, but normally grabbed characters cannot take any other actions besides attempting to escape the grab.</li>
+</ul>
+</li>
+<li>A grabbed character can attempt to break a grapple; this is an opposed check, the grabbed character's <em>Unarmed Combat</em> or <em>STR+SOM</em> versus the grabbing character's <em>Unarmed Combat</em> or <em>STR+SOM</em>.
+If the grabbed character wins, they break free.</li>
+</ul>
+</li>
+<li>
+<p>Trip</p>
+<ul>
+<li>Action: Standard Action</li>
+<li>Test: Attacker's <em>Melee Attack</em> vs. defender's <em>Fray</em></li>
+<li>Result: If the attacker wins, the defender falls <em>prone</em>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="special"><a class="header" href="#special">Special</a></h3>
+<ul>
+<li>
+<p>Catch</p>
+<ul>
+<li>Some weapons are designed to <em>catch</em> an opponent’s weapon; these weapons have the <em>catch</em> tag.</li>
+<li>When you are attacked while wielding a weapon with the <em>catch</em> tag, rather than defending as normal, you can decide to attempt to <em>catch</em> your opponent’s weapon.</li>
+<li>This works like normal defence, except that you take a -10 penalty.
+If you win and score an exceptional success, then you have <em>caught</em> your opponent’s weapon (in addition to successfully defending against their attack).</li>
+<li>While you have caught an opponent’s weapon, neither you nor they can attack with the involved weapons or move.</li>
+<li>During your turn, you may release your opponent’s weapon as a Free Action.
+You may also attempt to <em>Disarm</em> the weapon that you have caught; if you do, you gain a +10 bonus.</li>
+<li>Your opponent may let go of the caught weapon as a Free Action; alternatively, they may attempt to break the weapon free as a Quick Action with SOM+STR check.</li>
+<li>Attempting to catch is a <em>reaction</em>, see <em>Reactions</em> in <em>Combat</em>.</li>
+</ul>
+</li>
+<li>
+<p>Dismount</p>
+<ul>
+<li>I’m honestly at a bit of a loss as to how to write this one.
+Maybe we shouldn’t?</li>
+<li>Should we make it a modified version of bracing to receive a charge?
+A special attack?
+An action you can attempt any time you strike a mounted rider?</li>
+</ul>
+</li>
+<li>
+<p>Shield Bash</p>
+<ul>
+<li>A character can attempt to attac an opponent with their <em>shield</em>.</li>
+<li>This is resolved as an attack with a melee weapon (the character needs to have <em>basic proficiency</em> in <em>Melee</em>, but not specific <em>proficiency</em> is required).</li>
+<li>A <em>shield bash</em> does 1d10+1+DB DV, and has AP 0.</li>
+<li>Note that the construction or use of some shields might make a <em>shield bash</em> impossible.</li>
+<li>Shields are often held in the <em>off hand</em>, and so appropriate penalties would apply (see <em>Multiple Weapons and Multiple Attacks</em>).</li>
+</ul>
+</li>
+</ul>
+<h3 id="examples"><a class="header" href="#examples">Examples</a></h3>
+<p>A goblin gang-member has figured out that she cannot get past Chandra’s armor, so she decides to <em>strike an armor gap</em>.
+She attacks Chandra, rolling her One-Handed Weapons (normally 60, but 50 with the penalty for the trick) against Chandra’s Fray (60).
+The goblin ganger rolls a 21, and Chandra rolls a 73; the Goblin hits Chandra and deals damage like normal, but she doesn’t get the bonus to AP she was hoping for, since she didn’t score an Exceptional Success.</p>
+<p>Track is fighting a monster that attacked the party in a frozen monastery.
+The fight isn’t going well, so he decides he needs to knock it down and get away.
+He tries to Knock it Down, and rolls his One-Handed Weapons (normally a 70, but a 60 with the penalty for the trick) against it’s Fray (70).
+He scores a 41, and the monster scores a 13; Track gets to deal his normal damage — including the +5 bonus for scoring an exceptional success — and then the monster has to roll its SOM×2 or be knocked prone.</p>
+<p>Note: there’s no reason you can’t spend moxie on these checks. 
+As an example: Lady Katarina has snuck up behind a watchman guarding a slaver encampment; she wants to dispatch him quickly, so she decides to throw a knife at his neck using Maim.
+She rolls her Ranged Weapons (normally 60, but 40 with the penalty), and gets a 21: she hit him, but she didn’t strike the mortal blow she wanted.
+(He doesn’t get to defend, because he’s un-aware of her, see <em>Un-Aware Targets</em> in <em>Combat</em>.)
+She decides she really needs to dispatch him, so she spends a Luck to upgrade her attack to an Exceptional Success; now, not only will she get the +5 DV for an exceptional success, but she’s hit him in the neck — a fatal blow!</p>
+<h2 id="multiple-weapons-and-multiple-attacks"><a class="header" href="#multiple-weapons-and-multiple-attacks">Multiple Weapons and Multiple Attacks</a></h2>
+<p>Under some circumstances, characters can make multiple attacks at once; for example, a character wielding multiple weapons could choose to attack with each weapon that they are wielding.
+When making multiple attacks, only one Standard Action is required, but each attack is resolved separately (using all the normal rules for attacks); each attack suffers a -10 penalty.</p>
+<p>When making multiple attacks, each attack does not have to have the same target; instead, each attack can be directed at a specific target.
+When attacking multiple targets in this way, each attack suffers an additional -10 penalty.</p>
+<div class="asside">
+<p>These rules only cover attacking multiple targets with multiple single-target attacks; they do not cover blast or splash weapons, for example.</p>
+</div>
+<p>Off-Hand Weapons: most characters (i.e. those without an appropriate Trait or Racial ability) have a dominant hand and an off-hand.
+Attacks made with the off-hand suffer a -10 penalty.
+If the weapon you are using in your off-hand does not have the <em>Off-Hand</em> tag, you suffer an additional -10 penalty.</p>
+<div class="asside">
+<p>If you’re humanoid, you have the Ambidextrous trait and you are wielding two one-handed weapons, then you can make two separate attacks against the same target as a Standard Action.
+Each attack suffers -10 penalty (for making Multiple Attacks).</p>
+<p>If you don’t have the Ambidextrous trait, but the weapon in your off hand has the Off-Hand tag, then you can make one attack at -10 (with the weapon in your main hand, suffering the Multiple Attacks penalty) and one attack at -20 (with the weapon in your off-hand, suffering both the Off-Hand and Multiple Attacks penalties).</p>
+<p>If you don’t have the Ambidextrous trait, you're wielding two one-handed weapons, and the weapon in your off-hand doesn't have the <em>Off-Hand</em> tag, then you'll make your attacks at -10 (your main hand) and -30 (your off hand), respectively.</p>
+</div>
+<h2 id="resistance-and-vulnerability"><a class="header" href="#resistance-and-vulnerability">Resistance and Vulnerability</a></h2>
+<p>Some creature, objects or armors have special <strong>Resistances</strong> or <strong>Vulnerabilities</strong>.
+The Resistance or Vulnerability will name the <em>Tags</em> to which they apply, and what affect the resistance or vulnerability has; any attack or effect that matches the <em>tag</em> will then be modified as specified.
+For example, &quot;Resistance: Fire (DV÷2)&quot; would mean that any damage done with an attack (or effect) with the <em>Fire</em> tag is halved; &quot;Vulnerability: Cold (DV+3)&quot; would mean that attacks with the <em>Cold</em> tag deal an extra 3 DV.</p>
+<p>Of course, resistances and vulnerabilities can do things other than modify DV.
+A spirit of snow and frost might have *Vulnerability: Fire (Melts)&quot;, for example.
+Likewise, a creature that's particularly resistant to psychic manipulation might have &quot;Resistance: Sleights (+WIL to checks to resist)&quot;.</p>
+<p>Sometimes a <em>Resistance</em> or <em>Vulnerability</em> might say to modify a property that an attack or effect doesn't <em>have</em>.
+For example, &quot;Resistance: Fire (DV÷2)&quot; would not effect an attack with the <em>Fire</em> tag if that attack didn't actually deal <em>damage</em>.
+Normally, in this case, that part of the <em>Resistance</em> or <em>Vulnerability</em> simply doesn't apply; you can't half the DV of an attack that doesn't have a DV, after all, so you would just ignore that effect.</p>
+<p>In special circumstances, a GM might decide that a resistance or vulnerability has some other effect.
+If a creature has &quot;Resistance: Fire (Immune)&quot;, a GM might declare that a power that uses fire to <em>frighten</em> its target would not affect that creature.</p>
+<div class="asside">
+<p>We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results — not just changing damage.</p>
+<p>We're not there yet, but we're getting closer.</p>
+</div>
+<h2 id="resistance-and-vulnerability-2"><a class="header" href="#resistance-and-vulnerability-2">Resistance and Vulnerability 2</a></h2>
+<p>Some creature, objects or armors have special <strong>Resistances</strong> or <strong>Vulnerabilities</strong>.
+The Resistance or Vulnerability will name the <em>Tags</em> to which they apply; any attack or effect with a matching tag will be subject to the Resistance or Vulnerability.
+They may also have a <em>level</em>; assume the resistance or vulnerability is level 1 if it is not specified.
+For example, &quot;Resistance: Fire&quot; would mean that a character has 1 level of resistance against attacks with the fire tag; &quot;Vulnerability: Ice 2&quot; would mean that the creature has two points of vulnerability to attacks with the ice tag.</p>
+<h2 id="reactions"><a class="header" href="#reactions">Reactions</a></h2>
+<p>Under some situations, you can take an action (or you will be <em>forced</em> to take an action) even though it isn’t your turn.
+An action taken outside of your turn is called a <strong>reaction</strong>.
+Once you take a <em>reaction</em>, you cannot take <em>another</em> reaction until the end of your next turn.
+(Roughly, you only get one reaction per turn cycle.)</p>
+<h3 id="readied-actions"><a class="header" href="#readied-actions">Readied Actions</a></h3>
+<p>If you'd like to prepare a response to something that might happen later, you can <em>ready an action</em>.
+When you <strong>ready an action</strong>, you must specify another <em>Standard Action</em> and a <em>condition</em> or <em>event</em>; if the <em>condition or event</em> occurs before your next turn, you may choose to take the action that you specified.</p>
+<p>Readying an action is a <em>Standard Action</em>; activating a <em>readied action</em> is a <em>Reaction</em>.</p>
+<h3 id="attacks-of-opportunity"><a class="header" href="#attacks-of-opportunity">Attacks of Opportunity</a></h3>
+<p>If a character who you <em>threaten</em> attempts to move <em>away from you</em> or <em>past you</em>, you may make an attack against them (using all the normal rules for an attack).</p>
+<p>Hitting an opponent with an attack of opportunity doesn’t necessarily hinder their movement, unless you also incapacitate them with your attack (by knocking them down, for example).</p>
+<p>An Attack of Opportunity is a Reaction.</p>
+<h3 id="reacting-to-events"><a class="header" href="#reacting-to-events">Reacting to Events</a></h3>
+<p>Sometimes events may demand an immediate response: you might want to grab hold of a rope if the floor breaks beneath you, or you might want to catch something that someone has thrown to you.
+These are also <em>Reactions</em>.</p>
+<h3 id="special-defence"><a class="header" href="#special-defence">Special Defence</a></h3>
+<p>Normally, defending against an attack — with Fray, or by parrying — is <em>not</em> a reaction.
+However, most <em>special defenses</em> are reactions: defending with a <em>strike</em> or a <em>maneuver</em> usually requires a reaction, for example, and most <em>powers</em> that trigger on a successful defense require a reaction.
+(For example, some of the links in a <em>Chain</em> are <em>Reactions</em>, and the Quick Break power is a <em>Reaction</em>; see the <em>Classes</em> and <em>Powers</em> chapters.)</p>
+<h2 id="unarmed-combat-and-natural-weapons"><a class="header" href="#unarmed-combat-and-natural-weapons">Unarmed Combat and Natural Weapons</a></h2>
+<p>Some characters have learned to fight without a weapon, by striking opponents with punches, kicks, and other unarmed attacks; other characters have <em>natural</em> weapons, like claws, fangs, or spiked tails.</p>
+<div class="asside">
+<p>The original intent was that Unarmed Combat would be treated no differently than any other style of combat, without any special rules (and without anything like a “mandatory feat chain” required to make it useful).</p>
+<p>This proved confusing, as many players assumed (not unreasonably!) that they could not fight an armed character while unarmed, and even wanted to take Powers to allow them to do so!</p>
+<p>The rules given here are an attempt at a minimal viable treatment of Unarmed Combat, which will explicitly allow characters who invest ranks in <em>Unarmed Combat</em> to effectively fight against an armed and armored opponent — without requiring any particular powers.</p>
+</div>
+<h3 id="unarmed-combat"><a class="header" href="#unarmed-combat">Unarmed Combat</a></h3>
+<p>Most <em>unarmed attacks</em> — punches, kicks, and other strikes — works work much like any other attack.
+Attacks with punches, kicks, and so on have the <em>Unarmed Attack</em> tag; note that some creatures and armors may have resistance to <em>unarmed</em> attacks.
+The base damage for an <em>unarmed attack</em> is 1d10+DB DV with no AP.</p>
+<p>A character who is unarmed is at a disadvantage against an armed or armored opponent.
+A character who does not have <em>basic proficiency</em> (see <em>Basic Rules</em>) in <em>Unarmed Combat</em> does not <em>threaten</em> opponents next to them, and they cannot use the <em>Unarmed Combat</em> skill to defend themselves against an armed opponent.
+A character who <em>does</em> have basic proficiency in <em>Unarmed Combat</em> can use that skill to fight an armed opponent, but they take a -10 penalty when attacking, and a -20 penalty when defending.
+A character who attempts to strike an <em>armored</em> opponent while unarmed is at risk of injury (for obvious reasons); if they score an exceptional failure on their attack, they take 1d10÷2 DV.
+Note that this applies to <em>strikes</em>, but not to grapples, throws, sweeps, or similar maneuvers.</p>
+<p>Conversely, characters wearing armor will do additional damage with an unarmed attack.
+Characters gain AV÷3 bonus damage to unarmed attacks, for the highest AV among the armors that they’re wearing.</p>
+<h3 id="natural-weapons"><a class="header" href="#natural-weapons">Natural Weapons</a></h3>
+<p>Some characters have natural weapons, like claws, fangs, or a spiked tail.</p>
+<p>Attacks with natural weapons have the <em>Natural Weapon</em> tag (and don’t have the <em>Unarmed Attack</em> tag).
+Natural weapons don't use the base damage for an unarmed attack; instead, they will list their own damage an AP (like an artificial weapon does).</p>
+<p>A character with a natural weapon is generally treated like an armed character; they threaten characters next to them, and can attack and defend against armed and armored characters.
+A character using a natural weapon takes only a -10 penalty when defending against an armed character.</p>
+<p>Attacks with natural weapons still use the Unarmed Combat skill; each natural weapon requires a specific proficiency (for example, Unarmed Combat (Claws), or Unarmed Combat (Fangs)).</p>
+<h2 id="mounted-combat"><a class="header" href="#mounted-combat">Mounted Combat</a></h2>
+<ul>
+<li>
+<p>Mounted warriors are highly effective combatants: they are highly
+mobile; they can wear heavy armor and carry heavy weapons; they are
+harder to strike, as the rider is out of easy reach of a combatant
+on foot; and they are capable of mighty charges.</p>
+</li>
+<li>
+<p>For simplicity, we do not give the mount a separate turn from its
+rider, or track its actions separately; instead, the rider simply
+uses the mount’s movement modes, and can use the mount’s attacks
+(should it have any).</p>
+</li>
+<li>
+<p>If the user is proficient in riding, then no test is required to use
+the mount’s normal movement (and attacks); Ride is a Movement Skill,
+see <em>Movement Skills</em>.</p>
+<ul>
+<li>However, in order to be ridden in combat, the mount has to have
+been trained for war — or has to be from a species that is not
+frightened by battle.</li>
+</ul>
+</li>
+<li>
+<p>The mount and rider can be attacked separately, and mounts can be
+wounded using all the normal rules.</p>
+<ul>
+<li>The rider, however, is difficult to attack, being above and
+out-of-reach for most normal-sized characters. Attacks against
+the rider suffer a -20 penalty.</li>
+<li>A mount’s wounds apply penalties to its actions, including its
+attacks and any checks caused by its movement, but not to the
+rider’s attacks.</li>
+<li>If a mount falls — either because it is wounded and fails its
+check to remain standing, or for some other reason — then the
+rider may be thrown off, or even pinned under it. The rider
+should make a COO+COO+SOM test; if they succeed, they are thrown
+clear; if they fail, they may be trapped in their saddle — or even
+pinned under the mount.</li>
+</ul>
+</li>
+<li>
+<p>Mounted charges are particularly vicious.</p>
+<ul>
+<li>
+<p>A mounted charge uses all the normal rules for a charge, except
+that the charging character gains an <em>additional</em> +DB on their
+attack, and they may use the mount’s STR rather than their own
+to compute their DB.</p>
+</li>
+<li>
+<p>A charging character doesn’t have to <em>end</em> their movement after
+attacking; instead, they can continue to ride along, attacking
+characters as they ride pass. These are called <em>ride-by
+attacks</em>.</p>
+<ul>
+<li>These attacks use all the rules for a charge, as well as for
+making <em>multiple attacks</em> against <em>multiple targets</em>, as
+above.</li>
+<li>That is, under normal conditions, they gain an additional
++DB to their attack, can use the mounts STR to compute their
+DV, and suffer both the -10 penalty for making multiple
+attacks and the -10 penalty for attacking multiple targets.</li>
+<li>Note: it’s a ride-by attack if you attack during the middle
+of your movement instead of the end, even if you only attack
+on target.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Some weapons are not well-suited for use while mounted; weapons
+without the Cavalry tag take a -20 penalty when used while riding a
+mount.</p>
+</li>
+</ul>
+<h2 id="blast-and-splash-attacks"><a class="header" href="#blast-and-splash-attacks">Blast and Splash Attacks</a></h2>
+<p>Some attacks cover an <em>area</em>, rather than affecting a single target; these usually have the <em>Blast</em> or <em>Splash</em> tags.</p>
+<p>Attacks with the <strong>Blast</strong> tag do their listed damage where the attack <em>emanates from</em>, and 2 DV less for every meter away from that point.
+(Note that this means that the rolled DV <em>effectively</em> determines the size of the blast produced by the blast effect.)
+People in area of affect of a Blast Attack usually will not be able to <em>Defend</em> against it — you’re either in the explosion or you aren’t!</p>
+<p>Some attacks cover an area, but they don't (immediately) do <em>damage</em>; these attacks usually have the <strong>Splash</strong> tag.
+Instead, those within the area of the <em>splash attack</em> are affected by it.
+Since they don't deal DV, <em>splash</em> attacks usually list a <em>radius</em> (like 1d10÷3m for a thrown canister of <em>scour</em>, see <em>Scour</em> in <em>Items</em>).
+Like Blast attacks, creatures in the area of a Splash Attack cannot usually defend — they're either in the area or they aren't.</p>
+<p>These abilities are common with <em>projectile</em> and <em>thrown</em> weapons (or powers that work similarly).
+When this happens, the point that the attack &quot;emanates form&quot; is the point that the projectile landed — either where the player was aiming, or where the projectile <em>scattered to</em> (see Ranged Attacks above).</p>
+<h2 id="size-and-combat"><a class="header" href="#size-and-combat">Size and Combat</a></h2>
+<p>We do not have extensive rules for how sizes impact combat; some general guidelines are provided below.</p>
+<ul>
+<li>Ranged attacks against <em>small</em> targets receive a -10 penalty; however, attempts to grapple small targets are made at +10.</li>
+<li>Ranged attacks against <em>large</em> targets receive a +10 bonus; however, attempts to grapple large targets are made at -10.</li>
+<li>Greater bonuses and penalties may be used for larger size differences.</li>
+<li>see <em>Sizes</em> in <em>Senses, Movements and Special Abilities</em>.</li>
+</ul>
+<h2 id="being-prone"><a class="header" href="#being-prone">Being Prone</a></h2>
+<p>You may drop <em>prone</em> as a Quick Action.
+Some effects will force you to become prone (without requiring an action), like failing a SOM×3 check after being wounded, or being tripped.
+Getting up from a prone position is a Quick Action.</p>
+<p>While <strong>prone</strong>,</p>
+<ul>
+<li>you may move up to half your base movement as a Standard Action;</li>
+<li>melee attackers receive a +10 bonus against you, and</li>
+<li>ranged attackers take a -10 penalty against you.</li>
+<li>Most weapons are more difficult to use, imposing a -30 penalty attack; this does not apply to weapons with the <em>prone</em> tag.</li>
+</ul>
+<h2 id="cover"><a class="header" href="#cover">Cover</a></h2>
+<p>Characters can <em>take cover</em>, using solid obstructions to prevent and attacker from being able to reach them.
+We generally divide cover into three types: minimal, partial, and total; the effects of each are described below.</p>
+<ul>
+<li><strong>Minimal cover</strong> doesn't really conceal the defender from the attacker, but it does make the attack slightly more awkward.  A support-beam, banister, cattle-fence, or young tree might provide minimal cover.</li>
+<li><strong>Partial cover</strong> obscures about half of the defender, providing them substantial protection from attacks.  For example, a bench, a solid fence, shallow trench, or half-opened door might provide partial cover.</li>
+<li><strong>Total cover</strong> completely obscures the target from the attacker, preventing a direct attack.  Solid walls and deep trenches might provide total cover.</li>
+</ul>
+<table><thead><tr><th>Cover</th><th>Effect</th></tr></thead><tbody>
+<tr><td>Minimal</td><td>-10 to the attack</td></tr>
+<tr><td>Partial</td><td>-30 to the attack</td></tr>
+<tr><td>Total</td><td>Attacker does not threaten defender</td></tr>
+</tbody></table>
+<p>Note that the benefits of cover can depend on several factors, including how the characters is positioned, whether the character is prone, crouching or standing, where the opponent is, and the kind of weapon that they are using.
+This is why we do not talk about a character being &quot;in cover&quot; absolutely, but instead talk about a character &quot;having <em>partial cover</em> against a particular attack.&quot;</p>
+<p>Note that characters trying to move while crouching or prone behind cover are probably using <em>unusual movement</em>, as described above.
+Also, characters crouching behind many kinds of <em>partial cover</em> might be able to <em>brace</em> a weapon with the <em>Prone</em> tag, like a crossbow or hand-cannon; this would generally provide a +10 bonus to attacks.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/11-representing-a-character.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/13-injury-and-recovery.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/11-representing-a-character.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/13-injury-and-recovery.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

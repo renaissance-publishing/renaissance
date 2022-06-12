@@ -1,0 +1,601 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Basic Rules - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/00-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/01-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/02-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/03-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/04-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li class="chapter-item expanded "><a href="../chapters/05-languages.html"><strong aria-hidden="true">4.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/06-organizations.html"><strong aria-hidden="true">5.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/07-other-races.html"><strong aria-hidden="true">6.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/07.1-the-kingdoms-of-men.html"><strong aria-hidden="true">6.1.</strong> The Kingdoms of Men</a></li><li class="chapter-item expanded "><a href="../chapters/07.2-the-shaded-sea-people.html"><strong aria-hidden="true">6.2.</strong> The Shaded-Sea People</a></li><li class="chapter-item expanded "><a href="../chapters/07.3-the-raptors-protectorate.html"><strong aria-hidden="true">6.3.</strong> The Raptors Protectorate</a></li><li class="chapter-item expanded "><a href="../chapters/07.4-the-goblin-empire.html"><strong aria-hidden="true">6.4.</strong> The Goblin Empire</a></li><li class="chapter-item expanded "><a href="../chapters/07.5-deep-explorer-dwarves.html"><strong aria-hidden="true">6.5.</strong> Deep-Explorer Dwarves</a></li><li class="chapter-item expanded "><a href="../chapters/07.6-foam-and-cloud.html"><strong aria-hidden="true">6.6.</strong> Foam-and-Cloud</a></li><li class="chapter-item expanded "><a href="../chapters/07.7-mudskipper-federation.html"><strong aria-hidden="true">6.7.</strong> The Mudskipper Federation</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08-the-supernatural.html"><strong aria-hidden="true">7.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html"><strong aria-hidden="true">8.</strong> The Unplacable Text Describing What Adventures Look Like</a></li><li class="chapter-item expanded "><a href="../chapters/10-basic-rules.html" class="active"><strong aria-hidden="true">9.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/11-representing-a-character.html"><strong aria-hidden="true">10.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/12-combat.html"><strong aria-hidden="true">11.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/13-injury-and-recovery.html"><strong aria-hidden="true">12.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/14-travel.html"><strong aria-hidden="true">13.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/15-magic.html"><strong aria-hidden="true">14.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/16-features.html"><strong aria-hidden="true">15.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/17-wealth-income-and-lifestyles.html"><strong aria-hidden="true">16.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/18-luck.html"><strong aria-hidden="true">17.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/19-motivations-and-milestones.html"><strong aria-hidden="true">18.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/20-skills.html"><strong aria-hidden="true">19.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/21-character-creation-and-advancement.html"><strong aria-hidden="true">20.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/22-senses-movements-and-special-abilities.html"><strong aria-hidden="true">21.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/23-races.html"><strong aria-hidden="true">22.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/23.1-common-races.html"><strong aria-hidden="true">22.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.2-uncommon-races.html"><strong aria-hidden="true">22.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.3-neighboring-races.html"><strong aria-hidden="true">22.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.4-exotic-races.html"><strong aria-hidden="true">22.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/24-backgrounds.html"><strong aria-hidden="true">23.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/25-traits.html"><strong aria-hidden="true">24.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/26-classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/27-powers.html"><strong aria-hidden="true">26.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/28-items.html"><strong aria-hidden="true">27.</strong> Items</a></li><li class="chapter-item expanded affix "><li class="part-title">For Players and GMs</li><li class="chapter-item expanded "><a href="../chapters/29-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/30-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/31-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/32-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/33-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/34-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/35-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/36-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/37-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/38-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/39-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/40-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="basic-rules"><a class="header" href="#basic-rules">Basic Rules</a></h1>
+<h2 id="the-rules-0"><a class="header" href="#the-rules-0">The Rule(s) 0</a></h2>
+<p>There are two quick &quot;Rules 0&quot; to cover:</p>
+<ul>
+<li>When rounding, always round down.</li>
+<li>Everything &quot;stacks&quot; unless it specifically says it doesn’t.
+<ul>
+<li>That is, if you have several bonuses or penalties, they all apply.
+You might assume this would be the case, but it’s worth pointing out because some popular games don’t work this way.</li>
+</ul>
+</li>
+</ul>
+<h2 id="checks"><a class="header" href="#checks">Checks</a></h2>
+<p>Check (and skills) are central to <em>Renaissance</em>; while other games may use a wide variety of different dice rolls with different rules, <em>Renaissance</em> uses skills and D% checks for almost everything.</p>
+<h3 id="check-basics"><a class="header" href="#check-basics">Check Basics</a></h3>
+<p>To make a <strong>check</strong>, roll a D% and compare the result to the <em>target number</em> (TN): you succeed if your result was less than or equal to the target, and you fail otherwise.
+By &quot;D%&quot;, we mean a randomly-generated number between 0 and 99 inclusive, as you would get with a <em>hundred-sided die</em> whose faces are numbered from 0 to 99.
+Such dice exist, but you can use anything that generates a number from 0 to 99 in an unbiased way — like two ten-sided dice, one for the one's-place and one for the ten's-place, or a computer.</p>
+<div class="asside">
+<p>Be careful!
+D% runs from 0 to 99, <em>not</em> 1 to 100!</p>
+<p>Some random number generators give you a number between 1 and 100; you'll need to remember to interpret that 100 as &quot;actually&quot; being a 00.</p>
+</div>
+<p>The <strong>Margin of Success</strong> (MoS) for a check is the <em>value you rolled</em> if you succeeded.
+The <strong>Margin of Failure</strong> (MoF) is the <em>die roll</em> minus the <em>target</em> (D%−TN) if you failed.</p>
+<p>The <em>target number</em> is selected by the GM.
+Target numbers vary, but they are almost always either the <em>skill target</em> for a <em>skill check</em>, or some combination of your aptitudes; we'll describe skill checks and provide some examples later.</p>
+<p>Additionally, any check's TN can include <em>modifiers</em>; see <em>Modifiers</em>, below.</p>
+<div class="asside">
+<p>The authors could not resist using the phrase &quot;linear combination of aptitudes&quot;; the best we could do is wall it off in this little aside.</p>
+</div>
+<div class="asside">
+<p>For example, the GM tells Fire (a Shifter mage) to roll (against) his WIL×3.
+Fire's WIL stat is 25, so his <em>target number</em> (TN) for the check is 75.
+His player roles a D%, and gets 65; Fire has succeeded, and his <em>margin of success</em> (MoS) is 65.
+If his player had rolled an 89, Fire would have failed, and his <em>margin of failure</em> (MoF) would have been 14.</p>
+</div>
+<p>There are limits to what a <em>target number</em> can be.
+A TN can never be greater than 98; a 99 always fails (and is always a <em>critical failure</em>).
+Similarly, a TN can never be less than 1; a 0 always succeeds (and is a <em>critical success</em>).</p>
+<div class="asside">
+<p>You don't always have to roll a check!
+If success is either guaranteed or impossible−and if the character isn't competing with another character−you can just waive the check.</p>
+<p>Further guidance is given in the sidebar <em>When Should We Use Checks</em> and <em>Picking Checks</em>.</p>
+</div>
+<div class="asside">
+<p>Not all characters are player characters, so we'll usually try to speak in terms of &quot;a character&quot; rather than &quot;you&quot; as a player or GM.</p>
+</div>
+<h3 id="special-results"><a class="header" href="#special-results">Special Results</a></h3>
+<p>If a character succeeds on a check and their MoS is 30 or more, then they have scored an <strong>exceptional success</strong>.
+If they succeed and their MoS is a “double” — that is, a multiple of 11, like 22 or 55 — then they have scored a <strong>critical success</strong>.
+For completeness sake, we also call an MoS of 29 or less that isn't a crit a <strong>basic success</strong>.
+Conversely, if they fail and their MoF is 30 or more, then they have scored an exceptional failure; if they fail and they rolled a double, then they have scored a critical failure; and if they fail but their MoF is 29 or less, then they have scored a basic failure.</p>
+<p>The effects of <em>exceptional</em> and <em>critical</em> results vary: some rules will spell out exactly what happens, but more often, it will be up to the GM’s discretion.
+Generally, exceptional successes should get a noticeable bonus, while exceptional failures should carry some extra consequence, or produce some further complication.
+Critical successes and failures should be particularly impactful.</p>
+<div class="asside">
+<p>Lady Katarina the wealthy Ratfolk socialite (and smuggler) is trying to sneak in to a guarded palace, and she's stumbled into the same room as a guard.
+Fortunately for her, the guard is distracted and bored; if she can dive behind cover quick enough, he might not notice her.
+The GM tells her player to roll a COO×3 check to <em>react quickly</em> and dive behind cover.</p>
+<p>Her COO is 30, so her TN is a respectable 90.
+She rolls a 33, scoring a <em>critical success</em>; Katarina darts behind a well-upholstered couch, and the guard is never the wiser.
+Furthermore, because of her critical success, the GM decides that the couch is positioned such that it will hide Katarina from the guard for almost the whole length of the room.</p>
+<p>Had she rolled a 99, she would have scored a <em>critical failure</em>; in this case, she might instead have dove into the <em>arm</em> of the couch, which would make a nice, loud, guard-alerting <em>whack</em> and knock her to the floor.</p>
+</div>
+<h3 id="upgrading-and-downgrading"><a class="header" href="#upgrading-and-downgrading">Upgrading and Downgrading</a></h3>
+<p>Sometimes, you’ll be able to <em>upgrade</em> (or required to <em>downgrade</em>) a given check; this can occur if you have a special ability, for example, or if you spend a <em>Luck Point</em> to change the outcome of a check.</p>
+<p>When you <strong>upgrade</strong>, your results are improved:</p>
+<ul>
+<li>a critical failure or exceptional failure becomes a normal failure;</li>
+<li>a normal success becomes an exceptional success; and</li>
+<li>an exceptional success becomes a critical success.</li>
+</ul>
+<p>When you <strong>downgrade</strong>, your results are degraded:</p>
+<ul>
+<li>a critical success becomes an exceptional success, and an exceptional success becomes a normal success;</li>
+<li>a critical or exceptional success becomes a normal success; and</li>
+<li>a normal failure becomes an exceptional failure, and an exceptional failure becomes a critical failure.</li>
+</ul>
+<p>Note that, when upgrading, a normal failure does not become a normal success, and when downgrading, a normal success does not become a normal failure — that is, when upgrading and downgrading, you can't turn a failure into a success, or vise-versa.
+That would be a little too powerful!
+Also, your MoS and MoF don’t actually change, so MoS- and MoF-dependent effects aren’t affected by upgrading and downgrading.</p>
+<p>Upgrading and Downgrading are an exception to the &quot;everything stacks&quot; general rule: you can’t upgrade or downgrade the result of any one check more than once.</p>
+<h3 id="skill-checks"><a class="header" href="#skill-checks">Skill Checks</a></h3>
+<p><strong>Skill checks</strong> are the most common type of check; characters use a <em>skill check</em> when they're trying to do something that's covered by a skill that they have.
+(See the <em>Skills</em> chapter for a list of skills).</p>
+<p>The <em>target number</em> for a <em>skill check</em> is the <em>Linked Aptitude</em> for the skill, plus the character's ranks in that skill (that is, Linked Apt + Ranks).</p>
+<p>We refer to the total of a character's <em>ranks in a skill</em> pluss that skill's <em>linked aptitude</em> — that is, their target number for that skill, before any modifiers are applied — as their <strong>rating</strong> in that skill.</p>
+<div class="asside">
+<p>In order to pay for a few nights at an inn, Aryn the <em>Haffan</em> monster-hunter has volunteered her services to a town; she's trying to track down a <em>bear</em> that's been picking off the locals' sheep.
+To track it, the GM calls for a <em>Search</em> check from Aryn.
+Aryn is <em>very good</em> at tracking, so she has 50 ranks in <em>Search</em>; <em>Search</em> is linked to the INT aptitude, and Aryn's INT is 25.
+Her player asks the GM if any particular modifiers apply; the GM says that none do.</p>
+<p>The TN for this check is 75 — her 50 ranks in <em>Search</em> plus her linked aptitude of 25.</p>
+<p>Aryn's player rolls a 26, so Aryn gets a <em>basic success</em>; the GM decides that she does track the bear down, but it takes her most of the day.</p>
+</div>
+<h3 id="simple-checks"><a class="header" href="#simple-checks">Simple Checks</a></h3>
+<p>A <strong>simple check</strong> is used when success can be assumed, but it might still matter how well a character does.
+This might be the case if you need to know how long a character takes to do something, or if their results are particularly impressive.
+Alternatively, it might also be the case if a character cans simply try again and again until they succeed.</p>
+<p><em>Simple checks</em> work the same way normal checks do, except the character is always assumed to succeed.
+If the character rolls at-or-below their TN, then they <em>excel</em> — they've achieved what they where trying to do, and done a great job of it!
+If they character rolls more than their target, then they <em>stumble</em> — they've still achieved their objective, but they didn't do particularly well, possibly having to try several times, or having to work exceptionally slowly, or making several embarrassing mistakes, or producing a slightly-flawed-but-still-usable result.</p>
+<p><em>Simple checks</em> can never be <em>exceptional</em> or <em>critical</em>.</p>
+<h3 id="opposed-checks"><a class="header" href="#opposed-checks">Opposed Checks</a></h3>
+<p><strong>Opposed checks</strong> are used — as the name implies — when two characters are competing against each other; one character will <em>win</em>, and the other will <em>lose</em>.</p>
+<p>To make an <em>opposed check</em>, each character makes a (separate) check:</p>
+<ul>
+<li>If one character <em>succeeds</em> on their check and other <em>fails</em>, then the character who succeeded wins the opposed check.</li>
+<li>If both characters succeed, then the highest MoS wins the opposed check (reroll ties)</li>
+<li>If both characters fail, reroll the check.</li>
+</ul>
+<p>Note that the two characters don’t have to use the <em>same</em> skill–in fact, very often they won’t!</p>
+<div class="asside">
+<p>Chandra the bronze-armed Drake <em>Lord-General</em> is trying to punch a goblin slaver.
+To resolve the <em>attack</em> (see the <em>Combat</em> chapter), the GM asks Chandra to roll his <em>Unarmed Combat</em> against the Goblin's Fray.
+Chandra's <em>Unarmed Combat</em> is 80, and his player rolls a 63.
+The Goblin's Fray is 65, and the GM rolls a 21 for him (ordinarily, the GM wouldn't reveal to the players what the Goblin's TN was, what his stats where, or what he rolled).</p>
+<p>They both succeeded, so the GM compares Chandra's 63 to the Goblin's 21; Chandra has clearly won the opposed check.</p>
+</div>
+<h4 id="variable-checks"><a class="header" href="#variable-checks">Variable Checks</a></h4>
+<p>Sometimes, when both characters are competing, it’s possible for both characters to partly succeed; we call these <em>Variable Checks</em>.
+<strong>Variable checks</strong> work just like other opposed checks, with one exception: if both characters succeed on their checks, instead of declaring the highest MoS to be the winner, both characters are awarded a partial success.</p>
+<div class="asside">
+<p>Aryn the aforementioned <em>Haffan</em> monster-hunter is now trying to sneak up on the bear she was hunting; the GM calls for a <em>variable check</em>, her <em>Stealth</em> versus the bear's <em>Perception</em>.
+The TN for Aryn's Stealth check is 65, and the TN for the bear's Perception is 55.
+Aryn's player rolls 51, while the GM rolls a 42 for the bear, so both Aryn and the bear partially succeed.
+The GM decides that Aryn makes a little too much noise, which spooks the bear — it hasn't spotted her <em>yet</em>, but it's aware that something is off and will begin looking around to see what's wrong.</p>
+</div>
+<h4 id="ordered-checks"><a class="header" href="#ordered-checks">Ordered Checks</a></h4>
+<p>Sometimes it only makes sense to call for one character’s check if the other character has already succeeded (or failed); we call these <strong>ordered checks</strong>.
+When making an ordered check, one character rolls their check first, and the other character only roll their check if it is needed.
+(Note that the result of the first character's roll might determine <em>what kind</em> of check the second character needs to roll.)</p>
+<h3 id="defaulting"><a class="header" href="#defaulting">Defaulting</a></h3>
+<p>Sometimes a character doesn’t have the specific skill that they’d need to make a check — for example, a character might be trying to argue a legal case without having ranks in <em>Protocol</em>, <em>Knowledge: Law</em> or <em>Profession: Lawyer</em>; or a character might be trying to sneak past a guard without having ranks in <em>Stealth</em>.
+In these cases, the character might be allowed to use a <em>related</em> skill at a penalty, or they might be allowed to use the <em>linked aptitude</em> for the skill that they don’t have; we call this <strong>defaulting</strong>.</p>
+<p>The GM decides whether or not a character can default, and what they will default to.</p>
+<p>In the first case, the GM might decide that the character can default to their <em>Persuasion</em>, with a -30 penalty (large penalties are normal when defaulting, as the character is being allowed to cheat the skill system a bit).
+In the second case, the GM might allow the character to roll a check against their COO (that is, COO×1), since anybody can <em>try</em> to move stealthily, trained sneak-thief or no.
+(When a character defaults to an <em>aptitude</em>, a smaller penalty is usually used, or the penalty might be waived entirely — if the character has no ranks in the skill, they're already in enough trouble!)</p>
+<div class="asside">
+<div class="asside-title">When should we use checks</div>
+<p>When is a check called for, and what type? This depends on the situation.</p>
+<p>In unstructured play, the type of <em>consequences</em> that the GM expects often determine the kind of check to use.
+If a failure could have major consequences (like an attempt to hide an item you stole from the king while being searched by a guard), or two characters are <em>competing</em>, then a check is definitely called for.
+However, if the odds of failure are low, or the consequences of failure aren’t interesting, or the character can simply try again and again until they succeed (see <em>Trying Again</em>, below), then Simple Checks might be used, or the check might be waived all-together.</p>
+<p>Most mundane actions don’t require checks.
+A character can make the half-day’s walk to a neighboring town, cook a meal or speak in a language they know without requiring a check.</p>
+<p>Characters can also perform simple tasks using skills that they have <em>basic proficiency</em> in without requiring a check — we say that a character has <em>basic proficiency</em> in a skill if they have 10 ranks in that skill.
+Someone with 10 ranks in Profession: Cook can make a simple meal, someone with 10 ranks in Unarmed Combat can strike a target dummy, and someone with 10 ranks in Search can identify some obvious hiding spots without requiring a check.</p>
+<p>The rules for Initiative Order (and Combat) and Down Time are more specific; see Initiative Order and Down-Time below, and the <em>Combat</em> chapter for more information.</p>
+</div>
+<div class="asside">
+<div class="asside-title">Trying Again</div>
+<p>Sometimes, if there is no particular consequence for failing, players might be able to simply repeat a test until they succeed; in these cases, it is often better to use a <em>simple-success check</em>.</p>
+<p>For example, if a character is trying force open a door partly blocked by rubble, a <em>Feat of Strength</em> check might be called for.
+However, if nothing is threatening the players, they might be able to simply try again and again until they succeed.
+In this case, you should consider calling for a simple-success check; success might mean that they succeed easily or quickly, while failure would mean that many tries are required, or that some minor consequence is incurred (like fatigue, or damage to the door so that it can't' be closed).</p>
+<p>Similarly, if the players are trying to solve a riddle that will open a magic door, but there is nothing that would stop them from simply trying again and again, it might be a better idea to use one simple success check to find out how long it takes them to solve the riddle.</p>
+<p>As an optional rule, in a situation where individual checks are called for, in order to prevent abuses, GMs may apply a cumulative -10 penalty for each time a player <em>tries again</em>.
+This makes some sense, as a character that failed a check presumably failed for a reason, and that reason likely still applies if circumstances have not changed.</p>
+</div>
+<div class="asside">
+<div class="asside-title">Repeated Individual Skill Checks</div>
+<p>Sometimes, there are situations where several members of the party could attempt the same task in sequence; for example, if the players are trying to search a room, then each person could make their own Search test, one after the other.</p>
+<p>This is usually not a good idea; this makes it very difficult for the party to fail, since they’ll have several separate attempts; it makes each individual test less interesting, since the next person will just try if the current person fails; and it can slow the game down dramatically.</p>
+<p>Instead, we recommend the GM require one character make one test on behalf of the party; that character — usually the one with the highest rating in the skill in question — should “take the lead,” and the other party-members should assist (if they can, see <em>Skill Modifiers</em>).</p>
+</div>
+<div class="asside">
+<div class="asside-title">Picking a Check</div>
+<p>So, you’ve decided that a check is called for — but what check should you use? Sometimes it can be tricky to decide.</p>
+<p>One question to ask yourself is, “is the thing my character is doing the kind of thing that someone could have <em>learned</em> how to do, coming from their background?”
+Plenty of things are, like riding a horse, bartering with a bar-keep, sneaking through a dark alley, or negotiating a treaty — but, some things <em>aren’t</em>, like fighting off a disease (which people don’t learn to do — or do consciously at all!) or solving a mystery (“detective” is certainly a job a person could learn to have, for example, but it is not a common one in the world of <em>Renaissance</em>).</p>
+<p>In the first case — for something that someone could have learned to do — a skill check is appropriate.
+Note that you don’t necessarily have to pick one single, correct skill; the skill system has a degree of overlap, so your players might have more than one skill they could choose from.
+It’s also perfectly acceptable to ask them what skills they have that they think might apply, and to vary the results they get based on which skill they ultimately.
+For example, if Ven has both Knowledge: Natural Philosophy and Spellcraft, she could use either to attempt to analyze a note with strange, technical writing on it, and she might glean different insights from it based on which she decides to use.</p>
+<p>In the second case — the player is trying to do something that most people don’t need to learn to do, or do consciously at all — a check against some combination of aptitudes is usually the right idea.
+You can pick from the <em>sample checks</em> above, or make up your own.
+To pick the combination of aptitudes you want to use, think about the mental faculties (or physical properties) that they’re going to need to succeed.
+If self-control is important, WIL should be included; if quick reflexes help, COO should be a factor; if their physical resiliency is being tested, then DUR can be used; and so on.
+Most of the time, it’s a good idea to mix 2 or 3 aptitudes.</p>
+<p>Note that some rules reference types of sample checks specifically. For
+example, some traits give you bonuses to <em>resist fear</em> or <em>feats of strength</em> checks. It’s a good idea to let players keep the benefits of those traits (for example) on checks that could reasonably be called a <em>feat of strength</em>, even if you don’t use the <em>feat of strength</em> check as it’s listed. (A player might ask, “is this a feat of strength?”, or you could tell them to “roll SOM×2, as a feat of strength” or “feat-of-strength effects apply”.)</p>
+<p>In unusual cases, you can have players make a check against a single
+aptitude (as in, a WIL×1 check). Such a check is very difficult to pass,
+and thus should represent a powerful force (like a spirit). However, it
+is worth noting that very powerful beings like spirits might produce
+magical effects that cannot be resisted at all; not every effect has to
+allow a player to check to resist.</p>
+<p>You also <em>can</em> have players mix aptitudes in more complex ways — having
+people use four aptitudes and divide by two, for example — but this is
+almost always a bad idea, since the increase in complexity is pretty
+much never worth the increase in fidelity (that is, in better
+representing just exactly what is being tested).</p>
+<p>In the last case — a player is trying to do something that isn’t covered
+by a skill that they have, possibly a skill that it would be unusual for
+anyone to have — you can allow a player to <em>default</em> (see above), either
+to a related skill that they do have, or to the aptitude that would be
+linked to the skill they don’t have. Don’t rush <em>too</em> quickly to the
+decision that a character needs an exotic skill; if the player is trying
+to do something that someone in the Commonwealth could reasonably have
+learned to do, then they shouldn’t need an exotic skill.</p>
+<p>The reverse, of course, can also be true; if the skill-set the character
+is trying to have is bizarre, unusual and difficult-to-explain for
+someone from the Commonwealth, then it probably should have been an
+exotic skill. Somewhere, someone in the Commonwealth <em>could possibly</em> be
+working on a Babbage Engine, and so a player character <em>could possibly</em>
+take ranks in Exotic Skill: Programming — but programming a Babbage Engine
+certainly isn’t covered by either Knowledge: Math or Craft: Clockwork.
+This is why players should discuss their characters with their GMs
+before starting play.</p>
+</div>
+<h3 id="common-checks"><a class="header" href="#common-checks">Common Checks</a></h3>
+<p>The table below lists several <em>common checks</em> and their associated TNs.</p>
+<table><thead><tr><th>Check</th><th>Target Number (TN)</th></tr></thead><tbody>
+<tr><td>Skill Check</td><td>Skill's Linked Aptitude + Ranks in Skill</td></tr>
+<tr><td>Resist Intimidation</td><td>WIL + SAV</td></tr>
+<tr><td>Overcome Fear</td><td>WIL × 2</td></tr>
+<tr><td>Resist Social Manipulation</td><td>SAV + INT</td></tr>
+<tr><td>Difficult Recall</td><td>COG × 3</td></tr>
+<tr><td>Take a Chance, Stroke of Luck</td><td>Luck × 10</td></tr>
+<tr><td>Make A Guess</td><td>INT × 3</td></tr>
+<tr><td>Get a Hint</td><td>INT × 3</td></tr>
+<tr><td>Solve a Puzzle</td><td>COG × 3</td></tr>
+<tr><td>Feat of Strength</td><td>SOM + STR</td></tr>
+<tr><td>Feat of Endurance</td><td>DUR + WIL</td></tr>
+<tr><td>React Quickly</td><td>COO×3</td></tr>
+<tr><td>Catch Something</td><td>COO×3</td></tr>
+<tr><td>Difficult use of Language</td><td>INT×3</td></tr>
+</tbody></table>
+<p>Of course, any check can have <em>modifiers</em>, and <em>proficiencies</em> and <em>specializations</em> may also apply to some skill checks; see <em>Modifiers</em>, below.</p>
+<p>Note that <em>Luck</em> above refers to the character's <em>Luck stat</em>, not the number of <em>Luck Points</em> that the character currently has.</p>
+<p>Of course, this list is not exhaustive; GMs can call for other types of checks.</p>
+<p><em>Skill checks</em> are the most common type of check; they're describe above, and more details are provided below and in the <em>Skills</em> chapter.</p>
+<p><em>Resist Intimidation</em> is used when one character wants to resist another character's attempt to <em>intimidate</em> them, with the <em>Intimidate</em> skill.
+<em>Overcome Fear</em> is normally called for when a character encounters something particularly terrifying (which includes some <em>Spirits</em> and <em>Powers</em>, see <em>The Supernatural</em>, <em>Cheating Reality</em>, <em>Classes</em>, and <em>Powers</em>.)</p>
+<p><em>Difficult Recall</em> is called for when a character attempting to recall something that would be difficult to remember — like a minor detail they may not have noticed, something that occurred when they where distracted, or something that happened long ago.
+(Normally, the character can be assumed to remember anything that the <em>player</em> remembers — or wrote down in their notes; this test is appropriate if some detail is so minor or arbitrary that it is unlikely that a character would have remembered it, or if the player has forgotten something that they should have remembered and needs the GM to remind them.)</p>
+<p>Is that dropped crossbow loaded?
+Does that guard speak Commonwealth Standard?
+A character has challenged a Great Spirit to a dice game; do they win?
+You can <em>Take a Chance</em> or hope for a <em>Stroke of Luck</em> in situations like these.</p>
+<p>Sometimes a character just needs to make a guess; other times, the players might just be stuck, and they need a hint.
+When this happens, they can <em>Make a Guess</em> or <em>Get a Hint</em> from the GM.</p>
+<p>Whether it's a simple <em>number-puzzle</em> or a complex <em>cypher</em>, sometimes a character just needs to apply their intellect to solve a puzzle; when this happens, they're <em>Solving a Puzzle</em>.</p>
+<p>Sometimes, characters need to perform some heroic <em>feat of strength</em>; they might need to break down a door, bend the bars of a jail window, or rip the stake they're tied to out of the wall.
+Other times, they might need to perform some <em>feat of endurance</em> to endure a great hardship (see <em>Common Hazards</em>).</p>
+<p>Sometimes characters just need to <em>react quickly</em> to their environment — maybe to dive out of the way of some falling debris or catch the ledge on the way to a fall.
+Or they may just need to catch something.</p>
+<p><em>Difficult uses of Language</em> include trying to recognize a language that the character doesn't know (but might have seen), trying to get the gist of a text written in a language that is <em>related to</em> one that the characters speak (as Weal is related to Old Imperial, see <em>Languages</em>), or trying to speak or write in a particular accent or style.</p>
+<h3 id="modifiers"><a class="header" href="#modifiers">Modifiers</a></h3>
+<p>Modifiers are additional bonuses and penalties to checks, assigned as the rules, the character's abilities, and the situation dictates.</p>
+<p>Some modifiers might come from special features that a character has; these modifiers apply whenever the feature says that they do.
+Other modifiers might come from the situation; they might represent a particular task being <em>more</em> or <em>less</em> difficult than normal, for example, or they might represent aspect of the situation that helps or hinders the characters.
+The GM decides what <em>situational modifiers</em> apply.</p>
+<p>Some common modifiers are given below:</p>
+<ul>
+<li><strong>Being assisted</strong>: sometimes characters can assist other characters
+<ul>
+<li>+10 per character assisting, maximum +30.</li>
+<li>Assisting characters do not need to make a check to assist.</li>
+<li>Assisting characters must have 10 Ranks in a useful skill (but it doesn't have to be the <em>same</em> skill that the &quot;primary&quot; character is using).</li>
+<li>The GM may rule that certain tests cannot be assisted.
+(For example, Attack, Stealth and Perception tests normally cannot be assisted.)</li>
+</ul>
+</li>
+<li><strong>Related Skill</strong>: sometimes having knowlidge or skill in one area helps with another area.
+(For example, having high Knowledge: Theology might assist with a Profession: Cleric skill check.)
+<ul>
+<li>Bonus to the &quot;primary&quot; skill check depends on how many ranks you have in the related skill:
+<ul>
+<li>10-24 Ranks: +10</li>
+<li>25-39 Ranks: +20</li>
+<li>40+ Ranks: +30</li>
+</ul>
+</li>
+<li>Characters can only benefit from one <em>related skill</em>; normally, if a player has more than one related skill that might apply, they will get to choose which one they pick.
+<ul>
+<li>Sometimes, in fact, GMs might vary what happens on a successful check, based on what related skill a character used.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Specialization</strong>: sometimes characters <em>specialize</em> in a given sub-field.
+<ul>
+<li>Characters receive a +10 bonus when the Specialization applies; there is <em>no effect</em> (including <em>no penalty</em>) when the Specialization does not apply</li>
+<li>Any given skill can only have one specialization.
+You can’t have both a [Short Swords] and a [Knives] Specialization for Melee Weapons, for example.</li>
+<li>See <em>Character Creation</em> for the rules for acquiring specialization.</li>
+<li>Field Skills and Proficiency Skills can also have specializations.
+For example:
+<ul>
+<li>Art: Painting [Landscapes], where Art is a field skill, Painting is the field, and [Landscapes] is the specialization.</li>
+<li>Melee Weapons [Swords], where Swords is one of the proficiencies that the character has.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Proficiencies</strong>: characters take a penalty when they are using a proficiency skill and they do not have a relevant proficiency.
+<ul>
+<li>When using a proficiency skill, you take a -20 penalty if you don't have an appropriate <em>proficiency</em> for what you are trying to do; see <em>Proficiency Skills</em> in <em>Skills</em>.</li>
+</ul>
+</li>
+<li><strong>Difficulty Modifiers</strong>: characters can take a bonus or penalty, based on whether what they are trying to do is particularly easy or particularly difficult.
+<ul>
+<li>Run from Very Easy (+30) to Very Hard (-30), and all shades in-between.</li>
+</ul>
+</li>
+<li><strong>Taking your Time</strong> and <strong>Rushing</strong>: characters can both take more and less time on task actions and jobs.
+<ul>
+<li><strong>Taking your Time</strong>: for every +50% increase in timeframe, +10 to the check (up to +150% time for +30).</li>
+<li><strong>Rushing</strong>: for every -25% <em>reduction</em> in timeframe, -10 to the check (up to -75% for -30).</li>
+<li>You cannot both <em>rush</em> and <em>take your time</em> on the same check.</li>
+<li>You can only <em>rush</em> or <em>take your time</em> on a <em>task action</em> or <em>job</em>.</li>
+</ul>
+</li>
+<li><strong>Situational Modifiers</strong>:
+<ul>
+<li>Lots of other things might provide modifiers!
+The GM may assign modifiers from situation as appropriate.</li>
+</ul>
+</li>
+<li><strong>Passive Tests</strong>: Usually, characters will use their skills actively.
+Sometimes, the GM will roll a test on behalf of the player — for example, to see if they have noticed something (a Perception test), realized something (a COG×3 test), or has some piece of knowledge (a Profession, Craft or Knowledge check).
+These are <em>Passive Tests</em>, since they are made “automatically” on the player’s behalf.
+Passive checks have a -20 penalty (the players should be proactive in using their skills, after all).
+Generally, Passive tests are made in secret by the GM; if a player later makes an appropriate test, then the result of the test that the player made takes precedence (although events may unfold in such a way that a player cannot call for such a check later).</li>
+</ul>
+<h3 id="common-knowledge"><a class="header" href="#common-knowledge">Common Knowledge</a></h3>
+<p>While we're talking about skills and checks, a final quick note is a time when a skill check specifically <em>is not</em> required.
+If you have 10 ranks in a skill, you are considered to have <strong>basic competency</strong> and <strong>common knowledge</strong> in that skill; this allows you to make basic use of that skill, and to have access to common knowledge related to the skill, without requiring a check.
+As an example, with <em>basic competency</em> in Survival, you can navigate through a five-mile walk, or make camp in good weather with good equipment; with <em>common knowledge</em> in a Profession: Blacksmith, you could identify the basic steps that would be involved in making an item, or whether something would be simple or difficult to make.</p>
+<p>Note the threshold for having <em>basic competency</em> and <em>common knowledge</em> is the same as the threshold for being able to assist a character, and the threshold at which a skill is eligible to be a <em>related skill</em> — 10 ranks.</p>
+<h2 id="actions"><a class="header" href="#actions">Actions</a></h2>
+<p>Broadly speaking, we break the actions that characters take into five types:</p>
+<ul>
+<li><strong>Standard actions</strong>:
+<ul>
+<li>An action that doesn’t take much time, but that you need to focus on.</li>
+<li>Examples: attacking with a weapon, knocking over a dresser, kicking in a door.</li>
+</ul>
+</li>
+<li><strong>Quick actions</strong>:
+<ul>
+<li>An action that doesn’t take much time, and that you don’t need to focus on.</li>
+<li>Examples: moving, yelling something, retrieving a stored item, drawing a weapon.</li>
+</ul>
+</li>
+<li><strong>Task actions</strong>:
+<ul>
+<li>An action that takes time (but less than a day), and that you need to focus on.</li>
+<li>Examples: brewing a potion, picking a lock, buying goods in town.</li>
+<li>Note: Tasks that take 8 hours of work or more should generally be handled as Jobs and done during Down-Time.</li>
+</ul>
+</li>
+<li><strong>Sustained actions</strong>:
+<ul>
+<li>An action that takes time, but that you don’t need to focus on, so you can do it while doing something else.</li>
+<li>Examples: keeping an eye out for a mark during an opera, leaving a trail of bread-crumbs while traveling, memorizing a route while being forced to march, <em>sustaining powers.</em></li>
+<li>You can take other actions while maintaining a Sustained Action, and you can maintain more than one Sustain action at a time.</li>
+<li>However, maintaining multiple Sustained Actions is distracting; you take a -10 penalty to all tests for each Sustained Action you maintain beyond the first.</li>
+<li>So, for example, if you maintain three Sustained Actions, you take a -20 penalty to all tests.</li>
+<li>Sustain actions don't have a specific upper limit for how long you can maintain them, but your GM might not allow you to maintain them for more than a reasonable amount of time, or might require additional checks or impose additional consequences.</li>
+</ul>
+</li>
+<li><strong>Jobs</strong>:
+<ul>
+<li>Jobs have time-frames measured in <em>shifts</em>, where a shift is one continuous eight-hour work session.</li>
+<li>For most characters — characters that need to sleep and eat, and that have a &quot;normal&quot; circadian rhythm — a shift is roughly equivalent to one day of work.</li>
+<li>Jobs are mainly used during Down-Time Play</li>
+</ul>
+</li>
+</ul>
+<h3 id="checks-for-task-actions-and-jobs"><a class="header" href="#checks-for-task-actions-and-jobs">Checks for Task Actions and Jobs</a></h3>
+<p><em>Task actions</em> and <em>Jobs</em> have timeframes — the basic amount of time that that task takes.
+Character can usually attempt to adjust the timeframe, by either <em>taking their time</em> or <em>rushing</em>; see above.
+(The GM may rule that some tasks or jobs cannot be rushed, or tackled slowly.)</p>
+<p>If a character does not <em>rush</em> the task or job, then they might be rewarded for strong successes by reducing the timeframe of the job; a common rule is, an <em>exceptional success</em> takes half as long.</p>
+<p>If the check is failed, the character in question works for 25% of the Task Action’s timeframe or Job’s shifts (on a Failure), or 50% (on an Exceptional Failure), before realizing that the task will fail (and, presumably, stopping).</p>
+<p>Since the result of the check determines how long a task or job actually takes, if a check is called for, it must be made <em>at the beginning</em> of the task or job.</p>
+<h2 id="modes-of-play"><a class="header" href="#modes-of-play">Modes of Play</a></h2>
+<p><em>Renaissance</em> has three main modes of play: <em>Unstructured</em>, <em>Turn Order</em> and <em>Down-Time</em>.</p>
+<p><strong>Unstructured</strong> play is the &quot;normal&quot; mode; it works a little like a conversation between the GM and the players.
+In Unstructured Play, the GM describes the scene and situation — possibly with the aid of a map, drawing, or other visual aide.
+The players then ask questions and declare actions.
+The GM then answers those questions and &quot;resolves&quot; those actions (by telling player what effects their actions have).
+Of course, players don't always succeed; if success is uncertain — or if two characters are competing — the GM can call for a <em>check</em> (see above).</p>
+<p>As the name implies, in unstructured play, there are no particular rules about action allotment  or turn order (as opposed to Turn Order and Down-Time).
+However, the GM may limit the actions allowed in a given situation (for example, a character can’t try to build a tool as a one-hour Task Action if they’re in a building that’s burning down.)</p>
+<p>In <strong>turn-order</strong> play, players take <em>turns</em> in <em>initiative order</em>.
+To determine what order players take turns in, they roll their <em>initiative</em>; each player gets a <em>turn</em> in decreasing order of initiative (that is, the character with the highest initiative roll goes first).
+To roll their <strong>initiative</strong>, a player rolls 1d10 and adds their <em>Initiative Modifier</em>.
+The GM breaks ties arbitrarily (it's common to let the highest <em>initiative modifier</em> before lower initiative modifiers).</p>
+<p>Each turn gets a specific <strong>action allotment</strong>—that is, the number and type of actions that a character is allowed to attempt during their turn (see <em>Actions</em> above).</p>
+<p>When GM's begin <strong>turn order</strong> play, they should tell player what formula to use for their <em>initiative modifier</em>, and what <em>action allotment</em> each turn is going to get.
+If the GM includes Task Actions in the action allotment, then the GM should specify <em>how much time</em> a character can contribute to a Task Action during their turn–for example, the GM might include “Five minute task actions” in the action allotment.
+On the other hand, if the GM doesn’t include Task Actions in the action allotment, then progress towards Task Actions won't be tracked during that turn-order sequence; a player who wishes to continue working on a Task Action simply loses their turn(s).
+Likewise, Jobs aren’t tracked during Turn Order; a player who wants to keep working on a Job during Turn Order simply loses their turn(s).</p>
+<p>Combat is a special case of Turn Order play with extensive rules, including a specific initiative modifier and action allotment; see <em>Combat</em>.</p>
+<p>Finally, <strong>Down-Time</strong> focuses on long-term actions.
+Down-Time is measured in <em>shifts</em>: on any day, a character can spend 8 hours working on a Job; if they do, that Job is one Shift closer to being complete.</p>
+<p>Your GM might allow you to work more or less time, and to earn shifts more slowly or quickly; this is entirely at the GM's discretion.
+In particular, races that don’t need to sleep have an obvious opportunity to earn more than one Shift in a day.</p>
+<p>As an alternative to working on a Job, a player can spend a shift to complete one or more task actions — recall that Task Actions should take less than 8 hours, so you should always be able to finish at least one Task Action per day.</p>
+<div class="asside">
+<div class="asside-title">Interrupting Actions</div>
+<p>Sometimes it’s possible to interrupt an action — if one character breaks into the workshop where another character is working, for example.
+We don’t provide fixed rules for this, because no fixed set of rules could be comprehensive without being unwieldy.
+GMs are encouraged to adjudicate such situations as they arise.</p>
+</div>
+<h2 id="duration-of-play"><a class="header" href="#duration-of-play">Duration of Play</a></h2>
+<p>We usually break games up into <em>adventures</em>, <em>sessions</em> and <em>scenes</em>.
+An adventure consists of one &quot;story ark&quot;—for example, the party's attempt to determine why a <em>forrest of rapidly-growing trees consumed a town</em>, or <em>to defeat a supernatural, ichor-spreading monster</em>.
+A <em>session</em> is one continuous play-session — from the time that the players meet to when they go home.
+A <em>scene</em> is one specific scenario in an adventure — one large fight, one social encounter, or one infiltration attempt.
+(Note that we mean &quot;scene&quot; in an informal sense — you aren't expected to divide your scenarios into explicit scenes, and you don't need to tell your players when a scene begins or ends).</p>
+<p>The &quot;archetypical&quot; Renaissance adventure is assumed to consist of between 5 and 9 sessions, with each session taking about 4 hours and having between three and six scenes in each session.
+Of course, not every group will break their adventures up the way the authors normally do; some may prefer, for example, much longer sessions.</p>
+<p>Some game mechanisms depend on <em>adventures</em>, <em>sessions</em> and <em>scenes</em> — for example, characters gain one <em>Luck Point</em> at the beginning of each <em>session</em> (see <em>Luck</em> in <em>Cheating Reality</em>).
+If your group plays very long (or very short) sessions, your GM may need to adjust how often session-dependent events occur.
+The GM can declare a <em>session break</em> (or &quot;long rest,&quot; if you prefer); this is treated like a normal break between sessions, during which, for example, characters will gain a <em>Luck Point</em>.</p>
+<div class="asside">
+<p>Here, &quot;session break&quot; is a special keyword that is important to the rules; we're not saying that the GM has to give you a Luck Point every time the group takes a five-minute bathroom break.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/11-representing-a-character.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/11-representing-a-character.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

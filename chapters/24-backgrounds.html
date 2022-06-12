@@ -1,0 +1,348 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Backgrounds - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/00-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/01-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/02-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/03-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/04-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li class="chapter-item expanded "><a href="../chapters/05-languages.html"><strong aria-hidden="true">4.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/06-organizations.html"><strong aria-hidden="true">5.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/07-other-races.html"><strong aria-hidden="true">6.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/07.1-the-kingdoms-of-men.html"><strong aria-hidden="true">6.1.</strong> The Kingdoms of Men</a></li><li class="chapter-item expanded "><a href="../chapters/07.2-the-shaded-sea-people.html"><strong aria-hidden="true">6.2.</strong> The Shaded-Sea People</a></li><li class="chapter-item expanded "><a href="../chapters/07.3-the-raptors-protectorate.html"><strong aria-hidden="true">6.3.</strong> The Raptors Protectorate</a></li><li class="chapter-item expanded "><a href="../chapters/07.4-the-goblin-empire.html"><strong aria-hidden="true">6.4.</strong> The Goblin Empire</a></li><li class="chapter-item expanded "><a href="../chapters/07.5-deep-explorer-dwarves.html"><strong aria-hidden="true">6.5.</strong> Deep-Explorer Dwarves</a></li><li class="chapter-item expanded "><a href="../chapters/07.6-foam-and-cloud.html"><strong aria-hidden="true">6.6.</strong> Foam-and-Cloud</a></li><li class="chapter-item expanded "><a href="../chapters/07.7-mudskipper-federation.html"><strong aria-hidden="true">6.7.</strong> The Mudskipper Federation</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08-the-supernatural.html"><strong aria-hidden="true">7.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html"><strong aria-hidden="true">8.</strong> The Unplacable Text Describing What Adventures Look Like</a></li><li class="chapter-item expanded "><a href="../chapters/10-basic-rules.html"><strong aria-hidden="true">9.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/11-representing-a-character.html"><strong aria-hidden="true">10.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/12-combat.html"><strong aria-hidden="true">11.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/13-injury-and-recovery.html"><strong aria-hidden="true">12.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/14-travel.html"><strong aria-hidden="true">13.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/15-magic.html"><strong aria-hidden="true">14.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/16-features.html"><strong aria-hidden="true">15.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/17-wealth-income-and-lifestyles.html"><strong aria-hidden="true">16.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/18-luck.html"><strong aria-hidden="true">17.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/19-motivations-and-milestones.html"><strong aria-hidden="true">18.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/20-skills.html"><strong aria-hidden="true">19.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/21-character-creation-and-advancement.html"><strong aria-hidden="true">20.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/22-senses-movements-and-special-abilities.html"><strong aria-hidden="true">21.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/23-races.html"><strong aria-hidden="true">22.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/23.1-common-races.html"><strong aria-hidden="true">22.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.2-uncommon-races.html"><strong aria-hidden="true">22.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.3-neighboring-races.html"><strong aria-hidden="true">22.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.4-exotic-races.html"><strong aria-hidden="true">22.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/24-backgrounds.html" class="active"><strong aria-hidden="true">23.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/25-traits.html"><strong aria-hidden="true">24.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/26-classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/27-powers.html"><strong aria-hidden="true">26.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/28-items.html"><strong aria-hidden="true">27.</strong> Items</a></li><li class="chapter-item expanded affix "><li class="part-title">For Players and GMs</li><li class="chapter-item expanded "><a href="../chapters/29-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/30-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/31-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/32-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/33-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/34-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/35-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/36-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/37-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/38-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/39-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/40-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="backgrounds"><a class="header" href="#backgrounds">Backgrounds</a></h1>
+<h2 id="backgrounds-1"><a class="header" href="#backgrounds-1">Backgrounds</a></h2>
+<p>Your <em>Background</em> represents what you have gained from your early life experiences — the influences your culture had on you, from growing up wherever you grew up.</p>
+<p>Note that the list of backgrounds presented here is far from exhaustive: these are merely the most common and general backgrounds, capable of representing most common cultures and backgrounds in the Commonwealth.
+Players and GMs should feel free to modify these backgrounds to represent a character's unique origins (players require their GM's approval, of course).
+Notably, many of the races that have joined the Commonwealth have their own unique culture (or cultures); to represent this, many of the races in the <em>Races</em> section have their own unique backgrounds.</p>
+<p>Note also that none of these backgrounds should be taken to be exclusive to a given race; the &quot;common races&quot; list is intended merely as a guide.
+It's entirely possible for a Human to grow up in a trival society, or a Shifter to grow up in one of the Commonwealth's large cities.
+Note that this is even true of the optional racial backgrounds presented in the <em>Races</em> section: it's entirely possible for a Human to grow up among Gnolls and Halflings in a trade-caravan, for example, or for a Gnoll to grow up in an Ash-Elven undercity.</p>
+<div class="asside">
+<div class="asside-title">What should be in a background</div>
+<p>Most of the backgrounds give you 40CP of benefits, which represent the skills and resources that most members of your culture acquire.</p>
+<p>Ranks in skills, traits, and items are common choices; these repesent the skills that every member of a culture would acquire, the abilities that people commonly learn, and the kinds of possessions that are common among them.
+Ranks in skills are usually a good place to start; you can branch out into traits and items if you can't come up with 40 CP of particularly unique or exciting ranks in skills.
+(There's no reason a background can't award a class or power, but in our opinion this makes a little less sense and is a little harder to balance, and so is often best avoided.)</p>
+<p>Backgrounds <em>usually</em> shouldn't include things that it's impossible to acquire somewhere else, although this is mostly for &quot;game design and balance&quot; reasons; we find it very frustrating to force people into taking a particular background in order to have access to some trait or skill.
+(This is why most of the Optional Racial Backgrounds give you some of the other Optional traits for that race, which you can in principle purchase separately.)</p>
+</div>
+<h4 id="dragonshire"><a class="header" href="#dragonshire">Dragonshire</a></h4>
+<p>You were born in the former-Kingdom of the Dragonshire</p>
+<ul>
+<li>
+<p>10 ranks in Knowledge: History</p>
+</li>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks in one <em>Combat</em> skill</p>
+</li>
+<li>
+<p>10 ranks in one other <em>Social</em> skill (besides Protocol)</p>
+</li>
+<li>
+<p>Common Races: Humans, Drakes</p>
+</li>
+<li>
+<p>Common Languages: Rak, Weal, Royal</p>
+</li>
+</ul>
+<h4 id="haven-mountains"><a class="header" href="#haven-mountains">Haven Mountains</a></h4>
+<p>You were born in one of the subterranean communities that have taken up residence in the Haven Isles.</p>
+<ul>
+<li>
+<p>10 ranks in Knowledge (pick a field)</p>
+</li>
+<li>
+<p>10 ranks in Profession (pick a field)</p>
+</li>
+<li>
+<p>10 ranks in Control or Spellcraft (your choice)</p>
+</li>
+<li>
+<p>a Sleight or Spell that you qualify for.</p>
+</li>
+<li>
+<p>Common Races: Ash Elves, Dwarves, Kobolds</p>
+</li>
+<li>
+<p>Common Languages: Islander</p>
+</li>
+</ul>
+<h4 id="manor-child"><a class="header" href="#manor-child">Manor Child</a></h4>
+<p>You were born in a manor in Heartland Province.</p>
+<ul>
+<li>
+<p>10 ranks in two <em>Trade</em> skills of your choice</p>
+</li>
+<li>
+<p>one skill kit</p>
+</li>
+<li>
+<p>one weapon or armor of Moderate cost.</p>
+</li>
+<li>
+<p>the Tough trait</p>
+</li>
+<li>
+<p>Common Races: Gnolls, Humans, Halflings, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Heartland Gnoll, Weal, <em>regional languages</em></p>
+</li>
+</ul>
+<h4 id="professional"><a class="header" href="#professional">Professional</a></h4>
+<p>You are part of the nascent middle class of traders and professionals.</p>
+<ul>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks in two <em>Technical</em> skills</p>
+</li>
+<li>
+<p>either two Skill Kits or one Shop</p>
+</li>
+<li>
+<p>Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Weal, Islander, Common</p>
+</li>
+</ul>
+<h4 id="tribesman"><a class="header" href="#tribesman">Tribesman</a></h4>
+<p>You are from one of the tribal or traditional societies that live in the vast forrest between Westward and Northland provinces.</p>
+<ul>
+<li>
+<p>10 ranks in Handle Animal</p>
+</li>
+<li>
+<p>10 ranks in Survival</p>
+</li>
+<li>
+<p>10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter</p>
+</li>
+<li>
+<p>the Ready Trait</p>
+</li>
+<li>
+<p>Common Races: Shifters, (Wood) Elves, Herders, Gnolls, Humans, <em>others</em></p>
+</li>
+<li>
+<p>Common Languages: <em>tribal languages</em> (many tribes speak their own unique languages)</p>
+</li>
+</ul>
+<h4 id="urbanite"><a class="header" href="#urbanite">Urbanite</a></h4>
+<p>You are from one of the Commonwealth’s large urban centers.</p>
+<ul>
+<li>
+<p>one dot in Language: Common</p>
+</li>
+<li>
+<p>one Skill Kit</p>
+</li>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks each in two <em>Social</em> or <em>Technical</em> skills of your choice</p>
+</li>
+<li>
+<p>Common Races: Kobolds, Humans, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Weal</p>
+</li>
+</ul>
+<h4 id="wayfarer"><a class="header" href="#wayfarer">Wayfarer</a></h4>
+<p>Wanderers, vagrants and transients by birth, choice or circumstance.</p>
+<ul>
+<li>
+<p>10 ranks in Survival</p>
+</li>
+<li>
+<p>10 ranks in Medicine</p>
+</li>
+<li>
+<p>1 dot in Common</p>
+</li>
+<li>
+<p>1 Skill Kit</p>
+</li>
+<li>
+<p>the Alert Trait</p>
+</li>
+<li>
+<p>Common Races: any</p>
+</li>
+<li>
+<p>Common Languages: any</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/23.4-exotic-races.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/25-traits.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/23.4-exotic-races.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/25-traits.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

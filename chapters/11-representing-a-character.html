@@ -1,0 +1,335 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Representing a Character - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/00-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/01-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/02-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/03-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/04-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li class="chapter-item expanded "><a href="../chapters/05-languages.html"><strong aria-hidden="true">4.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/06-organizations.html"><strong aria-hidden="true">5.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/07-other-races.html"><strong aria-hidden="true">6.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/07.1-the-kingdoms-of-men.html"><strong aria-hidden="true">6.1.</strong> The Kingdoms of Men</a></li><li class="chapter-item expanded "><a href="../chapters/07.2-the-shaded-sea-people.html"><strong aria-hidden="true">6.2.</strong> The Shaded-Sea People</a></li><li class="chapter-item expanded "><a href="../chapters/07.3-the-raptors-protectorate.html"><strong aria-hidden="true">6.3.</strong> The Raptors Protectorate</a></li><li class="chapter-item expanded "><a href="../chapters/07.4-the-goblin-empire.html"><strong aria-hidden="true">6.4.</strong> The Goblin Empire</a></li><li class="chapter-item expanded "><a href="../chapters/07.5-deep-explorer-dwarves.html"><strong aria-hidden="true">6.5.</strong> Deep-Explorer Dwarves</a></li><li class="chapter-item expanded "><a href="../chapters/07.6-foam-and-cloud.html"><strong aria-hidden="true">6.6.</strong> Foam-and-Cloud</a></li><li class="chapter-item expanded "><a href="../chapters/07.7-mudskipper-federation.html"><strong aria-hidden="true">6.7.</strong> The Mudskipper Federation</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08-the-supernatural.html"><strong aria-hidden="true">7.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/09-the-unplacable-text-describing-what-adventures-look-like.html"><strong aria-hidden="true">8.</strong> The Unplacable Text Describing What Adventures Look Like</a></li><li class="chapter-item expanded "><a href="../chapters/10-basic-rules.html"><strong aria-hidden="true">9.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/11-representing-a-character.html" class="active"><strong aria-hidden="true">10.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/12-combat.html"><strong aria-hidden="true">11.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/13-injury-and-recovery.html"><strong aria-hidden="true">12.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/14-travel.html"><strong aria-hidden="true">13.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/15-magic.html"><strong aria-hidden="true">14.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/16-features.html"><strong aria-hidden="true">15.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/17-wealth-income-and-lifestyles.html"><strong aria-hidden="true">16.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/18-luck.html"><strong aria-hidden="true">17.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/19-motivations-and-milestones.html"><strong aria-hidden="true">18.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/20-skills.html"><strong aria-hidden="true">19.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/21-character-creation-and-advancement.html"><strong aria-hidden="true">20.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/22-senses-movements-and-special-abilities.html"><strong aria-hidden="true">21.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/23-races.html"><strong aria-hidden="true">22.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/23.1-common-races.html"><strong aria-hidden="true">22.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.2-uncommon-races.html"><strong aria-hidden="true">22.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.3-neighboring-races.html"><strong aria-hidden="true">22.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/23.4-exotic-races.html"><strong aria-hidden="true">22.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/24-backgrounds.html"><strong aria-hidden="true">23.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/25-traits.html"><strong aria-hidden="true">24.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/26-classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/27-powers.html"><strong aria-hidden="true">26.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/28-items.html"><strong aria-hidden="true">27.</strong> Items</a></li><li class="chapter-item expanded affix "><li class="part-title">For Players and GMs</li><li class="chapter-item expanded "><a href="../chapters/29-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/30-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/31-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/32-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/33-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/34-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/35-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/36-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/37-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/38-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/39-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/40-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="representing-a-character"><a class="header" href="#representing-a-character">Representing a Character</a></h1>
+<h2 id="characters"><a class="header" href="#characters">Characters</a></h2>
+<p>Characters are represented by the following:</p>
+<ul>
+<li><strong>Aptitudes</strong>, which represent a character's fundamental mental abilities.
+<ul>
+<li>Each Aptitude has a <em>rating</em> between 1 and 40, representing your character’s ability with that aptitude.</li>
+<li>Cognition (COG): your characters ability to analyze, reason and plan.</li>
+<li>Coordination (COO): your character's ability to manage their posture and balance, and their reaction speed.</li>
+<li>Intuition (INT): your character’s ability to master “unwritten rules” and pick up on subconscious queues.</li>
+<li>Savvy (SAV): your character’s ability to manage social situations.</li>
+<li>Somatics (SOM): your character’s ability to manage your body.</li>
+<li>Willpower (WIL): your character’s self-discipline.</li>
+</ul>
+</li>
+<li>A <strong>race</strong>, which represents your character's species.
+Your race gives you:
+<ul>
+<li>Durability and Strength scores,</li>
+<li>aptitude bonuses,</li>
+<li>senses and movement modes,</li>
+<li>a size, and</li>
+<li>special characteristics, like a Gnoll’s thick hide or a Shifter’s ability to change shape.</li>
+</ul>
+</li>
+<li>A <strong>background</strong>, which represent where your character is from.
+<ul>
+<li>provides you with ranks in skills, and sometimes other benefits.</li>
+</ul>
+</li>
+<li>Ranks in <strong>skills</strong>, which represent the things your character has learned to do.</li>
+<li>Dots in <strong>languages</strong></li>
+<li><strong>Features</strong>, including Traits, Powers, and Classes
+<ul>
+<li><strong>Traits</strong> represent quirks your character has, like being ambidextrous</li>
+<li><strong>Powers</strong> represent special abilities that your character has, like a special sword maneuver that your character is good at, or the magical ability to manifest a ball of fire</li>
+<li><strong>Classes</strong> represent associations your characters has, which usually either represent some organization that you can call on for aide, or allow you “break a rule” in an interesting way.</li>
+</ul>
+</li>
+<li><strong>Wealth</strong>, <strong>Wealth Dots</strong> and <strong>Items</strong>, which represents your characters financial resources and possessions.</li>
+<li><strong>Luck</strong> and <strong>Luck Points</strong></li>
+<li><strong>Motivations</strong> and <strong>Milestones</strong></li>
+<li><strong>Vital Statistics</strong>, including <strong>Derived Statistics</strong> that are determined based on the character's other statistics and attributes:
+<ul>
+<li>Durability and Strength scores</li>
+<li>Wound Threhsold (WT): DUR ÷ 5</li>
+<li>Death Rating (DR): DUR × 2</li>
+<li>Lucidity (LUC): WIL × 2</li>
+<li>Trauma Threshold (TT): LUC ÷ 5</li>
+<li>Insanity Rating (IR): LUC × 2</li>
+<li>Initiative Scores (INIT)
+<ul>
+<li>Different kinds of <em>initiative order</em> can have different initiative scores.</li>
+<li>Your <em>combat initiative</em> is (INT + COO) ÷ 5</li>
+</ul>
+</li>
+<li>Damage Bonus (DB): (SOM + STR) ÷ 10</li>
+<li>Carrying Capacity: STR ÷ 5</li>
+</ul>
+</li>
+</ul>
+<p>Some limits always apply.
+Characters may not have:</p>
+<ul>
+<li>more than 70 ranks in a skill</li>
+<li>an aptitude higher than 40</li>
+<li>more than 10 Luck</li>
+<li>more than 50 DUR or STR</li>
+</ul>
+<h2 id="aptitudes"><a class="header" href="#aptitudes">Aptitudes</a></h2>
+<p>We use the following five <strong>aptitudes</strong> in <em>Renaissance</em>:</p>
+<ul>
+<li>Cognition (COG): a character's ability to analyze, reason and plan.</li>
+<li>Coordination (COO): a character's ability to manage their posture and balance, their ability to get their body into different configurations, and their reflexes.</li>
+<li>Intuition (INT): a character’s ability to pick up on patterns, to master “unwritten rules”, and to pick up on subconscious queues.</li>
+<li>Savvy (SAV): a character’s ability to manage social situations.</li>
+<li>Somatics (SOM): a character’s ability to manage their body.</li>
+<li>Willpower (WIL): a character’s self-discipline.</li>
+</ul>
+<p>Each aptitude has a rating between 1 and 40, with 15 being considered average.</p>
+<p>Some characters don't have ratings in certain aptitudes; a formless creature, for example, might not have a SOM score.
+Characters don't have a rating in a certain aptitude will have a dash (&quot;-&quot;) listed for that aptitude in their description.</p>
+<p>Some affects may raise or lower a character's aptitudes.
+If an effect lowers an aptitude to 0, that will generally incapacitate a character; for example, lowering a character's COG to 0 might render them unconscious or irrational, while a lowering a character's SOM or COO to 0 might paralyze them.</p>
+<div class="asside">
+<div class="asside-title">Somatics, the Mental Part of Strength</div>
+<p>Somatics (SOM) sounds like some kind of “mental strength score.”
+How does that make sense?</p>
+<p>Partly, that’s just to make the skill system work: some physical skills (like Unarmed Combat) need an attribute to be linked to — or else we’d need to build special cases for them into the rules.</p>
+<p>However, that’s also how the body <em>actually works</em>.
+The central nervous system has to learn to recruit and manage the muscles of the body, and some people really do learn to do this better than others!</p>
+</div>
+<div class="asside">
+<div class="asside-title">Does WIL Mater</div>
+<p>Players who read the skill section might notice that some aptitudes are linked to many more skills than others; notably, WIL is linked to only one skill — Control!
+Does that mean that WIL doesn’t matter?</p>
+<p>Absolutely not!
+WIL is used to determine your Lucidity (LUC) (and with it, your Trauma Threshold and Insanity Rating (your TT and IR).
+Also, WIL×3 checks are commonly used to resist fear and stress.</p>
+</div>
+<h2 id="race"><a class="header" href="#race">Race</a></h2>
+<p>A character's race represents what species they are; are they a Drake, a Gnoll, a Human, or something else?</p>
+<p>Different races have different physical abilities.
+A character's race will generally also provide:</p>
+<ul>
+<li>their Durability (DUR) and Strength (STR) scores,</li>
+<li>bonuses to specific aptitudes,</li>
+<li>senses and movement modes,</li>
+<li>their size, and</li>
+<li>special characteristics and abilities.</li>
+</ul>
+<p>Note that <em>race</em> and <em>culture</em> are separate, with race only representing those characteristics that are biologically innate, like claws or a keen sense of smell.</p>
+<h2 id="background"><a class="header" href="#background">Background</a></h2>
+<p>A character's <strong>background</strong> represents a character's culture — whether one they where raised in, or one that they have adopted.</p>
+<p>Backgrounds will generally provide ranks in <em>skills</em> common to a specific culture; some may also include common items, traits, or other benefits.</p>
+<h2 id="features"><a class="header" href="#features">Features</a></h2>
+<p>Characters can also have <strong>traits</strong>, <strong>powers</strong>, and <strong>classes</strong> (which we sometimes collectively refer to as a character's <strong>features</strong>).</p>
+<ul>
+<li><strong>Traits</strong> represent quirks your character has, like being ambidextrous</li>
+<li><strong>Powers</strong> represent special abilities that your character has, like a special sword maneuver that your character is good at, or the magical ability to manifest a ball of fire</li>
+<li><strong>Classes</strong> represent associations your characters has, which usually either represent some organization that you can call on for aide, or allow you “break a rule” in an interesting way.</li>
+</ul>
+<h2 id="wealth-and-possessions"><a class="header" href="#wealth-and-possessions">Wealth and Possessions</a></h2>
+<p><strong>Wealth</strong>, <strong>Wealth Dots</strong>, and <strong>Items</strong> represent your characters financial resources and possessions.</p>
+<h2 id="motivations-and-milestones"><a class="header" href="#motivations-and-milestones">Motivations and Milestones</a></h2>
+<p>Motivations and milestones represent a character's fundamental goals and guiding beliefs, and the significant events that have shaped them.</p>
+<h2 id="vital-statistics-and-derived-statistics"><a class="header" href="#vital-statistics-and-derived-statistics">Vital Statistics and Derived Statistics</a></h2>
+<p>Characters also have a number of <strong>vital statistics</strong>, many of which are derived from their aptitudes and other statistics (making them <strong>derived statistics</strong>).</p>
+<table><thead><tr><th>Derived Statistic</th><th>Value</th></tr></thead><tbody>
+<tr><td>Wound Threshold (WT)</td><td>DUR ÷ 5</td></tr>
+<tr><td>Death Rating (DR)</td><td>DUR × 2</td></tr>
+<tr><td>Lucidity (LUC)</td><td>WIL × 2</td></tr>
+<tr><td>Trauma Threshold (TT)</td><td>LUC ÷ 5</td></tr>
+<tr><td>Insanity Rating (IR)</td><td>LUC × 2</td></tr>
+<tr><td>(Combat) Initiative Score (INIT)</td><td>(INT + COO) ÷ 5</td></tr>
+<tr><td>Damage Bonus (DB)</td><td>(SOM + STR) ÷ 10</td></tr>
+<tr><td>Carrying Capacity (CC)</td><td>STR ÷ 5</td></tr>
+</tbody></table>
+<p>Note that, when your aptitudes or statistics change, any of the other statistics <em>derived</em> from them also change.
+So, for example, if something changes your <em>SOM</em>, your <em>damage bonus</em> will also change.</p>
+<h2 id="minor-npcs"><a class="header" href="#minor-npcs">Minor NPCs</a></h2>
+<p>NPCs, especially minor NPCs, may be missing some of these attributes.
+In particular:</p>
+<ul>
+<li>Minor NPCs don't have <em>luck</em> or <em>luck points</em>.</li>
+<li>NPCs often don't have <em>backgrounds</em>.</li>
+<li>Minor NPCs often don't have wealth dots (but they can have items and trade goods).</li>
+<li>Minor NPCs often don't have motivations or milestones.</li>
+</ul>
+<h2 id="global-limits"><a class="header" href="#global-limits">&quot;Global&quot; Limits</a></h2>
+<p>Some limits always apply; we call these &quot;global limits&quot;.</p>
+<p>Characters may not have:</p>
+<ul>
+<li>more than 70 ranks in a skill</li>
+<li>an aptitude higher than 40</li>
+<li>more than 10 Luck</li>
+<li>more than 50 DUR or STR</li>
+</ul>
+<p>If an effect would increase a statistic past its global limit, any excess is wasted.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/10-basic-rules.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/12-combat.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/10-basic-rules.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/12-combat.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
