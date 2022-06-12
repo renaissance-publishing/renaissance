@@ -435,6 +435,15 @@ If a creature has "Resistance: Fire (Immune)", a GM might declare that a power t
 |
 |We're not there yet, but we're getting closer.
 
+## Resistance and Vulnerability 2
+
+Some creature, objects or armors have special **Resistances** or **Vulnerabilities**.
+The Resistance or Vulnerability will name the *Tags* to which they apply; any attack or effect with a matching tag will be subject to the Resistance or Vulnerability.
+They may also have a *level*; assume the resistance or vulnerability is level 1 if it is not specified.
+For example, "Resistance: Fire" would mean that a character has 1 level of resistance against attacks with the fire tag; "Vulnerability: Ice 2" would mean that the creature has two points of vulnerability to attacks with the ice tag.
+
+
+
 ## Reactions
 
 Under some situations, you can take an action (or you will be *forced* to take an action) even though it isn’t your turn.
