@@ -123,7 +123,7 @@ if __name__ == '__main__':
     """
 
     inp = sys.stdin.read()
-    with open("inp.json", "a") as ofile: ofile.write(inp)
+    #with open("inp.json", "a") as ofile: ofile.write(inp)
     context, book = json.loads(inp)
 
 #    context, book = json.load(sys.stdin)

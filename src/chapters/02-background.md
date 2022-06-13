@@ -116,6 +116,8 @@ Several former allies also signed onto the Compact, being incorporated as member
 
 ### A Brief Timeline
 
+| Year    | Event |
+| ------: | --- |
 | CY -578 | Human city-state of *Hanman* founded |
 | CY -385 | Empire of Man founded |
 | CY -227 | Karrach leads local rebellion, claims land west of Drake's Peaks as his own domain. |
