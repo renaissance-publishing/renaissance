@@ -631,11 +631,11 @@ You have developed a kind of battle-trance, in which your combat instincts are h
 While centered, you strike with extra force.
 
 - **Requirements:** the *Center* power, 20 ranks in Control
-- **Effect:** WhilStance | You adopt a e sustaining Center, You gain +Trance Bonus to your DV.
+- **Effect:** While sustaining Center, You gain +Trance Bonus to your DV.
 
 #### Centered Defence
 
-While centered, your defence is improved.
+While centered, your defense is improved.
 
 - **Requirements:** the *Center* power, 20 ranks in Control, 10 ranks in Fray
 - **Effect:** While sustaining *Center*, you gain +10 to your defence.
