@@ -1,4 +1,6 @@
-# Fireball
+# A list of powers.
+
+[Fireball]
 %Fluff%
 You can manifest a fireball in your hand.
 %Requires%
@@ -13,58 +15,66 @@ You manifest a ball of fire in your hand.
 - You can voluntarily dismiss the ball of fire (which is handy, because sleeping with a ball of fire in your hand is ill-advised).
 - The ball of fire is, of course, fire, and effects other objects as such. (It will burn other people for 1d10 DV, plus 1 per ten ranks of Spellcraft; it may set a character on fire if an exceptional success is scored.)
 - Clarification: since the ball of fire is treated just like any other small object, it can be thrown at an opponent (using all the rules for a ranged attack with a thrown weapon, doing the listed damage, and having the Fire tag), or it can be pressed into an opponent to burn them (a touch-only attack, doing the listed damage, having the Fire tag).
+//
 
-# Exploding Fireball
+[Exploding Fireball]
 %Requires%
 Fireball and 20 ranks in Spellcraft
 %Effect%
 When using the Fireball power, when your fireball expires (either because you dismissed it or because it left contact with you), you may choose to have it explode. Treat this as a Blast effect, which does your fireball’s damage.  (See the rules for Blast effects in Combat)
+//
 
-# Intense Fire
+[Intense Fire]
 %Requires%
 20 ranks in Spellcraft
 %Effect%
 Your fire spells do an additional 1d10 DV of damage and have AP -1.
+//
 
-# Jump
+[Jump]
 %Requires%
 10 ranks in Spellcraft
 %Action%
 Quick Action
 %Effect%
 You teleport, moving up to twice your Running movement.
+//
 
-# Group Jump
+[Group Jump]
 %Requires%
 Jump, 20 ranks in Spellcraft
 %Effect%
 when you teleport, you may take objects or other people with you. You may carry either one normal-sized person or 50 Kg of cargo per 10 ranks in Spellcraft.
+//
 
-# Long Jump
+[Long Jump]
 %Requires%
 Jump, 20 ranks in Spellcraft
 %Action%
 Standard Action
 %Effect%
 You teleport, moving up to 10 times your Running movement.
+//
 
-# Journey
+[Journey]
 %Requires%
 Long Jump, 30 ranks in Spellcraft
 %Action%
 Task Action (1 minute)
 %Effect%
 You teleport, moving up to 2 kilometer per 10 ranks in Spellcraft.
+//
 
-# Pilot
+[Pilot]
 %Requires%
 Journey, Group Jump
 %Action%
 Task Action (10 minutes)
 %Effect%
 You can use a Kairne to teleport; when you do so, you can teleport to any other Kairne in the network.
+//
 
-# Master
+[Master]
 %Requires%
 10 Control
 %Action%
@@ -74,8 +84,9 @@ You can use your own intrinsic magic to control (and fortify) your own life proc
 
 - While sustaining this power, you receive a +20 bonus to checks to Endure Physical Hardship.
 - While sustaining this power, you gain +1 Armor.
+//
 
-# Down-Time
+[Down-Time]
 %Fluff%
 You can enter a deep, meditative state, in which you can nourish, refresh and repair both your mind and body.
 %Requires%
@@ -87,8 +98,9 @@ Transcend, 20 Control
 - After completing the Sleight, you recover 1d10÷3 Stress.
 - While sustaining this Sleight, you are very difficult to wake; other people will need to shake you violently to wake you (a Standard Action). Other similarly violent actions  will wake you — if the building you are in collapses, or if you are attacked, for example. If you are roused from the Sleight before it completes, you suffer a -10 penalty from the exhaustion and disorientation for 1 day.
 - Special: if you have the Heal Sleight, you may also sustain it during Down Time.
+//
 
-# Fortify
+[Fortify]
 %Requires%
 20 Control
 %Action%
@@ -98,8 +110,9 @@ You can fortify your physical and mental abilities.
 
 - While you sustain this Sleight, you receive a +5 bonus to one of your Aptitudes, to your Strength, or to your Durability.
 - (Your derived stats would also change, as normal.)
+//
 
-# Heal
+[Heal]
 %Requires%
 10 Control
 %Action%
@@ -110,8 +123,9 @@ Your wounds begin to heal.
 - While sustaining this power, you have Fast Healing 1.
 - While sustaining this power, you may attempt a Control check as a Quick Action; if you succeed, you instead have Fast Healing 2.
 - Special: if you have a few minutes to focus yourself (i.e., when you are out of combat, the GM may allow you to progress to Fast Healing 2 without requiring a check.
+//
 
-# Transfer
+[Transfer]
 %Requires%
 10 Control
 %Action%
@@ -123,16 +137,18 @@ You transfer wounds from a creature that you touch to yourself.
 
 - For every turn that you sustain this power, you take 2 DV; if you do, the creature you are touching is either healed healed for 2 DUR, or one ongoing bleed effect is ended (you choose which).
 - This power cannot “transfer” wounds in this way, nor can it heal diseases, congenital defects or poisons.
+//
 
-# Regrowth
+[Regrowth]
 %Requires%
 Heal, 20 Control
 %Action%
 Task Action (1 Hour)
 %Effect%
 Roll a Control check. If you succeed, you heal one wound.
+//
 
-# Sacrifice
+[Sacrifice]
 %Requires%
 Transfer, 20 Control
 %Action%
@@ -143,8 +159,9 @@ To use this power, you must be sustaining Transfer
 You suffer one wound; if you do, the person you are transferring wounds from is healed for one wound. (Note: the wound is not *bound*, it is entirely healed.)
 
 - Using sacrifice can be stressful. A WIL×3 test can be called for to use this power; if the power is used successfully, Stress might be inflicted.
+//
 
-# Join
+[Join]
 %Requires%
 10 Ranks in Control
 %Action%
@@ -158,8 +175,9 @@ You join minds with the target, creating a Gestalt. Normally, this is an equal b
 - Unsurprisingly, this can be extremely traumatic – this is almost always the case when the target is unwilling.
 - Physical action is very difficult, given that one character must maintain physical contact with another – but it can be attempted. Appropriate penalties apply (usually -30).
 - For simplicity, assume that the Gestalt functions as one character, at least in so far as it has one initiative score and has the same allotment of actions that any individual character would have.
+//
 
-# Link
+[Link]
 %Requires%
 Join, 20 Ranks in Control
 %Action%
@@ -169,8 +187,9 @@ To use this power, you must be sustaining Join.
 
 - While sustaining Join, you can Link your mind with the target. Thereafter, as long as you continue to sustain Join, you can break physical contact with the target and maintain the Gestalt. This makes physical action far more feasible.
 - The targets cannot get more than (Your ranks in Control) × 2 meters apart from one-another, or the effect ends.
+//
 
-# Collective
+[Collective]
 %Requires%
 Join, Link, 30 Ranks in Control
 %Condition%
@@ -180,20 +199,23 @@ You must be sustaining Join, and you must have Linked with the target.
 - To remain in the Gestalt, ever element of the collective must be within the given range of at least one other element of the collective (they can form a chain).
 - Fights for dominance among collectives are more complicated. Generally, only two participants should be rolling against each other at any given time. Minds who can co-exist peacefully can nominate the strongest among them to represent their interests,
 and they can even potentially assist one-another. However, being a component of a large collective that is not at peace with itself can be a traumatic experience for all involved, even the “victors” in the fight for dominance.
+//
 
-# Shield Bash
+[Shield Bash]
 %Requires%
 10 Ranks in Blunt Weapons
 %Effect%
 you can hurt people with a shield about as well as other people can with a weapon. You can use your shield as a weapon, using your Blunt Weapons skill and doing 1d10+2+DB DV (AP -).
+//
 
-# Sneak Attack
+[Sneak Attack]
 %Requires%
 10 ranks in an Attack skill.
 %Effect%
 You are particularly good at striking weak spots. When you attack an unaware or helpless target, you inflict an additional 1d10 DV.
+//
 
-# Blur
+[Blur]
 %Requires%
 10 Ranks in Spellcraft, 10 Ranks in Stealth
 %Action%
@@ -204,8 +226,9 @@ You become translucent, making you hard to spot.
 - You gain +10 bonus to Stealth checks to avoid being seen.
 %Special%
 The Blur power is partially masked; a character with Mage Sight needs to make a Perception check to detect it.
+//
 
-# Vanish
+[Vanish]
 %Requires%
 Blur, 20 Ranks in Spellcraft, 20 Ranks in Stealth
 %Effect%
@@ -215,8 +238,9 @@ Your Blur improves; you become so difficult to spot that others may fail to noti
 - You may use Stealth to avoid being seen even if you do not have anything to hide behind. Such a Stealth check suffers a -20 modifier.
 %Special%
 Vanish is more effectively masked; a character with Mage Sight needs to make an opposed perception test to notice it, the spotting character's Perception versus the vanishing character's Spellcraft.
+//
 
-# Charm
+[Charm]
 %Requires%
 10 Ranks in Persuasion, 10 Ranks in Spellcraft
 %Action%
@@ -227,16 +251,18 @@ Conversation with you is enchanting, in a very literal sense.
 - As you spend time in conversation with someone, you can exert a magical influence over them.
 - Make an opposed test, your Persuasion versus their Resist Social Manipulation (SAV + INT). If you succeed, they will regard you as a friend, and will view your words and actions in the best possible light.
 - This does not grant you magical control of their actions, it simply implies that they will trust you and regard you favorably.
+//
 
-# Push
+[Push]
 %Requires%
 Charm, 20 Ranks in Spellcraft
 %Effect%
 You have the ability to “push” your will onto other people.
 
 - When you Charm someone, you may attempt a Persuasion check, opposed by their Resist Social Manipulation. If you win, then you may give them a single instruction, which they will carry out to the best of their ability.
+//
 
-# Weave
+[Weave]
 %Requires%
 10 Ranks in Athletics, 10 Ranks in Fray
 %Action%
@@ -248,8 +274,9 @@ You are particularly good at evasive movement.
 - You don’t have to actually move from your space to use this power. Using Weave without moving might represent focusing all your attention on parrying incoming blows, for example.
 - You get the +20 bonus to checks made to defend yourself, whether you use Athletics to defend or not. You can defend with Fray and still get the +20 bonus, for example.
 - This power is unnecessary now that we added evasive movement back.
+//
 
-# Quick Counter
+[Quick Counter]
 %Requires%
 10 Ranks in Unarmed Combat dunno about that
 %Action%
@@ -258,16 +285,18 @@ Quick Action
 You are very good at countering your opponents attacks with a nasty joint lock.
 
 - Until the beginning of your next turn, if you are attacked in melee, defend with your Unarmed Skill, win the opposed check (that is, successfully defend against an attack), and score an Exceptional Success, then you automatically grapple the person who attacked you.
+//
 
-# Quick Break
+[Quick Break]
 %Requires%
 Quick Counter, 20 Ranks in Unarmed Combat
 %Effect%
 When you counter an opponent, you may instead choose to break a joint.
 
 - When you Quick Counter an opponent, instead of grappling them, you may choose to inflict a single Wound.
+//
 
-# Blank
+[Blank]
 %Requires%
 20 Ranks in Deception
 %Action%
@@ -277,8 +306,9 @@ Though it requires some concentration, you have an uncanny ability to blank your
 
 - While sustaining this power, Read checks made against you suffer a -30 penalty.
 - However, because your neutral expression makes it hard to convey your emotional state — and might be a little unnerving — you suffer a -10 penalty to Persuasion checks.
+//
 
-# Conjure
+[Conjure]
 %Requires%
 10 Ranks in Spellcraft
 %Action%
@@ -291,8 +321,9 @@ You can form magic into physical forms, which can mimic simple objects.
 - The objects cannot have complex clockwork, cannot be alchemical or otherwise magic, and cannot sustain chemical reactions; you can form cups, knives, jugs, bags, and blades, for example; but you cannot summon potions, explosives, clocks, food or living creatures.
 - The objects you form are partially translucent, and glow with a ghostly energy; though you can control their appearance up to a point, they are obviously magical creations.
 - The objects works just like their mundane versions; they don’t hover or act on their own, for example.
+//
 
-# Eidolon
+[Eidolon]
 %Requires%
 Conjure, 10 Ranks in Control, 20 Ranks in Spellcraft
 %Action%
@@ -323,8 +354,9 @@ Because of this, GM's have the option of declaring a certain feature of a charac
 For example, a GM could declare that a Clay Man's *blind* trait is a "major drawback," and thus their eidolon is *also* blind.
 - We usually recommend that a player be allowed to use a bonus to negate a "major drawback."
 Arguably, if a Clay Man can give their eidolon the ability to grow a carapace or regenerate, it makes some sense that they could build into it the ability to see.
+//
 
-# Enhanced Eidolon
+[Enhanced Eidolon]
 %Requires%
 Eidolon, 20 Ranks in Spellcraft
 %Effect%
@@ -341,14 +373,16 @@ you have more Bonuses available. You can select from the following list, as well
   - Effect: the Eidolon can freeze something that it touches. Treat this as a Touch-Only Attack. If it hits, the target suffers 1D10 DV.
 - Spines: the Eidolon can launch spines, giving it a potent ranged attack. It gains the following attack:
   - Attack: Projectile Weapons, 1D10+DB, AP -4. Tags: Natural Weapon. Range: 20m/30m/40m
+//
 
-# Eidolons
+[Eidolons]
 %Requires%
 Eidolon
 %Effect%
 When you activate the Eidolon power, you can create a second Eidolon; if you do, each Eidolon only gets two Bonuses.
+//
 
-# Imbue
+[Imbue]
 %Requires%
 Eidolon, 20 ranks in Control
 %Effect%
@@ -356,16 +390,18 @@ You can fracture your mind, producing a copy of your consciousness for each Eido
 
 - While sustaining Eidolon, each Eidolon gets its own turn.  They act on your initiative, after your turn.
 - It’s still your mind controlling them, so you control them, and you’re aware of what they see and do.
+//
 
-# Protection
+[Protection]
 %Requires%
 *Attendant of the Mourner* Class
 %Action%
 Sustained
 %Effect%
 You gain +3 armor, and those you choose within 5m of you gain +2 armor.
+//
 
-# Rallying Cry
+[Rallying Cry]
 %Fluff%
 You can inspire others to bravery and heroism even in the direst of circumstances.
 %Requires%
@@ -379,8 +415,9 @@ Roll one of your Social Skills (the GM must approve of your choice).  If you suc
 - Normally, in order for a character to be inspired, they would need to understand what you are doing — an inspiring speech is useless to someone who doesn't speak your language.  However, some methods of inspiring bravery are universal: delivering a defiant roar can be inspiring without any language or culture in common at all.
 %Special%
 The GM may allow you to inspire those around you if you do something particularly heroic: it might be inspiring just to see you burst out of bonds or rise again in spite of grievous wounds.
+//
 
-# Diving Strike
+[Diving Strike]
 %Fluff%
 You've perfected a diving strike, using the momentum of your fall to strengthen your attack.
 %Requires%
@@ -389,8 +426,9 @@ You've perfected a diving strike, using the momentum of your fall to strengthen 
 Quick Action (Movement)
 %Effect%
 When you drop down on a target from above, you are considered to be charging; you deal the bonus damage for your charge if you fall more than 1 meter.  (This uses all the normal rules for falling and for charging.)
+//
 
-# Reckless Dive
+[Reckless Dive]
 %Fluff%
 Through some mix of talent, luck, bravery and foolishness, you can drop on targets from great heights, and usually hurt them a lot worse than you hurt yourself.
 %Requires%
@@ -399,8 +437,9 @@ the *Diving Strike* power, 20 ranks in Athletics
 When you make a Diving Strike, any fall damage that you take is also added to your attack's damage.  (You still take the given fall damage.)
 
 - For example, if you take 1d10 damage from your fall, your attack does 1d10 extra damage.
+//
 
-# Rough Landing
+[Rough Landing]
 %Fluff%
 Luckily, your opponent broke your fall!
 %Requires%
@@ -409,8 +448,9 @@ the *Reckless Dive* power, 20 ranks in Athletics
 When you use your Reckless Dive power, you may reduce the damage that you take by 1d10; your opponent still takes the full falling damage.
 
 - For example, if you would take 2d10 DV of falling damage, but you make a Diving Strike onto your opponent, then you only take 1d10 DV, but they take your weapon attack, plus 2d10 from the Reckless Dive, plus your DB because your diving strike counts as a charge (since you almost certainly fell more than 1m if you're taking falling damage).
+//
 
-# Acrobatic Strike
+[Acrobatic Strike]
 %Fluff%
 By kicking off walls, flipping over obstacles or otherwise acrobatically exploiting your environment, you can build up a lot of momentum in a short space.
 %Requires%
@@ -421,8 +461,9 @@ Varies (stunt, movement)
 When you make an appropriate *stunt move,* you are considered to be charging.  If you succeed on the movement check required for the stunt (this would normally be an Athletics check for a humanoid character), you deal your charge's bonus damage.
 
 - An "appropriate" stunt move might include kicking off a wall to strike your opponent from above, or making a running dive over an obstacle.
+//
 
-# Center
+[Center]
 %Fluff%
 Slow down.  Take a breath, in and then out.  Forget your cause, forget your opponent.  Feel the wapon, move with it, *strike*.
 You have developed a kind of battle-trance, in which your combat instincts are heightened.
@@ -434,32 +475,36 @@ Sustained.
 Your Trance Bonus is your equal to your ranks in Control ÷ 10.  You gain your Trance Bonus to your INIT.
 %Special%
 No Control test is required to activate this power, although one would likely be required to *sustain* it should you suffer a wound, or should some other sufficiently distracting event occur.
+//
 
-# Centered Strike
+[Centered Strike]
 %Fluff%
 While centered, you strike with extra force.
 %Requirements%
 the *Center* power, 20 ranks in Control
 %Effect%
 While sustaining Center, You gain +Trance Bonus to your DV.
+//
 
-# Centered Defence
+[Centered Defence]
 %Fluff%
 While centered, your defence is improved.
 %Requirements%
 the *Center* power, 20 ranks in Control, 10 ranks in Fray
 %Effect%
 While sustaining *Center*, you gain +10 to your defence.
+//
 
-# Denial
+[Denial]
 %Fluff%
 While in your battle-trance, your defence is nearly perfect.
 %Requirements%
 the *Centered Defence* power, 20 ranks in Fray
 %Effect%
 If you are subject to an attack that you could defend against with Fray while sustaining Center, you may, as a reaction, have that attack fail.  (Since this is a reaction, you can normally only do this once per turn.)
+//
 
-# Shieldwall
+[Shieldwall]
 %Fluff%
 You are expert in the use of large shields, and your defence with them is extraordinary.
 %Requirements%
@@ -469,16 +514,18 @@ If you are using a Heater Shield, Tower Shield or similar large shield, then, wh
 
 - Shieldwall cannot be used to defend against effects that would completely overwhelm you, like large explosions or seige weapons.
 - While an opponent cannot attack you directly, they might attempt to take the shield from you (by trying to grab it, for example, which might be represented by a Disarm maneuver.)
+//
 
-# Brawler's Instinct
+[Brawler's Instinct]
 %Fluff%
 Through years of experience with front-line combat, tavern brawls, law enforcement — or only Great Spirits know what else — you've gained a good instinct for when someone is about to start a fight.
 %Requirement%
 10 ranks in Perception, 10 ranks in two *combat* skills.
 %Effect%
 You do not take the Passive Test penalty to passive Perception and Read tests made against those who are planning to attack you.
+//
 
-# Brawler's Sense
+[Brawler's Sense]
 %Fluff%
 Your fighter's instinct has been honed to the point that it's almost a sixth sense — or seventh or fifth, it depends on how many sense your race normally has...
 %Requirements%
@@ -491,8 +538,9 @@ While sustaining this power, you gain *Brawler's Sense* as a sense.
 - This sense allows you to gain enough information about a nearby enemy that you can fight them effectively, even if you can't actually see them.
 - This sense always requires a perception check to use, and you must have *some* ability to perceive your opponent(s) (like being able to hear or smell them).
 - What is *nearby* is up to the GM.  Usually, any opponent within 3m is "nearby," and enemies further away may be perceptible with an additional penalty.
+//
 
-# Bound Fighter
+[Bound Fighter]
 %Fluff%
 Maybe you've been thrown in jail more than once, maybe this isn't the first meeting you've had with gangsters, or maybe you've been captured before; in any case, you've gotten pretty good at fighting while you're tied up.
 %Requirements%
@@ -505,8 +553,9 @@ When you are *bound*, you can still make an unarmed attack against someone who c
 You can't use this power if you are *completely* bound — such as if you are enclosed in something like an iron maiden.
 %Special%
 Critical hits with this attack may weaken or break weaker bindings, like ropes.
+//
 
-# Burried Alive
+[Burried Alive]
 %Fluff%
 The stuff of nightmares in Goblinoid territories, a creature that can burrow through the ground can erupt from below and drag an opponent down, partly collapsing the tunnel behind them to trap their victim.
 This can either simply *immobilize* the target, or be rapidly fatal, based on whether or not their head has been buried (or, for non-humanoid creatures, wherever they breath through).
@@ -520,8 +569,9 @@ Roll your Unarmed Combat, against your opponents Feat of Strength or React Quick
 You must be burrowing near the surface, either adjacent to or directly beneath your opponent to use this power.
 %Special%
 Instead of immobilizing your opponent, you can instead attempt to completely burry them.  This is more difficult, so you take an additional -10 penalty; if you succeed, though, they will soon begin to suffocate.
+//
 
-# Hurl an Ally
+[Hurl an Ally]
 %Fluff%
 You've practice an unusual tactic in which you fling an ally at an enemy; this is sometimes called "the Minotaur and the Frog," after a folk-legend about the tactic's use during a slave revolt in Shade-Elven lands.
 %Requirements%
@@ -540,3 +590,5 @@ You can throw an ally.
 This power represents *throwing* an ally, which is a Standard Action.  Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
 %Special%
 If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
+//
+
