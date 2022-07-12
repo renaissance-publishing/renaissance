@@ -18,13 +18,13 @@ for power in sorted(parsed["Powers"], key=lambda x: x['Name']):
         sys.stdout.write(f"{power['Fluff']}\n\n")
 
     if "Requires" in power:
-        sys.stdout.write(f"- **Requires**: {power['Requires']}\n")
+        sys.stdout.write(f"- **Requires:** {power['Requires']}\n")
     if "Action" in power:
-        sys.stdout.write(f"- **Action**: {power['Action']}\n")
-    sys.stdout.write(f"- **Effect**: {power['Effect']}\n")
+        sys.stdout.write(f"- **Action:** {power['Action']}\n")
+    sys.stdout.write(f"- **Effect:** {power['Effect']}\n")
     if 'Sections' in power:
         for section in power['Sections']:
-            sys.stdout.write(f"- {section['Label']}: {section['Content']}\n")
+            sys.stdout.write(f"- **{section['Label']}:** {section['Content']}\n")
 
     sys.stdout.write("\n")
 
