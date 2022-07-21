@@ -326,6 +326,22 @@ You've practice an unusual tactic in which you fling an ally at an enemy; this i
 Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
 - **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
 
+### Hurl an Ally
+
+You've practice an unusual tactic in which you fling an ally at an enemy; this is sometimes called "the Minotaur and the Frog," after a folk-legend about the tactic's use during a slave revolt in Shade-Elven lands.
+
+- **Requires:** The *Missile-Hurler* class.
+- **Action:** Standard Action
+- **Effect:** You can throw an ally.
+  - They must be at least one size category smaller than you (e.g. if you are Medium, you can throw a Small creature).
+  - If you don't throw them farther than your medium range, they can land safely; if you throw them further than your medium range, they take damage as if they had fallen (1d10 DV at long range, 2d10 DV at Extreme range).
+  - If the hurled creature lands at a lower point than when they where thrown, they take appropriate falling damage.
+  - If you throw your ally at an opponent, and if they were prepared for it, then they are considered to have *charged*, and can attack the targeted opponent.
+  - They can prepare as a Standard Action (during their turn), and are then considered to have "prepared" until their next turn.
+- **Special:** This power represents *throwing* an ally, which is a Standard Action.
+Much like drawing a weapon, picking up an ally to throw them requires a separate action (normally a Quick Action).
+- **Special:** If the hurled ally has the Diving Strike class, they are always considered to be *prepared.*
+
 ### Imbue
 
 - **Requires:** Eidolon, 20 ranks in Control
@@ -384,6 +400,21 @@ If you loose physical contact with the target, the power ends.
 - **Effect:** You can use your own intrinsic magic to control (and fortify) your own life processes.
   - While sustaining this power, you receive a +20 bonus to checks to Endure Physical Hardship.
   - While sustaining this power, you gain +1 Armor.
+
+### Parry with the Sheath
+
+Useful for more than just holding the weapon.
+
+- **Requires:** 10 Ranks in Fray, 10 ranks in Melee Combat
+- **Action:** Reaction
+- **Effect:** When you are attacked in melee, as a reaction, you can add +20 to your defense check.
+  - You are considered to be armed while defending in this way.
+- **Clarification:** You must declare the use of this power before you roll your defense.
+Normally, you get one reaction per "turn-cycle".
+This power is useful any time you defend, whether you're using fray, taking the full defense action, moving evasively, parrying, or doing something else.
+- **Special:** To use this power, you must name a sturdy item that you are carrying, that you could grab quickly; good candidates include sheathes, walking sticks, and cooking pans.
+  - The GM must approve of this choice.
+  - If you critically fail on your defense, you drop the item you picked.
 
 ### Pilot
 
@@ -477,6 +508,15 @@ You are expert in the use of large shields, and your defence with them is extrao
 - **Requires:** 10 ranks in an Attack skill.
 - **Effect:** You are particularly good at striking weak spots.
 When you attack an unaware or helpless target, you inflict an additional 1d10 DV.
+
+### Take the Blow
+
+If you're gonna get stabbed, you'd rather the blade turn on your ribs than pass between them.
+
+- **Requires:** 20 Ranks in Fray
+- **Action:** Automatic
+- **Effect:** While taking the *full defense* action, whenever you defend with fray, you gain +1 armor per 10 points of MoS.
+- **Special:** You do not gain this benefit if you are wearing armor with the cumbersome or heavy tags, or carrying a shield with the cumbersome or heavy tags.
 
 ### Transfer
 
