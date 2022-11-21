@@ -1,6 +1,6 @@
 # Summary
 
-[About the Game](chapters/00-about-the-game.md)
+[About the Game](chapters/00-about-the-game.md)  
 [Introduction](chapters/01-from-the-authors.md)
 
 # The Setting
@@ -8,9 +8,17 @@
 - [Background](chapters/02-background.md)
 - [The Commonwealth Today](chapters/03-the-commonwealth-today.md)
 - [A Tour of the Commonwealth](chapters/04-a-tour-of-the-commonwealth.md)
+  - [Heartland Province](chapters/04.1-heartland-province.md)
+  - [Dragonshire Province](chapters/04.2-dragonshire-province.md)
+  - [Northland Province](chapters/04.3-northland-province.md)
+  - [Westward Province](chapters/04.4-westward-province.md)
+  - [Herd-and-Pack Province](chapters/04.5-herd-and-pack-province.md)
+  - [Haven Province](chapters/04.6-haven-province.md)
+  - [City States](chapters/04.7-city-states.md)
+  - [City States and Member Peoples](chapters/04.8-member-peoples.md)
 - [Languages](chapters/05-languages.md)
 - [Organizations](chapters/06-organizations.md)
-- [Other Nations](chapters/07-other-races.md)
+- [Other Nations](chapters/07-other-nations.md)
   - [The Kingdoms of Men](chapters/07.1-the-kingdoms-of-men.md)
   - [The Shaded-Sea People](chapters/07.2-the-shaded-sea-people.md)
   - [The Raptors Protectorate](chapters/07.3-the-raptors-protectorate.md)
@@ -18,6 +26,7 @@
   - [Deep-Explorer Dwarves](chapters/07.5-deep-explorer-dwarves.md)
   - [Foam-and-Cloud](chapters/07.6-foam-and-cloud.md)
   - [The Mudskipper Federation](chapters/07.7-mudskipper-federation.md)
+  - [The Sunrise People](chapters/07.8-sunrise-people.md)
 - [The Supernatural](chapters/08-the-supernatural.md)
 
 # The Rules
@@ -46,8 +55,11 @@
 - [Classes](chapters/26-classes.md)
 - [Powers](chapters/27-powers.md)
 - [Items](chapters/28-items.md)
+  - [Combat Items](chapters/28.1-combat-equipment.md)
+  - [Magic Items](chapters/28.2-magic-items.md)
+  - [Alchemical Items](chapters/28.3-alchemical-items.md)
 
-# For Players and GMs
+# Guides, References, and Sample Content
 
 - [The Five Roles](chapters/29-the-five-roles.md)
 - [Building Characters](chapters/30-building-characters.md)
@@ -61,3 +73,4 @@
 - [Sample Module: A Crisis in Northland](chapters/38-module-monastery.md)
 - [Sample Module: The Wendigo](chapters/39-module-wendigo.md)
 - [Quick Reference](chapters/40-quick-reference.md)
+
