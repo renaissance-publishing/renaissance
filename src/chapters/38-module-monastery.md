@@ -837,3 +837,4 @@ In this case, bear the following questions in mind:
   - The monster itself?
 - What skills will the party need to have?
   - Conversely, are there any characters in the party who will not be engaged?
+  
