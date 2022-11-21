@@ -15,7 +15,7 @@
   - [Herd-and-Pack Province](chapters/04.5-herd-and-pack-province.md)
   - [Haven Province](chapters/04.6-haven-province.md)
   - [City States](chapters/04.7-city-states.md)
-  - [City States and Member Peoples](chapters/04.8-member-peoples.md)
+  - [Member Peoples](chapters/04.8-member-peoples.md)
 - [Languages](chapters/05-languages.md)
 - [Organizations](chapters/06-organizations.md)
 - [Other Nations](chapters/07-other-nations.md)
