@@ -1,10 +1,9 @@
 # Items
 
-Here we list a number of *items* that your character may have.
-Some of these items are common, like tool kits or work animals; others are rare or unique.
-This list is *by no means* exhaustive; GMs and players may of course find countless other diverse items for sale in the Commonwealth's shops, carried by travelers from the Kingdoms of Men or littered on the shores of distant islands.
+Here we present the rules for items – pricing them, acquiring them, and creating them.
+We also list a few example items for each cost category; longer lists for [combat equipment](28.1-combat-equipment.md), [magical items](28.2-magic-items.md), and [chemicals](28.3-alchemical-items.md); and rules for skill kits.
 
-Note that we also list *services* here, since *services* are acquired using the same rules (and fall into the same cost categories, see below).
+## Basic Rules
 
 Items are broken into five categories, called *cost categories*: *trivial, minor, moderate, major,* and *extreme*; these categories are described in their own sections below.
 This determines their cost both at character creation (see *Character Creation*) and when purchased using the rules for purchasing items (see *Wealth, Income and Lifestyles*).
@@ -24,11 +23,6 @@ These categories represent each item's cost, but they also correspond loosely wi
 |In principle, that difference is well below the "threshold of importance and interest" that we choose to care about in this game — and just as importantly, since an ideal "adventuring party" will include at least one "provisioner" character, that difference should also be unimportant in practice.
 |(See also *Wealth, Income and Lifestyles*.)
 
-The mages and artisans of the Commonwealth have a serviceable command of
-magic; while magical items tend to be rarer and more expensive than
-non-magical ones, a number of common magical items (and potions) are
-widely available throughout the Commonwealth.
-
 Some items have *tags*.
 Many of these tags do not have "mechanical" affects themselves — although traits, classes, powers, and other rules may refer to them.
 (The special abilities of weapons are something of an exception: combat in general has more specific rules than the rest of the game, and so the items commonly used in combat have more specific rules as well.)
@@ -40,6 +34,15 @@ For every additional *Heavy* item beyond this number, the character suffers a -1
 (Of course, GMs can apply other appropriate penalties as well; a character cannot choose to carry 500 suits of plate armor in exchange for a -495 penalty to physical checks — which would then be limited to the maximum penalty of -60.)
 
 ## Common Items by Category
+
+Here we list some examples items for each cost category.
+Some of these items are common, like tool kits or work animals; others are rare or unique.
+This list is *by no means* exhaustive; GMs and players may of course find countless other diverse items for sale in the Commonwealth's shops, carried by travelers from the Kingdoms of Men or littered on the shores of distant islands.
+
+Note that we also list *services* here, since *services* are acquired using the same rules (and fall into the same cost categories).
+
+The mages and artisans of the Commonwealth have a serviceable command of magic; while magical items tend to be rarer and more expensive than non-magical ones, a number of common magical items (and potions) are widely available throughout the Commonwealth.
+While some examples are given here, we will also provide a list of some sample magical items later.
 
 ### Trivial Items
 
