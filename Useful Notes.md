@@ -18,6 +18,7 @@ I *think* this are enumerated in gatsby-config.js\?
 * optionalrule
 * hook
 * abstract
+* note (added one in 4.2 Dragonshire)
 
 As a reminder, these look like this:
 
