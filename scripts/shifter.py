@@ -1,4 +1,4 @@
-#! /bin/python3
+#! /bin/python
 
 import sys
 import os
@@ -16,6 +16,9 @@ parser.add_argument('--end', '-e', default=None,
 parser.add_argument('--increment', '--incr', '-i', default=1,
                     type=int,
                     help="How much to shift each chapter number")
+parser.add_argument('--numwidth', default=2,
+                    type=int,
+                    help="the width that the chapter-nunmbers should be zero-padded to (zero-or-less disables padding)")
 args = parser.parse_args()
 
 if args.end is not None and args.end == args.start:
@@ -46,9 +49,13 @@ for fname in os.listdir():
 
     #print(f"{fname} {ch_num}")
     #sys.stdout.write(f"fname: {fname}\nch_num: {ch_num}\nch_title: {ch_title}\n")
-    new_fname = str(ch_num + args.increment) + ch_title
+    if args.numwidth > 0:
+        new_fname = str(ch_num + args.increment).zfill(args.numwidth) + ch_title
+    else:
+        new_fname = str(ch_num + args.increment) + ch_title
+
     try:
         subprocess.run(["git", "mv", fname, new_fname], capture_output=False)
     except e:
-        sys.stderr.write(f"encountere error while trying to call `git miv`: {e}\n")
+        sys.stderr.write(f"encountere error while trying to call `git mv`: {e}\n")
     #sys.stdout.write(" ".join(["git", "mv", fname, new_fname]) + "\n")
