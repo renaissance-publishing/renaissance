@@ -42,20 +42,35 @@ There are a few common language groups:
 - **GR**: the sounds that Gnolls and Ratfolk can make (commonly described as “several coyotes having seizures”)
 - **DDK**: the sounds that Dragons, Drakes and Kobolds can make (commonly described as “a rasping song-bird”)
 
-## Common Languages
+## Languages of the Commonwealth
 
 ### Ashen
 
-Ashen is the common language of the Ash Elven population of the Haven Isles.
+Ashen is a complex and irregular language spoken primarily by Ash Elves.
 
 - **Group**: HHED
-- **Mutually Intelligible**: Keillou (-30), Weal (-30)
+- **Partially Intelligible**: Keillou (-10), Merchant Voyager (-10), Weal (-20), Shipwright Hud (-20)
+- **Special**: Ashen is a difficult language to learn, imposing a -10 penalty on related checks.
 
-Ashen is a complex and irregular language, derived from the many languages carried to the Haven Isles by Wood and Shade Elves, combined with Weal (as spoken by Human and Halfling settlers), and even partly influenced by Hel (as spoken by the Shipwright Dwarven).
+Ashen is the highly complex and irregular language spoken by the Ash Elves of the Haven Isles.
+It is a complex synthesis of several languages: while its earliest roots lie in Keillou (the language of the Shade Elves), it has since been influenced heavily by the (unrelated) languages of various Wood Elf and Shifter tribes, by Haven Weal, by Shipwright Hud, and even by Autumn Caravaneer.
+
+On the one hand, Ashen is a very expressive language; it has access to a rich pallet of widely-varied elements.
+On the other hand, it is *very* difficult to learn, being composed as it is of a half-dozen different languages.
 
 [[designnote]]
 |
-| In an earlier draft of the document, Ashen was called *Islander Elvish*; it was renamed to more clearly associate it with the Ash Elves.
+|In an earlier draft of the document, Ashen was called *Islander Elvish*; it was renamed to more clearly associate it with the Ash Elves.
+
+### Autumn Caravaneer
+
+A language commonly spoken by Halfling caravaneers.
+
+- **Group**: HHED
+- **Partially Intelligible**: some other Halfling languages
+
+Autumn Caravaneer is the language commonly used by Halfling caravaneers.
+It is derived from an older language commonly spoken by Halflings in the region, but it has been heavily influenced by the language spoken by the people of Automn's Hold — Weal.
 
 ### Commonwealth Standard
 
@@ -146,19 +161,36 @@ Hud exists in many forms: an older *formal* variant, commonly used in important 
 
 Formal Hud is mainly used as a formal language, for interaction between clans (whose languages might not be mutually intelligible with each other), and for liturgy and ritual (which might be ancient).
 
-### Islander Skinned
-
-  - ~~Islander~~ Islander Skinned: common language on the Haven Isles, influenced by ~~Islander Elvish~~ Ashen and Weal.
-    
-      - ~~Islander~~ Islander Skinned is a language commonly spoken on the Haven Isles; it is a derivative of Weal, though it has borrowed heavily from the disordered synthesis of elven languages that is ~~Islander Elven~~ Ashen.
-      - Group HHED
-
 ### Islander Furred
 
-  - Islander Furred: language commonly spoken by the Halflings and Gnolls of the Haven Isles.
-    
-      - Islander Furred is synthesis of Haven Gnollish, Cqik and Commownealth Standard that is slowly replacing both Haven Gnollish and Cqik as a first-language among Haven Isles' Gnolls and Ratfolk.
-      - Group HHED
+Islander Furred is principally derived from Haven Gnollish, though it has been influenced by Cqik.
+Like Islander Skinned, it is designed to be shared by the "furred" racees of the Haven Isles, and is slowly replacing their other languages as the primary language of the "furred folk" of the Haven Isles.
+
+- **Group**: GR
+- **Partially Intelligible**: Haven Gnollish, Cqik (-10), other derivatives of Gnollish and Cqik (-20)
+
+Much as Islander Skinned, Islander Furred is a formalized, artificial language designed to unite several distinct communities in the Haven Isles, each with their own language.
+Islander Furred is primarily based on Haven Gnollish, though it also borrows from Cqik; like Islander Skinned, it has also been simplified and made more regular, to make it easier to learn and master.
+
+It is slowly displacing Haven Gnollish and Cqik as a first language among the Gnolls and Ratfolk (respectively) of the HAven Isles — although, like Islander Skinned, each community has its traditionalists and hold-outs.
+
+### Islander Skinned
+
+Islander Skinned is a derivative of several languages, principally based on Weal; it is slowly replacing regional variants of other languages as the first language for the Skinned — that is, furless — Folk of the Haven Isles.
+
+- **Group**: HHED
+- **Partially Intelligible**: Haven Weal (-10), other Weal derivatives (-20), Keillou (-20), Hel (-20), Shipwright Hud (-30)
+
+Islander Skinned is a language commonly spoken throughout the Haven Isles; it is distantly based on Haven Weal, but includes elements of many other languages.
+The language is artificial; it is a formalized variant of Haven Weal, but also draws on many of the other languages of the Haven Isles, with the deliberate intent of creating a language that can be shared by the many "skinned" — that is, furless — folk of the Haven Isles.
+
+As such, it is slowly displacing Shipwright Hud, Hel, Haven Weal, and several other languages as a first language in the islands — although many of those peoples and cultures have hold-outs attempting to preserve their original languages.
+
+Like Ashen, the language is a complex blend of many unrelated languages – but unlike Ashen, it is easy to learn, as it was very deliberately designed to be "regular" in its forms.
+
+[[designnote]]
+|
+|In an earlier draft of the document, *Islander Skinned* was simply called *Islander*.
 
 ###  Rak
 
@@ -179,22 +211,28 @@ Over years in common usage, it has become more regular — and, as it was used a
 
 Rak is still widely spoken by the Drakes and Dragons of the Dragonshire.
 
-## Weal
+### Common Language: Voyager (Benath)
 
-  - Weal: a common language in Heartland Province.
-    
-      - Weal is a widely heterogeneous language. It is derived from Old
-        Imperial, the language of the humans who built the Empire, but
-        it has since been heavily influenced by the many languages that
-        the Commonwealth has encountered and peacefully absorbed as it
-        spread across the Emerald Plane.
-      - Weal — or some regional dialect thereof — is commonly spoken
-        throughout Heartland and Westward Provinces.
-      - Notably, Weal was carried throughout the Emerald Plane by early
-        Commonwealth settlers, and has itself become the root from which
-        several other, newer languages where derived; it is still
-        mutually-intelligible with some of them, like Hel.
-      - Group HHED
+The language of the Merchant Voyagers.
+
+- **Group**: HHED
+- **Partially Intelligible**: the native languages of other nearby tribes, Ashen (-20), Islander Skinned (-20)
+
+The Merchant Voyagers speak their own language.
+It's similar to the languages spoken by other nearby tribes, but dissimilar from any other language in the wider Commonwealth.
+It's had a particularly strong influence on Ashen and Islander Skinned, since a number of Merchant Voyagers have settled in the Haven Isles (and since many Ash Elves are, in part, descendants of Merchant Voyagers).
+
+### Weal
+
+A common language in Heartland Province.
+
+- **Group**: HHED
+
+Weal is a widely heterogeneous language.
+It is derived from *Old Imperial*, the language of the humans who built the Empire, but it has since been heavily influenced by the many languages that the Commonwealth has encountered and peacefully absorbed as it spread across the Emerald Plane.
+
+Weal — or some regional dialect thereof — is commonly spoken throughout Heartland and Westward Provinces.
+ Notably, Weal was carried throughout the Emerald Plane by early Commonwealth settlers, and has itself become the root from which several other, newer languages where derived; it is still mutually-intelligible with some of them, like Hel.
 
 ## Languages of the Kingdoms of Men
 
