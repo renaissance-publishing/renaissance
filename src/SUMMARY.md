@@ -3,7 +3,7 @@
 [About the Game](chapters/00-about-the-game.md)  
 [Introduction](chapters/01-from-the-authors.md)
 
-## The Setting
+# The Setting
 
 - [Background](chapters/02-background.md)
 - [The Commonwealth Today](chapters/03-the-commonwealth-today.md)
@@ -28,7 +28,7 @@
   - [The Sunrise People](chapters/06.8-sunrise-people.md)
 - [The Supernatural](chapters/07-the-supernatural.md)
 
-## The Rules
+# The Rules
 
 - [The Unplacable Text Describing What Adventures Look Like](chapters/08-the-unplacable-text-describing-what-adventures-look-like.md)
 - [Basic Rules](chapters/09-basic-rules.md)
@@ -59,7 +59,7 @@
   - [Magic Items](chapters/28.2-magic-items.md)
   - [Alchemical Items](chapters/28.3-alchemical-items.md)
 
-## Guides, References, and Sample Content
+# Guides, References, and Sample Content
 
 - [The Five Roles](chapters/29-the-five-roles.md)
 - [Building Characters](chapters/30-building-characters.md)
