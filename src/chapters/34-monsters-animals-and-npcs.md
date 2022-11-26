@@ -261,17 +261,21 @@ They need not be constructed out of clay: they are named because of a famous exa
 - Movement: Bipedal 3/9
 - Senses: Normal, Mage Sight
 - Tags: Magical Construct, Familiar
-- Construction: when you construct a clay pot as a familiar, you may select up to three of the following *modifications*.
-    - Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains \+5 COO, and \+20 to Disable Device checks and to certain Craft checks.
-    - Hardened: your clay pot is forged of sturdy materials, such as iron; it gains \+10 DUR and \+3 Armor.
-    - Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10&div;2 DV) or start small fire.
-    - Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.
-    - Plated: your clay pot is forged from steel, or some other sturdy material; it gains \+5 DUR and \+3 Armor.  (Requires: Hardened.)
-    - Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).
-    - Walls: your clay pot can "levitate" over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)
 - Size: Clay pots are Small.
-- Skills:
-    - You may select up to four skills, and your clay pot receives 20 ranks in each.
+
+#### Construction
+
+When you construct a clay pot as a familiar, you may select up to three of the following *modifications*:
+
+- Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains \+5 COO, and \+20 to Disable Device checks and to certain Craft checks.
+- Hardened: your clay pot is forged of sturdy materials, such as iron; it gains \+10 DUR and \+3 Armor.
+- Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10&div;2 DV) or start small fire.
+- Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.
+- Plated: your clay pot is forged from steel, or some other sturdy material; it gains \+5 DUR and \+3 Armor.  (Requires: Hardened.)
+- Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).
+- Walls: your clay pot can "levitate" over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)
+
+When you construct your Clay Pot, you may select up to four skills; your clay pot receives 20 ranks in each of these skills.
 
 ### Cougar
 
@@ -311,8 +315,10 @@ by other large predators.
 
 #### Combat Stats
 
-- Bite: 70 (Natural Weapons), 1D10+5 (1D10+1+DB), AP -
-- Claws: 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
+- Attack: **Bite**
+  - 70 (Natural Weapons), 1D10+5 (1D10+1+DB), AP -
+- Attack: **Claws**
+  - 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
 
 ### Dancing Hawk
 
@@ -420,36 +426,40 @@ one of the Dead, without binding it — and with some other string attached.
 
 #### Combat Stats
 
-- Talons: 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
+- Attack: **Talons**
+  - 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
 
 ### Horse
 
 These quadrupedal creatures are native to the southwest of the Emerald Plane.
 They have long been ridden as mounts — and bred for the purpose — by the cultures there, and have since spread east throughout the Emerald Plane.
 
-|          |     |      |     |      |          |
-| -------- | --- | ---- | --- | ---- | -------- |
-| COG      | COO | INT  | SAV | SOM  | WIL      |
-| 3        | 15  | 15   | 4   | 30   | 20       |
-| DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
-| 30 (6)   | 30  | 6    |     | \+6  | 40 (8)   |
+#### Vitals
 
-  - Movement: Quadruped 5/15/30
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 3   | 15  | 15  | 4   | 30  | 20  |
 
-  - Senses: Normal
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 30 (6)   | 30  | 6    | \+6 | 40 (8)   |
 
-  - Tags: Animal, Horse, Mount, Natural, Wild Companion
+- Movement: Quadruped 5/15/30
+- Senses: Normal
+- Tags: Animal, Horse, Mount, Natural, Wild Companion
+- Size: Large
 
-  - Size: Large
+#### Skills
 
-  - Skills:
-    
-      - Fray 40
-      - Perception 60
-      - *Run* 70
-      - *Stomp* 45
+- Fray 40
+- Perception 60
+- *Run* 70
+- *Stomp* 45
 
-  - Stomp: 45 (Stomp), 1d10\+6 (1d10\+DB), AP 1
+#### Combat Stats
+
+- Attack: **Stomp**
+  - 45 (Stomp), 1d10\+6 (1d10\+DB), AP 1
 
 ### Kambi
 
@@ -461,56 +471,47 @@ managed as pests, and occasionally kept as pets.
 
 Background may need tweaking; I want this to be funny, not dark.
 
-|          |     |      |      |     |          |
-| -------- | --- | ---- | ---- | --- | -------- |
-| COG      | COO | INT  | SAV  | SOM | WIL      |
-| 6        | 10  | 15   | 5    | 10  | 30       |
-| DUR (WT) | STR | INIT |      | DB  | LUC (TT) |
-| 15 (3)   | 10  | 5    |      | \+2 | 60 (12)  |
+#### Vitals
 
-  - Movement: Walking 4/12
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 6   | 10  | 15  | 5   | 10  | 30  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 15 (3)   | 10  | 5    | \+2 | 60 (12)  |
 
-  - Tags: Humanoid, Kambi, Wild Companion
+- Movement: Walking 4/12
+- Senses: Normal, Scent
+- Tags: Humanoid, Kambi, Wild Companion
+- Size: Small
 
-  - Mindlessly Brave: Kambis have almost no instinct for
-    self-preservation. On the plus side, this means that it is almost
-    impossible to frighten them; on the minus side, this means that
-    Kambis can fail to avoid even obvious hazards, blithely walking into
-    danger and destruction.
-    
-      - Kambis automatically pass tests to resist fear.
-      - Kambis have the Oblivious trait. Work on this.
+#### Features
 
-  - Trainable: Kambis have a basic ability to learn and to use tools.
-    
-      - Kambis can have up to 30 ranks in skills, in addition to those
-        listed here.
-      - “Wild” Kambi societies will typically be trained in combat
-        skills.
-      - “Domesticated” Kambis can be trained in diverse skills. (10
-        points in a language is recommended.)
+- **Mindlessly Brave**: Kambis have almost no instinct for self-preservation.
+  On the plus side, this means that it is almost impossible to frighten them; on the minus side, this means that Kambis can fail to avoid even obvious hazards, blithely walking into danger and destruction.
+  - Kambis automatically pass tests to resist fear.
+  - Kambis have the Oblivious trait. Work on this.
+- **Trainable**: Kambis have a basic ability to learn and to use tools.
+  - Kambis can have up to 30 ranks in skills, in addition to those listed here.
+  - “Wild” Kambi societies will typically be trained in combat skills.
+  - “Domesticated” Kambis can be trained in diverse skills.
+    (10 points in a language is recommended.)
+- **Almost Social**: Kambis can be influenced by either Handle Animal or Persuasion.
 
-  - Almost Social: Kambis can be influenced by either Handle Animal or
-    Persuasion.
+#### Skills
 
-  - Size: Kambis are Small.
+- *Chase* 50
+- Cooking 40
+- Fray 40
+- Intimidate 30
+- Perception 40
+- Stealth 40
+- One Melee skill at 50
 
-  - Skills:
-    
-      - *Chase* 50
-      - Cooking 40
-      - Fray 40
-      - Intimidate 30
-      - Perception 40
-      - Stealth 40
-      - One Melee skill at 50
+#### Items
 
-  - Items:
-    
-      - “wild” Kambis will have simple armor (1 Armor) and a simple
-        weapon (a knife, “sword” or spear).
+- “wild” Kambis will have simple armor (1 Armor) and a simple weapon (a knife, “sword” or spear).
 
 ### Pack Cat
 
@@ -525,31 +526,35 @@ They also participate in social rearing, cooperating to raise the pack's young.
 The cultures of the snowy north have long-since domesticated these creatures; they are kept as pets, work-animals, hunters and war-animals.
 They are particularly common in Orcish communities, where some breeds have very long histories with certain communities or clans.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 5        | 15  | 15   | 5   | 20  | 20       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 25 (5)   | 20  | 6    |     | \+4 | 40 (8)   |
+#### Vitals
 
-  - Movement: Quadruped 4/12, Climbing 3/9
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 5   | 15  | 15  | 5   | 20  | 20  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 25 (5)   | 20  | 6    | \+4 | 40 (8)   |
 
-  - Tags: Animal, Natural, Pack Cat, Wild Companion
+- Movement: Quadruped 4/12, Climbing 3/9
+- Senses: Normal, Scent
+- Tags: Animal, Natural, Pack Cat, Wild Companion
 
-  - Skills:
-    
-      - Fray 50
-      - *Hunt \[Pack Tactics\]* 50
-      - Intimidate 45
-      - Natural Weapons 60
-      - Perception 50
-      - Stealth 50
+#### Skills
 
-  - Bite: 60 (Natural Weapons), 1D10\+7 (1D10\+1\+DB), AP \-
+- Fray 50
+- *Hunt \[Pack Tactics\]* 50
+- Intimidate 45
+- Natural Weapons 60
+- Perception 50
+- Stealth 50
 
-  - Claws: 60 (Natural Weapons), 1D10\+6 (1D10\+DB), AP \-1
+#### Combat Stats
+
+- Attack: **Bite**
+  - 60 (Natural Weapons), 1D10\+7 (1D10\+1\+DB), AP \-
+- Attack: **Claws**
+  - 60 (Natural Weapons), 1D10\+6 (1D10\+DB), AP \-1
 
 ### Raccoon
 
@@ -559,39 +564,41 @@ can open bottles, jars, doors and simple locks. Though they can live in
 many environments, they prefer those that afford them trees to hide in,
 and streams where they can forage for (and wash) food.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 4        | 15  | 15   | 3   | 15  | 20       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 15 (3)   | 10  | 6    |     | \+2 | 40 (8)   |
+#### Vitals
 
-  - Movement: Quadruped 3/9, Climbing 3/9
+| COG | COO | INT | SAV | SOM | WIL |
+| 4   | 15  | 15  | 3   | 15  | 20  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 15 (3)   | 10  | 6    | \+2 | 40 (8)   |
 
-  - Tags: Natural, Animal, Familiar, Raccoon, Wild Companion
+- Movement: Quadruped 3/9, Climbing 3/9
+- Senses: Normal, Scent
+- Tags: Natural, Animal, Familiar, Raccoon, Wild Companion
+- Size: Raccoons are Small.
 
-  - Acute Touch: Touch is a raccoon’s dominant sense, and they can
-    perceive and manipulate small objects by touch alone; they can even
-    defeat simple locks purely by touch, without needing to see them.
-    Raccoons receive a +20 bonus to Perception tests involving touch.
+#### Features
 
-  - Size: Raccoons are Small.
+- Acute Touch: Touch is a raccoon’s dominant sense, and they can perceive and manipulate small objects by touch alone; they can even defeat simple locks purely by touch, without needing to see them.
+  Raccoons receive a +20 bonus to Perception tests involving touch.
 
-  - Skills:
+#### Skills
     
-      - Climb 50
-      - Disable Device 40
-      - Fray 40
-      - Natural Weapons 50
-      - Palming 50
-      - Perception 50
-      - Scrounge 50
-      - Swim 40
-      - Stealth 50
+- Climb 50
+- Disable Device 40
+- Fray 40
+- Natural Weapons 50
+- Palming 50
+- Perception 50
+- Scrounge 50
+- Swim 40
+- Stealth 50
 
-  - Bite: 50 (Natural Weapons), 1D10+2 (1D10+DB), AP -
+#### Combat Stats
+
+- Attack: **Bite**
+  - 50 (Natural Weapons), 1D10+2 (1D10+DB), AP -
 
 ### Raptor
 
@@ -611,36 +618,39 @@ insects. The one presented here is a medium-sized creature known as a
 *get Acier to give us a name*; they operate in small packs, and hunt
 smaller prey by pursuit or ambush.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 4        | 20  | 10   | 4   | 20  | 10       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 30 (6)   | 35  | 6    |     | \+5 | 20 (5)   |
+#### Vitals
 
-  - Movement: Foot 5/15, Leap 5/15, Glide 3/9, Climb 3/9
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 4   | 20  | 10  | 4   | 20  | 10  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 30 (6)   | 35  | 6    | \+5 | 20 (5)   |
 
-  - Tags: Natural, Animal, Raptor, Wild Companion
+- Movement: Foot 5/15, Leap 5/15, Glide 3/9, Climb 3/9
+- Senses: Normal, Scent
+- Tags: Natural, Animal, Raptor, Wild Companion
+- Size: Medium
 
-  - Pounce: When a raptor charges, if it hits and scores an exceptional
-    success, then the target is *knocked prone* and the raptor grapples
-    it.
+#### Features
 
-  - Skills:
-    
-      - Chase 70
-      - Climb 40
-      - Fly 40
-      - Fray 50
-      - Natural Weapons 70
-      - Perception 60
-      - Stealth 40
+- Pounce: When a raptor charges, if it hits and scores an exceptional success, then the target is *knocked prone* and the raptor grapples it.
 
-  - Attack: Bite
-    
-      - 70 (Natural Weapons), 1D10+7 (1D10+2+DB), AP -1
+#### Skills
+
+- Chase 70
+- Climb 40
+- Fly 40
+- Fray 50
+- Natural Weapons 70
+- Perception 60
+- Stealth 40
+
+#### Combat Stats
+
+- Attack: **Bite**
+  - 70 (Natural Weapons), 1D10+7 (1D10+2+DB), AP -1
 
 ### Commonwealth Soldier
 
@@ -689,8 +699,9 @@ secure, and its enemies in check.
 #### Combat Stats
 
 - Armor: 9 Armor
-- Halberd: 70 (Pole-Arms), 2D10+11 DV, AP -2.
-    - Two-Handed, Reach.
+- Attack: **Halberd**
+  - 70 (Pole-Arms), 2D10+11 DV, AP -2.
+  - Two-Handed, Reach.
 
 ### Stilt-Raccoon
 
@@ -749,34 +760,46 @@ Darker and more didactic versions of the story have the prince being struck in t
 
 These small creatures are wild, frenetic hunters.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 3        | 15  | 10   | 3   | 15  | 20       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 15 (3)   | 10  | 5    |     | \+2 | 40 (8)   |
+#### Vitals
 
-  - Movement: Climb 2/6, Quadruped 3/9
-  - Senses: Normal, Scent
-  - Tags: Natural, Animal, Familiar, Weasel
-  - Acute Hearing: Weasels get +20 on auditory perception checks.
-  - Frenetic: Weasels are manic hunters; the scent of blood can send them into a frenzy, in which they attack wildly and can kill much more prey than they will eat.
-      - If a weasel inflicts a wound, it enters a Frenzy
-      - While in a frenzy, they are immune to fear, and can negate one Wound and one Trauma; also,
-      - they attack convulsively, attacking anything they might consider prey.
-      - Frenzies last for WIL&div;5 minutes.
-      - **Special**: if a weasel is taken as a familiar, then its master is also affected by its Frenzy.  The master may attempt to restrain themselves from attack with a WIL&times;3 check, and attempt to end the weasel's frenzy early with a WIL&times;2 check.
-  - Size: Weasels are small creatures, some little larger than mice.  They are Tiny.
-  - Skills:
-      - *Chase* 50
-      - Fray 50
-      - Natural Weapons 70
-      - Perception 50
-      - Stealth 60
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 3   | 15  | 10  | 3   | 15  | 20  |
 
-  - Bite: 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 15 (3)   | 10  | 5    | \+2 | 40 (8)   |
 
-  - Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
+- Movement: Climb 2/6, Quadruped 3/9
+- Senses: Normal, Scent
+- Tags: Natural, Animal, Familiar, Weasel
+- Size: Weasels are small creatures, some little larger than mice.  They are Tiny.
+- Diet: Carnivore
+
+#### Features
+
+- Acute Hearing: Weasels get +20 on auditory perception checks.
+- Frenetic: Weasels are manic hunters; the scent of blood can send them into a frenzy, in which they attack wildly and can kill much more prey than they will eat.
+  - If a weasel inflicts a wound, it enters a Frenzy
+  - While in a frenzy, they are immune to fear, and can negate one Wound and one Trauma; also,
+  - they attack convulsively, attacking anything they might consider prey.
+  - Frenzies last for WIL÷5 minutes.
+  - **Special**: if a weasel is taken as a familiar, then its master is also affected by its Frenzy.  The master may attempt to restrain themselves from attack with a WIL×3 check, and attempt to end the weasel's frenzy early with a WIL×2 check.
+
+#### Skills
+
+- *Chase* 50
+- Fray 50
+- Natural Weapons 70
+- Perception 50
+- Stealth 60
+
+#### Combat Stats
+
+- Attack: **Bite**
+  - 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+- Attack: **Claws**
+  - 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
 
 ### Wolf
 
@@ -812,7 +835,8 @@ These intelligent and social predators are known for their pack tactics.
 
 #### Combat Stats
 
-- Bite: 60 (Natural Weapons), 1D10+4 (1D10+DB), AP -
+- Attack: **Bite**
+  - 60 (Natural Weapons), 1D10+4 (1D10+DB), AP -
 
 ### Wolverine
 
@@ -850,8 +874,9 @@ their weight.
 
 #### Combat Stats
 
-- Bite: 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
-- Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
+- Attack: **Bite**
+  - 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+- Attack: **Claws**
+  - 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
 
 ## Building Creatures
-
