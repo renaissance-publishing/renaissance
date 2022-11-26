@@ -23,9 +23,7 @@ This is true not only of the common backgrounds, but also of the rarer, (seeming
 
 ## Common Backgrounds in the Commonwealth
 
-Note that the list of backgrounds presented here is far from exhaustive: these are merely the most common and general backgrounds, capable of representing most common cultures and backgrounds in the Commonwealth.
-Players and GMs should feel free to modify these backgrounds to represent a character's unique origins (players require their GM's approval, of course).
-Notably, many of the races that have joined the Commonwealth have their own unique culture (or cultures); to represent this, many of the races in the *Races* section have their own unique backgrounds.
+The following list represents both common backgrounds in the Commonwealth, and generic backgrounds in general; they should make good starting-points for crafting backgrounds to represent specific cultures or regions.
 
 ### Dragonshire
 
@@ -111,7 +109,9 @@ Wanderers, vagrants and transients by birth, choice or circumstance.
 - Common Races: any
 - Common Languages: any
 
-## Rarer Commonwealth Backgrounds
+## Specific Commonwealth Communities
+
+The following backgrounds represent specific communities or cultural groups within the Commonwealth.
 
 ### Ash Elven Undercity
 
@@ -157,21 +157,6 @@ The *Unique Outlook* trait is common, usually for *resistance to stress related 
 - 10 ranks in one Combat skill
 - 10 ranks in one Technical skill
 - 1 weapon and 1 skill kit
-
-### Deep-Explorer Dwarf
-
-You are a *Drahrat*—called a "Deep-Explorer" in the Commonwealth.
-You are from a member of a secretive culture that has vanished deep underground.
-
-- 10 ranks in Ride
-- 10 ranks in Survival
-- 10 ranks in one Technical skill
-- a Survival skill-kit, specialized for caves.
-- one other skill-kit
-
-The Cave-Eyes trait is very common, as are *day-wraps*.
-
-Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Deep-Explorers that you will need to account for, or they may not allow you to play a Deep-Explorer at all.
 
 ### Dragonshire Noble
 
@@ -249,6 +234,21 @@ You are from one of the ancient, pre-urban Elven cultures living to the west of 
 - 10 ranks in Survival
 
 ## Other Nations
+
+### Deep-Explorer Dwarf
+
+You are a *Drahrat*—called a "Deep-Explorer" in the Commonwealth.
+You are from a member of a secretive culture that has vanished deep underground.
+
+- 10 ranks in Ride
+- 10 ranks in Survival
+- 10 ranks in one Technical skill
+- a Survival skill-kit, specialized for caves.
+- one other skill-kit
+
+The Cave-Eyes trait is very common, as are *day-wraps*.
+
+Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Deep-Explorers that you will need to account for, or they may not allow you to play a Deep-Explorer at all.
 
 ### Protectorate Mudskipper
 
