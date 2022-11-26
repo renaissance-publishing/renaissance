@@ -55,9 +55,10 @@
 - [Classes](chapters/26-classes.md)
 - [Powers](chapters/27-powers.md)
 - [Items](chapters/28-items.md)
-  - [Combat Items](chapters/28.1-combat-equipment.md)
-  - [Magic Items](chapters/28.2-magic-items.md)
+  - [Mundane Items](chapters/28.1-mundane-items.md)
+  - [Combat Items](chapters/28.2-combat-equipment.md)
   - [Alchemical Items](chapters/28.3-alchemical-items.md)
+  - [Magic Items](chapters/28.3-magic-items.md)
 
 # Guides, References, and Sample Content
 
