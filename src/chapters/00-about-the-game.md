@@ -16,13 +16,12 @@ Well… we're working on it.
 
 ## Changes since last time:
 
-- Removed Disable Device, because we've never used it.
-- Fleshed out the *Monastery* sample adventure a fair bit.
-- Initial import for CV's *Wolf-in-Wool's Flock*, AKA the Secret Army, and his Stormsword's Rest.
-  - Stormsword's Rest has been waiting... how many years?
-    I'm so sorry.
-- Moved to a whole different site-generator (mdbook), which loses us a few things, but gains us search and a great mobile layout.
-- Broke the Races and Other Nations chapters into sub-chapters (that's a neat feature we get for almost-free with mdbook).
+- Significant reorganization:
+  - Created sub-chapters under *Items*, *A Tour of the Commonwealth*, and *Other Nations8.
+  - Moved backgrounds and languages out of *A Tour* and *Other Nations*, and put them in *Backgrounds* and *Languages*.
+  - Moved the "Major *X*" content for each faction/province into their own sub-sub-chapters.
+- Finished updating the Example NPCs to the new layout.
+  - It was pretty mechanical, so some outdated data almost certainly remains.
 
 ## To-Do
 
