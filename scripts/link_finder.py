@@ -46,7 +46,7 @@ for file_name in glob.glob("*.md"):
                 if link_matches is not None and len(link_matches) > 0:
                     for match in link_matches:
                         if args.only_broken:
-                            if not os.path.exists(file_name):
+                            if not os.path.exists(match):
                                 sys.stdout.write(f"{match}\n")
                         elif args.only_matches:
                             sys.stdout.write(f"{match}\n")
