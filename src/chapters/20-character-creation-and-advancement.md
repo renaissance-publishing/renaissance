@@ -109,7 +109,7 @@ Then, you would have the (character-creation) maximum of 50 ranks in that skill,
 |
 | - If it where a *bonus* rather than *ranks*, then some backgrounds would be better than others at certain builds, in a way that you couldn't ever compensate for.
 | - If we didn't specify when the ranks "applied," then character creation would be under-specified.
-| - If the ranks applied *last*, then their impact would be variable, because they would give you either 10 CP or 20 CP of benefit based how many ranks you bought.
+| - If the ranks applied *last*, then their impact would be variable, because they would give you either 10 CP or 20 CP of benefit depending on how many ranks you bought.
 
 Note that a member of any race can be from any background; a *Drake* character can be form anywhere, and you don't have to be a *Drake* or a *Human* to be from the Dragonshire.
 
@@ -134,13 +134,13 @@ Costs are given below:
 | Skill Rank | 1 CP for your first 30 ranks, 2 CP for the 31st rank and after |
 | Skill Proficiency | some free with ranks; 5 PC for additional |
 | Skill Specialization | 5 CP |
-| ----- |
+| ---- | ---- |
 | Positive Trait | 10 CP |
 | Negative Trait | -10 CP (you gain 10 CP) |
 | Neutral Trait | 0 CP |
 | Class | 10 CP |
 | Power | 10 CP |
-| ----- |
+| ---- | ---- |
 | +1 Luck | 15 CP |
 | Language Dot | 5 CP |
 | An Item | Varies |
