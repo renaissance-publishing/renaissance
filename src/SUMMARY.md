@@ -57,8 +57,8 @@
 - [Items](chapters/28-items.md)
   - [Mundane Items](chapters/28.1-mundane-items.md)
   - [Combat Items](chapters/28.2-combat-equipment.md)
-  - [Alchemical Items](chapters/28.3-alchemical-items.md)
   - [Magic Items](chapters/28.3-magic-items.md)
+  - [Alchemical Items](chapters/28.4-alchemical-items.md)
 
 # Guides, References, and Sample Content
 
