@@ -65,34 +65,41 @@ Populations of wiled Bahla still roam in the hilly uplands of the western Ruby P
 
 ### Black Bear
 
-|          |     |      |     |      |          |
-| -------- | --- | ---- | --- | ---- | -------- |
-| COG      | COO | INT  | SAV | SOM  | WIL      |
-| 3        | 10  | 15   | 3   | 20   | 20       |
-| DUR (WT) | STR | INIT |     | DB   | LUC (TT) |
-| 40 (8)   | 40  | 5    |     | \+6  | 40 (8)   |
+#### Vitals
 
-- Vitals:
-  - Movement: Quadruped 4/12, Climb 3/9
-  - Senses: Normal, Scent
-  - Tags: Animal, Bear, Natural, Wild Companion
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 3   | 10  | 15  | 3   | 20  | 20  |
 
-- Features:
-  - **Thick Hide**: +2 Armor
-  - **Pain Tolerance**: can Negate the effect of one Wound.
+| DUR (WT) | STR | INIT | DB   | LUC (TT) |
+| -------- | --- | ---- | ---- | -------- |
+| 40 (8)   | 40  | 5    | \+6  | 40 (8)   |
 
-- Skills:
-  - *Chase* 60
-  - Fray 40
-  - *Natural Weapons* 60
-  - Perception 60
+- Movement: Quadruped 4/12, Climb 3/9
+- Senses: Normal, Scent
+- Tags: Animal, Bear, Natural, Wild Companion
+- Size: Large
+- Diet: Carnivore
 
-- Combat Stats:
-  - Armor: 2 AV
-  - Attack: **Claw**
-    - 60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1
-  - Attack: **Bite**
-    - 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
+#### Features
+
+- **Thick Hide**: +2 Armor
+- **Pain Tolerance**: can Negate the effect of one Wound.
+
+#### Skills
+
+- *Chase* 60
+- Fray 40
+- *Natural Weapons* 60
+- Perception 60
+
+#### Combat Stats:
+
+- Armor: 2 AV
+- Attack: **Claw**
+  - 60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1
+- Attack: **Bite**
+  - 60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -
 
 ### Cave Salamander
 
@@ -156,106 +163,115 @@ You may assign Aptitude Bonuses appropriate to the creature, +10 to one Aptitude
 
 If the animal is killed, the spirit simply departs from it, fleeing into the forests.
 
-|     |     |      |     |     |          |
-| --- | --- | ---- | --- | --- | -------- |
-| COG | COO | INT  | SAV | SOM | WIL      |
-| 15  | 10  | 25   | 7   | 20  | 20       |
-|     |     | INIT |     |     | LUC (TT) |
-|     |     | 7    |     |     | 40 (8)   |
+#### Vitals
 
-- Skills:
-  - Deception 40 Ranks
-  - Fray 50 Ranks
-  - *Hunt* 40 Ranks
-  - *Natural Weapons* 50 Ranks
-  - Perception 60 Ranks
-  - Persuasion 30 Ranks
-  - Protocol 30 Ranks
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 15  | 10  | 25  | 7   | 20  | 20  |
+
+| DUR (WT) | STR | INIT | DB | LUC (TT) |
+| -------- | --- | ---- | -- | -------- |
+| \-       | \-  | 7    | \- | 40 (8)   |
+
+#### Skills
+
+- Deception 40 Ranks
+- Fray 50 Ranks
+- *Hunt* 40 Ranks
+- *Natural Weapons* 50 Ranks
+- Perception 60 Ranks
+- Persuasion 30 Ranks
+- Protocol 30 Ranks
 
 ### Chosen
 
 A Champion of the One that Chose Us, who is worshiped by some in the Eastern portion of the Kingdoms of Man.
 
-|             |       |      |     |     |         |
-| ----------- | ----- | ---- | --- | --- | ------- |
-| COG         | COO   | INT  | SAV | SOM | WIL     |
-| 20          | 20    | 15   | 25  | 20  | 20      |
-| DUR (WT)    | STR   | INIT |     | DB  | LUC(TT) |
-| 30/35 (6/7) | 30/35 | 7    |     | \+5 | 40 (8)  |
+#### Vitals
 
-- Vitals:
-  - Movement: Foot 4/12
-  - Senses: Normal
-  - Tags: Natural, Humanoid, Human
-  - Language Group: HHED
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 20  | 20  | 15  | 25  | 20  | 20  |
 
-- Features:
-  - Class: **Initiate of the One**
-    - Initiated into the worship of The One that Chose Us, and recipient of its favor.
-    - You gain +5 STR and +5 DUR (included above)
-  - Class: **Crusader of the One**
-    - You gain +DB damage against enemies of the One (including those who oppose it, those who are aligned with opposing spirits, and members of peoples that don’t seek its favor.)
+| DUR (WT)    | STR   | INIT | DB  | LUC(TT) |
+| ----------- | ----- | ---- | --- | ------- |
+| 30/35 (6/7) | 30/35 | 7    | \+5 | 40 (8)  |
 
-- Skills:
-  - Knowledge: Theology 50
-  - Athletics 50
-  - Deception 40
-  - Fray 60
-  - Language: Common 25
-  - Language: Royal 75
-  - Perception 50
-  - Persuasion 50
-  - Pole-Arms 70
-  - Profession: Priest 40
-  - Profession: Crusader 60
-  - Thrown Weapons 60
-  - Protocol 50
-  - Stealth 40 (20 in armor)
+- Movement: Foot 4/12
+- Senses: Normal
+- Tags: Natural, Humanoid, Human
+- Language Group: HHED
 
-- Armor Value: 7 armor
-- Drawbacks: -10 to checks that include your COO.
-- Tags: Composite, Cumbersome, Heavy
+#### Features
 
-- Items
-  - Brigandine Armor: 7 AV, -10 to checks that include your COO
-    - Tags: Composite, Cumbersome, Heavy
-  - Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2.
-    - Tags: Two-Handed, Reach
-    - Special: Creatures with the Natural tag and without the Human tag are *Vulnerable* to this weapon.
-  - Profession: Crusader *Skill Kit*
+- Class: **Initiate of the One**
+  - Initiated into the worship of The One that Chose Us, and recipient of its favor.
+  - You gain +5 STR and +5 DUR (included above)
+- Class: **Crusader of the One**
+  - You gain +DB damage against enemies of the One (including those who oppose it, those who are aligned with opposing spirits, and members of peoples that don’t seek its favor.)
 
-- Combat Stats:
-  - Armor Value: 8
-  - Attack: **Spear of the Chosen**
-    - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are *Vulnerable* to this attack.
-    - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m. Non-Humans are *Vulnerable* to this attack.
+#### Skills
+
+- Knowledge: Theology 50
+- Athletics 50
+- Deception 40
+- Fray 60
+- Language: Common 25
+- Language: Royal 75
+- Perception 50
+- Persuasion 50
+- Pole-Arms 70
+- Profession: Priest 40
+- Profession: Crusader 60
+- Thrown Weapons 60
+- Protocol 50
+- Stealth 40 (20 in armor)
+
+#### Items
+
+- Brigandine Armor: 7 AV, -10 to checks that include your COO
+  - Tags: Composite, Cumbersome, Heavy
+- Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2.
+  - Tags: Two-Handed, Reach
+  - Special: Creatures with the Natural tag and without the Human tag are *Vulnerable* to this weapon.
+- Profession: Crusader *Skill Kit*
+
+#### Combat Stats
+
+- Armor Value: 8
+- Attack: **Spear of the Chosen**
+  - 70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are *Vulnerable* to this attack.
+  - 60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m. Non-Humans are *Vulnerable* to this attack.
 
 ### Clay Pot
 
 "Clay pots" are small constructed familiars.
 They need not be constructed out of clay: they are named because of a famous example that had a spherical, clay chassis.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 10       | 10  | 15   | 10  | 20  | 15       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 20 (4)   | 15  | 5    |     | \+3 | 30 (6)   |
+#### Vitals
 
-  - Movement: Bipedal 3/9
-  - Senses: Normal, Mage Sight
-  - Tags: Magical Construct, Familiar
-  - Construction: when you construct a clay pot as a familiar, you may select up to three of the following *modifications*.
-      - Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains \+5 COO, and \+20 to Disable Device checks and to certain Craft checks.
-      - Hardened: your clay pot is forged of sturdy materials, such as iron; it gains \+10 DUR and \+3 Armor.
-      - Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10&div;2 DV) or start small fire.
-      - Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.
-      - Plated: your clay pot is forged from steel, or some other sturdy material; it gains \+5 DUR and \+3 Armor.  (Requires: Hardened.)
-      - Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).
-      - Walls: your clay pot can "levitate" over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)
-  - Size: Clay pots are Small.
-  - Skills:
-      - You may select up to four skills, and your clay pot receives 20 ranks in each.
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 10  | 10  | 15  | 10  | 20  | 15  |
+
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 20 (4)   | 15  | 5    | \+3 | 30 (6)   |
+
+- Movement: Bipedal 3/9
+- Senses: Normal, Mage Sight
+- Tags: Magical Construct, Familiar
+- Construction: when you construct a clay pot as a familiar, you may select up to three of the following *modifications*.
+    - Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains \+5 COO, and \+20 to Disable Device checks and to certain Craft checks.
+    - Hardened: your clay pot is forged of sturdy materials, such as iron; it gains \+10 DUR and \+3 Armor.
+    - Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10&div;2 DV) or start small fire.
+    - Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.
+    - Plated: your clay pot is forged from steel, or some other sturdy material; it gains \+5 DUR and \+3 Armor.  (Requires: Hardened.)
+    - Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).
+    - Walls: your clay pot can "levitate" over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)
+- Size: Clay pots are Small.
+- Skills:
+    - You may select up to four skills, and your clay pot receives 20 ranks in each.
 
 ### Cougar
 
@@ -264,38 +280,39 @@ north to the humid south. They are solitary and territorial. They
 usually hunt by ambush. Though dangerous, they can be backed off of prey
 by other large predators.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 3        | 15  | 10   | 3   | 20  | 20       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 25 (5)   | 20  | 5    |     | \+4 | 40 (8)   |
+#### Vitals
 
-  - Movement: Quadruped 4/12, Climbing 4/12
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 3   | 15  | 10  | 3   | 20  | 20  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 25 (5)   | 20  | 5    | \+4 | 40 (8)   |
 
-  - Tags: Animal, Cougar, Natural, Wild Companion
+- Movement: Quadruped 4/12, Climbing 4/12
+- Senses: Normal, Scent
+- Tags: Animal, Cougar, Natural, Wild Companion
 
-  - Rake: Like many cats, cougars will attempt to grip prey with their
-    front paws and bite, and then disembowel it with their back legs. If
-    a cougar hits with its bite or claws and scores an exceptional
-    success, it grapples the target. If a cougar starts its turn
-    grappling its prey, it can *disembowel* as a standard action,
-    dealing 2D10+6 (2D10+2+DB) damage.
+#### Features
 
-  - Skills:
-    
-      - *Chase* 40
-      - Fray 50
-      - Intimidate 30
-      - Natural Weapons 70
-      - Perception 50
-      - Stealth 60
+- Rake: Like many cats, cougars will attempt to grip prey with their front paws and bite, and then disembowel it with their back legs.
+  If a cougar hits with its bite or claws and scores an exceptional success, it grapples the target.
+  If a cougar starts its turn grappling its prey, it can *disembowel* as a standard action, dealing 2D10+6 (2D10+2+DB) damage.
 
-  - Bite: 70 (Natural Weapons), 1D10+5 (1D10+1+DB), AP -
+#### Skills
 
-  - Claws: 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
+- *Chase* 40
+- Fray 50
+- Intimidate 30
+- Natural Weapons 70
+- Perception 50
+- Stealth 60
+
+#### Combat Stats
+
+- Bite: 70 (Natural Weapons), 1D10+5 (1D10+1+DB), AP -
+- Claws: 70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1
 
 ### Dancing Hawk
 
@@ -370,42 +387,40 @@ They are cost-category \[Extreme\].
 Created when several powerful spirits colluded with a mortal to release
 one of the Dead, without binding it — and with some other string attached.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 5        | 20  | 5    | 5   | 30  | \-       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 40 (8)   | 50  | 5    |     | \+8 | \-       |
+#### Vitals
 
-  - Movement: Walking 4/12, Climbing 3/9, Leap 5/15
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 5   | 20  | 5   | 5   | 30  | \-  |
 
-  - Senses: Normal, Blind-Sight
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 40 (8)   | 50  | 5    | \+8 | \-       |
 
-  - Tags: Humanoid, Dead, Frost, Spirit
+- Movement: Walking 4/12, Climbing 3/9, Leap 5/15
+- Senses: Normal, Blind-Sight
+- Tags: Humanoid, Dead, Frost, Spirit
 
-  - Blizzard Born: Unaffected by cold environments, can move through
-    snowy environments and blizzards unhindered.
+#### Features
 
-  - Beneath Cold Ground: Gains Fast Healing 2 while buried beneath
-    earth, snow or frost.
+- Blizzard Born: Unaffected by cold environments, can move through snowy environments and blizzards unhindered.
+- Beneath Cold Ground: Gains Fast Healing 2 while buried beneath earth, snow or frost.
+- Returned: The Frozen Horror has the perspective of the returned Dead; it has no mortal concerns, no fear, an knows no pain.
+  It has no WIL score, and always passes tests against fear or pain.
+- Frozen Flesh: The Frozen Horror has +6 Armor, and Resistance to Cold and Precision.
 
-  - Returned: The Frozen Horror has the perspective of the returned
-    Dead; it has no mortal concerns, no fear, an knows no pain. It has
-    no WIL score, and always passes tests against fear or pain.
+#### Skills
 
-  - Frozen Flesh: The Frozen Horror has +6 Armor, and Resistance to Cold
-    and Precision.
+- Athletics \[Climbing\] 60
+- Fray 50
+- Intimidate 60
+- Natural Weapons 70
+- Perception \[Snowy Conditions\] 60
+- Stealth \[Snowy Conditions\] 60
 
-  - Skills:
-    
-      - Athletics \[Climbing\] 60
-      - Fray 50
-      - Intimidate 60
-      - Natural Weapons 70
-      - Perception \[Snowy Conditions\] 60
-      - Stealth \[Snowy Conditions\] 60
+#### Combat Stats
 
-  - Talons: 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
+- Talons: 70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3
 
 ### Horse
 
@@ -632,51 +647,50 @@ smaller prey by pursuit or ambush.
 The soldiers who keep the Commonwealth’s trade routes safe, its borders
 secure, and its enemies in check.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 15       | 15  | 20   | 20  | 25  | 20       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 35 (7)   | 35  | 7    |     | \+5 | 40 (8)   |
+#### Vitals
 
-  - Movement: Foot 5/15
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 15  | 15  | 20  | 20  | 25  | 20  |
 
-  - Senses: Normal, Low-Light, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 35 (7)   | 35  | 7    | \+5 | 40 (8)   |
 
-  - Tags: Natural, Humanoid, Gnoll
+- Movement: Foot 5/15
+- Senses: Normal, Low-Light, Scent
+- Tags: Natural, Humanoid, Gnoll
+- Language Group: GR
 
-  - Language Group: GR
+#### Features
 
-  - Hide: +1 Armor
+- Hide: +1 Armor
+- Scavenger: +20 on checks to resist food-borne illnesses.
+- Sturdy: can negate one Wound
+- Soldier: can use the Assist action in combat
 
-  - Scavenger: +20 on checks to resist food-borne illnesses.
+#### Skills
 
-  - Sturdy: can negate one Wound
+- Athletics 50
+- Fray 60
+- Language: Common 50
+- Language: Heartland Gnoll 80
+- Perception 50
+- Pole-Arms 70
+- Profession: Soldier 60
+- Protocol 40
+- Stealth 50 (30 in armor)
 
-  - Soldier: can use the Assist action in combat
+#### Items
 
-  - Skills:
-    
-      - Athletics 50
-      - Fray 60
-      - Language: Common 50
-      - Language: Heartland Gnoll 80
-      - Perception 50
-      - Pole-Arms 70
-      - Profession: Soldier 60
-      - Protocol 40
-      - Stealth 50 (30 in armor)
+- Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
+- Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
 
-  - Armor: 9 Armor
+#### Combat Stats
 
-  - Halberd: 70 (Pole-Arms), 2D10+11 DV, AP -2.
-    
-      - Two-Handed, Reach.
-
-  - Items
-    
-      - Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.
-      - Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.
+- Armor: 9 Armor
+- Halberd: 70 (Pole-Arms), 2D10+11 DV, AP -2.
+    - Two-Handed, Reach.
 
 ### Stilt-Raccoon
 
@@ -768,74 +782,76 @@ These small creatures are wild, frenetic hunters.
 
 These intelligent and social predators are known for their pack tactics.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 5        | 10  | 15   | 5   | 20  | 15       |
+#### Vitals
+
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 5   | 10  | 15  | 5   | 20  | 15  |
+
 | DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
 | 25 (5)   | 20  | 5    |     | \+4 | 30 (6)   |
 
-  - Movement: Quadruped 5/15
+- Movement: Quadruped 5/15
+- Senses: Normal, Scent
+- Tags: Natural, Animal, Wild Companion, Wolf
 
-  - Senses: Normal, Scent
+#### Features
 
-  - Tags: Natural, Animal, Wild Companion, Wolf
+- Acute Hearing: +20 on auditory perception checks
+- Take-Down: If a wolf hits with a Bite and scores an Exceptional Success, then it can *bite down*, effectively grappling the creature it’s biting.
 
-  - Acute Hearing: +20 on auditory perception checks
+#### Skills
 
-  - Take-Down: If a wolf hits with a Bite and scores an Exceptional
-    Success, then it can *bite down*, effectively grappling the creature
-    it’s biting.
+- *Chase* 70
+- Fray 40
+- Intimidate 50
+- Natural Weapons 60
+- Perception 60
+- Protocol 30
+- Stealth 50
 
-  - Skills:
-    
-      - *Chase* 70
-      - Fray 40
-      - Intimidate 50
-      - Natural Weapons 60
-      - Perception 60
-      - Protocol 30
-      - Stealth 50
+#### Combat Stats
 
-  - Bite: 60 (Natural Weapons), 1D10+4 (1D10+DB), AP -
+- Bite: 60 (Natural Weapons), 1D10+4 (1D10+DB), AP -
 
 ### Wolverine
 
 These small, bold and highly-muscular predators often punch well above
 their weight.
 
-|          |     |      |     |     |          |
-| -------- | --- | ---- | --- | --- | -------- |
-| COG      | COO | INT  | SAV | SOM | WIL      |
-| 3        | 15  | 10   | 3   | 15  | 25       |
-| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
-| 20 (4)   | 20  | 5    |     | \+3 | 50 (10)  |
+#### Vitals
 
-  - Movement: Quadruped 3/9, Climbing 3/9
+| COG | COO | INT | SAV | SOM | WIL |
+| --- | --- | --- | --- | --- | --- |
+| 3   | 15  | 10  | 3   | 15  | 25  |
 
-  - Senses: Normal, Scent
+| DUR (WT) | STR | INIT | DB  | LUC (TT) |
+| -------- | --- | ---- | --- | -------- |
+| 20 (4)   | 20  | 5    | \+3 | 50 (10)  |
 
-  - Tags: Natural, Animal, Wild Companion, Wolverine
+- Movement: Quadruped 3/9, Climbing 3/9
+- Senses: Normal, Scent
+- Tags: Natural, Animal, Wild Companion, Wolverine
+- Size: Wolverines are about the size of a dog; they are Small.
 
-  - Brave: Though Wolverines consist primarily on carrion, they can be
-    fearless predators, and will attack (or attempt to steal a kill
-    from) animals much larger than themselves. Wolverines have the Brave
-    trait.
+#### Features
 
-  - Size: Wolverines are about the size of a dog; they are Small.
+- Brave: Though Wolverines consist primarily on carrion, they can be fearless predators, and will attack (or attempt to steal a kill from) animals much larger than themselves.
+  Wolverines have the Brave trait.
 
-  - Skills:
-    
-      - *Chase* 50
-      - Fray 50
-      - Intimidate 40
-      - Natural Weapons 70
-      - Perception 50
-      - Stealth 60
+#### Skills
 
-  - Bite: 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+- *Chase* 50
+- Fray 50
+- Intimidate 40
+- Natural Weapons 70
+- Perception 50
+- Stealth 60``
 
-  - Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
+#### Combat Stats
+
+- Bite: 70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -
+- Claws: 70 (Natural Weapons), 1D10+3 (1D10+DB), AP -
 
 ## Building Creatures
 
