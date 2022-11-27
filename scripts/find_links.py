@@ -6,7 +6,7 @@ import os
 import glob
 import argparse
 
-parser = argparse.ArgumentParser(prog = 'link_finder',
+parser = argparse.ArgumentParser(prog = 'find_links',
                                  description = 'A quick program to print links in md files')
 
 parser.add_argument("--only-matches", "-m",
@@ -14,7 +14,7 @@ parser.add_argument("--only-matches", "-m",
                     help="Don't print the file name and number, just print the url.")
 parser.add_argument("--only-broken", "-b",
                     action="store_true",
-                    help="Only print broken links (supercedes --only-matches).")
+                    help="Only print broken links.")
 
 args = parser.parse_args()
 
@@ -45,10 +45,10 @@ for file_name in glob.glob("*.md"):
                 link_matches = link_re.findall(line)
                 if link_matches is not None and len(link_matches) > 0:
                     for match in link_matches:
-                        if args.only_broken:
-                            if not os.path.exists(match):
-                                sys.stdout.write(f"{match}\n")
-                        elif args.only_matches:
+                        if args.only_broken and os.path.exists(match):
+                            continue
+                        
+                        if args.only_matches:
                             sys.stdout.write(f"{match}\n")
                         else:
                             sys.stdout.write(f"{file_name} {line_number}: {match}\n")
