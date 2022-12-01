@@ -1,0 +1,1047 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Monsters, Animals and NPCs - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/01-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/02-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/04-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/05-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/06-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1-heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1.1-notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.2-dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.2.1-notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.3-northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.3.1-notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.4-westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.4.1-notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.5-herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.5.1-notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.6-haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.6.1-notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.7-city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/06.8-member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/07-organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/08-other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1-the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1.1-notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.2-the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.2.1-notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.3-the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.3.1-notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.4-the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.4.1-notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.5-deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.5.1-notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.6-foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.6.1-notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.7-mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.7.1-notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.8-sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.8.1-notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/09-the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/11-basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/12-representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/13-combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/14-injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/15-travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/16-magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/17-features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/18-wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/19-luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/20-motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/21-skills.html"><strong aria-hidden="true">17.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/22-character-creation-and-advancement.html"><strong aria-hidden="true">18.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/23-senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/24-races.html"><strong aria-hidden="true">20.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/24.1-common-races.html"><strong aria-hidden="true">20.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.2-uncommon-races.html"><strong aria-hidden="true">20.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.3-neighboring-races.html"><strong aria-hidden="true">20.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.4-exotic-races.html"><strong aria-hidden="true">20.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/25-backgrounds.html"><strong aria-hidden="true">21.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/26-languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/27-traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/28-classes.html"><strong aria-hidden="true">24.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/29-powers.html"><strong aria-hidden="true">25.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/30-items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/30.1-mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.2-combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.3-magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.4-alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/32-what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/33-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/34-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/35-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/36-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/37-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/38-monsters-animals-and-npcs.html" class="active"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/39-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/40-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/41-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/42-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/43-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/44-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="monsters-animals-and-npcs"><a class="header" href="#monsters-animals-and-npcs">Monsters, Animals and NPCs</a></h1>
+<h2 id="sample-creatures"><a class="header" href="#sample-creatures">Sample Creatures</a></h2>
+<p>Remember:</p>
+<ul>
+<li>INIT is (INT+COO)÷5</li>
+<li>DB is (SOM + STR) ÷ 10</li>
+<li>and LUC is WIL × 2</li>
+</ul>
+<p>Listed skills are totals, after aptitudes, ranks and other bonuses have
+been applied.</p>
+<p>Some creatures have unique skills; these are italicized.</p>
+<p>Abilities here but not in Character Creation</p>
+<ul>
+<li>Acute Hearing: +20 on Perception Tests to hear things</li>
+<li>Poor Vision: -20 on Perception Tests to see things.</li>
+</ul>
+<h3 id="bahla"><a class="header" href="#bahla">Bahla</a></h3>
+<p>A <em>Bahla</em> is a small animal much like a rabbit — except that it's larger, about the size of a large cat; wooly like a sheep; and more social and docile.
+Bahla live in groups of 9 to 12; some kinds of bahla live in burrows, while others live in larger flocks.
+Washers often kept bahlas as pets, and herded them for wool and meat; after the loss of their homeland, some washers carried the creatures into exile in the Protectorate.
+Populations of wiled Bahla still roam in the hilly uplands of the western Ruby Plane.</p>
+<h4 id="vitals"><a class="header" href="#vitals">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>4</td><td>15</td><td>15</td><td>4</td><td>10</td><td>15</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>15 (3)</td><td>15</td><td>6</td><td>+2</td><td>30 (6)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Burrow 2/4, Quadruped 5/15/25</li>
+<li>Senses: Normal, <em>Acute Hearing</em> (+20), <em>Motion Sensitive</em> (+10)</li>
+<li>Tags: Animal, Bahla, Domesticated, Familiar, Natural, Wild Companion</li>
+<li>Size: Small</li>
+<li>Diet: Herbivore</li>
+</ul>
+<h4 id="features"><a class="header" href="#features">Features</a></h4>
+<ul>
+<li><strong>Acute Hearing</strong>: bahla have large ears and acute hearing; they gain +20 to auditory perception checks.</li>
+<li><strong>Motion Sensitive</strong>: bahla's vision is very sensitive to motion; they gain a +10 bonus to perception checks against moving creatures or objects.</li>
+<li><strong>Wool</strong>: most types of bahla have wooly coats, which help them endure cold environments.
+Though individual bahla are small, they can still be a valuable secondary source of wool.</li>
+</ul>
+<h4 id="skills"><a class="header" href="#skills">Skills</a></h4>
+<ul>
+<li><em>Flee</em> 50</li>
+<li>Fray 60</li>
+<li><em>Natural Weapons</em> 40</li>
+<li>Perception 50</li>
+<li>Protocol 20</li>
+<li>Read 40</li>
+</ul>
+<h4 id="combat-stats"><a class="header" href="#combat-stats">Combat Stats</a></h4>
+<ul>
+<li>Armor: -</li>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>40 (Natural Weapons), 1D10÷3, AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="black-bear"><a class="header" href="#black-bear">Black Bear</a></h3>
+<h4 id="vitals-1"><a class="header" href="#vitals-1">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>3</td><td>10</td><td>15</td><td>3</td><td>20</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>40 (8)</td><td>40</td><td>5</td><td>+6</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 4/12, Climb 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Animal, Bear, Natural, Wild Companion</li>
+<li>Size: Large</li>
+<li>Diet: Carnivore</li>
+</ul>
+<h4 id="features-1"><a class="header" href="#features-1">Features</a></h4>
+<ul>
+<li><strong>Thick Hide</strong>: +2 Armor</li>
+<li><strong>Pain Tolerance</strong>: can Negate the effect of one Wound.</li>
+</ul>
+<h4 id="skills-1"><a class="header" href="#skills-1">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 60</li>
+<li>Fray 40</li>
+<li><em>Natural Weapons</em> 60</li>
+<li>Perception 60</li>
+</ul>
+<h4 id="combat-stats-1"><a class="header" href="#combat-stats-1">Combat Stats:</a></h4>
+<ul>
+<li>Armor: 2 AV</li>
+<li>Attack: <strong>Claw</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+9 (1D10+3+DB), AP -1</li>
+</ul>
+</li>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="cave-salamander"><a class="header" href="#cave-salamander">Cave Salamander</a></h3>
+<p>Cave salamanders are large, sightless, cave-dwelling amphibians.
+Originating under the Worldspine mountains, they where originally discovered by the Deep-Explorers, but have since been adopted by other subterranean cultures.</p>
+<p>A dangerous carnivore in their native habitat and largely asocial, a wild cave salamander spends almost all it’s time underwater, feeding on insects, fish, and crabs; their domesticated brethren are fed a steady diet of fish steeped and marinated with dwarven reagents.
+It takes a careful balance of behavioral conditioning and alchemical adjustments in order to make these creatures safe to be around, let alone actually usable and trainable.</p>
+<p>While blind, they have a lateral line similar to a shark; it is widely believed that this enables them to detect nearby living organisms.
+They also have vibration-sensing barbells under the chin to sense larger threats or prey.</p>
+<p>Originally a well-kept secret among even the normally secretive Deep-Explorer Dwarves, as the taming of Cave salamanders became more of an industry and their use as riding animals spread, the animals where adopted by other subterranean cultures.
+In the Commonwealth, some Ash Elves and Kobolds also have stables of the animals; remarkably, some Shade Elves <em>rides</em> managed to find and develop their own supply, for riding and raiding in tight quarters</p>
+<h4 id="vitals-2"><a class="header" href="#vitals-2">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>4</td><td>25</td><td>7</td><td>2</td><td>30</td><td>10</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>35 (7)</td><td>30</td><td>5</td><td>+6</td><td>30 (6)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Walking 4/12, Climbing 3/9, swimming 4/12</li>
+<li>Senses: Normal, <em>Blind</em>, Life Sense, Vibration</li>
+<li>Tags: Animal, Amphibian, <em>Cave Salamander</em>, Mount, Natural, Reptile</li>
+<li>Size: Large</li>
+<li>Diet: Herbivore</li>
+</ul>
+<h4 id="features-2"><a class="header" href="#features-2">Features</a></h4>
+<ul>
+<li><strong>Caverunner</strong>: Cave Salamanders are very low-slung, which allows them to carry riders in tight corridors and caverns where a larger mount would be  unable to pass.</li>
+<li><strong>Amphibian</strong>: Cave Salamanders can swim and, with a proper harness, can even pull their riders along with them for mounted aquatic activity — so long as their rider can hold their breath.</li>
+<li><strong>Lowslung</strong>: Cave Salamanders are low-slung; a rider of Medium size or larger may have trouble riding them, as they will be forced to tuck their legs up uncomfortably.
+A race of Size: Small, however, can ride them comfortable.
+(When riding a Cave Salamander, creatures of Size: Medium suffer a -10 penalty to <em>Ride</em>, while creatures of Size: Small gain a +10 bonus.)</li>
+</ul>
+<h4 id="skills-2"><a class="header" href="#skills-2">Skills</a></h4>
+<ul>
+<li><em>Forage</em> 60</li>
+<li>Fray 50</li>
+<li><em>Hunt</em> 40</li>
+<li><em>Natural Weapons</em> 60</li>
+<li>Perception 50</li>
+</ul>
+<h4 id="combat-stats-2"><a class="header" href="#combat-stats-2">Combat Stats</a></h4>
+<ul>
+<li>Armor: -</li>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+6 (1d10+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="chasseh-forrest-spirit"><a class="header" href="#chasseh-forrest-spirit">Chasseh Forrest Spirit</a></h3>
+<p>The spirits that dwell in the woods south of the human town of Chasseh have the ability to take control of the wildlife that is native to their forest.
+These spirits are mercurial, and not particularly friendly; though they can be bargained with, they are typically somewhere between unhelpful and dangerous.</p>
+<p>A possessed animal uses the animal’s stats, but gains the Aptitudes, Skill Ranks and Powers from the spirit.
+You may assign Aptitude Bonuses appropriate to the creature, +10 to one Aptitude and +5 to another.</p>
+<p>If the animal is killed, the spirit simply departs from it, fleeing into the forests.</p>
+<h4 id="vitals-3"><a class="header" href="#vitals-3">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>15</td><td>10</td><td>25</td><td>7</td><td>20</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>-</td><td>-</td><td>7</td><td>-</td><td>40 (8)</td></tr>
+</tbody></table>
+<h4 id="skills-3"><a class="header" href="#skills-3">Skills</a></h4>
+<ul>
+<li>Deception 40 Ranks</li>
+<li>Fray 50 Ranks</li>
+<li><em>Hunt</em> 40 Ranks</li>
+<li><em>Natural Weapons</em> 50 Ranks</li>
+<li>Perception 60 Ranks</li>
+<li>Persuasion 30 Ranks</li>
+<li>Protocol 30 Ranks</li>
+</ul>
+<h3 id="chosen"><a class="header" href="#chosen">Chosen</a></h3>
+<p>A Champion of the One that Chose Us, who is worshiped by some in the Eastern portion of the Kingdoms of Man.</p>
+<h4 id="vitals-4"><a class="header" href="#vitals-4">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>20</td><td>20</td><td>15</td><td>25</td><td>20</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC(TT)</th></tr></thead><tbody>
+<tr><td>30/35 (6/7)</td><td>30/35</td><td>7</td><td>+5</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Foot 4/12</li>
+<li>Senses: Normal</li>
+<li>Tags: Natural, Humanoid, Human</li>
+<li>Language Group: HHED</li>
+</ul>
+<h4 id="features-3"><a class="header" href="#features-3">Features</a></h4>
+<ul>
+<li>Class: <strong>Initiate of the One</strong>
+<ul>
+<li>Initiated into the worship of The One that Chose Us, and recipient of its favor.</li>
+<li>You gain +5 STR and +5 DUR (included above)</li>
+</ul>
+</li>
+<li>Class: <strong>Crusader of the One</strong>
+<ul>
+<li>You gain +DB damage against enemies of the One (including those who oppose it, those who are aligned with opposing spirits, and members of peoples that don’t seek its favor.)</li>
+</ul>
+</li>
+</ul>
+<h4 id="skills-4"><a class="header" href="#skills-4">Skills</a></h4>
+<ul>
+<li>Knowledge: Theology 50</li>
+<li>Athletics 50</li>
+<li>Deception 40</li>
+<li>Fray 60</li>
+<li>Language: Common 25</li>
+<li>Language: Royal 75</li>
+<li>Perception 50</li>
+<li>Persuasion 50</li>
+<li>Pole-Arms 70</li>
+<li>Profession: Priest 40</li>
+<li>Profession: Crusader 60</li>
+<li>Thrown Weapons 60</li>
+<li>Protocol 50</li>
+<li>Stealth 40 (20 in armor)</li>
+</ul>
+<h4 id="items"><a class="header" href="#items">Items</a></h4>
+<ul>
+<li>Brigandine Armor: 7 AV, -10 to checks that include your COO
+<ul>
+<li>Tags: Composite, Cumbersome, Heavy</li>
+</ul>
+</li>
+<li>Spear of the Chosen: Pole-Arms, 2D10+6+DB, AP -2.
+<ul>
+<li>Tags: Two-Handed, Reach</li>
+<li>Special: Creatures with the Natural tag and without the Human tag are <em>Vulnerable</em> to this weapon.</li>
+</ul>
+</li>
+<li>Profession: Crusader <em>Skill Kit</em></li>
+</ul>
+<h4 id="combat-stats-3"><a class="header" href="#combat-stats-3">Combat Stats</a></h4>
+<ul>
+<li>Armor Value: 8</li>
+<li>Attack: <strong>Spear of the Chosen</strong>
+<ul>
+<li>70 (Pole-Arms), 2D10+5, AP -2. Tags: Reach. Non-Humans are <em>Vulnerable</em> to this attack.</li>
+<li>60 (Thrown Weapons), 1D10+7, AP -2. Range 10m/20m/30m/40m. Non-Humans are <em>Vulnerable</em> to this attack.</li>
+</ul>
+</li>
+</ul>
+<h3 id="clay-pot"><a class="header" href="#clay-pot">Clay Pot</a></h3>
+<p>&quot;Clay pots&quot; are small constructed familiars.
+They need not be constructed out of clay: they are named because of a famous example that had a spherical, clay chassis.</p>
+<h4 id="vitals-5"><a class="header" href="#vitals-5">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>10</td><td>10</td><td>15</td><td>10</td><td>20</td><td>15</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>20 (4)</td><td>15</td><td>5</td><td>+3</td><td>30 (6)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Bipedal 3/9</li>
+<li>Senses: Normal, Mage Sight</li>
+<li>Tags: Magical Construct, Familiar</li>
+<li>Size: Clay pots are Small.</li>
+</ul>
+<h4 id="construction"><a class="header" href="#construction">Construction</a></h4>
+<p>When you construct a clay pot as a familiar, you may select up to three of the following <em>modifications</em>:</p>
+<ul>
+<li>Fingers: your clay pot is designed for fine work, and it has small, highly dextrous fingers.  Your clay pot gains +5 COO, and +20 to Disable Device checks and to certain Craft checks.</li>
+<li>Hardened: your clay pot is forged of sturdy materials, such as iron; it gains +10 DUR and +3 Armor.</li>
+<li>Heat: your clay pot has metallic hands, which it can bring to a burning heat; it can use these to melt wax, burn the unwelcome (requiring a touch-only attack and dealing 1d10÷2 DV) or start small fire.</li>
+<li>Levitation: your clay pot hovers just above the ground, allowing it to glide over rough terrain, minor obstacles or water.  It exchanges its Bipedal movement for Hover movement of the same rate.</li>
+<li>Plated: your clay pot is forged from steel, or some other sturdy material; it gains +5 DUR and +3 Armor.  (Requires: Hardened.)</li>
+<li>Swift: your clay pot is particularly quick, upgrading its movement rate to Bipedal 5/15 (or Hover 5/15 if you also have Hover, or Wall-Slide 5/15 if you have Walls).</li>
+<li>Walls: your clay pot can &quot;levitate&quot; over walls and ceilings as well as floors.  It exchanges its Hover movement for Wall-Slide movement of the same rate.  (Requires: Hover.)</li>
+</ul>
+<p>When you construct your Clay Pot, you may select up to four skills; your clay pot receives 20 ranks in each of these skills.</p>
+<h3 id="cougar"><a class="header" href="#cougar">Cougar</a></h3>
+<p>These big cats are flexible predators, able to persist from the snowy
+north to the humid south. They are solitary and territorial. They
+usually hunt by ambush. Though dangerous, they can be backed off of prey
+by other large predators.</p>
+<h4 id="vitals-6"><a class="header" href="#vitals-6">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>3</td><td>15</td><td>10</td><td>3</td><td>20</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>25 (5)</td><td>20</td><td>5</td><td>+4</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 4/12, Climbing 4/12</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Animal, Cougar, Natural, Wild Companion</li>
+</ul>
+<h4 id="features-4"><a class="header" href="#features-4">Features</a></h4>
+<ul>
+<li>Rake: Like many cats, cougars will attempt to grip prey with their front paws and bite, and then disembowel it with their back legs.
+If a cougar hits with its bite or claws and scores an exceptional success, it grapples the target.
+If a cougar starts its turn grappling its prey, it can <em>disembowel</em> as a standard action, dealing 2D10+6 (2D10+2+DB) damage.</li>
+</ul>
+<h4 id="skills-5"><a class="header" href="#skills-5">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 40</li>
+<li>Fray 50</li>
+<li>Intimidate 30</li>
+<li>Natural Weapons 70</li>
+<li>Perception 50</li>
+<li>Stealth 60</li>
+</ul>
+<h4 id="combat-stats-4"><a class="header" href="#combat-stats-4">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+5 (1D10+1+DB), AP -</li>
+</ul>
+</li>
+<li>Attack: <strong>Claws</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+6 (1D10+2+DB), AP -1</li>
+</ul>
+</li>
+</ul>
+<h3 id="dancing-hawk"><a class="header" href="#dancing-hawk">Dancing Hawk</a></h3>
+<p>Dancing Hawks are creatures native to the Dragons' Mountains, the low range that takes up the southeastern half of the Dragonshire; these massive creatures are sometimes used as mounts by Drakes.
+They are named for the unique &quot;stomp&quot; that they use to attack prey.</p>
+<p>Like a number of species native the the Dragons' Mountains — including dragons themselves — the Dancing Hawk is something between a bird and a reptile.
+They are shaped somewhat like a large bird, save that they have jaws (with teeth) rather than a beak; a long, strong, flexible tail that they use for balance and control while running; and their wings are tiny and folded before and under them, like small, awkward arms.
+They cannot fly, instead using their tiny wings for display, and for some other social behavior.
+They are, however, adept runners, and they run powerfully and surely through the hills and low peaks of the Drake's Mountains; their legs are massively muscled, able to carry their own weight comfortably, and a Drake rider beside.
+Most of their bodies are covered in fine, brown feathers, save their legs (which are scaled, like a bird's), and their small arms and long tails (which are covered in long, white feathers with black tips); the same long feathers sprout from the back of the Dancing Hawk's head.
+Dancing Hawks are huge, often the height of a drake at their hip, three times as long from nose to tail, and heavy as a small chunk of masonry.</p>
+<p>Dancing Hawks are omnivorous; they prefer the fruits and leaves of several trees native to the Dragons' Mountains, as well as some of the hardier shrubs and grasses that grow further up the slope.
+They also hunt, though they only hunt animals much smaller than themselves; unfortunately for the shepherds of the hills below the Dragons' Mountains, a sheep is &quot;much smaller than&quot; these massive creatures.
+Dancing Hawks have a unique method of hunting; their jaws are not powerful enough to kill, and their claws are wide, short, thick and well-muscled — and without claw or talon, adapted as they are for agility in the rough mountains rather than gripping or slashing.
+Instead, they &quot;stomp&quot; on their pray, raising their legs and striking down with immense force; given the size and strength of the creature, these stomps are devastating.</p>
+<p>Dancing Hawks are social creatures, travelling in small packs in the Dragons' Mountains.
+A typical pack consists of about 6 adults and their young.
+They are also intelligent animals — smart enough to share kills and to cooperate to raise their pack's young.</p>
+<p>Dancing Hawks run with their spines parallel to the ground; this, taken together with their social and intelligent nature, makes it possible for them to bear a rider.
+Though most of them still run wild in the hills and mountains of the Dragons' Mountains, there are several domesticated breeds; they have the size and strength to bear a Drake rider, and the intelligence to be trained for war.
+Two factors prevent them from being used ubiquitously as mounts; their clutches, range and populations are small, and they do not have a horse's endurance.
+Still, some Drakes do use these powerful creatures as war-mounts, and their stomps are devastating attacks against downed foes.</p>
+<div class="asside">
+<p>Yes, it's like a <a href="https://en.wikipedia.org/wiki/Utahraptor">Utahraptor</a> that's also a <a href="https://en.wikipedia.org/wiki/Secretarybird">Secretarybird</a>, except much bigger and omnivorous, and also you can ride it.</p>
+</div>
+<h4 id="vitals-7"><a class="header" href="#vitals-7">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>4</td><td>20</td><td>7</td><td>4</td><td>25</td><td>15</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>45 (9)</td><td>45</td><td>5</td><td>+7</td><td>30 (6)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Walking 5/15, Climbing 2/6, Leaping 4/12</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Animal, Dancing Hawk, Dragonoid, Mount, Natural</li>
+<li>Size: Very Large</li>
+<li>Diet: Omnivore</li>
+</ul>
+<h4 id="features-5"><a class="header" href="#features-5">Features</a></h4>
+<ul>
+<li><strong>Mountain's Hide</strong>: these animals have a thick, touch hide, and their layer of thick, short feathers insulates them from the cold.  They have +1 Armor, and they gain a +10 bonus to checks to endure cold environments or thin air.</li>
+<li><strong>Low Endurance</strong>: however, these animals typically dwell within small ranges.  They are unused to traveling for long periods of time over long distances, and so they take a -10 penalty on checks related to fatigue.</li>
+</ul>
+<h4 id="skills-6"><a class="header" href="#skills-6">Skills</a></h4>
+<ul>
+<li><em>Forage</em> 55</li>
+<li>Fray 50</li>
+<li><em>Hunt</em> 45</li>
+<li><em>Natural Weapons</em> 60</li>
+<li>Perception 50</li>
+</ul>
+<h4 id="combat-stats-5"><a class="header" href="#combat-stats-5">Combat Stats</a></h4>
+<ul>
+<li>Armor: 1</li>
+<li>Attack: <strong>Stomp</strong>
+<ul>
+<li>60 (Natural Weapons), 2d10+7 (2d10+DB), AP 1</li>
+</ul>
+</li>
+</ul>
+<h4 id="special-rare-mount"><a class="header" href="#special-rare-mount">Special: Rare Mount</a></h4>
+<p>Dancing Falcons can be acquired from Dragonshire breeders — or the bold and fortunate might raise them from hatchlings.
+They are cost-category [Extreme].</p>
+<h3 id="frozen-horror"><a class="header" href="#frozen-horror">Frozen Horror</a></h3>
+<p>Created when several powerful spirits colluded with a mortal to release
+one of the Dead, without binding it — and with some other string attached.</p>
+<h4 id="vitals-8"><a class="header" href="#vitals-8">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>5</td><td>20</td><td>5</td><td>5</td><td>30</td><td>-</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>40 (8)</td><td>50</td><td>5</td><td>+8</td><td>-</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Walking 4/12, Climbing 3/9, Leap 5/15</li>
+<li>Senses: Normal, Blind-Sight</li>
+<li>Tags: Humanoid, Dead, Frost, Spirit</li>
+</ul>
+<h4 id="features-6"><a class="header" href="#features-6">Features</a></h4>
+<ul>
+<li>Blizzard Born: Unaffected by cold environments, can move through snowy environments and blizzards unhindered.</li>
+<li>Beneath Cold Ground: Gains Fast Healing 2 while buried beneath earth, snow or frost.</li>
+<li>Returned: The Frozen Horror has the perspective of the returned Dead; it has no mortal concerns, no fear, an knows no pain.
+It has no WIL score, and always passes tests against fear or pain.</li>
+<li>Frozen Flesh: The Frozen Horror has +6 Armor, and Resistance to Cold and Precision.</li>
+</ul>
+<h4 id="skills-7"><a class="header" href="#skills-7">Skills</a></h4>
+<ul>
+<li>Athletics [Climbing] 60</li>
+<li>Fray 50</li>
+<li>Intimidate 60</li>
+<li>Natural Weapons 70</li>
+<li>Perception [Snowy Conditions] 60</li>
+<li>Stealth [Snowy Conditions] 60</li>
+</ul>
+<h4 id="combat-stats-6"><a class="header" href="#combat-stats-6">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Talons</strong>
+<ul>
+<li>70 (Natural Weapons), 2D10+10 (2D10+2+DB), AP -3</li>
+</ul>
+</li>
+</ul>
+<h3 id="horse"><a class="header" href="#horse">Horse</a></h3>
+<p>These quadrupedal creatures are native to the southwest of the Emerald Plane.
+They have long been ridden as mounts — and bred for the purpose — by the cultures there, and have since spread east throughout the Emerald Plane.</p>
+<h4 id="vitals-9"><a class="header" href="#vitals-9">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>3</td><td>15</td><td>15</td><td>4</td><td>30</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>30 (6)</td><td>30</td><td>6</td><td>+6</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 5/15/30</li>
+<li>Senses: Normal</li>
+<li>Tags: Animal, Horse, Mount, Natural, Wild Companion</li>
+<li>Size: Large</li>
+</ul>
+<h4 id="skills-8"><a class="header" href="#skills-8">Skills</a></h4>
+<ul>
+<li>Fray 40</li>
+<li>Perception 60</li>
+<li><em>Run</em> 70</li>
+<li><em>Stomp</em> 45</li>
+</ul>
+<h4 id="combat-stats-7"><a class="header" href="#combat-stats-7">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Stomp</strong>
+<ul>
+<li>45 (Stomp), 1d10+6 (1d10+DB), AP 1</li>
+</ul>
+</li>
+</ul>
+<h3 id="kambi"><a class="header" href="#kambi">Kambi</a></h3>
+<p>These small, furred, yapping creatures have a rudimentary intelligence;
+they tend to live in simple, hierarchal social groups, and can build
+simple “languages” with as many as 100 sounds and concepts. Attempts to
+integrate them into Commonwealth society have failed; they are usually
+managed as pests, and occasionally kept as pets.</p>
+<p>Background may need tweaking; I want this to be funny, not dark.</p>
+<h4 id="vitals-10"><a class="header" href="#vitals-10">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>6</td><td>10</td><td>15</td><td>5</td><td>10</td><td>30</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>15 (3)</td><td>10</td><td>5</td><td>+2</td><td>60 (12)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Walking 4/12</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Humanoid, Kambi, Wild Companion</li>
+<li>Size: Small</li>
+</ul>
+<h4 id="features-7"><a class="header" href="#features-7">Features</a></h4>
+<ul>
+<li><strong>Mindlessly Brave</strong>: Kambis have almost no instinct for self-preservation.
+On the plus side, this means that it is almost impossible to frighten them; on the minus side, this means that Kambis can fail to avoid even obvious hazards, blithely walking into danger and destruction.
+<ul>
+<li>Kambis automatically pass tests to resist fear.</li>
+<li>Kambis have the Oblivious trait. Work on this.</li>
+</ul>
+</li>
+<li><strong>Trainable</strong>: Kambis have a basic ability to learn and to use tools.
+<ul>
+<li>Kambis can have up to 30 ranks in skills, in addition to those listed here.</li>
+<li>“Wild” Kambi societies will typically be trained in combat skills.</li>
+<li>“Domesticated” Kambis can be trained in diverse skills.
+(10 points in a language is recommended.)</li>
+</ul>
+</li>
+<li><strong>Almost Social</strong>: Kambis can be influenced by either Handle Animal or Persuasion.</li>
+</ul>
+<h4 id="skills-9"><a class="header" href="#skills-9">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 50</li>
+<li>Cooking 40</li>
+<li>Fray 40</li>
+<li>Intimidate 30</li>
+<li>Perception 40</li>
+<li>Stealth 40</li>
+<li>One Melee skill at 50</li>
+</ul>
+<h4 id="items-1"><a class="header" href="#items-1">Items</a></h4>
+<ul>
+<li>“wild” Kambis will have simple armor (1 Armor) and a simple weapon (a knife, “sword” or spear).</li>
+</ul>
+<h3 id="pack-cat"><a class="header" href="#pack-cat">Pack Cat</a></h3>
+<p>These unusual creatures are distant relatives of other big cats, particularly mountain lions.
+At first glance they look something like a white-furred mountain lion, although there are subtle differences; they are slightly smaller and leaner, they have a narrower stance, and their legs are slightly longer — with their front legs being slightly higher than their back legs.
+Their muzzles are also slightly longer and narrower than other cats, giving their heads a slightly different profile.</p>
+<p>Perhaps the most important difference between <em>pack-cats</em> and other cats, however, is their social nature; they live in large packs, ranging from 10 to 20, and demonstrate complex social heirarchies, and cooperate socially to accomplish most tasks.
+They are hunters and scavengers, and will work as a pack to brind down large pray, to defend kills, and to drive over large predators away from kills.
+They also participate in social rearing, cooperating to raise the pack's young.</p>
+<p>The cultures of the snowy north have long-since domesticated these creatures; they are kept as pets, work-animals, hunters and war-animals.
+They are particularly common in Orcish communities, where some breeds have very long histories with certain communities or clans.</p>
+<h4 id="vitals-11"><a class="header" href="#vitals-11">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>5</td><td>15</td><td>15</td><td>5</td><td>20</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>25 (5)</td><td>20</td><td>6</td><td>+4</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 4/12, Climbing 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Animal, Natural, Pack Cat, Wild Companion</li>
+</ul>
+<h4 id="skills-10"><a class="header" href="#skills-10">Skills</a></h4>
+<ul>
+<li>Fray 50</li>
+<li><em>Hunt [Pack Tactics]</em> 50</li>
+<li>Intimidate 45</li>
+<li>Natural Weapons 60</li>
+<li>Perception 50</li>
+<li>Stealth 50</li>
+</ul>
+<h4 id="combat-stats-8"><a class="header" href="#combat-stats-8">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+7 (1D10+1+DB), AP -</li>
+</ul>
+</li>
+<li>Attack: <strong>Claws</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+6 (1D10+DB), AP -1</li>
+</ul>
+</li>
+</ul>
+<h3 id="raccoon"><a class="header" href="#raccoon">Raccoon</a></h3>
+<p>These small, intelligent omnivores have dexterous hands and a highly
+developed sense of touch; they can be very difficult to manage, as they
+can open bottles, jars, doors and simple locks. Though they can live in
+many environments, they prefer those that afford them trees to hide in,
+and streams where they can forage for (and wash) food.</p>
+<h4 id="vitals-12"><a class="header" href="#vitals-12">Vitals</a></h4>
+<p>| COG | COO | INT | SAV | SOM | WIL |
+| 4   | 15  | 15  | 3   | 15  | 20  |</p>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>15 (3)</td><td>10</td><td>6</td><td>+2</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 3/9, Climbing 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Natural, Animal, Familiar, Raccoon, Wild Companion</li>
+<li>Size: Raccoons are Small.</li>
+</ul>
+<h4 id="features-8"><a class="header" href="#features-8">Features</a></h4>
+<ul>
+<li>Acute Touch: Touch is a raccoon’s dominant sense, and they can perceive and manipulate small objects by touch alone; they can even defeat simple locks purely by touch, without needing to see them.
+Raccoons receive a +20 bonus to Perception tests involving touch.</li>
+</ul>
+<h4 id="skills-11"><a class="header" href="#skills-11">Skills</a></h4>
+<ul>
+<li>Climb 50</li>
+<li>Disable Device 40</li>
+<li>Fray 40</li>
+<li>Natural Weapons 50</li>
+<li>Palming 50</li>
+<li>Perception 50</li>
+<li>Scrounge 50</li>
+<li>Swim 40</li>
+<li>Stealth 50</li>
+</ul>
+<h4 id="combat-stats-9"><a class="header" href="#combat-stats-9">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>50 (Natural Weapons), 1D10+2 (1D10+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="raptor"><a class="header" href="#raptor">Raptor</a></h3>
+<p>At first glance, these large, heavily-feathered predators might appear
+to be birds. Their large, clawed, three-fingered hands might appear to
+be wings, and can allow the creature to glide for short distances; their
+large, powerful legs allow them to sprint and pounce; each foot has a
+large, sickle-shaped claw on one toe, allowing them to grip and restrain
+prey; and their long, articulated tails provide stability while
+sprinting, leaping and gliding.</p>
+<p>Raptors are common on <em>the Southern continent,</em> where there are many
+different species present, fitting a variety of different sizes, diets
+and behaviors; some are larger, and hunt mainly by pouncing and pinning
+live pray, while others are smaller, can fly, and hunt small animals and
+insects. The one presented here is a medium-sized creature known as a
+<em>get Acier to give us a name</em>; they operate in small packs, and hunt
+smaller prey by pursuit or ambush.</p>
+<h4 id="vitals-13"><a class="header" href="#vitals-13">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>4</td><td>20</td><td>10</td><td>4</td><td>20</td><td>10</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>30 (6)</td><td>35</td><td>6</td><td>+5</td><td>20 (5)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Foot 5/15, Leap 5/15, Glide 3/9, Climb 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Natural, Animal, Raptor, Wild Companion</li>
+<li>Size: Medium</li>
+</ul>
+<h4 id="features-9"><a class="header" href="#features-9">Features</a></h4>
+<ul>
+<li>Pounce: When a raptor charges, if it hits and scores an exceptional success, then the target is <em>knocked prone</em> and the raptor grapples it.</li>
+</ul>
+<h4 id="skills-12"><a class="header" href="#skills-12">Skills</a></h4>
+<ul>
+<li>Chase 70</li>
+<li>Climb 40</li>
+<li>Fly 40</li>
+<li>Fray 50</li>
+<li>Natural Weapons 70</li>
+<li>Perception 60</li>
+<li>Stealth 40</li>
+</ul>
+<h4 id="combat-stats-10"><a class="header" href="#combat-stats-10">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+7 (1D10+2+DB), AP -1</li>
+</ul>
+</li>
+</ul>
+<h3 id="commonwealth-soldier"><a class="header" href="#commonwealth-soldier">Commonwealth Soldier</a></h3>
+<p>The soldiers who keep the Commonwealth’s trade routes safe, its borders
+secure, and its enemies in check.</p>
+<h4 id="vitals-14"><a class="header" href="#vitals-14">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>15</td><td>15</td><td>20</td><td>20</td><td>25</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>35 (7)</td><td>35</td><td>7</td><td>+5</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Foot 5/15</li>
+<li>Senses: Normal, Low-Light, Scent</li>
+<li>Tags: Natural, Humanoid, Gnoll</li>
+<li>Language Group: GR</li>
+</ul>
+<h4 id="features-10"><a class="header" href="#features-10">Features</a></h4>
+<ul>
+<li>Hide: +1 Armor</li>
+<li>Scavenger: +20 on checks to resist food-borne illnesses.</li>
+<li>Sturdy: can negate one Wound</li>
+<li>Soldier: can use the Assist action in combat</li>
+</ul>
+<h4 id="skills-13"><a class="header" href="#skills-13">Skills</a></h4>
+<ul>
+<li>Athletics 50</li>
+<li>Fray 60</li>
+<li>Language: Common 50</li>
+<li>Language: Heartland Gnoll 80</li>
+<li>Perception 50</li>
+<li>Pole-Arms 70</li>
+<li>Profession: Soldier 60</li>
+<li>Protocol 40</li>
+<li>Stealth 50 (30 in armor)</li>
+</ul>
+<h4 id="items-2"><a class="header" href="#items-2">Items</a></h4>
+<ul>
+<li>Brigandine Armor: 8 Armor, -20 to COO-linked skills. Heavy.</li>
+<li>Halberd: Pole-Arms, 2D10+6+DB, AP -2. Tags: Two-Handed, Reach.</li>
+</ul>
+<h4 id="combat-stats-11"><a class="header" href="#combat-stats-11">Combat Stats</a></h4>
+<ul>
+<li>Armor: 9 Armor</li>
+<li>Attack: <strong>Halberd</strong>
+<ul>
+<li>70 (Pole-Arms), 2D10+11 DV, AP -2.</li>
+<li>Two-Handed, Reach.</li>
+</ul>
+</li>
+</ul>
+<h3 id="stilt-raccoon"><a class="header" href="#stilt-raccoon">Stilt-Raccoon</a></h3>
+<p><em>Stilt-Raccoons</em> are raccoon-like creatures that live along the river-banks and in the marshy lowlands in the Kingdom of Tenna, in the Eastern Kingdoms.
+They have long, slender legs, with which they wade through the shallow waters of marshes, river-banks and lake shores.
+They are omnivorous, feeding on small fish, some insects,  muscles and clams, and a wide variety of plants and roots.
+Much like raccoons, they have an extremely acute sense of touch, which they use to forage for roots, muscles and clams in soft sands.
+They are also known as &quot;spearfishers&quot; in the Kingdoms of Men, after the quick striking motions they make when they plunge a forearm into shallow water to strike a fish or frog.</p>
+<p>Even though they aren't predators — and despite being more than a little cute — stilt-raccoons are difficult to keep as pets.
+They're fairly docile, and they aren't aggressive as long as they're treated well — but they need access to a large body of water, or their health will deteriorate.</p>
+<p>The Story of Reckless Prince Eta is popular children's story in the Kingdom of Tenna; it began more than five hundred years ago as a satire of an actual noble of the Tenna clan, but morphed into a parable for children.
+It tells the story of a reckless prince who thought himself infinitely wise and strong, and believed no harm could befall him; ultimately, he swam too near a stilt-raccoon, which speared into the water with its forearm and stuck him.
+Darker and more didactic versions of the story have the prince being struck in the back of the head, which stuns him and causes him to drown; bawdier and more comic versions of the story place the blow elsewhere.</p>
+<h4 id="vitals-15"><a class="header" href="#vitals-15">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>4</td><td>15</td><td>15</td><td>3</td><td>15</td><td>15</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>15 (3)</td><td>10</td><td>6</td><td>+2</td><td>30 (6)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Climb 2/6, Quadruped 3/9, Swim 2/6, <em>Wader</em></li>
+<li>Senses: Normal, Acute Touch, <em>Glare-Resistant</em>, Scent</li>
+<li>Tags: Animal, Domesticated, Familiar, Natural, Stilt-Raccoon, Wild Companion</li>
+<li>Size: Small</li>
+<li>Diet: Marine Omnivore</li>
+</ul>
+<h4 id="features-11"><a class="header" href="#features-11">Features</a></h4>
+<ul>
+<li><strong>Glare-Resistant</strong>: stilt-raccoons are resistant to the effects of glare, the better to hunt fish, frogs and other small animals beneath the surface of lakes and streams.</li>
+<li><strong>Wader</strong>: stilt-raccoons are well-adapted to wading, and are not slowed when moving through shallow water with quadruped movement.
+They also make little sound while doing so, so they do not take penalties to Stealth checks related to being quiet the way most creatures would.</li>
+<li><strong>Camouflage</strong>: stilt-raccoons have a dark coat, which helps them to hide in darkness and shadow; this gives them a +10 bonus to Stealth checks in dark areas.</li>
+</ul>
+<h4 id="skills-14"><a class="header" href="#skills-14">Skills</a></h4>
+<ul>
+<li>Fray 50</li>
+<li><em>Natural Weapons</em> 50</li>
+<li>Perception 50</li>
+<li><em>Stalk</em> 40</li>
+</ul>
+<h4 id="combat-stats-12"><a class="header" href="#combat-stats-12">Combat Stats</a></h4>
+<ul>
+<li>Armor: -</li>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>50 (Natural Weapons), 1D10÷3, AP -</li>
+</ul>
+</li>
+<li>Attack: <strong>Jab</strong>
+<ul>
+<li>50 (Natural Weapons), 1d10+3, AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="weasel"><a class="header" href="#weasel">Weasel</a></h3>
+<p>These small creatures are wild, frenetic hunters.</p>
+<h4 id="vitals-16"><a class="header" href="#vitals-16">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>3</td><td>15</td><td>10</td><td>3</td><td>15</td><td>20</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>15 (3)</td><td>10</td><td>5</td><td>+2</td><td>40 (8)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Climb 2/6, Quadruped 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Natural, Animal, Familiar, Weasel</li>
+<li>Size: Weasels are small creatures, some little larger than mice.  They are Tiny.</li>
+<li>Diet: Carnivore</li>
+</ul>
+<h4 id="features-12"><a class="header" href="#features-12">Features</a></h4>
+<ul>
+<li>Acute Hearing: Weasels get +20 on auditory perception checks.</li>
+<li>Frenetic: Weasels are manic hunters; the scent of blood can send them into a frenzy, in which they attack wildly and can kill much more prey than they will eat.
+<ul>
+<li>If a weasel inflicts a wound, it enters a Frenzy</li>
+<li>While in a frenzy, they are immune to fear, and can negate one Wound and one Trauma; also,</li>
+<li>they attack convulsively, attacking anything they might consider prey.</li>
+<li>Frenzies last for WIL÷5 minutes.</li>
+<li><strong>Special</strong>: if a weasel is taken as a familiar, then its master is also affected by its Frenzy.  The master may attempt to restrain themselves from attack with a WIL×3 check, and attempt to end the weasel's frenzy early with a WIL×2 check.</li>
+</ul>
+</li>
+</ul>
+<h4 id="skills-15"><a class="header" href="#skills-15">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 50</li>
+<li>Fray 50</li>
+<li>Natural Weapons 70</li>
+<li>Perception 50</li>
+<li>Stealth 60</li>
+</ul>
+<h4 id="combat-stats-13"><a class="header" href="#combat-stats-13">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -</li>
+</ul>
+</li>
+<li>Attack: <strong>Claws</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+3 (1D10+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="wolf"><a class="header" href="#wolf">Wolf</a></h3>
+<p>These intelligent and social predators are known for their pack tactics.</p>
+<h4 id="vitals-17"><a class="header" href="#vitals-17">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>5</td><td>10</td><td>15</td><td>5</td><td>20</td><td>15</td></tr>
+</tbody></table>
+<p>| DUR (WT) | STR | INIT |     | DB  | LUC (TT) |
+| 25 (5)   | 20  | 5    |     | +4 | 30 (6)   |</p>
+<ul>
+<li>Movement: Quadruped 5/15</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Natural, Animal, Wild Companion, Wolf</li>
+</ul>
+<h4 id="features-13"><a class="header" href="#features-13">Features</a></h4>
+<ul>
+<li>Acute Hearing: +20 on auditory perception checks</li>
+<li>Take-Down: If a wolf hits with a Bite and scores an Exceptional Success, then it can <em>bite down</em>, effectively grappling the creature it’s biting.</li>
+</ul>
+<h4 id="skills-16"><a class="header" href="#skills-16">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 70</li>
+<li>Fray 40</li>
+<li>Intimidate 50</li>
+<li>Natural Weapons 60</li>
+<li>Perception 60</li>
+<li>Protocol 30</li>
+<li>Stealth 50</li>
+</ul>
+<h4 id="combat-stats-14"><a class="header" href="#combat-stats-14">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>60 (Natural Weapons), 1D10+4 (1D10+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h3 id="wolverine"><a class="header" href="#wolverine">Wolverine</a></h3>
+<p>These small, bold and highly-muscular predators often punch well above
+their weight.</p>
+<h4 id="vitals-18"><a class="header" href="#vitals-18">Vitals</a></h4>
+<table><thead><tr><th>COG</th><th>COO</th><th>INT</th><th>SAV</th><th>SOM</th><th>WIL</th></tr></thead><tbody>
+<tr><td>3</td><td>15</td><td>10</td><td>3</td><td>15</td><td>25</td></tr>
+</tbody></table>
+<table><thead><tr><th>DUR (WT)</th><th>STR</th><th>INIT</th><th>DB</th><th>LUC (TT)</th></tr></thead><tbody>
+<tr><td>20 (4)</td><td>20</td><td>5</td><td>+3</td><td>50 (10)</td></tr>
+</tbody></table>
+<ul>
+<li>Movement: Quadruped 3/9, Climbing 3/9</li>
+<li>Senses: Normal, Scent</li>
+<li>Tags: Natural, Animal, Wild Companion, Wolverine</li>
+<li>Size: Wolverines are about the size of a dog; they are Small.</li>
+</ul>
+<h4 id="features-14"><a class="header" href="#features-14">Features</a></h4>
+<ul>
+<li>Brave: Though Wolverines consist primarily on carrion, they can be fearless predators, and will attack (or attempt to steal a kill from) animals much larger than themselves.
+Wolverines have the Brave trait.</li>
+</ul>
+<h4 id="skills-17"><a class="header" href="#skills-17">Skills</a></h4>
+<ul>
+<li><em>Chase</em> 50</li>
+<li>Fray 50</li>
+<li>Intimidate 40</li>
+<li>Natural Weapons 70</li>
+<li>Perception 50</li>
+<li>Stealth 60``</li>
+</ul>
+<h4 id="combat-stats-15"><a class="header" href="#combat-stats-15">Combat Stats</a></h4>
+<ul>
+<li>Attack: <strong>Bite</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+2 (1D10+DB-1), AP -</li>
+</ul>
+</li>
+<li>Attack: <strong>Claws</strong>
+<ul>
+<li>70 (Natural Weapons), 1D10+3 (1D10+DB), AP -</li>
+</ul>
+</li>
+</ul>
+<h2 id="building-creatures"><a class="header" href="#building-creatures">Building Creatures</a></h2>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/37-common-hazards.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/39-secrets.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/37-common-hazards.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/39-secrets.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

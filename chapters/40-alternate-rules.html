@@ -1,0 +1,886 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Alternate Rules - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/01-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/02-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/04-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/05-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/06-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1-heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1.1-notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.2-dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.2.1-notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.3-northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.3.1-notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.4-westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.4.1-notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.5-herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.5.1-notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.6-haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.6.1-notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.7-city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/06.8-member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/07-organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/08-other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1-the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1.1-notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.2-the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.2.1-notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.3-the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.3.1-notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.4-the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.4.1-notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.5-deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.5.1-notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.6-foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.6.1-notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.7-mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.7.1-notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.8-sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.8.1-notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/09-the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/11-basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/12-representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/13-combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/14-injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/15-travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/16-magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/17-features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/18-wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/19-luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/20-motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/21-skills.html"><strong aria-hidden="true">17.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/22-character-creation-and-advancement.html"><strong aria-hidden="true">18.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/23-senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/24-races.html"><strong aria-hidden="true">20.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/24.1-common-races.html"><strong aria-hidden="true">20.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.2-uncommon-races.html"><strong aria-hidden="true">20.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.3-neighboring-races.html"><strong aria-hidden="true">20.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.4-exotic-races.html"><strong aria-hidden="true">20.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/25-backgrounds.html"><strong aria-hidden="true">21.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/26-languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/27-traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/28-classes.html"><strong aria-hidden="true">24.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/29-powers.html"><strong aria-hidden="true">25.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/30-items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/30.1-mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.2-combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.3-magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.4-alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/32-what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/33-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/34-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/35-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/36-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/37-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/38-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/39-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/40-alternate-rules.html" class="active"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/41-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/42-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/43-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/44-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="alternate-rules"><a class="header" href="#alternate-rules">Alternate Rules</a></h1>
+<p>The following are alternate rules systems.
+Some of them might be ideas that I’m playing with for future inclusion, while others might just be common systems that most people would house-rule in if we didn’t cover them.
+Some are just good rules that we didn’t think fit in the core rules, for one reason or another.</p>
+<h2 id="buying-back-negative-traits"><a class="header" href="#buying-back-negative-traits">Buying Back Negative Traits</a></h2>
+<ul>
+<li>
+<p>Sometimes a player might want to remove a negative trait that
+they’ve acquired.</p>
+<ul>
+<li>Maybe a negative trait they selected during character creation
+is turning out to be more of a hassle than they thought it
+would, or</li>
+<li>maybe they acquired the trait during play and want to get rid of
+it (who wants to be Wanted forever?).</li>
+</ul>
+</li>
+<li>
+<p>Using these rules, when a character is spending rez, they may spend
+an amount of Rez equal to the CP bonus from a negative trait to “buy
+it off”—that is, remove it.</p>
+</li>
+<li>
+<p>Optionally, the GM can rule that some negative traits cannot simply
+be bought off, but might require some in-character action.</p>
+<ul>
+<li>Buying back the Wanted trait, for example, might be an
+interesting adventure in itself.</li>
+<li>Of course, when this happens, the GM should lower the cost in
+Rez to buy the trait off (potentially even all the way to 0).
+This essentially represents giving the character credit for the
+extra work that they’re doing.</li>
+</ul>
+</li>
+</ul>
+<h2 id="creating-advantage"><a class="header" href="#creating-advantage">Creating Advantage</a></h2>
+<ul>
+<li>
+<p>This alternate rule represents a system for using one skill to help
+out with another</p>
+<ul>
+<li>it replaces the Related Skill and Assisting Characters bonuses.</li>
+</ul>
+</li>
+<li>
+<p>Characters can attempt to create advantage for an upcoming check,
+called the Primary Check.</p>
+</li>
+<li>
+<p>To create an advantage, a character picks a skill that could be used
+to help — usually a skill that could be a related skill, or that could
+be used to assist. They then roll a Simple Check: if they succeed,
+then the primary check has <em>advantage.</em></p>
+</li>
+<li>
+<p>If a character has advantage on a test, then they select on effect
+that they would normally spend a Luck Point for, and again that
+benefit.</p>
+</li>
+<li>
+<p>A character can potentially create advantage for themselves, or for
+other characters.</p>
+</li>
+<li>
+<p>For example, suppose you’d like to sit in a market and listen for
+local gossip, but you want to do so without attracting attention.
+This is naturally a Stealth test, since you’re trying to “blend in.”
+But, if you’re a social character, you might not have a good Stealth
+rating.</p>
+<ul>
+<li>With the normal rules, you might ask the GM if you can use your
+Protocol as a related skill — representing you using your
+knowledge of social norms to be inconspicuous.</li>
+</ul>
+</li>
+<li>
+<p>The test that you would like to create an advantage for is the
+<em>primary test</em>, and the skill that you would like to use to create
+that advantage is the <em>secondary skill</em>.</p>
+</li>
+<li>
+<p>To create advantage, before making the primary test, make a Simple
+Success Check using the secondary skill; if you excel, you gain
+<em>advantage</em> on the primary test.</p>
+</li>
+<li>
+<p>If you have <em>advantage</em> on a test, you may select one effect that
+you would normally spend a Luck Point for, and gain that benefit.
+(So you could choose to remove all negative modifiers, for example.)</p>
+<ul>
+<li>You still have to follow the restrictions about when you can
+spend a luck point. For example, you can’t decide before you
+roll that you’d like to flip your result, and you can’t decide
+after you roll that you’d like to remove all negative modifiers.</li>
+</ul>
+</li>
+<li>
+<p>Sometimes, creating advantage doesn’t require a discrete action; if
+you’re using your Academics: Alchemy to help you craft a potion,
+then the Academics: Alchemy secondary skill test isn’t a separate
+action from the Task Action to brew the potion.</p>
+<ul>
+<li>Someteimes, however, you <em>can</em> create advantage as a separate
+action. If you research a noble’s family history in a library
+before attempting to arrange a meeting, then you can represent
+that by using a Research test (a Task Action) to create
+advantage on the following Protocol test.</li>
+</ul>
+</li>
+</ul>
+<h2 id="fate-points"><a class="header" href="#fate-points">Fate Points</a></h2>
+<ul>
+<li>
+<p>“Borrowed” from Fate.</p>
+</li>
+<li>
+<p>We hate Fate, but hey, other people like it, so for them, there’s
+the Fate Points alternative rule.</p>
+</li>
+<li>
+<p>This optional rule adds a new stat: similar to Luck Points,
+characters now have the Fate stat and Fate Points.</p>
+</li>
+<li>
+<p>Each character also receives 1 Fate for free during character
+creation, and they can increase their Fate by 1 for 15 CP.</p>
+</li>
+<li>
+<p>Like Luck, characters begin play with a number of Fate Points equal
+to their Fate stat; over the course of the game, they can gain,
+spend and lose Fate Points, but their Fate state remains the same.</p>
+</li>
+<li>
+<p>Players may spend a Fate Point to do the following:</p>
+<ul>
+<li>Specify some useful detail about their surroundings — like a
+window that they can jump through to escape Danger 5, or paint
+they can use to pretend they have clothes on.</li>
+<li>Specify some connection they have to an NPC (such as that they
+served in the same regiment).</li>
+<li>To avoid dying when reaching their DR (additional damage is
+discarded).</li>
+</ul>
+</li>
+<li>
+<p>GMs may veto a use of a Fate Point if it is absurd, disruptive or
+completely implausible.</p>
+</li>
+<li>
+<p>Any suggestions for rules for gaining and loosing Fate Points?</p>
+</li>
+</ul>
+<h2 id="guns"><a class="header" href="#guns">Guns</a></h2>
+<p>Guns have little presence in the core rules: the Dragon's Ace and Hand-Cannon are the only two listed, and both are exotic weapons.
+In CY 830, cannons exist, but are large and awkward, and are only used in siegecraft; man-portable guns also exist, represented by the hand-cannon, but are awkward and are only beginning to see deployment.</p>
+<p>Still, there are types of firearms that, though perhaps decades or centuries from development and wide deployment, are not beyond the capabilities of the Commonwealth to manufacture — and, more importantly, blunderbusses and muskets have a long history in fantasy.
+Guns more advanced than the hand-cannon can be included without too much disruption; some examples are given below.</p>
+<p>Guns are handled using the Ranged Weapons skill, with the Guns proficiency.
+Much like crossbows, guns must be reloaded after being fired;
+guns are usually loaded by ramming black powder and a ball or canister down the barrel.
+Also like crossbows — modern heavy crossbows in particular — reloading guns can be a time-consuming process; for this reason, it is not unusual for guns to be discarded after they are fired, and only retrieved and reloaded after combat has concluded.</p>
+<p>The projectiles fired by guns travel extremely quickly, so guns are <em>hard to dodge</em>.
+When defending against a gun with Fray, divide your defense by 2.
+(Divide last: if you have a COO of 20, 40 ranks in Fray, and a +10 bonus, then your Fray target against most attacks would be 70, but it would be 35 against a gun.)</p>
+<h3 id="shot-and-gunpowder"><a class="header" href="#shot-and-gunpowder">Shot and Gunpowder</a></h3>
+<p>Guns require both shot and gunpowder to fire.
+Gunpowder is ruined if it gets wet, so it is usually stored in water-resistant containers.
+Obviously, guns cannot be fired or loaded under water.</p>
+<p>Normally, we don't track how much ammo you have for an ammo-consuming weapon; guns are a slightly special case.
+We don't track how much &quot;basic&quot; ammo you have, but we <em>do</em> track how much gunpowder your character has.
+This is because gunpowder is difficult to produce (compared to an arrow), because it is easily ruined (by moisture), and because gunpowder has significant secondary uses (it can be used as an explosive rather than fired, for example).</p>
+<p>Enough gunpowder to fire 10 rounds is Cost: Low.</p>
+<p>We track how much special ammo you have as normal.
+Firing special ammo uses up gunpowder the same way firing basic ammo does.</p>
+<h3 id="gunsmithing"><a class="header" href="#gunsmithing">Gunsmithing</a></h3>
+<p>Just like any other item, guns, gunpowder, and ammo can be produced by players using the rules for crafting.
+Guns and ammo can be produced using Craft: Smithing, and gunpowder can be produced with Craft: Alchemy.
+Guns are difficult to produce, so they incur a -10 penalty; gunpowder, however, is not complex to produce, and so enjoys a +10 bonus.</p>
+<p>Alternatively, when using these optional rules, <em>Gunsmithing</em> can be taken as a craft field; <em>gunsmithing</em> covers the production of guns, ammo, and gunpowder.
+When producing a gun with Craft: Gunsmithing, you do not take the -10 penalty given above.</p>
+<h3 id="new-weapons-guns"><a class="header" href="#new-weapons-guns">New Weapons (Guns)</a></h3>
+<h4 id="blunderbuss"><a class="header" href="#blunderbuss">Blunderbuss</a></h4>
+<p>Blunderbussses are two-handed, short-barreled weapons with fluted ends.
+They aren’t particularly accurate and they don't have great range, but they are compact, easy to use and deadly at close-range.
+They are usually used to fire (scatter)shot, although they can also be loaded with other projectiles as well.</p>
+<p>Blunderbusses are called &quot;thunder-javelins&quot; in Common.</p>
+<p><strong>Tags:</strong> Easy, Hard to Dodge, Loud, Prone, Ranged, Reload, Two-Handed, Vulnerable</p>
+<p><strong>Range:</strong> 15m / 25m / 35m</p>
+<p><strong>Reload:</strong> 2 Standard Actions</p>
+<p><strong>Ammo:</strong></p>
+<ul>
+<li>Ball: 2d10+2 DV, AP -8.  Cost: None (standard ammo)</li>
+<li>Scatter: 1d10+2 DV, AP -2, splash 3m.  Cost: None (standard ammo)</li>
+<li>Scour Canister: 3m splash, covers targets with Scour.  Cost: Moderate per 10</li>
+</ul>
+<h4 id="dragon"><a class="header" href="#dragon">Dragon</a></h4>
+<p>The Dragon is the short, one-handed version of the Blunderbuss.
+It uses lighter loads and smaller projectiles.</p>
+<p>These weapons are called &quot;thunder-darts&quot; in Common.</p>
+<p><strong>Tags:</strong> Easy, Hard to Dodge, Loud, One-Handed, Prone, Ranged, Reload, Vulnerable</p>
+<p><strong>Range:</strong> 10m / 20m / 30m</p>
+<p><strong>Reload:</strong> 2 Standard Actions</p>
+<p><strong>Ammo:</strong></p>
+<ul>
+<li>Ball: 1d10+4 DV, AP -6.  Cost: None (standard ammo)</li>
+<li>Scatter: 1d10 DV, AP -2, splash 2m.  Cost: None (standard ammo)</li>
+<li>Scour Canister: 2m splash, covers targets with Scour.  Cost: Moderate per 10</li>
+</ul>
+<h4 id="musket"><a class="header" href="#musket">Musket</a></h4>
+<p>A musket is a long-barrelled weapon that fires a lead ball from its smooth barrel.
+Though large weapons, they are far superior to hand-cannons; their much longer barrels make them far more accurate, and their trigger and flintlock firing mechanism makes it much easier for one person to aim and fire them.
+While their wounds are gruesome, they are even more notable for being very effective at penetrating armor.</p>
+<p><strong>Tags:</strong> Loud, Hard to Dodge, One-Handed, Prone, Ranged, Reload, Vulnerable</p>
+<p><strong>Damage:</strong> 3d10+2 DV</p>
+<p><strong>AP:</strong> -10</p>
+<p><strong>Range:</strong> 30mm / 60m / 120m / 180m</p>
+<p><strong>Reload:</strong> 2 Standard Actions</p>
+<h4 id="trio"><a class="header" href="#trio">Trio</a></h4>
+<p>This unusual, multi-barrelled weapon represents an attempt to overcome the low firing-rate of muzzle-loaded weapons.
+It is essentially three steel barrels fixed to a wooden haft.
+Despite its simple design, it's multiple barrels must be carefully crafted out of high-quality steel, in order to make sure that they are light enough for infantry to carry without being so thin that they are likely to rupture (especially as the weapon heats up).
+The desire to save weight has also lead to a shortening of the barrel and a lightening of the projectile, which incurs other sacrifices.
+The weapon also uses touch-holes to fire, rather than having a trigger mechanism; keeping track of each touch-hole on each of the three barrels can be slightly tricky, so the weapon is often rotated in hand after a barrel is discharged.
+Also, like the hand-cannon, the trio is often operated by two soldiers, one who holds and aims the weapon, and another who lights the touch-holes.</p>
+<p>Officially, the Trio is called the &quot;three barrels&quot; in Common; this is a reference to the Three Cities at the peak of Islandhome.
+Informally, the Trio is often called the &quot;Kobold's Dance,&quot; named for a dance common in Haven Isles Kobold communities that includes rapid clapping.
+It is sometimes derisively referred to as the &quot;bomb that you don't throw,&quot; after some early iron prototypes suffered catastrophic breaches — that is, exploded.</p>
+<p><strong>Tags:</strong> Difficult, Hard to Dodge, Loud, Pair, Prone, Ranged, Reload, Two-Handed, Vulnerable</p>
+<p><strong>Damage:</strong> 2d10+4 DV</p>
+<p><strong>AP:</strong> -7</p>
+<p><strong>Range:</strong> 20m / 40m / 50m / 60m</p>
+<p><strong>Reload:</strong> 2 Standard Actions per barrel</p>
+<p><strong>Special:</strong> The Trio has three barrels, each of which is loaded and fired separately.  Firing any one barrel is a Standard Action (as normal).  Players who wish to attempt to fire one barrel while their partner fires the other should be swatted with something and told to stop being jerks.</p>
+<p><strong>Special:</strong> If you have a partner helping you operate the weapon, then it looses the Difficult tag (as it is easy for you to aim, and for them to fire).  Working with a partner, you can also reload a barrel with only one Standard Action.  However, performing maneuvers in close formation with a partner is difficult, and so the weapon gains the Awkward tag.</p>
+<h2 id="advanced-firearms"><a class="header" href="#advanced-firearms">Advanced Firearms</a></h2>
+<p>In the real world, there was an era when early firearms coexisted with (steel-prod) crossbows and plate armor, without being clearly superior to the one or completing negating the other; these early, muzzle-loading, smooth-bored, ball-firing black-powder weapons are not wildly disruptive if introduced to a world that already has crossbows and seige weapons.
+But the Emerald Plane also has alchemists, blacksmiths, clock-makers, mages and engineers skilled enough to produce an alchemically powered golem-arm; it's certainly not <em>impossible</em> that some of these smiths could have developed more advanced guns, decades or centuries ahead of when those weapons where introduced on Earth.</p>
+<p>However, unlike Chandra's golem-arm, innovations like the metal cartridge, the breach-loading weapon, the rifled barrel and the pointed bullet are all easily replicated once understood — and any one of them, certainly several of them taken together, could radically alter the balance of power on two continents, should one army suddenly field them.</p>
+<p>So, here, we present, as a separate alternate rule from Guns, <em>Advanced</em> Firearms.
+Advanced firearms are listed separately, and require a GM's separate approval, because they have the potential to take over a game, and to radically alter the setting; while in principle not wildly better than any other Cost: High item, the innovations given here are far more replicable once understood, and represent astonishing leaps in military technology that could totally change the face of warfare should they escape a character's hands — which many GMs may not wish to deal with.</p>
+<h3 id="rules"><a class="header" href="#rules">Rules</a></h3>
+<p>We present here a list of <em>innovations</em>—modifications that can be applied to a (basic) firearm from the list above.
+Using these rules, a player can purchase a gun with one of these innovations as a Cost: High item.
+(Subject to the GM's approval, a gun can be purchased with <em>two</em> of these innovations as a Cost: Extreme item; however, this is not recommended.)</p>
+<h3 id="innovations"><a class="header" href="#innovations">Innovations</a></h3>
+<ul>
+<li><strong>Breach-Loading:</strong> the gun is now reloaded as a Standard Action.</li>
+<li><strong>Metal Cartridge:</strong> the gun is now reloaded as a Quick Action.  Requires Breach-Loading.
+<ul>
+<li>Metal cartridges are difficult to produce; they are <em>tracked</em> even though they are &quot;standard&quot; ammo, and they are Cost: Medium for 10.</li>
+<li>Metal cartridges can only be used with balls, slugs and pointed bullets (e.g. they cannot be used with shot or canister rounds).</li>
+</ul>
+</li>
+<li><strong>Rifled Barrel:</strong> Double each range increment.  The weapon gains the Accurate tag, and you gain a +10 bonus to your attack checks with it.
+<ul>
+<li>The weapon can only be used with balls, slugs and pointed bullets (e.g. you cannot use it with shot or canister rounds).</li>
+</ul>
+</li>
+<li><strong>Pointed Bullet:</strong> The weapon gains +4 AP.  If taken with the Rifled Barrel, the weapon gains the Very Accurate tag, and you gain an additional +10 bonus to your attack checks with it.</li>
+</ul>
+<h2 id="advanced-crafting"><a class="header" href="#advanced-crafting">Advanced Crafting</a></h2>
+<h3 id="raw-materials"><a class="header" href="#raw-materials">Raw Materials</a></h3>
+<p>Normally, we don't track raw materials for crafting; if you have a Skill Kit or Shop, you're assumed to have the resources to craft items of up to Cost: Moderate.
+The following rules allow players to purchase and track their use of raw materials; they're useful for players that want a little more detail in their crafting system, and for GMs who want to make resource management a more important part of their game.</p>
+<p>Characters may purchase raw materials for a given Craft skill — for example, “Craft: Alchemy Raw Materials”
+Raw Materials are Cost: Moderate, and they have the Heavy tag (though they are generally portable).</p>
+<p>When you purchase Raw Materials, they have 20 <em>charges</em>.
+Crafting an item consumes charges; when there are no charges left, the Raw Materials are <em>consumed</em>.
+(That is, used up and gone.)
+Charges are consumed according to the following table:</p>
+<ul>
+<li>Crafting a trivial item consumes no charges.</li>
+<li>Crafting a Minor item consumes 1 charge.</li>
+<li>Crafting a Moderate item consumes 5 charges.</li>
+<li>Crafting a Major item consumes 10 charges.</li>
+<li>Crafting an Extreme item consumes 20 charges.</li>
+</ul>
+<p>Of course, like normal, a Major or (especially) Extreme item may have other, unique costs; acquiring the components for an Extreme item could be the hook for an entire adventure.</p>
+<p>GMs may rule that some tasks require more resources than raw materials provide; for example, Craft: Sculpture raw materials might not have enough marble to carve a life-sized statue, and Craft: Carpentry raw materials wouldn't have enough wood to make a house.
+GMs may also rule that Raw Materials just don’t make sense for some skills; for example, enough marble to build a castle would cost more than a Moderate item and weigh more than the Heavy tag implies, so Craft: Masonry Raw Materials might not be allowed.</p>
+<p>Optionally, in some cases, it's possible to <em>recover</em> charges for Raw Materials.</p>
+<h3 id="recipes"><a class="header" href="#recipes">Recipes</a></h3>
+<p>How do you know <em>what</em> your character knows how to make?
+Do you need to purchase <em>recipes</em>, for example, for potions, or perhaps <em>blueprints</em> for weapons?</p>
+<p>We don't provide listings or prices for recipes, so the tacit de-facto answer is &quot;no.&quot;
+If your character has 50 ranks in Craft: Alchemy, then they are by all rights a master Alchemist;
+and if they are a master alchemist, then they very likely know how to produce a wide variety of useful potions.
+(And if they <em>don't</em> know how to produce a given potion, they might able to work it out with experimentation.)</p>
+<p>Recipes allow players to track what their characters know how to make.</p>
+<p>During character creation, a character gains 5 &quot;recipe points&quot; per 10 ranks they purchase in a craft skill; they can also <em>buy</em> 5 recipe points for 5 CP.
+They can then <em>spend</em> their recipe points to purchase <em>recipes</em> according to their cost category, as given on the table below:</p>
+<table><thead><tr><th>Item Level</th><th>Recipe Point Cost</th></tr></thead><tbody>
+<tr><td>Trivial</td><td><em>not tracked</em></td></tr>
+<tr><td>Minor</td><td>1</td></tr>
+<tr><td>Moderate</td><td>2</td></tr>
+<tr><td>Major</td><td>4</td></tr>
+<tr><td>Extreme</td><td>6</td></tr>
+</tbody></table>
+<p>Note that trivial items are not tracked; you don't need to enumerate how many nails, forks, candle-stick holders, and other small, utilitarian items your <em>Blacksmith</em> character knows how to make.</p>
+<p>You can use <em>RP</em> to purchase &quot;recipe points&quot; (and then recipes) during <em>down-time</em> at the same rate.</p>
+<p>Your character can also <em>develop</em> recipes on their own.
+Developing a recipe is a time-consuming process, requiring research, planning, and experimentation.
+The table below lists the <em>time frame</em> required to develop a recipe (and any check involved) for each item level.</p>
+<table><thead><tr><th>Item Level</th><th>Time Frame</th><th>Check</th></tr></thead><tbody>
+<tr><td>Trivial</td><td><em>not tracked</em></td><td>None</td></tr>
+<tr><td>Minor</td><td>2 hour <em>Task Action</em></td><td>None</td></tr>
+<tr><td>Moderate</td><td>1 Shift Job</td><td>Craft at +20</td></tr>
+<tr><td>Major</td><td>5 Shift Job</td><td>Craft</td></tr>
+<tr><td>Extreme</td><td>20 Shift Job</td><td>Craft at -20; Research may be required</td></tr>
+</tbody></table>
+<h2 id="reputation"><a class="header" href="#reputation">Reputation</a></h2>
+<ul>
+<li>
+<p>Characters might be members of guilds, gangs, temples or other
+organizations.</p>
+<ul>
+<li>Tracking their rising and falling status within those
+organizations can be interesting fuel for roleplay and
+adventure, and can help people flesh out their characters.</li>
+<li>Here are optional rules for tracking character’s <em>reputations</em>.</li>
+</ul>
+</li>
+<li>
+<p>If you use these rules, your character can have <em>reputation(s)</em> with
+one or more <em>organization</em>.</p>
+<ul>
+<li>For each organization that you are known to, you have a
+reputation score (hereafter, “rep”).</li>
+<li>“Organization” here is used somewhat loosely: it might be a
+literal organization, like a trade guild, but it might also be a
+town, a gang, a temple, a university, or a secret society — or
+just a group of people.</li>
+<li>Your rep score consists of between 1 and 5 “dots”.</li>
+<li>At one dot, you’re a new member, just making your way; at 5
+dots, you are a pillar of the community, widely known and
+greatly respected within the organization.</li>
+<li>(There are potentially infinitely many organizations that you
+are not a member of — with which you have 0 dots. We don’t track
+those for obvious reasons.)</li>
+<li>Each of your reputation scores might also have either the
+<em>depleted</em> or *suspended *tag (or both). These will be described
+below.</li>
+</ul>
+</li>
+<li>
+<p>Example Organizations:</p>
+<ul>
+<li>a specific temple (rep: Bronze Hills Monastery)</li>
+<li>a commonwealth council organization (rep: Commonwealth Navy, rep
+Commonwealth Engineers)</li>
+<li>a specific guild (rep: Brier-Treaders Explorer League, rep:
+Heartland Mason’s Guild)</li>
+<li>a specific university or field of study (rep: Correspondence of
+Heartland Philosophers, rep Haven Isle Astronomical Society)</li>
+<li>a group of people (rep: Windward Isle Dock-Hands, rep: Citizenry
+of Kareku Aer)</li>
+</ul>
+</li>
+<li>
+<p>When do I need to buy rep?</p>
+<ul>
+<li>
+<p>You don’t need to buy rep for every single group of people who
+might have heard of you!</p>
+</li>
+<li>
+<p>When you’re trying to decide if you need to buy rep, there are
+two major questions:</p>
+<ul>
+<li>Is my character’s association with this group major enough
+that I want to define it?</li>
+<li>Mechanically, do I want to be able to call in favors from
+this group while we’re playing the game?</li>
+</ul>
+</li>
+<li>
+<p>The last question might actually be the most important. We can
+believe that you’re a citizen of Kareku Aer even if you don’t
+have rep with it; that just means that you’re not someone who
+most people on the street would recognize. It’s only really
+likely to be worth investing in rep if you want to actually be
+able to call in favors from those people during the game.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>When you create your character, you get four dots for free, which
+you can distribute between any organizations that your character
+might be known to.</p>
+<ul>
+<li>You can purchase more dots at the cost of 10 CP per dot.</li>
+<li>During character creation, you can’t purchase more than 6 (more)
+dots this way (so your character can’t start the game with more
+than 10 dots).</li>
+<li>As the game goes on, your character can’t have more than 25 dots
+total.</li>
+</ul>
+</li>
+<li>
+<p>You can use your reputation to call in a <em>favor</em> from one of your
+organizations.</p>
+<ul>
+<li>
+<p>Each favor has a <em>level</em>, which the GM assigns. Favor levels run
+from 1 (for a trivial favor) to 5 (for a major ask).</p>
+</li>
+<li>
+<p>For example:</p>
+<ul>
+<li>Level 1: craft a Minor object, answer a simple question,
+provide common knowledge, allow use of a workspace, let you
+stay the night.</li>
+<li>Level 2: answer a complex question, do several hours of
+professional work, take a minor risk, put you up for a week.</li>
+<li>Level 3: craft a Moderate object, provide valuable
+information, loan a few hundred copper, provide an alibi.</li>
+<li>Level 4: provide difficult-to-acquire or secret information,
+loan a hundred gold, put you up for a month, provide
+professional service for a week, take a major risk.</li>
+<li>Level 5: craft a Major item, provide information people
+would die for, loan the use of an estate, let you move in,
+go on a perilous quest with you, help you destroy evidence</li>
+<li>Favor levels in need of tweaking.</li>
+</ul>
+</li>
+<li>
+<p>Under normal circumstances, you can ask for a favor with a
+one-hour task action, requiring a protocol check.</p>
+<ul>
+<li>Success means you get the favor you asked for.</li>
+<li>If the level of the favor exceeds your rep level (that is,
+the number of dots you have), then you take a -10 penalty.</li>
+<li>If your rep level exceeds the level of the favor, you take a
++10 penalty.</li>
+<li>Note: those are “flat” numbers; it’s <em>not</em> +/- 10 per dot of
+difference.</li>
+<li>“normal circumstances” means that the organization has some
+physical presence where you are, and that the organization
+is in a condition where its (other) members are willing to
+grant people favors. This would be the case, for example, if
+the organization in question is a merchant’s guild that you
+are a member of, and that has other members operating in the
+city that you’re in.</li>
+<li>Under unusual circumstances — if there aren’t other members in
+the town that you’re in, or if some situation (like a revolt
+or attack) prevents the organization from operating — you
+might have to do more work to call in a favor, or it might
+not even be possible at all.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Why don’t I just get one dot in a network, get really high protocol,
+and then make those people kill for me?</p>
+<ul>
+<li>Technically you can, but you’ll only get away with it once;
+after that, you’ll gain the depleted tag (see below).</li>
+<li>If you keep doing that every month — abusing them for obscene
+favors and then working the debt off — the GM might eventually
+decide that the members of that organization are sick your
+shenanigans and either dock you rep, or just suspend you
+outright (see below).</li>
+<li>It’s also not particularly efficient, unless you were going to
+buy 50 ranks in protocol anyway.</li>
+</ul>
+</li>
+<li>
+<p>Several factors can effect your reputations.</p>
+<ul>
+<li>
+<p>Your reputations can go up and down — you can gain or loose dots.</p>
+<ul>
+<li>This is usually hard to do: gaining a dot requires either
+years of service, or an accomplishment of major note, or
+both.</li>
+<li>Likewise, loosing a dot requires months of negligence, or a
+significant failure, or both.</li>
+<li>Which is to say, either awarding or removing dots should
+usually be used to highlight major achievements or failures,
+respectively.</li>
+<li>Once you have dots, you can’t go below zero (except in
+exceptional circumstances). If you would loose your last
+dot, you gain the Suspended tag instead.</li>
+<li>Similarly, you can’t go over five dots. If you would gain a
+sixth dot, the GM should allow you to call in a Level 4
+favor “for free” instead. (The favor is subject to GM
+approval.)</li>
+</ul>
+</li>
+<li>
+<p>If you ask for too many favors in too short a time — or if you
+(successfully) ask for a favor that exceeds your rep level by
+too much — then people won’t be willing to do more favors for you
+until you do something for the organization.</p>
+<ul>
+<li>When this happens, that rep network gains the <em>depleted</em>
+tag. When your rep network has the <em>depleted</em> tag, you can’t
+use that network for favors (even though your actual score
+hasn’t changed).</li>
+<li>To remove the <em>depleted</em> tag, you need to do enough work for
+the organization that members feel that you have “paid your
+debt” to them.</li>
+<li>As a rough guideline, this can usually be done with a one
+month job, requiring a successful check with an appropriate
+skill (often a profession appropriate to the organization).</li>
+</ul>
+</li>
+<li>
+<p>If you fail your organization spectacularly, betray them, or
+otherwise earn their ire, you might get the <em>suspended</em> tag.</p>
+<ul>
+<li>When you are <em>suspended</em>, the members of the rep network
+treat you as an outsider — you dots with them don’t actually
+change, but you are treated as if you had 0 dots.</li>
+<li>You obviously cannot use a rep network that you are
+suspended from, and the members of that network might even
+be actively hostile to you (depending on the group’s norms
+and rules, and on what you did to get suspended).</li>
+<li>You can work your way back into the organization’s good
+graces — you can remove the suspended tag — but it’s hard to do.</li>
+<li>There are no hard-and-fast rules for removing the suspended
+status. The details of how you do it will depend on the
+organization and why you got suspended.</li>
+<li>(Of course, a character removing the Suspended status might
+be an adventure unto itself!)</li>
+</ul>
+</li>
+<li>
+<p>When should characters get Suspended, and when should characters
+loose dots?</p>
+<ul>
+<li>Loosing dots usually isn’t the result of a single event. It
+usually happens slowly: as a character shows less and less
+commitment to an organization, its members think less and
+less of that character.</li>
+<li>Getting Suspended usually <em>is</em> the result of a single, major
+failure or betrayal.</li>
+<li>As a general rule, if you’re about to dock a character more
+than one dot of rep at a time, you should probably Suspend
+them instead.</li>
+<li>The Suspended tag is also more useful in situations where
+the character might have some reason for what they did, or
+where it might be possible for the character to redeem
+themselves.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>New Negative Trait: Blacklisted</p>
+<ul>
+<li>You are permanently suspended from one organization.</li>
+<li>You should work with the GM to design the organization, and the
+GM must approve it.</li>
+<li>The organization must be one that it would be useful to you to
+be a member of — for example, it must be an organization that you
+would otherwise be in a position to ask favors of, or that you
+would otherwise be rewarded with rep in.</li>
+<li>If you use the rules for buying off negative traits, then,
+before you can ever gain rep in the blacklisted network, you
+must <em>first</em> buy off this trait <em>and then</em> remove the Suspended
+tag as normal.</li>
+</ul>
+</li>
+<li>
+<p>New Negative Trait: Internal Enemy</p>
+<ul>
+<li>requires the Enemy trait, that your enemy is a member of an
+organization that you have at least 3 dots of rep in.</li>
+<li>Your enemy is a member of an organization that you are also a
+member of. They will attempt to ruin your reputation and foil
+your attempts to call in favors.</li>
+<li>Whenever you attempt to call in a favor, if your enemy is aware
+of what you are doing, they will work against you: you suffer a
+-20 penalty on the test.</li>
+<li>Once a month, you must make an opposed Protocol check against
+your enemy. If you fail, you gain the <em>depleted</em> tag with that
+organization.</li>
+</ul>
+</li>
+<li>
+<p>New Positive Trait: Networking</p>
+<ul>
+<li>You are very good at managing and promoting your reputation with
+one organization.</li>
+<li>You do not take the -10 penalty if you call in a favor that
+exceeds your rep by only one.</li>
+<li>When you are about to gain the Depleted tag, you may attempt a
+Protocol check at -30. If you succeed, you do not gain the
+Depleted tag.</li>
+</ul>
+</li>
+<li>
+<p>Modified Trait: Wanted</p>
+<ul>
+<li>You cannot call in favors from an organization that you are
+Wanted by (that is, that you purchased this trait for).</li>
+</ul>
+</li>
+</ul>
+<h2 id="stunts"><a class="header" href="#stunts">Stunts</a></h2>
+<p>The following details some example <em>stunts</em>.</p>
+<p>Categories:</p>
+<ul>
+<li><strong>Basic</strong>: A basic move; unusual, but not difficult.</li>
+<li><strong>Advanced</strong>: A difficult move, but feasible.  -10 penalty.</li>
+<li><strong>Fantastic</strong>: A move that might not be strictly possible; some GMs may disallow these moves.  -20 penalty if allowed.</li>
+</ul>
+<p>Other Definitions:</p>
+<ul>
+<li><strong>Linked Skill</strong>: The skill used to make the <em>required check</em>.  If no check is required — or if more than one check is required — then the stunt will specify its <em>linked skill</em>.  If it doesn't, use Athletics and file a bug.
+<ul>
+<li>Some races may use exotic or unusual skills for movement — for example, a Clay Man might use Exotic Skill: Amorphous Athletics.  In this case, GM's may treat those skills as the linked skill for a stunt.</li>
+</ul>
+</li>
+</ul>
+<p>Other Tags:</p>
+<ul>
+<li><strong>Evasive</strong>: when you attempt this move and succeed, you gain a +10 bonus to your Defence until the start of your next turn.  You can use your <em>Athletics</em> skill to defend against any <em>attacks of opportunity</em> that this movement provokes.</li>
+<li><strong>Follow-Through</strong>: this stunt is subject to the <em>follow-through exception</em> (see the <em>Momentum Exception</em>, in the <em>Movement</em> section of <em>Combat</em>).</li>
+<li><strong>Integral</strong>: this stunt is <em>normally</em> performed as part of <em>some other movement</em>; it doesn't require a <em>separate</em> action.</li>
+<li><strong>Reaction</strong>: as a reaction, you can use this maneuver to defend against an attack, using your <em>Athletics</em> skill.</li>
+<li><strong>Running Start</strong>: you take a -10 penalty without a <em>running start</em>.</li>
+</ul>
+<h3 id="dives"><a class="header" href="#dives">Dives</a></h3>
+<p>Movement type: Bipedal</p>
+<table><thead><tr><th>Stunt</th><th>Action</th><th>Tags</th><th>Results</th><th>Special</th></tr></thead><tbody>
+<tr><td>Short Dive</td><td>Quick</td><td>Basic, Evasive, Reaction</td><td><em>dive</em> up to 1m</td><td>-</td></tr>
+<tr><td>Long Dive</td><td>Quick</td><td>Advanced (-10), Evasive, Follow-Through, Running Start</td><td><em>dive</em> up to 1m per 10 points MoS, up to 4m</td><td>-2m without <em>running start</em></td></tr>
+<tr><td>Distance Dive</td><td>Standard</td><td>Fantastic (-20), Evasive, Follow-Through, Running Start</td><td><em>lunge</em> and <em>dive</em> up to 1m per 10 points MoS</td><td>-2m without <em>running start</em></td></tr>
+</tbody></table>
+<p>Linked skill is <em>Athletics (Agility)</em>.
+Check results:</p>
+<ul>
+<li>Success: prone at destination</li>
+<li>Basic Failure: prone in current space</li>
+<li>Exceptional Failure: check or drop item; <strong>or</strong> check or loose action</li>
+<li>Critical Failure: drop item; <strong>or</strong> loose action</li>
+</ul>
+<h3 id="flip"><a class="header" href="#flip">Flip</a></h3>
+<p>Movement type: Bipedal, Hop</p>
+<table><thead><tr><th>Stunt</th><th>Action</th><th>Tags</th><th>Results</th><th>Special</th></tr></thead><tbody>
+<tr><td>Flip</td><td>Quick</td><td>Basic, Evasive, Follow-Through, Running Start</td><td>Clear low obstacle</td><td>-</td></tr>
+<tr><td>Handspring</td><td>Quick</td><td>Basic, Evasive, Follow-Through, Running Start</td><td>Clear low obstacle</td><td>-</td></tr>
+<tr><td>Cartwheel</td><td>Quick</td><td>Basic, Evasive, Follow-Through, Running Start</td><td>-</td><td>-</td></tr>
+</tbody></table>
+<p>Linked skill is <em>Athletics (Agility)</em>.
+Check results:</p>
+<ul>
+<li>Success</li>
+<li>Failure</li>
+</ul>
+<h3 id="roll"><a class="header" href="#roll">Roll</a></h3>
+<p>Movement Mode: Bipedal</p>
+<table><thead><tr><th>Stunt</th><th>Action</th><th>Tags</th><th>Results</th><th>Special</th></tr></thead><tbody>
+<tr><td>Short Roll</td><td>Quick</td><td>Basic, Evasive, Reaction</td><td>Roll 1m</td><td>-</td></tr>
+<tr><td>Long Roll</td><td>Quick</td><td>Basic, Evasive, Follow-Through</td><td>Roll 2m</td><td>forward roll clears low obstacles</td></tr>
+<tr><td>Landing Roll</td><td>-</td><td>Advanced, Evasive, Integral (jump or dive)</td><td>land on your feet</td><td>For rolling out of a fall, see the rules for falling</td></tr>
+</tbody></table>
+<p>Linked skill is <em>Athletics (Agility)</em>.
+Check results:</p>
+<ul>
+<li>Basic Success: end crouching</li>
+<li>Exceptional Success: keep stride; <strong>or</strong> defender suffers penalty</li>
+<li>Critical Success: use critical success on defence; <strong>or</strong> land in opponent blind spot</li>
+<li>Basic Failure: prone 1m (on back, head facing start location)</li>
+<li>Exceptional Failure: check or drop held item; <strong>or</strong> check or loose next action</li>
+<li>Critical Failure: drop held item; <strong>or</strong> loose next action; <strong>or</strong> prone in <em>poor condition</em> (penalty to defence); <strong>or</strong> fall into hazard</li>
+</ul>
+<h3 id="wall-work"><a class="header" href="#wall-work">Wall-Work</a></h3>
+<p>Movement Type: Bipedal, Hop</p>
+<ul>
+<li>Kick Up: kick off a wall to gain extra height.</li>
+<li>Kick Out: spring off a wall to change direction, surprising opponents.</li>
+<li>Run Along: kick &quot;along&quot; a wall to clear a low obstruction.</li>
+<li>Corner Turn: kick off the walls of a corner to turn quickly.</li>
+<li>Up and Over: take a few steps up a wall and kick out, flipping over an object or person near you.</li>
+</ul>
+<table><thead><tr><th>Stunt</th><th>Action</th><th>Tags</th><th>Results</th><th>Special</th></tr></thead><tbody>
+<tr><td>Kick Up</td><td>-</td><td>Basic, Follow-Through, Integral (high jump)</td><td>gain 1m height</td><td>-</td></tr>
+<tr><td>Kick Out</td><td>-</td><td>Advanced, Follow-Through, Integral (movement towards wall)</td><td>land 1m from wall per 20 points MoS</td><td>-</td></tr>
+<tr><td>Run Along</td><td>-</td><td>Basic, Evasive, Follow-Through, Integral (ground movement along wall)</td><td>clear low obstruct while running</td><td>-</td></tr>
+<tr><td>Corner Turn</td><td>-</td><td>Advanced, Evasive, Follow-Through, Integral (ground movement towards corner)</td><td>change direction, keeping momentum</td><td>-</td></tr>
+<tr><td>Up and Over</td><td>Standard</td><td>Advanced, Evasive, Follow-Through, Running Start</td><td>land 1m from wall per 10 MoS, max 4; springing over similar-sized (or smaller) creature near wall</td><td>-</td></tr>
+</tbody></table>
+<p>Linked skill is <em>Athletics (Might)</em>.
+Check results:</p>
+<ul>
+<li>Basic Success: complete movement with specified bonus</li>
+<li>Exceptional Success: additional bonus (f.ex. distance) to movement</li>
+<li>Basic Failure: movement ends standing next to <em>contact spot</em></li>
+<li>Exceptional Failure: movement ends <em>prone</em> next to <em>contact spot</em></li>
+<li>Critical Failure: stunned (loose next action); <strong>or</strong> prone in <em>poor position</em> (penalty to defence)</li>
+</ul>
+<h2 id="unusual-movement"><a class="header" href="#unusual-movement">Unusual Movement</a></h2>
+<p>The following details some specific examples of <em>unusual movement</em>.</p>
+<h3 id="bipedal"><a class="header" href="#bipedal">Bipedal</a></h3>
+<table><thead><tr><th>Mode</th><th>Action</th><th>Rate</th><th>Tags</th><th>Special</th></tr></thead><tbody>
+<tr><td>Climb</td><td>Standard</td><td>rate ÷ 3</td><td></td><td>requires something to <em>hold on to</em></td></tr>
+<tr><td>Crawl</td><td>Standard</td><td>base</td><td></td><td></td></tr>
+<tr><td>Prone Crawl</td><td>Standard</td><td>base ÷ 2</td><td></td><td></td></tr>
+<tr><td>High Jump</td><td>Quick</td><td>1m per 10 points MoS <em>vertical</em>, max height is base rate</td><td></td><td></td></tr>
+<tr><td>Long Jump</td><td>Standard</td><td>Base plus 1m per 10 point MoS <em>horizontal</em></td><td></td><td></td></tr>
+<tr><td>Swim</td><td>Standard</td><td>rate ÷ 2</td><td></td><td></td></tr>
+</tbody></table>
+<h3 id="fly"><a class="header" href="#fly">Fly</a></h3>
+<table><thead><tr><th>Mode</th><th>Action</th><th>Rate</th><th>Tags</th><th>Special</th></tr></thead><tbody>
+<tr><td>Dive</td><td>Quick</td><td>full × 2</td><td>-</td><td>-</td></tr>
+</tbody></table>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/39-secrets.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/41-setting-stormswords-rest.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/39-secrets.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/41-setting-stormswords-rest.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

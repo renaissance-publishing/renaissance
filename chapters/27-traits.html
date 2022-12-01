@@ -1,0 +1,356 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Traits - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/01-about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/02-from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/04-background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/05-the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/06-a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1-heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.1.1-notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.2-dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.2.1-notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.3-northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.3.1-notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.4-westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.4.1-notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.5-herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.5.1-notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.6-haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/06.6.1-notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/06.7-city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/06.8-member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/07-organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/08-other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1-the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.1.1-notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.2-the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.2.1-notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.3-the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.3.1-notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.4-the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.4.1-notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.5-deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.5.1-notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.6-foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.6.1-notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.7-mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.7.1-notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/08.8-sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/08.8.1-notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/09-the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/11-basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/12-representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/13-combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/14-injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/15-travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/16-magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/17-features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/18-wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/19-luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/20-motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded "><a href="../chapters/21-skills.html"><strong aria-hidden="true">17.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/22-character-creation-and-advancement.html"><strong aria-hidden="true">18.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/23-senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/24-races.html"><strong aria-hidden="true">20.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/24.1-common-races.html"><strong aria-hidden="true">20.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.2-uncommon-races.html"><strong aria-hidden="true">20.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.3-neighboring-races.html"><strong aria-hidden="true">20.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/24.4-exotic-races.html"><strong aria-hidden="true">20.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/25-backgrounds.html"><strong aria-hidden="true">21.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/26-languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/27-traits.html" class="active"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/28-classes.html"><strong aria-hidden="true">24.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/29-powers.html"><strong aria-hidden="true">25.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/30-items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/30.1-mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.2-combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.3-magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/30.4-alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/32-what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/33-the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/34-building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/35-adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/36-running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/37-common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/38-monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/39-secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/40-alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/41-setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/42-module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/43-module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/44-quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="traits"><a class="header" href="#traits">Traits</a></h1>
+<h2 id="traits-1"><a class="header" href="#traits-1">Traits</a></h2>
+<p>Traits represent special properties about your character — good, neutral and bad.
+Maybe they're ambidextrous, maybe they have a reputation, or maybe they're blind?
+All these things are Traits.</p>
+<p>Traits are most commonly acquired by buying them with CP during character creation; sometimes, they can be acquired during character advancement, or awarded during an adventure.</p>
+<div class="asside">
+<div class="asside-title">What Makes a Good Trait</div>
+<p>Designing a good trait is tricky.
+They're not like Backgrounds, which (for the most part) include a number of benefits equal to a fixed cost in CP.
+Instead, designing a good (and balanced!) trait is far more subjective.</p>
+<p>It's important to understand the difference between what should be a class, a trait, and a power, and it's important to heed the general advice for designing new elements (avoid something that completely eclipses other options, that negates the need for a skill, or that trivializes a role).
+After that, your best bet is to compare your new trait to the ones that already exist; in particular, make sure that it's different enough from the traits that already exist (otherwise it probably isn't worth the effort), and that it's not wildly more or less powerful (or valuable, in CP terms) than the other options.</p>
+</div>
+<h3 id="positive-traits"><a class="header" href="#positive-traits">Positive Traits</a></h3>
+<p>Some traits are <em>positive</em>—that is, they provide a benefit.</p>
+<ul>
+<li>
+<p>Alert: You are particularly aware of your surroundings. You take no penalty to passive Perception tests.</p>
+</li>
+<li>
+<p>Ambidextrous: Choose one of your limbs: you may now use that limb as adroitly as you can use your dominant hand.</p>
+<ul>
+<li>Notably, this means that the penalties for using an Off-Handed Weapon would not apply when using that hand.</li>
+<li>Note that this trait is not specific to an arm: an Elf could use to to be able to handle a weapon (without offhand penalties) with one of their prehensile feet, for example.</li>
+</ul>
+</li>
+<li>
+<p>Brave: your character receives a +20 bonus to tests to resist fear or intimidation</p>
+</li>
+<li>
+<p>Common Sense: you know a good idea (or a bad one!) when you see it.
+Once per game, you may ask the GM whether some particular action is
+a <em>good idea</em> or not; alternatively, the GM may warn you that
+something you are about to do is a <em>bad idea</em>.</p>
+</li>
+<li>
+<p>Disciplined: You are particularly good at self-control. You may spend 1 luck to reroll a check that includes your WIL.</p>
+</li>
+<li>
+<p>High Pain Tolerance: your character can <em>negate</em> the effect of one wound.</p>
+</li>
+<li>
+<p>Limber: Your character is very lithe, and receives a +10 bonus on checks where this would be beneficial, such as trying to escape bindings or squeeze through tight spaces.</p>
+</li>
+<li>
+<p>Ready: you may spend a Luck Point to re-roll your initiative.</p>
+</li>
+<li>
+<p>Resilient: you are particularly mentally durable. You can negate one Trauma.</p>
+</li>
+<li>
+<p>Social Animal: you are particularly well-suited to large groups and complex social situations. You may spend a Luck Point to reroll a social skill check.</p>
+</li>
+<li>
+<p>Strong: you are particularly strong. This increases your STR by 5.</p>
+</li>
+<li>
+<p>Thrifty</p>
+<ul>
+<li>You have a knack for getting the most out of your money.</li>
+<li>You have one additional wealth dot at each level.</li>
+</ul>
+</li>
+<li>
+<p>Tough: you are particularly tough. This increases your DUR by 5.</p>
+</li>
+</ul>
+<h4 id="deathless"><a class="header" href="#deathless">Deathless</a></h4>
+<p>Your heroic defiance can even delay death for a time.</p>
+<ul>
+<li><strong>Requires:</strong> Defiance, 25 WIL</li>
+<li><strong>Benefit:</strong> When your damage exceeds your DR, you may continue to act normally for WIL÷5 rounds.  During this time, your heroic resolve is astonishing: your wounds and traumas are <em>negated</em>.  At the end of this duration, you die as normal.</li>
+<li><strong>Design Note:</strong> no test is required, because you die at the end; how sad would it be to carry this trait around for a character's entire life and then fail to activate it at the end?</li>
+</ul>
+<h4 id="defiance"><a class="header" href="#defiance">Defiance</a></h4>
+<p>You are defiant in the face of injury and agony.</p>
+<ul>
+<li><strong>Requires:</strong> 20 WIL</li>
+<li><strong>Benefit:</strong> When your damage exceeds your DUR, you have a chance to continue to act for a short time (instead of losing consciousness immediately, like you normally would).  When you damage exceeds your DUR, roll WIL×3; if you succeed, you may remain conscious for WIL÷5 rounds.</li>
+</ul>
+<h4 id="disease-resistant"><a class="header" href="#disease-resistant">Disease-Resistant</a></h4>
+<p>You are particularly resistant to disease.</p>
+<ul>
+<li><strong>Benefit:</strong> You gain a +10 bonus on checks to resist <em>diseases</em> and <em>parasites</em>.</li>
+</ul>
+<h3 id="negative-traits"><a class="header" href="#negative-traits">Negative Traits</a></h3>
+<p>Some traits are <em>negative traits</em>. A negative trait imposes a <em>penalty,</em> but taking it <em>gives</em> you more CP to spend during character creation.</p>
+<ul>
+<li>Congenital Defect: you have some congenital defect; choose one from the list below:
+<ul>
+<li>You cannot use the Full rate for one of your movement modes.</li>
+<li>You suffer a -20 penalty to Feat of Strength checks.</li>
+<li>You suffer a -20 penalty to Feat of Endurance checks.</li>
+</ul>
+</li>
+<li>Distinctive: you have some very distinctive characteristic, which makes you very recognizable.
+You take a -20 penalty on Disguise checks, and on Stealth checks to blend into a crowd.</li>
+<li>Enemy: some foe is determined to see you fall.
+They might be someone who is actively hunting you, they might be someone in a position of power who will make your life miserable at every opportunity, or they might be something else.
+In any case, they are a frequent source of frustration for you, showing up to foil your plans at the worst possible times.</li>
+<li>Frail: you are not as hardy as other members of your race.
+This decreases your DUR by 5; this alters your DR and WT as well.
+You cannot take both this trait and the Tough trait.</li>
+<li>Illiterate: You cannot read or write.</li>
+<li>Impaired Sense: your character has poor vision, poor hearing, or one of their other senses is impaired.
+You suffer a -10 penalty to one of your senses (choose one when you take this trait).</li>
+<li>Meek: No-one would describe you as “brave”: you have a -20 penalty to tests to resist fear or intimidation.
+You cannot take both this and the Brave trait.</li>
+<li>Old Injury: you have an old injury that has never completely healed and still troubles you from time to time.
+Normally, your injury has little effect, but strain can agitate it.
+Any time you score an Exceptional or Critical Failure on an Athletics check, a Feat of Strength check, a Feat of Endurance check, or similar, you suffer 1 wound.</li>
+<li>Sensory Loss: your character is blind, deaf, or otherwise lacks some sense (that they would normally have).
+Choose one sense for which you have the Impaired Sense trait; you loose this sense.</li>
+<li>Social Stigma: you are part of a group, organization or movement that people have a negative view of.
+You take penalties on Social skills (these skills depend heavily on the situation, and are up to GM discression).
+These penalties should apply at least some of the time where you live.</li>
+<li>Wanted: you are wanted by some government, order or noble.
+You occasionally have to hide from bounty-hunters, duck guards, or worry about being turned in by any less-than-scrupulous people you encounter.</li>
+<li>Weak: you are weaker than the norm for your race. You have -5 STR.
+You cannot take both this and the Strong trait.</li>
+</ul>
+<h4 id="anxious"><a class="header" href="#anxious">Anxious</a></h4>
+<p>You have been constantly exposed to some source of stress, which has left you anxious.</p>
+<ul>
+<li><strong>Effect</strong>: You do not naturally heal your last TT points of stress, and you start the game with TT points of stress (although you do not start with a Trauma).
+<ul>
+<li>That is, if your Trauma Threshold is 8, then you do not naturally heal your last 8 points of stress, and you start the game with 8 Stress.</li>
+</ul>
+</li>
+</ul>
+<h4 id="leverage"><a class="header" href="#leverage">Leverage</a></h4>
+<p>Someone has &quot;leverage&quot; over your character.
+They may be a blackmailer, gang-member, assassin, or some other criminal; or they may simply be someone whose interests don't always align with yours, like a noble or political figure who sometimes finds having a patsy or stooge useful.</p>
+<ul>
+<li><strong>Effect</strong>: someone has &quot;leverage&quot; over you.
+<ul>
+<li>The details are up to you, but must be approved by your GM.</li>
+<li>The leverage doesn't need to be so strong that it's <em>impossible</em> to refuse, but it should be <em>unpleasant</em> for you to do so.</li>
+<li>You might be required to expend resources, expose yourself to risk, humiliation or danger, or do things you find repulsive.</li>
+<li>Consequences for refusing a &quot;request&quot; might include having humiliating blackmail exposed (with effects similar to the <em>Social Stigma</em> trait), having a sizable debt called (which might require you to expend wealth dots), or having a powerful foe come after you (like the <em>Wanted</em> or <em>Enemy</em> traits).</li>
+<li>These effects are <em>usually</em> local or temporary; the intent is usually to &quot;remind&quot; the character of their obligations, rather than to sever a useful relationship.</li>
+</ul>
+</li>
+</ul>
+<h4 id="sensitive"><a class="header" href="#sensitive">Sensitive</a></h4>
+<p>You are particularly sensitive to a source of stress.</p>
+<ul>
+<li><strong>Effect</strong>: pick a source of stress; whenever you are exposed to that source of stress, you take +2 SV.</li>
+<li>Example sources of stress include <em>being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture</em> and <em>displays of extreme supernatural power.</em></li>
+</ul>
+<h3 id="neutral-traits"><a class="header" href="#neutral-traits">Neutral Traits</a></h3>
+<p>Some traits are <em>neutral</em>, giving you both a benefit and a drawback; they do not cost or provide CP.</p>
+<ul>
+<li>
+<p>Hardened: You have been exposed to some source of stress repeatedly, and have become resistant to it; however, doing so has taken a toll.</p>
+<ul>
+<li>Choose one particular source of stress: you gain +WIL to checks made to resist it, but your Luck stat is reduced by 1.</li>
+<li>Example sources of stress include <em>being gravely injured in combat; failing one of your motivational goals spectacularly; witnessing, experiencing or performing torture</em> and <em>displays of extreme supernatural power.</em></li>
+</ul>
+</li>
+<li>
+<p>Unique Outlook: You have some personal philosophy or outlook that causes you to process some situation vary differently than other people do; on the plus side, this allows you to weather some situations that others would find stressful — but on the down side, your unusual outlook makes it harder for others to relate to you.</p>
+<ul>
+<li>Choose one particular source of Stress: you gain +WIL to checks made to resist it, but you suffer a -10 penalty to Persuasion and Protocol tests.</li>
+</ul>
+</li>
+</ul>
+<h4 id="smaller"><a class="header" href="#smaller">Smaller</a></h4>
+<p>You are much smaller than average for your race; reduce your size category by one &quot;step&quot; (e.g. from Medium to Small).</p>
+<p>This affects your movement(s).
+Most of your movements are reduced: reduce your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements — like flight — might benefit from you being smaller, however: with your GM's approval, you may increase these movements by 1m/3m.</p>
+<p>Though we do not have extensive rules for size, this may have other effects: see <em>Size</em> in <em>Senses, Movements and Special Abilities</em>.</p>
+<h4 id="larger"><a class="header" href="#larger">Larger</a></h4>
+<p>You are much larger than average for your race; increase your size category by one &quot;step&quot; (e.g. from Small to Medium).</p>
+<p>This affects your movement(s).
+Most of your movements are increased: increase your base rate(s) by 1m and your full rate(s) by 3m.
+Some movements — like flight — might be hindered by you being larger, however: at your GM's discretion, some of your movements will instead be reduced by 1m/3m.</p>
+<p>Though we do not have extensive rules for size, this may have other effects: see <em>Size</em> in <em>Senses, Movements and Special Abilities</em>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/26-languages.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/28-classes.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/26-languages.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/28-classes.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
