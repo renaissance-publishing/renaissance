@@ -115,3 +115,7 @@ temp/
 public/
 
 book/
+
+# let's ignore vim swap files
+*.swp
+
