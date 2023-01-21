@@ -1,0 +1,262 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Member Peoples - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html" class="active"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="member-peoples"><a class="header" href="#member-peoples">Member Peoples</a></h1>
+<h2 id="caravans"><a class="header" href="#caravans">Caravans</a></h2>
+<div class="asside">
+<p>Caravans helped bind the early Commonwealth together, and where the carriers of its trade.
+Originally peopled by Halflings and Gnolls, other races and groups have taken to caravan culture.
+And caravan culture has changed, in part by taking to the sea.</p>
+<hr />
+<p>Population: 1.5M</p>
+<p>Common Languages: Autumn Caravneer, Heartland Gnoll, Weal, Royal, Cqik, <em>more</em></p>
+<p>Common Races: Halfling (55%), Gnoll (30%), Ratfolk (10%), <em>more</em></p>
+</div>
+<h2 id="tribes"><a class="header" href="#tribes">Tribes</a></h2>
+<div class="asside">
+<p>The Wester Traders are a </p>
+<hr />
+<p>Population: 30M</p>
+<p>Common Languages: local or traditional languages</p>
+<p>Common Races: highly diverse; Elves 12%, Gnolls 7%, Herders 5%, Shifters 5%, Humans 5%, <em>more</em></p>
+</div>
+<h2 id="merchant-voyagers"><a class="header" href="#merchant-voyagers">Merchant Voyagers</a></h2>
+<div class="asside">
+<p>The Merchant Voyagers are an example member-tribe — or, more exactly, society of member-tribes.
+Obviously, many other tribes have — and have not — signed the Charter and joined the Commonwealth.</p>
+</div>
+<div class="asside">
+<p>The Merchant Voyagers are a group of Wood Elf, Human, and Shifter tribes who herd and hunt in a patch of the unclaimed land west of the Worldspine.
+By CY 570, all of the Voyager-speaking tribes had signed the Charter, and where Commonwealth members; thoughout the last several centuries, the Voyagers, unlike many other tribes, have exchanged heavily with the wider Commonwealth.</p>
+<hr />
+<p>Population: 2.5M</p>
+<p>Common Languages: Voyager (Benath)</p>
+<p>Common Races: Wood Elves, Humans, Shifters</p>
+</div>
+<p>The Merchant Voyagers consist of a group of Elven, Human, and Shifter tribes who herd and hunt in a patch of the tribal lands west of the Worldspine — that is, west of the Worldspine and northeast of Herd-and-Pack province.
+Though several different races, these tribes share a language and culture — which they call Benath, which loosely means &quot;traders.&quot;
+(The name &quot;Traders,&quot; transliterated to Commonwealth Standard, would not name <em>one</em> culture very well; instead, they where given the Common Name &quot;Merchant Voyagers.&quot;)</p>
+<div class="asside">
+<p>&quot;Merchant Voyager&quot; doesn't render very well in English.
+In Common, it's a contraction of &quot;Merchant&quot; and a suffix that connotes travel, exploration, or adventure — somewhat like &quot;Trade-onaut&quot;.</p>
+</div>
+<p>The Merchant-Voyager tribes are semi-nomadic: they have constructed a number of small cities, where the young and old reside, surrounded by planted fields; however, most of the young and able-bodied travel as nomadic herders, hunters, and traders.
+Merchant-Voyager culture encourages trade, study, openness, and a kind of <em>pragmatism</em> — a Benath word that often gets rendered to &quot;practicality&quot; or &quot;pragmatism,&quot; but describes a realist, almost-consequentialist streak in their law and philosophy.
+Being open, curious, and trade-minded, they welcomed early Commonwealth explorers and traders.
+Finding the Commonwealth to be a fair and beneficial trade-parters, they where quick to seek closer relations; the first Merchant-Voyager tribe signed the Charter less than a decade after they where first encountered.</p>
+<div class="asside">
+<p>How are Merchant Voyageres different from the Herd-and-Pack Province?
+Herd-and-Pack is a <em>province</em>, because its people assembled an alliance that ruled a territory.
+By contrast, the Merchant Voyagers are semi-nomadic, ranging over a territory that they shared with other tribal cultures.
+They also didn't form an alliance; though they share a culture and language — and typically view themselves as members of a shared culture, and cooperate with one-another — they never formed a permanent alliance or shared government.</p>
+</div>
+<p>While many Merchant Voyagers have remained in their traditional lands and continue to practice their traditional lifestyles, with each generation, some portion of them leave to travel the wider Commonwealth.
+Small Merchant Voyager enclaves can be found throughout Westward, Heartland, and Haven Provinces — in fact, much of the Wood Elf blood in Ash Elves comes from early Merchant Voyagers who settled on Islandhome (who also inherited a portion of the Merchant Voyagers' open and materialist outlook).</p>
+<blockquote>
+<p>Fire: Fun fact, I'm a Merchant-Voyager.
+My parents left my people's homeland when I was two, went through the northern pass through the Worldspine, and settled in Stormsword's Rest on the other side.</p>
+<p>Track: Yeah, that makes sense; of course you're from the materialist tribe.</p>
+<p>Chandra: That must have been tough, with a two-year-old.</p>
+<p>Fire: It was, but it helps that we're shifters; it's an easier trip if your two-year-old can turn into a snowshoe rabbit.</p>
+<p>Chandra: Unless he decides to run off, I suppose.</p>
+<p>Fire: Hah!  Well, I didn't, so here I am, a professor in your lovely city.</p>
+</blockquote>
+<h3 id="major-city-shifters-market"><a class="header" href="#major-city-shifters-market">Major City: Shifter's Market</a></h3>
+<div class="asside">
+<p>Shifter's Market is a typical Merchant Voyager city — if slightly larger than most.
+It is well and literally named; it consists of a few artisan-districts and market sqaures, surrounded by campgrounds.</p>
+<hr />
+<p>Population: 13K</p>
+<p>Common Languages: Merchant Voyager</p>
+<p>Common Races: Shifters (70%), Wood Elves (10), Humans (10%)</p>
+<p>Location: tribal lands west of the Worldspine, northeast of Herd-and-Pack</p>
+<p>Industries: Trade, Tanning, Carpentry, Brewing, Agriculture</p>
+</div>
+<p>Shifter's Market is typical of Merchant-Voyager cities, if somewhat larger than most, constructed by a Shifter tribe of Merchant Voyagers.</p>
+<p>At the center of Shifter's Market, there are a number of irregular districts, each laid out in a rough grid, branching off of the city's two main streets — one running roughly north-south, and the other roughly east-west.
+Districts include homes for local farmers; market-squares surrounded by trader's homes; administrators; and artisens.
+These distracts are space-out, and the ground between them is open; they are surrounded by the low Inner Wall.</p>
+<p>The space between the inner and outer walls is open; it is used to house any of the tribe's nomadic herders, hunters, and traders who return home, as well as any visiting traders and caravans.
+Surrounding this large open space is the larger Outer Wall, a thick structure of hewn-stone some six strides high and an impressive twenty strides thick.
+(The outer walls where constructed in stages, as the existing walls where modernized and reinforced; it took generations to arrive at the current construction.)</p>
+<h2 id="the-clay-men"><a class="header" href="#the-clay-men">The Clay Men</a></h2>
+<div class="asside">
+<p>The Clay Men are one of the most unusual races in the Commonwealth, with one of the most unusual cultures: |they are extremely long-lived and very few in number; live deep underground, in far-isolated and well-fortified caverns; they do not farm, as they require little food; much of their cities are lightless, as they are blind; and they know more of the Leapers and Deep Explorer than any other race. </p>
+<hr />
+<p>Population: 630,000M</p>
+<p>Common Languages: Clay</p>
+<p>Common Races: Clay Men</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/city-states.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/organizations.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/city-states.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/organizations.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

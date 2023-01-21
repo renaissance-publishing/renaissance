@@ -1,0 +1,341 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Magic Items - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html" class="active"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="magic-items"><a class="header" href="#magic-items">Magic Items</a></h1>
+<p>Magical items largely follow the same rules as non-magical ones;
+they are listed separately because they require more of a description than ladders and rope.</p>
+<h2 id="common-magic-items"><a class="header" href="#common-magic-items">Common Magic Items</a></h2>
+<h3 id="the-bronze-arm"><a class="header" href="#the-bronze-arm">The Bronze Arm</a></h3>
+<p><em>The Flashback Anchor is a sample player-created unique magical item.</em></p>
+<ul>
+<li><strong>Cost</strong>: Major</li>
+<li><strong>Availability</strong>: Unique</li>
+</ul>
+<p>A magical item crafted for General Chandra to replace an arm lost in combat, this finely-crafted and mighty device has only made the general stronger.</p>
+<p>The arm provides Chandra with +5 DUR, +5 STR and +2 AV.
+Even though it is functionally a part of Chandra’s body, and he wields it as his own arm, it is still so powerful and durable that it counts as a weapon; thus, Chandra can attack with it using either the Melee Weapons or Unarmed skills, he is always considered armed, and he can even parry with it.</p>
+<div class="asside">
+<div class="asside-title">Designing the Bronze Arm</div>
+<p>The Bronze Arm is an excellent item; it makes Chandra much better at his chosen role (an extreme-durability melee powerhouse) while it also helps underscores many of Chandra's themes (his wealth and nobility, his long experience on the battlefield, and his incredible durability).</p>
+<p>Chandra's player specifically wanted the arm to be useful as a weapon in combat — he very specifically wanted to be able to parry with it; though it may seem like an afterthought, the fact that <em>Chandra is always considered armed, and can even parry with it</em> is perhaps the most important line of the description.</p>
+<p>Chandra's player wanted to be able to shock people with the arm.
+His GM was concerned that adding a shock effect to any melee damage Chandra did was too powerful — and besides, as an action, it should be a power.</p>
+<p>Perhaps surprisingly, the bonus DUR, STR and AV was the GM's idea, offered as a compromise after moving the shock effect to a separate power.</p>
+</div>
+<h3 id="day-mask"><a class="header" href="#day-mask">Day-Mask</a></h3>
+<ul>
+<li><strong>Cost</strong>: [Moderate] or [High]</li>
+<li><strong>Availability</strong>: Common (Deep Explorer Dwarves), Rare (elsewhere)</li>
+</ul>
+<p>The <em>Day-Mask</em> consists of smoked lenses designed to filter out bright light, as well as a fabric or leather wrap that attaches them to the head.
+The wrap is used to completely enclose the eyes, preventing light from &quot;leaking&quot; around the edges of the lenses; leather and wool are common in the north, while lighter fabrics (often dyed dark colors) are used in the south.</p>
+<ul>
+<li>You do not suffer any penalty from exposure to bright light (such as from the Cave-Eyes trait).</li>
+<li>You suffer a -10 penalty to visual perception checks.</li>
+<li>You suffer a -10 penalty in dim light.</li>
+<li>Normal Day-Masks are Cost: Medium</li>
+</ul>
+<p>The lenses of some Day-Masks are <em>ground</em>, with different sections having different shapes.
+This may be done to correct for poor vision, or may provide magnification at long or short range.</p>
+<ul>
+<li><em>Ground</em> Day-Masks provide a +10 bonus to visual perception checks.</li>
+<li><em>Grinding</em> a Day-Mask is Cost: Medium (in addition to the cost of the Day Mask).</li>
+</ul>
+<p>Some Day-Masks are magical; their lenses are crystal-clear in dim light, but rapidly &quot;smoke over&quot; when exposed to bright light.</p>
+<ul>
+<li>Magical Day-Masks protect your eyes from bright light the way normal Day-Masks do, but they impose none of the penalties that normal Day-Masks have.</li>
+<li>The lenses &quot;smoke over&quot; in little more than a second.  If you are suddenly exposed to bright light, you may experience some dazzling (incurring a -10 penalty to visual perception tests), but this fades quickly (lasting only for the first turn of exposure).</li>
+<li>You can force the Day-Mask to become clear or smoked.</li>
+<li>Magical Day-Masks are usually <em>ground</em> (at no additional cost).</li>
+<li>Magical Day-Masks are Cost: High.</li>
+</ul>
+<h3 id="flashback-anchor"><a class="header" href="#flashback-anchor">Flashback Anchor</a></h3>
+<p><em>The Flashback Anchor is a sample player-created unique magical item.</em></p>
+<ul>
+<li><strong>Cost</strong>: Major</li>
+<li><strong>Availability</strong>: Unique</li>
+</ul>
+<p>A magical device integrated into a vest Notebook wears, the Flashback Anchor allows her a chance to &quot;flashback&quot; from a jump — which allows her to attempt much more risky jumps than she otherwise could.
+To be most effective, the device must be activated <em>before</em> a jump finishes — which is something of a problem.
+When Notebook jumps, she experiences a blur of motion scarcely longer than a blink before appearing at her destination — she has that much time (and that much information about her destination) to decide if she needs to revert a jump.
+Still, much like tripping off a bridge, a second to react and a chance to save herself is much better than nothing at all.</p>
+<p>If the result of teleporting would injure or kill Notebook (or if she otherwise decides to revert a jump), she can roll COO+COO+INT; this represents both her ability to quickly perceive how her jump is going to end and her ability to activate the Anchor.
+If she succeeds, she successfully activates the Anchor, and reappears where her jump began, as though she had never attempted the jump.
+(If she is in initiative order, an appropriate action is still used — it still requires a Standard Action to use her Long Jump power, even if she decided to revert it.)</p>
+<p>Even if she fails to activate the device, it still provides <em>some</em> protection: if Notebook arrives only partly in a solid object — or in some similar condition — the device will attempt to &quot;eject&quot; her from the obstruction, causing her to arrive next to it (if there is room).
+This process is jarring — Notebook experiences a violent impact, like falling off roof: she takes 1d10 DV, and her armor does not apply.</p>
+<p>If the armor can't eject her – if she arrived entirely within a solid object, for example – then she suffers the normal consequences for her jump.</p>
+<div class="asside">
+<div class="asside-title">Designing the Flashback Anchor</div>
+<p>The design of the Flashback Anchor is pretty straight-forward: Notebook's ability to teleport was central to her player's design for her, and so they really wanted to be able to use it often — but the risk of being maimed or killed every time Notebook teleported somewhere she couldn't see was… inconvenient.</p>
+<p>The Flashback Anchor gives Notebook an extra layer of protection when teleporting.
+It doesn't guarantee her safety — if it did, she would be able to &quot;brute force&quot; any building within range by teleporting at it over and over again — but it does give her a fighting chance if a jump goes wrong.</p>
+<p>The design of the Flashback Anchor reflects the peculiar flair for danger and preference for tough consequences of the GM that first approved it; other GM's might allow a similar device to completely and automatically save Notebook, but place some other limit on it (like a number of charges, for example, or a &quot;cooldown time&quot; after a failed jump).</p>
+</div>
+<h3 id="heater"><a class="header" href="#heater">Heater</a></h3>
+<ul>
+<li><strong>Cost</strong>: [Moderate]</li>
+<li><strong>Availability</strong>: Common</li>
+</ul>
+<p>This small magical apparatus is used to generate strong heat; it is commonly carried by travelers who use them to keep warm, to boil water and to start fires.
+Heaters are cylindrical metal devices about the size and shape of the handle to a hammer; the tip of one end is lain with intricate steel wiring, while the other end is wrapped in leather.
+When the device is activated, the wired tip becomes extremely hot.
+The device requires a charge, a narrow alchemical rod that is fed into the handle end.
+One charge is Trivial cost and will run the heater for 2 hours.
+While there is a charge in it, the heater can be activated and deactivated with a metal trigger in the grip.</p>
+<h3 id="the-hunters-bow"><a class="header" href="#the-hunters-bow">The Hunter’s Bow</a></h3>
+<p><em>The Flashback Anchor is a sample player-created unique magical item.</em></p>
+<ul>
+<li><strong>Cost</strong>: Major</li>
+<li><strong>Availability</strong>: Unique</li>
+</ul>
+<p>A magical bow carried by Aryn the hunter, this weapon fires bolts of magic rather than arrows.</p>
+<p>Since the bow fires magical projectiles that it generates, it does not require ammo.
+(Note: since we normally do not track “basic” ammo, this detail is as much a narrative point as a functional rule.)</p>
+<p>Besides functioning normally as a shortbow, the Hunter’s Bow has two alternate modes, controlled by a catch hidden in the wraps where Aryn grips it.</p>
+<p>In “<strong>light</strong>” mode, the fired bolts do no damage, but they instead stick to whatever they strike and persist for several minutes, glowing brightly the entire time.
+&quot;Light&quot; arrows glow quite brightly—they cast a white light as bright as a dozen candles, enough to see clearly for a dozen paces around the arrow.</p>
+<p>In “<strong>track</strong>” mode bolt also does not damage, and also sticks to whatever target it strikes.
+Rather than glowing brightly, tracking bolts are invisible (except, of course, to someone with Mage Sight).
+Tracking bolts also last much longer—up to 3 days—although only one can be active at a time (if another one is fired, the first simply dissipates).
+The bow pulses gently based on the whether the bow is facing towards the target, and whether the target is within range; this allows Aryn to use the bow to track a target struck by a tracker.
+(The tracking bolt has a very long range—fully 500m.)</p>
+<p>Being struck with a tracker bolt (or a light bolt, for that matter) feels somewhat like being pinched, but is otherwise harmless.</p>
+<div class="asside">
+<div class="asside-title">Designing the Hunter's Bow</div>
+<p>The initial idea for Aryn's magical bow was that she would have unlimited ammo; as significant as this would be <em>in the world,</em> it is not mechanically useful, since we ordinarily do not track ammo anyway.</p>
+<p>The <em>light</em> and <em>track</em> bolt-modes where added to underscore Aryn's role as a hunter — and in particular to be useful while delving into deep caves to fight the Leapers.</p>
+<p>Aryn's player often requests a multi-shot power for the bow; some approve it, and some don't.
+(Neither answer is correct — it's up to each GM.)</p>
+</div>
+<h3 id="light"><a class="header" href="#light">Light</a></h3>
+<ul>
+<li><strong>Cost</strong>: [Minor]</li>
+<li><strong>Availability</strong>: Common</li>
+</ul>
+<p>This small glass vile contains a clear liquid.
+When shaken, it produces a bright light: it shines brightly enough that a character holding it can see clearly for 20m around them.
+Once it is lit, it will continue to shine brightly for 20 minutes, and then dimly for 20 minutes thereafter — although shaking it again will cause it to begin shining brightly once more.</p>
+<h3 id="safe-fall-cape"><a class="header" href="#safe-fall-cape">Safe-Fall Cape</a></h3>
+<ul>
+<li><strong>Cost</strong>: Moderate</li>
+<li><strong>Availability</strong>: Uncommon</li>
+</ul>
+<p>This cape billows outward as you fall, and both it’s physical size and magical effects cooperate to slow your fall.
+No matter how far you fall, the cape will prevent you from falling faster than a quick run.
+When you land, you must make an athletics check: if you succeed, you ake no damage, but if you
+fail, you take 1d10 dv.</p>
+<h3 id="torque-of-speaking"><a class="header" href="#torque-of-speaking">Torque of Speaking</a></h3>
+<ul>
+<li><strong>Cost</strong>: Moderate</li>
+<li><strong>Availability</strong>: Common</li>
+</ul>
+<p>This torgue adds to the array of sounds that you can naturally produce, allowing you to use one additional <em>language group</em> (chosen when purchase the torque, if you're purchasing it during character creation; otherwise, it's chosen when designing and producing the torque).
+These items are not always torques, although it is a common choice (given especially that many interact with the wearer's vocal cords).</p>
+<p>Note that the Torque provides access to a <em>language group</em> – the sounds needed to speak a language – not dots in a language itself.
+So a torque could provide you access to the GR language group, but you'd still have to learn a GR language (like Heartland Gnoll) separately.</p>
+<h3 id="wand"><a class="header" href="#wand">Wand</a></h3>
+<ul>
+<li><strong>Cost</strong>: Moderate</li>
+<li><strong>Availability</strong>: Common</li>
+</ul>
+<p>Wands are both tools and ranged weapons commonly used by mages.
+Wands can only store a finite amount of magical energy – although recharging them is a very simple magical procedure.
+They use the following profile:</p>
+<p>Tags: Indicate-Only Attack, Ranged Weapon</p>
+<p>Damage: 1d10-2 DV</p>
+<p>AP: -8</p>
+<p>Range: 30m/50m/70m</p>
+<p>Charges: A wand has 10 <em>charges</em>, and one is used with each attack.</p>
+<p>Reload: Quick Action</p>
+<h3 id="warmblood-suit"><a class="header" href="#warmblood-suit">Warmblood Suit</a></h3>
+<ul>
+<li><strong>Cost</strong>: Moderate</li>
+<li><strong>Availability</strong>: Common</li>
+</ul>
+<p>This heavy outfit resembles heavy winter clothing, with an outer layer of wool and a linen inner lining.
+Just inside the linen lining there is a wrapping like a metallic ribbon; at several points along the back, there are pockets containing more of the metallic ribbons.
+Both sets of ribbons cross are connected to two magical mechanisms, each a twin of the other, in the back of the suit.</p>
+<p>In extreme cold, the external ribbons are left rolled up in their pockets.
+When activated, the inner ribbons heat up, warming the wearer.
+In extreme heat, the wearer opens the pockets and unfurls the ribbons, and the garment then pumps heat <em>out</em> through the unfurled ribbons, cooling the wearer.</p>
+<p>If worn by a <em>warm-blooded</em> creature, the survival suit provides a +20 bonus to <em>Endure Physical Hardship</em> tests to survive extreme weather.
+If worn by a <em>cold-blooded</em> creature, the survival suit allows the wearer to endure extremes of temperature as well as a warm-blooded creature.</p>
+<p>The garment itself is tough, and provides some protection from damage.
+When worn as armor, it uses the following profile:</p>
+<p>Armor Value: 2 AV</p>
+<p>Drawbacks: None</p>
+<p>Tags: Concealing, Layerable, Sociable</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/combat-equipment.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/alchemical-items.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/combat-equipment.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/alchemical-items.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

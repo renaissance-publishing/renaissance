@@ -1,0 +1,801 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Sample Module: A Crisis in Northland - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html" class="active"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="sample-module-a-crisis-in-northland"><a class="header" href="#sample-module-a-crisis-in-northland">Sample Module: A Crisis in Northland</a></h1>
+<h2 id="introduction"><a class="header" href="#introduction">Introduction</a></h2>
+<p>This is a small sample module.
+It is based on the very first game that was used to test <em>Rensaissance</em>, and it's a good example of <em>horror</em> game, in the &quot;tales-of-the-weird&quot; sense.</p>
+<h2 id="player-prompt"><a class="header" href="#player-prompt">Player Prompt</a></h2>
+<p>A ferocious blizzard has descended on the <em>Hella Valley</em>; almost a white-out, it has trapped the people of the valley in their homes and brought life to a standstill.</p>
+<p>For whatever reason, you are in <em>Southlander's Market</em>, a small city inhabited mostly by Humans and Ratfolk in the south of valley.
+As the name implies, <em>Southlander's Market</em> is something of a trade-hub for the valley; it sits on Hella High-Road, a nominal highway that runs out of the valley to the east, leading to the Tol Confederacy more than fifteen <em>demarc</em> away, and eventually to the rest of the Commonwealth.</p>
+<p>The city shares the valley with the <em>Weavers' Hold</em>, a Dwarven hold known for their wools; <em>Forge-and-Hearth Burrow</em>, a Kobold burrow that hosts the valley's most skilled smiths; the centuries-old <em>Whitefox Monastery</em>; and a number of smaller Human and Gnollish hamlets.</p>
+<p>The situation in <em>Southlander's Market</em> is slowly deteriorating.
+No contact has been had with Weaver's Hold, Forge-and-Hearth Burrow or — most alarmingly — Whitefox Monastery for days — much less anyone travelling up the highway from the wider Commonwealth.
+While the village is well-enough stocked for the week ahead at least, if the blizzard does not break, the city may begin to succumb to hunger and cold.</p>
+<p>Many in the town believe that someone should make the trek to the monastery to see if there's anything that they can do.
+Landlord Ceder-Inn, the Ratfolk who runs the Ceder Inn in <em>Southlander's Market</em>, has decided to take matters into his own hands, and is trying to arrange a party to make the trip.</p>
+<h2 id="overview"><a class="header" href="#overview">Overview</a></h2>
+<p>This module send players on a mission through a perilous blizzard, to encounter a terrifying monster and a deadly mystery in a cold monastery.
+It plays on themes of survival, horror, mystery, and the supernatural.</p>
+<p>Importantly, this is not presented as one atomic module, with fixed details and a pre-determined course; rather, it's presented as a kind of template, with some details specified and others left for you to determine — and some of these details are significant, such as the nature of <em>the Traitor</em> or the ultimate solution to the blizzard.
+Before you run the module, you'll need to fill those details in; you can do that by selecting from one of the options that we've prepared, or coming up with your own details.
+(See <em>Customizing the Module</em>.)</p>
+<p>We've done this in an attempt to keep the module from getting stale or becoming predictable, and to allow GMs to easily integrate the module into a larger plotline.</p>
+<h3 id="sketch"><a class="header" href="#sketch">Sketch</a></h3>
+<p>A loose sketch of the structure of the module is as follows:</p>
+<ul>
+<li>The party will start out in <em>Southlander's Market</em> in the <em>Hella valley</em>; here, they will meet Landlord Ceder-Inn, have the dire situation of the valley described, equip themselves, and set off.</li>
+<li>The party will then brave <em>the Blizzard</em> in an attempt to reach the monastery.</li>
+<li>At the monastery, the party will encounter a grizzly scene: the monks, it seems, have all been killed.
+while there, they will:
+<ul>
+<li>explore the monastery;</li>
+<li>investigate its various locals, to understand what has happened there;</li>
+<li>encounter the <em>Monster</em>, a spirit released from the realms of the Dead, a creature at the center of the adventure; and</li>
+<li>hopefully, finally solve the mystery and free the valley.</li>
+</ul>
+</li>
+</ul>
+<h2 id="starting-out"><a class="header" href="#starting-out">Starting Out</a></h2>
+<p>The adventure starts out in the Ceder Inn in <em>Southlander's Market</em>.
+Like many <em>intrigue</em> and <em>horror</em> games, the first part of the module will consist of <em>preparation</em> and <em>investigation</em> — that is, after character introductions have been made, and the player-characters have accepted the <em>quest</em>.</p>
+<p>They likely won't spend <em>much</em> time in <em>Southlander's Market</em>.
+There aren't any particular clues here; no-one in town knows what's happening and why (other than the <em>Traitor</em>), so asking about, though a wise precaution, won't be particularly fruitful.</p>
+<p>The major risk is that they'll find the <em>Traitor Monk</em> (see below) — that is, if you're using the <em>Traitor Monk</em> and you've put them in the town.
+Obviously, you'll want to keep the party from discovering the traitor if encountering them early can end the adventure; successes on investigation might yield hints about <em>suspicious travelers</em>, but you should avoid clues that might lead the party directly to the traitor.</p>
+<h3 id="location-hella-valley"><a class="header" href="#location-hella-valley">Location: Hella Valley</a></h3>
+<p>Hella Valley is named after the <em>Hella</em>, the name given to the Humans and Dwarves that live in the region, and their (partly) shared culture.</p>
+<p>The valley runs from east to west; the Worldspine Mountains rise to the west, and, even though the peaks of the range are far to the south, the smaller mountains and rough foothills to the west are still a formidable natural barrier — especially given the cold.</p>
+<p>The valley is well forested, and the Hella River runs through it.
+The valley is dotted with small farming towns, and it also sees logging, trapping and fishing.
+The river usually swells during the spring thaw, but all the cities and towns are built far enough from it to be out of danger.</p>
+<h3 id="location-southlanders-market"><a class="header" href="#location-southlanders-market">Location: Southlander's Market</a></h3>
+<p><em>Southlander's Market</em> is a small town of little more than one-and-a-half thousand people, mostly Humans and Ratfolk.
+The town is built around the <em>Hella High-Road</em>, which runs to <em>Weaver's Hold</em> higher in the Worldspine Mountains to the southwest, and out of the valley to the east.
+As the name implies, it's the region's major market; what travellers that come usually do so by taking the road into the valley, and folk from the 'Hold, the 'Burrow, and the various hamlets in the region come to the market in <em>Southerlander's Market</em> to sell their wares.</p>
+<p>The town combines Dwarven, Human and Ratolk influences in its design.
+It is roughly rectangular in design, running from east to west with the road; it's 9 blocks <em>east to west</em>, and only five blocks <em>north to south</em>.
+It's surrounded by a wall, but that wall hasn't been well-maintained; it's been a long time since raiders came here.</p>
+<p>Most of the buildings are constructed of timber — corner-joined, with the logs cut square, some faced with planks or plaster, some not.
+A few of the nicer buildings are made of brick.
+Most have thick, thatched rooves, to keep out the cold and winter snow.</p>
+<p>The valley isn't far enough north that the ground is permafrost — it thaws in the spring.
+A number of the buildings incorporate dug-out portions and basements.</p>
+<p>The city isn't wealthy; many of the people there are farmers and trappers.</p>
+<p>The <em>Southlander's Temple</em> and the <em>Council House</em> sit at the center of the town, facing each-other across the street.
+The town's <em>market square</em> runs two blocks in either direction around the center, opening up around the road.</p>
+<h3 id="location-the-market"><a class="header" href="#location-the-market">Location: The Market</a></h3>
+<p>The eponymous market of <em>Southlander's Market</em> sits at the center of the town, surrounding the <em>Temple</em> and <em>Council House</em> and opening up along the road to either side.
+The surrounding buildings have shops and store-fronts that open up onto the market.
+In better weather, these shops open up, and they are also joined in the market by at least a few travelling merchants; in the bitter cold and snow of winter, many of the shops close, and visiting merchants are few.</p>
+<p>Realistically, the major thing that the party can do here is <em>stock up</em> for the adventure ahead.
+Rations are easy enough to acquire; even half-closed, they can likely find someone to sell them cereals, smoked-meats and other foods fit for travel.
+They can also find stores that will sell them the equipment appropriate to the trip ahead — tents, nap-sacks, warm clothing, rope, and so on; this is best handled by having characters purchase a <em>Survival</em> skill-kit, or optionally adapt an existing skill-kit for extreme cold.
+Magical items are few, but characters can likely find useful devices for the region — <em>Lights</em>, <em>Heaters</em>, <em>Torques of Speaking</em> and <em>Warmblood Suits</em> are all available, although not in great supply.</p>
+<p>The party will find weapons and armor difficult to come buy — especially weapons that require large amounts of high-quality material or workmanship.
+Axes and quilted armors are available, but plate armor and broadswords are right-out.</p>
+<h3 id="location-the-ceder-inn"><a class="header" href="#location-the-ceder-inn">Location: The Ceder Inn</a></h3>
+<p>The Ceder Inn is located thirty paces outside the city wall, situated on the road into town.
+It consists of several buildings, all of timber constructions and painted bright red.
+The largest buildings are the main building and the barn; there is also a separate house for the Ceder-Inn family, a stables, a shed and a pair of saunas.
+The stables and inn are next to the road, with the saunas, shed, family-house and barn being behind them.
+<em>Covered paths</em> connects all of the buildings; the paths are dug half a <em>stride</em> into the ground, and have log walls and a thatch roof.</p>
+<p>The <em>saunas</em> are small, circular buildings with brick walls.</p>
+<p>The main inn consists of a large, central common-room, with a large stone hearth in the center.
+Some people sleep in the common-room, but there are also private rooms along one wall.
+(Some guests even choose to sleep in the lofts above the barn and stables.)
+The kitchen is an open structure accessed through the back; three walls are timber, but one wall is open, to allow the kitchen to ventilate in the summer.
+In winter, the kitchen's fourth wall is blocked with a large, heavy wool cover.</p>
+<p>The Ceder Inn is where the &quot;quest-giver&quot;, Landlord Ceder-Inn, lives, so it's where the adventure is likely to start.
+Any PCs that aren't from the area may also be staying at the Ceder Inn.
+The inn mostly sells food; if the PCs need anything more than rations — or if they need a <em>lot</em> of rations — they'll need to travel to the <em>market</em> to equip.</p>
+<h3 id="location-forge-and-hearth-burrow"><a class="header" href="#location-forge-and-hearth-burrow">Location: Forge-and-Hearth Burrow</a></h3>
+<p>Forge-and-Hearth Burrow is a small Kobold burrow that sits three <em>demarc</em> northeast of Southlander's Market.
+The population is less than 500.
+It consists of a large, central burrow, surrounded by a number of smaller single-family burrows and surface structures — some of the surface structures are older than the burrow itself, built by the first Kobold settlers more than 200 years ago before they had dug the burrow.</p>
+<p>Forge-and-Hearth is well-named; it's occupants are miners, fishers and trappers, and the burrow is known for its iron, fish, and game.</p>
+<p>There isn't much for the party to do at Forge-and-Hearth.
+The burrow has good miners, but only a few smiths; they mostly sell iron to human smiths in Southlander's Market.
+(Ambition has designs on apprenticing the young of the burrow to the human smiths of nearby Southlander's Market and eventually turning Forge-and-Hearth into a regional center of steel-work, but her plans have not yet come to fruition.)
+They will also sell the party skins, jerkies, food or lodging, of course.
+If the party needs iron or jerky, they can get it here, but that's about it.</p>
+<h3 id="character-landlord-ceder-inn"><a class="header" href="#character-landlord-ceder-inn">Character: Landlord Ceder-Inn</a></h3>
+<p>Landlord Ceder-Inn — as one could infer from his name — is the owner of the Ceder Inn.
+Outgoing, lively, sociable, and intelligent, Ceder-Inn is a natural businessperson well suited to running the inn.
+His inn has flourished under his management, and he's become a wealthy, prominent local citizen.
+He is middle-aged, with jet-black fur, and slightly portly, though not obese.
+He also leads a large household; besides himself, there is his wife, his cousin, and four children — the youngest of which was married in last spring, and may soon make him a grandfather.</p>
+<p>Landlord Ceder-Inn is effectively the <em>quest-giver</em> for the adventure; Ceder-Inn has recruited several of the town's prominent citizens and businesspeople — including South-Vintner — to offer a reward to any party that can venture out through the blizzard to Witefox Monastery, in the hopes that they can ply the local spirits and find some way to help with the blizzard.</p>
+<h3 id="minor-character-rust-fur"><a class="header" href="#minor-character-rust-fur">Minor Character: Rust-Fur</a></h3>
+<p>Rust-Fur is the Gnollish commander of the local Commonwealth guard; he's a male Gnoll in his early thirties, and he lives and operates out of Southlander's Market.
+He's respected by the locals as a leader and probably-solver.
+While he doesn't know anything about the magical blizzard, his knowledge of the area might be useful — although it will be difficult for the party to convince him to abandon his post to travel to the monastery.</p>
+<p>Rust-Furr might be useful if the party doesn't have anyone with good ranks in Survival; he can lead them to the monastery — or assign a Guard to the task, if matters elsewhere keep him busy, or he decides he doesn't like the party.</p>
+<p>Rust-Furr would also make a decent PC, if there's a player in the group struggling to come up with a good character-concept.</p>
+<h3 id="minor-character-prince-south-vintner"><a class="header" href="#minor-character-prince-south-vintner">Minor Character: &quot;Prince&quot; South-Vintner</a></h3>
+<p>Named South-Vintner in Common but dubbed &quot;the prince&quot; by the city-folk, South-Vintner is the mayor of Southlander's Market.
+The young scion of a wealthy family further south, it's widely (and correctly) held that it's more wealth than competence that got him his office.
+Even so, he isn't a bad person; he's honest, hard-working and insightful — even if isn't perhaps a natural leader.
+He's working hard to prove himself.</p>
+<p>South-Vintner can provide the party with resources and support.
+If the party needs resources they can't afford, they might be able to convince South-Vintner to bankroll them.
+South-Vintner can also secure the cooperation of professionals in the town, from blacksmiths to doctors.</p>
+<p>He lives in a well-appointed house near the center of town, about a block behind the Council House; he can typically be found either there, or at the Council House itself.</p>
+<h3 id="minor-character-ambition"><a class="header" href="#minor-character-ambition">Minor Character: Ambition</a></h3>
+<p>One Kobold matriarch, named <em>Ambition</em> in Common, wants to start producing high-quality steel in Forge-and-Hearth.
+She's been trying to form a closer partnership with the human smiths of <em>Southlander's Market</em>—including apprenticing some of her more talented children in the 'Market.</p>
+<h3 id="encounter-negotiating"><a class="header" href="#encounter-negotiating">Encounter: Negotiating</a></h3>
+<p>One of the first &quot;Encounters&quot; in the module is receiving the quest from Landlord Ceder-Inn.
+Ceder-Inn will briefly describe the problem, and explain the offer — a number of local prominent citizens have put up a purse for anyone who can venture out to the Whitefox Monastery, in the hope that the current savage blizzard has a supernatural cause that the monks can put right.
+The journey will be difficult, even for those used to roughing it in the woods in the winter; the party will be well-advised to prepare appropriately.</p>
+<p>The purse on offer is not extravagant — Southlander's Market is not a wealthy town.
+It consists of 95 gold pieces; valuable spices, skins, and metals equivalent to three Level 3 <em>trade goods</em>; the services of local artisans.
+If you'd like to set more adventures in the Hella Valley, you can include property in the valley, like fields or houses.</p>
+<p>The purse is to be given to the party on their return, although it may be possible to haggle Ceder-Inn into granting the party an advance — especially if they can't undertake the trip without it.</p>
+<h3 id="encounter-equipping-the-party"><a class="header" href="#encounter-equipping-the-party">Encounter: Equipping the Party</a></h3>
+<p>If the party needs equipment, they can head to the market.
+As described above, the market is mostly closed — there isn't much business to do in the blizzard.
+However, some of the town's merchants and artisans may be willing to do business with the party, once they explain what the goods will be in service of.</p>
+<p>The town bosts several blacksmiths, two alchemists, and a mage; while they can be convinced to produce for the party something that they need, this will take time — time that will count against the week that the city has before it starts to get into trouble.</p>
+<h2 id="the-trip"><a class="header" href="#the-trip">The Trip</a></h2>
+<p>The trek through the blizzard to Whitefox Monastery is the real starting-point for the adventure: now the players have left the relative safety of Southlander's Market, and have gone to face the unknown.</p>
+<h3 id="the-environment"><a class="header" href="#the-environment">The Environment</a></h3>
+<p>The Hella Valley is normally a pleasant place; open, with low hills covered in deciduous forests and small hamlets, divided by a shallow, amiable river.</p>
+<p>Now it is unrecognizable, however, as it is covered in more than a half-stride of fresh-fallen snow, and obscured by continuing, swirling snowfall.
+It is a maze of towering shapes and unknown terrain, hidden in a thick haze of heavy, near-white-out snowfall.</p>
+<h3 id="encounter-the-blizzard"><a class="header" href="#encounter-the-blizzard">Encounter: The Blizzard</a></h3>
+<div class="asside">
+<p>Remember that a <em>demarc</em> (<em>dc</em>) is about 2.6 miles or about 4.2 kilometers, and a <em>stride</em> (<em>sd</em>) is about 30 inches or 75 cm.</p>
+</div>
+<p>Whitefox Monastery is only about 4dc away from Southlander's Market; where it not for the blizzard, it would not be a particularly difficult journey, even in winter.
+The blizzard, however, does complicate things.</p>
+<p>The thick snow and near-whiteout conditions will dramatically slow the party's pace; the <em>base pace</em> in the blizzard will be only 2dc-per-day (see <em>Travel</em>).
+Additionally, navigation will be particularly difficult; the party will need to make a <em>Survival</em> check to navigate, and that check will have a -30 penalty.
+(Some example check results are given below.)
+Foraging for food (see <em>Travel</em>) will be exceptionally difficult, and will also suffer a -30 penalty.</p>
+<table><thead><tr><th>Navigation Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Basic Success</td><td>Normal Progress</td></tr>
+<tr><td>Exceptional Success</td><td>Sheltered Camp Site, Good Progress (improve progress by 1dc), Sheltered Route (+20 to Feat of Endurance check against cold)</td></tr>
+<tr><td>Critical Success</td><td>Excellent Progress (improve progress by 2dc), <em>Whitefox Bridge</em></td></tr>
+<tr><td>Basic Failure</td><td>Lose Progress (reduce progress by 1dc)</td></tr>
+<tr><td>Exceptional Failure</td><td>Exposed Route (-20 to Feat of Endurance checks), Natural Hazard (hidden pit, fall down slope)</td></tr>
+<tr><td>Critical Failure</td><td>Party Becomes Lost (getting barrings is a one-hour Task Action requiring a Survival check at -20), Party Becomes Separated (searching is a one-hour Task Action requiring a Search check at -10; lost characters may panic; characters without Survival are at risk of freezing)</td></tr>
+</tbody></table>
+<p>Making camp will also be difficult; unlike normal, the party will need to make a <em>Survival</em> check to assemble a camp that will allow them to survive the extreme cold.
+(Characters can mitigate this by finding a cave or other natural feature to shelter in, but this will require a <em>Search</em> or <em>Survival</em> check at -20.
+Characters might also be rewarded with such a <em>sheltered camp-site</em> if they score an exceptional success while navigating, as described above.)</p>
+<p>The cold will be a significant hazard; each member of the party will need to make a <em>Feat of Endurance</em> test at the end of every day they spend in the snow.
+(If they choose to keep traveling at night instead of making camp, have them make a second <em>Feat of Endurance</em> check for the night.)
+Each time a character fails a <em>Feat of Endurance</em> check, they suffer 1d10DV, with the <em>Cold</em> and <em>Environmental</em> tags; resistances, vulnerabilities and other similar features apply, but armor does not.</p>
+<p>Note that the extreme cold is particularly deadly to cold-blooded characters; they'll need to bring along some source of warmth (like a Warmblood Suit, a Heater, or the Fireball power) or they'll almost certainly freeze to death.
+Ordinarily, no test would be allowed for a cold-blooded creature; most will fall into a torpor within an hour of exposure, and will be dead within hours.
+Cold-blooded creatures with no other source of warmth can attempt to share body-heat with a warm-blooded creature — although doing this while actively travelling can be <em>difficult</em>, unless the cold-blooded character is particularly portable.
+Sharing warmth in this way imposes a -10 penalty on the warm-blooded character, but it allows the cold-blooded character to make a Feat of Endurance check against the cold at -20.</p>
+<p>(If one of your players is playing a cold-blooded character, you can make both your life and theirs simpler if you suggest they purchase a Warmblood Suit in the market.
+Note also that creatures with the <em>Dragon-Kin</em> (like Drakes and Kobolds) and <em>Saurians</em> (like Raptors) are <em>not</em> cold-blooded.)</p>
+<div class="asside">
+<p>The blizzard is a &quot;soft barrier&quot;: it traps the party in the monastery and separates them from the city and help, so they have to face the Monster alone; but it's not impenetrable.
+In some circumstances, the party <em>may</em> decide to try to trek back through the blizzard to reach the town; this might happen if they are badly injured, or determine that they don't have the skills and resources to solve the mystery.
+(Notably, most of these are at least potentially failure states.)</p>
+</div>
+<div class="asside">
+<p>We've spent a fair amount of text describing how dangerous the blizzard is, because its intended to be a major hazard for the adventure.
+Bute a character who takes most of the teleportation-related powers can easily bypass it — at least on the way back from the monastery, if not on the way to it (because they don't know where they're going and are at risk for teleporting into a wall, tree, mountain, etc.).</p>
+<p>This is actually perfectly acceptable; a character who takes most of the teleportation powers has invested a significant ammount of points!
+To be really proficient, they will have had to buy several powers, and good ranks in both Spellcraft and Athletics (you need good Athletics to be good at teleporting, because teleporting counts as a movement mode; see the note on the power).
+At that point, they've earned the right to use teleporting to solve a problem.
+(If it helps, think of teleporting as another reasonable strategy for winning the &quot;encounter&quot; with the blizzard.)</p>
+</div>
+<h3 id="location-hella-river"><a class="header" href="#location-hella-river">Location: Hella River</a></h3>
+<p>The Hella River runs northeast, flowing from higher up in the peaks of the Worldspine Mountain to Hellas Lake 5dc outside the valley.
+The Hella River is not a wide or swift river; for most of its length, it's about 25 <em>strides</em> across, and only 6sd deep.
+(During the spring thaw, it swells and flows more rapidly; that is not likely to be a concern for the party during this adventure.)</p>
+<p>Right now, of course, the river is frozen over, and represents a potential challenge.</p>
+<h3 id="point-of-interest-whitefox-bridge"><a class="header" href="#point-of-interest-whitefox-bridge">Point-of-Interest: Whitefox Bridge</a></h3>
+<p>Whitefox Bridge is an arching stone bridge more than three hundred years old.
+The residents of Hella Valley have kept the bridge in good repair, important as it is for reaching Whitefox Monastery.</p>
+<p>The major benefit it provides for this adventure is the ability to resolve the <em>River Crossing</em> encounter.</p>
+<h3 id="encounter-river-crossing"><a class="header" href="#encounter-river-crossing">Encounter: River Crossing</a></h3>
+<p>One of the first challenges will simply be <em>finding</em> the Hella River.
+While characters who press North to the monastery must <em>eventually</em> cross it, given the <em>stride</em> of heavy snowfall that has covered the entire valley, they might not notice the river until they are already standing on it.</p>
+<ul>
+<li>Any character who approaches the river is entitled to a <em>passive Perception check</em> to notice the river and determine it's rough outline.</li>
+<li>If the party has a Scout and that character succeeds on their Perception test, then they will detect the subtle signs of a river-bank before anyone steps out onto the ice.</li>
+<li>If the party has a navigator and they succeed on their Survival test to navigate, then they can at least provide the party with a heads-up that the river is near, providing a bonus on perception tests to notice the river (and given the players a prompt to make <em>active</em> Perception checks to find it).</li>
+</ul>
+<p>Failing all of this, some characters are likely to have ventured out onto the ice before anyone in the party detects that the river is there.</p>
+<p>After days of heavy snowfall, the Hella river is most likely frozen solid — most likely.
+For every character who ventures out onto the ice, roll a check with a (fixed) TN of 80; if they succeed, then they cross the ice safely, but if they fail, the ice breaks under the character.</p>
+<p>If the ice breaks under a character, they may attempt a COO×2 check to <em>fall or dive away</em>, with the results given below:</p>
+<table><thead><tr><th>COO×2 Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Basic Success</td><td>Land <em>partly</em> in the water</td></tr>
+<tr><td>Exceptional or Critical Success</td><td>Land next to the break, on the ice</td></tr>
+<tr><td>Basic Failure</td><td>Land <em>completely</em> in the water</td></tr>
+<tr><td>Exceptional Failure</td><td>Land <em>completely</em> in the water, suffer minor injury on the ice (1d10÷2 DV)</td></tr>
+<tr><td>Critical Failure</td><td>Land <em>completely</em> in the water, 1d10÷3 sd away from the hole</td></tr>
+</tbody></table>
+<p>Characters who don't attempt this check simply land <em>completely</em> in the water.</p>
+<p>For many races, being dumped into freezing water is <em>shocking</em>; characters must make a WIL×3 test or be <em>panicked</em> for MoF÷5 turns.</p>
+<p>Characters <em>partly</em> in the water can attempt an Athletics (Endurance) check at -20 to pull themselves out of the water; alternatively, another character can throw them a line, or otherwise pull them out.</p>
+<p>Characters <em>entirely</em> in the water are in more danger.
+If they have <em>basic proficiency</em> in Athletics, they can <em>tread water</em> for at least a few minutes; if they don't, they can splash around, but they will quickly sink.
+Hypothermia is the greatest danger; the near-freezing water will rapidly sap most character's body heat.
+First, characters must make a <em>Feat of Endurance</em> check; they can operate for (3 + MoS÷10) minutes before loosing consciousness.</p>
+<p>Characters who are saved from the water after being partially or completely submerged are still at risk of freezing.
+Characters with <em>Medicine</em> or <em>Survival</em> will know what to do: quickly warm the character.
+This often includes getting a character out of their wet clothing, getting dry clothing if available, and starting a fire in a sheltered area.
+Characters who are well cared-for may recover in thirty minutes or so; characters that do not do this remain at risk of hypothermia.
+They must make a Feat of Endurance check, and succumb to hypothermia after 60-MoF minutes.</p>
+<h2 id="the-monastery"><a class="header" href="#the-monastery">The Monastery</a></h2>
+<p>The monastery is where the bulk of the adventure takes place.
+It's where all the clues to the mystery reside — as well as the monster!</p>
+<h3 id="location-the-monastery"><a class="header" href="#location-the-monastery">Location: The Monastery</a></h3>
+<p>Whitefox Monastery is more than four-and-a-half centuries years old.
+Humans from the Empire first settled in the region more than a thousand years ago; the region was incorporated into the Commonwealth more than six hundred years ago.
+A manorial charter was granted to the Whitefox Monks in CY 298, more than five hundred years ago; the current Whitefox Monastery was built between CY 361 and CY 365, when the manor (which included what would become Southlander's Market) grew wealthy enough.
+(As a reminder, this adventure is set in the winter of CY 831.)</p>
+<p>The building is roughly square; it's build around an open <em>ritual space</em> on the inside, surrounded by various living and working spaces.
+It's two stories high; the first <em>stride</em> of the ground floor is construct of faced masonry, but the rest of the height of the building is constructed of large bricks.
+There are a few narrow windows on each floor.
+The corners are cylindrical, enclosing spiral staircases.
+There's a large <em>gate</em> on the southern face, which leads directly into a small <em>front room</em> and then the ritual space.</p>
+<p>As the party approaches the monastery, hope for an resolution should fade: the gate is open, and no light can be seen from the narrow windows.
+Characters with <em>Infra-Red Vision</em> can verify that the building is cold; characters with <em>Scent</em> may detect the smell of death.</p>
+<p>Notably, characters who walk around behind the monastery may notice a much larger window behind the ritual space.
+This window is intact, but characters who <em>really</em> want to avoid going through the front door (for whatever reason) could break it to gain access.</p>
+<h3 id="point-of-interest-outside"><a class="header" href="#point-of-interest-outside">Point-of-Interest: Outside</a></h3>
+<p>Characters who search outside the monastery — or score exceptional successes on Perception checks while approaching — may notice <em>bodies</em> frozen in the snow.
+These are the monks, the former occupants of the monastery.
+The monks are wearing garments of linen, with heavy wool robes suited to the cold.
+(Remember that these are not <em>Christian</em> monks; they have not taken a vow of poverty, and in fact their monastery is something of a center of local wealth and power, given how essential they are to securing the favor of the spirits.)</p>
+<p>All the monks are dead; some may have succumbed to the snow, while others may have been slain violence.
+(Indeed, vicious slashing wounds, torn into the monks with jagged claws, may be an early hint to what the party is about to face.)</p>
+<p>Few other clues are to be found outside — although note that the monster is <em>not</em> restricted to the inside of the monastery.
+Characters who tarry too long outside — or who attempt to out-wit the scenario by camping outside — may find themselves under attack.</p>
+<h3 id="point-of-interest-the-doors-and-the-antechamber"><a class="header" href="#point-of-interest-the-doors-and-the-antechamber">Point-of-Interest: The Doors and the Antechamber</a></h3>
+<p>The monastery has large doors of oak and iron, at least three strides wide and four high; they stand open, and the monastery beyond them is cold and dark.
+Snow may even have been blown inside, accumulating beyond the doors.</p>
+<p>There are no particular clues here; bloody handprints, splashes of blood, dead monks, or monstrous claw-marks can all be added — but don't go overboard.
+Sometimes it's good to let the tension build, and sometimes the unknown can be more terrifying than gory details.</p>
+<p>A note is that, because deep snow has settled around the open doors, they will be difficult to either open further or close.
+Handling this can be useful to build the mood, but isn't essential — if progress has been slow and your players are frustrated, you can definitely skip this detail, or mention it only in passing.</p>
+<p>Immediately through the doors is a small ante-room, perhaps four <em>stride</em> square.
+To the left and right, passages read deeper into the monastery — presumably to work-shops, dormitories, and whatever else may be present; straight ahead, another large pair of doors, twins to the exterior doors, lead into the <em>ritual space</em>.
+These doors are closed, but they are not bared (unless you would like to throw an additional obstacle at the players, or force them to explore some of the other locations first).</p>
+<h3 id="point-of-interest-the-ritual-space"><a class="header" href="#point-of-interest-the-ritual-space">Point-of-Interest: The Ritual Space</a></h3>
+<p>The ritual space dominates the interior of the monastery.
+It's a great, open, granite-floored room.
+Shrines to the various Great Spirits of the region line the walls, as well as small cabinets for ritual items.</p>
+<p>The floor of the space is open, with light benches, chairs, or cushions stored nearby; dance and ceremony are common components of the rituals for many spirits, so fixed <em>pews</em> or <em>benches</em> are not used.</p>
+<p>The <em>altar</em> sits at the north end of the room on a raised platform, which takes up nearly a quarter of the room.</p>
+<h3 id="point-of-interest-the-altar"><a class="header" href="#point-of-interest-the-altar">Point-of-Interest: The Altar</a></h3>
+<p>The <em>altar</em> sits at the north end of the ritual space on a raised wooden platform, opposite the doors on the south.
+The platform runs from (side-)wall to (side-)wall, underneath a great, open glass window.</p>
+<p>The remains of a <em>ritual</em> remain on the altar.
+This is the last ritual that took place at the monastery — the ritual that the <em>traitor</em> used to call forth the spirit and construct the monster.
+The ritual likely includes figures drawn on the floor, possibly in salt, candle-wax, or blood; it may also include scattered notes, or abandoned ritual items — bowls, rattles, or incense.</p>
+<p><em>Analyst</em> characters can examine the <strong>remains of the ritual</strong>.
+What they learn depends on the details of the scenario that you have picked (see below).
+Possible skills and results are given below:</p>
+<table><thead><tr><th>Skill</th><th>Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Knowledge: Theology, Profession: Priest, or similar</td><td>Basic Success</td><td>Basic confirmation (it is a ritual, it is unusual)</td></tr>
+<tr><td></td><td>Exceptional Success</td><td>Additional Clues (specific spirits involved; involvement of the dead; that the monster is or is not bound)</td></tr>
+<tr><td></td><td>Critical Success</td><td>Insight on how to resolve the situation (what will or will not work to destroy the monster)</td></tr>
+<tr><td></td><td>Basic Failure</td><td>No information</td></tr>
+<tr><td></td><td>Exceptional Failure</td><td>False information (the ritual is fake; the ritual is something else, like a religious ceremony; suspecting the wrong spirit; incorrect information about vulnerabilities)</td></tr>
+<tr><td></td><td>Critical Failure</td><td>Negative magical effect (angering the monster, marking the character for the monster, releasing further spirits from the realm of the dead [extreme, but certainly notable])</td></tr>
+<tr><td>Spellcraft, Knowledge: Magic, or Profession: Mage</td><td>Any Success</td><td>Confirmation that the components are magic, and that religious knowledge is necessary for more information.</td></tr>
+<tr><td></td><td>Basic Failure</td><td>No information</td></tr>
+<tr><td></td><td>Exceptional Failure</td><td>Misleading information (the ritual is not magic or is fake; it is actually a spell; it is or is not still dangerous)</td></tr>
+<tr><td></td><td>Critical Failure</td><td>Negative magical consequence (a &quot;flash&quot;, giving the party's location away; an ingredient is toxic or hallucinogenic, affecting a character; dramatic affect, like the remains combusting)</td></tr>
+</tbody></table>
+<h3 id="point-of-interest-the-stairs"><a class="header" href="#point-of-interest-the-stairs">Point-of-Interest: The Stairs</a></h3>
+<p>Spiral stairs sit on each corner of the monastery; the ones on the south lead both to the second floor on their side, and to chambers two the north.</p>
+<h3 id="point-of-interest-the-kitchen"><a class="header" href="#point-of-interest-the-kitchen">Point-of-Interest: The Kitchen</a></h3>
+<p>Looking in from the door, the kitchen is on the ground floor to the right.</p>
+<p>They are well-stocked, although much of the food has frozen, now that the temperatures in the monastery have fallen.
+Spices, birds, and cuts of meat hang from hooks; they might distantly and eerily resemble the work-shops where the priests prepare rituals.
+There is a wide hearth with a kettle-rack set into the outside wall, and a wood-burning stove  near the door; neither is fired.</p>
+<p>There is a door to the outside here; outside, there is a small, covered pavilion with a large cooking fire.
+In warmer weather, cooking was done out here.
+The snow-drifts have come through the open sides, and the charred logs of the large fire are covered in snow.</p>
+<p>There are also stocks of wood to fuel the fires, although only perhaps a day's supply; the wood-pile is elsewhere.</p>
+<p>There are implements here that could be used as weapons in a pinch, like butcher's knives, rolling pins, and fire pokers, and plenty of food that might be edible if it is thawed.
+If the fires were lit, the room would warm up, and the party could easily cook a hearty meal here.</p>
+<h3 id="point-of-interest-the-infirmary"><a class="header" href="#point-of-interest-the-infirmary">Point-of-Interest: The Infirmary</a></h3>
+<p>The infirmary is located on the ground floor, behind the kitchen; it is a large, roughly square room.
+It has two high wooden beds and a heavily-constructed table; the sides of the room are lined with shelves and cabinets.
+It has its own fire-place, in a corner with the wall of the kitchen and the outside wall, so that it can share a chimney with those rooms.</p>
+<p>There are useful supplies here, but little evidence.
+There are bandages, medicines, surgical implements, thread and twine, and the like.
+In general, rather than detailing the contents of the surgery, we recommend treating it as a <em>Medicine</em> Shop; locating common items (like bandages or needles-and-thread) should be automatic, although <em>Search</em> tests might be required to locate more valuable or rare items.</p>
+<p>If characters decide to search the room, some possible results are given below:</p>
+<table><thead><tr><th>Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Basic Success</td><td>2 <em>Numbing potiosn</em>, 3 <em>Healing potions</em></td></tr>
+<tr><td>Exceptional Success</td><td><em>Basic Success</em> plus 2 <em>Magical Healing potions</em>, 2 <em>Poppy Juice</em></td></tr>
+<tr><td>Critical Success</td><td><em>Exceptional Success</em> plus a useful drug or magical potion; other options possible, depending on party's needs.</td></tr>
+</tbody></table>
+<h3 id="point-of-interest-the-dormitories"><a class="header" href="#point-of-interest-the-dormitories">Point-of-Interest: The Dormitories</a></h3>
+<p>The dormitories are on the right side (from the front door), on the second and third floors; they can be accessed through the stairwells at both the front and back.</p>
+<p>Each dormitory floor is essentially one long, open room, broken into individual cells by wooden dividers.
+Each cell features a bed, a trunk, and some minor personal effects — a small cabinet in one, some books in another, a small sketch in another, some silver ornamentation, a letter, an icon to a particular spirit, and so on.
+(Again, recall that these are not Christian monks, and have not taken a vow of poverty; in fact, though devotion to the order was required, they might be relatively wealthy, at least compared to the common-folk of the area.
+So, a certain amount of finery is not out of the question.)</p>
+<p>There is a large fire-place located in the center against the outside wall, lined up with the fire-place below.</p>
+<p>The dormitories are, perhaps, also where hope is dashed, and the horror begins, for here lie the slaughtered monks.
+Apparently, something gruesome attacked them in the night: several fell in their cells, rent in their sleep.
+Others appear to have made a dash for it, but where cut down as they fled.
+(A few where allowed to escape, as the monster chose other victims; these died in the snow outside, or perhaps hid elsewhere in the monastery, only to be discovered, or to freeze.)</p>
+<p>The monks on the top-floor dormitories may have heard the death of their comrades below and attempted to save themselves.
+The door is barred and still in-place, but is badly damaged and broken: it looks as though someone frantically attacked it with an axe, causing a shattering its planks and cutting a ragged hole in it at roughly head-level.
+The northern door is un-barred and open; several monks lie fallen in the north stair-well, and in the third-floor dormitories.
+(The monks, seeing that the south door would not hold, had unbarred the north door and tried to flee; the creature, being intelligent, charged through the second-floor dormitories and met them in the north stairwell.)</p>
+<p>Master North-Fire's cell is on the top floor; it is at the back of the dormitory, set against the north wall, and boasts a desk and a small window.
+He lies dead in the north stair-well.</p>
+<p>For all this horror, there are no particular clues <em>as such</em> to be found in the dormitories.
+The traitor likely collected their papers, notes, and personal effects when they fled; they were not so polite as to leave a confession behind, stuffed into their pillow.
+(Unless, of course, you would like for them to be.)
+And no-one else knew what they where up to.</p>
+<p>An exceptional success on a search check may reveal a recently occupied and hastily emptied cell — perhaps one conspicuously devoid of gore and viscera; further investigation may yield clues as to the race and build of the traitor — a Elf, Human, Gnoll, or otherwise.</p>
+<h3 id="point-of-interest-the-work-space"><a class="header" href="#point-of-interest-the-work-space">Point-of-Interest: The Work-Space</a></h3>
+<p>The ground floor on the left side is taken up with a large workshop, where the priests and monks prepared for the various rituals, as well as mixed potions or performed minor repairs.
+There are a number of work-stations here, with a diverse array of equipment, as different spirits can require very different and quite involved preparations: some might require a specific attire; while others might require a finely craft ritual item, like a rattle, or musical instrument, or symbol; and still others might require an elaborately-prepared meal or other offering.
+And some work-stations may be devoted to mundane tasks, like mending garments or working leather.</p>
+<p>There is, depending on the scenario, potentially a significant clue here: the <strong>traitor's work-station</strong> may be located here.
+With a successful <em>Search</em> check, the party might find a particular desk, where the traitor prepared the components used in the ritual to summon the monster — possibly accompanied by a page or two of notes, secured in a small satchel or drawer there.
+These notes where those used in the immediate preparation of the ritual; while they won't spell out the traitor's identity and ultimate plan, a skilled priest or mage might use Profession: Theology or Knowledge: Religion to gain insight into what the traitor was doing, and possibly how it can be undone.</p>
+<p>This workshop might also include the <strong>traitor's cache</strong>, a small cache of more valuable notes or resources, hidden behind a loose brick in the wall.
+These may include an unused portion of the preparation used in the ritual, necessary for restoring the <em>ritual site</em> to reverse the binding of the creature; or perhaps they might contain more extensive notes, granting more insight into who precisely the traitor was and what they where doing.</p>
+<h3 id="point-of-interest-the-scriptorium"><a class="header" href="#point-of-interest-the-scriptorium">Point-of-Interest: The Scriptorium</a></h3>
+<p>The <em>scriptorium</em> is located on the second floor to the left of the door.
+Here, there are many desks scattered about the room, each large enough to comfortably hold an open sheet of parchment, vellum, or paper, as well as brushes, paints, inks and charcoals.
+Here, the monks would busy themselves, copying old manuscripts, repairing them, or illuminating them.
+In former years, these skills where highly valued; over the last few generations, since the invention of the printing press, their skills have become less and less valuable.</p>
+<p>At the back of the scriptorium sits several large shelves, holding a collection of commonly-used books and scrolls, and stores of inks, pages, and brushes.</p>
+<h3 id="point-of-interest-the-library"><a class="header" href="#point-of-interest-the-library">Point-of-Interest: The Library</a></h3>
+<p>The <em>library</em> takes up the whole of the third floor on the west side.
+The books and scrolls here cover a variety of topics; some are common works on theology, philosophy, history, medicine, or the various skills and trades needed to maintain the monastery; others are more local, like maps of the region, histories and genealogies, and — perhaps most importantly — catalogues of the local spirits, their known wants, binds, and propitiations, and records of the dealings that the monks have had with them.</p>
+<p>Here, finally, a scholar character can shed some light on the mystery.
+Armed with information from the other clues that the party has discovered, a character can use a <em>Research</em> check to consult the monks' extensive records and determine what precisely has happened here; details vary by scenario, but potential results and modifiers are given below.</p>
+<table><thead><tr><th>Modifiers</th></tr></thead><tbody>
+<tr><td>-10 per missing clue, missing clues may effect information gained</td></tr>
+</tbody></table>
+<table><thead><tr><th>Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Basic Success</td><td></td></tr>
+<tr><td>Exceptional Success</td><td></td></tr>
+<tr><td>Critical Success</td><td></td></tr>
+</tbody></table>
+<h3 id="encounter-the-monster"><a class="header" href="#encounter-the-monster">Encounter: The Monster</a></h3>
+<p><strong>The Monster</strong> is the major antagonist and threat of the module.</p>
+<p>The Monster was created by the Traitor to slaughter the monks and to cover their retreat (unless, of course, you have some other motivation in mind).
+It required the cooperation of at least two Great Spirits, and possibly more: one is <em>Bones of Deep Rock</em>, a powerful spirit whose basin is the Worldspine Mountains; another is a Great Spirit of the Dead.
+The monster was created when a spirit was called up from the realms of the dead, and set loose in the <em>Hella Valley</em>.</p>
+<p>It might be interesting to discover which particular spirit was called back from the dead, but it is not necessary.
+Some mortal spirits are changed by death: when called back from the realms of the dead, they return changed, beyond all mortal constraint.
+Free of hunger, harm, and consequence, they are often profane, obscene, and <em>aggressive</em>.</p>
+<p>To this mix, Bones of Deep Rock brought power: he gave it the right to use snow and stone in the Hella Valley, part of Bones' domain.</p>
+<p>The result is a terrifying monster, free of mortal compassion and given terrifying power, set loose on the Hella Valley.</p>
+<p>In most variants, the monster is the module's primary combat encounter.
+It is a ferocious foe, and should pose a significant threat to the party's combat specialists — and it should be entirely overwhelming to the party's non-combat characters.
+Monster attacks are the combat character's chance to shine.</p>
+<p>However — at least, in most scenarios — defeating the monster in combat won't resolve the conflict of the module.
+Instead, the  monster serves as a kind of ticking clock: with each attack, it should take a chunk out of the party, inflicting wounds on the party's combat characters and consuming the party's resources.
+Meanwhile, if the monster is destroyed, it simply jumps to a new body (in most scenarios), returning again to harry the party.
+If the magic animating the monster cannot be undone, it will eventually win.</p>
+<p>Notably, the monster is intelligent — it used to be a mortal person, after all.
+The monster is intelligent, resourceful, and clever: it will stalk the party; lay traps and ambushes for them; deliberately mislead, manipulate, and frighten them; target weaker members of the party, or those who wander off alone; and use other sophisticated strategies.
+Depending on precisely whose spirit it is, it may even be able to understand them if it hears them talking, to use that information, and, depending on the scenario, possibly even communicate with them.</p>
+<p>Despite the fact that it is intelligent, however, it is also incredibly aggressive.
+It is <em>dead</em>, after all, and beyond all mortal concern.
+It cannot be killed again, only physically destroyed; and, when physically destroyed, it can simply occupy a new corpse.
+(Under most scenarios, the party probably won't have time to gather and destroy every corpse; should they do so, it is possible that the monster can form a body from ice and rock.
+While such a form might be durable, it probably should have some weakness relative to the use of a corpse, to explain why it did not do this before; these bodies might be slower or weaker, for example.)</p>
+<h3 id="character-master-north-fire"><a class="header" href="#character-master-north-fire">Character: Master North-Fire</a></h3>
+<p>Master North-Fire was the former head of the monastery.</p>
+<h3 id="character-the-traitor"><a class="header" href="#character-the-traitor">Character: The Traitor</a></h3>
+<p>The Traitor has been left deliberately vague in this module; the intent is that you can fill their character in as you would like.
+(This is perhaps feasible to do because, in many variants of the module, the Traitor is not a primary antagonist; in some variants, the Traitor might not even need a name.)</p>
+<p>This is potentially useful if you would like to tie this module into a larger adventure; you can insert NPCs that you would like to have a more prominent role later.
+It is, however, perhaps inconvenient if you would like to run the module with minimal adjustment; for that reason, we will provide some sample Traitors below.</p>
+<h4 id="orcish-and-dwarvish-separatists"><a class="header" href="#orcish-and-dwarvish-separatists">Orcish and Dwarvish Separatists</a></h4>
+<p>Not every Orcish and Dwarven hold in Northland is a member of the Commonwealth — the Commonwealth's relationship with the Orcs is particularly complicated.
+There are Dwarven and Orcish movements opposed to the Commonwealth active in Northland; the destruction of the Hella Valley may be their immediate goal, or it may simple be a means to an end — perhaps the monks of Whitefox Monastery had something that the separatists wanted, or perhaps the blizzard is intended to cover for an operation in one of the nearby settlements.</p>
+<h4 id="shaded-sea-agents"><a class="header" href="#shaded-sea-agents">Shaded-Sea Agents</a></h4>
+<p>In this scenario, the traitor is a Shade Elf, an agent of the Shaded Sea.
+Perhaps they where an expert spy or assassin, or perhaps they where able to access the monastery because Master North-Fire was a trusting soul who wished to think the best of his cousins and did not ask the questions that he should have asked.
+In any case, the Monastery had secured some item or piece of information that was valuable to the Shaded Sea — perhaps unknown to them.</p>
+<p>One scenario that suggests itself is that the piece of information may in fact have been the information necessary to call the spirit of a prominent agent of the Shaded Sea back from the dead; in this scenario, the spirit animating the monster may in fact be a Shade Elf or Leaper noble.
+After the Traitor got whatever they wanted from it, they simply left it loose and unbound, to cause as much Chaos for this little corner of the Commonwealth as it wished to, before being dispatched.</p>
+<h4 id="power-mad-nobles"><a class="header" href="#power-mad-nobles">Power-Mad Nobles</a></h4>
+<p>Even in the Commonwealth, there are powerful, well-connected people, looking for further advantage; the spirit may have been released by some prominent noble or wealthy citizen, in the quest for further relative advantage.
+This can be as callous (and as heavy-handed) as someone who wanted to eliminate competitors in the Hella Valley; or it might be a noble who, for relatable or cruel reasons, wished to contact a relative; or it might even be someone who wished to finish a family judge, perhaps because their family was wronged by the residents of the Hella Valley in years or centuries gone by.
+These structures yield themselves to particular morality tales, and they allow the GM a chance to flesh out the history of the Hella Valley.</p>
+<h4 id="an-agent-of-the-secret-army"><a class="header" href="#an-agent-of-the-secret-army">An Agent of the Secret Army</a></h4>
+<p>It's unlikely that the urchins and beggars that make up the active membership of the Secret Army (in the Kingdoms of Men) could earn a place in Whitefox Monastery — but some of those urchins and beggars grow up to become respectable citizens, and some of those respectable citizens remember where they came from.</p>
+<p>One possible twist in this scenario is that the infiltration of the monastery may not have been planned in advance.
+The Traitor may not be an <em>active</em> member of the Secret Army sent here on a mission; instead, they may have come to the monastery with (relatively) good intentions, only to have later come across a temptation that they could not resist, or have been trusted with something that they should never have been trusted with.</p>
+<p>In this scenario, it's possible that the traitor was sloppy.
+Their main goal was to get out of the valley before anyone catches them, to disappear into the Kingdoms of Men; they may not care how much (or how <em>little</em>) chaos the monster creates behind them, as long as it covers their escape.
+This works well if you'd like the monster to be relatively easy to defeat, and it leads naturally to the party going hunting for the Traitor in the Kingdoms of Men, perhaps armed with clues the traitor left behind at the monastery.</p>
+<h2 id="resolution"><a class="header" href="#resolution">Resolution</a></h2>
+<h2 id="failure"><a class="header" href="#failure">Failure</a></h2>
+<h2 id="secrets"><a class="header" href="#secrets">Secrets</a></h2>
+<h3 id="character-bones-of-deep-rock"><a class="header" href="#character-bones-of-deep-rock">Character: Bones of Deep Rock</a></h3>
+<p><strong>Bones of Deep Rock</strong> is a Great Spirit whose basin is the northern Worldspine Mountains; it is, unsurprisingly, a powerful Great Spirit.
+<em>Bones</em> obviously has power over the Worldspine mountains; it is also associated with snow, blizzards, frost, stone, earthquakes, and rockslides.</p>
+<p><em>Bones</em> is almost unknown to the Commonwealth; it takes little notice of mortals or lesser spirits, and has almost no engagement with them.
+What its wants are, what agendas it has, and what engagements it has with other Great Spirits are largely unknown.
+When its affairs involve mortals, it often works out much like when a farmer's affairs involve mice; the results are often profound, devastating, and utterly inscrutable to the mice.</p>
+<p>Bones of Deep Rock is not associated with the dead, and did not call the spirit of the Monster back from the realms of the dead; instead, Bones' allowed the spirit to operate in its domain, granting it powers over stone, snow, and blizzard.
+In order to convince Bones of Deep Rock to do this, the Traitor almost certainly did not deal with the Great Spirit directly; instead, the Traitor would have had to deal with some other Great Spirit, who perhaps had influence over Bones', and whose affairs do involve mortals.</p>
+<p>Bones of Deep Rock could potentially revoke the access and powers its granted the monster, possibly banishing it back to the realms of the dead outright, or at least dispersing the blizzard and depriving the monster of its icy claws.
+However, like the Traitor, the party almost certainly cannot deal directly with Bones of Deep Rock; instead, they will also potentially need to find another Great Spirit, one who can exert their own influence of the enigmatic and aloof Great Spirit.</p>
+<h3 id="characters-the-flurry"><a class="header" href="#characters-the-flurry">Characters: The Flurry</a></h3>
+<p><strong>The Flurry</strong> is a Great Spirit whose basin lies in the northern Worldspine; it — or they — is a winter spirit, associated with snows, frost, winter, and night.</p>
+<p>The Flurry is a potential foil for Bones of Deep Rock.
+While the Flurry is not a particular ally of the mortal occupants of Northland, it is willing to offer them its favor in exchange for certain gifts and propitiations, and it has a small cult there.</p>
+<p>Of course, its basin overlaps with that of Bones of Deep Rock; the blizzard, in fact, is something of an intrusion into the Flurry's domain.</p>
+<p>Because the Flurry has a pre-existing cult in the North, and in particular because its basin overlaps with that of Bones of Deep Rock, the party may be able to convince it to use its influence to convince Bones of Deep Rock to act against the Monster.</p>
+<h2 id="customizing-the-module"><a class="header" href="#customizing-the-module">Customizing the Module</a></h2>
+<p>Some parts of the module are fixed — like the town, the monastery, the blizzard and the monster.
+A traitor-priest (for one reason or another) negotiated between several spirits (including Bones-of-Deep-Rock) to release one of the spirits of the dead, and grant it great powers; this is the source of both the monster and the blizzard.</p>
+<p>Other parts, however, are designed to be variable: what was the plot, and how will the party defeat the monster and end the blizzard?</p>
+<p>In order to run the adventure, you'll need to pick one of the following &quot;plots,&quot; and use it to finish out the module — or combine several of them, or come up with one of your own!</p>
+<h3 id="alien"><a class="header" href="#alien">&quot;Alien&quot;</a></h3>
+<p>In some ways, this is a very simple scenario: it's a fight for survival in an isolated, eery location against an implacable, ferocious foe.
+There's no particular secret to unlock or mystery to solve: the monster is at the center of it, and you have to kill it before it kills you.</p>
+<p>In this story, the <em>Traitor</em> still created the monster, for whatever reason — but that's of little consequence now.
+The monster is <em>unbound</em>; even if the party identify the traitor and fully understand the ritual he used, there's nothing that knowledge will allow them to do.
+All they can do is defeat it.</p>
+<p>In this scenario, designing and running the monster is particularly critical.
+It needs to be challenging enough that defeating it can take up a good chunk of the adventure.
+It should be tough enough that it can strike, inflict some painful damage, and then survive to fade away.
+On the other hand, it also needs to be possible to defeat it; it probably <em>shouldn't</em> be able to simple hop into a new corpse when it dies, because that will potentially put the party in a place where they need to defeat it <em>70 times</em> — which shouldn't be practical.
+Essentially, this means that you should probably improve its DUR, STR and Armor — and possibly give it a regeneration mechanism — but that you <em>shouldn't</em> allow it to hop bodies.</p>
+<p>It's also important to wisely deploy the monster.
+Don't over-use it; it shouldn't be running about howling and attacking all the time, but instead should lunge out of the darkness to strike only at tense or vulnerable moments.
+Remember that it's the spirit of a dead mortal; that means that it has human(oid) intelligence.
+It's ferocious, but it's also <em>far</em> more intelligent than a lion or bear: it will avoid obvious traps, sneak around, attempt to trip or disarm opponents, and maybe even set traps of its own.
+It even has the capability of language — although it has about as much to say to the party as a lion does to a gazelle.
+However, if it can spy on the party, it might be able to understand what they're saying, which will give it a decided edge (if it shares a language with them — which depends on exactly whose spirit it is, which is a detail up to you as the GM).</p>
+<p>Finally, it's a good idea to reveal to the players <em>fairly</em> quickly what they need to do; don't force them to assemble a lot of clues if the ultimate solution is going to be &quot;kill it!&quot;</p>
+<ul>
+<li>Requires <em>Combatant</em>, <em>Analyst</em>, and <em>Provisioner</em> characters.</li>
+<li>Good for groups that like <em>simple solutions</em> and <em>combat encounters</em>.</li>
+<li>The <strong>monster</strong> needs to be <em>tough</em>, but it also should not &quot;respawn&quot;.
+<ul>
+<li>As a template: +10 DUR, +5 STR, +2 Armor, <em>can consume corpses to heal itself</em>.</li>
+</ul>
+</li>
+<li>Clues and characters backgrounds are not required;
+<ul>
+<li>the <strong>ritual remains</strong> do not reveal much; notes at the <strong>traitor's alcove</strong> reveal that, if the monster is defeated, the blizzard will end.</li>
+</ul>
+</li>
+</ul>
+<h3 id="negotiation"><a class="header" href="#negotiation">Negotiation</a></h3>
+<p>This scenario proceeds much like the previous one, with one difference: we assume that a lion might have a meaningful discussion with gazelles if it's <em>outnumbered</em> and <em>outgunned</em>.</p>
+<p>Essentially, in this scenario, we assume two things: that monster doesn't want to be defeated — perhaps destroying it will send it back into the realms of the dead, and it doesn't want that to happen — and that it can leave the monastery (and that the blizzard will follow it).
+(We also note that the analogy to lions and gazelles is imperfect, since the monster doesn't actually <em>need</em> to kill people; it's only doing that because it's already dead and beyond mortal concern, which means it has no particular reason to care about morality.)
+This opens up a kind of opportunity for the party: they can perhaps negotiate with it.</p>
+<p>There's a simple and compelling utilitarian case to make here: &quot;if you keep trying to kill us, we'll have to kill you, and that's bad for you.
+Instead, if you simply left — and, hopefully, take the blizzard with you — we'll stop needing to kill you.&quot;</p>
+<p>While this saves the Hella Valley, it also creates a problem somewhere else.
+If the monster travels to the lonely peaks of the World-Spine (for example), then that's fine — it won't be bothering anyone up there.
+If, however, it simply descends on a neighboring town, then the party will be responsible for a major disaster.
+And, of course, this leaves the wanton slaughter of the monks unavenged.
+This creates excellent opportunity for moral haggling within the party!</p>
+<p>Of course, it probably won't be obvious to the players that they can talk to the monster; if you don't give them a hint, they might mistake it for a run-of-the-mill &quot;game zombie.&quot;
+You might consider having the monster deliver a <em>line</em> at some point, to paint a message in blood, to build effigies, or to otherwise take steps that indicate that it's intelligent (and is aware that the party is intelligent).
+Note that trying to trick or terrorize the party might be early signs that the monster is intelligent and has a theory-of-mind.</p>
+<p>Don't be <em>too</em> heavy-handed, though; you can require COG×3 checks, protocol checks, or other appropriate checks for the characters to realize that the monster is intelligent.</p>
+<h4 id="negotiation-details"><a class="header" href="#negotiation-details">&quot;Negotiation&quot; Details</a></h4>
+<ul>
+<li>Much as the <em>&quot;Aliens&quot;</em> scenario.</li>
+<li>Possibly add a hint in the <strong>notes at the traitor's desk</strong> that the monster could be reasoned with.</li>
+<li>Demonstrate intelligent behavior form the monster.</li>
+</ul>
+<h3 id="unsummoning"><a class="header" href="#unsummoning">Unsummoning</a></h3>
+<p>In this scenario, the particular ritual that the <em>traitor</em> used is <em>reversible</em>.
+The party can perform a ritual of their own, which will destroy the monster and end the blizzard.</p>
+<p>There are several benefits to this scenario:</p>
+<ul>
+<li>one is that it puts the <em>Analysis</em> characters right at the center of the adventure;</li>
+<li>another is that it sets up an excellent climactic encounter: the monster is intelligent, and will likely try to disrupt their ritual (even if it doesn't know for sure what they're doing, it can probably guess that another ritual, reusing the same elements, is probably bad for it)</li>
+</ul>
+<p>This also gives you a chance to use the <strong>ritual remains</strong> to great effect — which is good if you like creepy, dramatic set-pieces.</p>
+<p>Another benefit is that you can use the monster differently.
+The <em>&quot;Aliens&quot;</em> scenario has the monster <em>buffed</em>, but also removes its ability to hop to new corpses; in this scenario, you can use a normal or weakened version of the monster, but you can also allow it to jump to new corpses.
+This also allows you to use many more monster attacks: rather than deploying it cautiously, you can simply throw it at the party as often as you like (since it can just jump to a new corpse when destroyed, and since it won't do quite as much damage to them in its &quot;un-toughened&quot; state).</p>
+<ul>
+<li>Requires <em>Combatant</em>, <em>Analyst</em>, and <em>Socialite</em> characters</li>
+<li>Good for groups that like <em>moral complexity</em>, <em>social encounters</em>, and <em>morally complex scenarios</em>.</li>
+<li>The <strong>monster</strong> needs to be tough; it also needs good characterization.
+<ul>
+<li>In particular, the party will need clear hints that it <em>is intelligent</em>, and that other solutions likely won't work.</li>
+</ul>
+</li>
+<li>The <strong>traitor</strong> does not need to play a large role.</li>
+<li>The Spirits do not need to play a large role.</li>
+<li>Clear indicators of intelligence need to be provided, but these do not have to be at the <strong>ritual site</strong> or the <strong>traitor's alcove</strong>.</li>
+</ul>
+<h4 id="variant-push-it-through"><a class="header" href="#variant-push-it-through">Variant: Push it Through</a></h4>
+<p>In this variant, the monster needs to be lured into position, pushed through a magical aperture, or otherwise maneuvered during the climactic ritual.</p>
+<p>Be careful with this one: the monster is both ferocious and intelligent, so it'll be tricky to pull off — especially if they don't have a <em>strong</em> combat character.</p>
+<h4 id="variant-you-need-the-original-ritual"><a class="header" href="#variant-you-need-the-original-ritual">Variant: You Need the Original Ritual</a></h4>
+<p>In this variant, you can only reverse the ritual as long as you can use certain bits of the original ritual (like the diagram on the alter).</p>
+<p>This produces a dangerous situation: the monster can foil the party if it destroys the <strong>ritual remains</strong>.
+This introduces a <em>hard failure state</em>—unless you also arrange for a Plan B.</p>
+<h3 id="kill-the-traitor"><a class="header" href="#kill-the-traitor">Kill the Traitor</a></h3>
+<p>In this scenario, the monster is bound to the traitor; as long as the traitor is alive, the monster will jump from corpse to corpse, and the blizzard will remain.
+But, if traitor is killed, the monster will be rendered vulnerable.</p>
+<p>This scenario allows the Traitor to play a more prominent roll in the scenario, and allows for the climactic confrontation of the scenario to be a role-playing confrontation with the character.
+However, on the other hand, this also requires a second (and potentially even third) trek through the blizzard: a second to return to the village to confront the Traitor, and a potential third to return to the monastery and convert the monster.
+It also introduces another failure state: if the Traitor escapes the valley before the party returns from the monastery, then it may be impossible to complete the monastery.</p>
+<ul>
+<li>Requires <em>Socialite</em>, <em>Infiltrator</em> and <em>Combatant</em> characters.</li>
+<li>Good for groups that like <em>clear villains</em> and <em>violent solutions</em>.</li>
+<li>The <strong>monster</strong> needs to &quot;respawn&quot;.</li>
+<li>The <strong>traitor</strong> requires detailed stats, characterization, and backstory.</li>
+<li>The Spirits are not primary forces.</li>
+<li>The <strong>ritual site</strong> and <strong>traitor's alcove</strong> are important clues.</li>
+<li>Have a plan for the time-line.
+Is the traitor trapped?
+Is there a point by which they will have gotten away?</li>
+</ul>
+<h4 id="variant-kill-the-traitor"><a class="header" href="#variant-kill-the-traitor">Variant: Kill the Traitor</a></h4>
+<p>In perhaps the simplest cast, the party should discover at the monastery that the monster is <em>bound</em> to the Traitor; if they kill the traitor, the spirit animating the monster will depart.</p>
+<p>While we've left the details of the traitor up to you, it's generally true that most clerics are not devastating forces in combat; in this version, likely the major conflict comes in convincing the townsfolk to go along with the party.
+This requires bringing enough evidence back from the monastery, and convincing the people of the town (through role-playing and social skills) to kill the traitor.
+(Or, potentially, circumventing that step by quietly dispatching the traitor through stealth.)</p>
+<h4 id="variant-the-traitors-secret"><a class="header" href="#variant-the-traitors-secret">Variant: The Traitor's Secret</a></h4>
+<p>In this variant, the Traitor has some <em>resource</em> that the party needs to recover, in order to defeat the monster: this might some bit of information, like a step, component, or phrase needed for the ritual; an item that the creature is bound too, or bound to flee from; or some action the traitor needs to take, like releasing the monster.
+This provides a slightly more morally satisfying victory: the climax of the adventure can be a role-playing encounter, with no violence required, and that everyone survives.</p>
+<h4 id="variant-the-traitor-as-active-enemy"><a class="header" href="#variant-the-traitor-as-active-enemy">Variant: The Traitor as Active Enemy</a></h4>
+<p>In this variant, the Traitor is an active enemy.
+Rather than simply hiding in town, hoping to escape before the town freezes or the party returns, the Traitor is taking an active role in the situation.
+They might attempt to sabotage the party in town, they might follow the party through the blizzard, they might deploy magical effects or agents to harry the party, or they might actively construct a trap for when they return.</p>
+<p>This allows you to add an active antagonist to the game, which increases the sense of menace the party experiences.
+Subtle signs — glimpses of magical currents seen in mage-sight, a second, distant camp-fire, or distant sounds or scents during the night watch — can hint to the party that someone else is operating in the region, possibly following them.
+The Traitor may also confront them with attacks and challenges; they might attempt to post a magical sentry at the bridge, stage an ambush at the river, lay traps in the path, or attack under cover of night; or they may attack the party at the monastery, or aid the monster in attacking the party; or they may lay an ambush for when the party returns to town.
+In an extreme situation, they may attack the town in the party's absence; the party might return to find the town in chaos, under siege, in the grip of a malady or sickness, or deserted.</p>
+<p>(On the down-side, this does require a fair bit of writing and preparation on your part; these scenarios can potentially be complicated.)</p>
+<h3 id="striving-with-god"><a class="header" href="#striving-with-god">Striving with God</a></h3>
+<p>In this scenario, the resolution to the conflict — dispatching the monster and ending the blizzard — requires striving with a Great Spirit.
+Whatever motivation the traitor had in releasing the monster, the creature now operates with the tacit sanction of Bones of Deep Rock, and possibly some of the Great Spirits that tend the dead.
+In order to defeat it, the party must convince Bones of Deep Rock (and possibly any other involved spirit) to withdraw the spirit in the monster.</p>
+<p>This scenario is a good option for those whole like <em>weird tales</em>: encounters with Great Spirits — especially ones as aloof and inscrutable as Bones of Deep Rock — should be awesome and deeply unsettling.
+The spirit is an enormous threat, and will be difficult to handle; mortal beings and lesser spirits do not matter to it, and so it has both the capability and temperament to simply squash the party.
+(Of course, this can be a lot of fun to play up, if your group enjoys unsettling cosmic encounters.)</p>
+<p>Role-playings skills, social skills, research and knowledge skills, and a high LUC will all be required.</p>
+<p>You'll need to think carefully about <em>what</em> the party can do for Bones of Deep Rock; there will need to be some specific reason that, <em>this time</em>, it will answer a mortal call, and that it will ultimately agree to withdraw the spirit.
+You'll need to hint at what that is in the <strong>ritual site</strong> or <strong>traitor's alcove</strong> (possibly with the help of the other books, scrolls, and resources available at the monastery).</p>
+<ul>
+<li>Requires <em>Socialite</em>, <em>Analyst</em>, and <em>Combatant</em> characters.</li>
+<li>Good for groups that like <em>cosmic encounters</em>, <em>horror</em>, and <em>non-combat solutions</em></li>
+<li>The <strong>monster</strong> needs to &quot;respawn&quot;.</li>
+<li>The <strong>traitor</strong> does not require detailed stats.</li>
+<li><strong>Bones of Deep Rock</strong> (and possibly other spirits) need to have clear motivations and a good back-story.</li>
+<li>The <strong>ritual site</strong> and <strong>traitor's alcove</strong> are important clues.</li>
+</ul>
+<h4 id="variant-spirit-politics"><a class="header" href="#variant-spirit-politics">Variant: Spirit-Politics</a></h4>
+<p>Rather than striving with Bones of Deep Rock directly, the party may be required to play politics among the spirits of the region, finding some other Great Spirit or clan of Spirits who are willing to handle the monster, the blizzard, or both.</p>
+<p>You might come up with a specific spirits with a specific price, in which case you'll need to provide clear clues to the party; the various books and tombs at the monastery could be very useful for this.
+Or, you might allow the players to do this ad-hoc, choosing from several possible allies.</p>
+<h4 id="variant-a-great-spirit-in-our-corner"><a class="header" href="#variant-a-great-spirit-in-our-corner">Variant: A Great Spirit in Our Corner</a></h4>
+<p>Another option is that the party could seek the aide of a friendly Great Spirit, like Lynn, the Orator, or the Mourner.</p>
+<p>These kinds of moments can be dramatic: even if they are sympathetic characters, they are also still Great Spirits, and encounters with them can still be deeply unsettling and profound.
+(They also offer the GM a chance to <em>play it up</em> a bit.)</p>
+<p>A Great Spirit could confront Bones of Deep Rock directly, but they can also help in other ways:</p>
+<ul>
+<li>if Bones of Deep Rock has no particular investment in fate of the Hella Valley, then the Spirit could help dissipate the Blizzard or defeat the Monster;</li>
+<li>a spirit could offer information that the party couldn't otherwise acquire, spelling out what they need to do to resolve the crisis;</li>
+<li>they can offer material aide, like a magical weapon or champion.</li>
+</ul>
+<p>This variant can be particularly useful if one of the characters has a particular patron spirit; it provides a chance to develop that spirit and their connection to the player-character, and to give that character some time in the spotlight.</p>
+<h3 id="something-else"><a class="header" href="#something-else">Something Else!</a></h3>
+<p>You can, of course, come up with your own entirely novel plot, something that fits your style, the tastes of your group, or the histories of the characters.</p>
+<p>In this case, bear the following questions in mind:</p>
+<ul>
+<li>What does the party need to do to end the blizzard?</li>
+<li>How will they figure that out?
+<ul>
+<li>What clues are available?<br />
+In particular:
+<ul>
+<li>What will they find at the <strong>ritual site</strong>?</li>
+<li>What will they find in the <strong>traitor's alcove</strong>?</li>
+<li>What will they find at the traitor's desk or cell?</li>
+<li>Will any of the bodies have a clue?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Who will need <em>good characterization</em> — a clear motive, a history, or a plan?
+<ul>
+<li>A Great Spirit, like Bones of Deep Rock?</li>
+<li>The Traitor?</li>
+<li>Another monk?</li>
+<li>The monster itself?</li>
+</ul>
+</li>
+<li>What skills will the party need to have?
+<ul>
+<li>Conversely, are there any characters in the party who will not be engaged?</li>
+</ul>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/setting-stormswords-rest.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/module-wendigo.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/setting-stormswords-rest.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/module-wendigo.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

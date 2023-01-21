@@ -1,0 +1,1003 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Neighboring Races - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html" class="active"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="neighboring-races"><a class="header" href="#neighboring-races">Neighboring Races</a></h1>
+<p>Some races are relatively rare in the Commonwealth itself, but common in neighboring nations.</p>
+<h3 id="brightfeathers"><a class="header" href="#brightfeathers">Brightfeathers</a></h3>
+<p>Brightfeathers are small, bird-like humanoids with a wide variety of richly colored plumages.
+Once the sole inhabitants of the western fringe of the Ruby Plane, they were formerly a relatively isolated culture until Ratfolk began fleeing the Warren Isles to avoid the brunt of Shade Elven raids and quickly began to establish themselves in their new home.
+The Ratfolk brought relatively advanced technology to the Brightfeathers, who gained the ability to sail along the coastal waters rather than attempting to traverse the dense jungles on foot or wing.
+While this helped open them to others on the Plane, this also made them natural allies for the Ratfolk as they established themselves.</p>
+<p>Initially, they were mistrusted along with the Ratfolk who had fled the Warren Isles due to their connection wth the brutal raids from the Shaded Sea Peoples, but in time the other major power in the northwestern Ruby Plane, the Raptors, came to view coexistance as essential to survival against the onslaught from the north, leading to the initial treaties which later lead to the official establishment of the Raptor Protectorate.</p>
+<p>The Brightfeathers themselves have a rich culture, with a native language which cannot be imitated by any other known race and a complex psuedo-pictographic writing system.
+Until meeting the Ratfolk, their existance had long been rather peaceful, which helps to explain their particular focus on art of almost any kind.
+Creative expression is very important to them, and those who create great works are highly respected.</p>
+<p>Their language, Songspeak, is based largely on mimicry, with many words simply consisting of an imitation of the sound of their meaning.
+Additionally, much of their cultural traditions center around music and singing, with much of their history conveyed and many of their observances celebrated through song.
+In the past, these songs were entirely of their own creation, but in the modern era, many Brightfeathers are fascinated with the music and languages of other cultures, leading many to seek to travel as extensively as possible to experience as many new sounds as they can.</p>
+<p><strong>Vitals</strong></p>
+<ul>
+<li>
+<p>Old age: 90 years</p>
+</li>
+<li>
+<p>Average height: 1.2 meters</p>
+</li>
+<li>
+<p>Average weight: 25 kilograms</p>
+</li>
+<li>
+<p>Diet: Omnivore (fruit, flowers, seeds, nuts, insects)</p>
+</li>
+<li>
+<p>Gifted mimics and natural linguists who played a small but pivotal role in building the Raptor Protectorate.</p>
+</li>
+<li>
+<p>DUR 20, STR 20</p>
+</li>
+<li>
+<p>+5 COO, +5 INT, +10 SAV</p>
+</li>
+<li>
+<p>Movement: Foot 3/9, Fly 4/12/48</p>
+</li>
+<li>
+<p>Senses: Normal, Infrared</p>
+</li>
+<li>
+<p>Size: Small</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Avian, Brightfeathers</p>
+</li>
+<li>
+<p>Language Group: Any</p>
+</li>
+<li>
+<p><strong>Natural Linguist</strong>: For Brightfeathers, language dots cost 3 CP rather than 5 CP each.</p>
+</li>
+<li>
+<p><strong>Acute Eyesight</strong>: Brightfeathers recieve a +20 bonus to visual perception checks.</p>
+</li>
+<li>
+<p><strong>Talons</strong>: Brightfeathers have talons on their hands and feet, which assist them in both manuvering and combat. They recieve a +10 to Athletics checks that involve gripping or climbing and have natural weapons which are wielded with Unarmed Combat (Natural Weapons), deal 1d10-1+DB, and have 0 AP.</p>
+</li>
+</ul>
+<h3 id="elf-human-hybrid"><a class="header" href="#elf-human-hybrid">Elf-Human Hybrid</a></h3>
+<ul>
+<li>Elves and Humans are almost unique in that they are one of the few pairings of distinct races who can produce offspring together; however, doing so is not without complication.
+<ul>
+<li>These half-human, half-elven children are almost always sterile; furthermore, while they are curiously immune to many inherited diseases that humans and elves are prone to, they are vulnerable to many unique defects all their own.</li>
+<li>There are two notable populations of non-sterile elven-human hybrids: the Haffa, who live primarily in a their own kingdom in the Kingdoms of Men; and the Shifter tribes living to the West of the Worldspine Mountains.</li>
+<li>The Haffa are the product of great fortune, magical intervention and selective breeding.</li>
+<li>The origins of the Shifters are lost to history; perhaps obviously, they have been influenced by far more exotic forces than merely having a mix of elven and human blood.  (As such, Shifters are usually regarded as a separate race, and have their own entry.)</li>
+</ul>
+</li>
+<li>“First generation” elf-human hybrids often have no culture of their own; they are often born into an elven or human culture somewhere in the Commonwealth.
+<ul>
+<li>Especially in Westward Province, Commonwealth cities and towns often develop a shared local culture with Wood Elven tribes near them.  In these areas, hybrids are a familiar site — if not precisely common, since they usually cannot reproduce themselves.</li>
+</ul>
+</li>
+<li>One of the few populations of non-sterile elf-human hybrids exists in the Kingdoms of Men: the Haffa.</li>
+</ul>
+<h4 id="vitals"><a class="header" href="#vitals">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 160 years</p>
+</li>
+<li>
+<p>Average Height: 1.8m</p>
+</li>
+<li>
+<p>Average Weight: 60kg</p>
+</li>
+<li>
+<p>Diet: Omnivore</p>
+</li>
+<li>
+<p>DUR 30, STR 30</p>
+</li>
+<li>
+<p>+5 COG +5 COO +5 INT +5 SAV</p>
+</li>
+<li>
+<p>Movement: Foot 4/12</p>
+</li>
+<li>
+<p>Senses: Normal, Low-Light</p>
+</li>
+<li>
+<p>Size: Medium</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Human, Elf</p>
+</li>
+<li>
+<p>Language Group: HHED</p>
+</li>
+<li>
+<p>Keen Senses: elf-human hybrids (usually) inherit their Elven parent’s keen senses.  They gain a +10 bonus to visual and auditory perception checks.</p>
+</li>
+<li>
+<p>Prehensile Feet: elf-human hybrids also (usually) inherit their Elven parent’s prehensile feet, although without the robust structure that makes them resistant to injury.  While hybrids gain the benefit of prehensile feet, their feet are also fragile and apt to suffer injury (this would be likely if an Athletics check is critically failed, for example).</p>
+</li>
+<li>
+<p>Endurance: Hybrid gain a measure of the remarkable endurance of humans; they gain a +10 bonus to Feat of Endurance checks.</p>
+</li>
+</ul>
+<h3 id="foxfire"><a class="header" href="#foxfire">Foxfire</a></h3>
+<p>Foxfire are race of spirits native to a large stretch of forest in the southeast Emerald Plane; in particular, they are closely associated with a fruit-tree common in that forest, similar to a peach tree.
+Like Shamblers and Tempters, Foxfire are neither incomprehensible and powerful Great Spirits nor minor, flickering magical creatures; instead, they are, in some ways, rough peers to mortal races.
+Notably, they do not have a Great Spirit patron or powerful ally; because of this, they are as vulnerable to mortal conquest as any other small civiliation would be.
+Because of this, they have falled under the dominion of the Shaded Sea, and suffered greatly.</p>
+<p>Foxfire are striking — and, some would say, soothing — to behold.
+They are roughy bipedal in shape — they are laid out rougly like Humans and Gnolls are — but they are composed of a diffuse, softly-luminous green material, sometimes compared to an emerald fire or a swirl of luminous green smoke.
+They do not have a well-defined surface, like a creature of skin or scales; instead, they are composed of a slightly deiffuse, thick material.
+This material resists objects the further &quot;in&quot; they go; in order for them to grip or push something, the object must &quot;submerge&quot; slightly, to a depth about equal to the thickness of 6 sheets of paper.
+(The sensation of touching a Foxfire has been described as being &quot;somewhat like animal down,&quot; like &quot;thick cream covering batter or dough,&quot; like &quot;touching the bottom of a bowl of porridge,&quot; or &quot;like moss on a rock just barely submerged in a brook.&quot;)</p>
+<p>Unlike many flesh-and-blood races, they are also slightly &quot;elastic&quot;: they can be slightly compressed or stretched, without doing them any harm or causing them any pain.
+This means that they may sometimes &quot;deform&quot; slightly from their neutral state; when carrying a heavy load, for example, they may slightly &quot;squash&quot;, or their arms might be slightly &quot;stretched&quot;.
+They are cooler to the touch than Humans and Gnolls are, although, like those races, they maintain their own &quot;body-temperature&quot; in different environments.
+In their neutral state, they are mostly dark green and dogwood-grey, and they glow with a soft, deep-green light.</p>
+<p>They are not restricted to their &quot;neutral&quot; state.
+Instead, each one possesses three &quot;natures&quot;; one follows from the forrest that is their Basin, and the other two appear to be inherited.
+A great many natures have been observed; even they likely do not know how many there are.
+A Foxfire can freely adopt either of its natures or return to its &quot;neutral&quot; state.</p>
+<p>The Foxfire's basin is the forest that they inhabit; they have particular influence over the fruit-trees common in those woods, and they have some influence in other forrests and on other fruit-trees.
+They are sometimes called &quot;orchard-spirits,&quot; because, in centuries passed, the people who lived in the surrounding areas would pay them to bless their orchards.
+If separated from their forests, they become increasingly sick and weak; while this effect will not kill them directly, it will eventually render them too weak and delirious to function, in a state much like a deadly fever.</p>
+<p>It is their powers over orchards that the Shaded Sea values.
+The Foxfire's forest is near the north-center of the Shaded Sea — near the Shade Elves to the west, and the border with Weswtward Province to the north.
+The Shade Elves have made slaves of the Foxfire, demanding that the spirits travel throughout the Shaded Sea and bless their master's orchards — on pain of having their forest raized and salted.</p>
+<p>Their dependance on their forest makes them particularly difficult to liberate.
+Many other of the Shade Elves' &quot;client peoples&quot; can in principle be smuggled to freedom; if the High Road secrets a Minotaur across the border, they are then free in the Commonwealth.
+This is not true of the Foxfire; they might be brought to freedom, but they must eventually return to their forest in the Shaded Sea, and to subjugation.
+And where they to attempt a rebellion, their forest would be burned to the ground, and their basin destroyed.</p>
+<blockquote>
+<p>Track: I saw one of these in Northland, and it was <em>adorable!</em></p>
+<p>Notebook: That is not a very dignified way to describe it.</p>
+<p>Fire: What was it doing in Northland?</p>
+<p>Track: I assume it was there with the High Road.
+I hope so, anyway.
+The High Road are trying to figure out how to let the Foxfire leave their forests without slowly withering away.</p>
+<p>Venn [Shambler]: Father Cypress can help there.
+He believes he can bind them to our lands, if they bring him a living cutting from one of their peach trees.</p>
+<p>Chandra [Drake, totally not a High Road member]: Operatives of the High Road have also pleaded their case to the Bullrush God; if it could create <em>us</em>, it might be able to help them.</p>
+<p>Fire: That's a little dangerous, though, isn't it?
+If the Bullrush God orders you to liberate the Foxfire, that could get… ugly.</p>
+<p>Chandra: It could, but we've got about a decade before we finally ally with the Raptor Protectorate, and when that happens, we'll be at war with the Goblin Empire and the Shaded Sea anyway.
+We should have a plan for the Foxfire before then.</p>
+<p>Venn: Well, then <em>someone</em> needs to go get that clipping, hmm?</p>
+</blockquote>
+<h4 id="vitals-1"><a class="header" href="#vitals-1">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: -</p>
+</li>
+<li>
+<p>Average height: 140cm</p>
+</li>
+<li>
+<p>Average weight: 40kg</p>
+</li>
+<li>
+<p>Basin: Foxfire Forest (esp. Peachtrees)</p>
+</li>
+<li>
+<p>Foxfire are semi-material forest spirits that glow a deep green and can manifest various <em>natures</em>.</p>
+</li>
+<li>
+<p>DUR 25, STR 25</p>
+</li>
+<li>
+<p>+ 5 COO, +5 INT, +5 SAV</p>
+</li>
+<li>
+<p>Movement: Walking 5/15</p>
+</li>
+<li>
+<p>Senses: Normal, Mage-Sight</p>
+</li>
+<li>
+<p>Size: Medium</p>
+</li>
+<li>
+<p>Tags: Spirit, Humanoid, Foxfire</p>
+</li>
+<li>
+<p>Language Groups: GH</p>
+</li>
+<li>
+<p>Elastic: Foxfire don't have a rigid skeleton — they aren't solid at all, in fact — and so their form is slightly <em>deformable</em> — the can &quot;stretch,&quot; &quot;bend&quot; and &quot;squash&quot; very slightly.</p>
+<ul>
+<li>This gives them a +10 bonus to checks when being highly flexible would be an advantage — such as Athletics checks to fit through cramped spaces or Stealth checks to hide.</li>
+</ul>
+</li>
+<li>
+<p>Forest-Flow: Foxfire can move through forests (and orchards) with incredible grace.
+They do not treat forests or orchards as difficult terrain.</p>
+</li>
+<li>
+<p>Glow: Foxfire glow gently, producing light like a (green) torch.
+This is can be useful at night, but also makes hiding <em>difficult</em> (-30 penalty to Stealth) if not impossible.</p>
+</li>
+<li>
+<p>Natures: Foxfire have three natures; one comes from the forest that is their basin, and they normally inherit the other two, usually one from each parent.</p>
+<ul>
+<li>When you create your Foxfire character, you gain the <em>Peach</em> nature, and two other natures from the list below.</li>
+<li>With your GM's permission, if your Foxfire has somehow been bound to a different forest, you may replace the Peach nature with a different nature that represents your new basin.</li>
+<li><em>Adopting</em> a nature (or returning to your standard form) is a Quick Action.
+(Note: This not a <em>sustained</em> action.
+Switching is a single Quick Action.)</li>
+</ul>
+</li>
+<li>
+<p><strong>Catfish</strong></p>
+<ul>
+<li><em>Catfish</em> Foxfire show a slightly blue, scale-less skin, and gain <em>barbells</em> around their mouths.
+Conscripted <em>Catfish</em> Foxfire have been deployed on the Ruby Plane to hunt down Hasidisee and to infiltrate Protectorate Ratfolk villages.</li>
+<li>While using this nature, the Foxfire:
+<ul>
+<li>gains a swim speed equal to their Walk speed, and can breath underwater;</li>
+<li>gains the <em>Acute Hearing</em> (+20) and <em>Acute Smell</em> (+20) sensory modifiers while underwater;</li>
+<li>gains +5 INT.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Coyote</strong></p>
+</li>
+<li>
+<p><strong>Fire</strong></p>
+</li>
+<li>
+<p><strong>Hare</strong></p>
+<ul>
+<li><em>Hare</em> Foxfire are small, alert, and quick.
+Their surface coloration resembles that of a hare or rabbit, and they gain two long ears.</li>
+<li>While using this nature, the Foxfire:
+<ul>
+<li>gets one size smaller (so a Medium Foxfire would become Small);</li>
+<li>gains +1/+3 to their Walking Movement;</li>
+<li>gains the <em>acute hearing</em> sensory modifier (+20 hearing);</li>
+<li>gains +5 COO.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Mountain Lion</strong></p>
+<ul>
+<li>Mountain Lion Foxfire are among the Foxfire's few natural warriors.
+The Shaded Sea have attempted to exterminate all the Mountain Lion Foxfire, but a few are still born.</li>
+<li>While using this nature:
+<ul>
+<li>the Foxfire's surface becomes a dull ochre, and masks their glow (negating the <em>Glow</em> trait);</li>
+<li>the Foxfire gains +5 SOM, +5 DUR, and +5 STR;</li>
+<li>the Foxfire gains <em>claws</em> on their hands and feet that deal 1d10+2 DV and have AP -2.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Peach</strong></p>
+</li>
+<li>
+<p><strong>Pine</strong></p>
+</li>
+<li>
+<p><strong>Squirrel</strong></p>
+<ul>
+<li><em>Squirrel</em> Foxfire are small, nimble, and proficient climbers.</li>
+<li>While using this nature, the Foxfire:
+<ul>
+<li>gets one size smaller (so a Medium Foxfire would become Small);</li>
+<li>gains a <em>Climb</em> speed, with a rate equal to their Walking rate, -1/-3;</li>
+<li>gains +5 COO.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Stone</strong></p>
+<ul>
+<li><em>Stone</em> Foxfire are exceptionally durable.
+Their surface becomes dull and hard, as though they where made of stone.</li>
+<li>While using this nature, the Foxfire:
+<ul>
+<li>gains +10 DUR, +5 STR, and 4 Armor;</li>
+<li>gains +5 SOM;</li>
+<li>reduces their Walk speed by -1/-3.d</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Sunlight</strong></p>
+</li>
+<li>
+<p><strong>Water</strong></p>
+<ul>
+<li>Water Foxfire become clear and liquid, like living water.</li>
+<li>While using this nature, the Foxfire:
+<ul>
+<li>gains a swim speed equal to their walking speed;</li>
+<li>can breath underwater;</li>
+<li>gains +5 COO;</li>
+<li>gains Resistance: Physical Damage (halved);</li>
+<li>becomes extremely difficult to spot (+30 Stealth) when completely submerged in clear water.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Willow</strong></p>
+</li>
+</ul>
+<h3 id="goblins"><a class="header" href="#goblins">Goblins</a></h3>
+<ul>
+<li>These creatures have a thick, tan hide, and are protected on their upper back, arms and legs by bony plates.</li>
+<li>Though a small number have filtered into the Commonwealth, most of them have remained within their traditional lands, and are citizens of the Goblin Empire.</li>
+</ul>
+<h4 id="vitals-2"><a class="header" href="#vitals-2">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 50</p>
+</li>
+<li>
+<p>Average height: 120cm</p>
+</li>
+<li>
+<p>Average weight: 30kg</p>
+</li>
+<li>
+<p>Diet: Omnivore (insects, fruit, eggs preferred; scavenger)</p>
+</li>
+<li>
+<p>DUR 30, STR 30</p>
+</li>
+<li>
+<p>+5 INT, +5 SOM, +5 WIL</p>
+</li>
+<li>
+<p>Movement: Foot 4/12, Burrow 2/6</p>
+</li>
+<li>
+<p>Senses: Normal, Infrared, Scent</p>
+</li>
+<li>
+<p>Size: Small</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Goblin</p>
+</li>
+<li>
+<p>Language Groups: HHED, GR</p>
+</li>
+<li>
+<p>Thick Hide: Goblins have thick, bony plates on their upper back, and protecting their limbs and joints. They have +1 Armor</p>
+</li>
+<li>
+<p>Poor Vision: Goblins have poor vision. Visual perception checks are made at -10.</p>
+</li>
+</ul>
+<h4 id="optional-trait-claws"><a class="header" href="#optional-trait-claws">Optional Trait: Claws</a></h4>
+<p>While all Goblins have large claws that allow them to tunnel, they are usually too awkward to be used as weapons.
+Yours, however, are particularly dangerous.</p>
+<p>You have claws:</p>
+<ul>
+<li>1d10+3+DB, AP -2</li>
+<li>one-handed, natural</li>
+</ul>
+<h3 id="gremlins"><a class="header" href="#gremlins">Gremlins</a></h3>
+<ul>
+<li>
+<p>These small creatures resemble hairless cats in gross appearance, save that they have hands rather than paws, walk upright, and are not <em>much</em> larger.</p>
+</li>
+<li>
+<p>Their homelands where conquered by Goblin kings and warlords long ago, and they have been subjects of the Goblins for centuries.</p>
+<ul>
+<li>
+<p>Though the Goblins Code does declare that all other species are inferior to Goblins and are worthy of enslavement, it does grant some species special status over others; Gremlins are one such species.</p>
+</li>
+<li>
+<p>Gremlins are eligible for &quot;favored servant&quot; status; though they are still subordinate to Goblins, Gremlins that have earned this status are afforded preferential treatment and special privilege.</p>
+</li>
+<li>
+<p>Gremlins that have earned this status often serve as faithful retainers, performing tasks that, though they are beneath the dignity of a proper Goblin, still require trust.</p>
+</li>
+<li>
+<p>Gremlins also often serve as soldiers or mercenaries; Gremlins may keep a rabble of lesser slaves in line, or may guard the vulnerable flanks of the Goblin's highly effective long-spear formations.</p>
+</li>
+<li>
+<p>Favored Servant status is often passed down family lines by Gremlins, with parents grooming their offspring to continue in the service of a Goblin King, noble, warlord or family.</p>
+</li>
+<li>
+<p>Favored servants often mark their status with tattoos, which might symbolize their lineage, the Goblin line they serve, or their deeds.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Gremlins are more likely than Goblins to flee the Goblin Empire and settle within the Commonwealth.</p>
+<ul>
+<li>
+<p>Gremlins that <em>do not</em> have &quot;favored servant&quot; status are <em>especially</em> likely to attempt to flee.</p>
+</li>
+<li>
+<p>Gremlins that <em>were</em> favored servants are likely to receive a cold reception in the Commonwealth, especially among the small communities of Goblins and Gremlins that have settled in free lands, since other Goblin and Gremlin communities in the Commonwealth are likely to view them as traitors, collaborators and thugs.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="vitals-3"><a class="header" href="#vitals-3">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 50 years</p>
+</li>
+<li>
+<p>Average Height: 1.1m</p>
+</li>
+<li>
+<p>Average Weight: 25kg</p>
+</li>
+<li>
+<p>Diet: Carnivore</p>
+</li>
+<li>
+<p>DUR 25, STR 25</p>
+</li>
+<li>
+<p>+5 COO, +10 INT, +5 SAV</p>
+</li>
+<li>
+<p>Movement: Climb 2/6, Foot 3/9</p>
+</li>
+<li>
+<p>Senses: Normal, Low-Light, Motion, Scent</p>
+</li>
+<li>
+<p>Size: Small</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Gremlin</p>
+</li>
+<li>
+<p>Language Groups: GR</p>
+</li>
+<li>
+<p>Acute Hearing: Gremlins have good hearing; they gain +10 to auditory perception checks.</p>
+</li>
+<li>
+<p>Claws: Gremlins have small claws, which are useful both as weapons and for grip while climbing.  Their claws are wielded with Unarmed Combat (Natural Weapons), deal 1d10+1+DB DV and have AP -1.</p>
+<ul>
+<li>Much like cats, Gremlins also kneed with their claws; though for them this is a sign of great affection, other races often find it painful.</li>
+</ul>
+</li>
+<li>
+<p>Poor Vision: Gremlins have poor vision. Visual perception checks are made at -20.</p>
+</li>
+</ul>
+<h3 id="minotaur"><a class="header" href="#minotaur">Minotaur</a></h3>
+<p>Minotaurs are a large, durable race of cattle-like bipeds.
+They largely follow a typical bipedal layout, although with many cattle-like features: they are covered in short fur, with patterns like cattle; they have cloven hooves; their heads resemble those of cattle, including horns; and they have small tails.</p>
+<p>Minotaurs originate from the southeastern Emerald Plane, in territory that is now controlled by the Shaded Sea Peoples.
+They have been in conflict with the shade elves since at least the time of the First Charter, and have been tributaries and subjects of the Shade Elves since CY 491.
+As with most tributaries of the Shaded Sea, the Shade Elves do not occupy, fortify or directly control the Minotaurs; instead, they demand a heavy tribute, and force obedience under threat of brutal and devastating reprisal — pay the tribute in its entirity or have your villages and fields razed.</p>
+<p>Today, this tribute inclues a heavy levy, requiring that the Mintaurs surrender many of their fittest young adults for service in the Shade Elf military.
+This serves a double purpose, allowing the Shaded Sea access to a powerful race, and depriving the Minotaurs themselves of their best fighters; for this later reason, conscripted Minotaurs are almost never allowed to return home.
+Many die in combat; those that don't are put to use as laborers elsewhere in the Shaded Sea or sold into slavery elsewhere.</p>
+<p>Obviously, this arrangement has done significant damage to Minotaur society.
+Centuries ago, they where herders and farmers who showed a flair for masonry and stonework in their early urban construction; today, their masonry is poorly maintained and their villages small, overpopulated and poor — with a particular lack of able-bodied young males.
+They suffer from poverty, lack of food, and lack of labor; besides yielding a portion of their own grain harvest, they are forced to herd animals and tend orchards to produce food that they cannot eat for their Shaded Sea masters.
+The heavy burden also prevents the Minotaurs from properly manning or maintaining their defences — a situation encouraged by the Shade Elves, the better to keep the Minotaurs under control.</p>
+<blockquote>
+<p>Aryn: I saw a Minotaur gladiator in the Eastern Kingdoms.
+She was intimidating.
+And terse.
+I was a fan!</p>
+<p>River: Hah!
+I knew you where involved in that business in Hate's Hold!
+<em>Clever</em> owes me half a gold.</p>
+<p>Notebook: Interestingly, a small percentage of Minotaur females are born &quot;masculinized.&quot;
+They are sterile, large, and aggressive.
+I wonder if the Minotaur you saw was one of those?</p>
+<p><em>Sulek</em> (Shade-Elf, former gladiator): No, she's just that determined.</p>
+<p>Aryn: Oh, hi Sulek.
+How are things going with the Minotaurs?</p>
+<p>Sulek: Proceeding.
+You know <em>Oi-Li</em> and me, we're patient.
+Well, she's determined, I follow her lead, it works out to &quot;patient.&quot;</p>
+</blockquote>
+<h4 id="vitals-4"><a class="header" href="#vitals-4">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 55 years</p>
+</li>
+<li>
+<p>Average height: 240cm</p>
+</li>
+<li>
+<p>Average weight: 130kg</p>
+</li>
+<li>
+<p>Diet: Herbivore (Grasses and Grains)</p>
+</li>
+<li>
+<p>Minotaurs are massive, heavily-built and strong.</p>
+</li>
+<li>
+<p>DUR 40, STR 40</p>
+</li>
+<li>
+<p>+5 INT, +10 SOM, +5 WIL</p>
+</li>
+<li>
+<p>Movement: Walking 5/15/25</p>
+</li>
+<li>
+<p>Senses: Normal</p>
+</li>
+<li>
+<p>Size: Medium, <em>Great Stature</em></p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Minotaur</p>
+</li>
+<li>
+<p>Language Groups: GR</p>
+</li>
+<li>
+<p><em>Momentum</em>: A minotaur in motion can cause frightening damage.
+If they reach their maximum speed, they deal +DB DV when charging; GMs may also award appropriate bonuses on some strikes and maneuvers, like <em>Knockdown</em>.</p>
+</li>
+</ul>
+<h3 id="mud-skippers"><a class="header" href="#mud-skippers">Mud-Skippers</a></h3>
+<p>The Hasidisee were first encountered by commonwealth explorers some time after the discovery of other neighbouring races.
+But not on the commonwealth's terms.
+Rather, after normalised relationships between the Raptor Protectorate and the Commonwealth had resulted in trust, the first of the secretive, and shy Hasidisee finally allowed themselves to be known.
+A network of settlements were identified by their teardrop-shaped, subaquatic dwellings, and further meetings.</p>
+<p>The Hasidisee nation is highly fracturous, each tribe largely self-sufficient and able to make their own way.
+Though, several times a year, representatives of each tribe will return to the capitol to discuss the status of their communities, and to allow distant tribes to trade and interact.
+The tribes themselves identify by the river in which they make their homes, they largely avoid settling in lakes, due to a long-held cultural fear of stangnant or still waters, enough for the most traditional members of the race not to trust even the cleanest of lakes.</p>
+<p>Each tribe may decide it's own fate, and as such, while the tribes the commonwealth and protectorate have interactions with are friendly to explorers and visitors (Within reason), there are other tribes that will protect their isolation with force, and even rumors of members of the race seeking acceptance in the goblin empire, or Bone-spiders.
+Among Hasidisee, they prefer debate, conversation, and deliberation to handle conflicts between each other, as a result of their limited numbers and physical fragility.</p>
+<p>While not a hard rule, Hasidisee tend towards a matriarchal view of the world, and prize leadership qualities in their female young.
+They birth young in large clutches of eggs, but the eggs are very vulnerable to conditions of the water around them, and only a handful will hatch, let alone make it to adulthood.
+Hasidisee prefer to raise their young in communal creches, as members of the settlement or tribe.
+Teaching them all the ancient stories, and how to steward the river.</p>
+<p>Hasidisee are highly devout in their offerings and worship of the spirits of the world around them, especially the major spirits governing the rivers they live in.
+They are hesitant to actually propitiate spirits, or attempt to bind or bargain with them.
+They are also highly reluctant to discuss the reasons for this relationship.</p>
+<p>Between their efforts to please the nature spirits, and the vulnerability of their young to the conditions the eggs are laid in, the Hasidisee feel a strong sense of duty to the ecology around themselves.
+They dislike the construction of dams, or redirecting of excess water, and have skirmished with the cultures of the ruby Isle for overfishing, or dumping of waste into the waterways they inhabit.
+They don't cultivate much in the way of agricultural crops or food, aside from a few lakes given over to subaquatic medicine and plant matter for trade and traditional observances.</p>
+<p>As reluctant as the Hasidisee are to open up to outsiders, it's notable that they also make use of the Dwarven cave salamanders, and have for far longer than their exposure to the commonwealth.
+Using them as aquatic guard dogs and filial pets, rather than mounts.
+They speak of aquifers and vast underground lakes, and it's suggested that their number is higher than appears on the surface.</p>
+<h4 id="biology"><a class="header" href="#biology">Biology</a></h4>
+<ul>
+<li>Aquadynamic: Hasidisee bodies lack many of the sharper, more
+protruding corners and edges of land-dwellers forms. Combined with
+their webbed extremities, Hasidisee find it easy to redirect and
+maneuver underwater, or move through difficult underwater spaces.
+However, this same smoothness, and a limited amount of pigmentation,
+make them difficult to tell apart from one another without long-term
+exposure.</li>
+<li>Water-breather: Hasidisee are born underwater, and their gill
+structures allow them to extract oxygen from water easily. They can
+also breathe air, normally, but their mouths are small and
+poorly-developed</li>
+<li>Aquatic Adaptation: Hasidisee eyes are well-equipped to cut through
+glare and can see easily through water, but are less well-suited to
+vision above the water level. Their hearing, sense of smell, and
+ability to speak similarly suffer.</li>
+<li>Spear Fishers: Hasidisee are almost born with a fishing spear
+in-hand. Especially underwater, they are capable of propelling
+thrown objects with incredible accuracy.</li>
+<li>Language of Gestures: Hasidisee language makes extensive use of body
+motions and gestures. Many of these fit well in the constructed
+languages of Protectorate Standard, and Common.</li>
+</ul>
+<h4 id="vitals-5"><a class="header" href="#vitals-5">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 60 years</p>
+</li>
+<li>
+<p>Average height: 160cm</p>
+</li>
+<li>
+<p>Average weight: 50kg</p>
+</li>
+<li>
+<p>Diet: Omnivore (fish, aquatic insects, aquatic plants)</p>
+</li>
+<li>
+<p>Mud-Skippers are vibrant and energetic, but also traditional, isolationist and mysterious.</p>
+</li>
+<li>
+<p>DUR 25, STR 20</p>
+</li>
+<li>
+<p>+5 COG, +5 INT, +5 WIL</p>
+</li>
+<li>
+<p>Movement: Swim 5/15, Foot 3/9, Slither 3/9</p>
+</li>
+<li>
+<p>Senses: Normal, Life-Sense, Low-Light, <em>Poort out of water</em></p>
+</li>
+<li>
+<p>Size: Medium</p>
+</li>
+<li>
+<p>Tags: Natural, Amphibious, Aquatic, Cavedweller, Humanoid, Mud-Skipper</p>
+</li>
+<li>
+<p>Language Groups: MS, <em>Mute out of water</em></p>
+</li>
+<li>
+<p><em>Aquatic Adaptation</em>: Mudskippers are graceful and powerful underwater, but awkward on land.</p>
+<ul>
+<li>They function as well underwater as terrestrial races do on land: they are able to perform most physical tasks without impairment; they can maneuver powerfully, receiving a +20 bonus to Athletics checks related to swimming; and their senses aren't impaired, as a terrestrial race's would be.
+And, of course, they can breath underwater, thanks to their gills.</li>
+<li>However, they are somewhat awkward on land: when out of the water, they take a -10 penalty to Perception checks, as their senses are impaired; they take a -10 penalty to checks that include SOM, as they find leverage without buoyancy difficult; and they are functionally mute, as their mouths and vocal cords function poorly in air.</li>
+</ul>
+</li>
+<li>
+<p><em>Fresh-Water</em>: Mud-Skippers are fresh-water creatures.
+Salt water will damage their gills and skin, and will slowly poison and suffocate them.
+They take 1 DV for each turn that they are submerged in salt-water.</p>
+</li>
+<li>
+<p><em>Fragile Gills</em>: Mud-Skipper gills are a particular weak spot.
+They are large, fragile, vital structures located externally, at the tips of the frills on either side of a Mud-Skipper's head.
+Attacks targetting a Mud-Skipper's gills with a <em>called shot</em> do not take the normal -10 penalty for the strike (see <em>Combat</em>).</p>
+</li>
+<li>
+<p><em>Riverside Slither</em>: Mud-Skippers are adapted to slither on muddy river-banks.</p>
+<ul>
+<li>When slithering in wet or muddy conditions, the character gains a +10 bonus to Athletics and Stealth checks.</li>
+<li>They treat hard, sharp or borken surfaces (like cobbling, sand or gravel) as <em>difficult terrain</em> when they slither.</li>
+</ul>
+</li>
+<li>
+<p><em>Psionic Null</em>: Mud-Skippers exhibit a natural resistance to psionic effects that influence their minds.
+They gain a +10 bonus to checks to resist Sleights that influence or control the minds of others (including those with the <em>Mental Influence</em> tag).</p>
+</li>
+</ul>
+<h4 id="optional-trait-lighted"><a class="header" href="#optional-trait-lighted">Optional Trait: Lighted</a></h4>
+<p>A rare few Mudskippers are born with mutation that causes their body to glow in darkness.
+In many tribes, the hatching of a &quot;Lighted One&quot; is taken as a portentious sign.</p>
+<ul>
+<li><strong>Effect</strong>: The character glows in the dark, becoming a light source about as bright as a dim oil lantern.
+This light is usually not bright enough to be seen through clothing.
+Obviously, <em>Lighted</em> Mudskippers are fairly distinctive, at least when seen in darkness; this imposes a -20 penalty on Stealth checks to <em>hide</em> or <em>blend in to a crowd</em>.</li>
+<li><em>Lighted</em> Mudskippers are often put under enormous (social) pressure; traits like <em>Anxious</em> and <em>Sensitive</em> are common.</li>
+</ul>
+<h4 id="optional-trait-cave-swimmer"><a class="header" href="#optional-trait-cave-swimmer">Optional Trait: Cave swimmer</a></h4>
+<p>Some Mudskippers display a remarkable aptitude for keeping their barings through complex maneuvers while swimming — even when they can't see.</p>
+<ul>
+<li><strong>Effect</strong>:
+<ul>
+<li>The character gains a +10 bonus to checks to navigate.</li>
+<li>The character reduces penalties to checks to navigate caused by visual impairment by up to 20.</li>
+</ul>
+</li>
+</ul>
+<h4 id="optional-trait-dam-builder"><a class="header" href="#optional-trait-dam-builder">Optional Trait: Dam-Builder</a></h4>
+<p>Some Mudskippers are particularly adept at working in flowing water.</p>
+<ul>
+<li><strong>Effect</strong>: the character reduces penalties caused by flowing water by up to 20.</li>
+</ul>
+<h4 id="optional-trait-improved-null"><a class="header" href="#optional-trait-improved-null">Optional Trait: Improved Null</a></h4>
+<p>Some Mudskippers are remarkably resistant to outside mental influences.</p>
+<ul>
+<li><strong>Effect</strong>: The character gains an additional +10 bonus to checks to resist sleights that attempt to influence or control the minds of others (including those with the <em>Mental Influence</em> tag).</li>
+</ul>
+<h4 id="optional-trait-mudslide"><a class="header" href="#optional-trait-mudslide">Optional Trait: Mudslide</a></h4>
+<p>Mudskippers hunting, foraging or working on the banks of rivers often need a rapid escape or a bit of camouflage.</p>
+<ul>
+<li><strong>Effect</strong>:
+<ul>
+<li>The character's <em>Slither</em> movement rate improves to 4/12.</li>
+<li>They gain an addtional +10 bonus to Stealth and Athletics checks while slithering in wet or muddy conditions.</li>
+</ul>
+</li>
+</ul>
+<h3 id="raptors"><a class="header" href="#raptors">Raptors</a></h3>
+<ul>
+<li>These small creatures, as much like reptiles as birds, are one of the races originally inhabiting the Ruby Plane.</li>
+<li>They walk upright, are covered in dark-green scales, and feature vibrant feathers as plumage on their heads, arms, and on their short tails.</li>
+<li>Though they are warm-blooded, they don’t handle extremes of temperature very well, and are particularly vulnerable to cold; they are most comfortable in the humid jungles and mountains of the central Ruby Plane.</li>
+<li>They have powerful legs and nasty claws, and are natural climbers and leapers.</li>
+<li>Hundreds of years ago, they were a society of tribal hunters: the young and old lived in settlements, while the healthy ranged and hunted in the thick jungles.</li>
+<li>Contact with the Ratfolk brought them access to worked iron and bronze, and the two collaborated to adapt Ratfolk farming techniques to the deep jungle; these have helped revolutionize Raptor culture.</li>
+<li>Though many of them are still hunters, they have expanded the scale of their agriculture significantly, and trade with Ratfolk burrows for finished weapons and tools.</li>
+</ul>
+<h4 id="vitals-6"><a class="header" href="#vitals-6">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 50 years</p>
+</li>
+<li>
+<p>Average Height: 1.65m</p>
+</li>
+<li>
+<p>Average Weight: 45kg</p>
+</li>
+<li>
+<p>Diet: Omnivore (preferential carnivore)</p>
+</li>
+<li>
+<p>DUR 30, STR 35</p>
+</li>
+<li>
+<p>+5 COO, +5 INT, +5 SAV, +5 SOM</p>
+</li>
+<li>
+<p>Movement: Foot 5 / 15, Leap 5 / 15</p>
+</li>
+<li>
+<p>Senses: Normal, Scent</p>
+</li>
+<li>
+<p>Size: Medium</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Saurian, Raptor</p>
+</li>
+<li>
+<p>Language Group: DDK</p>
+</li>
+<li>
+<p>Scales: Raptors are covered in small scales; these provide them +1 Armor.</p>
+</li>
+<li>
+<p>Claws: Raptors have vicious claws on their feat, designed to grapple prey when pounced on from above.
+They have the following natural weapon:</p>
+<ul>
+<li>Unarmed Attack, 1D10+2+DB DV, AP 2.
+Tags: Natural, <em>Grab</em>, Well Suited: Pounce, <em>Awkward Placement</em></li>
+<li>Special: <strong>Awkward Placement</strong>
+Your talons are difficult to use, being on your feet; they require that you pounce on someone from above, leap on them and pin them, or use some other similar tactic to bring them to bear.</li>
+<li>Special: <strong>Grab</strong>
+Your talons are very good at gripping those you attack, digging in through flesh and bone as you do so.
+When attacking with your talons, if you score an exceptional success, you automatically grab your opponent.</li>
+</ul>
+</li>
+</ul>
+<h3 id="washers"><a class="header" href="#washers">Washers</a></h3>
+<ul>
+<li>The name “washers” was taken from observations of the species by early Commonwealth explorers; “Jerks” is a fair (if polite) translation of the name they have for themselves.</li>
+<li>Washers are small, furry, and semi-humanoid in gross layout.
+<ul>
+<li>They are covered in dull, grey-brown fur, with a distinctive black “eye-mask” pattern on their faces and black rings around their bushy tails.</li>
+<li>Washers move more naturally on all fours than they do upright; their arms and legs are unusually short and oddly-proportioned by humanoid standards.</li>
+<li>Washers have extremely dexterous hands and feet, and they are very strong climbers.</li>
+<li>Washers have an extraordinary sense of touch in their hands — so keen that they can better perceive a small object by feeling it than by looking at it.  Members of other races may find it cute when Washers frenetically paw small objects to examine them — and more than a little unnerving when they manipulate fine objects without looking at them.</li>
+</ul>
+</li>
+<li>Washers lived in a region in the east of the Raptor’s Plane, in the forests that bordered on the sandy, arid northeastern peninsula.
+<ul>
+<li>Tragically, that sandy, arid northeastern peninsula was the region first conquered by the Goblinoid Kings (and now ruled by the Goblin Empire).</li>
+<li>Not long after discovering them, the Goblins attempted to make slaves of the Washers, highly valuing their tiny, dexterous hands; they quickly decided that the Washers’ temperament made them unsuitable for enslavement, and moved instead to eradicate them.</li>
+<li>Too late did the Washers ally themselves with the Raptors and join their alliance with the Ratfolk; by this time, they only had one major city left, and a total surviving population of just more than a quarter-million.</li>
+<li>Today, the Washer’s territory defines the border between the Raptor’s Alliance and the Goblinoid territories.</li>
+</ul>
+</li>
+<li>Washers have an impish sense of humor.</li>
+</ul>
+<h4 id="vitals-7"><a class="header" href="#vitals-7">Vitals</a></h4>
+<ul>
+<li>
+<p>Old Age: 50 years</p>
+</li>
+<li>
+<p>Average Height: 0.8m</p>
+</li>
+<li>
+<p>Average Weight: 21kg</p>
+</li>
+<li>
+<p>Diet: Omnivore</p>
+</li>
+<li>
+<p>DUR 20, STR 20</p>
+</li>
+<li>
+<p>+5 COG +10 COO +5 SAV</p>
+</li>
+<li>
+<p>Movement: Climbing 3/9, Foot 3/9, Quadruped 4/12</p>
+</li>
+<li>
+<p>Senses: Normal, Acute Touch</p>
+</li>
+<li>
+<p>Size: Small</p>
+</li>
+<li>
+<p>Tags: Natural, Humanoid, Procyonid, Washers</p>
+</li>
+<li>
+<p>Language Group: GR</p>
+</li>
+<li>
+<p>Thief’s Hands: Washers have small, nimble hands with long, thin fingers; coupled with their incredible sense of touch, this makes them incredibly proficient lockpicks (and, more rarely, extraordinary craftsmen).  They receive a +20 bonus to tests involving the precise manipulation of small objects, including Disable Device tests, some Sleight of Hand tests, and tests using many Art and Craft skills.</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/uncommon-races.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/exotic-races.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/uncommon-races.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/exotic-races.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

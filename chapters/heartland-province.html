@@ -1,0 +1,287 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Heartland Province - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html" class="active"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="heartland-province"><a class="header" href="#heartland-province">Heartland Province</a></h1>
+<p>Heartland Province sits between the Dragonshire to the north-east, the Goblins to the south-east, and the Worldspine to the west.
+It is the birthplace of the Commonwealth, and remains a center of its wealth and prosperity.</p>
+<div class="asside">
+<p>A dynamic, busy, diverse province of manors and city-centers.</p>
+<hr />
+<p>Population: 150M</p>
+<p>Common Languages: Weal, Heartland Gnoll, Autumn Caravaneer, <em>more</em></p>
+<p>Common Races: Human (40%), Gnoll (45%), Halfling (10%), <em>more</em></p>
+</div>
+<h2 id="a-history"><a class="header" href="#a-history">A History</a></h2>
+<p>Centuries before the Commonwealth Charter, the Empire of Man spread a sophisticated, urban culture Westward throughout the Emerald Plane (though often not to the benefit of those that they displaced).
+Roads where cut through trackless forests, bridges where build, and walled cities of timber, plaster and stone where constructed throughout the eastern Emerald Plane — surrounded by small towns and hamlets, and criss-crossed with planted fields and orchards.
+Titles where given to the wealthy, connected and powerful citizens of the Three Cities, along with lands in the frontiers; these Lords where permitted to organize their territories as they saw fit, subject to (and supported by) local governors and commanders in nearby cities.</p>
+<p>In the Year of the Old Empire 226 (CY -227), the Dragon Karrach lead a rebellion in the lands between the Golden Peninsula (and the original Three Cities of the Empire of Man) and the rest of the Emerald Plane; this cut the Imperial territory further inland to the west off from Imperial control.</p>
+<p>These isolated territories had little desire to come back under Imperial rule.
+Once, they where the frontiers of a growing Empire of Man; after more than a century, they had grown settled and prosperous in their own right — and had begun to develop their own local centers of power.
+Karrach's rebellion left those regions free of the levies and taxes owed to the Empire of Men and the distant Three Cities — and free of the threat of the Empire's army, however little that threat had meant in the frontier.
+Their far more immediate concern might have been Karrach himself; however, it was quickly understood that the Empire of Man was a far greater concern to Kerrach than the lands to his west, and that he had little interest in claiming more distant territories — territories that he likely could not control any more than the Empire could.</p>
+<p>The culture in those areas in the west, between Karrach and the Worldspine, continued to grow, prosper and evolve.
+Member of existing communities left to found new manors in the sparsely-populated lands to the west, south and north.
+Trade-routes where established, and cities grew.
+Some of the larger cities became city-states, and centers of regional power — the guarantors of peace and security in the surrounding territories.
+This system proved adaptable and flexible, and a web of <em>greater</em> and <em>lesser</em> city-states, manors and hamlets continued to spread West throughout the Emerald Plane.</p>
+<p>Free of the rule of the Empire, and equipped with a flexible system for the distribution of power, those early Human city-builders began to find ways to peacefully integrate other cultures into their own.
+In the Year-of-the-Old-Empire 241 (CY -211), Halflings where encountered; they had a mercantile culture, where the young and able-bodied travelled for trade.
+Several Halfling clans where granted charters in the periphery of the web of manors, and soon Halfling traders began to spread throughout the region.</p>
+<p>Then, in Year-of-the-Old-Empire 289 (CY -163), a confederation of Gnollish tribes turned on one of their tributaries and sought to exterminate them; this clan of Gnolls came to the lesser Human city-state of <em>Autumn's Folk</em> for aide.
+Fatefully, Geoph, the governor of Autumn's Folk, agreed to help them; he promised them shelter within the city's walls and the charter to a manor, if they agreed to respect Autumn's Folk as the guarantor of their charter — and to aid them against the Gnollish confederation that was now their common enemy.
+The refugees accepted.
+The confederation was met in battle, and a force of Humans and Gnolls repulsed them; the Gnollish refugees where granted a charter, and constructed a manor of their own.</p>
+<p>Access to the strength and durability of Gnolls proved a powerful advantage; strong and durable, Gnolls found a place anywhere there was hard work to be done.
+Gnolls took well to farming — surprising to some, but strength and endurance are incredibly valuable for farm-work, and their scavenger's ability to consume spoiled meat is invaluable in lean years.
+They also quickly found a place as hired guards with Halfling trading caravans, and proved invaluable in times of war.
+Though originally only a single tribe was granted a manor, they prospered; their numbers grew, and their kinsman came to join them.</p>
+<p>These Gnolls, Humans and Halflings prospered.
+In Year-of-the-Old-Empire 304 (CY -148), a <em>charter</em> was signed — now called the Old Charter — to govern the cooperation between the Gnollish tribe, their Human allies, and local Halflings; it provided a framework for a peaceful and prosperous collaboration, but was written in the form of an agreement between manors.
+Other manors and city-states signed it, agreeing to cooperate for their mutual prosperity, and a manorial, mercantile, prosperous and diverse culture began to spread throughout the Emerald Plane; first, the existing Human manors joined, and then it continued to spread.
+However, the Old Charter was written primarily as an agreement between manors, and proved inadequate to governing a growing and rich network of cities, manors and peoples.
+In Year-of-the-Old-Empire 452 (CY 1), the Commonwealth Charter replaced the Old Charter; it established the Commonwealth Council, who had the power to ley taxes and duties, and to dispense them to build roads and bridges, and to fund an army.</p>
+<p>The Commonwealth expanded; it grew northward, eventually encountering Dwarves; it spread east, around the southern extends of the Dragonshire, and met the Goblins' borders; it crossed the world-spine, encountering many new races and cultures — and the Shade Elves, who became one of the principles of the Shaded-Sea Peoples; and eventually crossed the Sunset Gulf and settled the Haven Isles.
+And it prospered: many new races great and small where incorporated; trade blossomed; and the exchange of knowledge, art and culture flourished.</p>
+<p>In CY 744, the Commonwealth Compact replaced the Commonwealth Charter.
+Besides adding several new peoples as members, it divided the Commonwealth into provinces — Heartland Province consisting of the Commonwealth's oldest territories, those between the Dragonshire and the Worldspine.</p>
+<h2 id="culture"><a class="header" href="#culture">Culture</a></h2>
+<p>The influence of the culture of the Empire of Man can still be seen in Heartland Province.
+Especially in the east, ancient cities constructed by Human settles from the Empire still stand.
+The language, Weal, is derived from the ancient language of the Empire of Man — although it has changed significantly.
+However, this ancient culture has changed radically over the centuries — sometimes dramatically and quickly, as new races and cultures joined the Commonwealth.</p>
+<h3 id="cities"><a class="header" href="#cities">Cities</a></h3>
+<p>Heartland Province is prosperous, established and secure; thus, it is home to a number of large cities — ranging from one-quarter to three-quarters of a <em>demarc</em> across, and with populations ranging from the tens to hundreds of thousands.
+These large cities can be almost dizzyingly diverse.
+In them, one can find representatives of nearly every race and culture of the Emerald Plane.
+Humans are the majority there, Halflings are common, and Ratfolk and Kobolds populations are growing rapidly; however, there are always representatives from countless rarer races and cultures.</p>
+<blockquote>
+<p><em>River:</em> That's what I love about Heartland Province; you can find anyone and anything here.
+In Saint-Silver City, where I'm from, there's a restaraunt run by a member of race like a giant mantis.
+They'll pickle or ferment almost anything — they have the most delicious-</p>
+<p><em>Track:</em> Thank you, River, we get the point.</p>
+</blockquote>
+<p>The Empire of Man were known for a unique and sophisticated style of urban construction, featuring sophisticated masonry, strong city-walls, regular streets laid out in a grid, buildings of dressed stone, and sophisticated sewerage systems.
+Early in its history, this kind of construction was common in Heartland, but, over the centuries, as new races and cultures have been incorporated and new technologies and designs have been developed, urban construction has become more varied and sophisticated.
+Cities in the northeast, near the Dragonshire and Kings' Sea, are often constructed in an older style, and are more likely to have prominent walls; cities in the interior of the province, closer to the Worldspine, are often constructed in newer and more varied styles and, being less likely to suffer invasion or threat, are less likely to have prominant city walls.
+The use of free-standing supports and sophisticated arches have become common, making it possible to construct buildings with high ceilings, thin walls and wide windows.
+Some innovations have been aimed at making urban construction cheaper, as well; brick and timber-frame have become more common, for example, as they are cheaper than stone-masonry.</p>
+<p>The Commonwealth's large cities have also long been colorful and lavishly decorated.
+Mosaics have always been common in Heartland, with public spaces often feature tile mosaics on the floors and walls; as the region has grown rich and prosperous, and as other cultures have been incorporated, many other artforms have become common.
+Gnolls brought a tradition of ornate wood-carvings, often worked into the frames and timbers of houses, and a kind of intricate relief carving often worked into bone and stone.
+Within the last two centuries, frescoes have become particularly common, and often adorn public buildings, temples, and the homes of the wealthy.
+Public performance is also extremely common in Heartland, with street-musicians, recitation, and theatre being common.</p>
+<h3 id="the-countryside"><a class="header" href="#the-countryside">The Countryside</a></h3>
+<p>If its rich, colorful and diverse cities define Heartland in the mind of many foreigners, they are not, however, where most people actually live.
+The vast majority of those who live in Heartland Province live in rural manors, hamlets and small freeholds.</p>
+<p>More than a millenium ago, the Empire of Man settled its western frontier — what would become Heartland Province — by granting a title, land, and often slaves to a noble, general or elite; these <em>Lords</em> would then establish a small, self-sufficient town (a <em>manor</em> or <em>villa</em>) in their land, to be worked by their tenents (both free and slave) and governed under Imperial authority.
+Normally, the Lord would claim roughly a third of the land as their own, with the other two-thirds granted to the Lord's tenants; tenants where required to work the Lord's land, in exchange for the rule and protection of the Lord and, by proxy, the Empire.</p>
+<p>However, far from the centers of Imperial power, in the vast and distant frontier, the rule of Lords and was often tenuous, and Lords could struggle to maintain control of their tenants.
+While peasant uprisings did occur, defection was far more common; many tenants, faced with poor treatment, would gather compatriots, defect from their Lord's service, travel a <em>demar</em> or two away, and found their own manor — sometimes naming one of their own as &quot;Lord,&quot; sometimes not.
+In principle, the right of the Lord to his tenents' labor should have been protected by the Empire; in practice, most governors and commanders did not have the military resources to &quot;retrieve&quot; defectors in all the territories they where responsible for — nor in fact the motivation, as long as the new manor was willing to pay at least notioal deference to the Imperial government in the cities.</p>
+<p>This method of social arrangement — small, nearly-self-sufficient communities, sometimes held by a &quot;legitiamte&quot; lord and sometimes not — proved to be flexible and effective.
+As the distant Empire was cut off, the web of cities and manors continued to spread; members of established communities would depart, claim a swath of land in the frontier, and organize it as a small, self-sufficient community of their own.
+These communities could be set-up as the residents wished, or as necessity demanded — the system proved to be remarkably adaptible.
+Sometimes, these communities where organized by an wealthy individual (much like a Lord of old); other times, they might be organized by an organization, like a temple or guild; still other times, they could be organized by a family, clan, or group of peasants, who simply wanted to establish a community of their own.
+Sometimes, manors might seek little more than to feed their residents; other times, they might support a guild, monastery or college that held their charter; and still other times they might host a small number of local artisens.
+One notable deficiency, given the absence of the former Imperial army, was security; city governors often attempted to step into this void, styling their city as a seat of authority and protection for the surrounding manors.
+This arrangement was often tenuous.</p>
+<p>It was this manorial culture that spawned the Charter, and established the Commonwealth.
+Today, Heartland Province is no longer the frontier, and there is very little free land to claim; it is covered in manors, hamlets and freeholds.
+Many of these settlements are centuries-old; some are still organized and run much as they have been for centuries, while others have changed significantly in the last nine hundred years.</p>
+<p>The typical manor is small, between one-quarter and three-quarters of a <em>demarc</em> across.
+In most, houses are constructed near the center — often of brick or timber-frame — along with workshops and public buildings; the surrounding area is broken into a patchwork of irregular, rectangular fields.
+(Farming techniques in Heartland are sophisticated, including the rotation of several crops across several fields; because of this, the fields are often a patchwork of color, with some fallow, some planted, and some ready for harvest.)
+Some may have a prominent manor-house or town hall, while in others, the holder of the charter may be distant.</p>
+<p>Hamlets and freeholds are often smaller, consisting of only a few families and their attendant fields.</p>
+<p>Gnolls make up half the populations of the manors and freeholds of rural Heartland Province, Humans claim roughly three-tenths, and Halflings one-tenth; the remaining one-tenth is composed of a diverse array of races, including a growing number of Ratfolk and Kobolds.
+Most manors will consist prominently of one orace or another — less because of any kind of tension or prejudice, and more because it's easier to share a community with people who share a diet, can speak one-another's language, and can produce children.
+(Notably, it's very common for nearby manors to have deep and long-enduring connections, often across racial lines; this is especially true of the symbiotic relationship between Gnoll and Halfling communities.)</p>
+<h3 id="gnollish-culture"><a class="header" href="#gnollish-culture">Gnollish Culture</a></h3>
+<p>The Gnolls who settled near Autumn's Hold largely assimilated into the human culture that sheltered them, and the culture that dominates in the Gnoll-held manors and freeholds today largely descends from those first refugees.
+Stories of their ancestor's flight from their cousins, of building a new home among Humans and Halflings, and of the new prosperity they helped to build, are prominent parts of their culture and folklore today.
+Many Gnolls take great pride in the roll their ancestors played in founding and securing the Commonwealth, and as one of its great pillars today.</p>
+<p>Most Gnollish manors herd sheep, goats, and cattle; they also raise a number of crops, including a wide variety that they cannot eat, which they grow for export.</p>
+<h3 id="the-caravans"><a class="header" href="#the-caravans">The Caravans</a></h3>
+<h2 id="law-and-government"><a class="header" href="#law-and-government">Law and Government</a></h2>
+<p>Though some other provinces have sophisticated governments or administrations, Heartland Province is still organized much as it always has been — as a vast network of cities, manors, hamlets and freeholds
+Each must comply with the Commonwealth Compact; a number of other agreements are also commonly in effect, the better to govern and administer the territory; beyond these agreements, however, each manor is only ruled by the city-seat that granted its charter, and each city-seat is a peer and a law unto itself.</p>
+<p>Law in Heartland can be extremely complex.
+Each city has its own unique blend of common law, civil law, contract and custom.
+Navigating this web of custom and treaty can be extremely complicated — although, since the wealth of the Commonwealth was built on trade, most cities and manors adopt laws and customs designed to smooth trade and accommodate travellers, traders and visitors.
+(For example, since Commonwealth Charter, the maximum penalty for all but high crimes is expulsion from the city or manor.)</p>
+<p>Most manors have <em>law-boards</em> at prominant entrances, summarizing important (or surprising) elements of local law.
+Travellors are well-advised to consult these boards: the law in most manors is unsurprising, but some have can have unusual customs and obligations.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/a-tour-of-the-commonwealth.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/notable-in-heartland.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/a-tour-of-the-commonwealth.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/notable-in-heartland.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

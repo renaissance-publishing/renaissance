@@ -1,0 +1,663 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Building Characters - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html" class="active"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="building-characters"><a class="header" href="#building-characters">Building Characters</a></h1>
+<p>So, we've laid out several rules and &quot;systems,&quot; we've provided lists of skills, powers, classes, traits and items, and we've talked about the 5 Roles.
+After reading all of this, you still might be wondering how all these pieces fit together to build a <em>character</em>.</p>
+<p>Here, we're going to break that down a little, talking about how to build a character for each of the roles, and what you should know to play them.</p>
+<h2 id="combatant-winning-or-just-surviving-combat-encounters"><a class="header" href="#combatant-winning-or-just-surviving-combat-encounters">Combatant: winning (or just surviving) combat encounters</a></h2>
+<blockquote>
+<p>Smoothly and quickly, the shifter changed: in a few seconds, the structure of her legs and skull changed, like blown-glass flowing; fur billowed out from her as smoke from fire; and large, sickle-like claws descended from her hands.
+She snarled at Chandra ferociously, giving challenge.</p>
+<p>Then the General's bronze fist slammed into her jaw with sharp, audible crack, like a blacksmith shattering a ceramic mold with a sledge; the general had begun his charge before he broke from the cover of the forrest, and had never broken stride.
+The slaver collapsed back like a statue shoved over from the top and lay still on the ground.</p>
+<p>The slaver-camps' other guards sprang into action, bringing spears to bear against him, but it was much too late.
+Even as one guard drove a spear into the General, ripping flesh and scale from one of his ribs, Chandra's allies attacked.
+Aryn fired an arrow from the treeline, striking one square in the chest; Venn charged in behind the general, skewering another guard with her halberd.</p>
+<p>Chandra turned in fury on the guard that had wounded him; he struck a ferocious blow with the pommel of his sword, knocking loose a chunk of the bony plate that protected the guard's head and sprawling the stunned Goblin on the ground.</p>
+</blockquote>
+<h3 id="your-combatants-concept"><a class="header" href="#your-combatants-concept">Your Combatant's Concept</a></h3>
+<h3 id="building-a-combatant"><a class="header" href="#building-a-combatant">Building a Combatant</a></h3>
+<p>If your character is <strong>great at Combat</strong>:</p>
+<ul>
+<li>Gear</li>
+</ul>
+<p>If your character is <strong>good at Combat</strong>:</p>
+<ul>
+<li>Gear</li>
+</ul>
+<h3 id="combining-combat-with-other-roles"><a class="header" href="#combining-combat-with-other-roles">Combining Combat with Other Roles</a></h3>
+<h3 id="playing-a-combatant"><a class="header" href="#playing-a-combatant">Playing a Combatant</a></h3>
+<h4 id="crushing-your-foes"><a class="header" href="#crushing-your-foes">Crushing your Foes</a></h4>
+<h4 id="surviving"><a class="header" href="#surviving">Surviving</a></h4>
+<h4 id="recovering"><a class="header" href="#recovering">Recovering</a></h4>
+<h3 id="combatants-and-other-characters"><a class="header" href="#combatants-and-other-characters">Combatants and Other Characters</a></h3>
+<h3 id="a-busy-weekend-for-general-chandra"><a class="header" href="#a-busy-weekend-for-general-chandra">A Busy Weekend for General Chandra</a></h3>
+<blockquote>
+<p>Chandra hauled himself up to the soldier standing watch at the fort's gate.
+&quot;I am General Chandra,&quot; he said — and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, out of uniform, and far from his home.
+&quot;I and my companions liberated a slave-camp three <em>demarc</em> over the border; they are encamped five <em>demarc</em> southeast from here, on the other side of the river, waiting for help to ferry the slaves across.
+You are to organize a patrol, secure boats, and see them safely here.&quot;</p>
+<p>The soldier considered him for a moment, unsure; then she saluted and hurried off into the fort.</p>
+<p>Chandra looked at the other soldier; he saluted as well.
+The general then began to stagger to the infirmary, where he suspected he would spend at least the next several days.</p>
+</blockquote>
+<h2 id="analyst-figure-out-whats-going-on"><a class="header" href="#analyst-figure-out-whats-going-on">Analyst: figure out what's going on</a></h2>
+<blockquote>
+<p>Very carefully, Fire used the small putty-knife to scoop out a glob of the dark ichor that had oozed from the creature's skull; he scraped it off into a clay jar and closed it with its waxed lid.
+He picked up the sealed jar and walked over to a small iron kettle that he'd brought to a boil at the foot of the bon-fire Aryn had built; he dropped the sodden putty-knife in.</p>
+<p>&quot;All right, throw it on,&quot; he said to her; she nodded to Chandra, and the two began to walk over to the corpse of the strange and disfigured crow-like creature that they'd slain.
+&quot;Don't touch it.&quot;</p>
+<p>&quot;We're not idiots, Fire,&quot; Chandra said, although not angrily; Fire, silently contemplating the sealed jar, did not notice.</p>
+</blockquote>
+<p><em>Renaissance</em> focuses on <em>intrigue</em>, <em>exploration</em>, and <em>horror</em> as primary play modes, and characters who understand the subtle details of how their world works are essential to succeeding (or just surviving) those kinds of adventures.
+Knowing which Kingdom-of-Men a certain pendant belongs to, whether a magical effect is the work of <em>mortals</em> or <em>spirits</em>, or what kinds of creatures lurk in the deep underground can all turn the course of an adventure.</p>
+<h3 id="your-analysts-concept"><a class="header" href="#your-analysts-concept">Your Analyst's Concept</a></h3>
+<p><em>Renaissance</em> has very diverse knowledge skills; from Art: Theater to Knowledge: Astronomy to Profession: Scholar, there's more out there than any one character could know.
+This means that your <em>Analyst</em> character will have to pick a specific set of Knowledge skills to focus on, and will wind up being fairly specialized.
+(The ever-valuable <em>Scholar</em> and <em>Jack of All Trades</em> classes can help with this.)</p>
+<p>So, a good first step is thinking about what you want your analyst to be expert in.
+Are they a scholar of history and law, like River?
+A master of magic and natural philosophy, like Fire?
+A high-ranking military officer, well-versed in matters of war and politics, like General Chandra?
+Or perhaps just a well-read, well-travelled, inquisitive soul, like Notebook?</p>
+<p>Of course, Profession is also a knowledge skill; that means that a professionals, traders and artisans can also be Analysts.
+A master smith offers not just the ability to make useful items, but — through the Profession skill — a knowledge of business, and understanding of what is possible with blacksmithing, the ability to analyze the work of others, and a knowledge of the uses and purposes of weapons, armors and tools.</p>
+<h4 id="matching-an-analyst-to-a-game"><a class="header" href="#matching-an-analyst-to-a-game">Matching an Analyst to a Game</a></h4>
+<p>Some types of Analysts will be more useful to some types of games than others; while working on your concept, it's a good idea to make sure that your analyst has the skills that your game is actually likely to require.
+River (a lawyer, expert in law and history) might come to dominate an intrigue game set in the Kingdoms of Men, but he might also be of little or no use in an exploration game set on an island hundreds or thousands of <em>demarc</em> out to sea.</p>
+<p>If you're building a character for a one-off game, it's easy to match their expertise to the situation; if you're building a character for a persistent group, that's likely to go on different adventures in different places, it can be trickier.
+While the <em>Scholar</em> and <em>Jack of All Trades</em> classes can help, no one Analyst could ever possibly cover all — or even most — of the areas of knowledge that a group might require.</p>
+<p>Practically, its important to make sure that every character picks up at least a few ranks in the Knowledge skills that represent their ares of expertise.
+(Since you'll have supporting skills — like Research — that many of other characters won't, your skills as an Analyst will still be essential.)</p>
+<h3 id="building-an-analyst"><a class="header" href="#building-an-analyst">Building an Analyst</a></h3>
+<p>If your character is <strong>great at Analysis</strong>:</p>
+<ul>
+<li>At least two Knowledge skills at 70.
+<ul>
+<li>These represent your Analyst's particular <em>expertise</em>.</li>
+<li>Remember Art, Knowledge, Profession, and Protocol are all Knowledge skills.</li>
+</ul>
+</li>
+<li>Research at at least 50.</li>
+<li>Either the <em>Scholar</em> class, or the <em>Jack of All Trades</em> class, or both.
+<ul>
+<li>The <em>Scholar</em> class is important so that your expert in military tactics can still be an <em>Analyst</em> during an adventure on an unexplored island 800 <em>demarc</em> from the coast.</li>
+<li>The <em>Jack of All Trades</em> class is important for profession-based Analysts; it allows your master Chemist to be able to provide at least basic information about farming practices or soldiery.</li>
+</ul>
+</li>
+<li>25 COG or more
+<ul>
+<li>This is important to get the highest TN you can for your knowledge skills, and to get the most out of the Scholar class.</li>
+<li>Even if your Analyst is art-based, you'll still want ot have good COG, because COG is used for the <em>Scholar</em> class, for the <em>Research</em> skill, and to <em>Solve Logical Puzzles</em>.</li>
+</ul>
+</li>
+<li>20 INT or more
+<ul>
+<li>The <em>Jack-of-All-Trades</em> class uses a INT as well as COG.</li>
+<li>INT is used to <em>Make a Guess</em>, <em>Get a Clue</em> and for <em>Difficult Uses of Language</em>.</li>
+<li>And, of course, Art is INT-based; you'll need 25 or more INT if your Analyst is an artist.</li>
+</ul>
+</li>
+<li>Optionally: the <em>Member</em> class
+<ul>
+<li>Are you faculty at a university somewhere?  Or or you a member of one of the Commonwealth's professional guilds?  Represent it with the <em>Member</em> class.</li>
+</ul>
+</li>
+<li>Optionally: a <em>skill kit</em> or <em>shop</em>.
+<ul>
+<li>A <em>skill kit</em> might contain the tools specific to your area of expertise, while a <em>shop</em> might include a library, an office, quills, paper, or a space for tutoriing.</li>
+<li>A Profession: Scholar skill kit is a workable way to &quot;cheat&quot; and get a flexible kit that includes &quot;you know, probably papers, pens, and some reference books.&quot;</li>
+<li>You should definitely take a <em>Skill Kit</em> or <em>Shop</em> if you don't take the <em>Member</em> class — because your character has to have their papers and notes <em>somewhere</em>, and if they're not a <em>Member</em> of a of some organization, they have to provide it themselves.</li>
+<li>You might want to take a <em>Skill Kit</em> or <em>Shop</em> even if you <em>are</em> a <em>Member</em> of an organization, so that you aren't <em>dependant</em> on that organization for support — which is especially important if you're a <em>travelling</em> scholar who might find themselves far away from the college that they're a member of.</li>
+</ul>
+</li>
+<li>Optionally: Profession: Scholar at 50 or more.
+<ul>
+<li>This is <em>in addition</em> to your two-or-more <em>other</em> knowledge skills at 70 or more.</li>
+<li>Profession: Scholar is useful if your character makes their living as a scholar — by tutoring students, lecturing, conducting research, and corresponding with other scholars.</li>
+</ul>
+</li>
+</ul>
+<p>If your character is <strong>good at Analysis</strong>:</p>
+<ul>
+<li>At least two Knowledge skills at 50.</li>
+<li><em>Research</em> at at least 50
+<ul>
+<li><em>Research</em> might be even more important if we already know your character doesn't know <em>everything</em> about their particular expertise.</li>
+</ul>
+</li>
+<li>Either the <em>Scholar</em> class or the <em>Jack of All Trades</em> class.
+<ul>
+<li>These classes remain important for the same reasons, but note that you'll need to take good enough COG and INT to use them.</li>
+<li>If you don't take one of these classes, you might encounter a lot of situations where your group needs an analyst but you can't help.</li>
+</ul>
+</li>
+<li>20 COG or more</li>
+<li>20 INT or more, if you're going to take <em>Jack of All Trades</em></li>
+</ul>
+<h3 id="playing-an-analyst"><a class="header" href="#playing-an-analyst">Playing an Analyst</a></h3>
+<p>As an analyst, your main job is to provide the party with information.</p>
+<p>Over the course of an adventure, the party will have question.
+&quot;Could this strange phenomenon be the work of mortals, or is a spirit doing it?  What mortal mages are likely culprits?&quot;
+&quot;What Spirits could be doing this?  What do they want?  How can we stop them?&quot;
+&quot;Who would want to assassinate this Eastern King?  Does this scrap of cloth make one of those options more likely than the other?  Could it be a set-up?&quot;
+&quot;Is that person a real blacksmith?  Where are they really from?  Where they ever in the army, or a guild?&quot;
+&quot;Did this relic really come from a mysterious island far off the coast, or is it a fake?  How old is it?  What might it do?&quot;</p>
+<p>Your job, as an analyst, is to provide this kind of information, and your knowledge skills (and the <em>Scholar</em> and <em>Jack-of-all-Trades</em> classes) are the tools that you'll use to do this.</p>
+<p>Sometimes, the GM will tell you things that you just <em>know</em>, without requiring you to explicitly ask a question or roll a check; after all, if a character has <em>basic competence</em> in a skill — that is, 10 ranks in a skill — then they have access to <em>common knowledge</em> associated with that skill.</p>
+<p>Other times, however, you'll need to <em>actively</em> ask the GM questions, and actively roll checks to find out what your character knows; always keep in mind that your character might know more about a given subject than the GM told you up-front.
+The GM might not even tell you that you <em>can</em> roll a check or <em>might</em> know more; this means that you need to be fairly active.</p>
+<p>Try to keep track of what bits of information the party has, and what other pieces of information that the party <em>needs</em>, and look for ways that you can answer those hanging questions.
+(In investigation-themed games, parties can hang because they either don't have an analyst, or the analyst isn't actively tackling open questions and turning them into answers.)</p>
+<p>Note that some of those questions are of the form, &quot;and what can we do about it?&quot;
+That's a question that you can use your Knowledge skills to ask the GM!
+Sometimes, especially when the group is stuck, you can ask the GM what avenues the party has open, or what pieces they might have missed.
+If you're an analyst, you might have good INT; remember that you can always just <em>make a guess</em> or <em>get a hint</em> (see <em>Basic Rules</em>).</p>
+<p>Of course, you shouldn't be overbearing.
+Just because you have all the expertise, doesn't mean you get to be the boss.
+Just because you have a plan you like, doesn't mean the rest of the party has to agree to it.
+Just because you need some piece of information, doesn't mean someone else has to go get it for you.</p>
+<h4 id="research-and-experimentation"><a class="header" href="#research-and-experimentation">Research and Experimentation</a></h4>
+<p>Being an analyst is likely to involve time in libraries, labs, and workshops.</p>
+<h3 id="analyst-and-other-characters"><a class="header" href="#analyst-and-other-characters">Analyst and Other Characters</a></h3>
+<p>Analysts need someone to provide them with clues and information to <em>analyse</em>: they depend on <em>Infiltrators</em> to get into interesting places and get out with interesting things; on <em>Socialites</em> to use their social skills to get information out of people; and on <em>Provisioners</em> to buy, bribe, or extort secrets and treasures that can't be acquired any other way.</p>
+<p>Analysts also often need resources — access to libraries, workshops and laboratories.
+They might depend on a <em>Provisioner</em> to get them these resources.</p>
+<p>And, of course, once an <em>Analyst</em> has a strong hypothesis or workable plan, they might need a &quot;doer&quot; to carry it out; this might be an <em>Infiltrator</em> quietly stealing a hidden treasure or dispatching a troublesome noble, a <em>Socialite</em> running a smear campaign or blackmailing a noble, or — last, but by no means least — a <em>Combatant</em> sorting an enemy out.</p>
+<h3 id="combining-analysts-with-other-roles"><a class="header" href="#combining-analysts-with-other-roles">Combining Analysts with Other Roles</a></h3>
+<p>Characters with high COG might be likely to take <em>Craft</em> and <em>Profession</em> skills, and serve the party as <em>provisioners</em> as well as <em>Analysts</em>.
+It also makes sense that someone with Knowledge: Natural Philosophy might have a few ranks in Craft: Chemistry and Profession: Chemist, or that someone with lots of ranks in Knowledge: Military Tactics might have ranks in Profession: Soldier and Craft: Armorer.</p>
+<p>Characters who want to emphasize the social aspects of scholarship — who might be faculty at a university, for example, or famous authors of textbooks and tracts — could also purchase ranks in social skills and serve the party as a secondary social character.
+Protocol is an especially logical choice here.</p>
+<p>Characters who really want to lean into a <em>Provisioner</em> role might also purchase a high Wealth score; this makes some sense, as scholars can be well paid — and because it's often the wealthy who can afford to become a scholar in the first place.</p>
+<p>All of these ideas could be combined: an <em>Analyst</em> character with <em>Protocol</em> at 60, some social and craft skills in the 50's, and wealth at least 4 could be a powerful Provisioner as well as an analyst.</p>
+<p>Of course, characters with good COG might also take Medicine and serve the party as a healer.
+Or, going in a completely different direction, scholars of magic (or chemistry) can have access to the skills and resources to be quite deadly.</p>
+<p>From world-wise benedictine monks to fastidious Belgian detectives, investigators can make great characters.
+An Analyst character could also purchase ranks in <em>Search</em> and <em>Perception</em> to build an <em>investigator</em>.
+The concept could be taken further bu purchasing ranks in Infiltration-related skills, to create an Analyst that can secure their own clues.
+Some of fictions' famous detectives where notable as much for their ability to extract information from suspects as their esoteric knowledge or problem-solving skills; mixing knowledge and social skills is another way to create an Analyst character that can, in some situations, procure their own clues.</p>
+<p>There are two practical risks to this kind of detective character.
+One is that it might be <em>too</em> atomic and self-contained — one of the Analyst's major external dependencies is the Infiltrator, who they depend on to provide them with clues and information.
+If the Investigator and Analyst are the same person, they might vanish into a solipsistic adventure that barely involves the rest of the party.
+Another is that it presents a significant risk if an infiltration fails and the character is captured (or killed): the party's &quot;knowledge assets&quot; will have fallen into enemy hands (or been destroyed).</p>
+<h3 id="the-mystery-beneath-the-ice"><a class="header" href="#the-mystery-beneath-the-ice">The Mystery Beneath the Ice</a></h3>
+<blockquote>
+<p>Fire began to chip at the wall of ice with a small, sharp hammer he'd produced form his smith's tools; Notebook turned, stepped over to her rucksack, fished out a growing arm-ful of chemical equipment, and began to set it up.
+After a few minutes, she stopped and listened closely; she could hear no sign of Fire.
+No chipping, no footsteps, no breathing in the echoing caverns.</p>
+<p>&quot;Fire?&quot; she asked; there was no response.
+&quot;<em>Fire</em>?&quot; she asked again, fear creeping into her voice; again, there was no response from the Shifter, only the distant echo of her own voice and breathing.</p>
+<p>She turned around; Fire was looking at her, confused.
+&quot;Yes?  Couldn't you hear me?&quot; he asked.</p>
+<p>&quot;No,&quot; she said, still slightly rattled.
+&quot;…didn't you get a sample?&quot; she asked after a moment.</p>
+<p>He looked down at his hands: he was holding the pick and the empty jar.
+He then looked back at the wall: it was barely scratched.
+He'd made no progress at all in the intervening minutes.</p>
+<p>&quot;No,&quot; he said, more curious than frightened — if only slightly.</p>
+<p>&quot;Fascinating,&quot; said Notebook.</p>
+</blockquote>
+<h2 id="socialite-bullying-bluffing-lying-flattering-and-persuading"><a class="header" href="#socialite-bullying-bluffing-lying-flattering-and-persuading">Socialite: bullying, bluffing, lying, flattering and persuading</a></h2>
+<h2 id="infiltrator-getting-into-interesting-places-getting-out-with-interesting-things"><a class="header" href="#infiltrator-getting-into-interesting-places-getting-out-with-interesting-things">Infiltrator: getting into interesting places, getting out with interesting things</a></h2>
+<h3 id="concept"><a class="header" href="#concept">Concept</a></h3>
+<h3 id="build"><a class="header" href="#build">Build</a></h3>
+<h3 id="play"><a class="header" href="#play">Play</a></h3>
+<h3 id="other-characters"><a class="header" href="#other-characters">Other Characters</a></h3>
+<h3 id="combinations"><a class="header" href="#combinations">Combinations</a></h3>
+<h3 id="fictions"><a class="header" href="#fictions">Fictions</a></h3>
+<h2 id="provisioner-getting-the-party-what-they-need"><a class="header" href="#provisioner-getting-the-party-what-they-need">Provisioner: getting the party what they need</a></h2>
+<blockquote>
+<p>From her position hidden in the wagon, Katarina could see that negotiations where not going well.
+Fire had his hands up and, for the moment at least, seemed to be showing due respect to the spear pointed at his chest; the Shifter was not known for his patience, however, and Katarina was more than slightly concerned that he might decide to put his faith in his natural regenarative powers and take dramatic action.
+She could also hear Aryn's voice, though that did little to ameliorate Katarina's growing concern — she would not have described the terse Haffan as being particularly gifted at diplomacy.</p>
+<p>&quot;I think they're standing close,&quot; she whispered.
+&quot;I wish we had some <em>tar</em>.&quot;</p>
+<p>&quot;We do,&quot; Kuro said from behind her, deeper in the wagon.</p>
+<p>Katarina managed to suppress the first few responses that came to mind.
+Into the silence, Kuro continued: &quot;I've made maybe a dozen.
+Healing potions and scour, too.
+I've had plenty of time, while we've been riding across the Kingdoms of Men.&quot;</p>
+<p>&quot;Well, Kuro, now would be the time,&quot; Katarina said, and she gestured for the shifter to pass a bottle forward.</p>
+</blockquote>
+<p>Provisioners provide the party with useful resources.
+In many games, this is a role mainly filled by NPCs; in <em>Renaissance</em>, it is intended to be a player role — and a potentially powerful one.
+Provisioners give players access to powerful resources, from arms and armor to stockpiles of alchemical potions to more abstract resources like blackmail material or political leverage.</p>
+<h3 id="concept-1"><a class="header" href="#concept-1">Concept</a></h3>
+<h3 id="build-1"><a class="header" href="#build-1">Build</a></h3>
+<h3 id="play-1"><a class="header" href="#play-1">Play</a></h3>
+<h3 id="other-characters-1"><a class="header" href="#other-characters-1">Other Characters</a></h3>
+<h3 id="combinations-1"><a class="header" href="#combinations-1">Combinations</a></h3>
+<h2 id="survivalist-getting-by-in-the-wild"><a class="header" href="#survivalist-getting-by-in-the-wild">Survivalist: getting by in the wild</a></h2>
+<h2 id="healer-putting-the-party-back-together"><a class="header" href="#healer-putting-the-party-back-together">Healer: putting the party back together</a></h2>
+<blockquote>
+<p>It was a blinding spark of pain that lit up Chandra's side.
+The mighty drake lashed out with his greatsword, more instinct and rage than a controlled attack.
+The human knight sneered slowly, adjusting his footing for a final blow.
+And then Trac was there, his massive shield absorbing the blow, and hulking frame pushing back.
+He wasn't there to finish the fight, though, a furred hand reaching down and grasping the collar of Chandra's armour.
+Dragging the spent, wounded general out of danger.</p>
+<p>&quot;You should learn to dodge&quot; The Gnoll said, with a dry, familiar tone.</p>
+</blockquote>
+<p>It's very easy to die in <em>Renaissance</em>: damages are high, health-pools are small, and the <em>wound</em> system means that characters can be crippled into ineffectiveness long before they actually <em>die</em>.
+What's more, <em>Renaissance</em> also models character's mental health; as characters struggle though life-or-death situations, encounter ancient mysteries, confront alien forces, and loose long-time friends, they can suffer more than physical wounds.
+And healing is difficult by design; the party that wants to survive — physically and emotionally — needs to have a solid plan for <em>healing</em>.</p>
+<h3 id="your-healers-concept"><a class="header" href="#your-healers-concept">Your Healer's Concept</a></h3>
+<p>Healing is difficult, and it takes many lifetimes to truly understand the mysteries of one race's body, let alone the many races that call the Emerald Plane home.
+Healers are nonetheless prized participants in any adventure, and respected in their homes and businesses.
+Whether the lowly medic in the commonwealth army removing his fallen comrades from the fight, or the highly-skilled commonwealth alchemist-surgeons exploring and unlocking the mysteries of life, it falls to you to stitch up your comrades when they fall, to offer aid to your allies or to innocent victims of violence, and to calm and support those who troubles threaten to overwhelm them.</p>
+<p>There are several questions to answer when deciding on your healer's concept:</p>
+<ul>
+<li>What kind of healer are they?
+<ul>
+<li>A formally trained doctor, with a formal education and professional practice?</li>
+<li>Are they a <em>medic</em> in the Commonwealth military, who may be used to chaos and violence, and who may have combat skills and a military rank?</li>
+<li>A local healer — a village elder trusted to patch the wounded up, despite having little or no actual training or formal education?</li>
+<li>A worker of magic, who uses <em>sleights</em> or <em>powers</em> to heal the injured?</li>
+<li>A priest, cleric, or elder, someone who provides care and emotional support more than they perform surgeries?</li>
+</ul>
+</li>
+<li>What kind of <em>healing</em> do you provide?
+<ul>
+<li>Characters can suffer both physical injury and emotional stress; which will you try to heal?
+Or will you attempt to heal both?</li>
+</ul>
+</li>
+<li>How do you provide healing?
+<ul>
+<li>Do you use skill, knowledge, and compassion (with <em>Medicine</em> and <em>Soothe</em>)?</li>
+<li>Or do you use magic, with powers like <em>Heal</em>, <em>Transfer</em>, <em>Regrowth</em>, and <em>Sacrifice</em>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="building-a-healer"><a class="header" href="#building-a-healer">Building a Healer</a></h3>
+<p>We'll break this down into three &quot;builds&quot;:</p>
+<ul>
+<li>Physical Healing with Medicine</li>
+<li>Emotional Healing with Soothe</li>
+<li>Physical Healing with Magic</li>
+</ul>
+<p>If your character is <strong>great at Physical Healing with Medicine</strong>:</p>
+<ul>
+<li>Acerbic wit and sarcastic bedside manner are optional, but always entertaining.</li>
+<li>COG at least 25</li>
+<li>The <em>Medicine</em> skill at 70, with a <em>specialization</em>.
+<ul>
+<li>The more ranks you have in <em>Medicine</em>, the happier the people you're trying to heal will be.</li>
+<li>Remember that <em>you yourself</em> may be wounded, so the ability to still have a decent TN with a few -10 wound penalties may be vital!</li>
+</ul>
+</li>
+<li>A relevant <em>Profession</em> (like Doctor, Healer, Medic, or Midwife) at 50
+<ul>
+<li>The Profession is important for your character to know how to <em>be a doctor</em>.</li>
+<li>The Profession skill can also be useful for a quick hit of money or good will; the skills of doctors are always valuable.</li>
+</ul>
+</li>
+<li><em>Soothe</em> at at least 50.
+<ul>
+<li>This will help you calm panicking, frightened, or suffering patients — you can't operate on people who are panicked and fighting you.</li>
+</ul>
+</li>
+<li>Craft: Chemistry at at least 40
+<ul>
+<li>useful for brewing medicines and potions; more is better.</li>
+</ul>
+</li>
+<li>At least two appropriate knowledge skills at 50
+<ul>
+<li><em>Anatomy</em> may help in understanding how bodies work</li>
+<li><em>Diseases</em> will help in their treatment</li>
+</ul>
+</li>
+<li>At least a <em>Medicine</em> skill kit and <em>Craft: Chemistry</em> skill kit.
+<ul>
+<li><em>Shops</em> are better if you have the CP to spend.</li>
+</ul>
+</li>
+<li>Healing potions</li>
+<li>Perception at 50 or higher, to assist in diagnosis.</li>
+<li>Research at 50 or higher
+<ul>
+<li>Different species may have different medical requirements, and no doctor can manage an encyclopedic knowledge of every disease at all times.</li>
+</ul>
+</li>
+<li>Search at 50 or higher, to find useful ingredients and resources (like finding medicinal herbs in the wild).</li>
+<li>The <em>Bedside Manner</em> power,
+<ul>
+<li>which allows you to use a <em>Social</em> skill (like Soothe!) as a <em>related skill</em> while binding wounds.</li>
+</ul>
+</li>
+</ul>
+<p>If your character is <strong>Great at Emotional Healing with Soothe</strong>:</p>
+<ul>
+<li>COG at least 20, Int at least 20, SAV at at least 25, WIL at least 20
+<ul>
+<li>Since <em>Soothe</em> is SAV-linked, good SAV is obvious.</li>
+<li>WIL might be surprising, but providing emotional support to someone in crisis can itself be very stressful.
+Your character will be brought in intimate contact with others' fears, pains, and shames, and you'll experience some measure of their emotional crisis with them.</li>
+</ul>
+</li>
+<li>The <em>Soothe</em> skill at at least 70.</li>
+<li>A relevant <em>Profession</em> (like Doctor, Healer, or Priest) at 50</li>
+<li><em>Read</em> at at least 60.</li>
+<li><em>Persuasion</em> and <em>Protocol</em> at at least 50.</li>
+<li>Other social skills if you have the points.
+<ul>
+<li>Deception can be useful — the bold truth is not always the best medicine.</li>
+<li>Even <em>Intimidate</em> could be useful for some unusual personalities.</li>
+</ul>
+</li>
+<li>Craft: Chemistry at at least 40
+<ul>
+<li>Brews, potions, and medicines (or just a cup of tea or shot of bourbon) have long been a part of emotional support.</li>
+</ul>
+</li>
+</ul>
+<p>If your character if <strong>Great at Physical Healing with Magic</strong>:</p>
+<ul>
+<li><em>COG</em> or <em>WIL</em> at least 25, depending on whether you're using <em>spells</em> or <em>sleights</em>.</li>
+<li><em>Spellcraft</em> or <em>Control</em> at least 70, as appropriate to the powers you're using.
+<ul>
+<li>The powers in the &quot;<em>Heal</em> tree&quot; are <em>sleights</em>, so you'll need <em>Control</em> for those.</li>
+</ul>
+</li>
+<li>The &quot;<em>Heal tree</em>&quot; powers:
+<ul>
+<li><em>Heal</em> allows you to fast-heal your own <em>DUR</em>.</li>
+<li><em>Transfer</em> transfers other's <em>damage</em> to you, so you can then heal it.</li>
+<li><em>Regrowth</em> heals your <em>wounds</em>.</li>
+<li><em>Sacrifice</em> transfers a <em>wound</em> from someone else to you, so you can heal it.</li>
+</ul>
+</li>
+<li><em>Jump</em> and <em>Group Jump</em> to remove fallen allies from a fight</li>
+</ul>
+<h3 id="playing-a-healer"><a class="header" href="#playing-a-healer">Playing a Healer</a></h3>
+<p>As a healer, your job will be to support the more adventurous members of the party when they fall afoul of combat, succumb to disease, collapse in blistering heat, break in fear, or are tormented by their demons.</p>
+<p>After a tense fight, wounds will need to be washed and sealed to keep infection at bay, and to bring combat-focused characters back to full strength.
+You might also want to heal an enemy who has yielded, or an incapacitated prisoner who has information that the party requires.
+Anyone afflicted with poison will need antidotes to be mixed and dosed, and some will need to be brought down from the adrenaline rush with care.</p>
+<p>Other, more sedate adventures might still involve mental stresses, psionic attacks and mind control, questionable actions the adventurers are forced to undertake, phobias and fears… all of these require a deft touch and a shoulder to rest on.
+Healing mental stress is difficult, but is just as important as keeping bodies knitted together in the right situation.</p>
+<p>Unlike a combatant, infiltrator, or analyst, you can make an assassination fail after the fact, saving life is itself a unique skill that is well-respected the world over.</p>
+<p>Should it come up, though, never forget that the power to mend and repair life, also gives intimate awareness on how to influence it.
+Your medical knowledge also gives you the tools needed to remove threats in unexpected, or ethically troubling manners.</p>
+<h4 id="healing-is-tough"><a class="header" href="#healing-is-tough">Healing is Tough</a></h4>
+<p>It's important to understand that healing in <em>Renaissance</em> is difficult, time-consuming, and imperfect.
+Without going over the rules for healing (see <em>Injury and Recover</em>), you should note that binding a wound is a 10-minute Task Action that requires a Medicine check — it's not something you can do <em>during</em> a fight.
+You also only get one attempt per wound, succeed or fail — this means that getting it right the first time is important!
+Your fellow players may not appreciate it if you're rolling against a 50 and only bind 2 of their 5 wounds.
+(You can attempt <em>surgery</em> on a wound that you failed to bind, but surgery is a <em>one hour</em> task action — it's not something you can easily attempt while the party is trying to chase a slave-trader through a hurricane in a coastal swamp.)</p>
+<p>You might wonder, &quot;well, that's <em>wounds</em>; how do I heal DV?&quot;
+There is no separate &quot;heal DV&quot; action: you get to heal some DV when you successfully bind a wound, and that's it.
+After that, it's natural healing.</p>
+<p>And bear in mind, DV and Wounds are both important.
+DV determines when a character is <em>disabled</em> or <em>dead</em>, but wounds can radically reduce a character's effectiveness even if they're at full DUR.
+(This is, in fact, fairly common for charactesr with Fast Healing.
+Even with Fast Healing, Wounds heal slowly, and they only heal after all DV has been healed; therefore, it's not uncommon for a Shifter or Clay Man to find themselves with 0 DV, but still crippled by their 5 wounds.
+For this reason, <em>binding wounds</em> can be important even for characters with Fast Healing.)</p>
+<p>If all else fails, your party may be forced to simply stop, rest and recover, using the rules for <em>long-term care</em>.
+This isn't always a bad idea; while some adventures are paced to take hours or days, others may be paced out over weeks or months.
+If the adventure already has time budgeted for over-land travel, crafting, or letting plots percolate, allowing the wounded several days to rest and recouperate may wise.
+(At times like this, healing potions can be very valuable.)</p>
+<h4 id="magic-only-helps-a-little"><a class="header" href="#magic-only-helps-a-little">Magic Only Helps a Little</a></h4>
+<p>Can magic help?
+A little, certainly, but magic doesn't trivialize healing — by design.
+Magical healing takes two forms: the &quot;Heal tree&quot; powers and two healing potions.</p>
+<p>Healing potions mainly accelerate <em>natural</em> healing.
+the minor Healing Potion doubles your natural healing from 1 DV/day to 2 DV/day.
+While very useful for a character undergoing long-term care, this obviously will not return a wounded character to the fight in the short-term.
+The more expensive Moderate healing potion ups the rate to 1 DV/hour, and heals 1 wound in 12 hours.
+If the party has a day or two to recoup, this can be exceptionally useful — but it's <em>also</em> not going to get a character back in the fight quickly.</p>
+<p>The &quot;Heal tree&quot; powers can be, well, powerful, but they also have stark disadvantages.</p>
+<p>Perhaps the most obvious is that they involve <em>transferring</em> DV and wounds from the victim to the character using the powers; this can be a stressfull experience for the healer.
+It also involves the healer suffering wound penalties from transferred wounds until they're healed.
+(This does not necessarily prevent the Heal sleights from working, since they don't require checks to channel; however, it is something to be aware of, in case something interrupts the healing process before you're finished.)</p>
+<p>Also, remember that Fast Healing heals wounds slowly — and even the <em>Regrowth</em> power takes an hour per wound.</p>
+<p>This means that there's actually something of a trade-off between using the Heal slights and binding wounds.
+Binding only takes ten minutes per wound, but it may not completely heal all DV, and it can fail.
+Using all four of the Heal sleights will heal the target's DV fairly quickly, and there are no checks to fail — so, given time, if you aren't interrupted, it will guaranteeably succeed.
+And, usefully, the wounds aren't <em>bound</em>, but rather are <em>healed</em> completely.
+However, the Heal sleights take much longer to heal wounds, and they involve the <em>healer</em> being inflicted with greivous injury during the process.</p>
+<h4 id="emotional-healing-is-also-important"><a class="header" href="#emotional-healing-is-also-important">Emotional Healing is also important</a></h4>
+<p>Besides physical wounds, characters can also succumb to <em>stress</em> and <em>trauma</em>.
+These are perhaps even more difficult to heal than DV and wounds; the Soothe skill can be used to provide emotional support, but this only heals either 3 or 1 SV per hour-long Task Action.
+(While this might seem slow, the <em>natural</em> rate of healing for Stress is 1 SV/day.)</p>
+<p>The <em>Down-time</em> sleight allows you to heal 1d10÷3 SV with a four-hour Task Action, and also provides you with several other useful benefits; however, there is no sleight analogous to &quot;Transfer&quot; that would allow you to absorb someone else stress.
+So, there isn't a magical alternative to the &quot;Heal tree sleights&quot; to allow you to heal SV.</p>
+<h3 id="types-of-healer"><a class="header" href="#types-of-healer">Types of Healer</a></h3>
+<p>One thing to know for all three Healer builds: healing is <em>difficult</em> and <em>time-consuming</em>.
+In many cases, you won't even be able to completely heal someone: time and natural healing may be required.</p>
+<h4 id="using-medicine"><a class="header" href="#using-medicine">Using Medicine</a></h4>
+<p>If you're using <em>Medicine</em>, you'll often be attempting to <em>bind wounds</em> after combat; see <em>Injury and Healing</em>.
+Binding a wound is time-consuming: it has a base time-frame of 10 minutes, and it requires you to have <em>supplies</em> like bandaging, or a needle and thread, all clean (i.e. at least a <em>Medicine</em> skill-kit).</p>
+<p>It's vitally important to note that you can <em>only attempt to bind a wound once</em>: if you fail, the player will simply have to suffer that wound until they heal <em>naturally</em>.
+For that reason, it's important to make your <em>best effort</em> to bind a wound: making a test at a 50 or 60 may not seem so bad at first, but the character you're healing may not appreciate being stuck with half their wounds.
+You should get the best target you can: <em>take your time</em>, get <em>assists</em>, use (for example) the Bedside Manner class to claim related skills, and scrounge around for any other boost you can find — because you won't get a second chance.</p>
+<p>After you've attempted to bind an injured character's wounds, there's not much more you can do, besides provide <em>long-term care</em> and keep a patient dosed with <em>healing potions</em>.
+(Note that healing potions merely speed natural healing; they are <em>not</em> a short-term healing mechanism.)</p>
+<h4 id="using-soothe"><a class="header" href="#using-soothe">Using Soothe</a></h4>
+<h4 id="using-magic"><a class="header" href="#using-magic">Using Magic</a></h4>
+<p>Using <em>magic</em> for physical healing might seem to be powerful by comparison, but it's not without cost.
+<em>Heal</em> and <em>Transfer</em> are powerful, since they don't require a test, and can heal a character of all DV in about a minute—<em>Heal</em> will heal you of about 20 DV in a minute, and <em>Transfer</em> will heal another character of about 40 DV in a minute (by transferring that DV to you).
+But note that <em>Heal</em> and <em>Transfer</em> don't heal <em>wounds</em>, only <em>damage</em>—and that they heal that damage by transferring it to you and allowing you to <em>fast heal</em> it away, a process which might be stressful for you!</p>
+<p><em>Regrowth</em> and <em>Sacrifice</em> allow you to heal a wound of yours, and to transfer other's wounds to yourself.
+Transferring a wound with <em>sacrifice</em> may only take a minute, but healing your new wound with <em>Regrowth</em> requires an hour.
+And, even more than transferring damage, transferring <em>wounds</em> is likely to be <em>stressful</em>.</p>
+<p>Using these powers can require careful planning, and it can be more time-consuming than they might at first appear if you don't want to cripple, traumatize, or incapacitate yourself in the process.</p>
+<p>Don't we have better options for magical healing?
+Not really!
+Healing is meant to be difficult, and magic isn't intended to be a way for a character to step around that limitation.</p>
+<h3 id="healers-and-other-characters"><a class="header" href="#healers-and-other-characters">Healers and Other Characters</a></h3>
+<p>Playing the healer can be an amazingly selfless role, even if your medical knowledge is what the success or failure of the adventure hinges upon.
+Regardless of your other skills, many people will be programmed to believe that healing is simply 'your job'.</p>
+<p>Combatants will rely on you as a crutch, more ablative styles of fighter
+needing stitching up after almost every fight. And occasionally in the
+middle of a fight, should they bite off more than they can chew.
+Similarly, if an Infiltration goes poorly, the infiltrator will likely
+need some medical attention, should they get away</p>
+<p>Being an 'academic' of sorts will help you provide some backup to the
+Analyst character, while knowledge of medicinal compounds and plants are
+sure to give you something in common with Survivalists.</p>
+<p>As much as Combatants rely on you, Survivalists and provisioners will be
+your own weakness. Providing you with the items you need to keep your
+medical kit stocked to the brim, and in turn keeping your allies wounds'
+mended and minds from being clouded with stress.</p>
+<h3 id="combining-healing-with-other-roles"><a class="header" href="#combining-healing-with-other-roles">Combining Healing with Other Roles</a></h3>
+<p>The different healer builds combine fairly well with <em>each other</em>.
+Soothe can be useful to a doctor, and the <em>Heal</em> sleight can be valuable for a doctor to have so that the party's healer has some ability to quickly and effectively restore themselves.</p>
+<p>Healers can also make excellent Analysts, with the overlapping importance of COG and INT, and Research and Knowledge skills being useful to both — and Doctors are likely to be beneficiaries of a formal education, of course.
+This can work both ways, with Analysts making excellent healers, as well, if their interests run in the right direction.</p>
+<p>Having been in Combat can be an excellent reason to learn medicine, and more protectively-minded combatants can make for effective healers; this makes particular sense for someone who's served as a <em>medic</em> in the Commonwealth military, or for someone who's been a soldier, mercenery, or explorer and had to learn to patch their fellows up.
+(And, we should note, there is precident for the concept in fiction; a certain Welsh monk springs to mind.)
+Besides, anatomy can just as easily tell you where to strike an enemy, as it can tell you what needs to be stitched and sealed.
+However, one practical difficulty with combining combat and healing as roles is that you are likely to be the one who is wounded and requires healing (and thus, you will likely have to deal with wound penalties).</p>
+<p>Infiltrators, with their reliance on perception, can easily spot signs of injury, and many cultures place well-intentioned taboo on harming physicians of any stripe.
+These can potentially work in such a combination's benefit.</p>
+<p>Socialites combine very effectively with <em>emotional</em> healers who use <em>Soothe</em>, for perhaps obvious reasons — their skills overlap heavily.
+But <em>medicine</em>-based physical healers can also combine well with socialites and provisioners.
+The importance of bedside manner, confidence and a winning charm in medicine cannot be overstated.
+And good doctors are often rich, as they have very valuable skills and no shortage of work.
+And Craft: Alchemy is a powerful skill both for a Healer and a crafting-based Provisioner.</p>
+<h3 id="acehs-bedside-manner"><a class="header" href="#acehs-bedside-manner">Aceh's Bedside Manner</a></h3>
+<blockquote>
+<p>&quot;Ah <em>ata-ata-ata-ata</em>&quot; Aceh mused as she considered the limp form before her, the green-grey skin split by Goblin hand cannon in four places, blowing fist-sized holes through the strong-willed but foolish orc.</p>
+<p>&quot;You go and you charge a ship full of goblins with hand cannons, and you get dragged back to me, leaving a lovely red streak up the beach…&quot;
+Her words teased the semi-conscious ears, the half-hearted admonishment encouraging Kiegar to slowly stir as Aceh's dextrous paws carefully extracted what was left of the bullets.
+&quot;You are lucky you have the best healer this side of foam-and-cloud.&quot;</p>
+<p>She rattled on, words almost too fast to decipher as Keigar registered the <em>ping… ping… ping</em> of bullet fragments dropped in a dish to Aceh's side.
+&quot;<em>Ata-ata-ata-ata…</em> You lie down, make full recovery.&quot; She smiled, baring Gremlin teeth.</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/the-five-roles.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/adventures.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/the-five-roles.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/adventures.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

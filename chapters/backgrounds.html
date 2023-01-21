@@ -1,0 +1,572 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Backgrounds - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html" class="active"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="backgrounds"><a class="header" href="#backgrounds">Backgrounds</a></h1>
+<h2 id="backgrounds-1"><a class="header" href="#backgrounds-1">Backgrounds</a></h2>
+<p>Your <em>Background</em> represents what you have gained from your early life experiences — the influences your culture had on you, from growing up wherever you grew up.</p>
+<p>The list presented here is far from exhaustive; there are countless cultures great and small throughout the Emerald and Ruby Planes (and beyond!), and we have presented only a handful.
+Players and GMs should feel free to modify these backgrounds to represent a specific character's unique origins (players require their GM's approval, of course).</p>
+<p>None of these backgrounds should be taken to be exclusive to a given race; in general, a member of any race can grow up in any given culture, and thus have the appropriate background.
+It's entirely possible for an Ash Elf to grow up in the Dragonshire, or a Shifter to grow up in one of the Commonwealth's large cities.
+This is true not only of the common backgrounds, but also of the rarer, (seemingly) race-specific ones; it's entirely possible for a Human to grow up among Gnolls and Halflings in a trade-caravan, for example, or for a Gnoll to grow up in an Ash-Elven undercity.</p>
+<div class="asside">
+<div class="asside-title">What should be in a background</div>
+<p>Most of the backgrounds give you 40CP of benefits, which represent the skills and resources that most members of your culture acquire.</p>
+<p>Ranks in skills, traits, and items are common choices; these repesent the skills that every member of a culture would acquire, the abilities that people commonly learn, and the kinds of possessions that are common among them.
+Ranks in skills are usually a good place to start; you can branch out into traits and items if you can't come up with 40 CP of particularly unique or exciting ranks in skills.
+(There's no reason a background can't award a class or power, but in our opinion this makes a little less sense and is a little harder to balance, and so is often best avoided.)</p>
+<p>Backgrounds <em>usually</em> shouldn't include things that it's impossible to acquire somewhere else, although this is mostly for game design and balance reasons; we find it very frustrating to force people into taking a particular background in order to have access to some trait or skill.</p>
+</div>
+<h2 id="common-backgrounds-in-the-commonwealth"><a class="header" href="#common-backgrounds-in-the-commonwealth">Common Backgrounds in the Commonwealth</a></h2>
+<p>The following list represents both common backgrounds in the Commonwealth, and generic backgrounds in general; they should make good starting-points for crafting backgrounds to represent specific cultures or regions.</p>
+<h3 id="dragonshire"><a class="header" href="#dragonshire">Dragonshire</a></h3>
+<p>You were born in the former-Kingdom of the Dragonshire</p>
+<ul>
+<li>
+<p>10 ranks in Knowledge: History</p>
+</li>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks in one <em>Combat</em> skill</p>
+</li>
+<li>
+<p>10 ranks in one other <em>Social</em> skill (besides Protocol)</p>
+</li>
+<li>
+<p>Common Races: Humans, Drakes</p>
+</li>
+<li>
+<p>Common Languages: Rak, Weal, Royal</p>
+</li>
+</ul>
+<h3 id="haven-mountains"><a class="header" href="#haven-mountains">Haven Mountains</a></h3>
+<p>You were born in one of the subterranean communities that have taken up residence in the Haven Isles.</p>
+<ul>
+<li>
+<p>10 ranks in Knowledge (pick a field)</p>
+</li>
+<li>
+<p>10 ranks in Profession (pick a field)</p>
+</li>
+<li>
+<p>10 ranks in Control or Spellcraft (your choice)</p>
+</li>
+<li>
+<p>a Sleight or Spell that you qualify for.</p>
+</li>
+<li>
+<p>Common Races: Ash Elves, Dwarves, Kobolds</p>
+</li>
+<li>
+<p>Common Languages: Islander</p>
+</li>
+</ul>
+<h3 id="manor-child"><a class="header" href="#manor-child">Manor Child</a></h3>
+<p>You were born in a manor in Heartland Province.</p>
+<ul>
+<li>
+<p>10 ranks in two <em>Trade</em> skills of your choice</p>
+</li>
+<li>
+<p>one skill kit</p>
+</li>
+<li>
+<p>one weapon or armor of Moderate cost.</p>
+</li>
+<li>
+<p>the Tough trait</p>
+</li>
+<li>
+<p>Common Races: Gnolls, Humans, Halflings, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Heartland Gnoll, Weal, <em>regional languages</em></p>
+</li>
+</ul>
+<h3 id="professional"><a class="header" href="#professional">Professional</a></h3>
+<p>You are part of the nascent middle class of traders and professionals.</p>
+<ul>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks in two <em>Technical</em> skills</p>
+</li>
+<li>
+<p>either two Skill Kits or one Shop</p>
+</li>
+<li>
+<p>Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Weal, Islander, Common</p>
+</li>
+</ul>
+<h3 id="tribesman"><a class="header" href="#tribesman">Tribesman</a></h3>
+<p>You are from one of the tribal or traditional societies that live in the vast forrest between Westward and Northland provinces.</p>
+<ul>
+<li>
+<p>10 ranks in Handle Animal</p>
+</li>
+<li>
+<p>10 ranks in Survival</p>
+</li>
+<li>
+<p>10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter</p>
+</li>
+<li>
+<p>the Ready Trait</p>
+</li>
+<li>
+<p>Common Races: Shifters, (Wood) Elves, Herders, Gnolls, Humans, <em>others</em></p>
+</li>
+<li>
+<p>Common Languages: <em>tribal languages</em> (many tribes speak their own unique languages)</p>
+</li>
+</ul>
+<h3 id="urbanite"><a class="header" href="#urbanite">Urbanite</a></h3>
+<p>You are from one of the Commonwealth’s large urban centers.</p>
+<ul>
+<li>
+<p>one dot in Language: Common</p>
+</li>
+<li>
+<p>one Skill Kit</p>
+</li>
+<li>
+<p>10 ranks in Protocol</p>
+</li>
+<li>
+<p>10 ranks each in two <em>Social</em> or <em>Technical</em> skills of your choice</p>
+</li>
+<li>
+<p>Common Races: Kobolds, Humans, Ratfolk</p>
+</li>
+<li>
+<p>Common Languages: Weal</p>
+</li>
+</ul>
+<h3 id="wayfarer"><a class="header" href="#wayfarer">Wayfarer</a></h3>
+<p>Wanderers, vagrants and transients by birth, choice or circumstance.</p>
+<ul>
+<li>
+<p>10 ranks in Survival</p>
+</li>
+<li>
+<p>10 ranks in Medicine</p>
+</li>
+<li>
+<p>1 dot in Common</p>
+</li>
+<li>
+<p>1 Skill Kit</p>
+</li>
+<li>
+<p>the Alert Trait</p>
+</li>
+<li>
+<p>Common Races: any</p>
+</li>
+<li>
+<p>Common Languages: any</p>
+</li>
+</ul>
+<h2 id="specific-commonwealth-communities"><a class="header" href="#specific-commonwealth-communities">Specific Commonwealth Communities</a></h2>
+<p>The following backgrounds represent specific communities or cultural groups within the Commonwealth.</p>
+<h3 id="ash-elven-undercity"><a class="header" href="#ash-elven-undercity">Ash Elven Undercity</a></h3>
+<p>You hail from one of the Ash-Elven undercities beneath the low peaks of the Haven Isles.</p>
+<ul>
+<li>10 ranks in Control</li>
+<li>10 ranks in one Art field skill</li>
+<li>10 ranks in one <em>Technical</em> skill</li>
+<li>the Resilient trait</li>
+</ul>
+<h3 id="caravan-guard"><a class="header" href="#caravan-guard">Caravan Guard</a></h3>
+<p>Continuing a way of life that stretches back more than 700 years, you travel with Halfling trade-caravans, serving as a guard, a bouncer, a hand, and a diplomat.</p>
+<ul>
+<li>10 ranks in Intimidate</li>
+<li>10 ranks in Perception</li>
+<li>10 ranks in Persuasion</li>
+<li>10 ranks in Survival</li>
+</ul>
+<h3 id="caravaneer"><a class="header" href="#caravaneer">Caravaneer</a></h3>
+<ul>
+<li>10 ranks in Barter</li>
+<li>10 ranks in one Technical skill</li>
+<li>one Skill Kit</li>
+<li>one Halfling Wagon</li>
+<li>two horses</li>
+</ul>
+<h3 id="clay-man-community"><a class="header" href="#clay-man-community">Clay-Man Community</a></h3>
+<p>The character hails from one of the Clay-Men's subterranean communities.</p>
+<ul>
+<li>10 ranks in Control</li>
+<li>10 ranks in Spellcraft</li>
+<li>10 ranks in any <em>Technical</em> skill</li>
+<li>A racial optional trait</li>
+</ul>
+<p>Most members of Clay-Men Communities speak a local variant of <em>Clay</em> (CM).
+The <em>Unique Outlook</em> trait is common, usually for <em>resistance to stress related to personal death</em>.</p>
+<h3 id="commonwealth-orcish-community"><a class="header" href="#commonwealth-orcish-community">Commonwealth Orcish Community</a></h3>
+<ul>
+<li>10 ranks in Protocol</li>
+<li>10 ranks in one Combat skill</li>
+<li>10 ranks in one Technical skill</li>
+<li>1 weapon and 1 skill kit</li>
+</ul>
+<h3 id="dragonshire-noble"><a class="header" href="#dragonshire-noble">Dragonshire Noble</a></h3>
+<p>You hail from a noble bloodline in the Dragonshire.
+Though actual rule now rests in the hands of the House of Commons, having the right ancestors is still <em>useful</em>.</p>
+<ul>
+<li>10 ranks in Protocol</li>
+<li>10 ranks on one other <em>Social</em> skill</li>
+<li>10 ranks in one <em>Combat</em> skill</li>
+<li>Either the <em>Noble</em> Class or the <em>Officer</em> Class.
+If you select the <em>Officer</em> Class, you must later purchase the Soldier class during character creation, to meet its prerequisites.</li>
+</ul>
+<h3 id="dwarven-hold"><a class="header" href="#dwarven-hold">Dwarven Hold</a></h3>
+<p>You hail from a Dwarven Hold, either in the north of the Emerald Plane or one of the mountainous islands of the Haven Isles.</p>
+<ul>
+<li>10 ranks in two Technical skills</li>
+<li>10 ranks in Protocol</li>
+<li>10 ranks in Barter</li>
+</ul>
+<h3 id="gnomish-burrow"><a class="header" href="#gnomish-burrow">Gnomish Burrow</a></h3>
+<ul>
+<li>10 ranks in Craft: Alchemy</li>
+<li>10 ranks in one other Technical skill</li>
+<li>10 ranks in Stealth</li>
+<li>one skill kit</li>
+<li>one potion of Cost: Moderate, or 5 potions of Cost: Minor</li>
+<li>the Unique Outlook neutral trait</li>
+<li>Special: You do not receive one dot in Common for free, the way most characters do. Instead, you receive one dot in Worldspine Kobold (group DDK).</li>
+</ul>
+<h3 id="herder-tribal-community"><a class="header" href="#herder-tribal-community">Herder Tribal Community</a></h3>
+<ul>
+<li>10 ranks in Fray</li>
+<li>10 ranks in Ranged Weapons</li>
+<li>10 ranks in one Social skill</li>
+<li>10 ranks in Survival</li>
+</ul>
+<h3 id="military-family"><a class="header" href="#military-family">Military Family</a></h3>
+<p>You hail from one of the many Gnollish military families.</p>
+<ul>
+<li>10 ranks in Fray</li>
+<li>10 ranks in two other Combat skills</li>
+<li>the Soldier class</li>
+</ul>
+<h3 id="mind-sharing-dwarf"><a class="header" href="#mind-sharing-dwarf">Mind-Sharing Dwarf</a></h3>
+<p>You are from a community of Mind-Sharing Dwarves.</p>
+<ul>
+<li>the Mind-Sharing trait.</li>
+<li>10 ranks in Control</li>
+<li>10 ranks in Protocol</li>
+<li>10 ranks in one Technical skill</li>
+</ul>
+<h3 id="shambler-community"><a class="header" href="#shambler-community">Shambler Community</a></h3>
+<ul>
+<li>10 ranks in two Technical skills</li>
+<li>10 ranks in Survival</li>
+<li>one Skill Kit</li>
+<li>one weapon (of Cost: Moderate)</li>
+</ul>
+<h3 id="traditional-orcish-community"><a class="header" href="#traditional-orcish-community">Traditional Orcish Community</a></h3>
+<ul>
+<li>10 ranks in Intimidate</li>
+<li>10 ranks in any two Combat skills</li>
+<li>1 weapon and 1 shield</li>
+</ul>
+<h3 id="wood-elf-tribal-commuity"><a class="header" href="#wood-elf-tribal-commuity">Wood Elf Tribal Commuity</a></h3>
+<p>You are from one of the ancient, pre-urban Elven cultures living to the west of the Worldspine.</p>
+<ul>
+<li>10 ranks in Fray</li>
+<li>10 ranks in Ranged Weapons</li>
+<li>10 ranks in Stealth</li>
+<li>10 ranks in Survival</li>
+</ul>
+<h2 id="other-nations"><a class="header" href="#other-nations">Other Nations</a></h2>
+<h3 id="deep-explorer-dwarf"><a class="header" href="#deep-explorer-dwarf">Deep-Explorer Dwarf</a></h3>
+<p>You are a <em>Drahrat</em>—called a &quot;Deep-Explorer&quot; in the Commonwealth.
+You are from a member of a secretive culture that has vanished deep underground.</p>
+<ul>
+<li>10 ranks in Ride</li>
+<li>10 ranks in Survival</li>
+<li>10 ranks in one Technical skill</li>
+<li>a Survival skill-kit, specialized for caves.</li>
+<li>one other skill-kit</li>
+</ul>
+<p>The Cave-Eyes trait is very common, as are <em>day-wraps</em>.</p>
+<p>Since the secrets of the Deep-Explorer Dwarves are left up to your GM, you should consult with them before deciding to play one; they may leave it up to you to describe the culture that your character is from, they might have plans for the Deep-Explorers that you will need to account for, or they may not allow you to play a Deep-Explorer at all.</p>
+<h3 id="protectorate-mudskipper"><a class="header" href="#protectorate-mudskipper">Protectorate Mudskipper</a></h3>
+<p>You hail from a Mudskipper tribe that has joined the Raptor Protectorate.</p>
+<ul>
+<li>10 ranks in one <em>Knowledge</em> skill of the player's choice</li>
+<li>10 ranks in Survival or Athletics</li>
+<li>10 ranks in Protocol</li>
+<li>10 ranks in Art (pick a field)</li>
+<li><em>The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard</em></li>
+<li><em>Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign</em></li>
+</ul>
+<h3 id="mudskipper-tribal"><a class="header" href="#mudskipper-tribal">Mudskipper Tribal</a></h3>
+<p>You hail from one of the independent Mudskipper tribes.</p>
+<ul>
+<li>10 ranks in one <em>Knowledge</em> skill of the player's choice</li>
+<li>10 ranks in Survival</li>
+<li>10 ranks in Ranged Weapons</li>
+<li>10 ranks in Knowledge: Wildlife or Knowledge: Ecology</li>
+<li><em>The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard</em></li>
+<li><em>Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign</em></li>
+</ul>
+<h3 id="raptor-protectorate-ratfolk"><a class="header" href="#raptor-protectorate-ratfolk">Raptor Protectorate Ratfolk</a></h3>
+<ul>
+<li>
+<p>The descendants of Ratfolk who fled Southward from their cousins, settled on the Raptor’s Plane and ultimately allied
+with the Raptors.</p>
+</li>
+<li>
+<p>They settled on the coasts and inland jungles closest to their cousins, and continue to suffer heavy raiding.</p>
+</li>
+<li>
+<p>Inland, they live in large, underground settlements, carved into the sides of rocky foothills.</p>
+</li>
+<li>
+<p>On the shores, where burrowing is impractical, they live in a walled cities of a few thousand.</p>
+</li>
+<li>
+<p>Still socially-inclined and natural traders, they have opened trade with the Commonwealth (and have been surprised to encounter their distant cousins in the Commonwealth’s fleets).</p>
+</li>
+<li>
+<p>They still fish and trade along rivers and shores, although Shaded Sea piracy makes this dangerous.</p>
+</li>
+<li>
+<p>10 Ranks in Protocol</p>
+</li>
+<li>
+<p>10 Ranks in one Combat skill</p>
+</li>
+<li>
+<p>10 Ranks in one Trade Skill</p>
+</li>
+<li>
+<p>one weapon of Cost: Moderate</p>
+</li>
+<li>
+<p>one Skill Kit</p>
+</li>
+<li>
+<p>Special: Emerald Plane Ratfolk don’t gain 1 dot in Common the way most characters do; instead, they gain 1 dot in Protectorate Standard.
+They usually speak Protectorate Ratfolk as a native language.</p>
+</li>
+</ul>
+<h3 id="shade-elf-raider"><a class="header" href="#shade-elf-raider">Shade Elf Raider</a></h3>
+<p>You grew up among the most feared mounted raiders that the Emerald Plains has ever seen.</p>
+<ul>
+<li>10 ranks in one Combat skill</li>
+<li>10 ranks in Ride</li>
+<li>10 ranks in Survival</li>
+<li>one weapon (of Cost: Medium)</li>
+<li>one Survival skill kit.</li>
+<li>the Hardened (witnessing and performing cruelty) neutral trait.</li>
+<li>Special: Shade Elves don't receive one dot in Common the way that most charactesr do.  Instead, they receive one dot in Shaded Sea Common.  They usually speak Keillou (Language Group HHED) natively.</li>
+</ul>
+<h3 id="still-water-skipper"><a class="header" href="#still-water-skipper">Still-Water Skipper</a></h3>
+<p>Most Mudskippers avoid <em>still</em> or <em>stagnant</em> water, which is rumored to erode the mind and sicken the body.
+You hail from an unusual Mudskipper sub-culture that prefers still water.</p>
+<ul>
+<li>10 ranks in one <em>Knowledge</em> skill of the player's choice</li>
+<li>10 ranks in Survival</li>
+<li>10 ranks in Control</li>
+<li>the <em>Improved Null</em> and <em>Disease-Resistant</em> traits</li>
+<li>the <em>Social Stigma (Still-Water)</em> trait</li>
+<li><em>The character does not gain a free dot in Commonwealth Standard.  Instead, they gain a free dot in Protectorate Standard</em></li>
+<li><em>Instead of picking a native language, you gain 3 dots in Mudskipper and 3 dots in Mudskipper Sign</em></li>
+</ul>
+<h3 id="warren-isles-sea-rat"><a class="header" href="#warren-isles-sea-rat">Warren Isles Sea-Rat</a></h3>
+<p>The more sophisticated of the Shaded Sea People, Ratfolk are the shipwrights and sailors of the alliance.
+They are still divided into Clan-oriented settlements, where each Clan consists of several family, each of which will maintain a warren and holdings.
+They are loosely confederated, amongst themselves and with Shade Elves.</p>
+<ul>
+<li>10 ranks in Intimidate</li>
+<li>10 ranks in Profession: Pirate, Profession: Sailer or Profession: Fisher</li>
+<li>10 ranks in one combat skill</li>
+<li>one weapon (of Cost: Moderate)</li>
+<li>one Skill Kit</li>
+<li>Special: Warren Isles Sea-Rats don’t receive one dot in Common the way most characters do.
+Instead, they receive one dot in Shaded Sea Common and one dot in Shaded.
+They commonly speak Warren Isles Ratfolk (language group GR) natively.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/senses-movements-and-special-abilities.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/skills.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/senses-movements-and-special-abilities.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/skills.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

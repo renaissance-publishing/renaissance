@@ -1,0 +1,295 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>City States - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html" class="active"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li class="chapter-item expanded "><a href="../chapters/building-characters.html"><strong aria-hidden="true">29.</strong> Building Characters</a></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">30.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">31.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">32.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">33.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">34.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">35.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">36.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">37.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">38.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">39.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="city-states"><a class="header" href="#city-states">City States</a></h1>
+<h2 id="south-harbor"><a class="header" href="#south-harbor">South-Harbor</a></h2>
+<div class="asside">
+<p>A great port-city built in terraces set into the austere cliffs and slopes of the southern Worldspine, where it descends into the sea.
+The current meeting-place for the Commonwealth Council; also the site of Commonwealth Fleetyard Southarbor, a major site for the Commonwealth Navy.</p>
+<hr />
+<p>Population: 1,200,000</p>
+<p>Common Languages: Weal, Heartland Gnoll, Shipright Hud, High Kobold, Cqik</p>
+<p>Common Races: Humans, Gnolls, Dwarves (Shipright Dwarves), Halflings, Ratfolk</p>
+<p>Location: southern Worldspine</p>
+<p>Industries: ship-building, trade, artisenry</p>
+</div>
+<h2 id="crossroads"><a class="header" href="#crossroads">Crossroads</a></h2>
+<div class="asside">
+<p>The joined cities of <em>Perseverance</em> (above ground) and <em>Triumph</em> (below).
+Together they form the City-Province of Crossroads, the largest and wealthiest city in the known world.</p>
+<hr />
+<p>Population: 600,000 (Perseverance), 1,700,000 (Triumph), 2,300,000 combined</p>
+<p>Common Languages: High Kobold, Weal, Heartland Gnoll, Cqik, Rak, <em>more</em></p>
+<p>Common Races: Kobolds, Ratfolk, Gnolls, Humans, Halflings, <em>more</em></p>
+<p>Location: central Worldspine</p>
+<p>Industries: trade, iron-work, mage-craft</p>
+</div>
+<p>Crossroads is situated in a pass in the middle of the Worldspine, which connects Heartland and Westward provinces.
+Crossroads consists of two &quot;joined&quot; cities, one above-ground and one below.
+Perseverance developed from a travellers-rest founded in the past during the Commonwealth's westward expansion more than 700 years ago, and its present construction is much like the large City-Centers of Heartland province.
+Beneath Perseverance is Triumph, a massive underground city constructed by the Kobold refugees and their descendants starting in CY 635.</p>
+<h3 id="the-origin-of-perseverance"><a class="header" href="#the-origin-of-perseverance">The Origin of Perseverance</a></h3>
+<p>Perseverance developed from a traveller's-rest constructed in the midst of the largest pass through the central Worldspine.
+As traffic through the pass increased, it was expanded to include a few permanent structures — an inn, a market, a few houses, and later, a garrison.
+It eventually grew into a major trade-post.
+A rock-fall in CY 197 destroyed several of the older buildings; the city was rebuilt, in a larger and more modern style, between then and CY 201.
+Perseverance has continued to prosper; as the Commonwealth spread west, as a swath of land west of the Worldspine was incorporated into the commonwealth, and especially as the Haven Isles where settled, trade through the Worldspine has only increased — and with it, the prosperity of Perseverance.</p>
+<p>Even so, feeding and watering a city in the midst of a mountain pass is difficult, and this has limited how large Perseverance could become.</p>
+<h3 id="the-origin-of-triumph"><a class="header" href="#the-origin-of-triumph">The Origin of Triumph</a></h3>
+<p>Triumph is a massive underground city constructed by Kobold refugees starting in CY 635.
+In CY 611, the Eastern Kingdoms began a horrific purge of the Kobold populations within their borders; this produced a massive Kobold exodus.
+While significant numbers of Kobolds settled in the Dragonshire and Heartland, many more continued west.
+Upon reaching the Worldspine, thousands of them elected to stop in Perseverance and build burrows in the surrounding area, rather than continuing on through the pass into Westward Province (and coming within reach of the Shaded Sea).
+The Kobold population grew and prospered; the children of the refugees who settled around Perseverance where apprenticed to the tradespeople of the city, where they learned modern crafts — including the Commonwealth's sophisticated masonry.
+As their community became skilled and wealthy — and as their numbers rapidly grew — they felt the need for a larger city.
+In CY 629, the Kobold warrens came together, pooled their resources, and began to plan; in CY 635 excavation began.</p>
+<h3 id="perseverance-and-triumph-today"><a class="header" href="#perseverance-and-triumph-today">Perseverance and Triumph Today</a></h3>
+<p>Today, Perseverance is a walled city built in the center of a mountain pass running east-west through the central Worldspine.
+The pass is walled on either end, with massive gates in the center of the walls.</p>
+<p>Westward Way is a massive, open market that runs through the center of the town, from one wall to the other; it is wide and cobbled, with travellers' riding down the center while crowds peruse the many businesses along its length.
+In the center of the city sits Crossroads Plaza, a circular plaza where Westward Way opens wide enough that it touches the opposite walls of the narrow valley — almost 500 strides across.
+The Plaza is the busiest stretch of the 'Way: it's ringed with inns, public houses, restaurants, shops, traders' stalls, and workshops; and it's filled with a diverse sampling of the races and peoples of the world on their way through the Worldspine.
+In the center is the Spiral Way, a massive, twinned-spiral ramp that descends into the depths, leading to Perseverance below; the two entrances wrap around a great fountain, and are surrounded on the outside by a small sculpture garden and reflecting pools.</p>
+<p>High, cold and dry, the city has had to deal with both earthquake and fire over the centuries.
+The city makes heavy use of iron, stone and brick in its construction, and minimizes the use of wood, plaster and paint.
+Building are also built low, and buttressed despite their low stature; arches are heavily reinforced, and carefully designed to endure shifting, shaking, lateral stress and fire.
+The city also contains a number of open stone paths, high stone walls, and carefully-placed water-courses and sewers, all designed to make fires easier to fight and contain.
+The city commonly uses statues and tile mosaic for decoration — the better to survive wear and disaster.</p>
+<p>Triumph is located almost 800 strides beneath Perseverance.
+It sits in a massive, roughly circular artificial cavern about 65 strides high and almost a third of a demarc across [about 1.3km].
+The city was founded by Kobolds, and they remain a majority of the population — but they have opened their city to all, and the city has populations of countless other races and peoples.
+Kobold culture in the East was highly social and communal, centering around burrows occupied by extended families; these traditions and values shaped how the Kobolds built their great city.
+Triumph is broken into an irregular grid of city-blocks, each of which is built around a central spire; the spire both supports the rough high above, and has conduits that serve to carry air and water from the surface into the city.
+Homes and work-spaces surround the central spires.
+The culture of the Kobolds of triumph remains highly familial and communal; private spaces — ranging from private rooms in homes and private homes in city-blocks — tend to be small, and shared and public spaces tend to be large.
+A block's public spaces — and especially their spires — are a point of pride; they are often masterfully and arfutlly carved, lavishly decorated, and kept immaculately clean and in excellent repair.
+Spires are often decorated with elaborate carvings and sculpture.</p>
+<p>A tough mass of granite forced the city's excavators to dig the north half lower than the south, which has resulted in the modern city consisting of a <em>low side</em> to the north and a <em>high side</em> to the south.
+The floor of the lower side is 6sd lower than the south, while the ceiling is 12sd lower — and consists of the largely unfinished mass of iron and stone they had to tunnel beneath.
+The low side is smaller than the southern one, as the division between the two is north of the center of the city, and the outer edge of the low side is irregular and hemmed in by tough stone.
+The low side is lowest near the terrace (described below), and slopes slightly up to the north; the high side is highest at the terrace, and slopes slightly down to the south.</p>
+<p>The low side contains many of city's public buildings: it contains the city-seat, the court-house, two of the city's five libraries, two of its four theatres — including the great Ampitheater of the Orator at the Crossroads, the second-largest theatre in the known world — and the city's garrison.
+The high side contains more of the city's markets, including the Market of the Well, a market that surrounds the heavily-fortified well-and-cistern to the south of the Spiral Way.
+The boundary between the two consists of a wall and balcony that runs from east to west, roughly a city-block to the north of the lower terminus of the Spiral Way in the center of the city.
+An great pavilion runs along the top of this balcony, while the lower part is faced with building-fronts broken by arcades and public squares.</p>
+<p>The name <em>Crossroads</em> for the twinned cities is literal; running at a slight angle from north-to-south is the Kobolds' Way, a great highway that runs through city and into the underground.
+The Highway picks up immediately to the west of the Spiral Way; it is supported by a great colonnade as it runs to the north over the <em>low side</em>, and by terraced berms to the south, where it passes slightly uphill while the rest of the High-Side slopes down beneath it.</p>
+<p>The city also contains the Triumph Gallery, a great gallery situated around the Spiral Way at the top of the cavern.
+The Spiral Gallery has low walls — to ensure that the small Kobolds can see over its walls — but uses closely-placed wrought-iron bars to preserve the safety of viewers.
+The Spiral Gallery provides a stunning view of one of the most breathtaking sights in the Commonwealth.
+The Spiral Way itself provides an impressive view: its outer walls are solid, to preserve the safety of travellers, but it has closely-spaced narrow windows to provide a frequent view onto the stunning city.</p>
+<h3 id="the-garrison"><a class="header" href="#the-garrison">The Garrison</a></h3>
+<p>Crossroads has two great garrisons.
+One is in Low-Side of the city of Triumph below, and one is built outside of the western wall of the city of Perseverance above.
+The Perseverance Garrison is the larger of the two — both because incursion from the west has historically been the greater danger, and to reduce the amount of air that needs to be channelled into Triumph.</p>
+<p>Perseverance's outer walls have suffered more damage from weathering, fire and earthquake than they have from invading armies; they have long been built for durability and low-maintenance more than they have to repulse attackers.
+Perseverance Garrison sits between Perseverance's western wall, and its own massive Garrison Wall — a much heavier fortification designed to repulse a potential invasion from the Shaded Sea.</p>
+<h3 id="governance"><a class="header" href="#governance">Governance</a></h3>
+<p>Each city has its own government; they also have combined representation on the Commonwealth Council as Crossroads.</p>
+<p>Perseverance is run by a City Council.
+It has 25 seats: 2 are the Guild's Seats, held by the local Trader's Guild that first took responsibility for maintaining the trader's-rest that developed into Triumph; 3 are the Oligarch's Seats, each one held by a prominent local family; and 20 are the Elected Seats, popularly elected by the occupants of the city.</p>
+<p>Elections in Perseverance are complicated.
+Each seat corresponds to a certain portion of the city, but many also allow certain outsiders to vote in the district; for example, the Gnolls' District consists of several city-blocks on the eastern edge of the city with a large Gnollish population, and the district also allows any Gnoll living anywhere else in the city to vote for their council seat.
+This means that councilors may compete for votes throughout the city, rather than just in their district.</p>
+<h2 id="prosperity"><a class="header" href="#prosperity">Prosperity</a></h2>
+<div class="asside">
+<p>It would be the largest and wealthiest of Heartland's trade cities, if it weren't an independent city-province.
+Also known for the quality of its universities, workshops, and guilds.</p>
+<hr />
+<p>Population: 1,400,000</p>
+<p>Common Languages: Weal, Heartland Gnoll, Cqik, Autumn Caravaner, High Kobold</p>
+<p>Common Races: Humans, Gnolls, Ratfolk, Halflings, Kobolds</p>
+<p>Location: Southeast Heartland</p>
+<p>Industries: trade, artisenry, universities</p>
+</div>
+<blockquote>
+<p>Track: It tells you a bit about the difference between Heartland and the Haven Isles that Union isn't a city-province but Prosperity is.</p>
+<p>Katarina: That Haven Provence never met a layer of bureaucracy it didn't like?</p>
+<p>Track: …sure, that.</p>
+</blockquote>
+<h2 id="fortress-island"><a class="header" href="#fortress-island">Fortress Island</a></h2>
+<div class="asside">
+<p>Fortress Island is the Commonwealth's promise to the Raptor Protectorate, and a threat to the Shaded Sea and the Goblin Empire.
+It is built on one of the Trio Islands in the Jade sea (the other two being claimed by Foam-and-Cloud).
+Originally planned to be a single star-fort on a large island in the Jade Sea, a series of smaller &quot;flanking&quot; fortifications, support installations, temporary outposts and civilian settlements have been built.
+Today, it is a massive, sprawling web of fortifications, outposts, and walled manors built into the low coast of the island, hosting a large permanent population, a massive Commonwealth garrison, and a formidable fleet — and it is still far from finished.</p>
+<hr />
+<p>Population: varies: 450K permanent, 550K construction, variable military (average 760K)</p>
+<p>Common Languages: <em>many</em></p>
+<p>Common Races: <em>many</em></p>
+<p>Location: One of Trio Islands in the Jade Sea.</p>
+<p>Industries: military construction, artisenry, soldiery, sailing, agriculture</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/notable-in-haven.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/member-peoples.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/notable-in-haven.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/member-peoples.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
