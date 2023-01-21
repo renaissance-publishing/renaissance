@@ -30,7 +30,7 @@ The city hosts several prominent universities, including one of the Dragonshire'
 
 [[note]]
 |
-|Stormsword's Rest is described in much more detail in the [Example Setting: Stormsword's Rest](41-setting-stormswords-rest.md) chapter.
+|Stormsword's Rest is described in much more detail in the [Example Setting: Stormsword's Rest](setting-stormswords-rest.md) chapter.
 
 ## Major Spirit: The Bullrush God
 

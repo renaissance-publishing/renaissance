@@ -1,7 +1,7 @@
 # Items
 
 Here we present the rules for items – pricing them, acquiring them, and creating them.
-We also list a few example items for each cost category; we have longer lists for [mundane cultural items](30.1-mundane-items.md), [combat equipment](30.2-combat-equipment.md), [magical items](30.3-magic-items.md), and [chemicals](30.4-alchemical-items.md); and rules for skill kits.
+We also list a few example items for each cost category; we have longer lists for [mundane cultural items](mundane-items.md), [combat equipment](combat-equipment.md), [magical items](magic-items.md), and [chemicals](alchemical-items.md); and rules for skill kits.
 
 ## Basic Rules
 

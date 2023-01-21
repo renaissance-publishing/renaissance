@@ -9,28 +9,27 @@ When players create their characters, they should proceed through the following 
   - 1 dot in Commonwealth Standard
   - 1 Luck
   - up to 2 Milestones
-- Pick your **Race**
-  - Races are listed in *Races*.
+- Pick your [**Race**](races.md)
 - Choose your **Aptitudes**
   - Each of your aptitudes begins with a rating of 15.
   - First, add your racial Aptitude modifiers.
   - Then, distribute +20 points between your various aptitudes.
   - Then, distribute -5 points between your various aptitudes.
-- Pick your **Background**
+- Pick your [**Background**](backgrounds.md)
   - The bonuses granted by your Background “apply” now.
 - Spend your **creation points (CP)**
   - Player-characters get 800 CP
-  - Pick a wealth level (see table)
-  - Skill Points:
+  - Pick a [wealth level](wealth-income-and-lifestyles.md) (see table)
+  - [Skill](skills.md) Points:
     - 30 ranks or fewer → 1 CP
     - 31 ranks or more  → 2 CP
     - Proficiency Skills get free proficiencies at 10 / 30 / 50 / 70 ranks; additional proficiencies cost 5 CP
     - Specialization: 5 CP
-  - Trait: 10 CP
-  - Class: 10 CP
-  - Power: 10 CP
+  - [Trait](traits.md): 10 CP
+  - [Class](classes.md): 10 CP
+  - [Power](powers.md): 10 CP
   - +1 Luck: 15 CP
-  - Items: see table
+  - [Items](items.md): see table
     - 1 CP → minor-cost item
     - 5 CP → moderate-cost item
     - 10 CP → major-cost item
