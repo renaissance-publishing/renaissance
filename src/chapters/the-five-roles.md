@@ -31,6 +31,7 @@ However, it's also important to have *several* things that your character is *go
 This is the flip side of the five roles: any one role is only going to be picked as the best solution to the current problem about a fifth of the time!
 
 Parties should usually include good coverage of all of the roles — if they don't, they'll find that they're missing important capabilities.
+(Parties should probably also ensure that they have the two "specialties" covered as well; there will certainly be times when having a good woodland navigator or doctor can make the difference between life and death!)
 
 It's worth repeating that this may be quite an adjustment for people coming from other fantasy RPGs, who are used to thinking of characters primarily in terms of combat roles.
 Here, we intend "rich, socialite noble with no combat skills" *to be a player role,* as valid, effective, and important as "combat-powerhouse knight."
@@ -58,12 +59,8 @@ Here, we intend "rich, socialite noble with no combat skills" *to be a player ro
 |Despite his exceptional ability to impersonate people (and his acceptable ranks in Sleight of Hand), he makes a poor infiltrator, because he doesn't have ranks in Stealth, and doesn't have any infiltration-focused powers.
 |
 |Like many wealth-focused provisioners, River's ability to provide for the party diminishes once he leaves his home city; at the very least, he has to convert some of his wealth to Trade Goods or currency.
-|
 
-
-[[example]]
-|
-|### Example: Lady Katarina
+[[example | Example: Lady Katarina]]
 |
 |Lady Katarina the Ratfolk Noble (and secret crime-lord) is trying to step into *four* of the roles — and she's mostly getting away with it, though not without some important drawbacks.
 |
@@ -81,8 +78,6 @@ Here, we intend "rich, socialite noble with no combat skills" *to be a player ro
 |And, of course, deploying Scour and Tar in combat is a risky gambit, especially when throwing them; while the damage she'll cause if she covers three or four enemies in Scour will be massive, she may also put her allies at risk — or even herself, on a critically bad throw.
 |
 |It should be noted that there's nothing wrong with Katarina's attempt to fit into four of the roles, as long as she accepts the trade-offs she made to do it; and there's nothing wrong with the high-risk, high-reward strategy she's trying to deploy in combat, as long as she accepts the risks associated with it.
-|
-
 
 [[example]]
 |
@@ -113,8 +108,6 @@ Here, we intend "rich, socialite noble with no combat skills" *to be a player ro
 |(He will be in trouble indeed if his opponents are armed with guns, whose extremely high AP can negate even his armor.)
 |His wealth and title also become more difficult to draw on once he leaves the Commonwealth — the title of Lord-General may be all but meaningless in the wilds of the Ruby Plane.
 |He also has the *Distinctive* trait, representing both his bronze arm and his far-reaching reputation; this can make him as much a liability as a strength in an intrigue game (at the very least, it requires the party to plan around the need to keep the general stashed somewhere out-of-sight, since he is almost incapable of stealth or deceit).
-|
-
 
 ## Impact on GMs
 
@@ -136,3 +129,18 @@ This also means that you might have to work hard to shake some D&D instincts:
   - Some games that might work as Pathfinder games don't work as Renaissance games.
   - It's usually a good idea to focus prep time less on specific fights and maps and more on designing a good opponent.
   - Renaissance games work well with a *live opponent* who's working against the party in response to what they do; that's easier to do if you have a good grip on what the opponent's goal is, what their resources are, and what their history and motivation is.
+
+## Building a Character
+
+For advice on each of the rolls or specialties, see the following chapters:
+
+- **Combatant:** winning (or just surviving) combat encounters.
+- **Analyst:** understanding clues, providing analysis, and helping the party figure out what's going on and what to do next.
+- **Socialite:** persuading, lying, bullying, and using social manipulation to get what the party needs, provide cover, find nonviolent solutions to problems, and more.
+- **Infiltrator:** using stealth, athletics, unique powers and special movement-modes to get into places where opponents don't want you to be — and get out without being detected.
+- **Provisioner:** using wealth, social, organization access, or craft skills to acquire things that the party needs.
+
+- [Combatant](building-a-combatant.md)
+- [Analyst](building-an-analyst.md)
+- [Socialite](building-a-socialite.md)
+- [Healer](building-a-healer.md)

@@ -80,7 +80,10 @@
 
 - [What Is an Adventure](chapters/what-is-an-adventure.md)
 - [The Five Roles](chapters/the-five-roles.md)
-- [Building Characters](chapters/building-characters.md)
+  - [Building a Combatant](chapters/building-a-combatant.md)
+  - [Building an Analyst](chapters/building-an-analyst.md)
+  - [Building a Socialite](chapters/building-a-socialite.md)
+  - [Building a Healer](chapters/building-a-healer.md)
 - [Adventures](chapters/adventures.md)
 - [Running Games](chapters/running-games.md)
 - [Common Hazards](chapters/common-hazards.md)

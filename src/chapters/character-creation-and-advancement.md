@@ -281,14 +281,11 @@ Individual characters can earn *bonus* rez under certain circumstances,
 and can suffer a rez penalty under others; consult the following list
 for examples.
 
-  - Character achieved a major success pertaining to one of their
-    motivational goals: +2 Rez
-  - Character suffered a major failure pertaining to one of their
-    motivational goals: -2 Rez
-  - Strong technical play: +1 Rez per instance.
-  - Good role-play: +1 Rez per instance.
-  - Help and Support: +1 to +5 Rez. (No wise GM is above bribing their
-    players to help with book-keeping, drawing maps or hosting.)
+- Character achieved a major success pertaining to one of their motivational goals: +2 Rez
+- Character suffered a major failure pertaining to one of their motivational goals: -2 Rez
+- Strong technical play: +1 Rez per instance.
+- Good role-play: +1 Rez per instance.
+- Help and Support: +1 to +5 Rez. (No wise GM is above bribing their players to help with book-keeping, drawing maps or hosting.)
 
 Traits and Milestones are another common source of reward (or
 punishment, in the case of a negative trait). (Not everything that earns
@@ -342,31 +339,19 @@ great spirit’s favor, which could be a powerful benefit indeed.
 
 ## NPCs and Followers
 
-NPCs and Followers use slightly different rules. As opposed to Player
-Characters (those characters that are controlled by the Players),
-Non-Player Characters are controlled by the GM and used to populate the
-world. Most NPCs will not have complete statistics; instead, they will
-only have stats appropriate to their role, such as a shop-keeper only
-having a Barter skill, a Protocol skill and a certain number of Trade
-Goods. “Major NPCs” are those that are prominent in a campaign — a
-friendly noble who gives the players their mission, for example, or the
-arch-villain of the campaign. Finally, Followers are “friendly”
-characters associated with a player, such as an assistant or helper. It
-is generally advised that players be allowed to control their Followers,
-although the GM may prevent a Player from having a Follower do something
-completely unreasonable (like mortally wounding themselves, or giving
-the Player Character all their material wealth.)
+NPCs and Followers use slightly different rules.
+As opposed to Player Characters (those characters that are controlled by the Players), Non-Player Characters are controlled by the GM and used to populate the world.
+Most NPCs will not have complete statistics; instead, they will only have stats appropriate to their role, such as a shop-keeper only having a Barter skill, a Protocol skill and a certain number of Trade Goods.
+“Major NPCs” are those that are prominent in a campaign — a friendly noble who gives the players their mission, for example, or the
+arch-villain of the campaign.
+Finally, Followers are “friendly” characters associated with a player, such as an assistant or helper.
+It is generally advised that players be allowed to control their Followers, although the GM may prevent a Player from having a Follower do something completely unreasonable (like mortally wounding themselves, or giving the Player Character all their material wealth.)
 
-The GM does not need to follow the character-creation rules to build
-NPCs; abilities and skills can be freely assigned appropriate to the
-NPC’s role. The following restrictions apply to NPCs and followers:
+The GM does not need to follow the character-creation rules to build NPCs; abilities and skills can be freely assigned appropriate to the NPC’s role.
+The following restrictions apply to NPCs and followers:
 
-  - Major NPCs receive 1 Luck for free like PCs, but cannot purchase
-    additional Luck.
-  - Minor NPCs do not receive Luck, cannot purchase Luck, and start with
-    only 10 in each Aptitude.
-  - Followers do not receive Luck, cannot purchase Luck, and receive a
-    lower number of Creation Points. The feature that is granting a
-    Follower will specify how many Creation Points they receive, and
-    might specify other limits as well.
+- Major NPCs receive 1 Luck for free like PCs, but cannot purchase additional Luck.
+- Minor NPCs do not receive Luck, cannot purchase Luck, and start with only 10 in each Aptitude.
+- Followers do not receive Luck, cannot purchase Luck, and receive a lower number of Creation Points.
+  The feature that is granting a Follower will specify how many Creation Points they receive, and might specify other limits as well.
 
