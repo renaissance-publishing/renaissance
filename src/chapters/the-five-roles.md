@@ -143,4 +143,7 @@ For advice on each of the rolls or specialties, see the following chapters:
 - [Combatant](building-a-combatant.md)
 - [Analyst](building-an-analyst.md)
 - [Socialite](building-a-socialite.md)
+- [Infiltrator](building-an-infiltrator.md)
+- [Provisioner](building-a-provisioner.md)
+- [Survivalist](building-a-survivalist.md)
 - [Healer](building-a-healer.md)
