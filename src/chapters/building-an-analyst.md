@@ -93,7 +93,7 @@ Your job, as an analyst, is to provide this kind of information, and your knowle
 Sometimes, the GM will tell you things that you just *know*, without requiring you to explicitly ask a question or roll a check; after all, if a character has *basic competence* in a skill — that is, 10 ranks in a skill — then they have access to *common knowledge* associated with that skill.
 
 Other times, however, you'll need to *actively* ask the GM questions, and actively roll checks to find out what your character knows; always keep in mind that your character might know more about a given subject than the GM told you up-front.
-The GM might not even tell you that you *can* roll a check or *might* know more; this means that you need to be fairly active.
+The GM might not even tell you that you *can* roll a check or *might* know more; you need to be proactive, on the lookout for times when your skills might allow you to gain more information or make connections.
 
 Try to keep track of what bits of information the party has, and what other pieces of information that the party *needs*, and look for ways that you can answer those hanging questions.
 (In investigation-themed games, parties can hang because they either don't have an analyst, or the analyst isn't actively tackling open questions and turning them into answers.)
@@ -106,7 +106,7 @@ If you're an analyst, you might have good INT; remember that you can always just
 Of course, you shouldn't be overbearing.
 Just because you have all the expertise, doesn't mean you get to be the boss.
 Just because you have a plan you like, doesn't mean the rest of the party has to agree to it.
-Just because you need some piece of information, doesn't mean someone else has to go get it for you.
+And just because you need some piece of information, doesn't mean someone else has to go get it for you.
 
 ### Research and Experimentation
 
@@ -116,7 +116,7 @@ Being an analyst is likely to involve time in libraries, labs, and workshops.
 
 Analysts need someone to provide them with clues and information to *analyse*: they depend on *Infiltrators* to get into interesting places and get out with interesting things; on *Socialites* to use their social skills to get information out of people; and on *Provisioners* to buy, bribe, or extort secrets and treasures that can't be acquired any other way.
 
-Analysts also often need resources — access to libraries, workshops and laboratories.
+Analysts also often need resources — access to libraries, workshops, and laboratories.
 They might depend on a *Provisioner* to get them these resources.
 
 And, of course, once an *Analyst* has a strong hypothesis or workable plan, they might need a "doer" to carry it out; this might be an *Infiltrator* quietly stealing a hidden treasure or dispatching a troublesome noble, a *Socialite* running a smear campaign or blackmailing a noble, or — last, but by no means least — a *Combatant* sorting an enemy out.
