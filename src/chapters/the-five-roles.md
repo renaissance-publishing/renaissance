@@ -134,12 +134,6 @@ This also means that you might have to work hard to shake some D&D instincts:
 
 For advice on each of the rolls or specialties, see the following chapters:
 
-- **Combatant:** winning (or just surviving) combat encounters.
-- **Analyst:** understanding clues, providing analysis, and helping the party figure out what's going on and what to do next.
-- **Socialite:** persuading, lying, bullying, and using social manipulation to get what the party needs, provide cover, find nonviolent solutions to problems, and more.
-- **Infiltrator:** using stealth, athletics, unique powers and special movement-modes to get into places where opponents don't want you to be — and get out without being detected.
-- **Provisioner:** using wealth, social, organization access, or craft skills to acquire things that the party needs.
-
 - [Combatant](building-a-combatant.md)
 - [Analyst](building-an-analyst.md)
 - [Socialite](building-a-socialite.md)
