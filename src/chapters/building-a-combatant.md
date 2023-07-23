@@ -98,12 +98,17 @@ Developing a gimmick can be fun, and powerful, though can be difficult to work t
 	
 ## Combining Combat with Other Roles
 
-	Combatants as pure combat might seem powerful at first glance, and effective in their own way, though Combat is suitable for combination with almost any other of the five archetypes, depending on the concept behind your combatant.
-	Analyst might seem too 'nerdy' for most combatants, but there are many examples of warrior-philosophers in the world. Many pulp tales of grand adventure have 'adventure scientists' who are effectively this, able to fight off the dangers of the world, while scientifically cataloguing everything around them. Not to mention the inherent Geometric knowledge required for siege engines, the metalurgical knoweldge needed for blacksmithing and armourers, or the animal care know-how needed for cavalry fighters.
-	Socialites are an obvious combination with Combatants, after all, a mercenary has to learn how to sell their own services. Or a commanding officer to control and govern the soldiers under their care. This travels in th eother direction, too. A flashy swashbuckler or entertaining acrobat would be nothing without their abilities to entertain and bring a crowd through their stories.
-	Infiltrators might not necessarily mesh well with heavy armour, but being able to sneak about, even socially through disguise, can be useful to a combatant, allowing them to be ready at a moment's notice, right there for the party whenever they're needed. It's notably a weakness of some of the example characters that they must be hidden away and kept quiet, after all.
-	Provisioner can be a useful secondary role for a combatant, and vice-versa. After all, swordsmanship is a sign of nobility and wealth in much of the emerald isle. Alternatively, a provisioner's tools could be pressed into service as weapons themselves.
-	Survivalists need to know how to survive, as do soliders on the road, or mercenaries down on their luck. Foraging and finding shelter are universal skills for many combatants, and thus, it is an effective mix. Healers, too, with commonwealth combat medics being in long supply. The knowledge of anatomy required for healing is also useful in ending a life, and knowing where or how to strike.
+Combatants as pure combat might seem powerful at first glance, and effective in their own way, though Combat is suitable for combination with almost any other of the five archetypes, depending on the concept behind your combatant.
+
+Analyst might seem too 'nerdy' for most combatants, but there are many examples of warrior-philosophers in the world. Many pulp tales of grand adventure have 'adventure scientists' who are effectively this, able to fight off the dangers of the world, while scientifically cataloguing everything around them. Not to mention the inherent Geometric knowledge required for siege engines, the metalurgical knoweldge needed for blacksmithing and armourers, or the animal care know-how needed for cavalry fighters.
+
+Socialites are an obvious combination with Combatants, after all, a mercenary has to learn how to sell their own services. Or a commanding officer to control and govern the soldiers under their care. This travels in th eother direction, too. A flashy swashbuckler or entertaining acrobat would be nothing without their abilities to entertain and bring a crowd through their stories.
+
+Infiltrators might not necessarily mesh well with heavy armour, but being able to sneak about, even socially through disguise, can be useful to a combatant, allowing them to be ready at a moment's notice, right there for the party whenever they're needed. It's notably a weakness of some of the example characters that they must be hidden away and kept quiet, after all.
+
+Provisioner can be a useful secondary role for a combatant, and vice-versa. After all, swordsmanship is a sign of nobility and wealth in much of the emerald isle. Alternatively, a provisioner's tools could be pressed into service as weapons themselves.
+
+Survivalists need to know how to survive, as do soliders on the road, or mercenaries down on their luck. Foraging and finding shelter are universal skills for many combatants, and thus, it is an effective mix. Healers, too, with commonwealth combat medics being in long supply. The knowledge of anatomy required for healing is also useful in ending a life, and knowing where or how to strike.
 
 ## Playing a Combatant
 
