@@ -1,0 +1,321 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Building a Socialite - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/building-a-combatant.html"><strong aria-hidden="true">28.1.</strong> Building a Combatant</a></li><li class="chapter-item expanded "><a href="../chapters/building-an-analyst.html"><strong aria-hidden="true">28.2.</strong> Building an Analyst</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-socialite.html" class="active"><strong aria-hidden="true">28.3.</strong> Building a Socialite</a></li><li class="chapter-item expanded "><a href="../chapters/building-an-infiltrator.html"><strong aria-hidden="true">28.4.</strong> Building an Infiltrator</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-provisioner.html"><strong aria-hidden="true">28.5.</strong> Building a Provisioner</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-survivalist.html"><strong aria-hidden="true">28.6.</strong> Building a Survivalist</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-healer.html"><strong aria-hidden="true">28.7.</strong> Building a Healer</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">29.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">30.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">31.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">32.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">33.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">34.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">35.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">36.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">37.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">38.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="building-a-socialite-being-a-face-for-the-party"><a class="header" href="#building-a-socialite-being-a-face-for-the-party">Building a Socialite: Being a Face For the Party</a></h1>
+<div class="asside">
+<div class="asside-title">Rake's Bet</div>
+<p>The human male sat in the centre of the tavern, a blue coat covered in brocade stitching that flashed and flickered in the torchlight.
+In slender hands, he carefully adjusted and rolled out the tarot cards before himself.
+Forming a stack, held on edge, pairs of cards facing inwards, glittering with faded golden paint.</p>
+<p>&quot;Now, darlin',&quot; he began, his accent from far to the northeast, matching the old signet ring hanging from his left pinky finger.
+&quot;Remember what you bet, here.
+Free Ale for the evening, for me and my companions, all I have to do is find your card&quot;
+He said, his voice measured, controlled.
+Though in such a way that it seemed casual and calm.</p>
+<p>Rake smirked gently, and with a flick of both wrists, drove the cards together again, pulling the halves of the tarot deck apart, baring a single card.
+The young woman before Rake sighed wearily, shaking her head.
+She slammed down a mug of ale each for the six companions before her.
+Rake smiled softly, and took her hand.
+Gently, deliberately, he placed a single gold piece in her palm.
+&quot;Now, then, why don't you go and get us a bottle of whiskey?
+And then, tell us what's going on around town?&quot; he asked, with a dashing smirk.</p>
+</div>
+<p>Renaissance is an incredibly flexible system, which allows for numerous methods of getting into, out of, and around trouble. It is also a richly varied world, which allows and encourages debate about it's conceits and character backgrounds. A Socialite character will have the essential skills and personal traits in order to engage in these conversations, whether to gather intelligence, barter for cheaper goods and equipment, or even to settle issues between opposing groups.</p>
+<h2 id="your-socialites-concept"><a class="header" href="#your-socialites-concept">Your Socialite's Concept</a></h2>
+<p>A Socialite can be a nebulous role, perhaps too nebulous. It can be difficult, though not impossible to have a skill-based concept for the role. It may be better to instead focus on your character's background. Whether that be a wheeling-dealing marketeer with Barter and Persuasion (and an eye for a deal), or a soldier or officer in the commonwealth military, with a wealth of experience using Intimidation and dealing with Protocol.</p>
+<p>Effectively, one should have an idea about HOW their socialite will want to interact with people, and WHAT makes them choose such a path. This can come from their Profession skill, as well. Profesions such as 'Con Artist', 'Courtesan' or even 'Lawyer' or 'Mercenary' can all have useful effects to consider on your character's approach to social situations, and thus the skills they will need.</p>
+<p>Most notably, or limitingly, languages can and will be an issue for Socialites. While this can be somewhat assauged with items (such as a toque of speaking), remembering that you have specific language groups according to your race is important. </p>
+<h2 id="matching-a-socialite-to-a-game"><a class="header" href="#matching-a-socialite-to-a-game">Matching a Socialite to a Game</a></h2>
+<p>A socialite's greatest limiting factor is their ability to be understood by the locals. While everyone in the Commonwealth has a passing familiarity with Common, this rule of thumb won't hold true for adventures into the depths of the Ruby Isle. All of the skill points in the world will not help you if you cannot make yourself understood.</p>
+<p>So building for a single arc or single-session 'one shot' game will be reasonably easy, just pick someone local to the area. Making a suitable socialite for longer-term, wider-spanning games can be more awkward, and will work best with a character with many languages, or skills and traits in learning new languages.</p>
+<p>Remember that talking your way out of trouble is not a 'problem' in this game, though, sometimes, the trouble at hand will not listen. Make sure that your party is at least aware if you choose to focus entirely on chatting, and not so much on survival, or combat skills.</p>
+<h2 id="building-a-socialite"><a class="header" href="#building-a-socialite">Building a Socialite</a></h2>
+<p>If your character is great at Socialising:</p>
+<ul>
+<li>An appropriate profession skill at at least 50.
+For example:
+<ul>
+<li><em>Lawyer</em>: With high protocol and persuasive talents, as well as the knowledge of how to obtain local statutes and laws.</li>
+<li><em>Entertainer</em>: High Persuasion and Deception can be useful in artfully weaving a narrative, playing an instrument or doing 'magic' tricks.
+Also useful for swashbuckler-types, with their arful, entertaining fighting.</li>
+<li><em>Clerk</em>: Protocol and Barter skills allow a skilled clerk to make a tidy side profit through corruption, or instead work through the regulations and laws to cut through red tape.</li>
+<li><em>Enforcer</em>: As much of a bodyguard's job is to simply stand there and flex, as it is to actually engage in fights.
+High intimidation and deception work well in the criminal underground.</li>
+<li><em>Beggar</em>: Any skill set will work well with this profession.  Persuasion to spin a convincing tale of woe, Deception to hide your true goals, Intimidation to scare off other beggars from your corner, Barter to argue up your donations, or even Protocol to convince the guards that you're allowed to beg here. </li>
+</ul>
+</li>
+<li>At least two social skills at 70.
+These will represent the main ways in which your socialite will interact with other characters.
+At least one other social skill at 50. Just in case.</li>
+<li>An appropriate class for your character:
+<ul>
+<li><em>Member</em>: for organisational help.
+Certain organisations will allow helpful allies to serve as translators, or even have the appropriate material and manpower to enforce agreements reached.</li>
+<li>Officer: As an officer in the military, you will be able to call on your army of choice for support and assistance.</li>
+<li>Priest: This class can help with a religious-themed character, or cult leader type, with much the same benefits as the above.</li>
+</ul>
+</li>
+<li>25 SAV or more, important to get the highest skill levels for social skills as is possible
+Alternatively, a High-strength race and the 'Big Guy' trait, allowing you to base at least Intimidation off of your STR</li>
+<li>Something to bargain with.
+This can be important, as occasionally you will need leverage over someone, but not have any way to obtain such leverage yet.
+<ul>
+<li>Wealth can be useful, though may need transferrence to Trade Goods, or assorted baubles and shinies. It can be dangerous to flash around, though.</li>
+<li>A Title can be used effectively, though loses power quickly when outside the lands where it is recognised.</li>
+<li>A Craft, or Art skill, or trade can be useful to have, in order to offer assistance or products. Though, this will require time and effort on your part.</li>
+</ul>
+</li>
+<li>Optionally: Disguise at least at 50.
+Disguise can be a useful tool to allow you to talk to people above your station, or to keep your assorted dalliances and discussions from knowing who else you're talking with.
+Don't forget to take a Disguise Skill Kit as well.</li>
+<li>Optionally: a combat skill at 50.
+Don't understate the ability to spice up a conversation with the inclusion of swordplay.
+As well as being a valuable skill in general survival situations, it is also commonly practiced by the upper crust of many civilisations on the Emerald Plane.
+Alternatively, you may need to use that hatchet you carry around to intimidate someone by licking the filthy blade.
+Or, maybe, you can only argue for yourself to enter the crime lord's den, and a dagger is better than nothing.</li>
+<li>Optionally: The Soothe skill at 50
+This may seem odd, but you can't talk to someone who's panicking.
+And even mild stress can be distracting to some people. Soothe will allow you to take some of that stress away, and make people more calm around you.</li>
+<li>Optionally: The 'Charm' and 'Push' powers.
+Naturally, if you choose to go the spellcrafting route, charm is a valuable power to have, as is Push.
+Discuss further ideas with your GM.</li>
+</ul>
+<p>If your character is good at Socialising:</p>
+<ul>
+<li>at least two Social skills at 70.</li>
+<li>Something to bargain with</li>
+<li>An appropriate class, such as Officer, or Member
+These classes remain important for the same reasons, but remember that you may still burn bridges by relying on them too heavily. </li>
+<li>20 SAV or more</li>
+<li>20 STR or more, if you're going to take 'Big Guy'</li>
+</ul>
+<h2 id="playing-a-socialite"><a class="header" href="#playing-a-socialite">Playing a Socialite</a></h2>
+<p>As a socialite, you become the &quot;face&quot; of the party in the world.
+Your main job will be to talk on behalf of the party, in order to get the best arrangement possible, regardless of situation.</p>
+<p>Over the course of an adventure, the party will come across situations where the only obvious, or agreeable way forwards would be to talk to someone.
+Whether it be because your analysts have come up short on investigations, or your combat characters are unable to overcome their opponents.
+The ability to talk and discuss with intelligent creatures, spirits, and people will inevitably be invaluable.</p>
+<p>Your job as a Socialite is to be available, to listen and talk.
+Sure, a religious person might be able to summon a spirit, but to actually talk to them?
+That will be your job.
+The provisioner might be able to obtain what the party needs, at market value.
+But with you there, bartering and dealing with the market, that value may drop.
+Even the infiltrator might need a distraction, and who better to be loud and vibrant than you?</p>
+<p>This is something of a nebulous description, for a nebulous role.
+As each Social skill is wildly different, actively picking the right one for the right situation is important.
+An angry Orc is unlikely to be physically intimidated by your Halfling, and a Shade Elf probably won't listen to your Minotaur's attempts to persuade them not to take you in as a slave.
+Being a Socialite is often, though not always, considered a &quot;secondary&quot; role, often spread across multiple members of the party.
+Remember, that two heads can be better than one in this kind of situation, and allow your fellow socialite to take the lead where their skills would benefit the party more.
+And… well, remember the Durandal Maxim: a heavily-armoured Drake smouldering at you with a wyrmblade is a very convincing position.</p>
+<blockquote>
+<p><strong>River</strong>: A lot of people like to focus on working your will on people – charming people into your sway, fooling them so thoroughly they don't know whether they're coming or going, or terrorizing them until they're broken.
+But much of the time, I find the best tool is <em>reality</em>.</p>
+<p>Just as frequently as charming, lying, or intimidating, I find the best tactic is to find a situation where everybody wins – or at least everybody gets something they want – and then all you have to do is get them to see the reality of the situation.
+Don't offer them your pleasing affections, a wonderful lie, or a moment's reprieve from your fury; offer them the best outcome they're going to get.</p>
+</blockquote>
+<h2 id="socialites-and-other-characters"><a class="header" href="#socialites-and-other-characters">Socialites and Other Characters</a></h2>
+<p>Socialites are beneficial to provisioners, with their ability to barter, find or create rumours about cheaper prices, or even work together to build up local contacts, and local investments.
+Of course, Provisioners are beneficial to socialites for providing them with monetary leverage, or costumes and bribes in order to get to places they're not supposed to be in.</p>
+<p>Speaking of places they aren't supposed to be: Infiltrators. Socialites can create excellent distractions, or potentially talk infiltrators out of trouble with the authorities.
+There are many tales of socialite characters breaking people out of jail by telling tall tales, pretending to be lawyers, or just fast-talking their way through with a mix of confidence and bluster.
+Though, same might be said of survivalists trying to harvest plants from private gardens.</p>
+<p>Analysts and Socialites will work well together, by virtue of their combined abilities to get information.
+While those ancient tablets may have factual knowledge of how a great spirit was once propeciated, but locals will know the differences from how it is propeciated now.
+That said, rumour can be disruptive and harmful to the analysts' attempts to obtain information.
+Investigation-focused Analysts will be helpful to Socialites, in order to link together seemingly disparate information gleaned by your discussions.</p>
+<p>Provisioners and socialites often share the Barter skill, and can work together to drive prices down or up based off of rumour and innuendo, socialites can also introduce provisioners to new investment opportunities, while provisioners might have the wealth or status to obtain access to high society, or middle-class events that a socialite may lack.</p>
+<p>Combat characters work well as bodyguards, and provided they can keep themselves quiet, can usually be bluffed past guards or kept close enough to react at a moment's notice. As well, being generally larger or more physically intimidating can lend a certain authority to your socialite's words.</p>
+<p>Of course, all of this is added to the fact that other characters will likely have access to languages, or language groups that your socialite might not. Allowing your companions to serve as translators can be very helpful in covering holes in your own abilities.</p>
+<h2 id="combining-socialites-with-other-roles"><a class="header" href="#combining-socialites-with-other-roles">Combining Socialites with Other Roles</a></h2>
+<p>Characters with high protocol are likely to have been involved in some organisation, why not the military?
+Socialites with combat skills can fall into many roles, from a Dragonshire social general, to a travelling swordsman, to a pirate swashbuckler.
+This mix can be hazardous, especially if you are the only one with social skills.
+You will rely heavily on healers in order to keep your wounds mended and keep your social skills functioning at their best.</p>
+<p>Socialites can be effective Provisioners, with barter also keying off of SAV, and being considered a social skill.
+Access to high wealth will be useful, but some kind of craft skill can be taken instead.</p>
+<p>Socialite and Analyst can work well together as a combination, especially in an investigation role.
+Questioning witnesses and making grand accusations in the scheme of a certain southern gentleman.
+Make sure to take high perception in order to spot clues, and high INT or COG to piece the clues together.</p>
+<p>That said, a more typical analyst, in the vein of a social climber who happens to frequent a university.
+They are certain to pick up something just through osmosis, or potentially by actualy finding something that interests them.</p>
+<div class="asside">
+<div class="asside-title">The Durandal Maxim</div>
+<p>Trac narrowed his eyes slowly and steadily from the back end of the room. This 	discussion was going nowhere. The Gnoll's eyes looked slowly up towards the other 	heavy-set canids standing at either side of the room, flanking the Halfling caravineer 	sitting across the table from River. Trac's hand grasped the haft of his shield, shifting 	his weight slightly and causing an echoing, ominous drag to sound out.</p>
+<p>The Caravineer blinked sharply, looking up to see Trac's hulking frame as if for the 	first time. River smirked gently</p>
+<p>&quot;Uh, excuse me?&quot; He said, softly, smiling a hint &quot;I believe we were discussing the 	legal framework regarding your caravans crossing the foxfire meadow&quot; The smaller 	person stated, softly and calmly. Attracting the Caravineer's attention back down 	slowly. There was a new calculus running behind the Caravineer's eyes, now though. 	The mathematics of Trac's presence throwing his profit calculations off ever so slightly.</p>
+<p>Trac grinned softly, no veil worn across his face, baring those big teeth his kind were 	known for. River leaned forwards across the table, pushing the legal document 	towards the Caravineer</p>
+<p>&quot;Yes, of course..&quot; He said, slowly, looking down at the documents pushed in front of 	himself. Glancing back up towards Trac every now and then, visibly shaken. Trac's 	grin remained, though, as he laughed softly to himself. The Durandal Maxim, a large 	person, a large weapon, and simply loom over the others in the room. It didn't 	always work this well, but it often worked.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/building-an-analyst.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/building-an-infiltrator.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/building-an-analyst.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/building-an-infiltrator.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

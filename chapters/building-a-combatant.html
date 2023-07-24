@@ -1,0 +1,348 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Building a Combatant - Renaissance</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../chapters/about-the-game.html">About the Game</a></li><li class="chapter-item expanded affix "><a href="../chapters/from-the-authors.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">The Setting</li><li class="chapter-item expanded "><a href="../chapters/background.html"><strong aria-hidden="true">1.</strong> Background</a></li><li class="chapter-item expanded "><a href="../chapters/the-commonwealth-today.html"><strong aria-hidden="true">2.</strong> The Commonwealth Today</a></li><li class="chapter-item expanded "><a href="../chapters/a-tour-of-the-commonwealth.html"><strong aria-hidden="true">3.</strong> A Tour of the Commonwealth</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/heartland-province.html"><strong aria-hidden="true">3.1.</strong> Heartland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-heartland.html"><strong aria-hidden="true">3.1.1.</strong> Notable in Heartland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/dragonshire-province.html"><strong aria-hidden="true">3.2.</strong> Dragonshire Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-dragonshire.html"><strong aria-hidden="true">3.2.1.</strong> Notable in the Dragonshire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/northland-province.html"><strong aria-hidden="true">3.3.</strong> Northland Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-northland.html"><strong aria-hidden="true">3.3.1.</strong> Notable in Northland Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/westward-province.html"><strong aria-hidden="true">3.4.</strong> Westward Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-westward.html"><strong aria-hidden="true">3.4.1.</strong> Notable in Westward Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/herd-and-pack-province.html"><strong aria-hidden="true">3.5.</strong> Herd-and-Pack Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-herd-and-pack.html"><strong aria-hidden="true">3.5.1.</strong> Notable in Herd-and-Pack</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/haven-province.html"><strong aria-hidden="true">3.6.</strong> Haven Province</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-haven.html"><strong aria-hidden="true">3.6.1.</strong> Notable in Haven Province</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/city-states.html"><strong aria-hidden="true">3.7.</strong> City States</a></li><li class="chapter-item expanded "><a href="../chapters/member-peoples.html"><strong aria-hidden="true">3.8.</strong> Member Peoples</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/organizations.html"><strong aria-hidden="true">4.</strong> Organizations</a></li><li class="chapter-item expanded "><a href="../chapters/other-nations.html"><strong aria-hidden="true">5.</strong> Other Nations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-kingdoms-of-men.html"><strong aria-hidden="true">5.1.</strong> The Kingdoms of Men</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-kingdoms.html"><strong aria-hidden="true">5.1.1.</strong> Notable in the Kingdoms of Men</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-shaded-sea-people.html"><strong aria-hidden="true">5.2.</strong> The Shaded-Sea People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-shaded-sea.html"><strong aria-hidden="true">5.2.1.</strong> Notable in the Shaded Sea</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-raptors-protectorate.html"><strong aria-hidden="true">5.3.</strong> The Raptors Protectorate</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-in-the-protectorate.html"><strong aria-hidden="true">5.3.1.</strong> Notable in the Raptors' Protectorate</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-goblin-empire.html"><strong aria-hidden="true">5.4.</strong> The Goblin Empire</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-gobline-empire.html"><strong aria-hidden="true">5.4.1.</strong> Notable in the Goblin Empire</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/deep-explorer-dwarves.html"><strong aria-hidden="true">5.5.</strong> Deep-Explorer Dwarves</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-deep-explorers.html"><strong aria-hidden="true">5.5.1.</strong> Notable to the Deep Explorers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/foam-and-cloud.html"><strong aria-hidden="true">5.6.</strong> Foam-and-Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-foam-and-cloud.html"><strong aria-hidden="true">5.6.1.</strong> Notable in Foam-and-Cloud</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/mudskipper-federation.html"><strong aria-hidden="true">5.7.</strong> The Mudskipper Federation</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-mudskippers.html"><strong aria-hidden="true">5.7.1.</strong> Notable to the Mudskippers</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/sunrise-people.html"><strong aria-hidden="true">5.8.</strong> The Sunrise People</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/notable-sunrise.html"><strong aria-hidden="true">5.8.1.</strong> Notable to the Sunrise Peoples</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../chapters/the-supernatural.html"><strong aria-hidden="true">6.</strong> The Supernatural</a></li><li class="chapter-item expanded affix "><li class="part-title">The Rules</li><li class="chapter-item expanded "><a href="../chapters/basic-rules.html"><strong aria-hidden="true">7.</strong> Basic Rules</a></li><li class="chapter-item expanded "><a href="../chapters/representing-a-character.html"><strong aria-hidden="true">8.</strong> Representing a Character</a></li><li class="chapter-item expanded "><a href="../chapters/combat.html"><strong aria-hidden="true">9.</strong> Combat</a></li><li class="chapter-item expanded "><a href="../chapters/injury-and-recovery.html"><strong aria-hidden="true">10.</strong> Injury and Recovery</a></li><li class="chapter-item expanded "><a href="../chapters/travel.html"><strong aria-hidden="true">11.</strong> The Boring Part of Adventuring: Travel</a></li><li class="chapter-item expanded "><a href="../chapters/magic.html"><strong aria-hidden="true">12.</strong> Cheating Reality: Representing and Using Magic</a></li><li class="chapter-item expanded "><a href="../chapters/features.html"><strong aria-hidden="true">13.</strong> Features</a></li><li class="chapter-item expanded "><a href="../chapters/wealth-income-and-lifestyles.html"><strong aria-hidden="true">14.</strong> Wealth, Bartering, Income and Lifestyles</a></li><li class="chapter-item expanded "><a href="../chapters/luck.html"><strong aria-hidden="true">15.</strong> Luck</a></li><li class="chapter-item expanded "><a href="../chapters/motivations-and-milestones.html"><strong aria-hidden="true">16.</strong> What Makes your Character Unique: Motivations and Milestones</a></li><li class="chapter-item expanded affix "><li class="part-title">Character Creation and Character Options</li><li class="chapter-item expanded "><a href="../chapters/character-creation-and-advancement.html"><strong aria-hidden="true">17.</strong> Character Creation and Advancement</a></li><li class="chapter-item expanded "><a href="../chapters/races.html"><strong aria-hidden="true">18.</strong> Races</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/common-races.html"><strong aria-hidden="true">18.1.</strong> Common Races</a></li><li class="chapter-item expanded "><a href="../chapters/uncommon-races.html"><strong aria-hidden="true">18.2.</strong> Uncommon Races</a></li><li class="chapter-item expanded "><a href="../chapters/neighboring-races.html"><strong aria-hidden="true">18.3.</strong> Neighboring Races</a></li><li class="chapter-item expanded "><a href="../chapters/exotic-races.html"><strong aria-hidden="true">18.4.</strong> Exotic Races</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/senses-movements-and-special-abilities.html"><strong aria-hidden="true">19.</strong> Innate Abilities: Senses, Movements and Special Abilities</a></li><li class="chapter-item expanded "><a href="../chapters/backgrounds.html"><strong aria-hidden="true">20.</strong> Backgrounds</a></li><li class="chapter-item expanded "><a href="../chapters/skills.html"><strong aria-hidden="true">21.</strong> Skills</a></li><li class="chapter-item expanded "><a href="../chapters/languages.html"><strong aria-hidden="true">22.</strong> Languages</a></li><li class="chapter-item expanded "><a href="../chapters/traits.html"><strong aria-hidden="true">23.</strong> Traits</a></li><li class="chapter-item expanded "><a href="../chapters/powers.html"><strong aria-hidden="true">24.</strong> Powers</a></li><li class="chapter-item expanded "><a href="../chapters/classes.html"><strong aria-hidden="true">25.</strong> Classes</a></li><li class="chapter-item expanded "><a href="../chapters/items.html"><strong aria-hidden="true">26.</strong> Items</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/mundane-items.html"><strong aria-hidden="true">26.1.</strong> Mundane Items</a></li><li class="chapter-item expanded "><a href="../chapters/combat-equipment.html"><strong aria-hidden="true">26.2.</strong> Combat Items</a></li><li class="chapter-item expanded "><a href="../chapters/magic-items.html"><strong aria-hidden="true">26.3.</strong> Magic Items</a></li><li class="chapter-item expanded "><a href="../chapters/alchemical-items.html"><strong aria-hidden="true">26.4.</strong> Alchemical Items</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Guides, References, and Sample Content</li><li class="chapter-item expanded "><a href="../chapters/what-is-an-adventure.html"><strong aria-hidden="true">27.</strong> What Is an Adventure</a></li><li class="chapter-item expanded "><a href="../chapters/the-five-roles.html"><strong aria-hidden="true">28.</strong> The Five Roles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/building-a-combatant.html" class="active"><strong aria-hidden="true">28.1.</strong> Building a Combatant</a></li><li class="chapter-item expanded "><a href="../chapters/building-an-analyst.html"><strong aria-hidden="true">28.2.</strong> Building an Analyst</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-socialite.html"><strong aria-hidden="true">28.3.</strong> Building a Socialite</a></li><li class="chapter-item expanded "><a href="../chapters/building-an-infiltrator.html"><strong aria-hidden="true">28.4.</strong> Building an Infiltrator</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-provisioner.html"><strong aria-hidden="true">28.5.</strong> Building a Provisioner</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-survivalist.html"><strong aria-hidden="true">28.6.</strong> Building a Survivalist</a></li><li class="chapter-item expanded "><a href="../chapters/building-a-healer.html"><strong aria-hidden="true">28.7.</strong> Building a Healer</a></li></ol></li><li class="chapter-item expanded "><a href="../chapters/adventures.html"><strong aria-hidden="true">29.</strong> Adventures</a></li><li class="chapter-item expanded "><a href="../chapters/running-games.html"><strong aria-hidden="true">30.</strong> Running Games</a></li><li class="chapter-item expanded "><a href="../chapters/common-hazards.html"><strong aria-hidden="true">31.</strong> Common Hazards</a></li><li class="chapter-item expanded "><a href="../chapters/monsters-animals-and-npcs.html"><strong aria-hidden="true">32.</strong> Monsters, Animals and NPCs</a></li><li class="chapter-item expanded "><a href="../chapters/secrets.html"><strong aria-hidden="true">33.</strong> The Deep Secrets of the World</a></li><li class="chapter-item expanded "><a href="../chapters/alternate-rules.html"><strong aria-hidden="true">34.</strong> Alternate Rules</a></li><li class="chapter-item expanded "><a href="../chapters/setting-stormswords-rest.html"><strong aria-hidden="true">35.</strong> Sample Setting: Stormsword's Rest</a></li><li class="chapter-item expanded "><a href="../chapters/module-monastery.html"><strong aria-hidden="true">36.</strong> Sample Module: A Crisis in Northland</a></li><li class="chapter-item expanded "><a href="../chapters/module-wendigo.html"><strong aria-hidden="true">37.</strong> Sample Module: The Wendigo</a></li><li class="chapter-item expanded "><a href="../chapters/quick-reference.html"><strong aria-hidden="true">38.</strong> Quick Reference</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Renaissance</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="combatant-winning-or-just-surviving-combat-encounters"><a class="header" href="#combatant-winning-or-just-surviving-combat-encounters">Combatant: winning (or just surviving) combat encounters</a></h1>
+<blockquote>
+<p>Smoothly and quickly, the shifter changed.
+In a few seconds, the structure of her legs and skull changed, like blown-glass flowing; fur billowed out from her as smoke from fire; and large, sickle-like claws descended from her hands.
+She snarled at Chandra ferociously, giving challenge.</p>
+<p>Then the General's bronze fist slammed into her jaw with sharp, audible crack, like a blacksmith shattering a ceramic mold with a sledge; the general had begun his charge before he broke from the cover of the forrest, and had never broken stride.
+The slaver collapsed back like a statue shoved over from the top and lay still on the ground.</p>
+<p>The slaver-camps' other guards sprang into action, bringing spears to bear against him, but it was much too late.
+Even as one guard drove a spear into the General, ripping flesh and scale from one of his ribs, Chandra's allies attacked.
+Aryn fired an arrow from the treeline, striking one square in the chest; Venn charged in behind the general, skewering another guard with her halberd.</p>
+<p>Chandra turned in fury on the guard that had wounded him; he struck a ferocious blow with the pommel of his sword, knocking loose a chunk of the bony plate that protected the guard's head and sprawling the stunned Goblin on the ground.</p>
+</blockquote>
+<p>While Renaissance as a game focuses more on investigation and intrigue than other, similar games, the basics of conflict still arise.
+Combatants are an important element of any adventuring group.
+Moreso in a game where combat is short and brutal, and healing is difficult.
+Whether fighting via magic, with powers and spellcraft, or with steel in hand, a powerful combatant might find themselves in great need.</p>
+<h2 id="your-combatants-concept"><a class="header" href="#your-combatants-concept">Your Combatant's Concept</a></h2>
+<p>Identifying first, HOW you wish to fight is arguably the most important element of designing your Combatant.
+Without character classes, defining someone as a combatant comes down to them having a greater impact on fights.
+As such, we will break down 'Combatant' into four fields in this guide.</p>
+<p>Numbe one, would be the &quot;warrior with a weapon&quot; type.
+Regardless of being armed for ranged combat, or close combat, these individuals work largely the same.
+Taking up a weapon, or multiple weapons, in order to defend their allies and take the fight to their enemies.
+Picture an armoured knight, or agile ranger, an average soldier or mercenary.
+Often, though not always clad in heavy armour, or with a great degree of agility to avoid damage.
+They are arguably the most basic concept of combatant, though can be executed with incredible variety.</p>
+<p>Number two, would be the &quot;Warrior with spells&quot; type.
+Mages, witches, warlocks, sorcerors.
+Any of these can be emulated and worked out with a mixture of powers, the spellcraft skill, and appropriate secondary traits.
+Important to note, though, is that these individuals can still make use of armour as they wish, or wish not to.
+A slightly more complicated concept to develop, but useful and arguably quite powerful.</p>
+<p>Number three, would be the &quot;Warrior with Items&quot; type.
+Throwing potions and grenades around with reckless abandon can be fun, so long as you watch your splash damage.
+Throwing knives and Axes are small enough to be easily concealed, and cheap enough to be effectively disposable. </p>
+<p>Number four, would be the &quot;Warrior with gimmick&quot; type.
+A luchador, moving their enemies around, and tying up foes with grappling.
+A cannoneer with their hand gonne, able to deliver great armour penetration on a single turn, before being reduced to more traditional fighting.
+A minion fighter, with summoned or ever-present pets or soldiers to take the fight to the enemy.
+And beyond these examples, even.
+Developing a gimmick can be fun, and powerful, though can be difficult to work the kinks out, and may require some discussion with the GM.</p>
+<h2 id="building-a-combatant"><a class="header" href="#building-a-combatant">Building a Combatant</a></h2>
+<h3 id="if-your-character-is-great-at-combat"><a class="header" href="#if-your-character-is-great-at-combat">If your character is great at Combat:</a></h3>
+<ul>
+<li>For an armed warrior:
+<ul>
+<li>A weapon, or multiple weapons, and the appropriate skill, or skills at at least 80.
+<ul>
+<li>For example: A longsword and one or two-handed weapons, a bow and ranged weapons, war gloves and unarmed.</li>
+</ul>
+</li>
+<li>Powers appropriate to your chosen weapons. Such as Shieldwall, Centre, or Parry with the Sheathe</li>
+</ul>
+</li>
+<li>For a Spellslinger Warrior:
+<ul>
+<li>Spellcraft of at least 50, higher would be better due to Spellcraft's ability to develop spells &quot;on the fly&quot;, however.
+Granting you a higher chance at success for developing a larger spell or effect.</li>
+<li>Powers relevant to your chosen character's concept.
+The fireball power is an obvious choice, along with Intense Fire.
+Though, discuss with your GM about other options available to you, such as altering the element of a power, or designing new powers.</li>
+<li>Appropriate skills for the actual use of your powers.
+For example, Fireball requires a ranged weapon attack in order to use it at range, or an unarmed combat roll to slap someone with it.
+An elemental sword ability would need one-handed weapons.
+Basically; If you want to sling spells at range, ranged weapons.
+If you want to use spells as melee strikes, unarmed or one- or two- handed weapons.</li>
+</ul>
+</li>
+<li>For an Item Warrior:
+<ul>
+<li>Ranged weapons at least at 80.
+Possibly with a backup melee weapons skill if needed.
+OR, if your items are melee weapons, then the appropriate melee weapon skill.</li>
+<li>An appropriate Craft Skill to keep you in the items you need.
+Craft; Alchemy or Chemistry, are effectively the same skill, and allow you to Craft splash potions, like Tar and Scour during downtime. Alternatively, Craft; Explosives for grenades and other demolitions tools, or Craft: Blacksmith for throwing knives and axes.</li>
+<li>Spellcraft would allow you to develop single-use spells that would be prepared beforehand, and may be used to enchant items like stones or rocks with those spells.</li>
+</ul>
+</li>
+<li>For a Gimmick Warrior:
+<ul>
+<li>The appropriate weapon skill at least at 80 for your gimmick of choice.
+For example:
+<ul>
+<li>A wrestler, chosing to tie down enemies with grappling or move them outside of their turn order, would take Unarmed combat.</li>
+<li>A minion fighter would take social, command-related skills, Animal handling for war animals, or protocol for humans, though should also take a weapon skill at least at 50.</li>
+<li>A gun user would take ranged weapons, but should take a backup melee weapon skill as well.</li>
+<li>A fighter with an exotic, or unique weapon, like a Gnollish fighting shield, or a bladed hula hoop, or fighting fans should take Exotic Weapons</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>In all cases:
+<ul>
+<li>Appropriate powers, traits, and classes for your concept.
+For example, a lightweight skirmisher with little armour and high fray will probably not take Shieldwall, and a gruff mercenary who works alone will probably not take Rallying Cry.
+However, an Attendant of the Mourner, with a combat bent will likely take Protection, and a swashbuckling pirate is likely to take the Duelist class.
+Animal Handling will be a useful skill for maintaining and using a mount in combat.
+As well as using an animal for travel, or storage.</li>
+<li>You should take Heavy Armour, and a decent Fray skill.
+Of course, higher will be better, but at least 60 Fray and at least 8 AP.</li>
+<li>An appropriate craft skill for the maintenance and upkeep of your weapons.
+Craft; Armourer, Craft; Blacksmith. At least at 50.</li>
+<li>A profession skill at least at 50. Profession: Soldier or Profession: Mercenary are the most obvious options.
+These will inform your character HOW to use their skills in order to maintain their lifestyle between arcs.</li>
+<li>A high perception will be useful, but not essential. Especially for those who wish to fight from ambush, or identify enemies hidden.</li>
+<li>Appropriate knowledge skills, such as KNowledge Heraldry, Knowledge: Siege engines, or even things like Knowledge: Ballistics or Knowledge: Animal care can be useful to certain types of Combatants.</li>
+</ul>
+</li>
+</ul>
+<h2 id="combining-combat-with-other-roles"><a class="header" href="#combining-combat-with-other-roles">Combining Combat with Other Roles</a></h2>
+<p>Combatants as pure combat might seem powerful at first glance, and effective in their own way, though Combat is suitable for combination with almost any other of the five archetypes, depending on the concept behind your combatant.</p>
+<p>Analyst might seem too 'nerdy' for most combatants, but there are many examples of warrior-philosophers in the world. Many pulp tales of grand adventure have 'adventure scientists' who are effectively this, able to fight off the dangers of the world, while scientifically cataloguing everything around them. Not to mention the inherent Geometric knowledge required for siege engines, the metalurgical knoweldge needed for blacksmithing and armourers, or the animal care know-how needed for cavalry fighters.</p>
+<p>Socialites are an obvious combination with Combatants, after all, a mercenary has to learn how to sell their own services. Or a commanding officer to control and govern the soldiers under their care. This travels in th eother direction, too. A flashy swashbuckler or entertaining acrobat would be nothing without their abilities to entertain and bring a crowd through their stories.</p>
+<p>Infiltrators might not necessarily mesh well with heavy armour, but being able to sneak about, even socially through disguise, can be useful to a combatant, allowing them to be ready at a moment's notice, right there for the party whenever they're needed. It's notably a weakness of some of the example characters that they must be hidden away and kept quiet, after all.</p>
+<p>Provisioner can be a useful secondary role for a combatant, and vice-versa. After all, swordsmanship is a sign of nobility and wealth in much of the emerald isle. Alternatively, a provisioner's tools could be pressed into service as weapons themselves.</p>
+<p>Survivalists need to know how to survive, as do soliders on the road, or mercenaries down on their luck. Foraging and finding shelter are universal skills for many combatants, and thus, it is an effective mix. Healers, too, with commonwealth combat medics being in long supply. The knowledge of anatomy required for healing is also useful in ending a life, and knowing where or how to strike.</p>
+<h2 id="playing-a-combatant"><a class="header" href="#playing-a-combatant">Playing a Combatant</a></h2>
+<p>Being a combatant can seem on the surface to be incredibly simple. Simply run up to your opponent, hit them, and then be hit. There is more depth to it than that, however. For such a small section of the game's intended scope, combat in Renaissance can be of the utmost importance, changing the events of the game on a few moments of action and only a few rolls of the dice.</p>
+<p>It is important to have a grasp on the combat skills and what they do, what they allow you to do. For example, Renaissance has no 'Power attack' power, instead there is a list of maneuvers that anybody with an appropriate weapon skill can just do. 'Strike Gap' is especially affective against armoured opponents, for example.</p>
+<p>Ranged weapons may have specialist ammunition, instead of maneuvers, but standard ammunition is not counted. This encourages things like trying a multi-shot attack, or using arrows much like ranged tools.</p>
+<p>Subduing an opponent can be a vital ingredient to success. And can be accomplished through the use of any melee skill, so long as you have an appropriate weapon. Of course, certain weapons are more useful for this task.</p>
+<p>There is also no delineation between 'finesse' and 'might' weapons. Mechanically, the definition makes no sense with how skills and stats are designed, and fictionally, within the world itself, the concept of a 'finesse' or a 'might' weapon also makes little sense. A greatsword might be a heavy slab of orcish steel, or it could be a light and well-balanced zweihandler, either way, the stats will be largely the same.</p>
+<h2 id="surviving"><a class="header" href="#surviving">Surviving</a></h2>
+<p>The basic attack roll can be countered in three ways; Either parry, Fray, or through Armour Value.
+Parry and Fray are reactions, and can only be performed once in a round.
+Fray will defend against everything, from explosions (though perhaps only halving damage), to arrows, to melee strikes.
+Even firearms can be countered with a successful Fray roll.</p>
+<p>Parry, however, doesn't require any additional skill investment, using your weapon skill. Though, it is only useful against opponent melee attacks against you. Striking away an opponent's weapon with a shield or weapon seems simple enough, though you cna be overwhelmed if you rely purely upon it.</p>
+<p>Finally, through Armour Value. Which soaks the damage of a succesful weapon attack, minus the weapon's AP value. Not taking a reaction, this is likely to be a primary source of defence for fights against multiple opponents.</p>
+<p>There are ways to impose greater difficulties on opponents attempting to attack you. Subduing an opponent will not allow them to fight, so long as they are held by a character or otherwise tied up. Hiding behiind cover will impose difficulties on ranged attacks, and environmental issues like darkness or smoke can provide benefits to your defence.</p>
+<p>Ultimately, though, you WILL eventually take damage. Even the example character of Chandra Durandal has had to be stitched up by healers, despite his immense durability and armour value. Nobody is immortal in Renaissance, and while healing potions will help during downtime, healing itself is Difficult.</p>
+<h2 id="make-it-yours"><a class="header" href="#make-it-yours">Make It Yours!</a></h2>
+<p>Worth noting is that <em>Renaissance</em> is not as prescriptivist as some other systems.
+This is expressed partly in the <em>Stunt</em> and <em>Maneuver</em> rules, which are designed to allow you to attempt stunts, maneuvers, and other tricks appropriate to your character in a light-weight and freeform way.
+Don't be afraid to use them!</p>
+<p>Is your character the type to flip tables over for cover – or flip over a table to avoid an attack?
+Are they the type to fight dirty, gouging eyes and punching throats?
+Give it a try!</p>
+<p>Worth noting, though, is that this is the kind of thing where a little can go a long way.
+If the other charactesr start to feel that there's an elaborate &quot;case law&quot; of rules and procedures that only exist in the context of your character, you've probably overdone it; you've also overdone it if your turns start to take conspiciously longer than anyone else's.</p>
+<blockquote>
+<p><em>GM</em>: Well, Lohrs is having a bad day.
+The commotion has paniced one of the oxen, and it starts to barrel through the vinyard, charging Lohrs.
+How does Lohrs defend?</p>
+<p><em>Lohrs player</em>: Hmm.
+Remember that time you let me hip-toss a Leaper when it charged me?
+I'm guessing that's not going to work here.</p>
+<p><em>GM</em>: Yeah, not so much, although I won't stop you from trying!</p>
+<p><em>Lohrs player</em>: Yeah, no thanks.
+I don't think I'm parrying or blocking it either.
+I haven't spent my reaction, I don't suppose I could roll away?</p>
+<p><em>GM</em>: Sure, call it a reaction and a maneuver.
+Defend with your Athletics, and if you suceed, you'll move up to your base rate and take no damage.</p>
+<p><em>Lohrs player</em>: And the down-side?</p>
+<p><em>GM</em>: If you fail, you get trampled.</p>
+<p><em>Lohrs player</em>: Wonderful.
+If Lohrs gets killed by an ox…</p>
+</blockquote>
+<h2 id="combatants-and-other-characters"><a class="header" href="#combatants-and-other-characters">Combatants and Other Characters</a></h2>
+<p>Healers are vital to your continued survival as a combatant. Especially if you work on the front line of a fight, you will need healing. Either mental healing through Soothe, or physical healing through magic or medical skills. You will eventually be hurt, and wounded, and need those wounds to be stitched shut. Not to mention the relative violence of up-close combat, and the need to be talked down through stress.</p>
+<p>Analysts may be useful to point out weaknesses in defences, or defenders. Also, they will be useful as a way to get you into places by serving as their 'bodyguard' or other kind of 'gofer'. However, many analysts may escew violence themselves, and require protection.</p>
+<p>Socialites will be useful on intrigue and investigation-focused missions and arcs. Especially if you lack social skills yourself, they will be able to smooth over issues with your presence, or talk you out of trouble. Of course, they may need you to interfere, should they get tongue-tied or otherwise tangled up in a gordian knot of lies.</p>
+<p>Provisioners and infiltrators are likely to require protection from time to time. Especially Provisioners who focus on wealth to provide for the party, as such wealth may be noticed by less-than-savoury types in the area. Infiltrators may need distractions, or defenders drawn away from a site that they're seeking to infiltrate.</p>
+<div class="asside">
+<div class="asside-title">A Busy Weekend for General Chandra</div>
+<p>Chandra hauled himself up to the soldier standing watch at the fort's gate.
+&quot;I am General Chandra,&quot; he said — and it was by no means certain that the guard would recognize and believe him, covered in bleeding wounds, bandages and splints as he was, out of uniform, and far from his home.
+&quot;I and my companions liberated a slave-camp three demarc over the border; they are encamped five <em>demarc</em> southeast from here, on the other side of the river, waiting for help to ferry the slaves across.
+You are to organize a patrol, secure boats, and see them safely here.&quot;</p>
+<p>The soldier considered him for a moment, unsure; then she saluted and hurried 	off into the fort.</p>
+<p>Chandra looked at the other soldier; he saluted as well.
+The general then began to stagger to the infirmary, where he suspected he would spend at least the next several days.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/the-five-roles.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../chapters/building-an-analyst.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/the-five-roles.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../chapters/building-an-analyst.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
