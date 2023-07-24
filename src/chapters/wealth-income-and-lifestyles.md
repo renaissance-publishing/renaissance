@@ -76,8 +76,6 @@ These rules are summarized in the table below:
 |
 |Another consequence of this design is that we *don't* measure character power or advancement in magical items and wealth.
 |That might be less evident here — that's why we've made minimal provision for *changing* your wealth level — but it has more profound impact elsewhere.
-|
-
 
 ## Bartering
 
@@ -160,14 +158,10 @@ This doesn't mean that you can use 20 ranks in Profession: Farmer to refill a Le
 [[playerguidance]]
 |
 |If you want to be able to use your skills to *work for income*, it's a good idea to talk about that with your GM *during character creation*, so that you'll know if your skill selection is going to work for that.
-|
-
 
 [[gmguidance]]
 |
 |While you *can* restrict a player from using an inappropriate skill to work for income, we encourage you to be lenient; we intend for players to be able to recharge their wealth dots during down-time, and we chose not to build "hard" requirements into the system.
-|
-
 
 ### Investments
 
