@@ -2,74 +2,46 @@
 
 ## Types of Skill
 
-  - Many skills describe a unique task, like Riding or Stealth, describe
-    some discrete skill that you either have some degree of experience
-    in or you do not.
-    
-      - For these skills, you simply purchase ranks for them (or get
-        them from your background, or possibly from some other source).
-      - Your target number is then your ranks in the skill, plus your
-        score in the linked aptitude, plus any modifiers that apply (as
-        in the Tests section).
-      - Stealth and Perception are examples of these kinds of skills.
+Most skills, like Riding or Stealth, are fairly "atomic"; they describe some set of things that your character either does or does not knows how to do.
+These skills use the normal rules for purchasing and using skills.
 
-  - Sometimes, a task can be broken into fields. The process of
-    mastering one field is similar to the process of mastering another,
-    but the specific things that you learn to do are different.
-    
-      - For example, blacksmiths and cobblers have two very different
-        skill-sets, but both are *professions*.
-      - In these cases, we use *field skills*.
-      - You can’t take ranks in a field skill directly; rather, you have
-        to also pick a *field*. The combination of the field skill and a
-        specific field produces a single skill. For example, you can’t
-        take ranks in *Art*, but you can take ranks in *Art: Sculpture*.
-      - You can take the same field skill more than once, as long as you
-        pick a different field each time. For example, you can take
-        ranks in *Art: Painting* and *Art: Sculpture*, and you would
-        treat the two as two entirely separate skills in every way.
-      - Each field skill will include a list of sample fields. You don’t
-        have to pick one of the samples, but if you don’t, you should
-        get your GM’s permission. You should also make sure that you and
-        your GM both agree on when your field skill applies and when it
-        doesn’t. And, obviously, your field shouldn’t be much broader or
-        much narrower than the samples are.
-      - You can specialize in a field skill the same way you could a
-        normal skill. For example, you could have the *Art: Painting
-        \[Landscapes\]* skill.
+Some skills, like the Art skill, represent several related but distinct skills.
+Many forms of art are distinct: being a master sculptor doesn't make you a master chef as well.
+However, their *mechanical functions* are similar enough that it would not be practical to treat Sculptor and Painter as completely separate skills with distinct rules.
+In these cases, we use *field skills*.
 
-  - Sometimes, the same set of skills can apply to several different
-    sup-disciplines, with only slight modifications; an athlete might be
-    able to learn a new sport fairly easily, for example, or an
-    experienced sword-fighter might be able to use a mace ably without
-    ever having trained with it before.
-    
-      - In these cases, we use *Proficiency Skills*.
-      - Each proficiency skill that you have ranks in will have an
-        associated list of *proficiencies*.
-      - When you use a proficiency skill, see if you have a proficiency
-        appropriate to the task: if you do, roll the proficiency skill
-        as normal; if you don’t, roll your proficiency skill at a -20
-        penalty.
-      - For example, suppose you have 40 ranks in the Athletics skill,
-        and have proficiencies in Acrobatics, Climbing and Freerunning.
-        If you want to vault over a low fence and roll to keep your
-        momentum, then you would roll you full Athletics skill as
-        normal, since your proficiency in Freerunning applies. However,
-        if you need to swim across a swiftly-flowing river, you would
-        take a -20 penalty, because you don’t have the Swimming
-        proficiency.
-      - Somewhat like field skills, each proficiency skill will list
-        sample proficiencies. When you select a proficiency, you don’t
-        have to pick one of the samples, but you should get your GM’s
-        permission to use one that you make up yourself.
-      - You can specialize in a Proficiency Skill; normally, you would
-        do this by picking a particular proficiency to specialize in.
-      - Sometimes, no proficiency is required; in these cases, simply
-        roll the check as normal, with no penalty.
+### Field Skills
 
-  - See *character creation* for rules on acquiring ranks in skills,
-    specializations, and proficiencies.
+A field skill requires you to pick a *field* – like Sculptor or Chef for the Art skill.
+Each combination of a *field skill* and a *field* is treated as a completely separate skill – for example, Art: Sculptor and Art: Chef are completely distinct, atomic skills.
+This means that you can't put ranks in Art directly, or roll an Art check; instead, you purchase Art: Chef, and roll Art: Chef checks.
+Of course, since Art: Chef and Art: Sculptor are distinct skills, you can put ranks in both; many characters often do this, since artists often have skill in more than one art form (and academics often have skill in more than one field of study, and so on).
+
+Each field skill will include a list of sample fields.
+You don’t have to pick one of the samples, but if you don’t, you should get your GM’s permission.
+It's also a good idea to make sure that you and your GM agree on what your chosen field covers, and what it doesn't.
+And, obviously, your field shouldn’t be much broader or much narrower than the samples are.
+
+You can specialize in a field skill the same way you could a normal skill.
+For example, you could take the *Art* skill, pick the *Painting* field, and specialize in *Landscapes*.
+That would be denoted as *Art: Painting \[Landscapes\]*.
+
+### Proficiency Skills
+
+Sometimes, the same set of skills can apply to several different sup-disciplines, with only slight modifications; an athlete might be able to learn a new sport fairly easily, for example, or an experienced sword-fighter might be able to use a mace ably without ever having trained with it before.
+In these cases, we use *Proficiency Skills*.
+
+Each proficiency skill that you have ranks in will have an associated list of *proficiencies*.
+When you use a proficiency skill, see if you have a proficiency appropriate to the task: if you do, roll the proficiency skill as normal; if you don’t, *downgrade* the result if you succeed.
+
+Sometimes, no proficiency is required; in these cases, simply roll the check as normal, with no penalty.
+
+Somewhat like field skills, each proficiency skill will list sample proficiencies.
+When you select a proficiency, you don’t have to pick one of the samples, but you should get your GM’s permission to use one that you come up with yourself.
+
+You can specialize in a Proficiency Skill; normally, you would do this by picking a particular proficiency to specialize in.
+
+See *character creation* for rules on acquiring ranks in skills, specializations, and proficiencies.
 
 ## Skill List
 
@@ -97,7 +69,7 @@
   - Art (INT, Field Skill)
     
       - Active, Knowledge
-      - Sample Fields: Literature, Painting, Sculpture, Theater
+      - Sample Fields: Culinary, Literature, Music, Painting, Poetry, Sculpture, Theater
       - Specializations: by field
       - River is pretending to be a minstrel, so he decides to spend some time **playing his flute in a bar** for money; this requires an *Art: Music* check.
       - The adventure taps out River's finances, so he finds himself in the embarrassing situation of needing money: he makes a bargain with a tavern owner, a day spent playing for a day's lodging.  This doesn't require a check an *Art: Music* check, since he doesn't need to play particularly stirringly to satisfy the tavern owner; it might require a Protocol check to talk the bartender into accepting the deal, or a Profession: Minstrel check to determine just how much River makes.
