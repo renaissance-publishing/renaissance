@@ -416,33 +416,52 @@ If the weapon you are using in your off-hand does not have the *Off-Hand* tag, y
 ## Resistance and Vulnerability
 
 Some creature, objects or armors have special **Resistances** or **Vulnerabilities**.
-The Resistance or Vulnerability will name the *Tags* to which they apply, and what affect the resistance or vulnerability has; any attack or effect that matches the *tag* will then be modified as specified.
-For example, "Resistance: Fire (DV÷2)" would mean that any damage done with an attack (or effect) with the *Fire* tag is halved; "Vulnerability: Cold (DV+3)" would mean that attacks with the *Cold* tag deal an extra 3 DV.
-
-Of course, resistances and vulnerabilities can do things other than modify DV.
-A spirit of snow and frost might have *Vulnerability: Fire (Melts)", for example.
-Likewise, a creature that's particularly resistant to psychic manipulation might have "Resistance: Sleights (+WIL to checks to resist)".
-
-Sometimes a *Resistance* or *Vulnerability* might say to modify a property that an attack or effect doesn't *have*.
-For example, "Resistance: Fire (DV÷2)" would not effect an attack with the *Fire* tag if that attack didn't actually deal *damage*.
-Normally, in this case, that part of the *Resistance* or *Vulnerability* simply doesn't apply; you can't half the DV of an attack that doesn't have a DV, after all, so you would just ignore that effect.
-
-In special circumstances, a GM might decide that a resistance or vulnerability has some other effect.
-If a creature has "Resistance: Fire (Immune)", a GM might declare that a power that uses fire to *frighten* its target would not affect that creature.
-
-[[designnote]]
-|We need a Resistance and Vulnerability system that's light-weight and unobtrusive when it isn't needed, but (ideally) that's flexible enough to represent a lot of different effects and results — not just changing damage.
-|
-|We're not there yet, but we're getting closer.
-
-## Resistance and Vulnerability 2
-
-Some creature, objects or armors have special **Resistances** or **Vulnerabilities**.
 The Resistance or Vulnerability will name the *Tags* to which they apply; any attack or effect with a matching tag will be subject to the Resistance or Vulnerability.
-They may also have a *level*; assume the resistance or vulnerability is level 1 if it is not specified.
-For example, "Resistance: Fire" would mean that a character has 1 level of resistance against attacks with the fire tag; "Vulnerability: Ice 2" would mean that the creature has two points of vulnerability to attacks with the ice tag.
+(At the GM's discretion, some effects may be subject to Resistance even if they do not have a matching tag.
+For example, we have not listed the damage or tags for a candle; nevertheless, if a player with Resistance: Fire places their hand in the flame of a candle, most GMs would still allow the resistance to apply.)
 
+Resistances have a *level*, usually specified after the tags to which the resistance applies; for example, "Resistance: Ice 2" would mean that character has two levels of resistance to attacks or effects with the Ice tag.
+(If no level is given, assume the resistance or vulnerability is level 1.)
 
+When a character is subject to an attack or effect that they are *resistant* to, they gain one *point* of resistance for each applicable *level* of resistance they have.
+Then, the player (if a player character) or the GM (if a non-player character) may make selections from the following table, for the listed cost in *resistance points*:
+
+| Cost | Effect |
+| ---- | ------ |
+| 1    | Reduce damage by half |
+| 1    | Reduce duration by half |
+| 1    | +30 to one related check |
+| 1    | Receive any benefit you could spend a luck for on one related check |
+
+Similarly, when a character is subject to an attack or effect to which they are *vulnerable*, then the controller of the *effect* makes one choice from the following table:
+
+| Cost | Effect |
+| ---- | ------ |
+| 1    | Increase damage by half |
+| 1    | Increase duration by half |
+| 1    | -30 to one related check |
+
+Note that not every bonus (or malus) will apply to every attack or effect; in general, only effects that could apply should be effected.
+(For example, a player could not choose to halve the duration of an effect that does not *have* a duration.)
+
+Additionally, the above lists are not exhaustive; players and GMs should feel free to suggest other Resistance and Vulnerability effects.
+
+### Multiple Resistances and Vulnerabilities
+
+If characters have multiple resistances and vulnerabilities and attacks have multiple tags, things can get complicated.
+To keep things simple, we recommend the following procedure:
+
+- first, add up the *resistance points* from all the applicable resistances;
+- then, add up all the *vulnerability points* from all the applicable vulnerabilities;
+- then, subtract whichever is *lesser* from whichever is *great*;
+- finally, spend the remaining points using the normal procedure.
+
+For example, suppose an attack has the *fire*, *caustic*, and *bladed* tags, and a character has *Resistance: Fire 2*, *Resistance: Caustic*, *Vulnerability: Bladed 2*, and *Vulnerability: Cold*.
+
+- First, add up all the resistances: both fire and caustic apply, so they have 3 resistance points.
+- Second, add up all the vulnerabilities: only Vulnerability: Bladed applies, so they have 2 vulnerability points.
+- Third, subtract the greater from the lesser: 3 resistance points minus 2 vulnerability points leaves us with 1 resistance point.
+- Fourth, spend the remaining points as normal: the controlling player now has one resistance point to spend.
 
 ## Reactions
 
@@ -509,7 +528,7 @@ Characters gain AV÷3 bonus damage to unarmed attacks, for the highest AV among 
 Some characters have natural weapons, like claws, fangs, or a spiked tail.
 
 Attacks with natural weapons have the *Natural Weapon* tag (and don’t have the *Unarmed Attack* tag).
-Natural weapons don't use the base damage for an unarmed attack; instead, they will list their own damage an AP (like an artificial weapon does).
+Natural weapons don't use the base damage for an unarmed attack; instead, they will list their own damage and AP (like an artificial weapon does).
 
 A character with a natural weapon is generally treated like an armed character; they threaten characters next to them, and can attack and defend against armed and armored characters.
 A character using a natural weapon takes only a -10 penalty when defending against an armed character.
