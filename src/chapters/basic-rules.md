@@ -89,21 +89,22 @@ Sometimes, you’ll be able to *upgrade* (or required to *downgrade*) a given ch
 
 When you **upgrade**, your results are improved:
 
-- a critical failure or exceptional failure becomes a normal failure;
+- a critical failure or exceptional failure becomes a basic failure;
 - a normal success becomes an exceptional success; and
 - an exceptional success becomes a critical success.
 
 When you **downgrade**, your results are degraded:
 
-- a critical success becomes an exceptional success, and an exceptional success becomes a normal success;
-- a critical or exceptional success becomes a normal success; and
-- a normal failure becomes an exceptional failure, and an exceptional failure becomes a critical failure.
+- a critical or exceptional success becomes a basic success;
+- a normal failure becomes an exceptional failure;
+- and an exceptional failure becomes a critical failure.
 
-Note that, when upgrading, a normal failure does not become a normal success, and when downgrading, a normal success does not become a normal failure — that is, when upgrading and downgrading, you can't turn a failure into a success, or vise-versa.
+Note that basic successes and basic failures don't get "flipped" when you downgrad or upgrade, respectively – downgrading can't turn a success into a failure, and upgrading can't turn a failure into a success.
 That would be a little too powerful\!
+
 Also, your MoS and MoF don’t actually change, so MoS- and MoF-dependent effects aren’t affected by upgrading and downgrading.
 
-Upgrading and Downgrading are an exception to the "everything stacks" general rule: you can’t upgrade or downgrade the result of any one check more than once.
+Finally, upgrading and downgrading are an exception to the "everything stacks" general rule, in that you can't upgrade or downgrade the same result more than once.
 
 ### Skill Checks
 
